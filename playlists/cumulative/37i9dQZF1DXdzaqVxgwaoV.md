@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-309 songs - 18 hr 52 min
+310 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Cuerpo a Cuerpo](https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR) | [Grupo Cariaco](https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip) | [Bailables del Año \(Vol\. 19\)](https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT) | 3:46 | 2024-09-01 |  |
 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 | 2023-11-09 | 2024-04-19 |
 | [Cumbia del Amor](https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 3:02 | 2023-11-09 | 2024-04-19 |
+| [Cumbia del Caribe](https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ) | [Edmundo Arias](https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [La Mejor Música de Diciembre \(Vol\. 3\)](https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg) | 3:14 | 2024-11-01 |  |
 | [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 | 2023-12-20 | 2024-07-15 |
 | [Dame Tu Mujer José](https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:51 | 2024-09-01 |  |
 | [Daniela](https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Musical de Rodolfo Con los Hispanos: 40 Éxitos Inolvidables](https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y) | 3:18 | 2023-12-20 |  |
@@ -268,7 +269,7 @@
 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 | 2023-02-03 | 2024-09-02 |
 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 | 2023-02-03 | 2024-09-02 |
 | [Sin Alma y Sin Corazón](https://open.spotify.com/track/1baGRozT3rhoMwckCgwdU1) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [Regresaron en Grande](https://open.spotify.com/album/4Y67gVM4tekV1B70jkRTxa) | 3:26 | 2024-09-01 | 2024-10-18 |
-| [Sin Rencores](https://open.spotify.com/track/1noWzwzuuWRClbaOX8Rbx7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:31 | 2023-12-20 |  |
+| [Sin Rencores](https://open.spotify.com/track/1noWzwzuuWRClbaOX8Rbx7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:31 | 2023-12-20 | 2024-12-06 |
 | [Sirvan Despacio](https://open.spotify.com/track/55WqDuGkdUxrZCxitWpRei) | [El Gato Negro](https://open.spotify.com/artist/37WhXkqoj8aJT0GFsxRvoq) | [El Gato Negro](https://open.spotify.com/album/3vK3JVaFpkgBxhAg6WPnMY) | 3:40 | 2023-02-03 | 2024-09-02 |
 | [Sobre las Olas](https://open.spotify.com/track/23jhtHHCIv6TrxLTCjqt2h) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [16 Grandes Éxitos](https://open.spotify.com/album/02egYwkuEaZuIRL8OsdALR) | 3:19 | 2024-09-01 | 2024-10-18 |
 | [Sobre las Olas](https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:24 | 2023-11-09 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Loose Lips",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Wait of the World",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 208052,
       "name": "\"good guy\"",
       "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
+    {
+      "album": {
+        "name": "+Matter",
+        "url": "https://open.spotify.com/album/4nLDWr5orZvPtYwF0yrstO"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232964,
+      "name": "+Matter",
+      "url": "https://open.spotify.com/track/42s0TTrRssh8ztVmOM2Wya"
     },
     {
       "album": {
@@ -1891,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Fractured",
+        "url": "https://open.spotify.com/album/6mHHYaYqTlGamBa4xrGxOH"
+      },
+      "artists": [
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Fractured",
+      "url": "https://open.spotify.com/track/5vVmVvGSIJrNKw7qHtJR3V"
+    },
+    {
+      "album": {
         "name": "RAT WARS ULTRA EDITION",
         "url": "https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS"
       },
@@ -2086,7 +2122,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 139571,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/595wNiuyUoaBsGY4lIm7WI"
@@ -2591,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "I COME ALIVE",
+        "url": "https://open.spotify.com/album/4LpPxp3nAPuOBR2s4oFi1S"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264611,
+      "name": "I COME ALIVE",
+      "url": "https://open.spotify.com/track/15INkb1H6jpZgMnpa5flHf"
+    },
+    {
+      "album": {
         "name": "Albuquerque",
         "url": "https://open.spotify.com/album/5NP4LWGqs1vftO4hGMkHjc"
       },
@@ -2815,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/7rQvGYz8ELKyOcXKHgVI4i"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185181,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/5NtThxsLTFb6F6GC5jD3gA"
+    },
+    {
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -2830,7 +2902,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
@@ -3430,7 +3502,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 221386,
       "name": "My Favorite Waste of Time",
       "url": "https://open.spotify.com/track/0vQIi7zx1kdXzcWyD7U0DX"
@@ -4002,7 +4074,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 265188,
       "name": "Pitch Black",
       "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
@@ -4634,7 +4706,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 212929,
       "name": "Something To Do",
       "url": "https://open.spotify.com/track/1R4WmMTZxs7BcuHmHsbqu5"
@@ -4996,7 +5068,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 284563,
       "name": "The Downfall",
       "url": "https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5"

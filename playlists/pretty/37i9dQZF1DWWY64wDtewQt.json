@@ -1,29 +1,13 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9259719,
+  "num_followers": 9262197,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ChEwAAAACZdHPMP2cZNN34xOEJUgLi",
+  "snapshot_id": "Z1HrhQAAAAB6ansMknB1YVBwxitl3L19",
   "tracks": [
-    {
-      "added_at": "2024-07-05 13:50:01",
-      "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
-      },
-      "artists": [
-        {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
-        }
-      ],
-      "duration_ms": 149522,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
-    },
     {
       "added_at": "2024-10-04 13:19:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
+    },
+    {
+      "added_at": "2024-07-05 13:50:01",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2024-03-29 15:57:27",
@@ -253,6 +253,26 @@
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
+    },
+    {
       "added_at": "2024-10-25 15:19:02",
       "album": {
         "name": "UH VEI VEI",
@@ -303,6 +323,22 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Not My Problem Funk",
+        "url": "https://open.spotify.com/album/1CrfoyAt2lhtZYI2STakvP"
+      },
+      "artists": [
+        {
+          "name": "DJZRX",
+          "url": "https://open.spotify.com/artist/5XwtmTsYaeISuSubhSceo2"
+        }
+      ],
+      "duration_ms": 88629,
+      "name": "Not My Problem Funk",
+      "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
     },
     {
       "added_at": "2023-10-20 10:30:53",
@@ -387,6 +423,38 @@
       "duration_ms": 132922,
       "name": "Automotivo da Turbulencia",
       "url": "https://open.spotify.com/track/2sTYP8L0PNm3CtgKsj1gOF"
+    },
+    {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "NEXT!",
+        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
+      },
+      "artists": [
+        {
+          "name": "NCTS",
+          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
+        }
+      ],
+      "duration_ms": 99692,
+      "name": "NEXT!",
+      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
+    },
+    {
+      "added_at": "2024-10-25 14:00:00",
+      "album": {
+        "name": "hypnotic",
+        "url": "https://open.spotify.com/album/1dNr9lYDxO0pyG6poLIVWA"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 120796,
+      "name": "hypnotic - super slowed",
+      "url": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
     },
     {
       "added_at": "2024-07-19 16:15:00",
@@ -559,22 +627,6 @@
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "NEXT!",
-        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
-      },
-      "artists": [
-        {
-          "name": "NCTS",
-          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "NEXT!",
-      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
     },
     {
       "added_at": "2022-04-13 07:53:17",
@@ -781,58 +833,6 @@
       "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Not My Problem Funk",
-        "url": "https://open.spotify.com/album/1CrfoyAt2lhtZYI2STakvP"
-      },
-      "artists": [
-        {
-          "name": "DJZRX",
-          "url": "https://open.spotify.com/artist/5XwtmTsYaeISuSubhSceo2"
-        }
-      ],
-      "duration_ms": 88629,
-      "name": "Not My Problem Funk",
-      "url": "https://open.spotify.com/track/3Vn1b7EolQzTqoJCCEnS3Q"
-    },
-    {
-      "added_at": "2024-10-25 14:00:00",
-      "album": {
-        "name": "hypnotic",
-        "url": "https://open.spotify.com/album/1dNr9lYDxO0pyG6poLIVWA"
-      },
-      "artists": [
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 120796,
-      "name": "hypnotic - super slowed",
-      "url": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
-    },
-    {
-      "added_at": "2024-11-15 15:00:00",
-      "album": {
-        "name": "BAD PARENTING FUNK",
-        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
-      },
-      "artists": [
-        {
-          "name": "DJ CEREJASS",
-          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 87834,
-      "name": "BAD PARENTING FUNK",
-      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
-    },
-    {
       "added_at": "2024-04-26 14:45:00",
       "album": {
         "name": "DAN\u00c7A DO YA YA MIJO YA",
@@ -983,22 +983,6 @@
       "duration_ms": 138857,
       "name": "SUNRISE (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
       "added_at": "2024-11-15 15:00:00",
@@ -1313,42 +1297,6 @@
       "url": "https://open.spotify.com/track/0F22C2GRDrqxQFCEk7mds1"
     },
     {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
-    },
-    {
-      "added_at": "2022-09-23 07:48:31",
-      "album": {
-        "name": "WAKE UP!",
-        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "WAKE UP!",
-      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
-    },
-    {
       "added_at": "2023-11-17 23:13:59",
       "album": {
         "name": "BIBI PHONK BR",
@@ -1367,6 +1315,26 @@
       "duration_ms": 119616,
       "name": "BIBI PHONK BR",
       "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
+    },
+    {
+      "added_at": "2024-09-20 15:04:16",
+      "album": {
+        "name": "X-TALI",
+        "url": "https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw"
+      },
+      "artists": [
+        {
+          "name": "MXCCREE",
+          "url": "https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt"
+        },
+        {
+          "name": "DJ GL3CHEKY",
+          "url": "https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM"
+        }
+      ],
+      "duration_ms": 72352,
+      "name": "X-TALI",
+      "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
     },
     {
       "added_at": "2024-10-04 13:19:49",
@@ -1413,20 +1381,40 @@
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-09-23 07:48:31",
       "album": {
-        "name": "Override",
-        "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
+        "name": "WAKE UP!",
+        "url": "https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l"
       },
       "artists": [
         {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
         }
       ],
-      "duration_ms": 114624,
-      "name": "Override",
-      "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
+      "duration_ms": 142940,
+      "name": "WAKE UP!",
+      "url": "https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W"
+    },
+    {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "VAPO DO VAPO",
+        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
+      },
+      "artists": [
+        {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "duration_ms": 68442,
+      "name": "VAPO DO VAPO",
+      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1443,6 +1431,38 @@
       "duration_ms": 105789,
       "name": "AVOID ME",
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
+    },
+    {
+      "added_at": "2024-05-10 15:00:06",
+      "album": {
+        "name": "KRUSH BANDICOOT",
+        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "duration_ms": 97090,
+      "name": "KRUSH BANDICOOT",
+      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Override",
+        "url": "https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 114624,
+      "name": "Override",
+      "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -1465,22 +1485,6 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2024-05-10 15:00:06",
-      "album": {
-        "name": "KRUSH BANDICOOT",
-        "url": "https://open.spotify.com/album/2ZfmmTGVbyPOFJOqrdYFwf"
-      },
-      "artists": [
-        {
-          "name": "RAIZHELL",
-          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
-        }
-      ],
-      "duration_ms": 97090,
-      "name": "KRUSH BANDICOOT",
-      "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
-    },
-    {
       "added_at": "2023-08-11 14:10:06",
       "album": {
         "name": "The Automotivo Infernal 1.0",
@@ -1495,26 +1499,6 @@
       "duration_ms": 114593,
       "name": "The Automotivo Infernal 1.0 - Purple",
       "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
-    },
-    {
-      "added_at": "2024-09-06 15:23:15",
-      "album": {
-        "name": "VAPO DO VAPO",
-        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
-      },
-      "artists": [
-        {
-          "name": "DJ ANXVAR",
-          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
-        },
-        {
-          "name": "MC LONE",
-          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
-        }
-      ],
-      "duration_ms": 68442,
-      "name": "VAPO DO VAPO",
-      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
       "added_at": "2024-08-16 14:23:00",
@@ -1577,6 +1561,26 @@
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
     },
     {
+      "added_at": "2022-10-14 08:20:18",
+      "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
+    },
+    {
       "added_at": "2024-05-10 15:00:06",
       "album": {
         "name": "THOMAS",
@@ -1595,26 +1599,6 @@
       "duration_ms": 90603,
       "name": "THOMAS",
       "url": "https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1"
-    },
-    {
-      "added_at": "2024-09-20 15:04:16",
-      "album": {
-        "name": "X-TALI",
-        "url": "https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw"
-      },
-      "artists": [
-        {
-          "name": "MXCCREE",
-          "url": "https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt"
-        },
-        {
-          "name": "DJ GL3CHEKY",
-          "url": "https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM"
-        }
-      ],
-      "duration_ms": 72352,
-      "name": "X-TALI",
-      "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
     },
     {
       "added_at": "2024-05-17 14:03:55",
@@ -1677,22 +1661,6 @@
       "url": "https://open.spotify.com/track/17H0eVQ5elJWAGUDQJOXRo"
     },
     {
-      "added_at": "2024-09-06 15:23:15",
-      "album": {
-        "name": "EI DO SENSACIO!",
-        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
-      },
-      "artists": [
-        {
-          "name": "princce",
-          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
-        }
-      ],
-      "duration_ms": 101089,
-      "name": "EI DO SENSACIO!",
-      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
-    },
-    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "BLOODY BRAZIL (Slowed)",
@@ -1731,6 +1699,26 @@
       "duration_ms": 108344,
       "name": "EL QUE LA DEBE FUNK - SLOWED",
       "url": "https://open.spotify.com/track/5PHdyF0lk5ZWzow4aUSfPL"
+    },
+    {
+      "added_at": "2024-12-05 18:05:57",
+      "album": {
+        "name": "NA KOLENI FUNK",
+        "url": "https://open.spotify.com/album/0hdCKZheQkaKA8DrVkA95g"
+      },
+      "artists": [
+        {
+          "name": "INFXRNVM",
+          "url": "https://open.spotify.com/artist/2cx6gOmSDTfLBddNLTuA0X"
+        },
+        {
+          "name": "Rage\u6fc0\u6012",
+          "url": "https://open.spotify.com/artist/2R2fkoleO3fPiFsOe2J86s"
+        }
+      ],
+      "duration_ms": 75642,
+      "name": "NA KOLENI FUNK",
+      "url": "https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -1797,6 +1785,22 @@
       "url": "https://open.spotify.com/track/5yruPkF5lplk9VUZIMsBzQ"
     },
     {
+      "added_at": "2024-12-05 18:05:57",
+      "album": {
+        "name": "BLAH!",
+        "url": "https://open.spotify.com/album/7cqlIQVxjaKI61AVSwmMpL"
+      },
+      "artists": [
+        {
+          "name": "Nomi XD",
+          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
+        }
+      ],
+      "duration_ms": 141595,
+      "name": "BLAH!",
+      "url": "https://open.spotify.com/track/6cXSF7zLOvClh5Km4mku8t"
+    },
+    {
       "added_at": "2024-02-16 17:03:51",
       "album": {
         "name": "ASTRO",
@@ -1861,36 +1865,20 @@
       "url": "https://open.spotify.com/track/53Bs51qBpjJscUEQbmn9gk"
     },
     {
-      "added_at": "2023-03-31 15:56:27",
+      "added_at": "2024-09-06 15:23:15",
       "album": {
-        "name": "Own Paradise",
-        "url": "https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG"
+        "name": "EI DO SENSACIO!",
+        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
       },
       "artists": [
         {
-          "name": "LXAES",
-          "url": "https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z"
+          "name": "princce",
+          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
         }
       ],
-      "duration_ms": 128026,
-      "name": "Own Paradise",
-      "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
-    },
-    {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
+      "duration_ms": 101089,
+      "name": "EI DO SENSACIO!",
+      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
     }
   ],
   "unique_name": "phonk",

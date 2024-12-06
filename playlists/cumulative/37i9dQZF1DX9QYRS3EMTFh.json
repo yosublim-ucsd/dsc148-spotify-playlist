@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash x Damso",
+  "description": "Les hits dancehall du moment. Photo : Maureen x Bamby",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 138890,
       "name": "After Party",
       "url": "https://open.spotify.com/track/6ezATTHYnflOCxzHmRCgRN"
@@ -1905,6 +1905,28 @@
     },
     {
       "album": {
+        "name": "CHIC",
+        "url": "https://open.spotify.com/album/6YkW1iJwZc2zm2HkEtD7ob"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "CHIC",
+      "url": "https://open.spotify.com/track/6UGuhDkeAKbYMG1V7IPBzl"
+    },
+    {
+      "album": {
         "name": "CHO CHO",
         "url": "https://open.spotify.com/album/5K7bJMLFHssW9nhlXQLEuN"
       },
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 128009,
       "name": "Don Dada",
       "url": "https://open.spotify.com/track/6NyolyYpZ6eOhXdsUeIOkw"
@@ -4727,6 +4749,32 @@
     },
     {
       "album": {
+        "name": "Keep It Burning 3D",
+        "url": "https://open.spotify.com/album/3eXFY1yYCZYL5irun9DlXO"
+      },
+      "artists": [
+        {
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "Pix'L",
+          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
+        },
+        {
+          "name": "Jmax",
+          "url": "https://open.spotify.com/artist/2UYBMxXUV6L1Z38BoQag6A"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155390,
+      "name": "Keep It Burning 3D",
+      "url": "https://open.spotify.com/track/4YJ9mIxcZmZghy5ZK14haM"
+    },
+    {
+      "album": {
         "name": "Ki Manny\u00e9",
         "url": "https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG"
       },
@@ -6090,6 +6138,50 @@
       "duration_ms": 190588,
       "name": "MOOV",
       "url": "https://open.spotify.com/track/76koWWOne981lr5gxbzH2O"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7FdQojrQuCwAjt6cdjOTsx"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Titony",
+          "url": "https://open.spotify.com/artist/2WjhbZMqCfot1f3ZgLQBmy"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122670,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3SqKXyhcRvt5MQaA3njYw2"
+    },
+    {
+      "album": {
+        "name": "Mwen ki pa bon",
+        "url": "https://open.spotify.com/album/1KejB8SLmCMOw4rHH5URFv"
+      },
+      "artists": [
+        {
+          "name": "Shanika",
+          "url": "https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf"
+        },
+        {
+          "name": "LitleBoy",
+          "url": "https://open.spotify.com/artist/6FmMldRYGXghQ6EzwHWv6e"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170522,
+      "name": "Mwen ki pa bon",
+      "url": "https://open.spotify.com/track/7aLyS6fndkb7vRRCD1nfPS"
     },
     {
       "album": {
@@ -8924,7 +9016,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 160000,
       "name": "TIGALING",
       "url": "https://open.spotify.com/track/2DTMb1ILWRWkv5BLVPo95P"
@@ -9060,7 +9152,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 135226,
       "name": "TOC",
       "url": "https://open.spotify.com/track/6yyEHGjIktiSHIr3lXX3pn"

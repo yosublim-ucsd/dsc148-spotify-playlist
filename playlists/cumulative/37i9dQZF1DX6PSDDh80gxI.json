@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "PSICOLOGI in cover della playlist con il meglio dell\u2019indie italiano! ",
+  "description": "Gazzelle in cover della playlist con il meglio dell\u2019indie italiano! ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 178400,
       "name": "11 case",
       "url": "https://open.spotify.com/track/13PawRVvAhgkutmTD6gkkR"
+    },
+    {
+      "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/2SrEFRd50LJ1UQGz6L7Sh5"
+      },
+      "artists": [
+        {
+          "name": "Bais",
+          "url": "https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151523,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/3AIVfMjPgRh4Ja1hBVWhus"
     },
     {
       "album": {
@@ -176,6 +194,24 @@
       "duration_ms": 171903,
       "name": "Alta marea",
       "url": "https://open.spotify.com/track/27y9iz3gBeWyWxI6VKEuGW"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Amaro",
+      "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
     },
     {
       "album": {
@@ -675,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Aperitivo",
+        "url": "https://open.spotify.com/album/5FG4uvGYqzCdh5LCpxkYfp"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152363,
+      "name": "Dolceamara malinconia",
+      "url": "https://open.spotify.com/track/6j58CYPJ5mD58tNftnsA0O"
+    },
+    {
+      "album": {
         "name": "Domani (feat. Nashley)",
         "url": "https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn"
       },
@@ -900,7 +954,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 198851,
       "name": "Gatti",
       "url": "https://open.spotify.com/track/6j0MdDXIfJBAwjX0FBeJdW"
@@ -1302,7 +1356,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 194470,
       "name": "La mia preghiera (feat. Sick Tamburo)",
       "url": "https://open.spotify.com/track/7bG4rA1Jnr9jbEb0asntQ3"
@@ -1396,7 +1450,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 115333,
       "name": "Lily",
       "url": "https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V"
@@ -1490,7 +1544,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207000,
       "name": "Lucifero (feat. Mecna)",
       "url": "https://open.spotify.com/track/2fH7Bv4NyaRoKQLB09qvGg"
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 201782,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW"
@@ -1838,6 +1892,28 @@
       "duration_ms": 184378,
       "name": "Occhi Blu",
       "url": "https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf"
+    },
+    {
+      "album": {
+        "name": "occhisalsadisoia",
+        "url": "https://open.spotify.com/album/45vBnHTbeRody869Dgz3hH"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154828,
+      "name": "occhisalsadisoia",
+      "url": "https://open.spotify.com/track/5GGONR3S3gJtarebmj2ISa"
     },
     {
       "album": {
@@ -2022,6 +2098,24 @@
       "duration_ms": 169533,
       "name": "Per me \u00e8 ok (feat. Angelica)",
       "url": "https://open.spotify.com/track/3t1xFmZjn2a2klm4G9H5k7"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Per Non Sentire La Fine Del Mondo",
+      "url": "https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC"
     },
     {
       "album": {
@@ -2844,7 +2938,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 200624,
       "name": "Un Altro Universo",
       "url": "https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c"
@@ -2920,6 +3014,24 @@
       "duration_ms": 206140,
       "name": "Una vita normale",
       "url": "https://open.spotify.com/track/7KXiNcodDshozttV90Ensd"
+    },
+    {
+      "album": {
+        "name": "Veleno",
+        "url": "https://open.spotify.com/album/0kivI9DqD5PzKGeh26HycU"
+      },
+      "artists": [
+        {
+          "name": "Joan Thiele",
+          "url": "https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199180,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/4w9pKLXVOmKkI3UOiRvOGM"
     },
     {
       "album": {

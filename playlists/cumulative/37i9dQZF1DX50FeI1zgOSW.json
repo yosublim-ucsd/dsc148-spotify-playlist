@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 153229,
       "name": "Aneram Andhaneram",
       "url": "https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 136470,
       "name": "Baasha",
       "url": "https://open.spotify.com/track/6ihc2u4GmDXVeIizwL3jEw"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 170017,
       "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
       "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 277936,
       "name": "Dapparu Raaja",
       "url": "https://open.spotify.com/track/03nlIEXvxmpxrXjLEeVHod"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 197938,
       "name": "Darling",
       "url": "https://open.spotify.com/track/34tuP4nFoFi0l43l5g2gJd"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 233999,
       "name": "Distant Hearts",
       "url": "https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 287997,
       "name": "En kannadi",
       "url": "https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 76696,
       "name": "enna vittu",
       "url": "https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC"
@@ -1870,6 +1870,24 @@
       "duration_ms": 163999,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/21Ce5TcQah2Irg2HjBLtGP"
+    },
+    {
+      "album": {
+        "name": "GIJILI",
+        "url": "https://open.spotify.com/album/3AUWM1TnIoxjEPYxTQmTOr"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195242,
+      "name": "GIJILI",
+      "url": "https://open.spotify.com/track/4kPn8DObatOIyMKQMwlyS3"
     },
     {
       "album": {
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 226285,
       "name": "Kaadhal Valarthen",
       "url": "https://open.spotify.com/track/5W1diDZnsE3BIbyHDeXZxB"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 286666,
       "name": "Kadalora Kavidhai",
       "url": "https://open.spotify.com/track/4OpEEHX7cOWneBcvhQxVD5"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 186620,
       "name": "Kadhal Vizhi",
       "url": "https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ"
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 200973,
       "name": "Kannaadi Boogambam",
       "url": "https://open.spotify.com/track/0HnKrdG93aeemec5ctWYPJ"
@@ -3328,10 +3346,32 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 212504,
       "name": "Kannadi Mugam",
       "url": "https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2"
+    },
+    {
+      "album": {
+        "name": "Kanni Boyz",
+        "url": "https://open.spotify.com/album/3ob0EpYK2eGjerGwZSCOWD"
+      },
+      "artists": [
+        {
+          "name": "RK Arvin",
+          "url": "https://open.spotify.com/artist/21MmZBL1Slz0VCTr8vnPBM"
+        },
+        {
+          "name": "Rk Tharan",
+          "url": "https://open.spotify.com/artist/2teckjfXrt39sR75clLegg"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Kanni Boyz",
+      "url": "https://open.spotify.com/track/4VGUCHyLaycOXTdAieUbXr"
     },
     {
       "album": {
@@ -3807,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Love Ticket",
+        "url": "https://open.spotify.com/album/0Uu546jpbMGG7aaoC2mOip"
+      },
+      "artists": [
+        {
+          "name": "Sanathan Shree Krishnan",
+          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "Love Ticket",
+      "url": "https://open.spotify.com/track/0MVy63AwIzh0jXG2NEnuUi"
+    },
+    {
+      "album": {
         "name": "LoveBHK",
         "url": "https://open.spotify.com/album/7Mog9E9w8TZ5iVoVYTAosn"
       },
@@ -4042,7 +4100,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 164731,
       "name": "Manase",
       "url": "https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N"
@@ -4138,7 +4196,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 197267,
       "name": "Manithan",
       "url": "https://open.spotify.com/track/3P4zBK6zZoi3UkQnLGqWkW"
@@ -4610,7 +4668,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 177498,
       "name": "Mudinjan",
       "url": "https://open.spotify.com/track/6Lnqv5lnDsk870Lo9f4zwV"
@@ -4804,7 +4862,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 214956,
       "name": "Natyam",
       "url": "https://open.spotify.com/track/7tXtlUQe9Wu8juIPUXer2J"
@@ -5116,7 +5174,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 190697,
       "name": "Nenjukulla",
       "url": "https://open.spotify.com/track/3OYjfa7A8EkqUZkEtkwOgJ"
@@ -5218,7 +5276,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 214770,
       "name": "Nile Nadiye",
       "url": "https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y"
@@ -5354,7 +5412,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 131761,
       "name": "Oh Ho Penne | Jamspot",
       "url": "https://open.spotify.com/track/6FKYdu56Zo69TwsR7fIucB"
@@ -5482,7 +5540,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 102509,
       "name": "On Air",
       "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
@@ -6658,7 +6716,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 206000,
       "name": "Sikkimukki",
       "url": "https://open.spotify.com/track/3NXtm9rA3z2342c0T1hXme"
@@ -6836,7 +6894,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 180000,
       "name": "Swipe Swipe",
       "url": "https://open.spotify.com/track/1bxaX79dpWrR7heY2en9SR"
@@ -6946,7 +7004,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 239997,
       "name": "Thakam illai yendrale",
       "url": "https://open.spotify.com/track/76rjmcyamoT5M5kZVmKWic"
@@ -7320,7 +7378,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192037,
       "name": "Thedalae",
       "url": "https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14"
@@ -8156,7 +8214,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 235200,
       "name": "Vaasam Pesum",
       "url": "https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ"
@@ -8846,7 +8904,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 169186,
       "name": "Yawanaa",
       "url": "https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B"

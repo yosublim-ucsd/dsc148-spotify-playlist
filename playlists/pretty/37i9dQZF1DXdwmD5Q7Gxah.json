@@ -1,13 +1,29 @@
 {
   "description": "gigi perez is only getting started ",
-  "num_followers": 1173472,
+  "num_followers": 1173379,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1CE7gAAAACCOYkynY+voIPtv/T6yERC",
+  "snapshot_id": "Z1IInwAAAAC/vyUBbpOvRwRa8qQ4WIu+",
   "tracks": [
+    {
+      "added_at": "2024-12-05 18:21:31",
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
     {
       "added_at": "2024-12-03 18:00:02",
       "album": {
@@ -77,20 +93,20 @@
       "url": "https://open.spotify.com/track/3W116J5FwN5heXYDUZOhZT"
     },
     {
-      "added_at": "2024-12-04 16:35:58",
+      "added_at": "2024-12-05 20:10:07",
       "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3"
+        "name": "Little Acts Of Violence",
+        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
       },
       "artists": [
         {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
         }
       ],
-      "duration_ms": 253200,
-      "name": "You Are The Morning",
-      "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
+      "duration_ms": 170840,
+      "name": "Little Acts Of Violence",
+      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
     },
     {
       "added_at": "2024-11-25 17:40:33",
@@ -127,6 +143,22 @@
       "duration_ms": 173013,
       "name": "Te Maldigo (From \"Queer\")",
       "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
+    },
+    {
+      "added_at": "2024-12-04 16:35:58",
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "You Are The Morning",
+      "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
     },
     {
       "added_at": "2024-07-31 21:18:49",

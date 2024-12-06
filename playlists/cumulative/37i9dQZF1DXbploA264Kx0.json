@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Everydaze",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: DEW",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -288,6 +288,28 @@
       "duration_ms": 223995,
       "name": "Aim High",
       "url": "https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI"
+    },
+    {
+      "album": {
+        "name": "Akirameyou",
+        "url": "https://open.spotify.com/album/4VKiDuCaGTHv2wgoL01pDC"
+      },
+      "artists": [
+        {
+          "name": "DEW",
+          "url": "https://open.spotify.com/artist/0cx8Y0CHBbSVWtAufwKdhk"
+        },
+        {
+          "name": "Sora Satoh",
+          "url": "https://open.spotify.com/artist/3JrRIRDZ53fQxe3mlu2TiT"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250596,
+      "name": "Akirameyou",
+      "url": "https://open.spotify.com/track/09IixZAgXmL1FT1ujQbzhY"
     },
     {
       "album": {
@@ -1210,7 +1232,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182537,
       "name": "Fear - Mong Tong Remix",
       "url": "https://open.spotify.com/track/4amEFQlOmB3cJwy0CEhX5Q"
@@ -1268,7 +1290,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182769,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/29FgqdSRXXQ3ZTKxUrejBX"
@@ -2247,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "T A N E",
+          "url": "https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/5NJGsSkcBtzm8qRG4DB7nP"
       },
@@ -2639,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310133,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
+    },
+    {
+      "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/76BuuMSS3t9gBCZ25y5XMa"
       },
@@ -2662,6 +2728,28 @@
       "duration_ms": 169433,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/213vfj5F7G3K9boSZwFwPf"
+    },
+    {
+      "album": {
+        "name": "Nightglow Dreamer",
+        "url": "https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269516,
+      "name": "Nightglow Dreamer",
+      "url": "https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT"
     },
     {
       "album": {
@@ -3016,7 +3104,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 58128,
       "name": "Pay Money to Wonderland",
       "url": "https://open.spotify.com/track/79G0a7PcfACuuOHV4cOJIS"
@@ -4266,7 +4354,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 194502,
       "name": "Twisted Game",
       "url": "https://open.spotify.com/track/57VBEAAou12D7EedFDxZcY"
@@ -4350,6 +4438,32 @@
       "duration_ms": 430202,
       "name": "Up In The Clouds",
       "url": "https://open.spotify.com/track/5g527cG5qz62qSrRrmZMfD"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/1C0wDglggeLJIZdC9n5Soj"
+      },
+      "artists": [
+        {
+          "name": "Drifter5",
+          "url": "https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU"
+        },
+        {
+          "name": "Thoby",
+          "url": "https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/43ZhDs4iPKl44bfiPwQDLc"
     },
     {
       "album": {

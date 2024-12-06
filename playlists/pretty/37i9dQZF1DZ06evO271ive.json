@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 22359,
+  "num_followers": 22395,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0z4gAAAAACyf/zRyma9x00lH1xlLkg5",
+  "snapshot_id": "Z0+bgAAAAABuNsJFUPGEWagrqxJxnujI",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "I\u2019m The Shit",
+      "url": "https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4eva Us Neva Them",
         "url": "https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 178911,
       "name": "N.P.O. (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "I\u2019m The Shit",
-      "url": "https://open.spotify.com/track/7MSTSSvkhDg315YP1OUag1"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slob on My Ckat",
-        "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 148114,
-      "name": "Slob on My Ckat",
-      "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Superstar",
         "url": "https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180062,
       "name": "Sticky Icky (Roll Det)",
       "url": "https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slob on My Ckat",
+        "url": "https://open.spotify.com/album/4CgEqMImprIzF3Y9z0pTA1"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 148114,
+      "name": "Slob on My Ckat",
+      "url": "https://open.spotify.com/track/2Xikr2ck5gioTbXLsEX0iW"
     },
     {
       "added_at": null,

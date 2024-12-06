@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "BLAH!",
+        "url": "https://open.spotify.com/album/7cqlIQVxjaKI61AVSwmMpL"
+      },
+      "artists": [
+        {
+          "name": "Nomi XD",
+          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141595,
+      "name": "BLAH!",
+      "url": "https://open.spotify.com/track/6cXSF7zLOvClh5Km4mku8t"
+    },
+    {
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/7c40U4lQUqOJzDBGRUeMn9"
       },
@@ -9567,6 +9585,28 @@
     },
     {
       "album": {
+        "name": "NA KOLENI FUNK",
+        "url": "https://open.spotify.com/album/0hdCKZheQkaKA8DrVkA95g"
+      },
+      "artists": [
+        {
+          "name": "INFXRNVM",
+          "url": "https://open.spotify.com/artist/2cx6gOmSDTfLBddNLTuA0X"
+        },
+        {
+          "name": "Rage\u6fc0\u6012",
+          "url": "https://open.spotify.com/artist/2R2fkoleO3fPiFsOe2J86s"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75642,
+      "name": "NA KOLENI FUNK",
+      "url": "https://open.spotify.com/track/7jNDR88oOEPt4NKRJNoRnx"
+    },
+    {
+      "album": {
         "name": "NEBLINA",
         "url": "https://open.spotify.com/album/5NGH4phWsvWF7DU0KKK76T"
       },
@@ -10384,7 +10424,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 128026,
       "name": "Own Paradise",
       "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
@@ -12154,7 +12194,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
@@ -12310,7 +12350,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"

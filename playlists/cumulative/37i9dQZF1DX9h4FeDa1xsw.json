@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Photo : And\u00e9ol",
+  "description": "Photo : Carbonne",
   "name": "Vice Versa",
   "tracks": [
     {
@@ -207,6 +207,32 @@
     },
     {
       "album": {
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/7hMSLnBcnkrfOs0Uluksc5"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155659,
+      "name": "Comment te remplacer",
+      "url": "https://open.spotify.com/track/61wsJbova6u1UNIBmoKMcK"
+    },
+    {
+      "album": {
         "name": "Hypersensible",
         "url": "https://open.spotify.com/album/1kthhA0I7pl3vSQK24TLgW"
       },
@@ -352,10 +378,28 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 219047,
       "name": "DON'T LET ME GO",
       "url": "https://open.spotify.com/track/3D74npENmWiyGOYEnaQgEd"
+    },
+    {
+      "album": {
+        "name": "MYLNUI",
+        "url": "https://open.spotify.com/album/1DzGhihFI8X8Bt4TAvlHzC"
+      },
+      "artists": [
+        {
+          "name": "JYEUHAIR",
+          "url": "https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "D\u00c9FILER",
+      "url": "https://open.spotify.com/track/418PYoHwSC86tbCsrI0FW1"
     },
     {
       "album": {
@@ -424,7 +468,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -760,7 +804,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149386,
       "name": "Mazel",
       "url": "https://open.spotify.com/track/1JQv5PYJLat5Ra2So7vTkI"
@@ -966,7 +1010,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 177000,
       "name": "Risque",
       "url": "https://open.spotify.com/track/0JAKM5NQrqcgSummZSHf7b"
@@ -1081,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "TOI QUI VOULAIS PARTIR",
+        "url": "https://open.spotify.com/album/6w2w4ERrrr8kEj2fvnV30h"
+      },
+      "artists": [
+        {
+          "name": "Pitt",
+          "url": "https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "TOI QUI VOULAIS PARTIR",
+      "url": "https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v"
+    },
+    {
+      "album": {
         "name": "Topinambour",
         "url": "https://open.spotify.com/album/2biWJkwaSrUIn7OqKnk1ca"
       },
@@ -1132,6 +1194,28 @@
       "duration_ms": 190947,
       "name": "TOUS CEUX",
       "url": "https://open.spotify.com/track/7pIARWN4CjFAobfxYqOcgX"
+    },
+    {
+      "album": {
+        "name": "Tout recommencer (feat. So La Lune)",
+        "url": "https://open.spotify.com/album/2VtmpgM0LQIaert2GdwzwS"
+      },
+      "artists": [
+        {
+          "name": "Kyana",
+          "url": "https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190441,
+      "name": "Tout recommencer (feat. So La Lune)",
+      "url": "https://open.spotify.com/track/49zz3zQcytYAUHpIXq6VYU"
     },
     {
       "album": {

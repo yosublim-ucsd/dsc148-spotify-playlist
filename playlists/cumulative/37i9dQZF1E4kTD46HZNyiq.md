@@ -2,9 +2,9 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Strike, The Wild Wind and more
+> With LAVE, The Wild Wind, The Strike and more
 
-1,395 songs - 3 day 17 hr 28 min
+1,396 songs - 3 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Crashing](https://open.spotify.com/track/0QQne5Sk7SQwZnhmoJRa7a) | [Ryan Pulford](https://open.spotify.com/artist/46E8qTNPKXItddNMeUgOqq) | [Crashing](https://open.spotify.com/album/2jY8hKYUgKIL7sBGY1s9na) | 3:16 | 2023-12-14 | 2023-12-21 |
 | [Craving](https://open.spotify.com/track/1eQRJg8WXNWDcfEMBAcgZY) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving](https://open.spotify.com/album/2JRRA1ntA93z0pI9QQCOUo) | 3:41 | 2023-04-15 | 2023-04-22 |
 | [Craving](https://open.spotify.com/track/4mjkiGwvEDDVlg52bURyCM) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving](https://open.spotify.com/album/6ndpnB4Df0DHdRSRLfTRWO) | 3:41 | 2022-05-02 | 2022-10-16 |
-| [Craving](https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving](https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT) | 3:41 | 2023-12-23 | 2024-12-05 |
+| [Craving](https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving](https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT) | 3:41 | 2023-12-23 |  |
 | [Craving \(Stripped\)](https://open.spotify.com/track/0MOlS6Jpajh17ELBSD0WEf) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving \(Stripped\)](https://open.spotify.com/album/7uG3SBqzM4mZlStF8jCKWI) | 4:22 | 2021-12-07 | 2022-03-09 |
 | [Craving \(Stripped\)](https://open.spotify.com/track/6ufcaIUOfJihBMXB0l9LXA) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving \(Stripped\)](https://open.spotify.com/album/5fqZptYHXQEzePGPIDdspK) | 4:22 | 2023-02-17 | 2023-04-23 |
 | [Craving \- Stripped](https://open.spotify.com/track/0sHwAoE0wqZo54qFJGPCpB) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Craving \(Stripped\)](https://open.spotify.com/album/05LKka0bXtrUTycvvb45yX) | 4:22 | 2024-02-22 | 2024-04-11 |
@@ -541,6 +541,7 @@
 | [hold on](https://open.spotify.com/track/2v3Ea86ztqnlcfERXbmhhD) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [beyond my reach](https://open.spotify.com/album/1dNIMge6d5h63ZfGCyB5ZO) | 3:27 | 2024-01-05 | 2024-04-03 |
 | [Hold On To That](https://open.spotify.com/track/3fjIxTcTAX4O4fnYD3Q4ba) | [Charles & Will](https://open.spotify.com/artist/3qVicXkLEIY1c4XQ8PRrWh) | [Hold On To That](https://open.spotify.com/album/2OapGFIDe1y1UwjsCqFU9G) | 3:28 | 2022-09-01 | 2022-09-02 |
 | [Hold Tight](https://open.spotify.com/track/4mEJUOF6X3OhPc5HUBeaG1) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 4:34 | 2022-06-01 | 2022-07-29 |
+| [Holding Hands](https://open.spotify.com/track/1IXbKWu5jhEVOVUGwy5J5S) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Holding Hands](https://open.spotify.com/album/0tYL2eBvphBCarmbdET42i) | 3:13 | 2024-12-06 |  |
 | [Holding On](https://open.spotify.com/track/5JMLYOvdtPdSRwJbAPszTr) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [The Sound Of Your Voice](https://open.spotify.com/album/1sukoCUMmjnTjt7dwkyzdx) | 3:18 | 2022-02-16 | 2022-02-25 |
 | [Holding You Close](https://open.spotify.com/track/05Fz8BncZJdkUVD6R3lWFC) | [Ryan Pulford](https://open.spotify.com/artist/46E8qTNPKXItddNMeUgOqq) | [Holding You Close](https://open.spotify.com/album/17JyP2r8N7IZViMWb95Ivz) | 3:21 | 2022-10-05 | 2022-10-10 |
 | [Holding You, Holding Me](https://open.spotify.com/track/1gLlnWj9zBd8zmHNUjZeZK) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/2ksP3jQicVWUzWPpX0c27N) | 3:49 | 2023-07-15 |  |
@@ -1066,7 +1067,7 @@
 | [Shadows](https://open.spotify.com/track/2SdYpnVeDlQaWRFZ2Prsfh) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Four](https://open.spotify.com/album/5y4mLsMT0Xrw7tLt2QFDwR) | 5:11 | 2022-08-20 | 2024-03-07 |
 | [Shaking](https://open.spotify.com/track/0aFpqCDaj9tAjza3c982Kv) | [Max Reichert](https://open.spotify.com/artist/5lmXY0poemQXLxoHtPOc3z) | [Shaking](https://open.spotify.com/album/7qgGe2A2ZRHm2M8XsgA74X) | 3:56 | 2024-02-23 | 2024-04-16 |
 | [Shaking](https://open.spotify.com/track/2OEht8uERr6rcvHJCeqTCY) | [Max Reichert](https://open.spotify.com/artist/5lmXY0poemQXLxoHtPOc3z) | [Shaking](https://open.spotify.com/album/5svDSmg8ZAdXTSVl29GClH) | 3:56 | 2022-03-10 | 2023-02-14 |
-| [She](https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Next Stop](https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3) | 3:36 | 2022-07-08 |  |
+| [She](https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Next Stop](https://open.spotify.com/album/3ar2uUStkn9hAndFBRjHA3) | 3:36 | 2022-07-08 | 2024-12-06 |
 | [She Said](https://open.spotify.com/track/21MTrMaaTtwOOcZaYBZb6I) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Watercolor](https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi) | 2:39 | 2023-06-09 | 2023-06-15 |
 | [She Said "I Love You"](https://open.spotify.com/track/65laD51iK662gCEVXJGsRe) | [Easy Company](https://open.spotify.com/artist/60QwYD0q0CjFl88xD9nu84) | [She Said "I Love You" EP](https://open.spotify.com/album/7oIE8weq34MfRuxwK2vp8P) | 4:40 | 2022-09-16 | 2024-02-13 |
 | [She's Alright](https://open.spotify.com/track/58pEXZXzDnsnpGWT3XofaF) | [Jet Black Alley Cat](https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ) | [Part One](https://open.spotify.com/album/5tFoieEkDjaAss8jJC5OI6) | 4:25 | 2021-12-04 | 2024-02-29 |
@@ -1202,7 +1203,7 @@
 | [The Getaway](https://open.spotify.com/track/0lPZOoUeMyRhnw5y8toFhS) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 4:34 | 2024-11-06 |  |
 | [The Heat](https://open.spotify.com/track/2Tus0XEu4LmNlk97CLML9u) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [The Heat](https://open.spotify.com/album/0g7d0xQ8arRa2SVdfVTd72) | 3:24 | 2022-10-15 | 2022-10-16 |
 | [The Heights](https://open.spotify.com/track/0jZGPvrpXARhVwSJklS6ix) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [The Heights](https://open.spotify.com/album/5y7c6SiyyTwpX6urLjt7TV) | 3:53 | 2022-05-13 | 2022-07-30 |
-| [The Hotel](https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 4:00 | 2024-11-09 |  |
+| [The Hotel](https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 4:00 | 2024-11-09 | 2024-12-06 |
 | [The Knife](https://open.spotify.com/track/2fAhIWZfoBHSGGSbsvHHJi) | [Edward + Jane](https://open.spotify.com/artist/7qKlVF6fwMhr3bunqFWfdf) | [The Knife](https://open.spotify.com/album/3E8Jc7cNPATWioeNeacgZc) | 4:52 | 2022-05-28 | 2022-05-30 |
 | [The Light](https://open.spotify.com/track/0Q1uXSdSMjvaYMG6IWHb55) | [CHPTRS](https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI) | [Chapter Five](https://open.spotify.com/album/6mYwvs2MxJpyZyDwp92jjA) | 4:51 | 2022-06-04 | 2024-03-21 |
 | [THE LINE](https://open.spotify.com/track/0yWDtjaoFyKrkGxbPsiVA3) | [Fantasy](https://open.spotify.com/artist/3DB9EkRE6ECbgRDKtmicb5) | [RECKLESS THE DUEL ALBUM SIDE A](https://open.spotify.com/album/7rME8DshKMvIJNQbgxzaIf) | 4:58 | 2022-03-24 | 2022-03-28 |

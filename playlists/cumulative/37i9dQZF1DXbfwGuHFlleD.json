@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Everything Not Saved Will Be Lost Pt. 1",
+        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357419,
+      "name": "Exits",
+      "url": "https://open.spotify.com/track/7gVGBGI4ZqvkYBlh2LdrQy"
+    },
+    {
+      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/7zqA52t3omMDx16jJqiUjB"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207303,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4ayIpClJzUh43tJgzyPI9f"

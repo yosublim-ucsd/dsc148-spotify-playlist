@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,096 songs - 11 day 5 hr 1 min
+7,098 songs - 11 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1341,7 +1341,7 @@
 | [Corner Store Snacks](https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn) | [Corner Store Snacks](https://open.spotify.com/album/7LPhUkYAYP6hGdpqL2ebAD) | 2:17 | 2023-12-15 |  |
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-19 | 2022-08-19 |
 | [Cornerstone](https://open.spotify.com/track/7AhuBIZcgICxPKWHGWPvRU) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Cornerstone](https://open.spotify.com/album/63uMc211thP27HfNYHzXtP) | 2:32 | 2023-02-07 | 2023-05-04 |
-| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 |  |
+| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 | 2024-12-06 |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-25 | 2022-07-29 |
 | [Cosmic](https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6JzHt9BdyxwocZv8BgxtW6) | 2:17 | 2023-04-05 | 2023-11-11 |
 | [Cosmic](https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Cosmic](https://open.spotify.com/album/4mVxF5UETtnYh3DYYfEdTt) | 2:17 | 2024-11-29 |  |
@@ -2025,6 +2025,7 @@
 | [feathertop forests](https://open.spotify.com/track/4Go7t9xd8jlcGL1X4FB8fv) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Rhoda](https://open.spotify.com/artist/3WJm3V66gZQu1jdr63fWkO) | [inward isles](https://open.spotify.com/album/5e47DYxTRX5SNzwKiv8Gdx) | 2:24 | 2019-06-24 | 2019-11-29 |
 | [february blue](https://open.spotify.com/track/5NZ8vxOcuyjcLmjCnjzTrw) | [Cheeky Beez](https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA) | [february blue](https://open.spotify.com/album/3VEvkmVVk4m3g0aJT8482L) | 2:30 | 2023-12-15 |  |
 | [feel](https://open.spotify.com/track/27mDTC0vlah03ezVsuWRfi) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/0OTvxFZwmfmKoDGyFKWWNe) | 1:44 | 2019-06-06 | 2020-03-17 |
+| [Feel Again](https://open.spotify.com/track/3NgaKZhxtToeKgvZF0bmU3) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Feel Again](https://open.spotify.com/album/4NfYIDEiwrsnnY7mCxcJpp) | 3:12 | 2024-11-29 |  |
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-04-23 | 2022-09-16 |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-10-20 | 2022-04-24 |
 | [Feel like that](https://open.spotify.com/track/1wmyRW1C7MIFJR7Wb8xXHM) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Feel like that](https://open.spotify.com/album/0LeeMJ2aOUhgEf0cFDi13N) | 2:07 | 2023-03-24 | 2023-06-08 |
@@ -2258,7 +2259,7 @@
 | [Fountain](https://open.spotify.com/track/4vmULkwdCBWcjA19NEjCD4) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Fountain](https://open.spotify.com/album/5y0JNEwLdrZI5JDjrEJqSB) | 3:07 | 2021-12-17 | 2022-08-19 |
 | [Four Seasons](https://open.spotify.com/track/29kvrLzNSVoRiqE11df09X) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Four Seasons](https://open.spotify.com/album/6ubexppDoj11WHRiTpVHD4) | 1:55 | 2019-12-22 | 2021-02-04 |
 | [Fourteen Books](https://open.spotify.com/track/1JoPAGWFkF7enigf7MtgcT) | [maqhiavelli](https://open.spotify.com/artist/67ww86OQXukoNS13vNhNM2) | [Fourteen Books](https://open.spotify.com/album/0dFrYvV6AYgISLCNpCqtG6) | 2:28 | 2022-07-15 | 2022-10-28 |
-| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 |  |
+| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 | 2024-12-06 |
 | [Fractures](https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/6XgZXPKMqxTt4ScnDZPr6O) | 3:02 | 2022-05-27 | 2022-09-23 |
 | [fragile](https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [fragile](https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd) | 2:31 | 2024-11-15 |  |
 | [Fragments](https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Fragments](https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2) | 2:00 | 2024-10-25 |  |
@@ -5771,6 +5772,7 @@
 | [Static](https://open.spotify.com/track/1tYvuyAS3CI8E3JhPVGS3G) | [Matt Paull](https://open.spotify.com/artist/19pBPYYL9OPlpamPuKZojI) | [Static](https://open.spotify.com/album/3eWjhOeg26lTnxqHBC00TH) | 2:17 | 2023-12-15 |  |
 | [Stay](https://open.spotify.com/track/7lrLhtC4gnvQcuPMYpKsSm) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Stay](https://open.spotify.com/album/6bwIOWHf2byXvFjNuKuqnd) | 2:40 | 2022-08-05 | 2022-11-18 |
 | [Stay](https://open.spotify.com/track/30EvTWj2OvF8afq0zM5ztj) | [Fatb](https://open.spotify.com/artist/39c9r5tc96HMSEX9BbxE4T) | [Stay](https://open.spotify.com/album/2pzMwLL9NMYt5oZhnynxbY) | 1:20 | 2019-12-20 | 2021-06-18 |
+| [stay](https://open.spotify.com/track/49n6kILlLD8uwNNOZJNunr) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [stay](https://open.spotify.com/album/1oDHaMJmjeuc94A50liN1u) | 2:12 | 2024-11-29 |  |
 | [Stay Afloat](https://open.spotify.com/track/5YlD59n3K60gdADDTgk1rI) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Stay Afloat](https://open.spotify.com/album/6Z0fX4SwoQzlFQDpENKSoP) | 1:30 | 2020-01-14 | 2021-01-17 |
 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 | 2019-05-26\* | 2020-06-12 |
 | [Stay Chillin](https://open.spotify.com/track/5Apagy5682Q8eKKlvHt9ms) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Stay Chillin](https://open.spotify.com/album/2xi0H7bJClMU9MNr4hFv6d) | 2:26 | 2022-02-14 | 2022-09-23 |

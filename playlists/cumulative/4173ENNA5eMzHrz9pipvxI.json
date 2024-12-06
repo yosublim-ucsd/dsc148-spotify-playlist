@@ -583,6 +583,32 @@
     },
     {
       "album": {
+        "name": "Adrenaline (feat. JUSTNKAYSE)",
+        "url": "https://open.spotify.com/album/5BR4sqnudMwQNyB9XHqHXP"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        },
+        {
+          "name": "JUSTNKAYSE",
+          "url": "https://open.spotify.com/artist/3mkIPB08zV05ShXKmsW8b5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139906,
+      "name": "Adrenaline (feat. JUSTNKAYSE)",
+      "url": "https://open.spotify.com/track/08tKZtTqQU8SyCgfdu8MAW"
+    },
+    {
+      "album": {
         "name": "After Midnight (feat. Xoro)",
         "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
       },
@@ -2424,7 +2450,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 133406,
       "name": "BANG BANG POW!",
       "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
@@ -9317,6 +9343,28 @@
     },
     {
       "album": {
+        "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
+        "url": "https://open.spotify.com/album/5lstoGz7CgwUXoTaMgJv4j"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "David Novacek",
+          "url": "https://open.spotify.com/artist/1dPeIuXnrMKNy6xbUzWYBo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179516,
+      "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
+      "url": "https://open.spotify.com/track/0FmuZijsrw4tzm7yNs3eqD"
+    },
+    {
+      "album": {
         "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
         "url": "https://open.spotify.com/album/1w7PUeDERNCUTPQz6hAggK"
       },
@@ -9336,7 +9384,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 158362,
       "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
       "url": "https://open.spotify.com/track/1iOZ5gxbMhDDtnJ8G7PqUu"
@@ -9626,7 +9674,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 171071,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf"
@@ -11549,6 +11597,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "album": {
         "name": "Gimme! Gimme! Gimme! (A Man After Midnight) [VINNE Remix]",
         "url": "https://open.spotify.com/album/6KuS8bW4ao32LDvqUodpdz"
       },
@@ -12343,6 +12409,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153670,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
+    },
+    {
+      "album": {
         "name": "Helemaal Lijp",
         "url": "https://open.spotify.com/album/3odKISArvCYnzDiAIM7jPp"
       },
@@ -12600,7 +12684,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 193770,
       "name": "Higher",
       "url": "https://open.spotify.com/track/12vrDiCobFUGGqYqTGyyw7"
@@ -15840,7 +15924,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 169523,
       "name": "Kench",
       "url": "https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY"
@@ -20345,6 +20429,24 @@
     },
     {
       "album": {
+        "name": "More Than A Feeling",
+        "url": "https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242073,
+      "name": "More Than A Feeling",
+      "url": "https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN"
+    },
+    {
+      "album": {
         "name": "MORNING",
         "url": "https://open.spotify.com/album/0ye9pq49yrh7Am5yB8T7Fp"
       },
@@ -24650,6 +24752,28 @@
       "duration_ms": 137647,
       "name": "Psych",
       "url": "https://open.spotify.com/track/2pv1AjkcLN2rntVacf3cQz"
+    },
+    {
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/5uhl7EEG18Xl91xBiKs41z"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197378,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/38inLXR06QEWhDr2LC8zTH"
     },
     {
       "album": {
@@ -29566,7 +29690,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
@@ -31418,7 +31542,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 204500,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/2YVJ0M0KWxVf7uMqWDneiF"
@@ -31872,7 +31996,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 138409,
       "name": "Turn It Off (feat. Z3LLA)",
       "url": "https://open.spotify.com/track/1dshcx1FgshcyQiC5gKkQO"
@@ -32614,6 +32738,28 @@
       "duration_ms": 149083,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/6VtbMBWi4sVVlTeZK5gOvD"
+    },
+    {
+      "album": {
+        "name": "Wake Up In The Sky (feat. Bianca Tilici)",
+        "url": "https://open.spotify.com/album/6O2pZ02my9eWIevgD4W4JT"
+      },
+      "artists": [
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
+        },
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Wake Up In The Sky (feat. Bianca Tilici)",
+      "url": "https://open.spotify.com/track/7167afkupEZnmCAtMeizWv"
     },
     {
       "album": {

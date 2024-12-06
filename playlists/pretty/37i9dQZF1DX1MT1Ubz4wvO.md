@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con shego  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,004 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,013 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 25 | [Ven a jugar](https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Ven a jugar](https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp) | 3:02 |
 | 26 | [Un Pueblo con Mar](https://open.spotify.com/track/7CFBJCN0bw7zwubOeyo4Xk) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Un Pueblo con Mar](https://open.spotify.com/album/3vnaiuY1emsdXqX8hBLuU3) | 3:23 |
 | 27 | [Cura de Humildad](https://open.spotify.com/track/6Gj5mjZYZXzDfI9dzvMQD4) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Cura de Humildad](https://open.spotify.com/album/5Hut2BgoSK0kwXC71xt8nu) | 3:54 |
-| 28 | [De Todo Menos Dinero](https://open.spotify.com/track/3UXH2Nez91Uh7ik0DHiZEw) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Litus](https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo) | [El Astronauta Que Soñaba Con Estrellas de Mar](https://open.spotify.com/album/5DR8gHz9jVsY5Auy7Wm4ar) | 3:12 |
+| 28 | [De Todo Menos Dinero](https://open.spotify.com/track/3UXH2Nez91Uh7ik0DHiZEw) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Litus](https://open.spotify.com/artist/6Xq1CkD3KKbhK5DF1uzDBo) | [El Astronauta Que Soñaba con Estrellas de Mar](https://open.spotify.com/album/5DR8gHz9jVsY5Auy7Wm4ar) | 3:12 |
 | 29 | [Triste Pegador](https://open.spotify.com/track/20M3ReDChp0GvCdbY5aWK5) | [Soyla](https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg) | [RADAR](https://open.spotify.com/album/4x03DW2rzhkktcDLLyESE3) | 3:40 |
 | 30 | [Por Si Acaso](https://open.spotify.com/track/6r4oJ9DhI7HRUb7h0LNM3L) | [GRISO](https://open.spotify.com/artist/6Ut8S3cOeO9Z8t9TBx0xub) | [Por Si Acaso](https://open.spotify.com/album/710ampGSpmkHiRIBUot1hM) | 3:07 |
 | 31 | [Mis Demonios](https://open.spotify.com/track/3mY5MO7Pv5MW1F9fqEwmiI) | [Los Invaders](https://open.spotify.com/artist/73CTlCt5B0aDArBivwUA5O) | [Otro Freak Más en Freaklandia](https://open.spotify.com/album/2bWq1JobdRD2T5p69eotg4) | 3:16 |

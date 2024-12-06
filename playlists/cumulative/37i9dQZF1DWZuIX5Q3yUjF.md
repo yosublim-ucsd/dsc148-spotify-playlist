@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Elodie, Tiziano Ferro
+> Il meglio dell'R&B italiano\. Cover: Palmaria
 
-681 songs - 1 day 9 hr 49 min
+682 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Nuda](https://open.spotify.com/track/2iHTi6QJa2pXsKCJa64Q2k) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Nuda](https://open.spotify.com/album/5FBA355AV3pQ6BQYhqiND3) | 2:18 | 2024-02-22 | 2024-04-16 |
 | [Nun me 'mporta](https://open.spotify.com/track/6oiSnqCAR5Gv2OyhUsyg3b) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Nun me 'mporta](https://open.spotify.com/album/3AkH7f2KH4FnDKySHuJPQi) | 3:40 | 2024-04-15 | 2024-04-26 |
 | [Nunn 'o voglio sape'](https://open.spotify.com/track/31i7zRLLh1MyLfk2mblk0d) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [Nunn 'o voglio sape'](https://open.spotify.com/album/0Jz3rP9MZ3VUrMKSlRkBH8) | 2:52 | 2022-09-08 | 2023-02-24 |
-| [Nuova Forma](https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Nuova Forma](https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs) | 3:19 | 2024-09-26 |  |
+| [Nuova Forma](https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Nuova Forma](https://open.spotify.com/album/5CAxhDrQzlRVSWZHj8zPUs) | 3:19 | 2024-09-26 | 2024-12-06 |
 | [Nuvola](https://open.spotify.com/track/7fkTZPZsTNvWhMt12NqWKh) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Nuvola](https://open.spotify.com/album/3dx4TZdU1MwdBPs3FTRrzS) | 3:01 | 2023-11-30 | 2024-02-02 |
 | [Nuvole bianche](https://open.spotify.com/track/53ElUkXHe9yi0UhVP5ZCF2) | [Shadaloo](https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR) | [Aurora Boreale](https://open.spotify.com/album/3oh4nZNcAzLtV6KKBohGfK) | 2:46 | 2023-10-26 | 2023-11-17 |
 | [O'tiempo](https://open.spotify.com/track/5Ye3aRSi3Ou40z82AT9nGZ) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [San Castrese](https://open.spotify.com/album/3rYuPwrwUSE7wEE89lcC4G) | 3:08 | 2022-05-05 | 2023-05-05 |
@@ -622,6 +622,7 @@
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 | 2023-06-09 |
 | [That's Alright](https://open.spotify.com/track/3nPKTxDzuikY4UY5K5r6Ox) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [That's Alright](https://open.spotify.com/album/0rJ0IXykkg3mK4cTZ5WkvW) | 2:58 | 2024-03-07 | 2024-04-16 |
 | [Threeway](https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS) | [emme](https://open.spotify.com/artist/1AaQO7zitcB9Q3iarTLP4h), [Federico Vinci](https://open.spotify.com/artist/2WXOFbXEJ319V8Qoc6UIf4) | [Threeway](https://open.spotify.com/album/5QEYRMLrUuEDlZMjtce30g) | 2:35 | 2023-03-09 | 2023-04-21 |
+| [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 | 2024-12-05 |  |
 | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [tivù \(prod\. Night Skinny\)](https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n) | 2:45 | 2024-11-14 |  |
 | [TOP GYAL](https://open.spotify.com/track/5DKYhoSd9ORUFLIlc7yi04) | [Gojardi](https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk), [Benrucito](https://open.spotify.com/artist/5vBDtof4eJRulrgOisBuqn) | [TOP GYAL](https://open.spotify.com/album/1mymmgR4MoWJ4pmTZKFEO5) | 2:45 | 2024-09-26 |  |
 | [Toxic](https://open.spotify.com/track/2Hqrmiopo3VGV5BWUe1ThW) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [Toxic](https://open.spotify.com/album/02Z6hzwHFd70wMOu6Gsx1T) | 3:41 | 2023-06-29 | 2024-01-12 |

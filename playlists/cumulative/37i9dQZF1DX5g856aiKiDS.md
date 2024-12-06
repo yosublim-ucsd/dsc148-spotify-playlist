@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-316 songs - 17 hr 45 min
+317 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2022-07-22 |  |
 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 | 2022-08-01 | 2022-10-13 |
 | [Everytime, Everyday](https://open.spotify.com/track/48mjHac835WsCW30MDMxMV) | [Dinner Coat](https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV) | [Everytime, Everyday](https://open.spotify.com/album/1nCBIEIv8D1Gfremedm4yw) | 3:57 | 2022-04-12 | 2022-04-22 |
+| [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 |  |
 | [Figure It Out](https://open.spotify.com/track/3wVSzrWnzI9mgFUL5ytlUz) | [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk) | [Figure It Out](https://open.spotify.com/album/3eWsUurhINPES3Db7jkDAX) | 2:21 | 2022-05-02 | 2022-05-12 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-26 | 2023-02-04 |
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-07-23 |
@@ -280,7 +281,7 @@
 | [u & i verse \(feat\. Jade\)](https://open.spotify.com/track/6dwIoyRFMSlnYs6NOtNmGz) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [u & i verse \(feat\. Jade\)](https://open.spotify.com/album/4QzEg7TjlH23dz5r7Psjm9) | 3:00 | 2022-04-21 | 2022-07-01 |
 | [U Hoo](https://open.spotify.com/track/5ld03oA3vIf6fPzPRHg5Gv) | [Shimgaeul](https://open.spotify.com/artist/7k6MvThCgQovANUKxMgtx4) | [U Hoo](https://open.spotify.com/album/2dNczNbMhBdSM1cldYekhX) | 3:27 | 2022-05-11 | 2022-06-10 |
 | [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 | 2022-09-06 |
-| [Under Caffeine](https://open.spotify.com/track/4DunhC1RuUbqC3MXrMozIg) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Under Caffeine](https://open.spotify.com/album/0xx0aVmnZiiqsFfKRTXOJp) | 3:21 | 2022-06-20 |  |
+| [Under Caffeine](https://open.spotify.com/track/4DunhC1RuUbqC3MXrMozIg) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Under Caffeine](https://open.spotify.com/album/0xx0aVmnZiiqsFfKRTXOJp) | 3:21 | 2022-06-20 | 2024-12-06 |
 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 | 2022-07-09 | 2022-07-23 |
 | [Wait a Minute](https://open.spotify.com/track/0B0UfiKDqGRZcuOoulMGZj) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Wait a Minute](https://open.spotify.com/album/4A6v5FLdAi7tXhBGf22EBF) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [WAITING](https://open.spotify.com/track/6CgqbaPJVedaZpeZsYEHSt) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 4:14 | 2022-04-12 | 2022-07-12 |

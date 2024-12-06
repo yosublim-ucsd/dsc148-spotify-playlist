@@ -2,7 +2,7 @@
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 30 years of "CrazySexyCool"\. Cover: TLC
+> The most essential R&B songs from the '90s\. Cover: TLC
 
 142 songs - 10 hr 48 min
 

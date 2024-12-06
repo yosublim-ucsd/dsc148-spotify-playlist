@@ -3986,7 +3986,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154156,
       "name": "Bmf",
       "url": "https://open.spotify.com/track/1AvQ2z67p1VbsoaRZuDoDe"
@@ -10128,7 +10128,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 148895,
       "name": "GIVE IT TO ME (Feat. JAEHA)",
       "url": "https://open.spotify.com/track/1OhIyPBnQZRpCaiqj0Rnqr"
@@ -11783,6 +11783,28 @@
     },
     {
       "album": {
+        "name": "Hero Death",
+        "url": "https://open.spotify.com/album/1KBuWLHihKmsVALx8VA1XJ"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179786,
+      "name": "Hero Death (Feat. Sion)",
+      "url": "https://open.spotify.com/track/3hCNZGL794VRnTB20oEYp3"
+    },
+    {
+      "album": {
         "name": "off the wall",
         "url": "https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d"
       },
@@ -13147,6 +13169,28 @@
     },
     {
       "album": {
+        "name": "Already There",
+        "url": "https://open.spotify.com/album/5QNax6kPK4vO8uSnUZ29GZ"
+      },
+      "artists": [
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161103,
+      "name": "I Know What I'm Doing",
+      "url": "https://open.spotify.com/track/5KGE9mqIl2rviurYiGqdNd"
+    },
+    {
+      "album": {
         "name": "I KNOW YOU LOVE ME (Feat. Skinny Brown)",
         "url": "https://open.spotify.com/album/2DVTijBdYYT8c5EARXNWln"
       },
@@ -13816,7 +13860,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 144413,
       "name": "IT WAS MY MISTAKE (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/4TZnFvaCHao9uXjKLkAtJD"
@@ -32432,6 +32476,28 @@
       "duration_ms": 176000,
       "name": "\ud0e0\uac00 \uac16\uace0\uc640 (feat. oceanfromtheblue)",
       "url": "https://open.spotify.com/track/3RWLbUduD28wKUNHIFgzXL"
+    },
+    {
+      "album": {
+        "name": "Already There",
+        "url": "https://open.spotify.com/album/5QNax6kPK4vO8uSnUZ29GZ"
+      },
+      "artists": [
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        },
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/2V2yYJyuABpj7WqTqmXftV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "\ud64d\uae38\ub3d9 (Hong Gil-Dong)",
+      "url": "https://open.spotify.com/track/7qhwOzOPNbrbpccPdFeJx9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB"

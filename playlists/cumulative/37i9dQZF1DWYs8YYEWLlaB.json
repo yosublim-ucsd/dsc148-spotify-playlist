@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler. Kapak: Burak Bulut",
+  "description": "viral, trend ve y\u00fckselenler. Kapak: Fatma Turgut",
   "name": "trend 2024",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 173000,
       "name": "Ankara R\u00fczgar\u0131",
       "url": "https://open.spotify.com/track/7c610NPD7aqC9654KMUS2o"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 198665,
       "name": "Bahsetmem Laz\u0131m",
       "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 173750,
       "name": "Bir Karanfil",
       "url": "https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 240226,
       "name": "Bo\u015f Yere",
       "url": "https://open.spotify.com/track/2gZeqcysy8j1FrrBUVdIb8"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 185799,
       "name": "Eyvah Neye Yarar",
       "url": "https://open.spotify.com/track/5wSj1BUYLvYf8NWJy9MQuM"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 158571,
       "name": "Ge\u00e7iyor Zaman",
       "url": "https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 170613,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
@@ -900,6 +900,24 @@
       "duration_ms": 181346,
       "name": "Italy Forma",
       "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
+    },
+    {
+      "album": {
+        "name": "\u0130kimizden Biri",
+        "url": "https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX"
+      },
+      "artists": [
+        {
+          "name": "Fatma Turgut",
+          "url": "https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227143,
+      "name": "\u0130kimizden Biri",
+      "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
     },
     {
       "album": {
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 142973,
       "name": "K\u00fcle D\u00f6nm\u00fc\u015fs\u00fcn",
       "url": "https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 207400,
       "name": "Sahici",
       "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
@@ -1622,6 +1640,24 @@
       "duration_ms": 172900,
       "name": "SEVMEY\u0130 DENEMED\u0130N",
       "url": "https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm"
+    },
+    {
+      "album": {
+        "name": "Gazla Gitsin",
+        "url": "https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5"
+      },
+      "artists": [
+        {
+          "name": "Mansur Ark",
+          "url": "https://open.spotify.com/artist/4dtvhNNnGCEi7bGpi3DsQd"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247733,
+      "name": "Silinmez",
+      "url": "https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad"
     },
     {
       "album": {
@@ -1938,7 +1974,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 130974,
       "name": "\u00c7\u00d6ZEMEZLER",
       "url": "https://open.spotify.com/track/300xFtOH49F80uB7BSAsEf"

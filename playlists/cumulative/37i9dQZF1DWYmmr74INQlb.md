@@ -2,7 +2,7 @@
 
 ### [I Love My '00s R&B](https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb)
 
-> Celebrating 20 years of "Destiny Fulfilled"\. Cover: Destiny's Child
+> The most essential R&B songs from the '00s\. Cover: Destiny's Child
 
 174 songs - 12 hr 1 min
 

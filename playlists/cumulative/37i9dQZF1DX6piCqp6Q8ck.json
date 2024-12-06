@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "A December to Remember",
+        "url": "https://open.spotify.com/album/3KcrL0tebR066rsCoG9Rge"
+      },
+      "artists": [
+        {
+          "name": "Season's Greetings",
+          "url": "https://open.spotify.com/artist/5wLLNDMOPzzbKjRGOWymEf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "A December to Remember",
+      "url": "https://open.spotify.com/track/311LJn3hzR1L2fNYlVCYCT"
+    },
+    {
+      "album": {
         "name": "The Dean Martin Christmas Album",
         "url": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H"
       },
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 159903,
       "name": "Christmas Night In Harlem",
       "url": "https://open.spotify.com/track/332PGtU23efyGgyilfneG8"
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 204000,
       "name": "Little White Berry",
       "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 194866,
       "name": "Poppa Santa Claus - Single Version",
       "url": "https://open.spotify.com/track/3By2EZ4GEcaiLQRfyyf8vP"
@@ -2149,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Santa's Sleighbell Song",
+        "url": "https://open.spotify.com/album/5hZW8lqvODmNGu3x7nwXOJ"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149571,
+      "name": "Santa's Sleighbell Song",
+      "url": "https://open.spotify.com/track/0bBZ8ISzCYpOtiaykMl7lg"
+    },
+    {
+      "album": {
         "name": "Santa, Won't You Listen to Me",
         "url": "https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk"
       },
@@ -2178,7 +2214,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 147751,
       "name": "Shake Hands With Santa Claus",
       "url": "https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3"
@@ -2651,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Winter Lights on Christmas Eve",
+        "url": "https://open.spotify.com/album/7a1wXo2JMcZo92VCZJkjVl"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191953,
+      "name": "Winter Lights on Christmas Eve",
+      "url": "https://open.spotify.com/track/2WdZKwHQmVh9Z6mViudQf2"
+    },
+    {
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx"
       },
@@ -2688,6 +2742,24 @@
       "duration_ms": 199773,
       "name": "Winter Wonderland - 78 Take",
       "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
+    },
+    {
+      "album": {
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/1z43uGwDhi8JxpPZwwdYh8"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139865,
+      "name": "You Make It Feel Like Christmas",
+      "url": "https://open.spotify.com/track/4pVaGj9XeDTBebZyzTjizI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6piCqp6Q8ck"

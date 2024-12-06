@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1057,
+  "num_followers": 1115,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 167049,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "You're Always High",
         "url": "https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 183732,
       "name": "You're Always High",
       "url": "https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 167049,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Den stora fula kavajen",
-        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
-      },
-      "artists": [
-        {
-          "name": "Huset",
-          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Kvar h\u00e4r",
-      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Don't Wanna Be Saved",
         "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180436,
       "name": "Don't Wanna Be Saved",
       "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Den stora fula kavajen",
+        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
+      },
+      "artists": [
+        {
+          "name": "Huset",
+          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Kvar h\u00e4r",
+      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "In The Name",
-        "url": "https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII"
-      },
-      "artists": [
-        {
-          "name": "Cultre",
-          "url": "https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "In The Name",
-      "url": "https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Haunted Disc",
         "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224293,
       "name": "Feel your love",
       "url": "https://open.spotify.com/track/61S1qXu0XbNmwmVdqnThYs"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "In The Name",
+        "url": "https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII"
+      },
+      "artists": [
+        {
+          "name": "Cultre",
+          "url": "https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "In The Name",
+      "url": "https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "North Sea Siren (p.78)",
-        "url": "https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3"
-      },
-      "artists": [
-        {
-          "name": "Salty Licorice",
-          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
-        }
-      ],
-      "duration_ms": 135479,
-      "name": "North Sea Siren (p.78)",
-      "url": "https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Silk City",
         "url": "https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195451,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "North Sea Siren (p.78)",
+        "url": "https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3"
+      },
+      "artists": [
+        {
+          "name": "Salty Licorice",
+          "url": "https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs"
+        }
+      ],
+      "duration_ms": 135479,
+      "name": "North Sea Siren (p.78)",
+      "url": "https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Salvador da Rima, Borges, Dudu, MC Igu
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,234 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,216 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 2 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
 | 3 | [O CARA DO DINHEIRO](https://open.spotify.com/track/65gTkmwZwJvNVyW0WWjwUV) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Pedro Wester](https://open.spotify.com/artist/3VbC1pLLgwfV7tpBIoYZVe), [DoisF](https://open.spotify.com/artist/54ufZkMGGcZtj6P7KTTDPS) | [FUNKY](https://open.spotify.com/album/31Nd0SXTFkrnHThM46hoB2) | 2:59 |
 | 4 | [Tomara Que Caia](https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Por Você...](https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK) | 2:05 |
-| 5 | [Adrenocrono](https://open.spotify.com/track/7bJgUYWmDc0csFJvYYNyQd) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Rico Ainda Roubando](https://open.spotify.com/album/7MvNmE9IeWIzjvBRWL73fE) | 1:54 |
+| 5 | [Adrenocrono](https://open.spotify.com/track/7bJgUYWmDc0csFJvYYNyQd) | [Lenco](https://open.spotify.com/artist/3nX08M2KqcSb8Yd9G5YVif), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Rico Ainda Roubando](https://open.spotify.com/album/7MvNmE9IeWIzjvBRWL73fE) | 1:54 |
 | 6 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 7 | [Drive By](https://open.spotify.com/track/3vzhAsFp7MQ2vPidyUC5i0) | [Apenas Killua](https://open.spotify.com/artist/3YKyGoZV0cSOTXPUHi6vxe), [LK OG](https://open.spotify.com/artist/6uu0xGy8OBXwdw039u0H0M), [Marcelinx](https://open.spotify.com/artist/1qiEEUs3i1EFylwhh1qmCI) | [Drive By](https://open.spotify.com/album/6ojG3gu6Md1xMyzVQ1kzQx) | 2:38 |
 | 8 | [CAOS2](https://open.spotify.com/track/5A3uHHvtW4QDpw3FsI73Pd) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [CAOS2](https://open.spotify.com/album/2tGJkTLFG22KhNEvTEbE4y) | 2:52 |

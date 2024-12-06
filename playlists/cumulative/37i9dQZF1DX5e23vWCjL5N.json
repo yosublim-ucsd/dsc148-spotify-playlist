@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182937,
       "name": "Ivan Zucco (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/51C7PZgzmYpBHwWQtq8bK4"
@@ -3233,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "odio, quindi sono.",
+        "url": "https://open.spotify.com/album/6IDuJVEt2aKMUfLodfTuB0"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127101,
+      "name": "odio, quindi sono.",
+      "url": "https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8"
+    },
+    {
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -3368,6 +3386,24 @@
       "duration_ms": 136363,
       "name": "Peccati",
       "url": "https://open.spotify.com/track/26VKv5ZFXCdpF54mfoH4MS"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195926,
+      "name": "Perdono",
+      "url": "https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s"
     },
     {
       "album": {
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 142324,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5VcfNmujrZNUcztU5tR4qY"

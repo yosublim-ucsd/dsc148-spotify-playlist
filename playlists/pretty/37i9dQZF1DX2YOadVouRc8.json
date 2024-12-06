@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30477,
+  "num_followers": 30496,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 158833,
+      "name": "Pier 46 (with KTIZO)",
+      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
         "name": "Mentali",
         "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 150278,
       "name": "Mentali",
       "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 158833,
-      "name": "Pier 46 (with KTIZO)",
-      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
+        "name": "Buds and Bees",
+        "url": "https://open.spotify.com/album/3phsXOLoS9sU3UJzRQqVyx"
+      },
+      "artists": [
+        {
+          "name": "DCMTRS",
+          "url": "https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 230265,
+      "name": "Pinacolada",
+      "url": "https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 162843,
       "name": "Nicely",
       "url": "https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
-        "name": "Buds and Bees",
-        "url": "https://open.spotify.com/album/3phsXOLoS9sU3UJzRQqVyx"
-      },
-      "artists": [
-        {
-          "name": "DCMTRS",
-          "url": "https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 230265,
-      "name": "Pinacolada",
-      "url": "https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64"
     },
     {
       "added_at": "2024-11-29 08:08:41",

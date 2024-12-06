@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Ikhlas (Dalan Kauman) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/34lXn8zs4qNB2HMH0t8LSa"
+      },
+      "artists": [
+        {
+          "name": "Wirit Wijaya",
+          "url": "https://open.spotify.com/artist/6sELd61Heeo22AngWMdtC7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265846,
+      "name": "Ikhlas (Dalan Kauman) - Acoustic Version",
+      "url": "https://open.spotify.com/track/6VL1TdL1Er4fqCqXwQwtBW"
+    },
+    {
+      "album": {
         "name": "Ikhlas Ngenteni",
         "url": "https://open.spotify.com/album/6cda0taIjtzoAxexbbPYxf"
       },

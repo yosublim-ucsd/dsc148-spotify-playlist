@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-817 songs - 3 day 3 hr 59 min
+818 songs - 3 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Give Me Acid](https://open.spotify.com/track/5ihSjM9QHRuhLf1SAMCydv) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Give Me Acid](https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ) | 3:30 | 2024-11-11 |  |
 | [Glitch In Time](https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Glitch In Time EP](https://open.spotify.com/album/2cX9QC3jope2AZovyjGmih) | 8:35 | 2023-10-27 |  |
 | [Go Back](https://open.spotify.com/track/1c1tnaUUm6aK94JQPg3sX9) | [Antonio D'Africa](https://open.spotify.com/artist/03J1IG0hYPv7B2vAERhcFc), [Sall](https://open.spotify.com/artist/020KXX3WjBgzoA9VXmVnTb) | [Go Back](https://open.spotify.com/album/2cuIYvl4ZtyQpl2LafPH8M) | 7:00 | 2020-04-18\* | 2020-09-04 |
+| [Go Hard](https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack EP](https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW) | 3:55 | 2024-12-04 |  |
 | [Golden Pills](https://open.spotify.com/track/7xowrgAZVHQGOrITSXFHw3) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Golden Pills](https://open.spotify.com/album/4FGHlOMlDAwr0F8MdQ2Z0H) | 4:02 | 2023-09-15 | 2024-05-24 |
 | [Good Energy](https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Good Energy](https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x) | 5:22 | 2023-05-26 | 2023-10-11 |
 | [Goodmorning Clorophilla](https://open.spotify.com/track/1o9VJSwuiMaTSbhOn3gEzx) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Goodmorning Clorophilla](https://open.spotify.com/album/4H4BIAL3mHwLREfSAruHNs) | 6:03 | 2020-11-14 | 2021-06-05 |

@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Leader Of The Pack EP",
+        "url": "https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235948,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA"
+    },
+    {
+      "album": {
         "name": "GODD (T78 Remix)",
         "url": "https://open.spotify.com/album/1iDVg0Og8IwgimtcCu6YrY"
       },
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 200000,
       "name": "The Big Bang",
       "url": "https://open.spotify.com/track/3eMp80mvXvOmvmaKRpTnVe"

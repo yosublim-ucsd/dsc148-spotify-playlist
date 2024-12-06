@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Zalia",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: LUNA",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 169600,
       "name": "5 milion\u00f3w influencerek",
       "url": "https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur"
+    },
+    {
+      "album": {
+        "name": "A mo\u017ce",
+        "url": "https://open.spotify.com/album/05KMnTJ04s20nZ3NcqMxpf"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "A mo\u017ce",
+      "url": "https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo"
     },
     {
       "album": {
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 224528,
       "name": "Kochaj mnie zn\u00f3w",
       "url": "https://open.spotify.com/track/1CuMmyGktUVQPgiIidI0i3"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207140,
       "name": "KOI",
       "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
@@ -2597,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "W Domu EP",
+        "url": "https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234715,
+      "name": "Na Si\u0142\u0119",
+      "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
+    },
+    {
+      "album": {
         "name": "Nad Morze",
         "url": "https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h"
       },
@@ -2916,6 +2952,24 @@
       "duration_ms": 151687,
       "name": "Nie Szkodzi",
       "url": "https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56"
+    },
+    {
+      "album": {
+        "name": "Nie trzeba mi nic",
+        "url": "https://open.spotify.com/album/2vdEJg7gNZUzQ6b6W6YQ6e"
+      },
+      "artists": [
+        {
+          "name": "Anna Iwanek",
+          "url": "https://open.spotify.com/artist/6nDN2jmwSvfjDqtzhUhhmS"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133621,
+      "name": "Nie trzeba mi nic",
+      "url": "https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6"
     },
     {
       "album": {
@@ -3374,10 +3428,28 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 209171,
       "name": "Pada deszcz",
       "url": "https://open.spotify.com/track/4I5vcOq58yehX0CXsJ0KuZ"
+    },
+    {
+      "album": {
+        "name": "Pali si\u0119",
+        "url": "https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134522,
+      "name": "Pali si\u0119",
+      "url": "https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC"
     },
     {
       "album": {
@@ -3701,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Prince Charming",
+        "url": "https://open.spotify.com/album/5yfDkEZAj11yWvFmJi6gu6"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153908,
+      "name": "Prince Charming",
+      "url": "https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn"
+    },
+    {
+      "album": {
         "name": "Przy Tobie",
         "url": "https://open.spotify.com/album/5kSXSpAlpatv6yIEZsTym8"
       },
@@ -3992,7 +4082,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154986,
       "name": "Stacja Hel",
       "url": "https://open.spotify.com/track/6n6ME7vJzu3C3QpmGzahTA"
@@ -4260,7 +4350,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154462,
       "name": "taki nawyk",
       "url": "https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY"
@@ -4376,7 +4466,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 175000,
       "name": "Ta\u0144cz\u0119 do Ciebie",
       "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
@@ -4528,7 +4618,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 186083,
       "name": "Tulipany",
       "url": "https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6"
@@ -4749,6 +4839,28 @@
     },
     {
       "album": {
+        "name": "Wielka woda",
+        "url": "https://open.spotify.com/album/1cQL0LZjS2YZdJiRhbe6Iq"
+      },
+      "artists": [
+        {
+          "name": "Maryla Rodowicz",
+          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
+        },
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268420,
+      "name": "Wielka woda",
+      "url": "https://open.spotify.com/track/1FPnHkCZaHLMSqc9tPXyud"
+    },
+    {
+      "album": {
         "name": "Witaj, dzie\u0144 dobry",
         "url": "https://open.spotify.com/album/1SQRaXdgM4FVFevCHRjfYj"
       },
@@ -4824,6 +4936,32 @@
       "duration_ms": 185471,
       "name": "Wolne duchy",
       "url": "https://open.spotify.com/track/3eNAqHexMFGCvtzaMwkjEH"
+    },
+    {
+      "album": {
+        "name": "PATOPOP (Vol. 2)",
+        "url": "https://open.spotify.com/album/1Y50YsFpTHTjqFNHpZKZuH"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171746,
+      "name": "WOLNO\u015a\u0106",
+      "url": "https://open.spotify.com/track/6fpumw6IHcGikjLBCsfUNv"
     },
     {
       "album": {

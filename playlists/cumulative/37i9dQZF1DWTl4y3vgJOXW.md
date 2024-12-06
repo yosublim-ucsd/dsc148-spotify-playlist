@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: The Oklahoma City Thunder
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jordan Love
 
 759 songs - 1 day 15 hr 19 min
 

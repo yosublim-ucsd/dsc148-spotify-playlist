@@ -2,9 +2,9 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: SOAPBOX
+> The best new music from the wide world of punk\. Cover: Anxious
 
-2,185 songs - 4 day 13 hr 5 min
+2,193 songs - 4 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-13 | 2023-06-16 |
 | [2005](https://open.spotify.com/track/7mBH6K8EkUEZmSavjoqkV7) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [2005](https://open.spotify.com/album/75OoXT2GLguj296VYuaRMz) | 2:51 | 2023-02-17 | 2023-04-09 |
 | [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-04 | 2022-04-01 |
+| [2011 Caravan](https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/7D4WeXPKCyZFnh8Fm4pC7x) | 2:40 | 2024-12-06 |  |
 | [21](https://open.spotify.com/track/5Xe7XIUNNyS0Z2ppgPdXYu) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [21](https://open.spotify.com/album/0wLlRIF7IzWJVnOCM5mifc) | 3:14 | 2024-04-25 | 2024-06-21 |
 | [24 Hours](https://open.spotify.com/track/1Yr8sUGygJgWco9RbnNyxu) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [A Comforting Notion](https://open.spotify.com/album/1glYcAS1dwwRDApSyq9GQW) | 4:23 | 2023-03-24 | 2023-05-19 |
 | [2468](https://open.spotify.com/track/0ZxLLAbGaOKdkOQ5cK5Fwr) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [2468](https://open.spotify.com/album/5dvBZvNmMcDA6MxbwpszTV) | 3:17 | 2024-11-22 |  |
@@ -837,6 +838,7 @@
 | [He's A Man](https://open.spotify.com/track/0XwS7lGdF8Ax41IIhnzuBh) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/2N6rm4h0A4I8nfh7q218bN) | 2:38 | 2023-11-10 | 2024-01-08 |
 | [He's A Man](https://open.spotify.com/track/4UQx1lUIMGpQStpkb2PXyr) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [He's A Man](https://open.spotify.com/album/4p4qOGUok3rOwAT9EFu6pQ) | 2:38 | 2023-10-26 | 2023-11-10 |
 | [He's A Man](https://open.spotify.com/track/6KnGDkcs7vV2ufNCIaQEXx) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Hunger Games](https://open.spotify.com/album/2dW75BMldIC4ObSSAeawgC) | 2:38 | 2024-01-05 | 2024-01-12 |
+| [Head & Spine](https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Head & Spine](https://open.spotify.com/album/6WSv8U4e0iDs0vJOYobqb8) | 3:08 | 2024-12-06 |  |
 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 | 2023-04-13 | 2023-06-16 |
 | [HEADCASE](https://open.spotify.com/track/4zaaH9aJmN4TRntzWuUWee) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [HEADCASE](https://open.spotify.com/album/50VUBEb1u98rlHBU7j9PaL) | 3:21 | 2024-10-10 |  |
 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 | 2022-01-14 | 2022-02-25 |
@@ -850,6 +852,7 @@
 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 | 2022-11-04 | 2023-02-17 |
 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 | 2024-03-22 | 2024-05-24 |
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-07-14 | 2022-08-26 |
+| [Hell of a Ride](https://open.spotify.com/track/0k0uWfJHXZdj3k3d7uHmQn) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Renovate](https://open.spotify.com/album/4K1DsbfkEd2YLBshfh9dSM) | 4:10 | 2024-12-06 |  |
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-11-25 | 2023-03-10 |
 | [HELL ON EARTH](https://open.spotify.com/track/30I90lE4F98nCYjaLTo4kc) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast III](https://open.spotify.com/album/4D5DPlknQPa9rRGZkJeGo2) | 3:00 | 2022-12-09 | 2023-02-17 |
 | [Hell on Earth](https://open.spotify.com/track/5vyC5H0TV5bM7rfQRYla4a) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Hell on Earth](https://open.spotify.com/album/4N7Df53D0phbFhcIEmmi8N) | 3:00 | 2022-11-11 | 2022-12-12 |
@@ -1204,6 +1207,7 @@
 | [Maybe It's Just Me](https://open.spotify.com/track/6JwewoMynWy4FCoYK2gFpu) | [Goodnight Sunrise](https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY) | [Maybe It's Just Me](https://open.spotify.com/album/1Gy96uoCiuVeJG91LrugTM) | 3:10 | 2024-08-08 | 2024-10-05 |
 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 | 2024-08-08 | 2024-10-05 |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-10-20 | 2023-01-27 |
+| [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 | 2024-12-06 |  |
 | [Me and Jack](https://open.spotify.com/track/23ynYIQvHfNe7p5iC99qd8) | [Old Wives](https://open.spotify.com/artist/4iz5iEoXCRETEeluR0j5w7) | [Me and Jack](https://open.spotify.com/album/7HAtkSPGeTZPzufTRpmk2x) | 1:43 | 2022-11-11 | 2023-02-17 |
 | [me vs me vs all of y'all](https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [me vs me vs all of y'all](https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u) | 2:59 | 2023-01-20 | 2023-03-25 |
 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 | 2022-10-13 | 2023-01-13 |
@@ -1585,6 +1589,7 @@
 | [Running](https://open.spotify.com/track/70Ihkxi5xu9AEWBob1JBX7) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Super Snõõper](https://open.spotify.com/album/2zgNt2Z61ZncG9IPbEiWQL) | 5:22 | 2023-07-13 | 2023-09-15 |
 | [Ryan and Seth](https://open.spotify.com/track/1RIxmgwDz8JFV4yzoFp7Zg) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Ryan and Seth](https://open.spotify.com/album/01IKXWKYDsXzB50r0EU9XQ) | 2:16 | 2023-07-13 | 2023-09-02 |
 | [Rød bic](https://open.spotify.com/track/2KWCNGQGMexLN8OY56OZaO) | [Honningbarna](https://open.spotify.com/artist/6G5StsdpEhbhdrmJG0WMMx) | [Rød bic](https://open.spotify.com/album/60VDAk9p9ezLbZiRhkN584) | 2:51 | 2024-11-08 |  |
+| [S2L](https://open.spotify.com/track/5tYLtTRxtITNZ4QIUWQVI5) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [S2L](https://open.spotify.com/album/3qiGxtR72UMbFBI1nzlKUi) | 2:18 | 2024-12-06 |  |
 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 | 2023-06-15 | 2023-08-25 |
 | [Sacred Blasphemy](https://open.spotify.com/track/35ftdglCpTUAjY5KEJ0vQI) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 2:53 | 2023-10-13 | 2023-12-15 |
 | [Sacrificio](https://open.spotify.com/track/5nTV8FQGdepD2Vnpop1oV3) | [Lucta](https://open.spotify.com/artist/3TARFOMD73lPyRz1Gf50uP) | [Eterna Lotta](https://open.spotify.com/album/2uivRgw9ExCDf2THnM9Yuk) | 2:55 | 2024-06-27 | 2024-08-02 |
@@ -1731,6 +1736,7 @@
 | [Sometimes \(My Brain Doesn't Work\) \[feat\. Between You & Me\]](https://open.spotify.com/track/0jDdAhIgHkzImkLzLw3J9S) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P), [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Sometimes \(My Brain Doesn't Work\) \[feat\. Between You & Me\]](https://open.spotify.com/album/2190fsTvxqbk4pYE2DgG33) | 2:48 | 2023-10-06 | 2023-12-01 |
 | [Song about Mike Dawner](https://open.spotify.com/track/2Xq1KfkKKIejn21zEyTNp7) | [Primetime Failure](https://open.spotify.com/artist/4vCEXhGvZILr8JiAenk0ee) | [Oxygen](https://open.spotify.com/album/3fbNnJvFuqLdhcYhYxgvPC) | 2:07 | 2023-03-24 | 2023-05-26 |
 | [Soon](https://open.spotify.com/track/35rkM6qfFjJtX1tk15WAEy) | [moshimoshi](https://open.spotify.com/artist/1Cj1ikpwDx35BF6js8tR3p) | [Soon](https://open.spotify.com/album/0EJFXVFPnhBhgDu2JrwevN) | 2:07 | 2022-11-11 | 2023-02-17 |
+| [Sooner](https://open.spotify.com/track/1nQXg98rEPCdHcETJGd2bb) | [red sun](https://open.spotify.com/artist/2EBOAZfR66SwpO9mGKsaul) | [Unnecessary Riffness](https://open.spotify.com/album/0AAOsOHACFnYGxKyqfKPKd) | 2:15 | 2024-12-06 |  |
 | [Sorority](https://open.spotify.com/track/3WBCcdmfS1EmlkHkvZU2o7) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [SORORITY / CONTROL](https://open.spotify.com/album/3SwAxSQK2G4ziJUs8TDWOK) | 2:43 | 2023-04-07 | 2023-06-02 |
 | [Sorry](https://open.spotify.com/track/0B6t85byLSGc0j3iCgV6eE) | [Lil Tati](https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v) | [Sorry](https://open.spotify.com/album/3CIzQyoBZNgBsCj59xg6Kg) | 3:03 | 2022-09-01 | 2022-10-14 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-12 | 2022-06-24 |
@@ -1791,6 +1797,7 @@
 | [Strawberry](https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Strawberry](https://open.spotify.com/album/3SbYi9fNBxoTSpaVrz4jFO) | 4:13 | 2024-08-29 | 2024-10-25 |
 | [Strawberry \(Probably\)](https://open.spotify.com/track/0QZ10VC3xe0IsUcWBejgtF) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 3:57 | 2023-05-25 | 2023-08-11 |
 | [Straycations](https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Straycations](https://open.spotify.com/album/7tLQKPKKgOwcWQgZ2MekC5) | 3:49 | 2024-06-27 | 2024-08-09 |
+| [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 | 2024-12-06 |  |
 | [Stuck AF](https://open.spotify.com/track/1phV5AYt4s2zI9Ea3M9gF8) | [Baits](https://open.spotify.com/artist/4HUALyDksgCev2Td6iP7WB) | [Stuck AF](https://open.spotify.com/album/5lVsQPcd8fvZcJhXKtFTHD) | 2:09 | 2023-04-20 | 2023-06-23 |
 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-12 | 2024-02-23 |
 | [stuck.](https://open.spotify.com/track/62io5KnYbPa7y8NSXJwpUo) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [stuck.](https://open.spotify.com/album/7dBT7hYdoqjKmge72tftyR) | 2:14 | 2023-08-03 | 2023-09-29 |
@@ -1989,6 +1996,7 @@
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2022-05-21 |
 | [Toxic Love](https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Toxic Love](https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1) | 2:21 | 2022-05-12 | 2022-06-24 |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-06 | 2022-11-18 |
+| [Trail Of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 | 2024-12-06 |  |
 | [Trans Youth](https://open.spotify.com/track/0lzq9WLqSlKMoGHRXUlDoC) | [Neighbours Burning Neighbours](https://open.spotify.com/artist/4GQw6nVpgVMHCgUnEdUslh) | [Trans Youth](https://open.spotify.com/album/1qsnpATTwO2ryktzueWttL) | 4:55 | 2024-09-12 | 2024-11-01 |
 | [Trapped](https://open.spotify.com/track/2pNY5hVNm3Rcyiq3aGJGSh) | [Forgive](https://open.spotify.com/artist/4K5xe2ma22FG6W0lCSOmHb) | [Trapped](https://open.spotify.com/album/7fu31UXzVSDSTTVBJGWjRd) | 2:51 | 2023-11-10 | 2024-01-19 |
 | [TREES](https://open.spotify.com/track/1ncnbhT16pKyQV73MK9wHY) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [TREES](https://open.spotify.com/album/6vZAJX21PTGk70FR4IZ7De) | 2:53 | 2023-12-08 | 2024-02-10 |

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds Música Mexicana tracks in 2024\. Cover: Edgar Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,452 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,526 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que No Me Faltes Tu](https://open.spotify.com/track/48hTXrjbMzawf9L1HHZns2) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Que No Me Faltes Tu](https://open.spotify.com/album/5aEszkNkmKR87TFAV6E1I5) | 3:24 |
 | 2 | [X TI](https://open.spotify.com/track/59dpq4ZqilTbtIBmEnTm5m) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [X TI](https://open.spotify.com/album/66hZhlnmo8d7Z39mOT7ket) | 4:04 |
-| 3 | [TINTEADO](https://open.spotify.com/track/4pkZkvLb6EoqQvpY8mM381) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [TINTEADO](https://open.spotify.com/album/4SgwY7r4w9JtPePdCjB5zn) | 2:21 |
+| 3 | [Miedo](https://open.spotify.com/track/1ttyQDwjNVzxAaH27aE2AD) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Miedo](https://open.spotify.com/album/70ARhx6oOzZ3nac3CTx0Lz) | 3:36 |
 | 4 | [Estilo Militar](https://open.spotify.com/track/4PaS9QrY9IqVUh5iAYf2mH) | [Rutazz](https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh) | [Estilo Militar](https://open.spotify.com/album/6VgP0bgx5fpyXxqMUT0BB5) | 2:57 |
-| 5 | [2 AM](https://open.spotify.com/track/6D4JNYwwaajXaqdKnc4ZaF) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [2 AM](https://open.spotify.com/album/1xTY3tRSMpHpZjB42PT6hu) | 3:15 |
-| 6 | [Miedo](https://open.spotify.com/track/1ttyQDwjNVzxAaH27aE2AD) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Miedo](https://open.spotify.com/album/70ARhx6oOzZ3nac3CTx0Lz) | 3:36 |
-| 7 | [Blank Space \(Hoja en Blanco\)](https://open.spotify.com/track/3QAqgK3vYNv28srIoplaT0) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Blank Space](https://open.spotify.com/album/5VZ5MLzUEoCMlF0bTwxqRN) | 4:22 |
+| 5 | [Entre Peligro](https://open.spotify.com/track/05E402PUeZFNUR0Hlg5xp2) | [Ascenso Recio](https://open.spotify.com/artist/6FXZLq6qLDlkyQKbXF37sP) | [Entre Peligro](https://open.spotify.com/album/37yQwL8p1fW8sac8yfKCIm) | 2:50 |
+| 6 | [Blank Space \(Hoja en Blanco\)](https://open.spotify.com/track/3QAqgK3vYNv28srIoplaT0) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Blank Space](https://open.spotify.com/album/5VZ5MLzUEoCMlF0bTwxqRN) | 4:22 |
+| 7 | [De Aqui Por Alla](https://open.spotify.com/track/00Lm5SsZ8AwKkVb79L0Kcu) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [De Aqui Por Alla](https://open.spotify.com/album/7mVd6rqOQaM4y5QZC7j7EX) | 2:52 |
 | 8 | [Invéntame](https://open.spotify.com/track/0bSROeKA6bFtnYWuDeUD2F) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35) | [Invéntame](https://open.spotify.com/album/5YuPrqBs7OfwsEGQMc32oN) | 3:28 |
-| 9 | [Brooklyn](https://open.spotify.com/track/63SSZgiUBZz6V28xBZOESo) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [Brooklyn](https://open.spotify.com/album/5F0ILkndZgtpCqnaXkb2gg) | 2:33 |
-| 10 | [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/track/1WNgSaJ0GBEfhqWeHt3WQt) | [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/album/2EPOUPWKYsoA6dg2Dtn63S) | 3:28 |
-| 11 | [Extssy Model](https://open.spotify.com/track/10votWvfohmtOJisWbux01) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Extssy Model](https://open.spotify.com/album/7DhbdfUr9NdpgPCjQpSPt4) | 3:17 |
-| 12 | [Perfecta Eres](https://open.spotify.com/track/4aE6HwoNS2EHvMYOjxVtwt) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Perfecta Eres](https://open.spotify.com/album/0W9IHzB3npupPNA9NtYjb5) | 3:16 |
-| 13 | [De Aqui Por Alla](https://open.spotify.com/track/00Lm5SsZ8AwKkVb79L0Kcu) | [Estilo Real](https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN) | [De Aqui Por Alla](https://open.spotify.com/album/7mVd6rqOQaM4y5QZC7j7EX) | 2:52 |
-| 14 | [Entre Peligro](https://open.spotify.com/track/05E402PUeZFNUR0Hlg5xp2) | [Ascenso Recio](https://open.spotify.com/artist/6FXZLq6qLDlkyQKbXF37sP) | [Entre Peligro](https://open.spotify.com/album/37yQwL8p1fW8sac8yfKCIm) | 2:50 |
+| 9 | [Extssy Model](https://open.spotify.com/track/10votWvfohmtOJisWbux01) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Extssy Model](https://open.spotify.com/album/7DhbdfUr9NdpgPCjQpSPt4) | 3:17 |
+| 10 | [TINTEADO](https://open.spotify.com/track/4pkZkvLb6EoqQvpY8mM381) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [TINTEADO](https://open.spotify.com/album/4SgwY7r4w9JtPePdCjB5zn) | 2:21 |
+| 11 | [2 AM](https://open.spotify.com/track/6D4JNYwwaajXaqdKnc4ZaF) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [2 AM](https://open.spotify.com/album/1xTY3tRSMpHpZjB42PT6hu) | 3:15 |
+| 12 | [Brooklyn](https://open.spotify.com/track/63SSZgiUBZz6V28xBZOESo) | [SpliffHappy](https://open.spotify.com/artist/5K8DPehdUSrqBsICbIxDOR) | [Brooklyn](https://open.spotify.com/album/5F0ILkndZgtpCqnaXkb2gg) | 2:33 |
+| 13 | [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/track/1WNgSaJ0GBEfhqWeHt3WQt) | [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/album/2EPOUPWKYsoA6dg2Dtn63S) | 3:28 |
+| 14 | [Perfecta Eres](https://open.spotify.com/track/4aE6HwoNS2EHvMYOjxVtwt) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Perfecta Eres](https://open.spotify.com/album/0W9IHzB3npupPNA9NtYjb5) | 3:16 |
 | 15 | [Suelas Azules](https://open.spotify.com/track/0DBWO6NmY0uBeNZENpFnWy) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Suelas Azules](https://open.spotify.com/album/4UKWSwiUEMEgLX4RR7OWjS) | 2:41 |
 | 16 | [Prada & LV](https://open.spotify.com/track/3HfM4VM7XfQgrfT0JkriPG) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Prada & LV](https://open.spotify.com/album/7fZXiUZ03OwJ7GouZLnlfS) | 2:50 |
 | 17 | [La Patrulla](https://open.spotify.com/track/7rSg67Kxf3wTviNcSCGmQT) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ) | [La Patrulla](https://open.spotify.com/album/6sFYYWKSY9KWnTcOzfmv46) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 99 | [Creelo](https://open.spotify.com/track/2ZwNUjwIqmV23AWCNZ3DZs) | [MURUA](https://open.spotify.com/artist/3G8cp3fcZvVRWkb4vqbuhz), [Sky High](https://open.spotify.com/artist/2zb1YsLNGpua61Aes4GkyQ) | [Creelo](https://open.spotify.com/album/61uuPu4k4owf2iWHt7aVrS) | 3:41 |
 | 100 | [12am](https://open.spotify.com/track/7bwpnRxH4NaIgFIMVjNcQk) | [Esteban Guerrero](https://open.spotify.com/artist/0MAF0AzaLzdYJmaOl8IQYl) | [Lo Que Antes Era](https://open.spotify.com/album/2urcfjGTLq0vAZruVfHlcX) | 3:00 |
 
-Snapshot ID: `Z1BHxAAAAABiXop1tqvluxGmrBbR2sJx`
+Snapshot ID: `Z1HXegAAAACQ8NwBB6tnhjfUs2T47de2`

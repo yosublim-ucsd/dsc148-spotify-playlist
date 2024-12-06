@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-331 songs - 17 hr 39 min
+332 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cohete](https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Cohete](https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1) | 3:31 | 2024-08-30 | 2024-10-26 |
 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 | 2021-10-29 | 2023-03-26 |
 | [Con Calma](https://open.spotify.com/track/0EGOgEqaiBjTWIu38eoXuH) | [IILO](https://open.spotify.com/artist/3b9lTEUWpg0CqrtDF8leUi) | [Con Calma](https://open.spotify.com/album/5NDtnpK44qAfjzjapkDJML) | 2:30 | 2024-06-21 |  |
-| [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 | 2024-08-16 |  |
+| [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 | 2024-08-16 | 2024-12-06 |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-10-08 | 2023-11-11 |
 | [Copacabana](https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Copacabana](https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt) | 2:54 | 2021-10-08 | 2023-11-11 |
 | [Coquetilla](https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Coquetilla](https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc) | 2:09 | 2024-04-19 | 2024-05-22 |
@@ -228,6 +228,7 @@
 | [No Paramos](https://open.spotify.com/track/7iVuADTdjqmJpyqIn6JehB) | [LEYVA](https://open.spotify.com/artist/075bPZuXI1J26sV7ziRhzZ), [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [No Paramos](https://open.spotify.com/album/1UGr6Elb8Yb9Hv5Nq4KbPJ) | 3:05 | 2024-08-09 | 2024-10-26 |
 | [No Pares](https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [No Pares](https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z) | 3:33 | 2024-02-09 | 2024-03-25 |
 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-07-05 |  |
+| [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 | 2024-11-15 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2021-10-08 | 2023-11-11 |
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-03 | 2023-11-11 |
 | [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 | 2023-11-10 | 2024-12-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Cry Club",
+  "description": "New and local indie noise. Cover: Press Club",
   "name": "Local Noise",
   "tracks": [
     {
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Talk About Love",
+        "url": "https://open.spotify.com/album/0jJwlSGBMUQ2FE4x3yQEkM"
+      },
+      "artists": [
+        {
+          "name": "Forever Ends Here",
+          "url": "https://open.spotify.com/artist/67ai9bHZKueFEXQhqxXzfq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "Don't Wanna Talk About Love",
+      "url": "https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8"
+    },
+    {
+      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -1718,6 +1736,24 @@
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
+    },
+    {
+      "album": {
+        "name": "Everybody's Listening to the Radio Now",
+        "url": "https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R"
+      },
+      "artists": [
+        {
+          "name": "Majak Door",
+          "url": "https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333498,
+      "name": "Everybody's Listening to the Radio Now",
+      "url": "https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr"
     },
     {
       "album": {
@@ -2608,6 +2644,24 @@
       "duration_ms": 205274,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z"
+    },
+    {
+      "album": {
+        "name": "Home Sometime",
+        "url": "https://open.spotify.com/album/5BjyAeYsgnEbu5w7jajMim"
+      },
+      "artists": [
+        {
+          "name": "Michael Llewellyn",
+          "url": "https://open.spotify.com/artist/5QSdSdMgSTGmLnVJ3Zs7ML"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Home Sometime",
+      "url": "https://open.spotify.com/track/5YFiFSghuErMRrsW5sJZvo"
     },
     {
       "album": {
@@ -3837,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Never Know",
+        "url": "https://open.spotify.com/album/7npoexhJLabaBZMQHedxGy"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213046,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/4OeKxxRK8khI2hEwiQtf65"
+    },
+    {
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/0oUN13Dr10JPewYeHxEl87"
       },
@@ -3920,7 +3992,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 164689,
       "name": "No God",
       "url": "https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI"
@@ -4522,7 +4594,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 95092,
       "name": "Please Me (feat. The Linda Lindas)",
       "url": "https://open.spotify.com/track/6HXPYn5p3zhGSW3mNyLNOk"
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 209249,
       "name": "Please!",
       "url": "https://open.spotify.com/track/3RqugeV9iW4hWpN7O7nwUl"
@@ -5844,7 +5916,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 173394,
       "name": "Ten Feet Tall",
       "url": "https://open.spotify.com/track/6D0o7Xxgry0inlMcFii7CP"
@@ -5880,7 +5952,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 243442,
       "name": "The Cow",
       "url": "https://open.spotify.com/track/0EMUBh5n48w0lzVE8tDpNq"
@@ -6337,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/4CV0mSYKXJsLW8ZEfNZ04E"
+      },
+      "artists": [
+        {
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199359,
+      "name": "Wasted Days",
+      "url": "https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu"
+    },
+    {
+      "album": {
         "name": "Wasting Time",
         "url": "https://open.spotify.com/album/5asqa3CTzD6EOJG3JSfWOS"
       },
@@ -6514,6 +6604,24 @@
       "duration_ms": 145197,
       "name": "Wreck & Ruin",
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
+      "album": {
+        "name": "YEAR OF THE RAT",
+        "url": "https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB"
+      },
+      "artists": [
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "YEAR OF THE RAT",
+      "url": "https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1"
     },
     {
       "album": {

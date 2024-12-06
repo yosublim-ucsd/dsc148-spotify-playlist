@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Spiritbox",
+  "description": "The best in new rock. Cover: Sam Fender",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 214440,
       "name": "Blood",
       "url": "https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd"
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Don't Feel Right",
+        "url": "https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk"
+      },
+      "artists": [
+        {
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186463,
+      "name": "Don't Feel Right",
+      "url": "https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo"
+    },
+    {
+      "album": {
         "name": "(un)adored",
         "url": "https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 124663,
       "name": "First One",
       "url": "https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD"
@@ -1246,7 +1264,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 219457,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v"
@@ -2170,6 +2188,24 @@
       "duration_ms": 165656,
       "name": "Ninety Nine (Go For Broke)",
       "url": "https://open.spotify.com/track/3AuhfeALbFab4Fyyd3EdWQ"
+    },
+    {
+      "album": {
+        "name": "Nintendo",
+        "url": "https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141220,
+      "name": "Nintendo",
+      "url": "https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD"
     },
     {
       "album": {
@@ -3758,6 +3794,24 @@
       "duration_ms": 171351,
       "name": "What You've Lost",
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+    },
+    {
+      "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
     },
     {
       "album": {

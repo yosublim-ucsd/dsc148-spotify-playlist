@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29zlP8CHXWW.md) - [plain]
 
 > Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2025 </a> conference.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,795 likes - 41 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,790 likes - 41 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -646,6 +646,10 @@
       },
       "artists": [
         {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
           "name": "King Princess",
           "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
@@ -1045,6 +1049,10 @@
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Stromae",
           "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"

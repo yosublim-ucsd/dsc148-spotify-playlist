@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Ben Mazu\u00e9",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Solann",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 197000,
       "name": "Empreinte",
       "url": "https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 211150,
       "name": "J'sais pas",
       "url": "https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM"
@@ -1000,6 +1000,24 @@
       "duration_ms": 157281,
       "name": "Le Lapin",
       "url": "https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA"
+    },
+    {
+      "album": {
+        "name": "Le mauvais gar\u00e7on",
+        "url": "https://open.spotify.com/album/0bixY4p5CCGmoO8Btr9676"
+      },
+      "artists": [
+        {
+          "name": "Thomas Caruso Aragona",
+          "url": "https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187390,
+      "name": "Le mauvais gar\u00e7on",
+      "url": "https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP"
     },
     {
       "album": {
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 169400,
       "name": "Tu parles trop",
       "url": "https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR"
@@ -1968,6 +1986,28 @@
       "duration_ms": 215320,
       "name": "un chien sur le port",
       "url": "https://open.spotify.com/track/4dOmICDdEiOiqgiDhD1XrU"
+    },
+    {
+      "album": {
+        "name": "Piano Voix Plus",
+        "url": "https://open.spotify.com/album/2KV6vuCpm7D0stDWSwxcCr"
+      },
+      "artists": [
+        {
+          "name": "Arthur Teboul",
+          "url": "https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6"
+        },
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Un homme heureux",
+      "url": "https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t"
     },
     {
       "album": {
@@ -2022,6 +2062,24 @@
       "duration_ms": 165333,
       "name": "\u00c0 l'\u00e9vidence",
       "url": "https://open.spotify.com/track/159HSchugulB4yPCx1SaI1"
+    },
+    {
+      "album": {
+        "name": "L\u2019impermanence",
+        "url": "https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN"
+      },
+      "artists": [
+        {
+          "name": "Alain Chamfort",
+          "url": "https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145786,
+      "name": "\u00c9claircie sur le jardin",
+      "url": "https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY"
     },
     {
       "album": {

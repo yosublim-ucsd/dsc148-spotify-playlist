@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=_DP1pOcnRWygI85Vp4Ct0w> Marizu,  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=wFE5h9yTS--vUzB3NTyz8g>Reblah, <a href=https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3?si=5XSIjLnDS5-y8SW79b45tw>IMRHAN",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -3589,6 +3589,32 @@
     },
     {
       "album": {
+        "name": "Joy Down Deep",
+        "url": "https://open.spotify.com/album/2CcgIKNjy0wvCQWIqRdowB"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Joy Down Deep",
+      "url": "https://open.spotify.com/track/7qgwTetzQEUkehguE3VYGD"
+    },
+    {
+      "album": {
         "name": "Joyful Noise",
         "url": "https://open.spotify.com/album/4rEJpPtx2uMpFYHfh0Iii1"
       },
@@ -4016,6 +4042,36 @@
       "duration_ms": 136343,
       "name": "Love",
       "url": "https://open.spotify.com/track/53YsxPfny6Z3fiTBqvzlxQ"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4UuVU2i4pe6NKn6ly1ZdbR"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        },
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "yinkah",
+          "url": "https://open.spotify.com/artist/6YWJpsuE7N3BUInXjKqimK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132056,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1cJi8GvduWWsW9WnlFw0zD"
     },
     {
       "album": {

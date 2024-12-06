@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Father John Misty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,190 likes - 180 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,287 likes - 180 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 4 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
 | 5 | [One Foot](https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [One Foot](https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k) | 2:36 |
 | 6 | [Sick Dogs](https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Sick Dogs](https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow) | 3:29 |
-| 7 | [Ne Me Quitte Pas](https://open.spotify.com/track/2f84CZQNDr8fqTVUaj7rFK) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Songs](https://open.spotify.com/album/4Z7342Hg1xNXZEGNmSfCIY) | 4:37 |
+| 7 | [Ne Me Quitte Pas](https://open.spotify.com/track/2f84CZQNDr8fqTVUaj7rFK) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Songs \(2024 Remaster\)](https://open.spotify.com/album/4Z7342Hg1xNXZEGNmSfCIY) | 4:37 |
 | 8 | [Pride Trials](https://open.spotify.com/track/5zuVohl16pC7vc5AgaQ4TZ) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Pride Trials](https://open.spotify.com/album/6UFltduAEZYKcBqplU2HMk) | 4:14 |
 | 9 | [choke enough](https://open.spotify.com/track/0PPVJqXep26iUfBLvz6LOz) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/1sAbtQU4VkbjsM04CkfK8u) | 4:00 |
 | 10 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |

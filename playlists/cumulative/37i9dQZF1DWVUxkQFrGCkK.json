@@ -2625,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Cash Only",
+        "url": "https://open.spotify.com/album/5GdozmjqIYpkSqymsLKc6t"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146125,
+      "name": "Cash Only",
+      "url": "https://open.spotify.com/track/0sRtWWtsxrztPvnXWD1SM7"
+    },
+    {
+      "album": {
         "name": "Ca\u00e7ando XXT",
         "url": "https://open.spotify.com/album/4dKVITBa84Abop0FNPfr6c"
       },
@@ -3226,6 +3248,24 @@
       "duration_ms": 331855,
       "name": "Day I Met You",
       "url": "https://open.spotify.com/track/2CKUBP6gZlk7gVSQLiie5M"
+    },
+    {
+      "album": {
+        "name": "Day Starter / Affection",
+        "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Day Starter",
+      "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
     },
     {
       "album": {
@@ -7429,6 +7469,28 @@
     },
     {
       "album": {
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
+    },
+    {
+      "album": {
         "name": "L.I.F.E",
         "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
@@ -7488,6 +7550,36 @@
       "duration_ms": 230605,
       "name": "La Fille aux Cheveux de Lin - Model Man Rework",
       "url": "https://open.spotify.com/track/4mjcIL4i2NnwPKt7OxfNSd"
+    },
+    {
+      "album": {
+        "name": "La Musa (with Miluhska) [Adam Ten & Rafael Remix]",
+        "url": "https://open.spotify.com/album/2WbstWP3qxKSDj8igS7UH6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        },
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "La Musa (with Miluhska) - Adam Ten & Rafael Remix",
+      "url": "https://open.spotify.com/track/0ivsxJivxC5AK48jXsOpzc"
     },
     {
       "album": {
@@ -9741,6 +9833,28 @@
     },
     {
       "album": {
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225245,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
+    },
+    {
+      "album": {
         "name": "Naarm's Sunset",
         "url": "https://open.spotify.com/album/00KRDJrwKBXMW3aZcmgkYv"
       },
@@ -10056,6 +10170,40 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "album": {
+        "name": "Not The Same (Black Coffee feat. Shoba Remix)",
+        "url": "https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Shoba",
+          "url": "https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Not The Same - Black Coffee feat. Shoba Remix",
+      "url": "https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD"
     },
     {
       "album": {
@@ -14411,6 +14559,24 @@
     },
     {
       "album": {
+        "name": "Toca's Miracle (Vidojean X Oliver Loenn Remix)",
+        "url": "https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Toca's Miracle - Vidojean X Oliver Loenn Edit",
+      "url": "https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js"
+    },
+    {
+      "album": {
         "name": "Told You",
         "url": "https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN"
       },
@@ -14734,8 +14900,8 @@
           "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
         },
         {
-          "name": "Sirolf (NL)",
-          "url": "https://open.spotify.com/artist/6sc7heOIfjIsOaUilrPDEh"
+          "name": "Sirolf",
+          "url": "https://open.spotify.com/artist/3ulDmsvcko3YGzI1QIPLJ2"
         },
         {
           "name": "Nic Fanciulli",
@@ -14746,7 +14912,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210655,
-      "name": "U & I (feat. Sirolf (NL)) - Nic Fanciulli Remix",
+      "name": "U & I (feat. Sirolf) - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/2yJhs62D1SBW6HuUCcoaaL"
     },
     {
@@ -15104,6 +15270,28 @@
       "duration_ms": 441915,
       "name": "W Y H A",
       "url": "https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ"
+    },
+    {
+      "album": {
+        "name": "W4U (feat. Jen)",
+        "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
+      },
+      "artists": [
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239492,
+      "name": "W4U (feat. Jen)",
+      "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
     },
     {
       "album": {

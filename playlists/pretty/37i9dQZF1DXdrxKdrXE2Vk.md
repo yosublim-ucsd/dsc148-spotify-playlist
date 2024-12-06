@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: TAYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,859 likes - 90 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,933 likes - 90 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

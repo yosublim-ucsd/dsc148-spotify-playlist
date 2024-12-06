@@ -1,378 +1,358 @@
 {
-  "description": "<Jamie xx live in Seoul> 2024\ub144 11\uc6d4 28\uc77c (\ubaa9) \uc624\ud6c4 8\uc2dc @YES 24 \ub77c\uc774\ube0c \ud640(\uc11c\uc6b8)",
-  "num_followers": 18061,
-  "original_name": "On Tour Korea: Jamie xx",
+  "description": "GUMMY Tour Concert 2024 \u3008LOVE\u3009 2024\ub144 12\uc6d4 14~28\uc77c (\ubaa9) @\uc11c\uc6b8, \ub300\uad6c, \ubd80\uc0b0, \uc131\ub0a8",
+  "num_followers": 18048,
+  "original_name": "On Tour Korea: \uac70\ubbf8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0QWOwAAAABFMzZV13lY9sTdbJU/wyFf",
+  "snapshot_id": "Z1ExMwAAAADMRjFt91isfpO8xfbFyKjs",
   "tracks": [
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+        "name": "Love Recipe",
+        "url": "https://open.spotify.com/album/2xVUfaZWMf3jPfWlOOwqBj"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         },
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 231354,
+      "name": "Love Recipe",
+      "url": "https://open.spotify.com/track/7llGIYeteN3pTEcujNfeEZ"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+        "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 240590,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Childish Adult",
+      "url": "https://open.spotify.com/track/06hY8viaxC51LU6w4Cm4lY"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "\uad6c\ub974\ubbf8 \uadf8\ub9b0 \ub2ec\ube5b (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/73PDfj8ygf4kCSua7abkMU"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "\uad6c\ub974\ubbf8 \uadf8\ub9b0 \ub2ec\ube5b",
+      "url": "https://open.spotify.com/track/0kowEmoCAdTMJj5dm44eGK"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Memory Loss",
+      "url": "https://open.spotify.com/track/0tCZ6PZXTa25Fidj0DnYzJ"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.7",
+        "url": "https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "\uae30\uc5b5\ud574\uc918\uc694 \ub0b4 \ubaa8\ub4e0 \ub0a0\uacfc \uadf8\ub54c\ub97c",
+      "url": "https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 265013,
+      "name": "\ud63c\uc790\ub9cc \ud558\ub294 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/6J0M0cR2SOdgmAHTjtoYYl"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "Baramibunda OST Part 3",
+        "url": "https://open.spotify.com/album/3ms066Wz3MnQ05isWQpzzA"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Snowflake",
+      "url": "https://open.spotify.com/track/4QXb2c6lUkcjuyKXMNcv4L"
+    },
+    {
+      "added_at": "2024-12-05 04:50:59",
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         },
         {
-          "name": "MC Moose",
-          "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+          "name": "T.O.P.",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
         }
       ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan"
+      "duration_ms": 236560,
+      "name": "I'm Sorry (Feat. T.O.P)",
+      "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+        "name": "Will it snow for Christmas? OST",
+        "url": "https://open.spotify.com/album/3TcRNlXWiCD5Zym1qOtTco"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/79gWc6dZ1dXH7rC67DTunz"
+      "duration_ms": 211069,
+      "name": "\uadf8\ub300\ub77c\uc11c",
+      "url": "https://open.spotify.com/track/0A8NkJsiEmBC18C4tT7YSj"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+        "name": "Romantic Doctor 3 OST Part.2",
+        "url": "https://open.spotify.com/album/7Db25PkL5e5d7RKPk4mlhw"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 135835,
-      "name": "Wanna",
-      "url": "https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p"
+      "duration_ms": 207375,
+      "name": "I Will Stay With You",
+      "url": "https://open.spotify.com/track/4QOv0bYWBRr6Fp3paq3tZw"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 240580,
-      "name": "Treat Each Other Right",
-      "url": "https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC"
+      "duration_ms": 198400,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/01Z81LLMSZfw8PgBJAKRcI"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "LET'S DO IT AGAIN",
-        "url": "https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ"
+        "name": "STROKE",
+        "url": "https://open.spotify.com/album/0dvQV58rP7hduBW5AD2SM3"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 225494,
-      "name": "LET'S DO IT AGAIN - Radio Edit",
-      "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
+      "duration_ms": 261706,
+      "name": "I I YO (Prod.Gill Of Magic Mansion)",
+      "url": "https://open.spotify.com/track/1lSnGPnfYw6irn5YleedJN"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "Waited All Night",
-        "url": "https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8"
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        },
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 208334,
-      "name": "Waited All Night",
-      "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
+      "duration_ms": 252573,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6Qe87q9panJspyAMdbtAtX"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "All Under One Roof Raving",
-        "url": "https://open.spotify.com/album/2t6527FpEu3kojik3PibKp"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 359929,
-      "name": "All Under One Roof Raving",
-      "url": "https://open.spotify.com/track/6giQSCiUkjiYkMsCXZ3ZAy"
+      "duration_ms": 266053,
+      "name": "\ub0a8\uc790\ub77c\uc11c",
+      "url": "https://open.spotify.com/track/0YzFW9YrGZ8H0PDxm4b9u6"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "KILL DEM",
-        "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
+        "name": "\ub300\ubb3c Pt.1 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/2h07CWmZRbmE2ndRohoW9O"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 223536,
-      "name": "KILL DEM",
-      "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
+      "duration_ms": 256105,
+      "name": "\uc8fd\uc5b4\ub3c4 \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/2mMpO8XVZAjXukh1nlDb65"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "It's So Good",
-        "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
+        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0BLapMW376NbEbg6CtF2XN"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 278518,
-      "name": "It's So Good",
-      "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
+      "duration_ms": 247280,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/5SpFYYh8k9OzViu7XCWIkt"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 205638,
-      "name": "Still Summer",
-      "url": "https://open.spotify.com/track/27D9YN3uHPD3PTXvzNtbto"
+      "duration_ms": 227266,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ"
     },
     {
-      "added_at": "2024-11-25 06:16:27",
+      "added_at": "2024-12-05 04:50:59",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 10",
+        "url": "https://open.spotify.com/album/6bJMzXTQUjeSwMaunET0g4"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 231039,
-      "name": "Obvs",
-      "url": "https://open.spotify.com/track/5kSBstWdaP3tMlArgGM00C"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Loud Places",
-      "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 376918,
-      "name": "Breather",
-      "url": "https://open.spotify.com/track/6pOzbdJKEr4hvXkX7VkfY6"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 232622,
-      "name": "Sleep Sound",
-      "url": "https://open.spotify.com/track/7H2adPObEX0T4sYTPzm6vK"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 71680,
-      "name": "Every Single Weekend - Interlude",
-      "url": "https://open.spotify.com/track/1wpcJ6TCrKpH6KdBmrp9yN"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Oona Doherty",
-          "url": "https://open.spotify.com/artist/2Q4FR4Ss0mh6EvbiQBHEOU"
-        }
-      ],
-      "duration_ms": 337414,
-      "name": "Falling Together",
-      "url": "https://open.spotify.com/track/08Jhu8OZ6gCIGWQn6vP3uI"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "Far Nearer",
-        "url": "https://open.spotify.com/album/7hwnDWycmNtOCtfQ8JSS56"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 410577,
-      "name": "Far Nearer",
-      "url": "https://open.spotify.com/track/1KThgRWylKw6mbUtA8pyPH"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 213622,
-      "name": "I Know There's Gonna Be (Good Times)",
-      "url": "https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD"
-    },
-    {
-      "added_at": "2024-11-25 06:16:27",
-      "album": {
-        "name": "We're New Here",
-        "url": "https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        },
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/7xPldYgAV4W8L4AOsq6XJG"
+      "duration_ms": 189527,
+      "name": "\ub178\ub798\ud574\uc694 \uadf8\ub300 \ub4e3\ub3c4\ub85d",
+      "url": "https://open.spotify.com/track/4TOM0gxRic72ErGNCvJ3pY"
     }
   ],
-  "unique_name": "On Tour Korea: Jamie xx",
+  "unique_name": "On Tour Korea: \uac70\ubbf8",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY"
 }

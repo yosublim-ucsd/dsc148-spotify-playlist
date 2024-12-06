@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=opxFUOhAQvaEUbEi8SUXQA>Sneziey</a>"
 
-323 songs - 1 day 9 hr 41 min
+325 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,8 +303,10 @@
 | [Wash'Umlilo \- Live](https://open.spotify.com/track/3ii6csjSvjYGrQhYkR5YNY) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Wash'Umlilo \(Live\)](https://open.spotify.com/album/7ifRrsq1VTtYskZrnZGXyM) | 6:10 | 2022-09-15 | 2024-04-19 |
 | [Wasithethelela \(Live\)](https://open.spotify.com/track/3Te7CCWvpqpzwMmCEeUSFG) | [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [Sound Of Goshen](https://open.spotify.com/artist/3mMj2jo4RXaTW2fqSoNtYW) | [Wasithethelela \(Live\)](https://open.spotify.com/album/2NYJcamLaTEr1idXWOrgiu) | 9:31 | 2023-06-23 | 2024-03-29 |
 | [Watswaneleha](https://open.spotify.com/track/0KNJDyqdICczf4T2TYyQPY) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:22 | 2024-03-29 | 2024-04-05 |
+| [We All Know Jesus Is Coming](https://open.spotify.com/track/0QRvDVRG0MiSdY6eiGCDft) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw), [Masibuyele KuJehova](https://open.spotify.com/artist/3JiqknDWJB6bNjETSrItVX) | [Imvunge Yomusa: The Songs That Led Me To Christ](https://open.spotify.com/album/7C07wVcXDxDLDceOATPmzB) | 6:02 | 2024-12-06 |  |
 | [We Are Your Children \(Live\)](https://open.spotify.com/track/3qQidBXH8FtZ1MvINgjbwp) | [Bold Art](https://open.spotify.com/artist/7opVa0RrWqKJhz6msSrEpK), [Oncemore Six](https://open.spotify.com/artist/2icQGrZ1CJun49R0CC189X) | [Bold Art, Vol\. 2 \(Live\)](https://open.spotify.com/album/67nXPfdRscUBzXVpF7dbI9) | 7:31 | 2024-03-29 | 2024-04-05 |
 | [We the Forgiven](https://open.spotify.com/track/0mlqXss7EiDxxv0sZ7J0FW) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [We the Forgiven](https://open.spotify.com/album/7MAvgcD8XDlxRxKKWPArf5) | 5:54 | 2023-06-30 | 2023-09-15 |
+| [We Were Foreigners](https://open.spotify.com/track/5f1uULOMQtScfM8ez5WRBn) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [We Were Foreigners](https://open.spotify.com/album/54X3NnwNsQHHwDMytuj8JL) | 4:38 | 2024-12-06 |  |
 | [We Worship](https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [The Sound of Redemption](https://open.spotify.com/album/33eTjDxci5pBddq5SAJome) | 6:43 | 2023-07-07 | 2023-09-15 |
 | [Wethembekile](https://open.spotify.com/track/7Hoh0EFokhyX9zjt9Ngb2x) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Wethembekile](https://open.spotify.com/album/4ZXch2i9RsaPUWK8r3ouTz) | 5:13 | 2024-05-10 | 2024-07-12 |
 | [Wonderful Love \- Live](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love \(Live\)](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 | 2023-09-29 | 2024-02-02 |

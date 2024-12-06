@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty, Wahyu F Giri
 
-422 songs - 1 day 11 hr 9 min
+423 songs - 1 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-06-13 |  |
 | [HTS \- Accoustic Version](https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS \(Accoustic Version\)](https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm) | 3:44 | 2024-08-29 |  |
 | [Hurung Tekan Sayang](https://open.spotify.com/track/3VfCXmd02ADAH97q2OatUh) | [Northsle](https://open.spotify.com/artist/5keTs7V0jh7RqCfl1RqXJi), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Hurung Tekan Sayang](https://open.spotify.com/album/2kH1eyF8bqz8q0nHnplWov) | 6:36 | 2024-11-07 |  |
+| [Ikhlas \(Dalan Kauman\) \- Acoustic Version](https://open.spotify.com/track/6VL1TdL1Er4fqCqXwQwtBW) | [Wirit Wijaya](https://open.spotify.com/artist/6sELd61Heeo22AngWMdtC7) | [Ikhlas \(Dalan Kauman\) \[Acoustic Version\]](https://open.spotify.com/album/34lXn8zs4qNB2HMH0t8LSa) | 4:25 | 2024-12-05 |  |
 | [Ikhlas Ngenteni](https://open.spotify.com/track/03vCFyLTKlAXkUti7plxtN) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ikhlas Ngenteni](https://open.spotify.com/album/6cda0taIjtzoAxexbbPYxf) | 4:54 | 2024-11-14 |  |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 | 2023-07-14 |
 | [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |

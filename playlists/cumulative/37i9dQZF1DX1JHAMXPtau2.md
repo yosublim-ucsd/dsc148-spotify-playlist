@@ -4,7 +4,7 @@
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-41 songs - 1 hr 54 min
+43 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 | 2023-11-17 |  |
 | [A Marshmallow World](https://open.spotify.com/track/26qH2fgQYx3D1pgdhO5Gba) | [John Manson](https://open.spotify.com/artist/7M9AwoeT6YVeqrbK7a0Lsk) | [A Marshmallow World](https://open.spotify.com/album/5kfXeFZLIDaHWRrrS4dbco) | 2:32 | 2023-11-17 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 | 2023-11-17 |  |
+| [Aud Lang Syne](https://open.spotify.com/track/6dTnaFiYUyIedK1HruGkd3) | [Elijah Shepherd](https://open.spotify.com/artist/3g1YRMovikK5MHYJJ1KuMh) | [Aud Lang Syne](https://open.spotify.com/album/2T39fk4I0OJW5htvra8Jlw) | 2:34 | 2024-12-05 |  |
 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 | 2023-11-17 |  |
 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 | 2023-11-17 | 2024-11-12 |
 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 | 2023-11-24 |  |
@@ -49,5 +50,6 @@
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 | 2023-11-17 |  |
 | [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 | 2023-11-17 |  |
 | [White Christmas](https://open.spotify.com/track/7ptmRcVXsT3cQtCkKRLyho) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:18 | 2023-11-17 |  |
+| [Winter Wonderland](https://open.spotify.com/track/6B0B31rzHq9nESGo2FOA2o) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Winter Wonderland](https://open.spotify.com/album/2BFqWPVHQTRDZBNLQVtSFF) | 2:10 | 2024-12-05 |  |
 
 \*This playlist was first scraped on 2023-11-22. Prior content cannot be recovered.

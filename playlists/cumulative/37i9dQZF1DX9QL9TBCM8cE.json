@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u6cc9\u611b\u4f9d (CV.\u5317\u539f\u6c99\u5f25\u9999)",
+          "url": "https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT"
+        }
+      ],
+      "date_added": "2024-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Going my way",
+      "url": "https://open.spotify.com/track/5G1AVhvz2r8E1LfX8Cexbm"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS Song for Prism Hadashi ja Irarenai / Ashita mo Beautiful Day (HO-KA-GO CLIMAX GIRLS Version)",
         "url": "https://open.spotify.com/album/3F8bO0WuL7eZx3dbHiEBq7"
       },
@@ -600,7 +618,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 241933,
       "name": "Killer\u00d7Mission",
       "url": "https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 231093,
       "name": "\u3042\u304a\u305e\u3089\u30b5\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/3CXdwSwMwyFhT23xCZNONl"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 280346,
       "name": "\u3088\u308a\u307f\u3061\u30b5\u30f3\u30bb\u30c3\u30c8",
       "url": "https://open.spotify.com/track/2W314eFGeZXq122e15weQI"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 257306,
       "name": "\u30b9\u30de\u30a4\u30eb\u30b7\u30f3\u30d5\u30a9\u30cb\u30a2",
       "url": "https://open.spotify.com/track/3d5ydDULyEplsIwXyhV6Fc"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 247506,
       "name": "\u30d1\u30b9\u30c6\u30eb\u30ab\u30e9\u30fc \u30d1\u30b9\u30ab\u30e9\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/052XKj7KV8spjLd8qAawym"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 222733,
       "name": "\u30e1\u30c3\u30bb\u30fc\u30b8",
       "url": "https://open.spotify.com/track/0UlUxO9IJ5GrnA1MeNK2nE"
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 232520,
       "name": "\u5b66\u796d\u9769\u547d\u591c\u660e\u3051\u524d",
       "url": "https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 215840,
       "name": "\u5e73\u884c\u7dda\u306e\u7f8e\u5b66",
       "url": "https://open.spotify.com/track/7JMVCpnVVjNsxGHgQKco4j"
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 266280,
       "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
       "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"

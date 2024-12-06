@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain](/playlists/plain/68bXT1MZWZvLOJc0FZrgf7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68bXT1MZWZvLOJc0FZrgf7)
 
-### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
+### [Dance For Days 🪩🕺 2025 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: DVBBS, Cash Cash, Quinn XCII
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 98,582 likes - 177 songs - 8 hr 51 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 98,581 likes - 177 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 176 | [Watch Me \(feat\. Linney\)](https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Watch Me \(feat\. Linney\)](https://open.spotify.com/album/3Pn7ZkzU2fwfgCIFRhcm3E) | 2:35 |
 | 177 | [Superspeed \(feat\. Fickle Friends\)](https://open.spotify.com/track/55raOb7Ar5hEPc4QEuFowD) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup), [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Superspeed \(feat\. Fickle Friends\)](https://open.spotify.com/album/6HEGx0kXcqkiL4LxEYBR58) | 3:03 |
 
-Snapshot ID: `AAAQuPf6L0u+BW8K7J+ygAO3mZtGZT49`
+Snapshot ID: `AAAQufyYxmMaPZ57UcwlKL9B886hJ8Rt`

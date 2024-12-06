@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Make Your Mark: Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2IZ35W6krTeqEPjAKHh2hk"
+      },
+      "artists": [
+        {
+          "name": "Bridgit Mendler",
+          "url": "https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Hang In There Baby",
+      "url": "https://open.spotify.com/track/4pHc3XmEBQ1wsQll68VsUj"
+    },
+    {
+      "album": {
         "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
       },
@@ -1639,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Keep It Undercover (Theme Song From \"K.C. Undercover\")",
+        "url": "https://open.spotify.com/album/4kQ2DrYRRIq0VTNKJOau2W"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156693,
+      "name": "Keep It Undercover - Theme Song From \"K.C. Undercover\"",
+      "url": "https://open.spotify.com/track/744ZuzjXQmoJmOdk2I1ym9"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
       },
@@ -1816,6 +1852,24 @@
       "duration_ms": 177650,
       "name": "Love Power (End Credit Version) - From \"Disenchanted\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1Kbf3jLMs9QiDVBZXSpsJl"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Love You Like A Love Song",
+      "url": "https://open.spotify.com/track/7lAoovVf67mECK18oOpJbc"
     },
     {
       "album": {

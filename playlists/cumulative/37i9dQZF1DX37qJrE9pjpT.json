@@ -1755,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "Kubaya",
+        "url": "https://open.spotify.com/album/1Nq1KOinn0gaqgctW91fsJ"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277766,
+      "name": "Kubaya",
+      "url": "https://open.spotify.com/track/1anC3aZ4cb3dfLgwOfUpib"
+    },
+    {
+      "album": {
         "name": "Leo Ni Leo",
         "url": "https://open.spotify.com/album/4ZdSD7eR8W62uMscMMhLZd"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 120000,
       "name": "MoroBuzz - Mazimbu",
       "url": "https://open.spotify.com/track/6wlpUAB45BBjIhSk4Yuayy"
@@ -3581,6 +3603,28 @@
     },
     {
       "album": {
+        "name": "Salamu (feat. Van Star)",
+        "url": "https://open.spotify.com/album/1m7N1TzZkd86cbz7ym3Rmw"
+      },
+      "artists": [
+        {
+          "name": "Adam Mchomvu",
+          "url": "https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn"
+        },
+        {
+          "name": "Van Star",
+          "url": "https://open.spotify.com/artist/0jGA1IvvY5LGyHRNat5zRa"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228649,
+      "name": "Salamu (feat. Van Star)",
+      "url": "https://open.spotify.com/track/6e0GXR0ZAahybXZvBMdYeO"
+    },
+    {
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/73y2qOzlQQuSLIylKYGcvk"
       },
@@ -4404,7 +4448,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 236392,
       "name": "Tupa Kule (Ghetto)",
       "url": "https://open.spotify.com/track/0W4CuqbbdVGCyEfEgOuPCQ"
@@ -4426,6 +4470,28 @@
       "duration_ms": 177293,
       "name": "Underated",
       "url": "https://open.spotify.com/track/7bd4QDW2jxqpV9oGN27xcJ"
+    },
+    {
+      "album": {
+        "name": "Usizime Taa (feat. Rosa Ree)",
+        "url": "https://open.spotify.com/album/0KeQkoWUjIhCeTeHaIL00s"
+      },
+      "artists": [
+        {
+          "name": "Adam Mchomvu",
+          "url": "https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215562,
+      "name": "Usizime Taa (feat. Rosa Ree)",
+      "url": "https://open.spotify.com/track/6LMLnWE7EuCQBiePWN8rLq"
     },
     {
       "album": {
@@ -4516,7 +4582,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 198857,
       "name": "Wali Maharage",
       "url": "https://open.spotify.com/track/2Ug4ZrhpXSvKd5ZLWJ8rf3"

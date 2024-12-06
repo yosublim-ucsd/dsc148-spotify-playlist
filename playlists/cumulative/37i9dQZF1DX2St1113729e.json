@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "<3",
       "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 176000,
       "name": "AnKur",
       "url": "https://open.spotify.com/track/7JOarBKVSJ72L5y3hlbi9R"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 136000,
       "name": "Blindado",
       "url": "https://open.spotify.com/track/0Lh4O9WBaE2sfshCUQh0mU"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 164160,
       "name": "boomerang hyperpop - remix",
       "url": "https://open.spotify.com/track/7AQWK0gXNDi7h0FOjABf3E"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 220169,
       "name": "Clavao en visto",
       "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
@@ -2776,7 +2776,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 107616,
       "name": "EUFORIA",
       "url": "https://open.spotify.com/track/7HRhrrGCsiQx9JFsNTO5Aw"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 172020,
       "name": "FFANTAS\u00cdAAX2",
       "url": "https://open.spotify.com/track/1puTWgQhPd0HPVCXddVqaG"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "FLOR",
       "url": "https://open.spotify.com/track/0pFMCV998z1q1LbZouGLJk"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
@@ -3760,6 +3760,24 @@
       "duration_ms": 97896,
       "name": "Hyperandom.Mp3",
       "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
+    },
+    {
+      "album": {
+        "name": "I Love Me More",
+        "url": "https://open.spotify.com/album/1tcMgt7J3cYlgMwVMvhtxd"
+      },
+      "artists": [
+        {
+          "name": "FRIEDRIICH",
+          "url": "https://open.spotify.com/artist/4v1w0wohImiZWLUENo0nif"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "I Love Me More",
+      "url": "https://open.spotify.com/track/37Makz29OYC3sdgy2Fudf0"
     },
     {
       "album": {
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 183750,
       "name": "LA MANO",
       "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
@@ -4360,7 +4378,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "LA \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
@@ -4448,7 +4466,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 118356,
       "name": "LEJOS...",
       "url": "https://open.spotify.com/track/2qVCe3aOibINQcOVs9EjHY"
@@ -5018,7 +5036,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 168750,
       "name": "ME DUELE TANTO",
       "url": "https://open.spotify.com/track/2XDhKrxadd2eZ8VJYKKEs3"
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 178091,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
@@ -7354,7 +7372,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
@@ -7464,7 +7482,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 101470,
       "name": "rez\u00e1ndole a dios",
       "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 201624,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
@@ -7618,7 +7636,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 174196,
       "name": "Salud Mental",
       "url": "https://open.spotify.com/track/4v1b1Cr66DOLDhTpMLDYjc"
@@ -7834,7 +7852,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 142151,
       "name": "Sed",
       "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
@@ -7962,7 +7980,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Sickk Boii % Sex Toii",
       "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"
@@ -8159,6 +8177,28 @@
     },
     {
       "album": {
+        "name": "MIRALMA",
+        "url": "https://open.spotify.com/album/5j0cJFF441FUTber2yHPNd"
+      },
+      "artists": [
+        {
+          "name": "IMX X.",
+          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136603,
+      "name": "SOUL EATER",
+      "url": "https://open.spotify.com/track/2anPSraAkJepJDDAaJgQTP"
+    },
+    {
+      "album": {
         "name": "ADEL^NTOS ^^7^ 24",
         "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
       },
@@ -8222,7 +8262,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 114004,
       "name": "SOY UN PERRO",
       "url": "https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve"
@@ -8358,7 +8398,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149230,
       "name": "SUPERBETA",
       "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
@@ -8536,7 +8576,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
@@ -8874,7 +8914,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 167552,
       "name": "TU NOVIO ES SUBNORMAL\u22c6\u2b52\u02da\uff61\u22c6",
       "url": "https://open.spotify.com/track/5HOp1e4VHTbzU017ze1xUX"
@@ -9030,7 +9070,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 109322,
       "name": "un lugar en m\u00ed",
       "url": "https://open.spotify.com/track/1TzNUQFB5UXQJgEKiVdD4v"
@@ -9168,6 +9208,24 @@
       "duration_ms": 271448,
       "name": "Una Mierda (Autoremix) - Remix",
       "url": "https://open.spotify.com/track/5Fofw7TM0oUhkofttsnGxX"
+    },
+    {
+      "album": {
+        "name": "demasiao bajo",
+        "url": "https://open.spotify.com/album/2ut8X9upVEe4oP1ZgdTA1Y"
+      },
+      "artists": [
+        {
+          "name": "Ewa",
+          "url": "https://open.spotify.com/artist/0nJsHnXkcUA74krNa0cVdl"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149957,
+      "name": "UuU jajajj",
+      "url": "https://open.spotify.com/track/276R1wVI5Ub8gi8L72cbua"
     },
     {
       "album": {
@@ -9496,6 +9554,24 @@
       "duration_ms": 202971,
       "name": "ya fue",
       "url": "https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm"
+    },
+    {
+      "album": {
+        "name": "Yerba Maligna",
+        "url": "https://open.spotify.com/album/6mV0ftAR9VD49SUHoa4qYU"
+      },
+      "artists": [
+        {
+          "name": "Hikigaeru",
+          "url": "https://open.spotify.com/artist/46HRkmALSZHqYdQtzY6uku"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118578,
+      "name": "Yerba Maligna",
+      "url": "https://open.spotify.com/track/79hTKHPQRXKgioL4bODLnm"
     },
     {
       "album": {

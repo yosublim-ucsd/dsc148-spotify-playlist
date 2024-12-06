@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454402,
+  "num_followers": 454411,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "stars",
-        "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
-      },
-      "artists": [
-        {
-          "name": "Tooslo",
-          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
-        }
-      ],
-      "duration_ms": 132512,
-      "name": "stars",
-      "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Smooth Fields",
         "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 170434,
       "name": "Smooth Fields",
       "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "stars",
+        "url": "https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47"
+      },
+      "artists": [
+        {
+          "name": "Tooslo",
+          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
+        }
+      ],
+      "duration_ms": 132512,
+      "name": "stars",
+      "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "a day with the kids",
-        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
-      },
-      "artists": [
-        {
-          "name": "blank maxxymus",
-          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "a day with the kids",
-      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 120615,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "a day with the kids",
+        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "a day with the kids",
+      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "broth",
-        "url": "https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "broth",
-      "url": "https://open.spotify.com/track/1V07rv74k9FinkehDGR14N"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "buffering",
         "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 125500,
       "name": "buffering",
       "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "broth",
+        "url": "https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "broth",
+      "url": "https://open.spotify.com/track/1V07rv74k9FinkehDGR14N"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2qBou21EABjntC15p7h3cz"
-      },
-      "artists": [
-        {
-          "name": "Soib\u00fa",
-          "url": "https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI"
-        }
-      ],
-      "duration_ms": 143339,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "polaris",
         "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/2qBou21EABjntC15p7h3cz"
+      },
+      "artists": [
+        {
+          "name": "Soib\u00fa",
+          "url": "https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI"
+        }
+      ],
+      "duration_ms": 143339,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU"
+      },
+      "artists": [
+        {
+          "name": "Allem Iversom",
+          "url": "https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Cozy Nights",
         "url": "https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU"
-      },
-      "artists": [
-        {
-          "name": "Allem Iversom",
-          "url": "https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1"
-        },
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Snoozy Stardust",
-        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
-      },
-      "artists": [
-        {
-          "name": "COSMOGLOW",
-          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Snoozy Stardust",
-      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 84000,
       "name": "Hold on, Pt. 2",
       "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Snoozy Stardust",
+        "url": "https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG"
+      },
+      "artists": [
+        {
+          "name": "COSMOGLOW",
+          "url": "https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Snoozy Stardust",
+      "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "time to float",
+        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "time to float",
+      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 134400,
       "name": "Last Dream",
       "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "time to float",
-        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
-      },
-      "artists": [
-        {
-          "name": "mutedvibes",
-          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "time to float",
-      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Plant Convo",
-        "url": "https://open.spotify.com/album/6yp2zl7CR7xzfjgtylwUnI"
+        "name": "woodland",
+        "url": "https://open.spotify.com/album/0N7rMutkrZgsu0UAPFgjyk"
       },
       "artists": [
         {
-          "name": "Farmor",
-          "url": "https://open.spotify.com/artist/6PSXPlcJRWbnLFb5XZRK63"
+          "name": "GAB5",
+          "url": "https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk"
         }
       ],
-      "duration_ms": 135567,
-      "name": "Plant Convo",
-      "url": "https://open.spotify.com/track/1X069IL4sAaspIfbsONlXq"
+      "duration_ms": 122000,
+      "name": "woodland",
+      "url": "https://open.spotify.com/track/1kbULV3OCGJqQMPp88ZFjY"
     }
   ],
   "unique_name": "sad lofi",

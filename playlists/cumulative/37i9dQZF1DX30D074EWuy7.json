@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 310480,
       "name": "Anastasia",
       "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
@@ -2694,6 +2694,24 @@
       "duration_ms": 174546,
       "name": "Dora Et Les Adieux",
       "url": "https://open.spotify.com/track/2fhGlypMSdpC0yEToqKcK1"
+    },
+    {
+      "album": {
+        "name": "Instrumental Ensemble / Soundtrack for Imaginary Movie, Vol. 1",
+        "url": "https://open.spotify.com/album/4d5o8texgFnOEKA6Dau36q"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213744,
+      "name": "Downfall / New York Ch 6",
+      "url": "https://open.spotify.com/track/2rzl7YHb8hpxKorUkXcj9s"
     },
     {
       "album": {
@@ -10086,7 +10104,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 370080,
       "name": "Traspare",
       "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
@@ -10574,7 +10592,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 254773,
       "name": "Vibrare",
       "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"

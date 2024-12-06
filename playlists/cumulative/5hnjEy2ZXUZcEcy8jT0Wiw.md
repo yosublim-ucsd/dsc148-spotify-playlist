@@ -4,7 +4,7 @@
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-343 songs - 23 hr 59 min
+344 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Beta Girl Lost in Forever](https://open.spotify.com/track/0UnklwphmoX6I0kZJK8Gg7) | [SelloRekt / LA Dreams](https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa) | [Parallel Lines](https://open.spotify.com/album/7tsBX856UU0zaXCUTqEyLB) | 3:36 | 2019-07-15 |  |
 | [Between the Buttons](https://open.spotify.com/track/4vEn3FtCc4i2JWZBiX1pps) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [Angel](https://open.spotify.com/album/1vRNmQEC9hA97d0EsbHsmK) | 5:17 | 2019-07-15 |  |
 | [Binary Habitat](https://open.spotify.com/track/7lbJEhMDS7FEYCmPg62Tq1) | [Damokles](https://open.spotify.com/artist/7mcwUzzTMmL4M9Xh959CDK) | [Bits & Pieces 2](https://open.spotify.com/album/494tcR6c6CnKptisjnuMuW) | 4:19 | 2019-07-15 |  |
-| [Biomechanoid](https://open.spotify.com/track/6Lb2UZv6h3gUSeaCOs9aoS) | [Wraithwalker](https://open.spotify.com/artist/3jCaxDDk5tcGOHsX4x0HxE) | [Blackest Night](https://open.spotify.com/album/2Dn29pRHaR0z1zYezVllGV) | 3:31 | 2019-12-16 |  |
+| [Biomechanoid](https://open.spotify.com/track/6Lb2UZv6h3gUSeaCOs9aoS) | [Wraithwalker](https://open.spotify.com/artist/3jCaxDDk5tcGOHsX4x0HxE) | [Blackest Night](https://open.spotify.com/album/2Dn29pRHaR0z1zYezVllGV) | 3:31 | 2019-12-16 | 2024-12-06 |
 | [Black Racers](https://open.spotify.com/track/7IyCrKuxOUWagaFFERU3hr) | [Fixions](https://open.spotify.com/artist/7Ld8IeyguzDTcr1dNSBbze) | [Mother Russia Bleeds](https://open.spotify.com/album/3VnSpyPdRh0z0VNlt6rz94) | 3:32 | 2019-07-15 |  |
 | [boo hast](https://open.spotify.com/track/2lsib3FZBij9lm3nOCfaet) | [divmod](https://open.spotify.com/artist/3XqLJtF9vlLhMoGoU5mYcC) | [boo hast](https://open.spotify.com/album/1rgBam0I15qlgcQZ4KqcHQ) | 3:13 | 2022-05-13 |  |
 | [Bootes Void](https://open.spotify.com/track/2LefwxTF9NPJsxLHa0a2If) | [Leaving the Sequence](https://open.spotify.com/artist/5bn0DJ7Z4weRoxVKlS0YcF) | [Bootes Void](https://open.spotify.com/album/2lc1BwFDujTcQYmAlDCvSx) | 5:43 | 2019-07-15 |  |
@@ -324,6 +324,7 @@
 | [Tokyo Bandit](https://open.spotify.com/track/054Zs0FYH7WgoFRPpe12Jm) | [Moter](https://open.spotify.com/artist/4kIFvYrKT2C08BWI7KfTch) | [Last Train to Synthville](https://open.spotify.com/album/1C0haMpIYwdyuXlVpHJ9Pb) | 4:37 | 2019-07-16 |  |
 | [Total Nuclear Annihilation](https://open.spotify.com/track/4iQbNnMYrLytCBIYKGTCIb) | [Scott Danesi](https://open.spotify.com/artist/7BVd1OKdlUu533cwuaH9B8) | [Total Nuclear Annihilation](https://open.spotify.com/album/0aOWrCBwtkGSsq8HA25rVW) | 4:38 | 2020-12-07\* | 2021-09-16 |
 | [Trans](https://open.spotify.com/track/5do4uP7PRNeqZ1qDvDH5II) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Aleph](https://open.spotify.com/album/3MiiF9utmtGnLVITgl0JP7) | 4:33 | 2019-07-16 |  |
+| [Transistor Rhythms](https://open.spotify.com/track/2JeLlyEZqeMQrZC2bbp4HF) | [Iterations](https://open.spotify.com/artist/49kDrCRjTsLxJETYSWBVjt) | [Transistor Rhythms](https://open.spotify.com/album/5szWdtjRqur5MUpUJ7lvzC) | 5:32 | 2024-12-05 |  |
 | [Trojans](https://open.spotify.com/track/34x1DAPBCzqAvypforMWO5) | [The Algorithm](https://open.spotify.com/artist/14u4KXVp0iXQil79EpxXGc) | [Polymorphic Code](https://open.spotify.com/album/2wPyt8oSnSAXsuYeQMzTzq) | 4:34 | 2019-07-15 |  |
 | [TYRAEL](https://open.spotify.com/track/3FPNuTquIJbhqG0LX4atqi) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [TYRAEL](https://open.spotify.com/album/5KNPf1L0u6WRgVhlLR0mOl) | 3:28 | 2020-07-26 |  |
 | [Unbroken](https://open.spotify.com/track/3ke2qPZq6aXbY9xIVW8xIt) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [Gone](https://open.spotify.com/album/6sWZFZcsqS7SbZKGZBaiCb) | 3:14 | 2019-11-17 |  |

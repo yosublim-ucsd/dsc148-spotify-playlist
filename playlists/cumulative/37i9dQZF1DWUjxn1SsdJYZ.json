@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "90's Fine",
+        "url": "https://open.spotify.com/album/1sCsrmjO68XkPGFFeORj4l"
+      },
+      "artists": [
+        {
+          "name": "Sam V",
+          "url": "https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212423,
+      "name": "90's Fine",
+      "url": "https://open.spotify.com/track/6i5ICQuvTjDoQmSVXDNqbT"
+    },
+    {
+      "album": {
         "name": "96 Bulls",
         "url": "https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b"
       },
@@ -4276,6 +4294,28 @@
       "duration_ms": 145827,
       "name": "DINERO",
       "url": "https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo"
+    },
+    {
+      "album": {
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182686,
+      "name": "DIRECTIONS",
+      "url": "https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI"
     },
     {
       "album": {
@@ -15590,6 +15630,24 @@
       "duration_ms": 164610,
       "name": "Selling My Soul",
       "url": "https://open.spotify.com/track/2TKAVeoTe3SxkuULpm0i1I"
+    },
+    {
+      "album": {
+        "name": "Send Em Hate",
+        "url": "https://open.spotify.com/album/6f1NXxCzm6YQldL870oi4X"
+      },
+      "artists": [
+        {
+          "name": "Faceless 1-7",
+          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131735,
+      "name": "Send Em Hate",
+      "url": "https://open.spotify.com/track/72KqYsTOtly7v991VyKLJ6"
     },
     {
       "album": {

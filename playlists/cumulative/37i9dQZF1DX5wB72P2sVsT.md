@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> R3HAB au top des bangers dance/electro du moment !
+> Sound Of Legend au top des bangers dance/electro du moment !
 
 208 songs - 9 hr 32 min
 

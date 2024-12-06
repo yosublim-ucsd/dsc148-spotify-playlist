@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Good Morning",
+  "description": "These are the eclectic sounds of now. Cover: Offthewally",
   "name": "Alt Here",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 286589,
       "name": "Are You Gonna Find It",
       "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Diamond (On the Moon)",
+        "url": "https://open.spotify.com/album/0iOfllRISrXYsuSp35EZQB"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262958,
+      "name": "Diamond - On the Moon",
+      "url": "https://open.spotify.com/track/0RUixX4VjVuTqEvxntbuim"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
       },
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 194262,
       "name": "Keep On Swimming",
       "url": "https://open.spotify.com/track/5GcO8t2A4ekvUJcA7CZrbM"
@@ -2918,6 +2936,42 @@
       "duration_ms": 182000,
       "name": "Lay Down On Me",
       "url": "https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u"
+    },
+    {
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
+    {
+      "album": {
+        "name": "Leaving Home",
+        "url": "https://open.spotify.com/album/7iP6jNk2gT0aqwdvc5D3IB"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332704,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/3kDyaL2JNysNRmJoQDHlHG"
     },
     {
       "album": {
@@ -3715,6 +3769,32 @@
     },
     {
       "album": {
+        "name": "No Other Mind",
+        "url": "https://open.spotify.com/album/6AEyr8ZcvLltJtIlSrX040"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203783,
+      "name": "No Other Mind",
+      "url": "https://open.spotify.com/track/7fYWIR34PZbo9RGpjLoAMH"
+    },
+    {
+      "album": {
         "name": "No Rush",
         "url": "https://open.spotify.com/album/4mWyF0S5n3m6lHKLLQ5x11"
       },
@@ -4214,7 +4294,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 190282,
       "name": "Pour Your Heart Out",
       "url": "https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ"
@@ -4446,7 +4526,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 196944,
       "name": "Rosy",
       "url": "https://open.spotify.com/track/7EIo6fHmAwg85BKBOXXhGz"
@@ -4883,6 +4963,24 @@
     },
     {
       "album": {
+        "name": "Southern Life (What It Must Be Like)",
+        "url": "https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228350,
+      "name": "Southern Life (What It Must Be Like)",
+      "url": "https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY"
+    },
+    {
+      "album": {
         "name": "Sprig Theme",
         "url": "https://open.spotify.com/album/0TKxlXHG8oSchiKsorFUjx"
       },
@@ -5002,7 +5100,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154118,
       "name": "Story of Love - Bonus Track",
       "url": "https://open.spotify.com/track/4I2tsiTax25cnOfHpx1pAN"
@@ -5645,6 +5743,24 @@
     },
     {
       "album": {
+        "name": "There's a Place",
+        "url": "https://open.spotify.com/album/5v8tmWprDRk2KOw9UizHk4"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169055,
+      "name": "There's a Place",
+      "url": "https://open.spotify.com/track/6JW0QcGCKRIKFu5emOhsGP"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt"
       },
@@ -6154,7 +6270,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 129091,
       "name": "war",
       "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
@@ -6194,6 +6310,24 @@
       "duration_ms": 196000,
       "name": "Wata M\u00e4wi",
       "url": "https://open.spotify.com/track/0Zp4XolBTA7q4SpBCDtIdt"
+    },
+    {
+      "album": {
+        "name": "reverse garbage",
+        "url": "https://open.spotify.com/album/5REbCoOpASTdasHTCoJIT4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Turl",
+          "url": "https://open.spotify.com/artist/246MCsdqdZaM317InSDpnO"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Way There Before",
+      "url": "https://open.spotify.com/track/2wEPNzJwcRMjCw4llcHrpp"
     },
     {
       "album": {

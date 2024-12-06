@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: WONK",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Joe Armon-Jones",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 326240,
       "name": "Best Left Unsolved - Bonus Track",
       "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Desert Belly",
+        "url": "https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Desert Belly",
+      "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
+    },
+    {
+      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -943,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Drummer is Dreamer",
+        "url": "https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Drummer is Dreamer",
+      "url": "https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz"
+    },
+    {
+      "album": {
         "name": "Dusty Future / Struggle",
         "url": "https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL"
       },
@@ -972,7 +1008,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 168146,
       "name": "Dynamics (Piano Play-Along)",
       "url": "https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ"
@@ -1799,6 +1835,32 @@
     },
     {
       "album": {
+        "name": "KJM COVERS Kyoto Jazz Massive 30th Anniversary Compilation",
+        "url": "https://open.spotify.com/album/64tGM8VnNcS2EMWLdmtSbI"
+      },
+      "artists": [
+        {
+          "name": "Kyoto Jazz Massive",
+          "url": "https://open.spotify.com/artist/10Mz09DRdfsBvUVTUWiqIv"
+        },
+        {
+          "name": "Vanessa Freeman",
+          "url": "https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c"
+        },
+        {
+          "name": "Bembe Segue",
+          "url": "https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366706,
+      "name": "Kowree Sambazzi",
+      "url": "https://open.spotify.com/track/39WZQw0C5qQ9SEw2OGyMIT"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Chaos",
         "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
       },
@@ -2248,7 +2310,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 297500,
       "name": "N29 to Berlin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx"
@@ -2858,7 +2920,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 261273,
       "name": "Season of Harvest",
       "url": "https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU"
@@ -3012,10 +3074,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 282931,
       "name": "Sorrow - feat. Liam Bailey",
       "url": "https://open.spotify.com/track/0fi1XZO45Zn60uMkiqV025"
+    },
+    {
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/0UyiCjA9y7TGW2VxBqFkPB"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361928,
+      "name": "Sorrowful Rhodes",
+      "url": "https://open.spotify.com/track/1IlfiJbfFXTpPeAIYP90XU"
     },
     {
       "album": {
@@ -3074,7 +3154,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 175553,
       "name": "Sum Love",
       "url": "https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc"

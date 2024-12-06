@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=byibppzNRu-Nf3rTYQg5LA\">Prime Circle</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz?si=Sh76HHG1QfaciSybHP8NSA\">Karel Bester & Die Kraaines Band</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "30 Kilos Na Parys",
+        "url": "https://open.spotify.com/album/1O2jsjrxKYiTCy0NJTTzat"
+      },
+      "artists": [
+        {
+          "name": "NIKOTIEN",
+          "url": "https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306500,
+      "name": "30 Kilos Na Parys",
+      "url": "https://open.spotify.com/track/2VUWFkcSywxFfxfiLRSlPV"
+    },
+    {
+      "album": {
         "name": "8/10 Catch",
         "url": "https://open.spotify.com/album/417kUi7DIGgc57nM5vmoJT"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 206000,
       "name": "8/10 Catch",
       "url": "https://open.spotify.com/track/5k274GryFSB2mn7zXrUYmZ"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 240000,
       "name": "BONS",
       "url": "https://open.spotify.com/track/4UqmMPfhiAevMRZcMYMtsH"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 240013,
       "name": "Codependent",
       "url": "https://open.spotify.com/track/3P2UkUHuXR55yv43a3JUhR"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 181546,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/6uKOEk9ryr95USxLQvjoqK"
@@ -3601,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Got You Callin'",
+        "url": "https://open.spotify.com/album/1hh15SUh0g5G4rvsOVarYS"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155579,
+      "name": "Got You Callin'",
+      "url": "https://open.spotify.com/track/4NXHnLoAnA0ebrwYXDkawN"
+    },
+    {
+      "album": {
         "name": "Vreemd",
         "url": "https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM"
       },
@@ -3652,6 +3688,24 @@
       "duration_ms": 199200,
       "name": "H.F.A.Y. (How Fake Are You)",
       "url": "https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K"
+    },
+    {
+      "album": {
+        "name": "Hail Mary at 99",
+        "url": "https://open.spotify.com/album/6YXMZ1csbBpITSUbl4F2YV"
+      },
+      "artists": [
+        {
+          "name": "Black Cat Bones",
+          "url": "https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246999,
+      "name": "Hail Mary at 99",
+      "url": "https://open.spotify.com/track/0EaurYJOzl5kDsWX89u6Kr"
     },
     {
       "album": {
@@ -4634,6 +4688,24 @@
       "duration_ms": 204687,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3omZL5SXL74UYWmqrnilTM"
+    },
+    {
+      "album": {
+        "name": "Kat & Die Muis",
+        "url": "https://open.spotify.com/album/5RJbpF52gxSaUUjJywDLou"
+      },
+      "artists": [
+        {
+          "name": "Karel Bester & Die Kraaines Band",
+          "url": "https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183241,
+      "name": "Kat & Die Muis",
+      "url": "https://open.spotify.com/track/2cAZaOs9ODCSnVgn3rvJUV"
     },
     {
       "album": {
@@ -6358,7 +6430,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 220235,
       "name": "Onlogika",
       "url": "https://open.spotify.com/track/2pWaFCP35lfAtzOtophC9B"
@@ -6712,7 +6784,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
@@ -7882,7 +7954,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 221250,
       "name": "Soldier On - We Were Meant to Fly",
       "url": "https://open.spotify.com/track/4QzgN3hazSkfokzRdSfnkN"
@@ -9460,7 +9532,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203392,
       "name": "VIR MEKAAR",
       "url": "https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79"
@@ -9951,6 +10023,24 @@
     },
     {
       "album": {
+        "name": "Eindbestemming",
+        "url": "https://open.spotify.com/album/2rTAdgIxkg52eAzq3Ev6I7"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165979,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/18bCdBZVIjfYwVtd8FUqyN"
+    },
+    {
+      "album": {
         "name": "Worcesteriet",
         "url": "https://open.spotify.com/album/6juO9wYjrRmVO0tBKiJubm"
       },
@@ -9966,6 +10056,24 @@
       "duration_ms": 192934,
       "name": "Worcesteriet",
       "url": "https://open.spotify.com/track/02s2vgdbIASu8gJagFycWu"
+    },
+    {
+      "album": {
+        "name": "VIR MEKAAR",
+        "url": "https://open.spotify.com/album/7LChr7b7p25UnxzeNDGXkO"
+      },
+      "artists": [
+        {
+          "name": "Bloumoord",
+          "url": "https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "WORD WAKKER",
+      "url": "https://open.spotify.com/track/4xM1TSXeJ4EOW3hcuMwhCO"
     },
     {
       "album": {

@@ -653,6 +653,32 @@
     },
     {
       "album": {
+        "name": "Baari Barsi",
+        "url": "https://open.spotify.com/album/25NoXODrqtkM9xd75MnL9Q"
+      },
+      "artists": [
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Watan Sahi",
+          "url": "https://open.spotify.com/artist/5GWGhyLTaQZ8gBJbO68oGn"
+        },
+        {
+          "name": "Nakeeta",
+          "url": "https://open.spotify.com/artist/0uSiLWLgqqR7SUL00iz0iZ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "Baari Barsi",
+      "url": "https://open.spotify.com/track/2HGJVQdduQ756MmKArW0Vj"
+    },
+    {
+      "album": {
         "name": "Bach Sohnie",
         "url": "https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc"
       },
@@ -1406,7 +1432,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 167302,
       "name": "Cult Figure",
       "url": "https://open.spotify.com/track/7dfQ2RX5Pri7lBKMNzMhrG"
@@ -5065,7 +5091,7 @@
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 175074,
+      "duration_ms": 175670,
       "name": "Seedhi Maut",
       "url": "https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM"
     },

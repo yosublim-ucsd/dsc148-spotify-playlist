@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Anggis Devaki",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: A. Nayaka, Nyoman Paul",
   "name": "Naik Daun",
   "tracks": [
+    {
+      "album": {
+        "name": "1 Cinta 2 Dunia",
+        "url": "https://open.spotify.com/album/4qU6koWCmPtsoKIeIt9iA7"
+      },
+      "artists": [
+        {
+          "name": "StarBe",
+          "url": "https://open.spotify.com/artist/40PicaEW20NiaEe9VZhvzo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215738,
+      "name": "1 Cinta 2 Dunia",
+      "url": "https://open.spotify.com/track/1iODZW7XUZwFAu0edk2jwg"
+    },
     {
       "album": {
         "name": "1 dari 1000",
@@ -408,7 +426,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 215373,
       "name": "Alasan Klasik",
       "url": "https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 268099,
       "name": "Arah Sejati (\"Keajaiban Air Mata Wanita\" Original Motion Pictures Soundtrack)",
       "url": "https://open.spotify.com/track/0VEeAmNigMTWokJ05G8vzP"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 201462,
       "name": "Berbunga-bunga",
       "url": "https://open.spotify.com/track/0nJJr1PPDsezNGkJ1AtLkj"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 196162,
       "name": "Bila Kuingat",
       "url": "https://open.spotify.com/track/0HJ33mALhDCDlkuksmobBY"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 221000,
       "name": "Boleh Kau Adu - Live Version",
       "url": "https://open.spotify.com/track/63i3gtykrgD0bTXXSTmxIN"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 221000,
       "name": "Bukan Hati Yang Kutunggu",
       "url": "https://open.spotify.com/track/41e8w4f1X5ynQvrjBbaEXP"
@@ -2058,6 +2076,24 @@
       "duration_ms": 185382,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV"
+    },
+    {
+      "album": {
+        "name": "Cahaya Untuk Semua",
+        "url": "https://open.spotify.com/album/7FFAMYxUsZBk65qV2D4f2Z"
+      },
+      "artists": [
+        {
+          "name": "Dewi Gita",
+          "url": "https://open.spotify.com/artist/2mdhF7tOeaoeCRXGosuYsr"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Cahaya Untuk Semua",
+      "url": "https://open.spotify.com/track/2ra3aGId5RMoPH2iePCRav"
     },
     {
       "album": {
@@ -3504,7 +3540,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182560,
       "name": "Harapan",
       "url": "https://open.spotify.com/track/53FfFy2iSJnv9cNhIIqt9i"
@@ -4972,7 +5008,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 217053,
       "name": "KECANDUAN",
       "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
@@ -5375,6 +5411,24 @@
     },
     {
       "album": {
+        "name": "Kita Ke Masa Depan",
+        "url": "https://open.spotify.com/album/6bg9Yy0fJRUrM1JTaoLDdy"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Kita Ke Masa Depan",
+      "url": "https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x"
+    },
+    {
+      "album": {
         "name": "Lagipula Hidup Akan Berakhir",
         "url": "https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8"
       },
@@ -5581,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "Lagu Cinta Untuk Mama",
+        "url": "https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232219,
+      "name": "Lagu Cinta Untuk Mama",
+      "url": "https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n"
+    },
+    {
+      "album": {
         "name": "Lagu Lama",
         "url": "https://open.spotify.com/album/6gtIruxboZVfDgE2JKREwM"
       },
@@ -5734,6 +5806,24 @@
       "duration_ms": 303947,
       "name": "Langit Biru (feat. Fanny Soegi)",
       "url": "https://open.spotify.com/track/5wtHjWyIjDAbgyz0fuV75Z"
+    },
+    {
+      "album": {
+        "name": "Lanjutkan Perjuangan Kita!",
+        "url": "https://open.spotify.com/album/67rFsdqNvxkLSMPd7tuzVZ"
+      },
+      "artists": [
+        {
+          "name": "Gusti Irwan Wibowo",
+          "url": "https://open.spotify.com/artist/79hiSpofXIj7h1wD5KKsk3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245778,
+      "name": "Lanjutkan Perjuangan Kita!",
+      "url": "https://open.spotify.com/track/1t3HDSnYKVW0MDyKcuUFyD"
     },
     {
       "album": {
@@ -5940,6 +6030,24 @@
       "duration_ms": 200484,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1w6FQsV3hhmE4qshMfb5yk"
+    },
+    {
+      "album": {
+        "name": "Lintasan Yang Sama (From \"1 Imam 2 Makmum\")",
+        "url": "https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75"
+      },
+      "artists": [
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Lintasan Yang Sama (From \"1 Imam 2 Makmum\")",
+      "url": "https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO"
     },
     {
       "album": {
@@ -7076,7 +7184,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 222352,
       "name": "Mungkin",
       "url": "https://open.spotify.com/track/4AKv8aaODAQJIQe9kUnhm0"
@@ -7513,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Pada Suatu Hari",
+        "url": "https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233856,
+      "name": "Pada Suatu Hari",
+      "url": "https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7"
+    },
+    {
+      "album": {
         "name": "Pandai Bicara",
         "url": "https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2"
       },
@@ -7600,7 +7726,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 172501,
       "name": "Party In Bali (PIB) [feat. Jay Park]",
       "url": "https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D"
@@ -7784,7 +7910,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 237984,
       "name": "Penyangkalan - Acoustic",
       "url": "https://open.spotify.com/track/3TMzUKhjdK2ZVkcrNX6dXG"
@@ -8990,7 +9116,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 247389,
       "name": "Sejauhjauhjauhnya",
       "url": "https://open.spotify.com/track/6MCtc6P8vJM3lleGjFULcf"
@@ -9012,6 +9138,24 @@
       "duration_ms": 218022,
       "name": "Sekali",
       "url": "https://open.spotify.com/track/2PlEIW0nd8hTSdHnb32lQT"
+    },
+    {
+      "album": {
+        "name": "Sekali Saja",
+        "url": "https://open.spotify.com/album/5kT0Ljz3gXSrok0RdyVnPa"
+      },
+      "artists": [
+        {
+          "name": "Ruang Senja",
+          "url": "https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213059,
+      "name": "Sekali Saja",
+      "url": "https://open.spotify.com/track/0CR1iQSiyPUjotD7SrWs7H"
     },
     {
       "album": {
@@ -10406,7 +10550,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 227262,
       "name": "Tak Apa Akui Lelah",
       "url": "https://open.spotify.com/track/2CGVAzqC47Xk9kBk1Ix4v3"
@@ -10994,10 +11138,32 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 229846,
       "name": "Tempat Bersandar",
       "url": "https://open.spotify.com/track/1wl8Ebwaxy89mjVjtFLPpw"
+    },
+    {
+      "album": {
+        "name": "Tempat Ini",
+        "url": "https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4"
+      },
+      "artists": [
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202807,
+      "name": "Tempat Ini",
+      "url": "https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY"
     },
     {
       "album": {
@@ -11016,6 +11182,24 @@
       "duration_ms": 269289,
       "name": "Tentang Arah",
       "url": "https://open.spotify.com/track/3k7JKDg3FHbBJMQi2tfedP"
+    },
+    {
+      "album": {
+        "name": "Terakhir Kali",
+        "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Terakhir Kali",
+      "url": "https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT"
     },
     {
       "album": {
@@ -11048,7 +11232,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 313421,
       "name": "Terbaik",
       "url": "https://open.spotify.com/track/4oZYiXBwrd8w8drTisFtku"

@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-175 songs - 9 hr 13 min
+177 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [TENNIS \(0:0\)](https://open.spotify.com/track/6wSBcV4mjwiVKGJzNrgwha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:39 | 2022-07-22 | 2024-04-19 |
 | [THAT’S A NO NO](https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:00 | 2022-07-22 | 2024-04-19 |
 | [THAT’S A NO NO](https://open.spotify.com/track/67lCDm8Z4KcFQPIRrqaaQr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:00 | 2022-04-20 |  |
+| [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI \(ITZY\)](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 | 2024-12-05 |  |
 | [TING TING TING \(with Oliver Heldens\)](https://open.spotify.com/track/4RNqQdwEk03s14HLRXJ9aD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:39 | 2022-07-22 | 2024-04-19 |
 | [TING TING TING \(with Oliver Heldens\)](https://open.spotify.com/track/7ADlvg3uIjCvItqeJPgDbu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:39 | 2022-04-20 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-04-20 |  |
@@ -176,6 +177,7 @@
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-04-20 |  |
 | [WHAT I WANT](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:23 | 2022-07-22 | 2024-04-19 |
 | [WHAT I WANT](https://open.spotify.com/track/2zs9JUIjwWkveqL7el19Aq) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:23 | 2022-07-15 |  |
+| [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 | 2024-12-05 |  |
 | [Wild Wild West](https://open.spotify.com/track/3mRcVmaJlodmb7eensMMfZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [Wild Wild West](https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:23 | 2022-04-20 |  |
 | [Yet, but \(YUNA\)](https://open.spotify.com/track/4GHHnfAZlbftjqy4YB69J3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:25 | 2024-01-08 |  |

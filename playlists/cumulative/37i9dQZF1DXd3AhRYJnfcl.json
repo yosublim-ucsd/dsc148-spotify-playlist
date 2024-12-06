@@ -4745,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0646\u0647\u0627\u064a\u0627\u062a \u0627\u062e\u0644\u0627\u0642",
+        "url": "https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "\u0628\u062d\u0643\u064a \u0639\u0644\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/1kYgUIoRdPI36J74bzGs7y"
+    },
+    {
+      "album": {
         "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
         "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
       },
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 189714,
       "name": "\u0643\u0644\u0647\u0627 \u0628\u0642\u0627 \u0644\u064a\u0647\u0627 \u0627\u062e\u0635\u0627\u0645 - \u0639\u0644\u064a\u0627 \u0627\u0644\u0637\u0644\u0627\u0642 \u0643\u0644\u0647 \u0628\u064a\u0643\u062f\u0628",
       "url": "https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW"

@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Karma
 
-174 songs - 8 hr 51 min
+175 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Cigarette](https://open.spotify.com/track/7siESYnNXs5qpSE983tmfG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 3:02 | 2024-06-05 |  |
 | [Classmate](https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Classmate](https://open.spotify.com/album/7p9kZpL7HHbfNhZNrlhezX) | 3:29 | 2024-09-30 |  |
 | [Clout Chase](https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy) | [Clout Chase](https://open.spotify.com/album/7DEJqb6SjOreiNZBupB6yt) | 2:11 | 2024-09-19 |  |
-| [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-17 |  |
+| [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-17 | 2024-12-06 |
 | [Dan Dana Dan](https://open.spotify.com/track/0kHTc09EST4a4fOJnXL6zl) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [2FISTD](https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:20 | 2023-10-11 | 2024-04-10 |
 | [Das Matt Lena](https://open.spotify.com/track/4GOADgwjYJXFbAmTnSuwkO) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq), [Nisha Bhatt](https://open.spotify.com/artist/1QzODDwIuW8yLOnpch343j), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Das Matt Lena](https://open.spotify.com/album/45O495a22u8N3UVOCH5zyU) | 2:40 | 2024-09-30 |  |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-11-09 |
@@ -110,6 +110,7 @@
 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 | 2024-02-08 |  |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-28 |  |
 | [Maujjan](https://open.spotify.com/track/30IqFmWVT7cZtyrD9sYdji) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [I](https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB) | 4:27 | 2023-03-10 | 2023-10-12 |
+| [Mere Jaisa Nai](https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:07 | 2024-12-05 |  |
 | [Mi Casa](https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz) | [Qaab](https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Trapanese](https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu) | 2:21 | 2024-08-20 | 2024-11-30 |
 | [MISFIT](https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [MISFIT](https://open.spotify.com/album/6rJeuCqFpo3YB8s6j4cHvt) | 2:35 | 2024-06-28 |  |
 | [MOOSA](https://open.spotify.com/track/3FNHdfTPtmxlalX7NtNhoP) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [MOOSA](https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX) | 2:34 | 2023-03-10 | 2023-04-22 |

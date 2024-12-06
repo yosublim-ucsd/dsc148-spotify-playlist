@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Greentea Peng",
+  "description": "Beyond titles, beyond genre. Cover: Tom Misch",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Boy Racer",
+        "url": "https://open.spotify.com/album/5TXEsw0Amvt0fdQgyyocQU"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219591,
+      "name": "Boy Racer",
+      "url": "https://open.spotify.com/track/4qnoNv96JSCMtKJq1Mrpfe"
+    },
+    {
+      "album": {
         "name": "Break My Own Heart",
         "url": "https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei"
       },
@@ -968,6 +986,28 @@
       "duration_ms": 218506,
       "name": "Cleopatras",
       "url": "https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ"
+    },
+    {
+      "album": {
+        "name": "Colourblind (feat. Loyle Carner)",
+        "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235684,
+      "name": "Colourblind (feat. Loyle Carner)",
+      "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
     },
     {
       "album": {
@@ -1338,6 +1378,24 @@
       "duration_ms": 286874,
       "name": "DEEP HOLES",
       "url": "https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4"
+    },
+    {
+      "album": {
+        "name": "Desert Belly",
+        "url": "https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Desert Belly",
+      "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
     },
     {
       "album": {
@@ -1806,6 +1864,24 @@
       "duration_ms": 220104,
       "name": "Fear When You Fly",
       "url": "https://open.spotify.com/track/0BDlu6AEeWxdjmKwFc0rI0"
+    },
+    {
+      "album": {
+        "name": "Feel It Coming",
+        "url": "https://open.spotify.com/album/008JObJLZcTMFqtv9ML9eG"
+      },
+      "artists": [
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194142,
+      "name": "Feel It Coming",
+      "url": "https://open.spotify.com/track/5IQ0DQah8h5ewfTlugWIYl"
     },
     {
       "album": {
@@ -2610,7 +2686,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 142738,
       "name": "I C",
       "url": "https://open.spotify.com/track/4anzIJUtrHtpB6Hgcz4x6Q"
@@ -3480,7 +3556,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 195070,
       "name": "Lowdown (part i)",
       "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
@@ -3600,6 +3676,28 @@
       "duration_ms": 133065,
       "name": "Marina del Rey",
       "url": "https://open.spotify.com/track/0bsiQeSmtvjBbKu0Rz3Z8b"
+    },
+    {
+      "album": {
+        "name": "Marmite (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/3yZ0BSzvv9KyII56iZ909x"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240302,
+      "name": "Marmite - Fcukers Remix",
+      "url": "https://open.spotify.com/track/37ebkeBtuT4Am3qb98HHOL"
     },
     {
       "album": {
@@ -5403,6 +5501,24 @@
     },
     {
       "album": {
+        "name": "Take Me Down",
+        "url": "https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib"
+      },
+      "artists": [
+        {
+          "name": "Troy Javelona",
+          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126568,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
+    },
+    {
+      "album": {
         "name": "TARDIS (hardest)",
         "url": "https://open.spotify.com/album/3qoebG3H6s9yzi3OlnHj3L"
       },
@@ -5758,6 +5874,24 @@
       "duration_ms": 245640,
       "name": "To Be Alright",
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
+    },
+    {
+      "album": {
+        "name": "To Kill a Single Girl (Tequila)",
+        "url": "https://open.spotify.com/album/4EmugwIjX1qX68hUfAT8Oz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "To Kill a Single Girl (Tequila)",
+      "url": "https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN"
     },
     {
       "album": {

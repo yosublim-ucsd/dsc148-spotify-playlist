@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 168000,
       "name": "Daang V1",
       "url": "https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7"
@@ -2278,6 +2278,28 @@
       "duration_ms": 267486,
       "name": "Maujjan",
       "url": "https://open.spotify.com/track/30IqFmWVT7cZtyrD9sYdji"
+    },
+    {
+      "album": {
+        "name": "Untitled 01",
+        "url": "https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127259,
+      "name": "Mere Jaisa Nai",
+      "url": "https://open.spotify.com/track/6eyLbYbuvO5kP3GUbZ8e1X"
     },
     {
       "album": {

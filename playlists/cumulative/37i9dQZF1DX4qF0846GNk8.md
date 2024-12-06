@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
 
-269 songs - 16 hr 27 min
+270 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 | 2022-12-06 | 2023-08-03 |
 | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/track/1l4FdHo3SVXuKAzuJdqYZ1) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/album/6hBowQhPmpXID1e4oncCDZ) | 3:15 | 2021-12-16 | 2022-07-31 |
 | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/track/75aiWGFwPn6LiYoKJz5H8f) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Eslam Kabounga](https://open.spotify.com/artist/2QMFKxN62QViqFk7ygLAsB) | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/album/6W4CGfU1SD5Je1Y8FwOJWa) | 3:06 | 2024-08-12 |  |
-| [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-08-30 |  |
+| [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-08-30 | 2024-12-06 |
 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 | 2023-04-20 | 2023-10-04 |
 | [بخاف من الموت](https://open.spotify.com/track/5YHeeLfclMSuFNOExpl7uN) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [بخاف من الموت](https://open.spotify.com/album/2tRL5kjbXGMkzV8FoXKTZB) | 3:13 | 2024-02-21 | 2024-03-09 |
 | [بعملها كده](https://open.spotify.com/track/3jxlTNSqdZnz0hb5fDgORI) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [بعملها كده](https://open.spotify.com/album/15AofCA4RfMHFeqqXasqie) | 2:06 | 2024-03-08 | 2024-06-12 |
@@ -211,6 +211,7 @@
 | [لعبة شيطان](https://open.spotify.com/track/7IyjPiblGU4K3drFcYJ8NF) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [حمادة الاسمر](https://open.spotify.com/artist/5LsL02cuu57lW7AOmvO3ps), [مودى امين](https://open.spotify.com/artist/7Ejmt0gVeRtQ5CLaTkd8bv) | [لعبة شيطان](https://open.spotify.com/album/3m5miPVgYM3zHo4gHOuLsf) | 3:55 | 2021-12-16 | 2022-10-25 |
 | [ماتحن اجن](https://open.spotify.com/track/42m5ObDoL7JoWfnO1tzQLg) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ماتحن اجن](https://open.spotify.com/album/1FuyzSkOlkk8ykWsLd6zV5) | 6:02 | 2022-10-24 | 2023-05-19 |
 | [ماذا لو شوفت حبيبى قلبى](https://open.spotify.com/track/2VcliKj3G9yH4s87U5qFgz) | [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI), [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [اسلام كابونجا](https://open.spotify.com/artist/6lBIyYTrWwULJmuFlncN48) | [ماذا لو شوفت حبيبى قلبى](https://open.spotify.com/album/6zlCLokK4BI3vkkDqj7wPm) | 4:58 | 2023-05-30 | 2023-08-09 |
+| [مالناش كبير كبيرنا فوق](https://open.spotify.com/track/0qX9ZQfcUBFyhOcKGFYEpR) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [مالناش كبير كبيرنا فوق](https://open.spotify.com/album/74GKpgztjUy5B8CZxqM8QF) | 5:16 | 2024-12-05 |  |
 | [مبقاش فى خير فى الناس](https://open.spotify.com/track/4GT37oFB2kTll36C5c8Ohl) | [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour Eltot](https://open.spotify.com/artist/73XccIf98HDXk4ZeJNe6Hq) | [مبقاش فى خير فى الناس](https://open.spotify.com/album/1B8QQCVTYNFHmhIlu3SH8A) | 3:30 | 2023-01-31 | 2023-05-19 |
 | [مبقتش فاهم حاجه في 2023](https://open.spotify.com/track/7iSoFV4cDPqItbiM5Iz1Os) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مبقتش فاهم حاجه في 2023](https://open.spotify.com/album/2Yc45v5zD5kqiqxxGWNfks) | 4:39 | 2023-05-18 | 2023-09-15 |
 | [متسرحش](https://open.spotify.com/track/6VHOlLQwMttexio5g0UqXs) | [Team Omda](https://open.spotify.com/artist/1wut91Z0aLx8JiFdEbaZNm) | [متسرحش](https://open.spotify.com/album/2414xDvUBpdylytg6tslne) | 2:39 | 2024-01-31 | 2024-04-23 |

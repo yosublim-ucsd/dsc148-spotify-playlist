@@ -4,7 +4,7 @@
 
 > The sweet sounds of Lebanon.
 
-92 songs - 5 hr 28 min
+93 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Han AlAn](https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Han AlAn](https://open.spotify.com/album/1ew6D40gSEKZKWxbNGXAvC) | 3:40 | 2021-09-10 | 2024-10-16 |
 | [Helm Btada](https://open.spotify.com/track/0KAS9sc44tzZSlLvM3MizM) | [Ghada Shbeir](https://open.spotify.com/artist/15CpMdJps6zQElgzHLU2Mg) | [Helm Btada](https://open.spotify.com/album/5QMVekrK7qmzzhxyjfBBOC) | 4:45 | 2021-09-10 |  |
 | [Hkayti](https://open.spotify.com/track/0s3DYIv29lpbYU3XspNF6y) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Hkayti](https://open.spotify.com/album/1bfeUPx2VgAupNyQGT2YGM) | 3:21 | 2021-09-10 |  |
+| [Hobbak Metl Beirut](https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Hobbak Metl Beirut](https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS) | 4:03 | 2024-12-04 |  |
 | [Ishtaktilak Wallah](https://open.spotify.com/track/1zPzRQQhhpZLSBQfss1kMZ) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/2vkUC79BiGoHfHvRFeGjXz) | 2:18 | 2021-09-10 |  |
 | [Ishtaktilak Wallah](https://open.spotify.com/track/2fgc1lflVq3fDJZFyN5gwh) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [100% Lebanese Vol 2](https://open.spotify.com/album/52gHMLYmQjYNAyC5mIWc2Q) | 2:18 | 2022-08-26 | 2022-11-14 |
 | [Ishtaktilak Wallah](https://open.spotify.com/track/65l3L3vZD4hDyNAe55dNxq) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Ishtaktilak Wallah](https://open.spotify.com/album/45ZM28kpEYZ7qBX0hN7MaS) | 2:18 | 2022-04-12 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2019. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker",
-  "num_followers": 2306,
+  "num_followers": 2326,
   "original_name": "Best of Rock: 2019",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "why are you here",
-        "url": "https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "why are you here",
-      "url": "https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z"
-    },
-    {
-      "added_at": "2022-12-29 21:04:41",
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 185231,
       "name": "Lost in the Woods - Weezer Version",
       "url": "https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5"
+    },
+    {
+      "added_at": "2022-12-29 21:04:41",
+      "album": {
+        "name": "why are you here",
+        "url": "https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "why are you here",
+      "url": "https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z"
     },
     {
       "added_at": "2022-12-29 21:04:41",
@@ -991,18 +991,18 @@
     {
       "added_at": "2022-12-29 21:04:41",
       "album": {
-        "name": "Take Control EP",
-        "url": "https://open.spotify.com/album/60fONqEriuAr5UWfkIXJPa"
+        "name": "Everything Not Saved Will Be Lost Pt. 1",
+        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
       },
       "artists": [
         {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 207303,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/4ayIpClJzUh43tJgzyPI9f"
+      "duration_ms": 357419,
+      "name": "Exits",
+      "url": "https://open.spotify.com/track/7gVGBGI4ZqvkYBlh2LdrQy"
     }
   ],
   "unique_name": "Best of Rock: 2019",

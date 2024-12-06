@@ -2,9 +2,9 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=O0kSVRpiTD2Dus8f81EHwQ>Monaze
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=\_DP1pOcnRWygI85Vp4Ct0w> Marizu,  <a href=https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=wFE5h9yTS\-\-vUzB3NTyz8g>Reblah, <a href=https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3?si=5XSIjLnDS5\-y8SW79b45tw>IMRHAN
 
-392 songs - 22 hr 24 min
+394 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [JO JO II](https://open.spotify.com/track/6lq91ltgPdWFxVBacC8Kfp) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR) | [JO JO II](https://open.spotify.com/album/0erZbYjWT8S8cjVOfZ4Alv) | 2:36 | 2024-04-19 | 2024-10-04 |
 | [Joy](https://open.spotify.com/track/0qm74zjAsMAPzJwlQBF4aE) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Joy](https://open.spotify.com/album/75QrUTRTBvo1KZl9Y9PDpp) | 2:45 | 2024-01-26 | 2024-03-29 |
 | [Joy \- Part 2](https://open.spotify.com/track/0za9HWZNolYLJBm46xCXhr) | [Tkellz](https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2) | [Joy \(Part 2\)](https://open.spotify.com/album/1IYmkGuszuOTnVKKbkbYmV) | 2:45 | 2024-05-10 | 2024-07-05 |
+| [Joy Down Deep](https://open.spotify.com/track/7qgwTetzQEUkehguE3VYGD) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [Joy Down Deep](https://open.spotify.com/album/2CcgIKNjy0wvCQWIqRdowB) | 3:08 | 2024-12-06 |  |
 | [Joyful Noise](https://open.spotify.com/track/3wNVEsiyCWRkwEZvncGOOT) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp), [Pamela Myburgh](https://open.spotify.com/artist/0fmsGte6TDNGk9WwaAAhfJ) | [Joyful Noise](https://open.spotify.com/album/4rEJpPtx2uMpFYHfh0Iii1) | 4:59 | 2023-10-20 | 2024-01-26 |
 | [Just as I am](https://open.spotify.com/track/2PSyahpyNwy0yFeSyvxkly) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Just as I am](https://open.spotify.com/album/5oOAOVwVfqRkBxrX7zk0Tk) | 2:17 | 2023-10-20 | 2024-01-12 |
 | [Konse](https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [Konse](https://open.spotify.com/album/4hQrrzNmi7d52JNUrdPcdn) | 3:20 | 2023-12-22 | 2024-02-02 |
@@ -197,6 +198,7 @@
 | [Living Water](https://open.spotify.com/track/452YNTnUsyCDL01xcC6en0) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Sage L](https://open.spotify.com/artist/5q1400hNymy30C4p5c4Gi8) | [Living Water](https://open.spotify.com/album/4omQ95TK1CxSMNJr9dd1YR) | 2:24 | 2024-11-08 |  |
 | [Love](https://open.spotify.com/track/1S2NMFWtAIrP1uXeq101Cw) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [Love](https://open.spotify.com/album/797fe8BKGwm6ZvvjsyhZ5w) | 2:57 | 2024-04-12 | 2024-07-05 |
 | [Love](https://open.spotify.com/track/53YsxPfny6Z3fiTBqvzlxQ) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Naem](https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Love](https://open.spotify.com/album/1ymA7wzWukJVMFC0sUnX5f) | 2:16 | 2024-04-05 | 2024-07-05 |
+| [Love Again](https://open.spotify.com/track/1cJi8GvduWWsW9WnlFw0zD) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [yinkah](https://open.spotify.com/artist/6YWJpsuE7N3BUInXjKqimK) | [Love Again](https://open.spotify.com/album/4UuVU2i4pe6NKn6ly1ZdbR) | 2:12 | 2024-12-06 |  |
 | [Love Me So](https://open.spotify.com/track/71JY98oO0Tf3J7AIi1zYne) | [Naomee](https://open.spotify.com/artist/3No8oTslmtUkR63cY6gWp0) | [Love Me So](https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp) | 3:26 | 2023-11-17 | 2024-01-26 |
 | [Love N Affection](https://open.spotify.com/track/493qzSA0HnoeETKYxsvruk) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Love N Affection](https://open.spotify.com/album/732lY6LAYoQmjzRwHlqmh1) | 2:21 | 2024-10-25 |  |
 | [Loved](https://open.spotify.com/track/6MG67vKhgT79hSKS9PHPuY) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Loved](https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE) | 3:08 | 2024-01-19 | 2024-04-06 |

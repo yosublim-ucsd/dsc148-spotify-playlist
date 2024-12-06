@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,091 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,086 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 48 | [像海浪拍打在岸上](https://open.spotify.com/track/56ScSMa5e9bu3f3XTRjIhi) | [Jayku](https://open.spotify.com/artist/0ZgpUJ3hW715q9o8HAZK1R) | [像海浪拍打在岸上](https://open.spotify.com/album/6beTaMW8VZy8PDagMO5jPg) | 2:54 |
 | 49 | [one thing i like about you](https://open.spotify.com/track/20AAR4eCHKqJNh8mARQg2w) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [one thing i like about you](https://open.spotify.com/album/0LqEip5Cs6s7yBptmmewC0) | 3:04 |
 | 50 | [只要你能快樂](https://open.spotify.com/track/5mw77lp6lmQ4vHRQGOFAxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [只要你能快樂](https://open.spotify.com/album/1BkiyX9Y9HE3QEIbRz3S95) | 4:50 |
-| 51 | [門外? \- 影集《妮波自由式》插曲](https://open.spotify.com/track/6QHdRgoatQkCmJr2NR4wHl) | [張若凡](https://open.spotify.com/artist/0iqQquODZYzWJgN8vd7LUp) | [門外? \(影集《妮波自由式》插曲\)](https://open.spotify.com/album/5ni45w2Wogdy3OOQneneQ0) | 4:05 |
+| 51 | [門外? \- 影集《妮波自由式》插曲](https://open.spotify.com/track/6QHdRgoatQkCmJr2NR4wHl) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [門外? \(影集《妮波自由式》插曲\)](https://open.spotify.com/album/5ni45w2Wogdy3OOQneneQ0) | 4:05 |
 | 52 | [Treasure Boy 寶藏男孩 \(feat\. 蓋兒\)](https://open.spotify.com/track/133WjUbWecSrEejkgs47gg) | [Jeric](https://open.spotify.com/artist/4HSNlnxUGI3Rev92Ja7Ol2), [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Treasure Boy 寶藏男孩 \(feat\. 蓋兒\)](https://open.spotify.com/album/0QQ0bAiKMraxWfNW0kXpjB) | 4:32 |
 | 53 | [不熟的某某](https://open.spotify.com/track/0Fe3oDqbyOidhKEGnrMQTO) | [向思思](https://open.spotify.com/artist/7jlM8w6yhqvHOYZ7y32CNX) | [不熟的某某](https://open.spotify.com/album/0gTjbZdWLZdRqqA3euyYWC) | 3:04 |
 | 54 | [愛是](https://open.spotify.com/track/6icpwBlyLAR8RlchEhhnNc) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [愛是](https://open.spotify.com/album/3f3MhckebCECd6uzagTvgN) | 4:07 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 113 | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/track/2Al1p39pSexbE022iobU8m) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO), [楊和蘇KeyNG](https://open.spotify.com/artist/49CtkDvDlgQjW3ZoUySsMQ) | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/album/3Z4zJXOM2XK1MPdShAya6X) | 3:43 |
 | 114 | [Hey Girl \- Netflix影集《影后》片尾曲](https://open.spotify.com/track/2kLuVbzpjnRAOwaTnp7C2J) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Hey Girl \(Netflix影集《影后》片尾曲\)](https://open.spotify.com/album/0zjat7kW5egfijiLoWZ43j) | 3:50 |
 | 115 | [暧昧默剧](https://open.spotify.com/track/5dzneXazJJcM8eiW2Gm4UT) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [暧昧默剧](https://open.spotify.com/album/4UDckwblgyuN4GYlet6jJv) | 3:39 |
-| 116 | [今晚吃什麼](https://open.spotify.com/track/5GxsXtomrNLTNsQEUAZ2Uu) | [張若凡](https://open.spotify.com/artist/0iqQquODZYzWJgN8vd7LUp) | [今晚吃什麼](https://open.spotify.com/album/2Zd6j2TuvAQvl8MSh6uivg) | 3:19 |
+| 116 | [今晚吃什麼](https://open.spotify.com/track/5GxsXtomrNLTNsQEUAZ2Uu) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [今晚吃什麼](https://open.spotify.com/album/2Zd6j2TuvAQvl8MSh6uivg) | 3:19 |
 | 117 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 |
 | 118 | [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 |
 | 119 | [高麗菜粥 \(feat\. 洪佩瑜\)](https://open.spotify.com/track/00t72pvjffOdqjaOXUg7rG) | [王彙筑](https://open.spotify.com/artist/25tE1FD2cGV7NaKnJqWsbx), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [高麗菜粥 \(feat\. 洪佩瑜\)](https://open.spotify.com/album/4WShrp3A9Gy793Pz8o08u6) | 4:26 |

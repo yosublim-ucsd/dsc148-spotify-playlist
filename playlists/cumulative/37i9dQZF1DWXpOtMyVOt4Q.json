@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207046,
       "name": "A Time to Wait",
       "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
@@ -3490,6 +3490,24 @@
       "duration_ms": 128918,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI"
+      },
+      "artists": [
+        {
+          "name": "Bassti",
+          "url": "https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73653,
+      "name": "pure imagination",
+      "url": "https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-443 songs - 1 day 3 hr 43 min
+444 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/37TK06f0yK9NvQu0te1dbu) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2lfoP96BsfWp8fXZMHtRyv) | 4:03 | 2021-12-24 | 2022-07-25 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg) | [Rebecca Hart](https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC) | 4:42 | 2024-10-27 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5BgbXwxUyCoeZ7PS4pBVl5) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/72z7GRVkOmZu5nRv8dwlzt) | 3:32 | 2021-12-24 |  |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/37lnzKl7ziIiTWGUnj7Akv) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Have Yourself A Merry Little Christmas / Silent Night](https://open.spotify.com/album/6RVLkAvG9rN7fcDYZYD5Pm) | 3:47 | 2021-12-24 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/37lnzKl7ziIiTWGUnj7Akv) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Have Yourself A Merry Little Christmas / Silent Night](https://open.spotify.com/album/6RVLkAvG9rN7fcDYZYD5Pm) | 3:47 | 2021-12-24 | 2024-12-06 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2021-12-24 | 2022-07-29 |
 | [He Comes](https://open.spotify.com/track/0lYkt2IT6tsgccbVjKXTOf) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Advent Songs](https://open.spotify.com/album/0q3YflR2DQiPytrpHx7lAA) | 4:31 | 2021-12-24 |  |
 | [He Has Come](https://open.spotify.com/track/5o1Vjv3zBk8O2LyTtZzDun) | [All Things New](https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG), [Garrett Hornbuckle](https://open.spotify.com/artist/4Kaz4PxqdV8hQPeqoxELFj) | [The Joy of Christmas](https://open.spotify.com/album/5BRa4JSu9PdA3NIDF2KFcc) | 3:38 | 2021-12-24 | 2022-07-18 |
@@ -383,6 +383,7 @@
 | [The Gift \- 2020 Version](https://open.spotify.com/track/6tbfDq2OgviVZLCr2CsMto) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [A Christmas Celebration](https://open.spotify.com/album/7ejb2BSCizWHSdviEYN1f4) | 4:11 | 2021-12-24 | 2024-12-02 |
 | [The King Has Come](https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [The King Has Come](https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL) | 3:43 | 2024-11-29 |  |
 | [The King Is Here](https://open.spotify.com/track/3lVKcTVFRx2yvU8iC73tmk) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Songs](https://open.spotify.com/album/4TafV1ps3rMjGg80WWrMls) | 3:18 | 2021-12-24 | 2022-07-24 |
+| [The Love Who Saves](https://open.spotify.com/track/0KGvTfRbW68NcQodVn5xm7) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [The Love Who Saves](https://open.spotify.com/album/5WriBYLURJAPp5e5X0FBuI) | 4:14 | 2024-11-29 |  |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-11-03 |  |
 | [The One We’ve Waited For \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/track/6HKrAqwF5H6mGXeIsi891E) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [The One We’ve Waited For \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/album/5mvz4NoOwk9XWe1ZCZV0d9) | 3:53 | 2024-10-27 |  |

@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: The 046
 
-1,007 songs - 1 day 22 hr 50 min
+1,010 songs - 1 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [77](https://open.spotify.com/track/6EGnhQh2S3xcZSbgglQIUt) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [77](https://open.spotify.com/album/61WC7CaAwgk5vlCSKzCwQK) | 2:23 | 2022-11-03 | 2022-12-16 |
 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 | 2023-08-03 | 2023-10-25 |
 | [777](https://open.spotify.com/track/7MZ5uD8Ak34XOt6cgzQGM3) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/40SfUo7opbVMkFNCval599) | 2:11 | 2023-10-19 | 2023-10-27 |
+| [90's Fine](https://open.spotify.com/track/6i5ICQuvTjDoQmSVXDNqbT) | [Sam V](https://open.spotify.com/artist/6m0VpWIUbhI3aITZFK2hmr) | [90's Fine](https://open.spotify.com/album/1sCsrmjO68XkPGFFeORj4l) | 3:32 | 2024-12-05 |  |
 | [96 Bulls](https://open.spotify.com/track/7j2RJA45G8l0ZcDK2bOJJL) | [GMC](https://open.spotify.com/artist/1mjliHn4gJcgY5U5YtmFiP), [Johnny Narcotics](https://open.spotify.com/artist/6GBTukZn3btgHr1hq7ZGuP), [Alj](https://open.spotify.com/artist/4HPUHbvEGdXfuyaXxB0TNa), [KingTheFreeSoul](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [96 Bulls](https://open.spotify.com/album/4nitXAPFuLyCHinybJQs9b) | 3:01 | 2022-03-31 | 2022-04-15 |
 | [A GRADE](https://open.spotify.com/track/1uByr4XXKnYb7PX2FTFKbw) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [A GRADE](https://open.spotify.com/album/7xwGcK2cSHn1vU04NrQOj8) | 3:38 | 2024-06-27 | 2024-09-27 |
 | [A Hoochie Tale](https://open.spotify.com/track/4WRPcEvn4VoajAwr0WmQmw) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [A Hoochie Tale](https://open.spotify.com/album/45nkru8SAn2PqXy1Y6uWtq) | 2:46 | 2023-10-26 | 2024-02-16 |
@@ -215,6 +216,7 @@
 | [Die Young \(Freestyle\)](https://open.spotify.com/track/31dmeMMLyx7IFTeydxC8Ed) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [Die Young \(Freestyle\)](https://open.spotify.com/album/7vNXmSOmVFDo7GnsKNrU2z) | 2:31 | 2022-08-11 | 2022-12-09 |
 | [DIMENSIONS](https://open.spotify.com/track/436I7Rxscv08DWVMUk4wy6) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [DIMENSIONS](https://open.spotify.com/album/58WBG8xpc8PTiGMQVfTzUb) | 2:20 | 2023-02-23 | 2023-05-26 |
 | [DINERO](https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo) | [Saitxero](https://open.spotify.com/artist/7eAziNg8S3NJiBsGCXjYbF) | [DINERO](https://open.spotify.com/album/5FUbjirtgcdkwLGqIONS4d) | 2:25 | 2022-09-08 | 2022-12-09 |
+| [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 | 2024-12-05 |  |
 | [Divinely Guided](https://open.spotify.com/track/0ywbc1relGaJpl43jX8ILg) | [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf), [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ) | [Divinely Guided](https://open.spotify.com/album/0S2qNiiDvTmrstbJZC6bft) | 2:43 | 2024-07-12 | 2024-11-08 |
 | [Djabuganydji Bama \- NERVE REMIX](https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [KDA Crew](https://open.spotify.com/artist/5W70OHqfaGNzpLkCCSShFY), [Desert Pea Media](https://open.spotify.com/artist/4o0vFBJUhSlBthmrwnHMLN) | [Djabuganydji Bama \(NERVE REMIX\)](https://open.spotify.com/album/66BHY62FENAPwNe38pfFBh) | 3:28 | 2023-01-05 | 2023-03-10 |
 | [Do it up](https://open.spotify.com/track/4py6nUdXXfh4yLUKOE4Kq9) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR) | [Do it up](https://open.spotify.com/album/4x0sb9xWRqniuqGA07xz7j) | 3:30 | 2024-02-15 | 2024-04-26 |
@@ -770,6 +772,7 @@
 | [See You No More](https://open.spotify.com/track/1P6eZ9D2sGhQSRT6QV7RzV) | [J Verse](https://open.spotify.com/artist/4HGo8l4MbcAYghnxg5kZmB) | [See You No More](https://open.spotify.com/album/27ZK8VW9sPrRCWCWzZKmx1) | 2:51 | 2024-09-26 | 2024-11-22 |
 | [Seen It All](https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 2:30 | 2023-06-22 | 2024-04-26 |
 | [Selling My Soul](https://open.spotify.com/track/2TKAVeoTe3SxkuULpm0i1I) | [SaxONLY](https://open.spotify.com/artist/3wQ96sPHigjP4p78aCoG4y), [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Selling My Soul](https://open.spotify.com/album/0J5Y1bJ0Xwzm26e7bwTijq) | 2:44 | 2024-05-30 | 2024-07-05 |
+| [Send Em Hate](https://open.spotify.com/track/72KqYsTOtly7v991VyKLJ6) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV) | [Send Em Hate](https://open.spotify.com/album/6f1NXxCzm6YQldL870oi4X) | 2:11 | 2024-12-05 |  |
 | [SEND YOUR HITTAZ](https://open.spotify.com/track/2nyMxDI29XL6U0F0qRAxmJ) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [SEND YOUR HITTAZ](https://open.spotify.com/album/2bLbPnUFtnRNbwdBDIlJCs) | 2:13 | 2024-01-25 | 2024-03-15 |
 | [setbacks](https://open.spotify.com/track/3TitVBdBK4CJepDQFzzmH8) | [EAST AV3](https://open.spotify.com/artist/1orXvSX01zlrRfj1PlOd1e) | [setbacks](https://open.spotify.com/album/6eJC22iS8eLhZYBoAvx6Qc) | 4:01 | 2024-07-12 | 2024-08-31 |
 | [SEXDRUGSMONEY!](https://open.spotify.com/track/6T809CO7blHPfXAMRNN529) | [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [SEXDRUGSMONEY!](https://open.spotify.com/album/5XH4LOOcyRC07buDQTiAfr) | 2:29 | 2022-08-04 | 2022-08-12 |

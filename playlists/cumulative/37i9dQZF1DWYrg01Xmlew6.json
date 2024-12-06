@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. CoCo in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 132371,
       "name": "Antiproiettile",
       "url": "https://open.spotify.com/track/4BJFcW9kap7twC9fFqItxu"
@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/4bwubRxR4a2VlLnCiIc1HA"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149010,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5w7CRd0cMtqL8XbEmafl4c"
+    },
+    {
+      "album": {
         "name": "Blow (feat. Yung Snapp & MV Killa)",
         "url": "https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR"
       },
@@ -881,6 +899,24 @@
     },
     {
       "album": {
+        "name": "CAMMIN (Forcella Walk)",
+        "url": "https://open.spotify.com/album/3OKWQIuCOEMOyJeWca07dF"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143092,
+      "name": "CAMMIN (Forcella Walk)",
+      "url": "https://open.spotify.com/track/6oqB2n9A8lPL1w9ca4vtoo"
+    },
+    {
+      "album": {
         "name": "Campioni In Italia (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX"
       },
@@ -1014,7 +1050,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 195000,
       "name": "CCHIU' FORT (feat. Cosang)",
       "url": "https://open.spotify.com/track/4VplahQrqfyJoLTcZEouqy"
@@ -2143,6 +2179,32 @@
     },
     {
       "album": {
+        "name": "DIO LO SA - ATTO II",
+        "url": "https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "ROOM9",
+          "url": "https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163600,
+      "name": "FERRARI (from \"Uonderbois\")",
+      "url": "https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7"
+    },
+    {
+      "album": {
         "name": "FIFTY",
         "url": "https://open.spotify.com/album/12SoRuaQ6uVhVTd8GRPXMR"
       },
@@ -3212,7 +3274,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 179076,
       "name": "Kiss (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/3ldGtUBuposTxAzaSFM0FI"
@@ -4404,6 +4466,24 @@
       "duration_ms": 172394,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6fpNYikbqxnPdNpLnaNmY6"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2EgW76uFiq6unPzxtFTL24"
     },
     {
       "album": {
@@ -7712,7 +7792,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 143611,
       "name": "Trafficant",
       "url": "https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp"

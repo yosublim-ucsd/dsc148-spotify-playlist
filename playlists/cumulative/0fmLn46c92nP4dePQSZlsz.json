@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "Coldest Night of the Year",
+      "url": "https://open.spotify.com/track/6VJM7VjLRQYfsmAqaAWFqI"
+    },
+    {
+      "album": {
         "name": "Color De Dolor",
         "url": "https://open.spotify.com/album/0RGOHy7NFmGGFWOY1G1dE2"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 224275,
       "name": "Every Holiday",
       "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
@@ -5595,6 +5613,24 @@
     },
     {
       "album": {
+        "name": "Mamacita, Donde Esta Santa Claus?",
+        "url": "https://open.spotify.com/album/3gCxBWCVMTxH1FglATZV5c"
+      },
+      "artists": [
+        {
+          "name": "Guster",
+          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Mamacita, Donde Esta Santa Claus?",
+      "url": "https://open.spotify.com/track/5N7B22ShWn4JGaJeZKtuws"
+    },
+    {
+      "album": {
         "name": "Live at The Fillmore Miami",
         "url": "https://open.spotify.com/album/0A9OpR4Qq1cDF16Zhm2ItJ"
       },
@@ -5978,7 +6014,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 405101,
       "name": "Mvmt IV: \"Every Bell on Earth Will Ring\"",
       "url": "https://open.spotify.com/track/7B0UTIQnO1cOhAeflDHuZR"
@@ -7188,6 +7224,24 @@
       "duration_ms": 511160,
       "name": "Shit Talk",
       "url": "https://open.spotify.com/track/6t8aRTXXIcx9JVRD8IRZKR"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas to You",
+        "url": "https://open.spotify.com/album/7uqODSwcP6NNwN5J4QLeOK"
+      },
+      "artists": [
+        {
+          "name": "Joseph Washington Jr.",
+          "url": "https://open.spotify.com/artist/4nVLVNnCSuw3i6IhH1fISx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "Shopping",
+      "url": "https://open.spotify.com/track/0o1cvLa84jzHoe679hzrdE"
     },
     {
       "album": {
@@ -8967,6 +9021,36 @@
     },
     {
       "album": {
+        "name": "Lullabies To Violaine - Volume 2",
+        "url": "https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        },
+        {
+          "name": "Simon Raymonde",
+          "url": "https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2NpfcSjhWlF50lKY24aOp0"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/1mCahzjwzImAtHgzceDObf"
       },
@@ -8996,7 +9080,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 160493,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"

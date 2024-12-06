@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Potter Payper",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Knucks, K-Trap",
   "name": "Rap UK",
   "tracks": [
     {
@@ -861,6 +861,28 @@
     },
     {
       "album": {
+        "name": "2s n 3s",
+        "url": "https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "2s n 3s",
+      "url": "https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG"
+    },
+    {
+      "album": {
         "name": "Purple Hearts",
         "url": "https://open.spotify.com/album/7Et7I5XV9sRMc47uuKRfuY"
       },
@@ -1552,7 +1574,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149375,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/7pqdicMgQUmLojKUvxsdKm"
@@ -2270,6 +2292,28 @@
       "duration_ms": 132765,
       "name": "Alors Alors",
       "url": "https://open.spotify.com/track/4BOZst1a8mfanfRSfdRzi9"
+    },
+    {
+      "album": {
+        "name": "Alpha Omega",
+        "url": "https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lex Luger",
+          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147133,
+      "name": "Alpha Omega",
+      "url": "https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3"
     },
     {
       "album": {
@@ -6560,7 +6604,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 131666,
       "name": "Bubble Bath",
       "url": "https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5"
@@ -8878,7 +8922,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 118561,
       "name": "Council Housing",
       "url": "https://open.spotify.com/track/5Qrou0ZdDxEIYfeLjOynkS"
@@ -9656,7 +9700,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 253360,
       "name": "Daily Duppy (feat. GRM Daily)",
       "url": "https://open.spotify.com/track/2MduQwWofgJWp3jirxdhWn"
@@ -17598,7 +17642,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154000,
       "name": "Hustler's Life (feat. Slim)",
       "url": "https://open.spotify.com/track/3fm9Gl7NX1PD7K58AfgCjM"
@@ -28107,6 +28151,24 @@
     },
     {
       "album": {
+        "name": "Peggy",
+        "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159336,
+      "name": "Peggy",
+      "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
+    },
+    {
+      "album": {
         "name": "Under Twenty Five",
         "url": "https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb"
       },
@@ -28632,6 +28694,24 @@
       "duration_ms": 154285,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/4Zf9wD8sScwSHyl6upO9gg"
+    },
+    {
+      "album": {
+        "name": "Plotting",
+        "url": "https://open.spotify.com/album/73m9893erMNns8nOvFizud"
+      },
+      "artists": [
+        {
+          "name": "Offica",
+          "url": "https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103636,
+      "name": "Plotting",
+      "url": "https://open.spotify.com/track/1DHSftDAqhzq6OJlv2mjeI"
     },
     {
       "album": {
@@ -31136,7 +31216,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203583,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3nvpB2hd6daYiibl7MCE3F"
@@ -33751,6 +33831,24 @@
     },
     {
       "album": {
+        "name": "sorrym8",
+        "url": "https://open.spotify.com/album/6pgXnGMYy9T3EAqbeClTOe"
+      },
+      "artists": [
+        {
+          "name": "5EB",
+          "url": "https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124066,
+      "name": "sorrym8",
+      "url": "https://open.spotify.com/track/08NNABYgFEC3G2S02jGU3Q"
+    },
+    {
+      "album": {
         "name": "South",
         "url": "https://open.spotify.com/album/3zEngZzz84OKKiR82rAkqK"
       },
@@ -34570,6 +34668,24 @@
       "duration_ms": 196939,
       "name": "Straight Back to It",
       "url": "https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4"
+    },
+    {
+      "album": {
+        "name": "Straight Drop X5",
+        "url": "https://open.spotify.com/album/7Kj7DByiJxyuUIfCHqYrTe"
+      },
+      "artists": [
+        {
+          "name": "Asco",
+          "url": "https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Straight Drop X5",
+      "url": "https://open.spotify.com/track/3kUbJTF3u2Ge4j4IzCwlz5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da-il(\uc591\ub2e4\uc77c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Shin Yong Jae(\uc2e0\uc6a9\uc7ac)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -4213,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "If you see me",
+        "url": "https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy"
+      },
+      "artists": [
+        {
+          "name": "BANHANA",
+          "url": "https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "If you see me",
+      "url": "https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW"
+    },
+    {
+      "album": {
         "name": "ONE MIND 3",
         "url": "https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG"
       },
@@ -5198,7 +5216,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 195381,
       "name": "Love me",
       "url": "https://open.spotify.com/track/7n3IAdczd9T1MUqJLAMXoP"
@@ -7775,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/41OYa62HOJVT8pEczl84vJ"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5"
+    },
+    {
+      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -8060,7 +8096,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 237065,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o"

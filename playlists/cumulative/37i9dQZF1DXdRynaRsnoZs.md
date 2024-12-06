@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-104 songs - 4 hr 4 min
+106 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Caroling, caroling](https://open.spotify.com/track/06zCr3KozocS9gzSAxmQwY) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Deck the hall](https://open.spotify.com/album/3IhZrMCx2OHwEqydGWTol4) | 2:26 | 2023-10-27 |  |
 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 | 2021-12-22 |  |
 | [Christmas Baby \- Instrumental](https://open.spotify.com/track/76c0nnqGOlznWQXwK2XulW) | [The Night Owl](https://open.spotify.com/artist/0igPRkjHRxYJLdlstbp9MW) | [Christmas Lullabies for Babies \(2024\)](https://open.spotify.com/album/7u9tavkEHTc4tweyBdkDrA) | 3:06 | 2024-11-14 |  |
+| [Christmas Morning](https://open.spotify.com/track/0zy8xnRLIQ8mnA3Z9diYHZ) | [Jo Nichols](https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq) | [Christmas Morning](https://open.spotify.com/album/0xCWDJ0c67zt59hk0l2eo4) | 1:26 | 2024-12-05 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-22 |  |
 | [Christmas Traditions](https://open.spotify.com/track/4iyxrcCCOGaG3VYp2lMc04) | [Lue Miles](https://open.spotify.com/artist/2cxel74Dv32TWXq5q9sqAU) | [Christmas Traditions](https://open.spotify.com/album/4WoFoO86STGkrZmx7VtZpc) | 2:11 | 2023-10-27 |  |
 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 | 2022-10-14 |  |
@@ -85,6 +86,7 @@
 | [One Day in December](https://open.spotify.com/track/6pT4DiBoFLZvI0QPXis1UY) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [One Day in December](https://open.spotify.com/album/72WA1OcHFJG0qhJEwhsxFl) | 1:26 | 2022-11-23 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 | 2022-10-14 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Christmas Songs Peaceful Harp](https://open.spotify.com/album/04atZZp9uct3Golu1zeEcP) | 1:53 | 2023-10-27 |  |
+| [Santa Claus Is Coming To Town](https://open.spotify.com/track/1Gneuw6f4PIrg19bwMC8aK) | [Lullavibes](https://open.spotify.com/artist/2IIF8jrpe367SgyJ6r7HUk) | [Lullaby Instrumentals: Happy Holidays](https://open.spotify.com/album/3DfrXQ4rzbVgsDQ7y2qERh) | 3:45 | 2024-12-05 |  |
 | [Silent Night](https://open.spotify.com/track/1DR9eaJOZgazwu5PZWBr7H) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Silent Night](https://open.spotify.com/album/6GXdvyxnjzBYejYmdFMO4T) | 2:26 | 2023-11-16 |  |
 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 | 2023-11-18 |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |

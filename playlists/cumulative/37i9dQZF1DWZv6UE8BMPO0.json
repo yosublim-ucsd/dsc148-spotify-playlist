@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A December to Remember",
+        "url": "https://open.spotify.com/album/3KcrL0tebR066rsCoG9Rge"
+      },
+      "artists": [
+        {
+          "name": "Season's Greetings",
+          "url": "https://open.spotify.com/artist/5wLLNDMOPzzbKjRGOWymEf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "A December to Remember",
+      "url": "https://open.spotify.com/track/311LJn3hzR1L2fNYlVCYCT"
+    },
+    {
+      "album": {
         "name": "A Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/4iYlrUIRIn826BpEK0SF8u"
       },
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 112934,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP"

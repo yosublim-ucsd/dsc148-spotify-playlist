@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 180525,
+  "num_followers": 180665,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Comfortable under the Surface",
-        "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
-      },
-      "artists": [
-        {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Comfortable under the Surface",
-      "url": "https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Flowing Calm",
         "url": "https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 148465,
       "name": "Flowing Calm",
       "url": "https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "Comfortable under the Surface",
+        "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Comfortable under the Surface",
+      "url": "https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Floating senses",
-        "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
-      },
-      "artists": [
-        {
-          "name": "Chakrasapiens",
-          "url": "https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg"
-        }
-      ],
-      "duration_ms": 155217,
-      "name": "Floating senses",
-      "url": "https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Backwood Recline",
         "url": "https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229057,
       "name": "Backwood Recline",
       "url": "https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "Floating senses",
+        "url": "https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR"
+      },
+      "artists": [
+        {
+          "name": "Chakrasapiens",
+          "url": "https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg"
+        }
+      ],
+      "duration_ms": 155217,
+      "name": "Floating senses",
+      "url": "https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -939,38 +939,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Ajna",
-        "url": "https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J"
-      },
-      "artists": [
-        {
-          "name": "Hollow Graham",
-          "url": "https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Ajna",
-      "url": "https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
-        "name": "Serene Spa",
-        "url": "https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Serene Spa",
-      "url": "https://open.spotify.com/track/7n8oXsxqPGZKUrhFK3zYHz"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Sacred Reservoir",
         "url": "https://open.spotify.com/album/6OxqSw1esboGXc8wl5etdy"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 183529,
       "name": "Sacred Reservoir",
       "url": "https://open.spotify.com/track/11gvVIKblQIJ3YFf7A8q0o"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "Ajna",
+        "url": "https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J"
+      },
+      "artists": [
+        {
+          "name": "Hollow Graham",
+          "url": "https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Ajna",
+      "url": "https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
+        "name": "Serene Spa",
+        "url": "https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Serene Spa",
+      "url": "https://open.spotify.com/track/7n8oXsxqPGZKUrhFK3zYHz"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
         "name": "Cottonia Creek",
         "url": "https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 179580,
       "name": "Cottonia Creek",
       "url": "https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
-        "name": "Domestic Waters",
-        "url": "https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl"
-      },
-      "artists": [
-        {
-          "name": "The Lay-Backs",
-          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
-        }
-      ],
-      "duration_ms": 184647,
-      "name": "Domestic Waters",
-      "url": "https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
+        "name": "Herinneringen (Sound Bath)",
+        "url": "https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru"
+      },
+      "artists": [
+        {
+          "name": "Sohn Aelia",
+          "url": "https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i"
+        }
+      ],
+      "duration_ms": 182759,
+      "name": "Herinneringen (Sound Bath)",
+      "url": "https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
         "name": "Legacy Drift",
         "url": "https://open.spotify.com/album/6FOEczmgps7pqBfvGAXlcD"
       },
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Herinneringen (Sound Bath)",
-        "url": "https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru"
+        "name": "Domestic Waters",
+        "url": "https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl"
       },
       "artists": [
         {
-          "name": "Sohn Aelia",
-          "url": "https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i"
+          "name": "The Lay-Backs",
+          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
         }
       ],
-      "duration_ms": 182759,
-      "name": "Herinneringen (Sound Bath)",
-      "url": "https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp"
+      "duration_ms": 184647,
+      "name": "Domestic Waters",
+      "url": "https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "A Bird Sleeping in Paradise",
-        "url": "https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns"
-      },
-      "artists": [
-        {
-          "name": "Constellation Sound",
-          "url": "https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a"
-        }
-      ],
-      "duration_ms": 144081,
-      "name": "A Parrot Sleeping",
-      "url": "https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 139874,
       "name": "Circle",
       "url": "https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "A Bird Sleeping in Paradise",
+        "url": "https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns"
+      },
+      "artists": [
+        {
+          "name": "Constellation Sound",
+          "url": "https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a"
+        }
+      ],
+      "duration_ms": 144081,
+      "name": "A Parrot Sleeping",
+      "url": "https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
-      },
-      "artists": [
-        {
-          "name": "Devon Fall",
-          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Essence (Soundbath)",
-      "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Back In My Memory",
         "url": "https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 175431,
       "name": "Back In My Memory",
       "url": "https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Essence (Soundbath)",
+      "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "My Small River",
-        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
+        "name": "OHM",
+        "url": "https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb"
       },
       "artists": [
         {
-          "name": "Emma Hill",
-          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
+          "name": "Uffe J\u00f6rgensen",
+          "url": "https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G"
         }
       ],
-      "duration_ms": 179250,
-      "name": "My Small River",
-      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
+      "duration_ms": 180533,
+      "name": "Meadow\u2019s Fountain",
+      "url": "https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "OHM",
-        "url": "https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb"
+        "name": "My Small River",
+        "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
       },
       "artists": [
         {
-          "name": "Uffe J\u00f6rgensen",
-          "url": "https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G"
+          "name": "Emma Hill",
+          "url": "https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Meadow\u2019s Fountain",
-      "url": "https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW"
+      "duration_ms": 179250,
+      "name": "My Small River",
+      "url": "https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Calihue",
-        "url": "https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6"
-      },
-      "artists": [
-        {
-          "name": "Paihu\u00e9n",
-          "url": "https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "Calihue",
-      "url": "https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Soothing River Currents",
         "url": "https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 170250,
       "name": "Soothing River Currents",
       "url": "https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "Calihue",
+        "url": "https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6"
+      },
+      "artists": [
+        {
+          "name": "Paihu\u00e9n",
+          "url": "https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "Calihue",
+      "url": "https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
+        "name": "Ebb",
+        "url": "https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "duration_ms": 136483,
+      "name": "Ebb",
+      "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
         "name": "Restful Petal",
         "url": "https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK"
       },
@@ -2339,22 +2355,6 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "The Nature of Night",
-        "url": "https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hoffman",
-          "url": "https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7"
-        }
-      ],
-      "duration_ms": 193534,
-      "name": "The Nature of Night",
-      "url": "https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
         "name": "Bhakti",
         "url": "https://open.spotify.com/album/01pQqb89FcBuQnE2KDdFyl"
       },
@@ -2367,6 +2367,22 @@
       "duration_ms": 168750,
       "name": "Prana",
       "url": "https://open.spotify.com/track/2I8w8s0lKS1ZT4onSKB7k7"
+    },
+    {
+      "added_at": "2024-12-04 15:45:41",
+      "album": {
+        "name": "The Nature of Night",
+        "url": "https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hoffman",
+          "url": "https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7"
+        }
+      ],
+      "duration_ms": 193534,
+      "name": "The Nature of Night",
+      "url": "https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP"
     },
     {
       "added_at": "2024-12-04 15:45:41",
@@ -2387,34 +2403,18 @@
     {
       "added_at": "2024-12-04 15:45:41",
       "album": {
-        "name": "Ebb",
-        "url": "https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL"
+        "name": "Lichen Pillow",
+        "url": "https://open.spotify.com/album/14I1aDJmh1wHCjrUzgA631"
       },
       "artists": [
         {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+          "name": "Endel",
+          "url": "https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4"
         }
       ],
-      "duration_ms": 136483,
-      "name": "Ebb",
-      "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
-    },
-    {
-      "added_at": "2024-12-04 15:45:41",
-      "album": {
-        "name": "Dream River",
-        "url": "https://open.spotify.com/album/74d432GBiGsHeEpJ5GQX5b"
-      },
-      "artists": [
-        {
-          "name": "Slumber Pals",
-          "url": "https://open.spotify.com/artist/7eX1arZxMWfM7B7Jx3GtJO"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Dream River",
-      "url": "https://open.spotify.com/track/7h55IavoXCs66iwVRoff0e"
+      "duration_ms": 208000,
+      "name": "Lichen Pillow - Spa",
+      "url": "https://open.spotify.com/track/2nX7khSpIWDFaYoLpPZvDA"
     }
   ],
   "unique_name": "Nature Relaxation",

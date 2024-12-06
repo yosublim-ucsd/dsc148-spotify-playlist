@@ -1,13 +1,29 @@
 {
   "description": "BLACKPINK in our area!",
-  "num_followers": 3225116,
+  "num_followers": 3225144,
   "original_name": "This Is BLACKPINK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy12pgAAAACG6P2V3V+7c5guLhM4ZjMg",
+  "snapshot_id": "Z1Eh+gAAAAAYHebjB0hA59xgOJ5FtlmZ",
   "tracks": [
+    {
+      "added_at": "2024-12-05 03:46:02",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
     {
       "added_at": "2024-11-08 02:25:42",
       "album": {

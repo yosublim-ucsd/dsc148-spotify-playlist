@@ -1,13 +1,45 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: KREAM",
-  "num_followers": 120400,
+  "num_followers": 120398,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAeecZQ6EybVcb8Yw1RJ2nxuxbddhUe",
+  "snapshot_id": "AAAegeca911MVcWT2FY7Pm3kRMsG9VpN",
   "tracks": [
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "More Than A Feeling",
+        "url": "https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 242073,
+      "name": "More Than A Feeling",
+      "url": "https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN"
+    },
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 153670,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
+    },
     {
       "added_at": "2024-11-28 14:07:49",
       "album": {
@@ -47,6 +79,106 @@
       "duration_ms": 167040,
       "name": "Home",
       "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
+    },
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
+        "url": "https://open.spotify.com/album/5lstoGz7CgwUXoTaMgJv4j"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "David Novacek",
+          "url": "https://open.spotify.com/artist/1dPeIuXnrMKNy6xbUzWYBo"
+        }
+      ],
+      "duration_ms": 179516,
+      "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
+      "url": "https://open.spotify.com/track/0FmuZijsrw4tzm7yNs3eqD"
+    },
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "Adrenaline (feat. JUSTNKAYSE)",
+        "url": "https://open.spotify.com/album/5BR4sqnudMwQNyB9XHqHXP"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Landis",
+          "url": "https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn"
+        },
+        {
+          "name": "JUSTNKAYSE",
+          "url": "https://open.spotify.com/artist/3mkIPB08zV05ShXKmsW8b5"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "Adrenaline (feat. JUSTNKAYSE)",
+      "url": "https://open.spotify.com/track/08tKZtTqQU8SyCgfdu8MAW"
+    },
+    {
+      "added_at": "2024-12-05 13:38:20",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "Pumped Up Kicks",
+        "url": "https://open.spotify.com/album/5uhl7EEG18Xl91xBiKs41z"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "duration_ms": 197378,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/38inLXR06QEWhDr2LC8zTH"
+    },
+    {
+      "added_at": "2024-12-05 13:25:36",
+      "album": {
+        "name": "Wake Up In The Sky (feat. Bianca Tilici)",
+        "url": "https://open.spotify.com/album/6O2pZ02my9eWIevgD4W4JT"
+      },
+      "artists": [
+        {
+          "name": "Weekend Wonders",
+          "url": "https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW"
+        },
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Wake Up In The Sky (feat. Bianca Tilici)",
+      "url": "https://open.spotify.com/track/7167afkupEZnmCAtMeizWv"
     },
     {
       "added_at": "2024-11-22 08:26:05",
@@ -247,174 +379,6 @@
       "duration_ms": 147361,
       "name": "Sant'allegria - Jack Sani Remix",
       "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
-        "url": "https://open.spotify.com/album/1w7PUeDERNCUTPQz6hAggK"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "D\u00f6ts",
-          "url": "https://open.spotify.com/artist/58NbDSoRwrRaJSHlMfadLC"
-        },
-        {
-          "name": "Victor Garde",
-          "url": "https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5"
-        }
-      ],
-      "duration_ms": 158362,
-      "name": "Fade Till Sunrise, Pt. II (D\u00f6ts & Victor Garde Remix)",
-      "url": "https://open.spotify.com/track/1iOZ5gxbMhDDtnJ8G7PqUu"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Tantalizing",
-        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Tantalizing",
-      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "BANG BANG POW!",
-        "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "I.D.O.",
-          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
-        }
-      ],
-      "duration_ms": 133406,
-      "name": "BANG BANG POW!",
-      "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Turn It Off (feat. Z3LLA)",
-        "url": "https://open.spotify.com/album/1HOnxjFRY3Vo8hcYrmugr5"
-      },
-      "artists": [
-        {
-          "name": "JustLuke",
-          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
-        },
-        {
-          "name": "Z3LLA",
-          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
-        }
-      ],
-      "duration_ms": 138409,
-      "name": "Turn It Off (feat. Z3LLA)",
-      "url": "https://open.spotify.com/track/1dshcx1FgshcyQiC5gKkQO"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Together As One",
-        "url": "https://open.spotify.com/album/5LJMDOl6eBXYwxt0Va8Kcs"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/2YVJ0M0KWxVf7uMqWDneiF"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1qSWxTgUBea8rYITfkX5Zo"
-      },
-      "artists": [
-        {
-          "name": "The MVI",
-          "url": "https://open.spotify.com/artist/3lNndpXHpx4oVT4rEt5MB4"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/12vrDiCobFUGGqYqTGyyw7"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Famous",
-        "url": "https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW"
-      },
-      "artists": [
-        {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
-        },
-        {
-          "name": "JusSke",
-          "url": "https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu"
-        }
-      ],
-      "duration_ms": 171071,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Kench",
-        "url": "https://open.spotify.com/album/1ROQb64ctG2N45KG3W6StH"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Kench",
-      "url": "https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

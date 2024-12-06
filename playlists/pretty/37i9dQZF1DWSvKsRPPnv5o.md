@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Just some chill guys;  Art by L E S E D I
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,118 likes - 91 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,452 likes - 91 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

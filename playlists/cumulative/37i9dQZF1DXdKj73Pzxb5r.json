@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Rigaskara",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Holy City Rollers",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 220500,
       "name": "Adore",
       "url": "https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44"
+    },
+    {
+      "album": {
+        "name": "Akigawa",
+        "url": "https://open.spotify.com/album/2GNwl3JLeb7x9tA0c4yccM"
+      },
+      "artists": [
+        {
+          "name": "Beltigs",
+          "url": "https://open.spotify.com/artist/131ItWWcvBQH32vUPqmdPK"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240014,
+      "name": "Akigawa",
+      "url": "https://open.spotify.com/track/5IGFknhxq3QJ5hxPq5S9AJ"
     },
     {
       "album": {
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 143743,
       "name": "Don't You Dare Hesitate",
       "url": "https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05"
@@ -1917,6 +1935,48 @@
     },
     {
       "album": {
+        "name": "Christmas According To...",
+        "url": "https://open.spotify.com/album/5yMeGEZolGBWuiPIDZIi6K"
+      },
+      "artists": [
+        {
+          "name": "Meda Kawu",
+          "url": "https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr"
+        },
+        {
+          "name": "Inis",
+          "url": "https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3"
+        },
+        {
+          "name": "Alex Teh",
+          "url": "https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36"
+        },
+        {
+          "name": "Damien Chandra",
+          "url": "https://open.spotify.com/artist/3pt3gNtEWAuaFgUVWqff86"
+        },
+        {
+          "name": "Hang Dimas",
+          "url": "https://open.spotify.com/artist/00jbG1ik7vd5vX4LEWaXuo"
+        },
+        {
+          "name": "Pungky Purnanto",
+          "url": "https://open.spotify.com/artist/0zBKX2GswcJy5HL5jrC6zp"
+        },
+        {
+          "name": "MK Singing Playground",
+          "url": "https://open.spotify.com/artist/5Pa6plrn31RNpdGbTh5QKf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213068,
+      "name": "JOY or BLUE (feat. Inis, Alex Teh, Damien Chandra, Hang Dimas, Pungky Purnanto & MK Singing Playground)",
+      "url": "https://open.spotify.com/track/6YbQ3eAZRv7hZgny2QSigE"
+    },
+    {
+      "album": {
         "name": "Jumpa Lagi Nanti",
         "url": "https://open.spotify.com/album/4uK2k4ZKaXkg7PjIllZvz2"
       },
@@ -2596,7 +2656,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203000,
       "name": "Midnight Shower (Live)",
       "url": "https://open.spotify.com/track/6A9azjg7X3nk6vCTF8Pj6r"
@@ -3950,7 +4010,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 306000,
       "name": "The Art of Chasing You",
       "url": "https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB"
@@ -3990,6 +4050,24 @@
       "duration_ms": 266382,
       "name": "The Lady With The Sapphire in Her Eyes",
       "url": "https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ"
+    },
+    {
+      "album": {
+        "name": "The Society",
+        "url": "https://open.spotify.com/album/2CaghgITxYwMtJpKTbabAV"
+      },
+      "artists": [
+        {
+          "name": "Holy City Rollers",
+          "url": "https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "The Society",
+      "url": "https://open.spotify.com/track/3SnUub2OpfmI5MBfvyPwxK"
     },
     {
       "album": {

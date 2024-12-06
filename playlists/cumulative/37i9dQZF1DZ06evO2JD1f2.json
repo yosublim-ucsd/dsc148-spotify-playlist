@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165878,
+      "name": "Break Check",
+      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
+    },
+    {
+      "album": {
         "name": "HEAVY IS THE HEAD",
         "url": "https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy"
       },
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 151980,
       "name": "Special",
       "url": "https://open.spotify.com/track/2fTWKA83JIAdEJk8vLUvy6"

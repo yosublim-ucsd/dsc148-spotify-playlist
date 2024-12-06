@@ -1,12 +1,12 @@
 {
   "description": "Get festive with the best holiday music from independent artists and labels everywhere. Cover star: <a href=\"https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG?si=FstFHYfCSVWxDZ7RavOZtw\">Phoebe Bridgers</a>",
-  "num_followers": 16965,
+  "num_followers": 17014,
   "original_name": "Secretly Indie Holiday",
   "owner": {
     "name": "Secretly Group",
     "url": "https://open.spotify.com/user/secretlygroup"
   },
-  "snapshot_id": "AAAOZNrZiIr4xw2PM+eLwwTDiLo1q/Vx",
+  "snapshot_id": "AAAOdeRmHoD6LdrwKo0lKELU+i3XAXxT",
   "tracks": [
     {
       "added_at": "2024-12-03 21:24:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-12-03 21:24:10",
       "album": {
-        "name": "The Best Of The Waitresses",
-        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
-      },
-      "artists": [
-        {
-          "name": "The Waitresses",
-          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "Christmas Wrapping",
-      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -91,22 +75,6 @@
     {
       "added_at": "2024-12-03 21:24:10",
       "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP"
-      },
-      "artists": [
-        {
-          "name": "Best Coast",
-          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/3SmxMYiXhUeseHOdEtLlFI"
       },
@@ -119,6 +87,22 @@
       "duration_ms": 123213,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5kCRmO5gAtXlyjY32274MF"
+    },
+    {
+      "added_at": "2024-12-03 21:24:10",
+      "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -239,6 +223,34 @@
       "duration_ms": 253746,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/54JmU8wj5KJ7TwIbydTBaT"
+    },
+    {
+      "added_at": "2024-12-05 16:06:31",
+      "album": {
+        "name": "Lullabies To Violaine - Volume 2",
+        "url": "https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        },
+        {
+          "name": "Simon Raymonde",
+          "url": "https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2NpfcSjhWlF50lKY24aOp0"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -389,6 +401,22 @@
       "url": "https://open.spotify.com/track/09CafP5PVM2WRsWDJjMrv3"
     },
     {
+      "added_at": "2024-12-05 16:27:29",
+      "album": {
+        "name": "Merry Christmas to You",
+        "url": "https://open.spotify.com/album/7uqODSwcP6NNwN5J4QLeOK"
+      },
+      "artists": [
+        {
+          "name": "Joseph Washington Jr.",
+          "url": "https://open.spotify.com/artist/4nVLVNnCSuw3i6IhH1fISx"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Shopping",
+      "url": "https://open.spotify.com/track/0o1cvLa84jzHoe679hzrdE"
+    },
+    {
       "added_at": "2024-12-03 21:24:10",
       "album": {
         "name": "To: You (a holiday joint)",
@@ -435,38 +463,6 @@
       "duration_ms": 152293,
       "name": "Eight Candles",
       "url": "https://open.spotify.com/track/3h7gBcW79oEUfFA0n0wraf"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/0Y9cIPRglkhjuntXviBSfS"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4k7BZZgJ4DlWejFW8fRx2L"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
-        "name": "santa made me do it",
-        "url": "https://open.spotify.com/album/5IDbC9a7kPYj0YlAE9xSC7"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 105728,
-      "name": "santa made me do it",
-      "url": "https://open.spotify.com/track/1KsWSDWr37mDwunZ6dcRsd"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -595,6 +591,22 @@
       "duration_ms": 179074,
       "name": "If We Make It Through December",
       "url": "https://open.spotify.com/track/3a3q9YsTkgrG7dBF2ZdZfn"
+    },
+    {
+      "added_at": "2024-12-03 21:24:10",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0Y9cIPRglkhjuntXviBSfS"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 225937,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4k7BZZgJ4DlWejFW8fRx2L"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -855,6 +867,22 @@
     {
       "added_at": "2024-12-03 21:24:10",
       "album": {
+        "name": "The Best Of The Waitresses",
+        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
+      },
+      "artists": [
+        {
+          "name": "The Waitresses",
+          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
+    },
+    {
+      "added_at": "2024-12-03 21:24:10",
+      "album": {
         "name": "Make This A Good Christmas b/w What I Really Want For Christmas",
         "url": "https://open.spotify.com/album/5rvM63FHsCXpr5QQYjsIvE"
       },
@@ -949,20 +977,20 @@
       "url": "https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX"
     },
     {
-      "added_at": "2024-12-03 21:24:10",
+      "added_at": "2024-12-05 16:07:36",
       "album": {
-        "name": "Every Holiday",
-        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
         }
       ],
-      "duration_ms": 224275,
-      "name": "Every Holiday",
-      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+      "duration_ms": 210826,
+      "name": "Coldest Night of the Year",
+      "url": "https://open.spotify.com/track/6VJM7VjLRQYfsmAqaAWFqI"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -995,6 +1023,22 @@
       "duration_ms": 159601,
       "name": "Got To Be Christmas",
       "url": "https://open.spotify.com/track/6kESBx48XiQaM6LFyL7BQk"
+    },
+    {
+      "added_at": "2024-12-03 21:24:10",
+      "album": {
+        "name": "In the Bleak Midwinter",
+        "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 203747,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -1099,22 +1143,6 @@
     {
       "added_at": "2024-12-03 21:24:10",
       "album": {
-        "name": "In the Bleak Midwinter",
-        "url": "https://open.spotify.com/album/5BH6HaosOth2jNBs7tANBK"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 203747,
-      "name": "In the Bleak Midwinter",
-      "url": "https://open.spotify.com/track/6bT0cqmIS5vjNSdidUyVaa"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/2mMLPgz8Z83RQ4aDSDHxdN"
       },
@@ -1209,6 +1237,22 @@
       "url": "https://open.spotify.com/track/41lTLKWtyo1XJXAUvOuJIf"
     },
     {
+      "added_at": "2024-12-05 16:10:49",
+      "album": {
+        "name": "Mamacita, Donde Esta Santa Claus?",
+        "url": "https://open.spotify.com/album/3gCxBWCVMTxH1FglATZV5c"
+      },
+      "artists": [
+        {
+          "name": "Guster",
+          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+        }
+      ],
+      "duration_ms": 140760,
+      "name": "Mamacita, Donde Esta Santa Claus?",
+      "url": "https://open.spotify.com/track/5N7B22ShWn4JGaJeZKtuws"
+    },
+    {
       "added_at": "2024-12-03 21:24:10",
       "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
@@ -1287,6 +1331,22 @@
       "duration_ms": 231840,
       "name": "The Coming of Jah",
       "url": "https://open.spotify.com/track/6rpC6qGX4wGquDHBCs0bAu"
+    },
+    {
+      "added_at": "2024-12-03 21:24:10",
+      "album": {
+        "name": "santa made me do it",
+        "url": "https://open.spotify.com/album/5IDbC9a7kPYj0YlAE9xSC7"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 105728,
+      "name": "santa made me do it",
+      "url": "https://open.spotify.com/track/1KsWSDWr37mDwunZ6dcRsd"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -1435,22 +1495,6 @@
       "duration_ms": 156233,
       "name": "Wonderful Christmas Time",
       "url": "https://open.spotify.com/track/1pl2HnUTBBIPS1GgvHiAuI"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
-        "name": "Last Christmas / Winter Wonderland",
-        "url": "https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/2C4YYe2aqRXKdKmb2nbUVr"
     },
     {
       "added_at": "2024-12-03 21:24:10",
@@ -1719,22 +1763,6 @@
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2024-12-03 21:24:10",
-      "album": {
-        "name": "The Oh Hellos' Family Christmas Album",
-        "url": "https://open.spotify.com/album/5Dis90MWAIxdXh6IuQ27JM"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 405101,
-      "name": "Mvmt IV: \"Every Bell on Earth Will Ring\"",
-      "url": "https://open.spotify.com/track/7B0UTIQnO1cOhAeflDHuZR"
     },
     {
       "added_at": "2024-12-03 21:24:10",

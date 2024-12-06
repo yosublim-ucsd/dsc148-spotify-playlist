@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Геля Зозуля & Adam
+> Найпопулярніші пісні сьогодення\. Обкладинка: Stromae & Pomme
 
 78 songs - 3 hr 48 min
 

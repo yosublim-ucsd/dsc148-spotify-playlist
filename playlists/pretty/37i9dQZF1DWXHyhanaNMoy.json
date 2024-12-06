@@ -1,15 +1,55 @@
 {
   "description": "Motion en good vibes. Cover: Mensa & DJEZJA",
-  "num_followers": 329170,
+  "num_followers": 329161,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0zqcAAAAABi41LcHO/7xVElPjT6LW5s",
+  "snapshot_id": "Z1IwcAAAAAD5OPTTHcSB6y31vDkzuP4q",
   "tracks": [
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
+      },
+      "artists": [
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        }
+      ],
+      "duration_ms": 130546,
+      "name": "Carrousel",
+      "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/3eKf6nZJ5IrFABt6fohShg"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/3Xxj5bYcJhw88wW8t5lcuG"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Bundesliga",
         "url": "https://open.spotify.com/album/49VFeGXMzs1YZhnxm5tkAd"
@@ -37,7 +77,7 @@
       "url": "https://open.spotify.com/track/4wSqfmYUyVnQJaEyBtmrWg"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
@@ -53,7 +93,27 @@
       "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "chille guy",
+        "url": "https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 100279,
+      "name": "chille guy",
+      "url": "https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/2sSRlmp5ZtyGPHeWjs89lK"
@@ -77,51 +137,75 @@
       "url": "https://open.spotify.com/track/6h6OoDYaWZ7EGYyX6gXmJq"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Geen Reden",
-        "url": "https://open.spotify.com/album/75GRNlffSzpbCMnVppY0dM"
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
       "artists": [
         {
-          "name": "Delany",
-          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 176268,
-      "name": "Geen Reden",
-      "url": "https://open.spotify.com/track/654lS8GBJbj3suBin5ndVi"
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
+        "name": "Bewijsdrang",
+        "url": "https://open.spotify.com/album/0z3y0N05VG9UuoQoLT70DS"
       },
       "artists": [
         {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "JayKoppig",
-          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
         }
       ],
-      "duration_ms": 130546,
-      "name": "Carrousel",
-      "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+      "duration_ms": 134604,
+      "name": "Bewijsdrang",
+      "url": "https://open.spotify.com/track/3KfIrIgWIoKePRXo5Z5ei3"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Si Mootje",
+        "url": "https://open.spotify.com/album/3jLvX6U3ToROzsxDqUGDF1"
+      },
+      "artists": [
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Si Mootje",
+      "url": "https://open.spotify.com/track/3lmHkJbYY82KUGt9sPDieB"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Speelt Verliefd",
         "url": "https://open.spotify.com/album/4mnmOxi85GGorUvaIKf6EE"
@@ -141,23 +225,55 @@
       "url": "https://open.spotify.com/track/2T0jRQ5ZZSwW9oiWodY3H6"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Bewijsdrang",
-        "url": "https://open.spotify.com/album/0z3y0N05VG9UuoQoLT70DS"
+        "name": "MONEY ONLINE",
+        "url": "https://open.spotify.com/album/2iwRcr3tozlfW8B2BJ2fFD"
       },
       "artists": [
         {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+          "name": "Rasskulz",
+          "url": "https://open.spotify.com/artist/6EG4aueDmBQiVMPfTDku3v"
+        },
+        {
+          "name": "Saffeh",
+          "url": "https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz"
+        },
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        },
+        {
+          "name": "Reanny",
+          "url": "https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd"
         }
       ],
-      "duration_ms": 134604,
-      "name": "Bewijsdrang",
-      "url": "https://open.spotify.com/track/3KfIrIgWIoKePRXo5Z5ei3"
+      "duration_ms": 123495,
+      "name": "MONEY ONLINE",
+      "url": "https://open.spotify.com/track/5M4BCPMlCFE1Qxw2aY00uW"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Geen Reden",
+        "url": "https://open.spotify.com/album/75GRNlffSzpbCMnVppY0dM"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "Geen Reden",
+      "url": "https://open.spotify.com/track/654lS8GBJbj3suBin5ndVi"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "LIEG TEGEN MIJ",
         "url": "https://open.spotify.com/album/0VLZxAGTufI4PpAfR48M6r"
@@ -177,7 +293,43 @@
       "url": "https://open.spotify.com/track/58ackvPocCW9jRJIu05bj6"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Vaag",
+        "url": "https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp"
+      },
+      "artists": [
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Vaag",
+      "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Kitoko",
+        "url": "https://open.spotify.com/album/7ciukfuo47zLYbJcRNdtLZ"
+      },
+      "artists": [
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Kitoko",
+      "url": "https://open.spotify.com/track/0lYgAmPl56UiNMBme18iYW"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Dansvloerkiller",
         "url": "https://open.spotify.com/album/1pIFdaWneZM9kRMYDsYcxD"
@@ -193,7 +345,7 @@
       "url": "https://open.spotify.com/track/47tS35fPyJjIHLk95OBeHc"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Nice Like This",
         "url": "https://open.spotify.com/album/1KGPOs5GOUmnXT4gEd0blx"
@@ -209,7 +361,23 @@
       "url": "https://open.spotify.com/track/2fhtCBYjSpIUHFgvI3hpEJ"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "LILA LOVA",
+        "url": "https://open.spotify.com/album/3rTb96r3mliddCAWl3n7kD"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "duration_ms": 122586,
+      "name": "LILA LOVA",
+      "url": "https://open.spotify.com/track/6Jw3x3gW6WRfHD7hmOMN2g"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
@@ -225,7 +393,7 @@
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ba Ba Bad",
         "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
@@ -249,7 +417,7 @@
       "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "MARADONA",
         "url": "https://open.spotify.com/album/5tKM7AJK4KbZfvjULZWqBL"
@@ -265,7 +433,23 @@
       "url": "https://open.spotify.com/track/6DQP9PApwO1ytBaOOec8ap"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Verbinding",
+        "url": "https://open.spotify.com/album/4HMO82r3wqEIywgsXXVwF7"
+      },
+      "artists": [
+        {
+          "name": "Kevcody",
+          "url": "https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "Verbinding",
+      "url": "https://open.spotify.com/track/6Mg7f9Kuxpg2TAxEaFzHXC"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Zonder Mij",
         "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
@@ -289,27 +473,31 @@
       "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Traumatized",
-        "url": "https://open.spotify.com/album/5xbM4R4kHMxpCrMVjM5jPk"
+        "name": "Modeshow",
+        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
       },
       "artists": [
         {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
         },
         {
-          "name": "Freddie Konings",
-          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Traumatized",
-      "url": "https://open.spotify.com/track/1efQzdaKimh9nCARO14DA9"
+      "duration_ms": 147692,
+      "name": "Modeshow",
+      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
@@ -329,27 +517,7 @@
       "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Vaag",
-        "url": "https://open.spotify.com/album/4xPi3Mfa8aclAnzrL0mSKp"
-      },
-      "artists": [
-        {
-          "name": "J.FIZ",
-          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
-        },
-        {
-          "name": "Ksix",
-          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Vaag",
-      "url": "https://open.spotify.com/track/6QZRtzAAHjWQ5NOCBflPNP"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP"
@@ -369,7 +537,7 @@
       "url": "https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "I Adore You (with J Balvin & Ellie Goulding)",
         "url": "https://open.spotify.com/album/7AcEvOjGlIzl1P9EDrOooc"
@@ -405,7 +573,7 @@
       "url": "https://open.spotify.com/track/03L6HaDf0AFmlsHhq7Ewoi"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Lodewijk",
         "url": "https://open.spotify.com/album/4hcMI3CC2BYniavlmQZ4aa"
@@ -429,7 +597,7 @@
       "url": "https://open.spotify.com/track/6VkzZ0I0w2CE3EIGbyMeeu"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Minimum \u00e7a",
         "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
@@ -445,7 +613,7 @@
       "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "ODO",
         "url": "https://open.spotify.com/album/66DGjtXR8JW7tZv9ozLTzW"
@@ -465,7 +633,7 @@
       "url": "https://open.spotify.com/track/0azFj9TH82vjUeNRvsIrEU"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
@@ -485,39 +653,7 @@
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Modellen (Un Deux Trois)",
-        "url": "https://open.spotify.com/album/5kizjN6TDL3HjrOL78oELD"
-      },
-      "artists": [
-        {
-          "name": "Alessio",
-          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
-        }
-      ],
-      "duration_ms": 129470,
-      "name": "Modellen (Un Deux Trois)",
-      "url": "https://open.spotify.com/track/2UbyDgeJnBJvkJ91eUJBCp"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Kese (Dance)",
-        "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "F.O.M.O",
         "url": "https://open.spotify.com/album/37ZZ5ko3Ja2JGTWGBUmCj4"
@@ -541,27 +677,7 @@
       "url": "https://open.spotify.com/track/3r1E1zBwcgiPzgfJu3ef2D"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Allo Min",
-        "url": "https://open.spotify.com/album/5nJpHRMdgd7NnNJO7pSpDu"
-      },
-      "artists": [
-        {
-          "name": "Oualid",
-          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
-        },
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 145378,
-      "name": "Allo Min",
-      "url": "https://open.spotify.com/track/6psaZUqCkuzZODIUEpAYYS"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/4mILdEmzUxQe9RgY8xEfxJ"
@@ -577,7 +693,7 @@
       "url": "https://open.spotify.com/track/3xtvRyie2IZNDr2BNtoTuE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
@@ -601,7 +717,7 @@
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Mazaa",
         "url": "https://open.spotify.com/album/3hfvMrTvfHjt9rzS1Xpccn"
@@ -621,31 +737,7 @@
       "url": "https://open.spotify.com/track/7oo74HSuRw9OSMUxkokK3R"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Modeshow",
-        "url": "https://open.spotify.com/album/2trIJlIWZRxD3jJsPiRBlE"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        },
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Modeshow",
-      "url": "https://open.spotify.com/track/1HGov7XAwy9vx6upqGvPEc"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "OHMA TOKITA",
         "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
@@ -661,7 +753,7 @@
       "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Spiritual Mami",
         "url": "https://open.spotify.com/album/5QC8aWdrNjDRmqa6QGdoKj"
@@ -681,7 +773,7 @@
       "url": "https://open.spotify.com/track/4iomHXx4iKSlGt2XuqqXv6"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ma B\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/0b5dlILfxM7HqRK9RMMsuY"
@@ -697,7 +789,7 @@
       "url": "https://open.spotify.com/track/61w5bOjCvPVlukF4iZleTe"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
@@ -741,7 +833,7 @@
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
@@ -757,7 +849,7 @@
       "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Nachtvlinder 2",
         "url": "https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r"
@@ -781,7 +873,7 @@
       "url": "https://open.spotify.com/track/6Zgby9039QUGbOVBfvvneH"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Bij Je Zijn",
         "url": "https://open.spotify.com/album/1adQzuk9Fas8UEjq1dwTUX"
@@ -797,7 +889,7 @@
       "url": "https://open.spotify.com/track/3PbHkeCvPDwlHObIWkt5aR"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Gouden Lot",
         "url": "https://open.spotify.com/album/0p23OEMzHxFBEsEpNvt4za"
@@ -813,23 +905,7 @@
       "url": "https://open.spotify.com/track/4tfvCPL49b7kvO4ShRoQmQ"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Wooii",
-        "url": "https://open.spotify.com/album/7ozM8gBireispz4IvihapX"
-      },
-      "artists": [
-        {
-          "name": "Iamroyston",
-          "url": "https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Wooii",
-      "url": "https://open.spotify.com/track/396oISKdfBFNyP63Bjd7fO"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "JUDGEN",
         "url": "https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e"
@@ -849,39 +925,7 @@
       "url": "https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Mr Lover",
-        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Mr Lover",
-      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "D\u00c9J\u00c0 VU",
-        "url": "https://open.spotify.com/album/1C47RrWTKgYuMdQRMyNtuA"
-      },
-      "artists": [
-        {
-          "name": "Trxnz",
-          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
-        }
-      ],
-      "duration_ms": 191728,
-      "name": "D\u00c9J\u00c0 VU",
-      "url": "https://open.spotify.com/track/1xsyOO3txTWXyVSHodeE2A"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Koude Kermis",
         "url": "https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv"
@@ -905,27 +949,7 @@
       "url": "https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "LA PANTERA NEGRA (DELUXE)",
-        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        }
-      ],
-      "duration_ms": 130880,
-      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
-      "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/39STTwg1P4mOGRrVGCXNwV"
@@ -945,31 +969,7 @@
       "url": "https://open.spotify.com/track/77NNLReuj9fe6hcz0oQRPW"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Menina de Vermelho",
-        "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
-      },
-      "artists": [
-        {
-          "name": "MC Menor JP",
-          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
-        },
-        {
-          "name": "RAMONMIX",
-          "url": "https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK"
-        },
-        {
-          "name": "The Ironix",
-          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
-        }
-      ],
-      "duration_ms": 151348,
-      "name": "Menina de Vermelho",
-      "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Love Me Better (feat. Bryan Mg & Yxng Le)",
         "url": "https://open.spotify.com/album/0eL7As8XuI2ao7ILlQaTiP"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/6oemkwkH1TuovY7ZPGkDK5"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
@@ -1009,7 +1009,43 @@
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Traumatized",
+        "url": "https://open.spotify.com/album/5xbM4R4kHMxpCrMVjM5jPk"
+      },
+      "artists": [
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Freddie Konings",
+          "url": "https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Traumatized",
+      "url": "https://open.spotify.com/track/1efQzdaKimh9nCARO14DA9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/5vXZTdSCcjRIfBReES8gPv"
@@ -1025,31 +1061,7 @@
       "url": "https://open.spotify.com/track/7EfEUwWkputRP1cHPyMWRa"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Planga",
-        "url": "https://open.spotify.com/album/1fsn1JwBC8RZ89qym4N8KK"
-      },
-      "artists": [
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 133940,
-      "name": "Planga",
-      "url": "https://open.spotify.com/track/2MmF0gikbHDryK9Db5yoYV"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Doe Een Pose",
         "url": "https://open.spotify.com/album/46hf0GajuYX93ReyWoMfNQ"
@@ -1065,55 +1077,7 @@
       "url": "https://open.spotify.com/track/004jspt3sdONZzXe81Fitq"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Loco/Krasi",
-        "url": "https://open.spotify.com/album/3geINofS0F622ZlQEqWSxA"
-      },
-      "artists": [
-        {
-          "name": "Rocher",
-          "url": "https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j"
-        },
-        {
-          "name": "Chollo",
-          "url": "https://open.spotify.com/artist/2TsKVM4fBfZkrcCVePjST7"
-        },
-        {
-          "name": "Badboygoodvibes",
-          "url": "https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loco/Krasi",
-      "url": "https://open.spotify.com/track/3KqDWfNaOlZMellYWRufxO"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/4EROvvNdZEkpcJ3mP4ENxO"
-      },
-      "artists": [
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 128483,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/7z7zXc7sI8wTpxXPYnrsuM"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Dagga",
         "url": "https://open.spotify.com/album/3NaE6QwoS3einSqZj2iyrb"
@@ -1133,7 +1097,23 @@
       "url": "https://open.spotify.com/track/6HKjTseDDs2B0LuDJYZcfv"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Modellen (Un Deux Trois)",
+        "url": "https://open.spotify.com/album/5kizjN6TDL3HjrOL78oELD"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        }
+      ],
+      "duration_ms": 129470,
+      "name": "Modellen (Un Deux Trois)",
+      "url": "https://open.spotify.com/track/2UbyDgeJnBJvkJ91eUJBCp"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "No Chaser (feat. Henkie T)",
         "url": "https://open.spotify.com/album/0htOcN7cPH8bGg1jwdACHZ"
@@ -1153,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3c1LVh439Ady7bgLFuMWn3"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Pinky Promise",
         "url": "https://open.spotify.com/album/5PkaQBImuFlZ5iyIHhrqGv"
@@ -1173,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4wmTrhqOpMZoh8QSvgW0Rs"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/5tPZ94MZUXLQKSF4m7AfQr"
@@ -1193,51 +1173,7 @@
       "url": "https://open.spotify.com/track/7w9I7fstsLuNRxGZBsgl63"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Dans Met Mij",
-        "url": "https://open.spotify.com/album/3Icj9ZVMmdgaJbr8osm3KS"
-      },
-      "artists": [
-        {
-          "name": "Monq",
-          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
-        },
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Dans Met Mij",
-      "url": "https://open.spotify.com/track/1MyFZMpc1PXJ2YtUfvF8Kt"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Liefde In De Lucht",
-        "url": "https://open.spotify.com/album/44pVrKk1t5wqkeNzTE525Z"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Eves Laurent",
-          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
-        }
-      ],
-      "duration_ms": 174330,
-      "name": "Liefde In De Lucht",
-      "url": "https://open.spotify.com/track/65hZ0SrvAHOfPVxyBJTolH"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "luv",
         "url": "https://open.spotify.com/album/4nEWQkd2g81DTp50Z5jMCx"
@@ -1261,115 +1197,7 @@
       "url": "https://open.spotify.com/track/196q2VK1VCn9gHMhYfaQxl"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Bruk Up",
-        "url": "https://open.spotify.com/album/1Tv3WOIFZ3GwMjokd3TQhW"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Limitlezz",
-          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
-        },
-        {
-          "name": "Jahyanai",
-          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
-        },
-        {
-          "name": "Hayvee",
-          "url": "https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt"
-        }
-      ],
-      "duration_ms": 165962,
-      "name": "Bruk Up",
-      "url": "https://open.spotify.com/track/6HtI4ZekFzDre5JW0nJo1H"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Superster",
-        "url": "https://open.spotify.com/album/4BFhVJyo8DqDh9vDQM1oY5"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Young Ellens",
-          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Superster",
-      "url": "https://open.spotify.com/track/48WY4FtOfNAHD4ren2zTCY"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Ma Baby Yo (Na Leli Yo)",
-        "url": "https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "Ma Baby Yo (Na Leli Yo)",
-      "url": "https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/4sOu51v3YRlZDvJbngun74"
-      },
-      "artists": [
-        {
-          "name": "Benzo",
-          "url": "https://open.spotify.com/artist/0GCWppR5RVwCGB8pdKaA7k"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/57rsAhvXEL5HdfKrZoK2oe"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Henny & Dat",
-        "url": "https://open.spotify.com/album/1ESk4zPVSOiqAzi7ys66o3"
-      },
-      "artists": [
-        {
-          "name": "Lienz",
-          "url": "https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz"
-        },
-        {
-          "name": "Max Wallin'",
-          "url": "https://open.spotify.com/artist/44lBvUBMAoYZEysyPaGrEF"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Henny & Dat",
-      "url": "https://open.spotify.com/track/3gn0OF6favRw4Jo1vtcxzs"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Tyar\u2019 En Waka",
         "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
@@ -1385,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Your Season",
         "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
@@ -1409,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
@@ -1423,26 +1251,6 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "1 Blik",
-        "url": "https://open.spotify.com/album/3uz3ExgfI5hX946ENpRegq"
-      },
-      "artists": [
-        {
-          "name": "Mello",
-          "url": "https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn"
-        },
-        {
-          "name": "WAWA",
-          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "1 Blik",
-      "url": "https://open.spotify.com/track/2XOh5jm2wPNPmU3E9rm2vR"
     }
   ],
   "unique_name": "La Vida Loca",

@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "60 FRAMES",
+        "url": "https://open.spotify.com/album/7kiQxQIrpqCMczjW9LuYAh"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Kiran Surath N",
+          "url": "https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "60 FRAMES",
+      "url": "https://open.spotify.com/track/5L9hCrIExtWkPVytrD9uOi"
+    },
+    {
+      "album": {
         "name": "Aadi Kaathu",
         "url": "https://open.spotify.com/album/7acrjdt5eBNJLeCRs2hpLt"
       },
@@ -350,7 +372,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 213409,
       "name": "Adiye",
       "url": "https://open.spotify.com/track/1rQ8dgxm6BuNDCqS509sPB"
@@ -548,7 +570,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 161126,
       "name": "AKKA MAGA",
       "url": "https://open.spotify.com/track/0B2KlaYhOzQ0kqzHdQNS2d"
@@ -874,6 +896,28 @@
       "duration_ms": 244992,
       "name": "Anbe",
       "url": "https://open.spotify.com/track/2jLZ0vtvGw8h0h2Awx8cJc"
+    },
+    {
+      "album": {
+        "name": "Aneram Andhaneram",
+        "url": "https://open.spotify.com/album/4XWZYTFrPx8PiGZRZKQrsr"
+      },
+      "artists": [
+        {
+          "name": "Megas Raj",
+          "url": "https://open.spotify.com/artist/5mv9YjItK1k1bWI7xZw5VI"
+        },
+        {
+          "name": "Pragathish Pugazh",
+          "url": "https://open.spotify.com/artist/6jHHXVPqgf4A5IHSHGd1AW"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153229,
+      "name": "Aneram Andhaneram",
+      "url": "https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA"
     },
     {
       "album": {
@@ -1620,7 +1664,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 178125,
       "name": "Born SuperStar",
       "url": "https://open.spotify.com/track/2ODqYo3poNPyxk4olwf3vA"
@@ -2259,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/2VqiAb5LyoLpNEjL5RW7ly"
+      },
+      "artists": [
+        {
+          "name": "Shangeerththan",
+          "url": "https://open.spotify.com/artist/1Gn7YwjhMEyenRUcN4o5jt"
+        },
+        {
+          "name": "Sathurshana",
+          "url": "https://open.spotify.com/artist/0PdJEgyoTPGKPiTjA4TdTr"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287997,
+      "name": "En kannadi",
+      "url": "https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p"
+    },
+    {
+      "album": {
         "name": "En Kannae Pogathey",
         "url": "https://open.spotify.com/album/2U5qUOrOkAcp654GSBTlmW"
       },
@@ -2380,7 +2446,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192500,
       "name": "Endrum Unnodu",
       "url": "https://open.spotify.com/track/0UMp5xcRfGgqBqeqrj1uQ0"
@@ -3397,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "In Her Wish",
+        "url": "https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk"
+      },
+      "artists": [
+        {
+          "name": "Ajayy K",
+          "url": "https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147497,
+      "name": "In Her Wish",
+      "url": "https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT"
+    },
+    {
+      "album": {
         "name": "INDHA KADHAL - From \"Flop\"",
         "url": "https://open.spotify.com/album/4EBcOen6iqT9QLlO0o44N3"
       },
@@ -4104,7 +4188,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 142613,
       "name": "kadal neer",
       "url": "https://open.spotify.com/track/243zR3wOd3YtFE9FffQkok"
@@ -4819,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "Kannadi Mugam",
+        "url": "https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM"
+      },
+      "artists": [
+        {
+          "name": "Vishnu",
+          "url": "https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212504,
+      "name": "Kannadi Mugam",
+      "url": "https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2"
+    },
+    {
+      "album": {
         "name": "Kannadi Valayal",
         "url": "https://open.spotify.com/album/0y9CDFhebnfOj6HP0A3R9s"
       },
@@ -5360,7 +5462,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 137528,
       "name": "Laila",
       "url": "https://open.spotify.com/track/6rabXHkrgemYhfCSkhIzMn"
@@ -5900,7 +6002,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 234785,
       "name": "Malayaala Desa Nesam",
       "url": "https://open.spotify.com/track/5mVPGfgilHgNwUdgFdCUv9"
@@ -6002,6 +6104,24 @@
       "duration_ms": 260216,
       "name": "Manase",
       "url": "https://open.spotify.com/track/3XOj34b2q9npPGV75Kqsxc"
+    },
+    {
+      "album": {
+        "name": "Manase",
+        "url": "https://open.spotify.com/album/3swHZKoMAmokLakWLNecto"
+      },
+      "artists": [
+        {
+          "name": "Kaushik Mahalengam",
+          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164731,
+      "name": "Manase",
+      "url": "https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N"
     },
     {
       "album": {
@@ -6120,6 +6240,24 @@
       "duration_ms": 162772,
       "name": "Manike Mage Hithe",
       "url": "https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E"
+    },
+    {
+      "album": {
+        "name": "Manithan",
+        "url": "https://open.spotify.com/album/4jgawAdzNglEss4rhEXuvO"
+      },
+      "artists": [
+        {
+          "name": "Ainthinai",
+          "url": "https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197267,
+      "name": "Manithan",
+      "url": "https://open.spotify.com/track/3P4zBK6zZoi3UkQnLGqWkW"
     },
     {
       "album": {
@@ -7935,6 +8073,28 @@
     },
     {
       "album": {
+        "name": "Nile Nadiye",
+        "url": "https://open.spotify.com/album/1aaICsKcjO6IWmT3KcF4PU"
+      },
+      "artists": [
+        {
+          "name": "Amruta Natu",
+          "url": "https://open.spotify.com/artist/05oLd4emUQsLievloAOyy5"
+        },
+        {
+          "name": "Gaurav Bangia",
+          "url": "https://open.spotify.com/artist/6gCjKmhyFa8lfu1JSlAIpN"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214770,
+      "name": "Nile Nadiye",
+      "url": "https://open.spotify.com/track/5EM0SF9j9UmDPIWaJtrY3y"
+    },
+    {
+      "album": {
         "name": "Nilla Mazhaiye",
         "url": "https://open.spotify.com/album/3tGnd1qzSk38wdliXhPAyI"
       },
@@ -8262,6 +8422,24 @@
       "duration_ms": 228292,
       "name": "Olikka",
       "url": "https://open.spotify.com/track/3AUaRopUDc7hzPDLTKlw6v"
+    },
+    {
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1ADfH89pRILlnPJ8ZgqXu5"
+      },
+      "artists": [
+        {
+          "name": "Sharan Musician",
+          "url": "https://open.spotify.com/artist/16XIcGxUwd0RaCkZE2mRPR"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102509,
+      "name": "On Air",
+      "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
     },
     {
       "album": {
@@ -9270,7 +9448,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 163397,
       "name": "Pogadha Nee",
       "url": "https://open.spotify.com/track/3YWdkf3GyOrM8rXGA5T1Dk"
@@ -9876,7 +10054,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 216028,
       "name": "Rathiye",
       "url": "https://open.spotify.com/track/1GsXtSpfdgzobBpkacXRk2"
@@ -9972,7 +10150,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 235395,
       "name": "Rhythm Of Coimbatore",
       "url": "https://open.spotify.com/track/4x4GF8K6T4rYRHVGK2TRln"
@@ -11231,6 +11409,24 @@
     },
     {
       "album": {
+        "name": "Thedalae",
+        "url": "https://open.spotify.com/album/1y75Hi81uXLV51z6lqEIuI"
+      },
+      "artists": [
+        {
+          "name": "Rishi K",
+          "url": "https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192037,
+      "name": "Thedalae",
+      "url": "https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14"
+    },
+    {
+      "album": {
         "name": "Thedathey",
         "url": "https://open.spotify.com/album/5a6JL9PuMZVB0uNh2XsFPV"
       },
@@ -11370,7 +11566,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 123000,
       "name": "Thirikilli - From \"Kaalame Kalipputhaan\"",
       "url": "https://open.spotify.com/track/1jogMbJXUZLUOZ3khYM09P"
@@ -12336,7 +12532,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "Vaasam Pesum",
       "url": "https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ"

@@ -2,9 +2,9 @@
 
 ### [French Noise](https://open.spotify.com/playlist/37i9dQZF1DXcUF9GRO45to)
 
-> French scene makes some noise!
+> La scène française fait du bruit.
 
-373 songs - 23 hr 42 min
+376 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Good Old Song on the Radio](https://open.spotify.com/track/0Dueln04gPR6FOqdej14Nj) | [Butterfly Whisper](https://open.spotify.com/artist/0iz4IzS0cDn7xtYdLZsL75) | [A Good Old Song on the Radio](https://open.spotify.com/album/1DW7O3ATc0lYfijXH6lwER) | 3:25 | 2024-11-27 |  |
 | [A Hooded Witness](https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3) | 4:06 | 2023-07-19 | 2024-11-28 |
 | [A Man Oustanding In His Field](https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [We The People Of The Soil](https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR) | 3:53 | 2021-12-15 | 2024-07-16 |
+| [A Smile, An Oasis](https://open.spotify.com/track/09OrJZTruLgsiufKTo46O6) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Fall Not](https://open.spotify.com/album/0gkaEaMUFhCiAjQieZySf1) | 3:13 | 2024-12-05 |  |
 | [Adrenaline](https://open.spotify.com/track/0o41qJ09FsWyPZv5BKcXjD) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Chamber Songs](https://open.spotify.com/album/4qgPgrTvFUh8FRcr3Ihgg2) | 4:04 | 2024-11-27 |  |
 | [Adventure Seeker](https://open.spotify.com/track/4whvO7lA5VMHddWlMfUMzO) | [South Berkeley](https://open.spotify.com/artist/7aDcmRytStIGyAB1FKKoWr) | [Too Slow](https://open.spotify.com/album/70fW6Kjyvp8RpWvwz9dIYv) | 2:51 | 2021-12-15 | 2022-07-21 |
 | [After Party](https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1) | [Karaba F.C.](https://open.spotify.com/artist/6ypkB6GRxIVIWu09pFZDhh) | [Empty Rooms](https://open.spotify.com/album/5iB0BwdGPSTp2HwSPpp3YD) | 3:33 | 2021-12-31 | 2022-07-09 |
@@ -58,7 +59,7 @@
 | [Clement](https://open.spotify.com/track/0gZledHxMOU9mcsVeW9NmF) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Highmare](https://open.spotify.com/album/5rRaCgk5xWmQ6OCZPO6kku) | 4:55 | 2022-02-18 | 2024-11-28 |
 | [Cognac](https://open.spotify.com/track/5OyvX4Hhh4bFtbCUV9H7b1) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Cognac](https://open.spotify.com/album/2pO9wF7n8UnX8kxBIAqFtG) | 5:16 | 2024-11-15 |  |
 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 | 2021-12-15 | 2024-04-26 |
-| [Cold Touch](https://open.spotify.com/track/1wfIgcxxQnJp6IA71WercW) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [This Too Shall Pass](https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i) | 3:57 | 2024-11-27 |  |
+| [Cold Touch](https://open.spotify.com/track/1wfIgcxxQnJp6IA71WercW) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [This Too Shall Pass](https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i) | 3:57 | 2024-11-27 | 2024-12-06 |
 | [Cold Touch](https://open.spotify.com/track/3g17Pbdm6DOy3LzX4graWq) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Cold Touch](https://open.spotify.com/album/6oHVSL3iyb9gpYKRh2lPHS) | 4:19 | 2024-11-27 |  |
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
@@ -169,6 +170,7 @@
 | [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 | 2024-04-19 |
 | [In Friends We Trust](https://open.spotify.com/track/3yJbGoyLue9B5R6guLIVjI) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Something For Nothing](https://open.spotify.com/album/2pMtWnQ1jQH6sfsh5tBLzl) | 3:27 | 2021-12-30 | 2022-01-01 |
 | [Inner Life](https://open.spotify.com/track/7zClaF5pABRQTns4NaKZYA) | [Avee Mana](https://open.spotify.com/artist/4x2DScjhDMpX83Xhwb1Q9L) | [Inner Life](https://open.spotify.com/album/6jVfiIP1jSK0EHHNyzRRes) | 3:46 | 2024-07-15 | 2024-11-28 |
+| [Insults](https://open.spotify.com/track/4ZfMXqUXBBIKAG8YogiUC1) | [The Traders](https://open.spotify.com/artist/7eHW45j1ubrJhGFiTqgNQM) | [How Much Art Can You Take ?](https://open.spotify.com/album/7MMacc7PgqITU8YaLpcB08) | 2:05 | 2024-12-05 |  |
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 | 2024-11-28 |
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 | 2024-11-28 |
@@ -227,7 +229,7 @@
 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 | 2022-01-03 | 2022-07-27 |
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |
 | [No Way Back](https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ) | [Your New Favorite Tape](https://open.spotify.com/artist/4ENnggxXjjdhEKsUwiH2JP) | [No Way Back](https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi) | 2:12 | 2023-11-16 | 2023-12-22 |
-| [Nowhere Near Prepared](https://open.spotify.com/track/02V9XTnySf1wEVSaLMfjDj) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/0uQWAPPNBZ9HdtyQgG3JTs) | 3:23 | 2024-11-27 |  |
+| [Nowhere Near Prepared](https://open.spotify.com/track/02V9XTnySf1wEVSaLMfjDj) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [The Ethereal Beauty](https://open.spotify.com/album/0uQWAPPNBZ9HdtyQgG3JTs) | 3:23 | 2024-11-27 | 2024-12-06 |
 | [Nowhere Near Prepared](https://open.spotify.com/track/0gBOasbQ8wXhs0Ji3omdh1) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Nowhere Near Prepared](https://open.spotify.com/album/7ib5O00WC2qag2JBqNaPa5) | 3:23 | 2023-06-29 | 2023-07-13 |
 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 | 2022-01-27 | 2024-11-28 |
 | [Néant](https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Néant](https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu) | 4:09 | 2023-07-05 | 2024-04-19 |
@@ -235,6 +237,7 @@
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 | 2023-06-30 |
+| [Oh Wow !](https://open.spotify.com/track/5J6iGCLxLlusTFntF4gpHQ) | [111](https://open.spotify.com/artist/49rCK6WzBGnLZWmErrc7Fv) | [Oh Wow !](https://open.spotify.com/album/1o31Qb6NzQIvVnqtconB1M) | 3:04 | 2024-12-05 |  |
 | [Once You Taste Blood](https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Homes & Galaxies](https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3) | 4:23 | 2023-11-16 | 2024-11-28 |
 | [One Big Mess](https://open.spotify.com/track/40TRgHGktzDSlNnN0c7pS2) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/5Ra5ZI7sjmxLxi8pA4t3Pc) | 3:56 | 2024-02-28 | 2024-11-28 |
 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 | 2023-12-20 |
@@ -289,7 +292,7 @@
 | [Self Sabotage](https://open.spotify.com/track/0laCac2G9YpRtEFtR1oaXH) | [chest.](https://open.spotify.com/artist/2D3csYLILmlZH3SUbkz11L) | [Self Sabotage](https://open.spotify.com/album/1AYSjHtFIKRh7JviX2P1l4) | 3:48 | 2024-11-27 |  |
 | [Selfless](https://open.spotify.com/track/1M8wBdIOXmv4oiF273ULET) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [...About Going Home](https://open.spotify.com/album/4BK5HpkKLHhJJcefY8ucuI) | 2:55 | 2024-11-27 |  |
 | [Sentimental Animal](https://open.spotify.com/track/7DwjBCEf4SjGzy8Bgaz3EX) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Superior State](https://open.spotify.com/album/0GYH4HMvMgmsRCqN224mO8) | 4:35 | 2021-12-15 | 2024-11-28 |
-| [Serotonin](https://open.spotify.com/track/7rjfVfVI1CGNw7CW9f33Z7) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Goodbye Black Dog](https://open.spotify.com/album/3Wg9NfYk4AGYzQpcvvEgUO) | 4:23 | 2024-11-27 |  |
+| [Serotonin](https://open.spotify.com/track/7rjfVfVI1CGNw7CW9f33Z7) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Goodbye Black Dog](https://open.spotify.com/album/3Wg9NfYk4AGYzQpcvvEgUO) | 4:23 | 2024-11-27 | 2024-12-06 |
 | [Sheer](https://open.spotify.com/track/1y5yKiJRdwhjcVOfinTyuu) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Downcast](https://open.spotify.com/album/57awDgLzQYvC60Rzw9CpRE) | 2:54 | 2024-11-27 |  |
 | [Shitshow](https://open.spotify.com/track/5N4Oa7FMWUw8K8xlCSfzlt) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Shitshow](https://open.spotify.com/album/1Tng3bnbtmmnoYCbafxwdK) | 2:57 | 2021-12-15 | 2022-07-28 |
 | [Siamese Love](https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie](https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k) | 3:34 | 2021-12-15 | 2023-06-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Kali Claire",
+  "description": "100% British - 100% R&B. Cover: Ama Louise",
   "name": "R&B UK",
   "tracks": [
     {
@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "CH4iNS",
+        "url": "https://open.spotify.com/album/6UmlT8Su6kDHEkvTmituqR"
+      },
+      "artists": [
+        {
+          "name": "Mellina Tey",
+          "url": "https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "All 4 You",
+      "url": "https://open.spotify.com/track/2i3VVtSjyZIVOBJxFSZpPe"
+    },
+    {
+      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/3LXpQ1wgl7EMYs8iJi9Kq5"
       },
@@ -372,6 +390,24 @@
       "duration_ms": 150000,
       "name": "Anonymous",
       "url": "https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa"
+    },
+    {
+      "album": {
+        "name": "Anything I Can Do",
+        "url": "https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Anything I Can Do",
+      "url": "https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT"
     },
     {
       "album": {
@@ -748,7 +784,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 155000,
       "name": "Boys Like U",
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
@@ -4586,7 +4622,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 150577,
       "name": "Problem with Authority",
       "url": "https://open.spotify.com/track/34ZpDDbEdAuBCg73CuUswf"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: bac",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Nina Chuba",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "An meinen H\u00e4nden klebt Blut",
+        "url": "https://open.spotify.com/album/78HyowIMj3FFxHhQUH7tvh"
+      },
+      "artists": [
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179880,
+      "name": "An meinen H\u00e4nden klebt Blut",
+      "url": "https://open.spotify.com/track/7rYTxiT8J5da9TuepUBsY7"
+    },
+    {
+      "album": {
         "name": "Andere Stadt",
         "url": "https://open.spotify.com/album/0ZnscXjJpv6ADS5D23sTPB"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 210857,
       "name": "Andy Warhol",
       "url": "https://open.spotify.com/track/1ntKmi4apttIwXDvoe0fst"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182163,
       "name": "Augen in der Nacht",
       "url": "https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf"
@@ -2497,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Brauch nur dich",
+        "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144926,
+      "name": "Brauch nur dich",
+      "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
+    },
+    {
+      "album": {
         "name": "brauchst mich nicht",
         "url": "https://open.spotify.com/album/5KP3WYfsimvLgSrodlWQvB"
       },
@@ -3082,7 +3118,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 177022,
       "name": "das Leben",
       "url": "https://open.spotify.com/track/5OahTR5HHCKcHuDETHQJSa"
@@ -3241,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Deluxe 1A",
+        "url": "https://open.spotify.com/album/08ZBazWWVjOHl16jbuwYio"
+      },
+      "artists": [
+        {
+          "name": "vian",
+          "url": "https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92592,
+      "name": "Deluxe 1A",
+      "url": "https://open.spotify.com/track/02CR2UpqSHSRxvalgVpAB8"
+    },
+    {
+      "album": {
         "name": "Die Reklamation",
         "url": "https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3"
       },
@@ -3256,6 +3310,24 @@
       "duration_ms": 197986,
       "name": "Denkmal",
       "url": "https://open.spotify.com/track/58zHoX9U5VlSXLUUmWTfe2"
+    },
+    {
+      "album": {
+        "name": "Denkst du noch an mich?",
+        "url": "https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp"
+      },
+      "artists": [
+        {
+          "name": "Tom Blanc",
+          "url": "https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145211,
+      "name": "Denkst du noch an mich?",
+      "url": "https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC"
     },
     {
       "album": {
@@ -3711,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "drunk (feat. Lucry & Suena)",
+        "url": "https://open.spotify.com/album/5qaS1nifMYysgjQdkoxef9"
+      },
+      "artists": [
+        {
+          "name": "Yosho",
+          "url": "https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "drunk (feat. Lucry & Suena)",
+      "url": "https://open.spotify.com/track/1oEotSHO1qqvgxLwtrA9u5"
+    },
+    {
+      "album": {
         "name": "Babylon Berlin (Original Television Soundtrack, Vol. II)",
         "url": "https://open.spotify.com/album/44EqvbbLocS6wWZHSItcna"
       },
@@ -3794,7 +3888,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 145989,
       "name": "du fehlst mir nicht",
       "url": "https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP"
@@ -4963,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148414,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
+    },
+    {
+      "album": {
         "name": "Farbverlauf",
         "url": "https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ"
       },
@@ -5080,6 +5192,24 @@
       "duration_ms": 159272,
       "name": "Fenster auf Kipp",
       "url": "https://open.spotify.com/track/0cfBIQ89cy4gbtSFBAbF9T"
+    },
+    {
+      "album": {
+        "name": "Fenster zum Hof",
+        "url": "https://open.spotify.com/album/5Ouzj8yhLALlpNlxDDojvD"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167845,
+      "name": "Fenster zum Hof",
+      "url": "https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC"
     },
     {
       "album": {
@@ -5303,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Forrest Gump",
+        "url": "https://open.spotify.com/album/5Bb9HWapSIWIacN4iVuLKZ"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Forrest Gump",
+      "url": "https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC"
+    },
+    {
+      "album": {
         "name": "wie es ist",
         "url": "https://open.spotify.com/album/7lj1zNPlp5Fh3rBh6ph539"
       },
@@ -5393,6 +5541,24 @@
     },
     {
       "album": {
+        "name": "Freispiel",
+        "url": "https://open.spotify.com/album/0iaiGGpiQr4wz3HhBNHdgu"
+      },
+      "artists": [
+        {
+          "name": "Loco Candy",
+          "url": "https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125192,
+      "name": "Freispiel",
+      "url": "https://open.spotify.com/track/1pBSWR9cfofvXT8ZJgGq65"
+    },
+    {
+      "album": {
         "name": "DUNKLSCHWARZ",
         "url": "https://open.spotify.com/album/5hRlIt8JdV5DaAMb1ANBfW"
       },
@@ -5412,6 +5578,24 @@
       "duration_ms": 260000,
       "name": "frida",
       "url": "https://open.spotify.com/track/2kZ0wV6it5vGEF545GGIJQ"
+    },
+    {
+      "album": {
+        "name": "Frost an deinem Fenster",
+        "url": "https://open.spotify.com/album/3DC5TFf1M5I2RvGlwKtcYc"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153197,
+      "name": "Frost an deinem Fenster",
+      "url": "https://open.spotify.com/track/5wy79pCGzl95RFHyjgWxVs"
     },
     {
       "album": {
@@ -5514,7 +5698,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 200666,
       "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
       "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
@@ -7001,6 +7185,24 @@
     },
     {
       "album": {
+        "name": "Ich dachte",
+        "url": "https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC"
+      },
+      "artists": [
+        {
+          "name": "Yisit",
+          "url": "https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "Ich dachte",
+      "url": "https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox"
+    },
+    {
+      "album": {
         "name": "Ich Feier (feat. DISSY)",
         "url": "https://open.spotify.com/album/2BUq5m8CkzdW7znmM41rXC"
       },
@@ -8464,7 +8666,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 217699,
       "name": "Kippen",
       "url": "https://open.spotify.com/track/1az2EVNCFdaWGv1JkgMjon"
@@ -9144,7 +9346,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 109829,
       "name": "leicht beschwipst_demo2",
       "url": "https://open.spotify.com/track/5PEGV3HAYmM6Irk9Vnx32M"
@@ -9348,7 +9550,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 220673,
       "name": "Liebe teilen",
       "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti"
@@ -9598,7 +9800,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 171171,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3lqoSLATqLn1SNdhbkUMbx"
@@ -10473,6 +10675,42 @@
     },
     {
       "album": {
+        "name": "Montag",
+        "url": "https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j"
+      },
+      "artists": [
+        {
+          "name": "Siggi",
+          "url": "https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185362,
+      "name": "Montag",
+      "url": "https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO"
+    },
+    {
+      "album": {
+        "name": "morgen",
+        "url": "https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "morgen",
+      "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
+    },
+    {
+      "album": {
         "name": "Milliard\u00e4re & Verlierer",
         "url": "https://open.spotify.com/album/2XbQhG7bL5POsT9zXNFaFy"
       },
@@ -10676,10 +10914,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 162985,
       "name": "nachts wach",
       "url": "https://open.spotify.com/track/642xaZzR3qtJZiN0jQfhm4"
+    },
+    {
+      "album": {
+        "name": "Immerland (Teil 2)",
+        "url": "https://open.spotify.com/album/4WYApIUdlpjhuOtlC69sIz"
+      },
+      "artists": [
+        {
+          "name": "Wolke 8",
+          "url": "https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163308,
+      "name": "nachtwind",
+      "url": "https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf"
     },
     {
       "album": {
@@ -10756,6 +11012,28 @@
       "duration_ms": 182346,
       "name": "Nero",
       "url": "https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7"
+    },
+    {
+      "album": {
+        "name": "neue Notiz",
+        "url": "https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX"
+      },
+      "artists": [
+        {
+          "name": "Schlotte",
+          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
+        },
+        {
+          "name": "laurin",
+          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129618,
+      "name": "neue Notiz",
+      "url": "https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3"
     },
     {
       "album": {
@@ -11446,7 +11724,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 147866,
       "name": "Oktober",
       "url": "https://open.spotify.com/track/0yGqdN7pzKF7kjH3mIkGKi"
@@ -11862,7 +12140,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 147811,
       "name": "PIROUETTEN",
       "url": "https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP"
@@ -12668,7 +12946,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 181554,
       "name": "ruf an",
       "url": "https://open.spotify.com/track/6SKWCjYfVTLd2KA9Vdwddp"
@@ -14058,7 +14336,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 179500,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0bhyA6wgnTz8ivLKMwNA41"
@@ -15893,6 +16171,24 @@
     },
     {
       "album": {
+        "name": "Walzer",
+        "url": "https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201325,
+      "name": "Walzer",
+      "url": "https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz"
+    },
+    {
+      "album": {
         "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
         "url": "https://open.spotify.com/album/5ohQhVkAOMWVeWUVX3ulz2"
       },
@@ -16088,7 +16384,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 170046,
       "name": "wasichgefundenhab",
       "url": "https://open.spotify.com/track/3EAxk19aT7fEB2fj5xRbEz"
@@ -16587,6 +16883,28 @@
     },
     {
       "album": {
+        "name": "I HATE KATLIX",
+        "url": "https://open.spotify.com/album/3aUWSTDOEuyEkRCm35w6T9"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        },
+        {
+          "name": "COSIE",
+          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157323,
+      "name": "wie du tanzt",
+      "url": "https://open.spotify.com/track/5RH8NDRlcgUVgtYcqHltXm"
+    },
+    {
+      "album": {
         "name": "wie gewohnt",
         "url": "https://open.spotify.com/album/74aqJlOey90kFhlnIOvjYB"
       },
@@ -16870,7 +17188,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 140999,
       "name": "wir haben's \u00fcberlebt",
       "url": "https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt"
@@ -17450,7 +17768,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 184941,
       "name": "\u00d6lgem\u00e4lde",
       "url": "https://open.spotify.com/track/56yiPTwmaA4UzYVaIrsD2y"

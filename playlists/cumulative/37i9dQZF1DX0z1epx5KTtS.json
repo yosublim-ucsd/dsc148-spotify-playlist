@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Fior 2 Bior",
+  "description": "African dance party music from the continent to Paris. Photo : Kedjevara",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 212000,
       "name": "1 \u00e0 1",
       "url": "https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 229340,
       "name": "Do Do Do",
       "url": "https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "DJERIA",
+        "url": "https://open.spotify.com/album/1QQImGyieD2yfjFLmJ5QRy"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Doyiho",
+      "url": "https://open.spotify.com/track/4vkGJ1WE6CLtC2E5rfdmP3"
+    },
+    {
+      "album": {
         "name": "D\u00e9bordement",
         "url": "https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM"
       },
@@ -1512,6 +1530,24 @@
       "duration_ms": 220500,
       "name": "D\u00e9bordement",
       "url": "https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5"
+    },
+    {
+      "album": {
+        "name": "Kedjevaratitude",
+        "url": "https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225985,
+      "name": "D\u00c9CAPSULEUR",
+      "url": "https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB"
     },
     {
       "album": {
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 178200,
       "name": "Fais comme \u00e7a",
       "url": "https://open.spotify.com/track/2eL618WYaelRjzAQRK97Uw"
@@ -3056,7 +3092,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 169090,
       "name": "M\u00e9dicament de femme",
       "url": "https://open.spotify.com/track/2jMbnufZZ6Ttu6ts4KdBaU"
@@ -3114,6 +3150,28 @@
       "duration_ms": 248000,
       "name": "Nanakafra",
       "url": "https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp"
+    },
+    {
+      "album": {
+        "name": "Kedjevaratitude",
+        "url": "https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ"
+      },
+      "artists": [
+        {
+          "name": "Kedjevara",
+          "url": "https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6"
+        },
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "NOVELAS",
+      "url": "https://open.spotify.com/track/4SglQfp9apak2FDtRmkEgB"
     },
     {
       "album": {
@@ -4118,6 +4176,24 @@
       "duration_ms": 242600,
       "name": "Youroukou M\u00e9lang\u00e9",
       "url": "https://open.spotify.com/track/4ar6OBUWx8WlYq56Z9U0wD"
+    },
+    {
+      "album": {
+        "name": "Zam Kolobo",
+        "url": "https://open.spotify.com/album/6OMl0Hxq1SWD2or6216lOo"
+      },
+      "artists": [
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Zam Kolobo",
+      "url": "https://open.spotify.com/track/4IwaX2p7t2hmafr0xMn7IR"
     },
     {
       "album": {

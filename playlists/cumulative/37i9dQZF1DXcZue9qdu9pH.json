@@ -627,6 +627,28 @@
     },
     {
       "album": {
+        "name": "From the Other Side",
+        "url": "https://open.spotify.com/album/2nleFIOQCJ9SAKQJt4bzSG"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "From the Other Side",
+      "url": "https://open.spotify.com/track/6CpGpXZp9HMp0gkMUafRwC"
+    },
+    {
+      "album": {
         "name": "Asali",
         "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
       },
@@ -798,7 +820,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154937,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
@@ -868,6 +890,24 @@
       "duration_ms": 211947,
       "name": "Khartoum",
       "url": "https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7"
+    },
+    {
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4"
+      },
+      "artists": [
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149707,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1"
     },
     {
       "album": {
@@ -1910,7 +1950,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 187375,
       "name": "Thank You/Rebel and a Cause - from ech0",
       "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"

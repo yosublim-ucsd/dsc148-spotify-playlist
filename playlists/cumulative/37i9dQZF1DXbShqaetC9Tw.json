@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Careless I Love You (Secret Relationships X Paul Blanco)",
+        "url": "https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Careless I Love You",
+      "url": "https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT"
+    },
+    {
+      "album": {
         "name": "Bind",
         "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 227320,
       "name": "Free (I'm Gonna Be)",
       "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
@@ -1748,6 +1766,24 @@
       "duration_ms": 188000,
       "name": "Incense (prod. SIM2)",
       "url": "https://open.spotify.com/track/2yC1fI9PYueIbfLutk7MRe"
+    },
+    {
+      "album": {
+        "name": "Painting",
+        "url": "https://open.spotify.com/album/4Zx38ejP18CMzsmOnIUMtp"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169452,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ"
     },
     {
       "album": {
@@ -3691,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "What did you do?",
+        "url": "https://open.spotify.com/album/5M7idBc6etKGNJAYUBbOl8"
+      },
+      "artists": [
+        {
+          "name": "Eric Minz",
+          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134640,
+      "name": "What did you do?",
+      "url": "https://open.spotify.com/track/3571OzuyKTDcGfYyaxWzmP"
+    },
+    {
+      "album": {
         "name": "What if we met at another place ?",
         "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
       },
@@ -3852,7 +3906,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 181653,
       "name": "When The Rain Stops",
       "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"

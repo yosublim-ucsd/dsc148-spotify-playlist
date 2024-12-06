@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-68 songs - 2 hr 11 min
+69 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Before the Morning](https://open.spotify.com/track/2HZ7HhpDLP5wMPE87hU8SU) | [Nicolai Petrov](https://open.spotify.com/artist/6HMX92wBEHp2HKo0x3KahZ) | [Jingle Bells](https://open.spotify.com/album/22HNDMbPPHggOXJgFTq4YC) | 2:15 | 2023-11-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/6QGzdaZSc9PanRN6aAuIcH) | [Dinky Donkey](https://open.spotify.com/artist/4574eyNS2pgBzhBc11Js7O) | [Sleigh Ride](https://open.spotify.com/album/7APkTdj46yR84I4EORhS1v) | 1:41 | 2023-11-23 |  |
 | [Christmas Magic](https://open.spotify.com/track/72EQONt6qC7qBDCqFZ6U1F) | [Henry Moore](https://open.spotify.com/artist/2WvmYVLVIsquWGGtlc2iKm) | [My Favorite Christmas Songs](https://open.spotify.com/album/56qRlDlIg0yiqhIo95PwN5) | 2:28 | 2023-11-23 |  |
-| [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 | 2023-11-23 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/75xFqTnnt6CHlA7uepdaq7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:19 | 2023-11-23 | 2024-12-06 |
 | [Christmas Without You](https://open.spotify.com/track/2VTLco8szRFo2yolyk6Gy6) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Christmas Without You](https://open.spotify.com/album/2CT9S9oGnq4GJ2e4yadCOl) | 3:01 | 2023-11-23 |  |
 | [Come thou fount of every blessing](https://open.spotify.com/track/2YrgQA1K6yAdi6c3U5wKZ2) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Away in a manger](https://open.spotify.com/album/5aFmhlXTKN7ARK8phPkfom) | 1:51 | 2023-11-23 |  |
 | [Deck The Halls](https://open.spotify.com/track/4nfpEbx3Kjdgqp0UhcZsSd) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Christmas Lullaby Magic](https://open.spotify.com/album/60J9waDn6WeaUNlEkA1Q7A) | 1:02 | 2023-11-23 |  |
@@ -31,7 +31,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 | 2023-11-23 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/7jr9cas274JE9xJ3aTo5aY) | [Ember Roses](https://open.spotify.com/artist/0Al4ii7WbbtEf1Ss29RTL6) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/7u4mFozzWfb1EjF2Y0FpyN) | 1:40 | 2023-11-23 |  |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7xSwy468NWS2V7wDmyXBoY) | [Alicja Pawlowska](https://open.spotify.com/artist/3sZRepzXEVWUR0vTDpmBBn) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/40codKpK3NaEE6lSk8Q1iw) | 2:15 | 2023-11-23 |  |
-| [Hark! The Herald Angels Sing](https://open.spotify.com/track/50koayoMaGNChAe3EfBrdC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Holiday Sleepy Lullabies](https://open.spotify.com/album/7sa7XNBJBrvoXOsRVZiKmJ) | 2:26 | 2023-11-23 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/50koayoMaGNChAe3EfBrdC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Holiday Sleepy Lullabies](https://open.spotify.com/album/7sa7XNBJBrvoXOsRVZiKmJ) | 2:26 | 2023-11-23 | 2024-12-06 |
 | [Have yourself a merry little Christmas](https://open.spotify.com/track/6X4mjsCSNYxp3sZxhGnfUw) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Christmas Sleepy](https://open.spotify.com/album/6Tbssj5uq9rQ5iSGXhgtdY) | 2:44 | 2023-11-23 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/40jONpi0HorZKvkiKYsSC7) | [Anne Smiles](https://open.spotify.com/artist/5xaqXD0Vd23LiE0p2JuOAk) | [Christmas For Babies](https://open.spotify.com/album/72qYhU9LQKZ706uq6n32bO) | 1:01 | 2023-11-23 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/78hJz0nRyFSUhFhF5LQmlx) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Christmas Without You](https://open.spotify.com/album/2CT9S9oGnq4GJ2e4yadCOl) | 3:20 | 2023-11-23 |  |
@@ -61,7 +61,8 @@
 | [Oh Tannenbaum](https://open.spotify.com/track/7HJEWwtoEwP0lGhaW0N81I) | [Gail Donovan](https://open.spotify.com/artist/0cvQsGKGSHaZ5HraPH4ptv) | [Christmas Music Box](https://open.spotify.com/album/4tyumZKLgiXc5vedXHzl6t) | 1:14 | 2023-11-23 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3mTFPi36pqNJErG78Dh71L) | [Mrs Myers Musicbox](https://open.spotify.com/artist/4f1PP9FjYZWEgNacU5ctVe) | [I'll Be Home For Christmas](https://open.spotify.com/album/53uJBbddmX2XYsiJzoyQJV) | 2:29 | 2023-11-23 |  |
 | [Santa claus is coming to town](https://open.spotify.com/track/6xxU9GD8zMnkwrzp29WzYg) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Santa's Lullabies](https://open.spotify.com/album/2JoasNEISj8cQX2z0SsFHq) | 1:44 | 2023-11-23 |  |
-| [Santa Tell Me](https://open.spotify.com/track/3rPZhVdx5p7220Uq3jmNUG) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Santa Tell Me](https://open.spotify.com/album/7gIHLzqTAJiic1iofxPeSS) | 1:43 | 2023-11-23 |  |
+| [Santa Tell Me](https://open.spotify.com/track/5XFmwPly8VTYtgSnzTZzHH) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Santa Tell Me](https://open.spotify.com/album/4nhTkg2x6WwEC61XiOVGuq) | 3:07 | 2024-12-05 |  |
+| [Santa Tell Me](https://open.spotify.com/track/3rPZhVdx5p7220Uq3jmNUG) | [Phil Counts](https://open.spotify.com/artist/14PVLP8iHxZewSvnlLQg9b) | [Santa Tell Me](https://open.spotify.com/album/7gIHLzqTAJiic1iofxPeSS) | 1:43 | 2023-11-23 | 2024-12-06 |
 | [Silent Night](https://open.spotify.com/track/04Ns2Ax2pF8QSQNxVEliQR) | [Rick Flemm](https://open.spotify.com/artist/3Z7sI9OvtPJDAtjrZQKIAE) | [Lullabies on Music Box](https://open.spotify.com/album/4c6scStp9Y7s0zWADtSiXi) | 1:55 | 2023-11-23 |  |
 | [Silver Bells](https://open.spotify.com/track/6I0cOZBcoAIec0V1bnsIZG) | [Sarah Bainscroft](https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF) | [Glittering Christmas](https://open.spotify.com/album/7EAP14VPxJpXYf6hLwEDbB) | 2:50 | 2023-11-23 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/5Q7bmboRu7HwJyf8Hy2ee9) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Holiday Baby Sleepers](https://open.spotify.com/album/74S2e6dzjvQSeOCPecyCFv) | 1:35 | 2023-11-23 |  |
@@ -69,7 +70,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/6leWJ2PMykEeQgAVklIdrm) | [Mel Rhodes](https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4) | [The Christmas Waltz](https://open.spotify.com/album/6HwnykW2QavZJmaT9R0fhq) | 2:14 | 2023-11-23 |  |
 | [The First Noel](https://open.spotify.com/track/2dP01ekn0sIM96XJnb1t5K) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [The Christmas Box](https://open.spotify.com/album/07Bdmu41VsgjiSOC5k7etg) | 1:17 | 2023-11-23 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/58nr5DiJLIVunAGVIpu4yi) | [Dinky Donkey](https://open.spotify.com/artist/4574eyNS2pgBzhBc11Js7O) | [Sleigh Ride](https://open.spotify.com/album/7APkTdj46yR84I4EORhS1v) | 1:38 | 2023-11-23 |  |
-| [We Three Kings](https://open.spotify.com/track/3DA4xlDKzvlUIMKZUhH7xb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Christmas Night Lullabies](https://open.spotify.com/album/7IUk965uKYZGQiQjYHDGKe) | 1:25 | 2023-11-23 |  |
+| [We Three Kings](https://open.spotify.com/track/3DA4xlDKzvlUIMKZUhH7xb) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Christmas Night Lullabies](https://open.spotify.com/album/7IUk965uKYZGQiQjYHDGKe) | 1:25 | 2023-11-23 | 2024-12-06 |
 | [We wish you a merry christmas](https://open.spotify.com/track/0i1LJKRLXHJbtF6rs0BblD) | [Annie Leigh](https://open.spotify.com/artist/3aUl9FisrxNctsdzYh3aJX) | [Christmastime Lullabies](https://open.spotify.com/album/09nEc8MzwlK1qSaLbf2htL) | 1:33 | 2023-11-23 |  |
 | [When a child is born](https://open.spotify.com/track/701mAP6xYlHUIUoQLy9klO) | [Sarah Bainscroft](https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF) | [Glittering Christmas](https://open.spotify.com/album/7EAP14VPxJpXYf6hLwEDbB) | 2:16 | 2023-11-23 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/77z4QS3zOxpcZSRQMY1W8d) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [When You Wish Upon a Star](https://open.spotify.com/album/50RJqo11YgeqEmaN7KGD20) | 2:12 | 2023-11-23 |  |

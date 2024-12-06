@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Erika Isac
+> Cele mai noi hituri pop românești\. Cover: Misha Miller, Alex Velea
 
-150 songs - 7 hr 4 min
+153 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bilet doar dus](https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Bilet doar dus](https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp) | 2:21 | 2024-11-28 |  |
 | [Bug a Boo](https://open.spotify.com/track/4ErxIoEHvAaebb3D2CpJ2T) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Bug a Boo](https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx) | 3:24 | 2024-06-27 | 2024-09-06 |
 | [Burning Love \- Roton 3.0 Sessions](https://open.spotify.com/track/5CVsCx9UvrOblhZv2LVHbm) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Burning Love \(Roton 3.0 Sessions\)](https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv) | 2:26 | 2024-08-22 | 2024-09-13 |
-| [Buzele tale](https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Buzele tale](https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT) | 2:44 | 2024-06-27 |  |
+| [Buzele tale](https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Buzele tale](https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT) | 2:44 | 2024-06-27 | 2024-12-06 |
 | [Bădiță](https://open.spotify.com/track/4uZfxonUWm2Rh37xnav9QZ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Bădiță](https://open.spotify.com/album/4yd51OJgSZ7AhYGJyBq837) | 2:17 | 2024-06-27 | 2024-07-05 |
 | [Casa mea](https://open.spotify.com/track/5FOeHqTo3NdRsrJZKwxwwU) | [RAZI](https://open.spotify.com/artist/0dOwAcgDluJ0CSp5sChAA8), [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [Casa mea](https://open.spotify.com/album/1XZ8UdIzM4t2E0uszvmfcC) | 2:56 | 2024-11-28 |  |
 | [Ce Ai Tu](https://open.spotify.com/track/2smTp3HLaTaUVG77DrYezY) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Ce Ai Tu](https://open.spotify.com/album/66JpgoE6ae929knJbvymNG) | 2:43 | 2024-06-27 | 2024-07-05 |
@@ -44,7 +44,7 @@
 | [CUM MĂ](https://open.spotify.com/track/454Y2Qn0uOBIHgJvl2vN9f) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [RADICAL DIN NOI](https://open.spotify.com/album/4BguA6kGPMtSFzApSU4oUI) | 2:40 | 2024-09-19 |  |
 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 | 2024-08-15 |  |
 | [Cântă Dorul](https://open.spotify.com/track/5P1lYdEicgJho9ylII3VZZ) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Cântă Dorul](https://open.spotify.com/album/6Eeh67N2hQINeWdlOAKP0M) | 2:15 | 2024-11-28 |  |
-| [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 | 2024-06-27 |  |
+| [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 | 2024-06-27 | 2024-12-06 |
 | [Dansezi](https://open.spotify.com/track/10MsQJOOsx8CfA13zDNoDe) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Dansezi](https://open.spotify.com/album/339JbgCy9ucSh1T7se3lX8) | 2:46 | 2024-06-27 | 2024-10-04 |
 | [Dau tonul](https://open.spotify.com/track/7mxhGM5DkAWdBg1YDHiUyG) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dau tonul](https://open.spotify.com/album/7sg3zxyrWwXY631Z430B58) | 2:00 | 2024-07-18 | 2024-09-27 |
 | [De ce plang chitarele](https://open.spotify.com/track/1LviVFquiwbz2qsiVzbC4W) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw), [Mark Stam](https://open.spotify.com/artist/2TfjCSwYNNsUvw3uhjK9mh) | [De ce plang chitarele](https://open.spotify.com/album/4kXNDZdMEpJIGIKjUnG9Dt) | 2:39 | 2024-11-14 |  |
@@ -66,13 +66,15 @@
 | [Forever 18](https://open.spotify.com/track/3klHXW9tj8nuQY0LwaiMy4) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Forever 18](https://open.spotify.com/album/0KfAxkfKqDiX8SKCMbcMlb) | 3:23 | 2024-11-21 |  |
 | [Fă\-ți numărul](https://open.spotify.com/track/7gdvXyK82he3mbsJ2H5dAI) | [Damian & Brothers](https://open.spotify.com/artist/36ddmqY1toa8sWvyYDBqFn), [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB) | [Fă\-ți numărul](https://open.spotify.com/album/1J2POqIj515c455uR3hkyP) | 3:18 | 2024-11-21 |  |
 | [Gura ta](https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Gura ta](https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s) | 2:45 | 2024-06-27 | 2024-11-29 |
-| [Hai sictir](https://open.spotify.com/track/1dc5vfOUOPNLs8GG64cfz3) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Hai sictir](https://open.spotify.com/album/6nHXiWsDwFSJhRgmkUL4lw) | 3:17 | 2024-11-21 |  |
+| [Hai sictir](https://open.spotify.com/track/1dc5vfOUOPNLs8GG64cfz3) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Hai sictir](https://open.spotify.com/album/6nHXiWsDwFSJhRgmkUL4lw) | 3:17 | 2024-11-21 | 2024-12-06 |
 | [Haide](https://open.spotify.com/track/6ku4rF1Cf0dnIBULuHfswR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Haide](https://open.spotify.com/album/0Wp1s08Nkns1U7cRy9ynk4) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Hanorac](https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt) | [Aria Moon](https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj) | [Hanorac](https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw) | 2:34 | 2024-08-29 | 2024-10-04 |
 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 | 2024-07-18 | 2024-08-09 |
 | [How I Love It](https://open.spotify.com/track/2bO0NmmJrvHGoJGoxT3A0f) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Cezar Guna](https://open.spotify.com/artist/4vMwiNf15n0KVymasufiqa) | [How I Love It](https://open.spotify.com/album/49OZpI4ewmwdYOYR09LB4J) | 2:35 | 2024-07-04 | 2024-08-30 |
+| [Iartă\-mă](https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Iartă\-mă](https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX) | 3:04 | 2024-12-05 |  |
 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:11 | 2024-09-26 | 2024-10-25 |
 | [Imuni la bine](https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Imuni la bine](https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk) | 2:39 | 2024-06-27 | 2024-11-08 |
+| [Inainte de tine](https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Dorian Popa](https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo) | [Inainte de tine](https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC) | 3:04 | 2024-12-05 |  |
 | [Inca O Noapte](https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inca O Noapte](https://open.spotify.com/album/6pOa0ra42T1R4SbSLSgSsX) | 3:01 | 2024-06-27 | 2024-08-16 |
 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-21 |  |
 | [INTERSTELAR](https://open.spotify.com/track/1rC08i64aW1FyWpOsqVr4q) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [INTERSTELAR](https://open.spotify.com/album/6SIVlUkMCTjaCN2rDzFn4R) | 2:55 | 2024-10-03 | 2024-11-01 |
@@ -152,6 +154,7 @@
 | [Ultimul sărut](https://open.spotify.com/track/4uBWKMNcZWaFGKFB617Xn2) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Ultimul sărut](https://open.spotify.com/album/2koLXtK6zIBjnPQI7ui7QZ) | 2:52 | 2024-11-21 |  |
 | [UNDEVA](https://open.spotify.com/track/3Puwiup8Zx3QecTPv7Cmnn) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [UNDEVA](https://open.spotify.com/album/06pEYOIeKPAxKPbJkhWSJj) | 1:58 | 2024-07-11 | 2024-11-15 |
 | [Vecinii de bloc](https://open.spotify.com/track/6UnAmT7n43XJGIWd8tRfwu) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Pas cu pas](https://open.spotify.com/album/7iB87hMsRM7bWkPnvUTVT0) | 2:44 | 2024-06-27 | 2024-11-01 |
+| [Viata Bate Filmul](https://open.spotify.com/track/6qvcJQ3csduILzGTvWDl9I) | [BiBi](https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX), [Antonio Pican](https://open.spotify.com/artist/151AdA8GTkchYAkB7bOvnv) | [Viata Bate Filmul](https://open.spotify.com/album/375My8DsXLTBLcAECbDpzl) | 3:17 | 2024-12-05 |  |
 | [Viitorul sună bine](https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Viitorul sună bine](https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF) | 3:28 | 2024-10-10 |  |
 | [Vreau](https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Vreau](https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs) | 2:59 | 2024-06-27 | 2024-11-22 |
 | [Înapoi](https://open.spotify.com/track/4AXb87kku5QFump60qvqQB) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Înapoi](https://open.spotify.com/album/6YmXmt0LGkF4zedlEdvJEK) | 2:09 | 2024-07-11 | 2024-08-02 |

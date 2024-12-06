@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Rulo, Coque Malla y Dani Mart\u00edn.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192801,
       "name": "De Todo Menos Dinero",
       "url": "https://open.spotify.com/track/3UXH2Nez91Uh7ik0DHiZEw"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192759,
       "name": "La esquina de Canal",
       "url": "https://open.spotify.com/track/5Oy6eewfqNHdasYyi8bupx"
@@ -4762,6 +4762,36 @@
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+    },
+    {
+      "album": {
+        "name": "La luna me sabe a poco (estado puro)",
+        "url": "https://open.spotify.com/album/7JfcX6Ep4AVbN1BYGV9Rrg"
+      },
+      "artists": [
+        {
+          "name": "Carlos Escobedo",
+          "url": "https://open.spotify.com/artist/3LmN82uIHO6C9StywUF0CA"
+        },
+        {
+          "name": "S\u00f4ber",
+          "url": "https://open.spotify.com/artist/3Y2UMfxP15qisezhYgjTKN"
+        },
+        {
+          "name": "Raul Perona",
+          "url": "https://open.spotify.com/artist/1ia4EmQ67jEx7NwRPuClsc"
+        },
+        {
+          "name": "Charly L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6VXXdyAqObtfDUxEL4RSQh"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216397,
+      "name": "La luna me sabe a poco (estado puro)",
+      "url": "https://open.spotify.com/track/4faImboVk9jkAhW49BVeNU"
     },
     {
       "album": {
@@ -7245,6 +7275,24 @@
     },
     {
       "album": {
+        "name": "Por Si Acaso",
+        "url": "https://open.spotify.com/album/710ampGSpmkHiRIBUot1hM"
+      },
+      "artists": [
+        {
+          "name": "GRISO",
+          "url": "https://open.spotify.com/artist/6Ut8S3cOeO9Z8t9TBx0xub"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187024,
+      "name": "Por Si Acaso",
+      "url": "https://open.spotify.com/track/6r4oJ9DhI7HRUb7h0LNM3L"
+    },
+    {
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -7422,7 +7470,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
@@ -7964,7 +8012,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 198205,
       "name": "Si Nos Quieres Ah\u00ed",
       "url": "https://open.spotify.com/track/1Z31kjVDFAOsshnbRb6Fhc"
@@ -8822,7 +8870,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 220682,
       "name": "Triste Pegador",
       "url": "https://open.spotify.com/track/20M3ReDChp0GvCdbY5aWK5"
@@ -9594,6 +9642,32 @@
       "duration_ms": 249057,
       "name": "\u00bfVolver\u00e1?",
       "url": "https://open.spotify.com/track/42d7EvPwcbd5vCd9RC3Dae"
+    },
+    {
+      "album": {
+        "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
+        "url": "https://open.spotify.com/album/1WwaI7DststGINwmLG9zCP"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        },
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249983,
+      "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
+      "url": "https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli"
     },
     {
       "album": {

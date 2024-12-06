@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,601 likes - 66 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,765 likes - 66 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 24 | [Songbird \- Orchestral Version](https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Songbird \(Orchestral Version\)](https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2) | 3:38 |
 | 25 | [Hallelujah](https://open.spotify.com/track/1jTI06Buy2Tpoy2ddBwbX3) | [The Italian Tenors](https://open.spotify.com/artist/7a8BaftaL1KRlItwhsxNOU) | [Viva La Vita](https://open.spotify.com/album/64E2O1kyI9QZWGuptzmRiJ) | 3:14 |
 | 26 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 |
-| 27 | [The Lark's Last Song \(Liebesträume, S\. 541: No\. 3, Oh Lieb, so lang du lieben kannst\) \[Arr\. for Choir by Josh Madine\]](https://open.spotify.com/track/7aIDPYP4bWgRXfnw1YQCQt) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Josh Madine](https://open.spotify.com/artist/65IdwixJHB6ZadnzNbnGUR), [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e), [Sam Coates](https://open.spotify.com/artist/02W0loXhAbxSFSfr27Tmsy) | [Dream](https://open.spotify.com/album/095QDJfBThZnsxe0AQqCPC) | 3:41 |
+| 27 | [The Lark's Last Song \(Liebesträume, S\. 541: No\. 3, Oh Lieb, so lang du lieben kannst\) \[Arr\. for Choir by Josh Madine\]](https://open.spotify.com/track/7aIDPYP4bWgRXfnw1YQCQt) | [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) | [Dream](https://open.spotify.com/album/095QDJfBThZnsxe0AQqCPC) | 3:41 |
 | 28 | [Hero](https://open.spotify.com/track/6o9bPZq7uryo2bgq1lJaDm) | [Mark Vincent](https://open.spotify.com/artist/0pSg4jDXGzhiXGQaodiA90) | [In the Eyes of a Child](https://open.spotify.com/album/7tBSzCp4dIFyCA51NE4sr7) | 4:12 |
 | 29 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 |
 | 30 | [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 |

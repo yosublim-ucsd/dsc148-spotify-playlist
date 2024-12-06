@@ -81,6 +81,36 @@
     },
     {
       "album": {
+        "name": "7ob Wel Share3",
+        "url": "https://open.spotify.com/album/6pCQ7bMnNdFVFvIKfw4Nh3"
+      },
+      "artists": [
+        {
+          "name": "Shvdy",
+          "url": "https://open.spotify.com/artist/47RKFB8jXDB8JJbloio0Nh"
+        },
+        {
+          "name": "Islem-23",
+          "url": "https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd"
+        },
+        {
+          "name": "Norfafrica",
+          "url": "https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y"
+        },
+        {
+          "name": "John Six",
+          "url": "https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "7ob Wel Share3",
+      "url": "https://open.spotify.com/track/5nxuqr5PmI16uCnAeiNvnv"
+    },
+    {
+      "album": {
         "name": "9adech Men Mara",
         "url": "https://open.spotify.com/album/14LPhzMvyamhLXzaGjltuR"
       },
@@ -1148,7 +1178,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 240000,
       "name": "MANNENI",
       "url": "https://open.spotify.com/track/6DTfaZr5t4Ab32OrmTlhTJ"

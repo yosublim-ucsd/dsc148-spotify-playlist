@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Ziynet Sali    ",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Selin",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 193970,
       "name": "Baksana Bana",
       "url": "https://open.spotify.com/track/5u5aUcPR8ldDForXsAAtqP"
@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Yerine Sevemem",
+        "url": "https://open.spotify.com/album/54PlqcEztTsO9Dm5o1FFb6"
+      },
+      "artists": [
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164069,
+      "name": "Yerine Sevemem",
+      "url": "https://open.spotify.com/track/52YofYBLBIErQ8r8yhtesx"
+    },
+    {
+      "album": {
         "name": "Kuantum 51",
         "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
       },
@@ -2368,6 +2386,24 @@
       "duration_ms": 194926,
       "name": "\u015eerbetli",
       "url": "https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL"
+    },
+    {
+      "album": {
+        "name": "\u015eIP",
+        "url": "https://open.spotify.com/album/5OMktJw6YrtuxDDi28lCA9"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199457,
+      "name": "\u015eIP",
+      "url": "https://open.spotify.com/track/6f1Aj9Qf85b0Za8SRJCmbK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3"

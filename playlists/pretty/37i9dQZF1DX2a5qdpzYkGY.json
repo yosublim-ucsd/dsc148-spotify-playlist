@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12488,
+  "num_followers": 12487,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
-      },
-      "artists": [
-        {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
-    },
-    {
       "added_at": "2022-05-18 00:18:47",
       "album": {
         "name": "Machinarium Soundtrack",
@@ -215,6 +199,22 @@
       "duration_ms": 304186,
       "name": "By the Wall",
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
+      },
+      "artists": [
+        {
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+        }
+      ],
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Big Sun",
-        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
-      },
-      "artists": [
-        {
-          "name": "Chassol",
-          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Birds, Pt. I",
-      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
       "added_at": "2024-04-18 20:16:24",
       "album": {
         "name": "The Sunset Violent",
@@ -315,6 +299,22 @@
       "duration_ms": 140586,
       "name": "Got Me",
       "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW"
+      },
+      "artists": [
+        {
+          "name": "Chassol",
+          "url": "https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Birds, Pt. I",
+      "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Hex",
@@ -431,6 +415,22 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-10-24 00:41:11",
@@ -617,6 +617,22 @@
       "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
     },
     {
+      "added_at": "2023-01-12 02:08:10",
+      "album": {
+        "name": "Antidotes 2",
+        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "An Avalanche",
+      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+    },
+    {
       "added_at": "2024-10-24 20:55:02",
       "album": {
         "name": "Moon Kin",
@@ -647,22 +663,6 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2023-01-12 02:08:10",
-      "album": {
-        "name": "Antidotes 2",
-        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "An Avalanche",
-      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
       "added_at": "2024-04-15 14:39:19",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Kissing Rosy in the Rain",
-        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
-      },
-      "artists": [
-        {
-          "name": "Mason Lindahl",
-          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Sky Breaking, Clouds Falling",
-      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
-    },
-    {
       "added_at": "2022-02-18 04:38:12",
       "album": {
         "name": "atomic bombs atomic bonds i love you",
@@ -851,6 +835,22 @@
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Kissing Rosy in the Rain",
+        "url": "https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz"
+      },
+      "artists": [
+        {
+          "name": "Mason Lindahl",
+          "url": "https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Sky Breaking, Clouds Falling",
+      "url": "https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -969,6 +969,22 @@
       "url": "https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Last Retention",
+        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
+      },
+      "artists": [
+        {
+          "name": "Ronnie & Clyde",
+          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "The Last Retention",
+      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
+    },
+    {
       "added_at": "2024-04-23 00:31:13",
       "album": {
         "name": "Hell To The Liars (feat. NATURE)",
@@ -987,22 +1003,6 @@
       "duration_ms": 571168,
       "name": "Hell To The Liars (feat. NATURE)",
       "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Last Retention",
-        "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie & Clyde",
-          "url": "https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "The Last Retention",
-      "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
     },
     {
       "added_at": "2024-07-05 03:19:52",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Pyramid",
-        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 488904,
-      "name": "Spiral Era",
-      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
-    },
-    {
       "added_at": "2022-02-15 01:09:46",
       "album": {
         "name": "1981",
@@ -1263,6 +1247,22 @@
       "duration_ms": 254954,
       "name": "1981",
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Pyramid",
+        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 488904,
+      "name": "Spiral Era",
+      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1313,20 +1313,24 @@
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
+      "added_at": "2022-02-18 05:44:49",
       "album": {
-        "name": "Redivider",
-        "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
+        "name": "Bucolic Architecture (Flug 8 Remix)",
+        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
       },
       "artists": [
         {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+          "name": "Yoann Pisterman",
+          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
+        },
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
         }
       ],
-      "duration_ms": 67213,
-      "name": "If You Could See Your Life In Reverse Pt.3",
-      "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
+      "duration_ms": 386754,
+      "name": "Bucolic Architecture - Flug 8 Remix",
+      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
     }
   ],
   "unique_name": "transience",

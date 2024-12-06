@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Day Starter / Affection",
+        "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Day Starter",
+      "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
+    },
+    {
+      "album": {
         "name": "Debbie Downer",
         "url": "https://open.spotify.com/album/4OGXNFvSF61LfCXzif51sr"
       },
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 199680,
       "name": "Got To Believe",
       "url": "https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2"
@@ -6138,6 +6156,24 @@
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
+    },
+    {
+      "album": {
+        "name": "Love Is All Around",
+        "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
+      },
+      "artists": [
+        {
+          "name": "Kassko",
+          "url": "https://open.spotify.com/artist/7tziVSjdkcQy72BZnmL9sA"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201238,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
     },
     {
       "album": {
@@ -10246,7 +10282,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 153750,
       "name": "Trapped - Club Mix",
       "url": "https://open.spotify.com/track/2sekK4cTkVmvC7YuikKyCF"

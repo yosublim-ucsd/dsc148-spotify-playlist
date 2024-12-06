@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De decembermaand beleef je hier! \ud83c\udf41",
+  "description": "December beleef je hier! \ud83c\udf41",
   "name": "Winter 2024",
   "tracks": [
     {
@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/6w07BLT8SENahDHDlZNLOW"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183175,
+      "name": "C\u2019est La Vie",
+      "url": "https://open.spotify.com/track/1ZIUsMNYZGXzrwDE2bUD6M"
+    },
+    {
+      "album": {
         "name": "Damn (You\u2019ve Got Me Saying)",
         "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
@@ -3424,7 +3442,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 182066,
       "name": "Fly Like Me",
       "url": "https://open.spotify.com/track/6CtVJEoNheHMtlDaJoXboX"
@@ -4054,6 +4072,28 @@
       "duration_ms": 196220,
       "name": "Head Held High",
       "url": "https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e"
+    },
+    {
+      "album": {
+        "name": "Heart First (feat. Jordan Shaw)",
+        "url": "https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "Heart First (feat. Jordan Shaw)",
+      "url": "https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv"
     },
     {
       "album": {
@@ -5359,6 +5399,28 @@
     },
     {
       "album": {
+        "name": "It All Means Nothing (You're Not Here Now)",
+        "url": "https://open.spotify.com/album/2yjRkTjVcDyShIFyvGcPT9"
+      },
+      "artists": [
+        {
+          "name": "Krezip",
+          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
+        },
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207783,
+      "name": "It All Means Nothing (You're Not Here Now)",
+      "url": "https://open.spotify.com/track/1dRzBmvoqrvae5m9xBpnK4"
+    },
+    {
+      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -5974,6 +6036,24 @@
       "duration_ms": 229697,
       "name": "Louder",
       "url": "https://open.spotify.com/track/2uNoq7Xuqo7wBBg1rU3Xjk"
+    },
+    {
+      "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "album": {
@@ -8698,7 +8778,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -10710,7 +10790,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 190645,
       "name": "What If I Want You Now",
       "url": "https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d"
@@ -11084,7 +11164,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 282906,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/36qaKbHr8XkihBq9TcoGGN"

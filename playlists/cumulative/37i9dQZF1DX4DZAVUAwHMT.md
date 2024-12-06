@@ -2,7 +2,7 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Chloe Slater
+> The UK's biggest rock playlist\. Cover: Architects
 
 800 songs - 1 day 20 hr 8 min
 

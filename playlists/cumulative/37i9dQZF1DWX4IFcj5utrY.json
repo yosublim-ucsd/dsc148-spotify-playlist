@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi\"> Blackwhole</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ\"> Nitefreak </a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -4208,7 +4208,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154293,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Emoko",
+        "url": "https://open.spotify.com/album/1J18hKFU21jUFHEPWkE3rF"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225967,
+      "name": "Emoko",
+      "url": "https://open.spotify.com/track/3QYmmuMrfEGBDI7uq5lfBc"
+    },
+    {
+      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/2OhUilvZnuG4pJpKseLkAo"
       },
@@ -6524,6 +6542,32 @@
       "duration_ms": 366101,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4z1cVR36mIcu3k68cYllqR"
+    },
+    {
+      "album": {
+        "name": "Everytime (feat. MoreSoul & Vhuvii)",
+        "url": "https://open.spotify.com/album/5l9ZCQGL1SQW3XJ2VTKavY"
+      },
+      "artists": [
+        {
+          "name": "MacZito",
+          "url": "https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC"
+        },
+        {
+          "name": "MoreSoul",
+          "url": "https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ"
+        },
+        {
+          "name": "Vhuvii",
+          "url": "https://open.spotify.com/artist/3ruGhPtayzm5rLj9wGlMIn"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434482,
+      "name": "Everytime (feat. MoreSoul & Vhuvii)",
+      "url": "https://open.spotify.com/track/0QYwbWgbF8Smzk4pcBOpWc"
     },
     {
       "album": {
@@ -7394,7 +7438,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
@@ -15909,6 +15953,40 @@
     },
     {
       "album": {
+        "name": "Not The Same (Black Coffee feat. Shoba Remix)",
+        "url": "https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Shoba",
+          "url": "https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Not The Same - Black Coffee feat. Shoba Remix",
+      "url": "https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/6vBrabhbMXnMfZVb4fMO2q"
       },
@@ -16154,7 +16232,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 196923,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
@@ -17098,6 +17176,24 @@
       "duration_ms": 322130,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/70mLvxrqMjzIjZYLIYFErg"
+    },
+    {
+      "album": {
+        "name": "Polar Lights",
+        "url": "https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190819,
+      "name": "Polar Lights",
+      "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
     },
     {
       "album": {

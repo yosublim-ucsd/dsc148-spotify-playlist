@@ -6040,7 +6040,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 169459,
       "name": "Blauer Ballon",
       "url": "https://open.spotify.com/track/3aeRQ9xGSLAUg1R7CZ5QKv"
@@ -7810,7 +7810,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 138323,
       "name": "Chill Bae",
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
@@ -13403,6 +13403,24 @@
     },
     {
       "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148414,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
+    },
+    {
+      "album": {
         "name": "Fat A$$",
         "url": "https://open.spotify.com/album/56569RtgPsqkLpHfLZyIvY"
       },
@@ -13638,7 +13656,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 173354,
       "name": "feigling",
       "url": "https://open.spotify.com/track/22Bf6H99r0gKkTtUTrlgvz"
@@ -14063,6 +14081,24 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170557,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
+    },
+    {
+      "album": {
         "name": "AVANTI",
         "url": "https://open.spotify.com/album/2jONoCNyNjktjSbta9y4ph"
       },
@@ -14136,7 +14172,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203624,
       "name": "For Me (feat. Brent Faiyaz) - Remix",
       "url": "https://open.spotify.com/track/1jPd5Qku1J3kBN5nonrYDg"
@@ -17200,10 +17236,32 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 122826,
       "name": "Head n' Shoulders",
       "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
+    },
+    {
+      "album": {
+        "name": "Head n' Shoulders, pt.II",
+        "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135746,
+      "name": "Head n' Shoulders, pt.II",
+      "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
     },
     {
       "album": {
@@ -17600,6 +17658,28 @@
       "duration_ms": 127483,
       "name": "Herr Direktor",
       "url": "https://open.spotify.com/track/28yKVTiiHwCoGkw3PO6A7p"
+    },
+    {
+      "album": {
+        "name": "HERZ",
+        "url": "https://open.spotify.com/album/0N8lZTYwdk9zuxDSXzshxt"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123106,
+      "name": "HERZ",
+      "url": "https://open.spotify.com/track/6P9bLDz0tS6KkopNkHNMTJ"
     },
     {
       "album": {
@@ -18072,7 +18152,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 94946,
       "name": "Hinoki Wood",
       "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
@@ -21863,6 +21943,24 @@
     },
     {
       "album": {
+        "name": "Kein DJ",
+        "url": "https://open.spotify.com/album/6j2xOsq0yFEYDw7uaYbtp1"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133028,
+      "name": "Kein DJ",
+      "url": "https://open.spotify.com/track/7y0gyU4jMNwcbh3dmPVkuF"
+    },
+    {
+      "album": {
         "name": "Kein Idol",
         "url": "https://open.spotify.com/album/1FDAKuRS8ExymO8QBXJy0q"
       },
@@ -23549,6 +23647,28 @@
     },
     {
       "album": {
+        "name": "Lichter der Stadt",
+        "url": "https://open.spotify.com/album/0mcPNQ7MIX3NrMh8PC23FS"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Lichter der Stadt",
+      "url": "https://open.spotify.com/track/4Xv9vueZxlgrIATOOj6nyj"
+    },
+    {
+      "album": {
         "name": "Liebe & Hass",
         "url": "https://open.spotify.com/album/0HxPoLqapwXRynFXCraywC"
       },
@@ -24912,7 +25032,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 138000,
       "name": "Ma Baby",
       "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
@@ -27096,6 +27216,24 @@
       "duration_ms": 153304,
       "name": "Moonlight - Rave Edit",
       "url": "https://open.spotify.com/track/2CpRpE4bXlpT1B7vwKsxKa"
+    },
+    {
+      "album": {
+        "name": "morgen",
+        "url": "https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "morgen",
+      "url": "https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3"
     },
     {
       "album": {
@@ -32175,6 +32313,24 @@
     },
     {
       "album": {
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108791,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+    },
+    {
+      "album": {
         "name": "MADEIRA MADNESS",
         "url": "https://open.spotify.com/album/1UpIYat89xq5ivr1CzpDKl"
       },
@@ -32462,6 +32618,32 @@
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "album": {
+        "name": "Pretty Girlz (with Fridayy, J.I the Prince of N.Y)",
+        "url": "https://open.spotify.com/album/6iZnOGegu66eQzPSJuY6kf"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177561,
+      "name": "Pretty Girlz - with Fridayy, J.I the Prince of N.Y",
+      "url": "https://open.spotify.com/track/4S1ptuDT4M8joTpD0OCwWm"
     },
     {
       "album": {
@@ -33416,7 +33598,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 211200,
       "name": "Risk It All (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
@@ -34874,7 +35056,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 177142,
       "name": "Schwarze Wolke",
       "url": "https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV"
@@ -42670,7 +42852,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203666,
       "name": "Void",
       "url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
@@ -43833,6 +44015,24 @@
     },
     {
       "album": {
+        "name": "Weihnachtslied 2024",
+        "url": "https://open.spotify.com/album/4IIQTSJcOOjzkiFdHkO2YW"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165193,
+      "name": "Weihnachtslied 2024",
+      "url": "https://open.spotify.com/track/56ujP3oacjM5cQ8ndqFyma"
+    },
+    {
+      "album": {
         "name": "Weil ich muss",
         "url": "https://open.spotify.com/album/4TFhExkzyu2d6TsRGSRiZW"
       },
@@ -44570,7 +44770,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
       "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
@@ -45223,6 +45423,24 @@
     },
     {
       "album": {
+        "name": "winterkuss :*",
+        "url": "https://open.spotify.com/album/0EQ0xmZ8AeDCXD7QEAtmVk"
+      },
+      "artists": [
+        {
+          "name": "DUEJA",
+          "url": "https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156426,
+      "name": "winterkuss :*",
+      "url": "https://open.spotify.com/track/0Oml2kipjAL0RkUNblBCHP"
+    },
+    {
+      "album": {
         "name": "winterlove2.0",
         "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
       },
@@ -45404,7 +45622,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 235320,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"

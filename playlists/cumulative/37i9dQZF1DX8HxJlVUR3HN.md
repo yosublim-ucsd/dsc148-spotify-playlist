@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Clavicule
+> Les meilleures nouveautés de la scène rock française\. Photo : Tip Stevens
 
-305 songs - 18 hr 35 min
+307 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Jungle](https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7) | [VON DER VAL](https://open.spotify.com/artist/1aaNPabro3dyjFj2QWbkh0) | [Relentless](https://open.spotify.com/album/421KWbFwDSlVZGvirZ01bQ) | 3:25 | 2023-09-28 | 2023-10-06 |
 | [Kathleen](https://open.spotify.com/track/4s7l0JNvkvFjoD40Am4p1P) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7), [Harlee Young](https://open.spotify.com/artist/5PjLHWWAAV9GJBRChXuclG) | [Kathleen](https://open.spotify.com/album/6HbXom8ITK6F2IBYVkj0uO) | 2:18 | 2024-03-21 | 2024-05-10 |
 | [Keep My Head](https://open.spotify.com/track/4XlAOyhVWgOgelpqScS1YE) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [Keep My Head](https://open.spotify.com/album/5qu5GSOs0LLXQOSmUT8iZo) | 5:00 | 2024-06-27 | 2024-11-15 |
+| [Keep Running](https://open.spotify.com/track/6f0wrNpM3WZT6kgqGVeKfy) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Keep Running](https://open.spotify.com/album/44fQXVf5CbWiPAeyhwuR1N) | 2:53 | 2024-12-05 |  |
 | [Kiss Of Death](https://open.spotify.com/track/3OYp1OJFwgv3gNzqG2Dq7X) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Kiss Of Death](https://open.spotify.com/album/2rkxdVv17cqa3IvfhdrbBd) | 2:55 | 2024-08-29 | 2024-11-15 |
 | [Knife Edge](https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV) | [Doorshan](https://open.spotify.com/artist/4b0rw6riYNCnFzZ2vYFjTk) | [Knife Edge](https://open.spotify.com/album/4OhcI1lakywE8lytUxDVZ5) | 3:42 | 2023-09-28 | 2023-10-20 |
 | [Knock Knock](https://open.spotify.com/track/46zbqzxMb3dzh4f0JZ3T26) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Knock Knock](https://open.spotify.com/album/4BMbtwN0UPewlUuw8Qyr8y) | 5:26 | 2024-11-21 |  |
@@ -148,7 +149,7 @@
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-13 | 2024-11-08 |
 | [Le Détail](https://open.spotify.com/track/6xq0ORaot5bKXnefWzMIo6) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/0hLoVhobG9NV1MLLiBiUxV) | 3:23 | 2024-03-07 | 2024-06-28 |
 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 |  |
-| [Leave It All Behind](https://open.spotify.com/track/1j2fSD4pmkITLie8Jn7beX) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Leave It All Behind](https://open.spotify.com/album/62rHOKAdNBe3svzY0JPr25) | 3:23 | 2024-11-21 |  |
+| [Leave It All Behind](https://open.spotify.com/track/1j2fSD4pmkITLie8Jn7beX) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Leave It All Behind](https://open.spotify.com/album/62rHOKAdNBe3svzY0JPr25) | 3:23 | 2024-11-21 | 2024-12-06 |
 | [Les gamins](https://open.spotify.com/track/7zD8Y0vrXkI52xdOxTdFcX) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Superspectives](https://open.spotify.com/album/6OFWJChBYs4oF6f8V2V5Ow) | 3:37 | 2024-02-29 | 2024-04-19 |
 | [Les magazines](https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [Les magazines](https://open.spotify.com/album/5m3D7pJBWUh8ybUjGQn9FQ) | 3:34 | 2023-10-05 | 2024-02-16 |
 | [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 | 2024-03-14 | 2024-09-06 |
@@ -161,6 +162,7 @@
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 | 2024-05-24 |
 | [Magnetic](https://open.spotify.com/track/2fqmP6cuTPi6gqPZo5Grxn) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Magnetic](https://open.spotify.com/album/3PrU7zOQLexzywPeRfFvxr) | 3:19 | 2024-10-11 | 2024-11-15 |
 | [Mains](https://open.spotify.com/track/2JLbQdTmeC6hre4GJO8LCt) | [Opinion](https://open.spotify.com/artist/3K0sSzYbcJdN3FXAtjTXpm) | [Mains](https://open.spotify.com/album/6O7z99w0dD9KS0rH4zDAqN) | 4:45 | 2024-11-07 |  |
+| [Mamba](https://open.spotify.com/track/0027rD8bG9dNTWAMl4a9gx) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Mamba](https://open.spotify.com/album/1bAeW9dOUxfh4tu91R06uY) | 4:37 | 2024-12-05 |  |
 | [Me Me and Mine](https://open.spotify.com/track/3Ddpsbd5xVSWZUYKdiKPj0) | [Perfecto](https://open.spotify.com/artist/3DNSdKcse6RBNtXhSAC7nz) | [Quasar of Love](https://open.spotify.com/album/0D6LKEOlGw6DyaRoc0z0FR) | 4:28 | 2023-09-28 | 2023-10-06 |
 | [Menthe fraise](https://open.spotify.com/track/4IBOzpMnEbEtWchVwKDClU) | [Monochrome](https://open.spotify.com/artist/1OceV4sNEVgG9xUDQb70Ie) | [Menthe fraise](https://open.spotify.com/album/65Mih2cmshmQZfHxUW0IrB) | 4:36 | 2024-10-11 |  |
 | [Millennial Gray](https://open.spotify.com/track/3uQBNtvR6j0QnKRNuxBbbQ) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Millennial Gray](https://open.spotify.com/album/6ffRRvrOEAybtnhy6CR1xN) | 3:25 | 2024-06-27 | 2024-10-25 |
@@ -265,7 +267,7 @@
 | [The Bell Behind The Door \- Radio Edit](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 | 2023-10-20 | 2024-03-15 |
 | [The Butcher's Fantasy](https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH) | [Down to the Wire](https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK) | [The Butcher's Fantasy](https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn) | 3:57 | 2024-02-29 |  |
 | [The Clocks Are Bleeding](https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [The Clocks Are Bleeding](https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF) | 3:00 | 2023-12-14 | 2024-01-26 |
-| [The Coral Wounds](https://open.spotify.com/track/5tgJa7koluOQO1tY8egWt8) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [The Coral Wounds](https://open.spotify.com/album/0i8BGVHfXJKZ7385zqZUVG) | 3:39 | 2024-11-14 |  |
+| [The Coral Wounds](https://open.spotify.com/track/5tgJa7koluOQO1tY8egWt8) | [daria](https://open.spotify.com/artist/44dVdbbHLKb31Q5V8LPi67) | [The Coral Wounds](https://open.spotify.com/album/0i8BGVHfXJKZ7385zqZUVG) | 3:39 | 2024-11-14 | 2024-12-06 |
 | [The Devil](https://open.spotify.com/track/56gDz0ZtrlcBqWSZhi0mUJ) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [The Devil](https://open.spotify.com/album/0hW82VfQ9gwcdqR2PHs0cW) | 5:11 | 2024-05-23 | 2024-06-14 |
 | [The End](https://open.spotify.com/track/0fzpx8fAbq71kGMVkVJ8kb) | [SCHØØL](https://open.spotify.com/artist/4av2qG2kDSGxWcDe2HpmiP) | [The End](https://open.spotify.com/album/2BsGWyY0USekBwL5mnG3XY) | 4:14 | 2024-10-03 |  |
 | [The Everything](https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH) | 3:41 | 2023-12-08 | 2024-03-01 |

@@ -2,7 +2,7 @@
 
 ### [Best of Rising 65 2024](https://open.spotify.com/playlist/37i9dQZF1DX8TNYCX6wdOv)
 
-> Editor's picks of Rising 65 this year\. Cover: Soph\. T
+> Editor's picks of Rising 65 this year\. Cover: Soph T.
 
 100 songs - 5 hr 32 min
 

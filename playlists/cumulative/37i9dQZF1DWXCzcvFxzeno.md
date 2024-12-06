@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
-205 songs - 15 hr 55 min
+206 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Give Me a Break](https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg) | [Carter Graham](https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo) | [Silence](https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA) | 5:31 | 2024-04-09 | 2024-11-04 |
 | [Give Me Acid](https://open.spotify.com/track/5ihSjM9QHRuhLf1SAMCydv) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Give Me Acid](https://open.spotify.com/album/3HHi4seXxhiTcnCGag2kuZ) | 3:30 | 2024-10-24 |  |
 | [Go Get Some People](https://open.spotify.com/track/2gtY2fRwzWeFY1arZKuyp9) | [Danny Wabbit](https://open.spotify.com/artist/57vSMXKEfRZ02gI0D0frvP) | [Go Get Some People \- EP](https://open.spotify.com/album/23wXuuke1j3T9ibf9oaLaT) | 4:41 | 2024-04-09 | 2024-07-14 |
+| [Go Hard](https://open.spotify.com/track/4obKzXuNqeIT3F4qF1HZcA) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack EP](https://open.spotify.com/album/58eDGocu22WsbCMwUkPAXW) | 3:55 | 2024-12-06 |  |
 | [GODD \- T78 Remix](https://open.spotify.com/track/7BTU6GDGVz7LDFq0bI24Mm) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [GODD \(T78 Remix\)](https://open.spotify.com/album/1iDVg0Og8IwgimtcCu6YrY) | 4:38 | 2024-07-14 | 2024-07-22 |
 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 | 2024-04-09 |  |
 | [Half Faces \(Lacchesi Remix\)](https://open.spotify.com/track/0yy7fr4DlmoEEWN82vfwli) | [Baraka](https://open.spotify.com/artist/6EjnvgTO514mUFDlwZtUu7), [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs) | [Half Faces \(Remixes\)](https://open.spotify.com/album/5CoyBDHyYJI4CrllwYE5kY) | 5:40 | 2024-04-09 | 2024-11-19 |
@@ -181,7 +182,7 @@
 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 | 2024-04-09 |  |
 | [The Banger](https://open.spotify.com/track/3xyBlqKf2LguVQirOd7Fyl) | [Rudaki](https://open.spotify.com/artist/5XYNc9Y6UvVlJdDofYxi8i) | [The Banger](https://open.spotify.com/album/4laSdIMYC4ztEXLIr42k5g) | 5:00 | 2024-07-14 | 2024-07-22 |
 | [The Bass](https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy) | [DV60](https://open.spotify.com/artist/09XRalTMeRYc99qLOBJNx9) | [II Anniversary Chapter 3](https://open.spotify.com/album/6YhNccXIWjGeN4faLGahKi) | 5:37 | 2024-04-09 | 2024-08-06 |
-| [The Big Bang](https://open.spotify.com/track/3eMp80mvXvOmvmaKRpTnVe) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [The Big Bang](https://open.spotify.com/album/7hIianSVljHEKAx80e81is) | 3:20 | 2024-06-14 |  |
+| [The Big Bang](https://open.spotify.com/track/3eMp80mvXvOmvmaKRpTnVe) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [The Big Bang](https://open.spotify.com/album/7hIianSVljHEKAx80e81is) | 3:20 | 2024-06-14 | 2024-12-06 |
 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2024-04-09 | 2024-09-07 |
 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 | 2024-04-09 | 2024-10-29 |
 | [The Moment That Matters](https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [The Moment That Matters](https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo) | 6:00 | 2024-05-22 |  |

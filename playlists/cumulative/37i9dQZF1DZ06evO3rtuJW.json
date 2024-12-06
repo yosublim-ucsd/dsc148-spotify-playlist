@@ -758,7 +758,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 167965,
       "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
       "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 126315,
       "name": "ROTTEN",
       "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
@@ -2923,6 +2923,32 @@
     },
     {
       "album": {
+        "name": "Strictly For My Fans 2.0",
+        "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Taurus",
+          "url": "https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9"
+        },
+        {
+          "name": "Wheezy",
+          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177976,
+      "name": "Teflon",
+      "url": "https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM"
+    },
+    {
+      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -3134,7 +3160,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 127406,
       "name": "Vegeta",
       "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"

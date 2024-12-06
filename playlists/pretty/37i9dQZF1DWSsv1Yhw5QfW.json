@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 133650,
+  "num_followers": 133694,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289160,
-      "name": "I Have Nothing",
-      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Ladies & Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "20 Mejores Melodias Encadenadas Vol.5",
         "url": "https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA"
       },
@@ -763,18 +747,34 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "A Night At The Opera",
-        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
+        "name": "Ladies & Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/5MRiPO4wmZXzSo8ybow8UP"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Love Of My Life",
-      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/5DAeqwfoRbp5u6oUBtNYec"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "21' Sampler",
+        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "21' Sampler",
-        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
+        "name": "A Night At The Opera",
+        "url": "https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
+      "duration_ms": 217386,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO"
     },
     {
       "added_at": "2024-06-14 18:07:20",

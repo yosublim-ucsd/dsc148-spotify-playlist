@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 179657,
       "name": "Demons",
       "url": "https://open.spotify.com/track/7HdJns0LuaRiJSxf1UJXp4"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 125138,
       "name": "New",
       "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
@@ -15121,6 +15121,28 @@
     },
     {
       "album": {
+        "name": "Tell Them",
+        "url": "https://open.spotify.com/album/4hAjUTAY5ApWH1cVytB8Xc"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140930,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/5SJu6pvIRxgMNaXkBlaKrt"
+    },
+    {
+      "album": {
         "name": "Tell You",
         "url": "https://open.spotify.com/album/2X3FaJPsKg3CGA8n0NCz7J"
       },
@@ -16226,6 +16248,28 @@
       "duration_ms": 198645,
       "name": "Vex (feat. MIST & Popcaan)",
       "url": "https://open.spotify.com/track/0Cqm4WttYKQpbCqRy49TXG"
+    },
+    {
+      "album": {
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Jasmine Knight",
+          "url": "https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs"
     },
     {
       "album": {

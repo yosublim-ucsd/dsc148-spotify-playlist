@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Apulanta.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Haloo Helsinki!",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 230599,
       "name": "Aioin j\u00e4tt\u00e4\u00e4 sut t\u00e4n\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy"
@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Hei Maria",
+        "url": "https://open.spotify.com/album/4x8zJswMs51rfhN6L5P1Ui"
+      },
+      "artists": [
+        {
+          "name": "Vahvat Lasit",
+          "url": "https://open.spotify.com/artist/7BCQg88fnA6sc4s1YIytW7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "Hei Maria",
+      "url": "https://open.spotify.com/track/1zQMP30jNDdUy7VsQLoUDR"
+    },
+    {
+      "album": {
         "name": "Hienoo kun oot",
         "url": "https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 209500,
       "name": "Joku \u00e4ij\u00e4 vei mun kangaskassin",
       "url": "https://open.spotify.com/track/71f4qBrT3chsVi4k8yWNLS"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 215533,
       "name": "Me olemme muisto vain",
       "url": "https://open.spotify.com/track/1T95Py9WIxGYrsnWStP8kK"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 170769,
       "name": "Mielenkiintona toimintaa",
       "url": "https://open.spotify.com/track/6P3TP4tgr3RqLGpBZZASmj"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 184780,
       "name": "Oon ihan alright",
       "url": "https://open.spotify.com/track/2zo3NBsM89iFIrlnw5PK8k"
@@ -2876,6 +2894,24 @@
       "duration_ms": 342757,
       "name": "Praise",
       "url": "https://open.spotify.com/track/4acZ5e28oAZBco5uiteB0Z"
+    },
+    {
+      "album": {
+        "name": "Purppurakuu",
+        "url": "https://open.spotify.com/album/28lo0aYSMdbXQuLVxOZInH"
+      },
+      "artists": [
+        {
+          "name": "Topi Saha",
+          "url": "https://open.spotify.com/artist/634z144xl609g8O217USKM"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282050,
+      "name": "Purppurakuu",
+      "url": "https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm"
     },
     {
       "album": {
@@ -3946,6 +3982,24 @@
       "duration_ms": 187071,
       "name": "T\u00e4\u00e4 ei hajoo",
       "url": "https://open.spotify.com/track/6rSRbR53rRzVSnDXV2Hr1N"
+    },
+    {
+      "album": {
+        "name": "uhanalanen",
+        "url": "https://open.spotify.com/album/3iJD8aUiym6K8VK88IsAnj"
+      },
+      "artists": [
+        {
+          "name": "KYYT",
+          "url": "https://open.spotify.com/artist/2woGSRcSjqyLYyNWOVj7m0"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179451,
+      "name": "uhanalanen",
+      "url": "https://open.spotify.com/track/2OnH6wVMqaPLhUwP0LaS97"
     },
     {
       "album": {

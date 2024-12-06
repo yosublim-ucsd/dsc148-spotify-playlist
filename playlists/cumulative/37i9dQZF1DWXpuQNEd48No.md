@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: DG Immortals & Parmish Verma
 
-315 songs - 16 hr 17 min
+316 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Hurr Hurr](https://open.spotify.com/track/3TdDp6r78i2pISrgW2QH6c) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Hurr Hurr](https://open.spotify.com/album/1T94tZ0ONkKt3e8A7OfN0d) | 3:40 | 2023-04-18 | 2023-09-28 |
 | [Hurr Hurr](https://open.spotify.com/track/7Iuwq0zr0MhXSHEX1LHypB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Hurr Hurr](https://open.spotify.com/album/6j74y3HMYrnuciMLDHzGvG) | 3:40 | 2024-04-18 | 2024-10-16 |
 | [Hustle](https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG) | [Manni](https://open.spotify.com/artist/3xgot0UOXdbB02Nt7FXq1F) | [Hustle](https://open.spotify.com/album/0earK0NiGvRyupxyoXpusg) | 1:55 | 2023-03-28 | 2023-04-19 |
-| [Illegal](https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:53 | 2024-10-21 |  |
+| [Illegal](https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:53 | 2024-10-21 | 2024-12-06 |
 | [Illegal Hathiyar](https://open.spotify.com/track/525DtoJehM89HhYRVhxH9g) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Muzik Amy](https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK) | [Illegal Hathiyar](https://open.spotify.com/album/5w84U33UBJFUPELDJhcXlg) | 2:44 | 2024-07-01 |  |
 | [Inform me](https://open.spotify.com/track/0ek0ApZzBwlLjhMDmxQG3N) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Inform me](https://open.spotify.com/album/47srYYfK2BMfgAiHh66Ozh) | 3:30 | 2023-04-03 | 2023-04-29 |
 | [Jaat](https://open.spotify.com/track/2yDrzP2riEk9nj0z94cJ4h) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Fakeer Music](https://open.spotify.com/artist/3JRA310czJn79acuTTDetA) | [Boon](https://open.spotify.com/album/5SpdwWStrbkgR4WLedB7ih) | 2:12 | 2024-05-07 |  |
@@ -176,6 +176,7 @@
 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 | 2023-03-28 | 2024-08-13 |
 | [Jigre](https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Jigre](https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d) | 3:52 | 2023-12-18 |  |
 | [Jija](https://open.spotify.com/track/2LVEdZetab21aTPOHPMEoD) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Jija](https://open.spotify.com/album/2HUBhHvHWs9W4D875rv7Th) | 2:38 | 2024-04-09 |  |
+| [Jijaa](https://open.spotify.com/track/03Yc0hbeAZxyMEP6KItfUs) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Jijaa](https://open.spotify.com/album/2o0uMjKc7zQqW1Uzrc3HHB) | 2:48 | 2024-12-05 |  |
 | [Kaal](https://open.spotify.com/track/2yhtMM4qhk145z3U9SnUfX) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Kaal](https://open.spotify.com/album/7ivhVNZTF2KKZl1ZvjU7GT) | 4:15 | 2024-04-09 | 2024-04-29 |
 | [Kaand](https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Kaand](https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs) | 3:06 | 2023-09-27 |  |
 | [Kalam](https://open.spotify.com/track/4uJPEOUXnM7lJ1POTT0bqV) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Kalam](https://open.spotify.com/album/2osSQNJX5MVEptctxt37Ba) | 4:00 | 2024-02-12 | 2024-02-22 |
@@ -226,7 +227,7 @@
 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 | 2024-08-27 |
 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 | 2023-12-14 |  |
 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 | 2023-12-14 |  |
-| [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-06-16 | 2024-12-01 |
+| [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-06-16 |  |
 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 | 2023-03-28 | 2023-04-29 |
 | [No Tension](https://open.spotify.com/track/4F3ksXYJZm3ul80riHyKsR) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension \- Single](https://open.spotify.com/album/1N7yR1QOcwioXADCzjGL5L) | 3:45 | 2023-12-14 | 2024-02-11 |
 | [No Tension](https://open.spotify.com/track/6mXGWMfVqcDd1uvaPK3y7J) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Tension](https://open.spotify.com/album/23F9FHnyfGhXc2mUh8kmzc) | 3:45 | 2024-03-01 | 2024-04-19 |
@@ -238,7 +239,7 @@
 | [OG](https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6) | [Sammy Dulat](https://open.spotify.com/artist/5yEWvgoNRZReerWDujkDMw) | [OG](https://open.spotify.com/album/2O8jwQ7KdrM6uucbRVBAde) | 2:48 | 2024-03-06 | 2024-03-09 |
 | [OG Choro](https://open.spotify.com/track/4quZp6YfYpGF11kW9F0CJS) | [Nit\-C](https://open.spotify.com/artist/5d78ROCXcoKyqE99MOaYl3) | [OG Choro](https://open.spotify.com/album/6GEnpXLuQQmGVlr2dmJJij) | 2:11 | 2024-06-13 | 2024-10-28 |
 | [OG'S](https://open.spotify.com/track/590sD11WvgSeUZkFx7qdO1) | [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [OG'S](https://open.spotify.com/album/3PhM1OGdST90yeJpGzng2f) | 3:28 | 2024-07-03 | 2024-07-09 |
-| [Oh My God \(Ramphal\)](https://open.spotify.com/track/3TRbJ2MoSOLsGN41qi56J0) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Bunty Swami](https://open.spotify.com/artist/6GHjspmrnMWB51TBasEq2v) | [Oh My God \(Ramphal\)](https://open.spotify.com/album/7fdHASyhaKAcJ7VH3cnVHZ) | 3:02 | 2024-10-07 |  |
+| [Oh My God \(Ramphal\)](https://open.spotify.com/track/3TRbJ2MoSOLsGN41qi56J0) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Bunty Swami](https://open.spotify.com/artist/6GHjspmrnMWB51TBasEq2v) | [Oh My God \(Ramphal\)](https://open.spotify.com/album/7fdHASyhaKAcJ7VH3cnVHZ) | 3:02 | 2024-10-07 | 2024-12-06 |
 | [On The Way](https://open.spotify.com/track/0eXigexcbhLwQXgEtfO8Zv) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [On the Way](https://open.spotify.com/album/39KJPgQ0FsWskTQS3h2UCw) | 3:31 | 2023-03-28 | 2024-03-09 |
 | [On The Way](https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [On The Way](https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc) | 3:31 | 2024-04-18 | 2024-08-13 |
 | [Original Gangster](https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf) | [Original Gangster](https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE) | 3:01 | 2024-08-12 | 2024-11-16 |

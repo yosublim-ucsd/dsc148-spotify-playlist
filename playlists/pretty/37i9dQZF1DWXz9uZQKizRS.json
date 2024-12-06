@@ -1,15 +1,111 @@
 {
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Kasia Lins",
-  "num_followers": 125128,
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ofelia",
+  "num_followers": 125137,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0j18AAAAACMuCd8OD+/1s1WPM8CVWW2",
+  "snapshot_id": "Z1IwcAAAAABBUSRAHFcVZfqE3Lmptcw1",
   "tracks": [
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/7xxoG0dpVu7MNbPXuU4jMj"
+      },
+      "artists": [
+        {
+          "name": "Ofelia",
+          "url": "https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "TINDER",
+      "url": "https://open.spotify.com/track/5cUKowWztkBrgdoqIdQcWX"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "duration_ms": 206707,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 225550,
+      "name": "Komary",
+      "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "diament",
+        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 203434,
+      "name": "diament",
+      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Niemoc",
+        "url": "https://open.spotify.com/album/0Wej8BPHlSxJlebl8vSEUa"
+      },
+      "artists": [
+        {
+          "name": "Fisz Emade Tworzywo",
+          "url": "https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA"
+        }
+      ],
+      "duration_ms": 232580,
+      "name": "Niemoc",
+      "url": "https://open.spotify.com/track/2WUiGW64CGugcDdW1PWue9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "nerw",
+        "url": "https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "nerw",
+      "url": "https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "OMEN (Deluxe)",
         "url": "https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0"
@@ -29,171 +125,7 @@
       "url": "https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Wiatr",
-        "url": "https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Wiatr",
-      "url": "https://open.spotify.com/track/3KWWFT878MW91P22IealNu"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Himalaje",
-        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
-      },
-      "artists": [
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 206707,
-      "name": "Himalaje",
-      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "diament",
-        "url": "https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 203434,
-      "name": "diament",
-      "url": "https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Kto pokocha?",
-        "url": "https://open.spotify.com/album/203N5GVJL0HDegUZFiqRBo"
-      },
-      "artists": [
-        {
-          "name": "Reni Jusis",
-          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
-        },
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        }
-      ],
-      "duration_ms": 206446,
-      "name": "Kto pokocha?",
-      "url": "https://open.spotify.com/track/3WkL7CwHF9ixWf2SNPEyRU"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 225550,
-      "name": "Komary",
-      "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "nerw",
-        "url": "https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF"
-      },
-      "artists": [
-        {
-          "name": "KIWI",
-          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "nerw",
-      "url": "https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Burza",
-        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
-      },
-      "artists": [
-        {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
-        }
-      ],
-      "duration_ms": 183674,
-      "name": "Burza",
-      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Czu\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV"
-      },
-      "artists": [
-        {
-          "name": "Mikromusic",
-          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
-        }
-      ],
-      "duration_ms": 337952,
-      "name": "Czu\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Zaspy",
-        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
-      },
-      "artists": [
-        {
-          "name": "Sonbird",
-          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "Zaspy",
-      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Gdzie jeste\u015b?",
-        "url": "https://open.spotify.com/album/3voZHXvAISl9CcTrlKmkKI"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 168800,
-      "name": "Gdzie jeste\u015b?",
-      "url": "https://open.spotify.com/track/6yK1ZycVo0MosTE3lBB29c"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Gdybym - MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/5NkR2RPgySlWSbJGorQ0fJ"
@@ -217,7 +149,251 @@
       "url": "https://open.spotify.com/track/5O7rOd3fDcR7GU3DipcdnC"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Re Trans Misja",
+        "url": "https://open.spotify.com/album/0YADQXmSqepRZFJBsrOBkD"
+      },
+      "artists": [
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        },
+        {
+          "name": "SKUBAS",
+          "url": "https://open.spotify.com/artist/5BoG8WljgEsbLOtoK5IAok"
+        }
+      ],
+      "duration_ms": 199498,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/3Uanud6HU1Pa0dQqELkxro"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Wszystko w swoim czasie",
+        "url": "https://open.spotify.com/album/7qGVkSKMJ4PCOCyA9PJZWn"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Cokolwiek powiesz",
+        "url": "https://open.spotify.com/album/5Z12iRWCYhohPxj7mvOxWZ"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "duration_ms": 172341,
+      "name": "Cokolwiek powiesz",
+      "url": "https://open.spotify.com/track/0mfq7Bpdrw7bf5qM4yx7pH"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Wiatr",
+        "url": "https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Wiatr",
+      "url": "https://open.spotify.com/track/3KWWFT878MW91P22IealNu"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "duration_ms": 215581,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Kto pokocha?",
+        "url": "https://open.spotify.com/album/203N5GVJL0HDegUZFiqRBo"
+      },
+      "artists": [
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        },
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "duration_ms": 206446,
+      "name": "Kto pokocha?",
+      "url": "https://open.spotify.com/track/3WkL7CwHF9ixWf2SNPEyRU"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Stworzyciele",
+        "url": "https://open.spotify.com/album/0uniNKX0fPlYUslenmaNu2"
+      },
+      "artists": [
+        {
+          "name": "Wishlake",
+          "url": "https://open.spotify.com/artist/3oEXMAInmcKoggPiSIxsSx"
+        },
+        {
+          "name": "WASILEWSKI",
+          "url": "https://open.spotify.com/artist/1Kede7dhODygxBDvVdkXuf"
+        }
+      ],
+      "duration_ms": 290546,
+      "name": "Stworzyciele",
+      "url": "https://open.spotify.com/track/4Cvhe1bo6dB0QWEDssf14O"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Burza",
+        "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Burza",
+      "url": "https://open.spotify.com/track/6h3L8AkFybirvQjJKCDQ5n"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Pastelowe Kredki",
+        "url": "https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN"
+      },
+      "artists": [
+        {
+          "name": "Slavic DAMA",
+          "url": "https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz"
+        },
+        {
+          "name": "Mikolaj Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Pastelowe Kredki",
+      "url": "https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Czu\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        }
+      ],
+      "duration_ms": 337952,
+      "name": "Czu\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Etiuda Zimowa 2",
+        "url": "https://open.spotify.com/album/2WSaLg6WfhGRh5d6nBeJk5"
+      },
+      "artists": [
+        {
+          "name": "LemON",
+          "url": "https://open.spotify.com/artist/3B4XG3HanBgkVOybc89Q3T"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Przez zaspy",
+      "url": "https://open.spotify.com/track/5l9eZGz9YG8gtqgBTGc8RQ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Zaspy",
+        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "Zaspy",
+      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Not My First Rodeo",
+        "url": "https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Gdzie jeste\u015b?",
+        "url": "https://open.spotify.com/album/3voZHXvAISl9CcTrlKmkKI"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 168800,
+      "name": "Gdzie jeste\u015b?",
+      "url": "https://open.spotify.com/track/6yK1ZycVo0MosTE3lBB29c"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Prosta Sprawa (Muzyka i piosenki z serialu)",
         "url": "https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr"
@@ -249,43 +425,23 @@
       "url": "https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Wszystko w swoim czasie",
-        "url": "https://open.spotify.com/album/7qGVkSKMJ4PCOCyA9PJZWn"
+        "name": "Daleko st\u0105d",
+        "url": "https://open.spotify.com/album/6mSqRLq4Ju5SVHlNFIJQzS"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "Dziwna Wiosna",
+          "url": "https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML"
         }
       ],
-      "duration_ms": 149093,
-      "name": "Rzeka",
-      "url": "https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd"
+      "duration_ms": 271725,
+      "name": "Daleko st\u0105d",
+      "url": "https://open.spotify.com/track/5V8OKHgCznsrd5eCqUdwIe"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 215581,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "WYJECHA\u0106",
         "url": "https://open.spotify.com/album/4HGTuhODapyKWHtpcx24uh"
@@ -301,7 +457,7 @@
       "url": "https://open.spotify.com/track/5AXyWyvqBlxaoH4Upu6RK1"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Puch",
         "url": "https://open.spotify.com/album/5x9Df8HWz68ApKZuqa7VU4"
@@ -317,7 +473,7 @@
       "url": "https://open.spotify.com/track/6AizyAFaymmBhE1oSilknl"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "ROUTE",
         "url": "https://open.spotify.com/album/6xVfZVtGzXAl00MP7PW3UK"
@@ -337,7 +493,23 @@
       "url": "https://open.spotify.com/track/4QZZUuyvuDTwaMKfxIdTev"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "P\u0142on\u0119",
+        "url": "https://open.spotify.com/album/3opZn7ympZZk08AdkIoFMt"
+      },
+      "artists": [
+        {
+          "name": "Andrzej Mrozek",
+          "url": "https://open.spotify.com/artist/2bxgybC74rbB1a2j5b4hK3"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "P\u0142on\u0119",
+      "url": "https://open.spotify.com/track/58IM6iYUHnpLleCBHUrQ87"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Mieszane Uczucia",
         "url": "https://open.spotify.com/album/3ibZA1MhUoV4YNX5N0hYor"
@@ -353,7 +525,7 @@
       "url": "https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Trzykropek (Radio Edit)",
         "url": "https://open.spotify.com/album/0IZeLDI0wHC48ITh4uT13O"
@@ -369,7 +541,7 @@
       "url": "https://open.spotify.com/track/168zRxI9gxU30q03lsyIUG"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Najbardziej lubi\u0119 ten moment",
         "url": "https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz"
@@ -385,7 +557,23 @@
       "url": "https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "diament (bedroom version)",
+        "url": "https://open.spotify.com/album/1ajDa0Nns7meDX8LT63McH"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "diament - bedroom version",
+      "url": "https://open.spotify.com/track/6Qr0Cb7JYETcqQUyBX671r"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Topiel",
         "url": "https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt"
@@ -401,7 +589,7 @@
       "url": "https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Jak smakuje pe\u0142nia",
         "url": "https://open.spotify.com/album/6DNblaLh7vFum5LPRSatUs"
@@ -417,7 +605,23 @@
       "url": "https://open.spotify.com/track/2R2upuEJeoEfS5frDFbJ1h"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "CRY BABY",
+        "url": "https://open.spotify.com/album/2CmidjsU4EarXxYQCHMzPq"
+      },
+      "artists": [
+        {
+          "name": "Ky\u00f6ku",
+          "url": "https://open.spotify.com/artist/5NfNtIDD7hUBI7FFt6G96U"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "CRY BABY",
+      "url": "https://open.spotify.com/track/6TH8mq62VhI5wJ3XdOnHI2"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "to ja",
         "url": "https://open.spotify.com/album/4D6cPkU2VbZyXuHEGHHm89"
@@ -433,7 +637,7 @@
       "url": "https://open.spotify.com/track/4Q5uAS1kCFYHaGAiWzvIqY"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Dla siebie",
         "url": "https://open.spotify.com/album/0VdPiSoQkfhOfCkDWqhRDT"
@@ -449,7 +653,23 @@
       "url": "https://open.spotify.com/track/1wceoqd7eJ8uqwcajy2xwL"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Udawajka",
+        "url": "https://open.spotify.com/album/169InjOfzsDyIc8FDnyWWV"
+      },
+      "artists": [
+        {
+          "name": "Dure\u0144",
+          "url": "https://open.spotify.com/artist/2xFCNJxPF8BceY47fJ8DQC"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Udawajka",
+      "url": "https://open.spotify.com/track/523UuuvEltKth5OWuvGeyD"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Kocha\u0142am Ci\u0119 na zab\u00f3j",
         "url": "https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE"
@@ -465,7 +685,7 @@
       "url": "https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "z\u0142y",
         "url": "https://open.spotify.com/album/2OYVhUNdJd910EQCkfYwWJ"
@@ -485,7 +705,7 @@
       "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "nie p\u0142acz dziewczyno",
         "url": "https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo"
@@ -505,7 +725,7 @@
       "url": "https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Nieromantycznie EP",
         "url": "https://open.spotify.com/album/2CMWbo5tugvoOR3DRe4o4i"
@@ -521,7 +741,7 @@
       "url": "https://open.spotify.com/track/0zk8uUPNjUXBDglEcXD2h7"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "JOMO",
         "url": "https://open.spotify.com/album/4Xw1E1EFjtyZVsWqEj3Nx0"
@@ -537,7 +757,7 @@
       "url": "https://open.spotify.com/track/4nomjBYQT8Lp2EiC8rjE0p"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "hajs",
         "url": "https://open.spotify.com/album/39Kbkp03IC8pcWasjEQuF1"
@@ -553,7 +773,7 @@
       "url": "https://open.spotify.com/track/39c5cSDxIwY1x7NYJ5kojl"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Doskonale",
         "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
@@ -573,7 +793,7 @@
       "url": "https://open.spotify.com/track/4L9JJOlYvfzDAGnV8zHuQG"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "My Name Is Pozna\u0144 3.0",
         "url": "https://open.spotify.com/album/3DP9655A8MNvnhAvym5JW8"
@@ -593,7 +813,7 @@
       "url": "https://open.spotify.com/track/1EXxX7SXfUiCNezaci1U0c"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
@@ -613,7 +833,7 @@
       "url": "https://open.spotify.com/track/5D0LkRzR101V4cQWUUCp7l"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "SPOJLER",
         "url": "https://open.spotify.com/album/1ARrloyMRDQpOXypu6OfaT"
@@ -629,23 +849,7 @@
       "url": "https://open.spotify.com/track/3OjpV1ieYNixUfvTraayEB"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Lew Love",
-        "url": "https://open.spotify.com/album/6EznRuG9SF9sta7RuaxHpI"
-      },
-      "artists": [
-        {
-          "name": "Winogradzki Lew",
-          "url": "https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Ogie\u0144",
-      "url": "https://open.spotify.com/track/3f6mVauq5KUwhufjtpD4CD"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Close to You BB",
         "url": "https://open.spotify.com/album/6ZXbOp03DAHIMZvaOpLoyl"
@@ -665,7 +869,7 @@
       "url": "https://open.spotify.com/track/6S6fBW7yktXIap1BTzOxgx"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "KOI-4427.01",
         "url": "https://open.spotify.com/album/1iJ8EaRAE5jmHjJOZuDzh0"
@@ -685,7 +889,7 @@
       "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Cod Liver Oil, Garlic and Wine",
         "url": "https://open.spotify.com/album/4raLzRFC3lpqYQcaKAuvhB"
@@ -705,7 +909,7 @@
       "url": "https://open.spotify.com/track/2icKV2IiIDcHMyA210s3zE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "o nas bez nas",
         "url": "https://open.spotify.com/album/43kK1deGcRAXISmlcodlJS"
@@ -721,7 +925,7 @@
       "url": "https://open.spotify.com/track/4bwOxPLK7gLKJmjsz9QpaX"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Rutyna nie ma z nami szans",
         "url": "https://open.spotify.com/album/0dqo0MWzH0O6g2WmWQ3Pfj"
@@ -741,23 +945,7 @@
       "url": "https://open.spotify.com/track/5XQTa9vVndRolWsxH2GJqP"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Hibernacja",
-        "url": "https://open.spotify.com/album/1mgM8Ya1EtU3fN4pzwA710"
-      },
-      "artists": [
-        {
-          "name": "Zuzanna Malisz",
-          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Hibernacja",
-      "url": "https://open.spotify.com/track/7sBcbzMx3j2ODGZlKGFR26"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "SAGA",
         "url": "https://open.spotify.com/album/5nOZZvujk8GQaJ6CocQVL4"
@@ -773,7 +961,7 @@
       "url": "https://open.spotify.com/track/4pUYX3dI6tKqfYx1SV75RX"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Go\u0144",
         "url": "https://open.spotify.com/album/6oBHWhPGs99hLZSWX00xjQ"
@@ -797,7 +985,7 @@
       "url": "https://open.spotify.com/track/5omh3aRPMa7AVk9wzpiO9S"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Jak naprawi\u0107 g\u0142ow\u0119",
         "url": "https://open.spotify.com/album/6T02S4fQbsxKVu0itTiXQz"
@@ -813,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4n38zujlnodwKy1YTkCZNx"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Czas si\u0119 ba\u0107!",
         "url": "https://open.spotify.com/album/0w9EUriZX10WQqy70TZ13F"
@@ -837,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2kqVXQ0xLYvkLUqgbBObHu"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ludzie z cukru",
         "url": "https://open.spotify.com/album/1WEmH3H9Ks1WHUEH0rd7Wv"
@@ -853,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7f4Dvfkxluuu8ycrH16MZS"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Philip",
         "url": "https://open.spotify.com/album/3KsjkBEFpcpzLaTSdCggEz"
@@ -869,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0ORppj9PP9tmgXkyKJkfPg"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Simona",
         "url": "https://open.spotify.com/album/7lz8SxyftfrKWZT5grnRRm"
@@ -885,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3G0Jbrym87oRSiCXm89g4E"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Wszystko jedno",
         "url": "https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I"
@@ -901,31 +1089,7 @@
       "url": "https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Przeczekajmy Tu (Muzyka z serialu Prosta Sprawa)",
-        "url": "https://open.spotify.com/album/6JYkrcQrFGNIOXoD7ixiQI"
-      },
-      "artists": [
-        {
-          "name": "Prosta Sprawa",
-          "url": "https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT"
-        },
-        {
-          "name": "K\u0118PI\u0143SKI KOWALONEK",
-          "url": "https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk"
-        },
-        {
-          "name": "Micha\u0142 Kowalonek",
-          "url": "https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O"
-        }
-      ],
-      "duration_ms": 277081,
-      "name": "Przeczekajmy Tu",
-      "url": "https://open.spotify.com/track/5vLY0uUmWZ3By9qlGXPpC8"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Tym razem naprawd\u0119",
         "url": "https://open.spotify.com/album/7psoqs6YzC1QPjWsLBLRQL"
@@ -945,7 +1109,7 @@
       "url": "https://open.spotify.com/track/78DA57tocTCc1A6KmtR3pf"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Patrz",
         "url": "https://open.spotify.com/album/75H3ESOsR3Y4e3XefaRasA"
@@ -961,39 +1125,7 @@
       "url": "https://open.spotify.com/track/4wyoJdxjDBYmUiH87bfThq"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Cudze rady psuj\u0105 mi \u017cycie",
-        "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
-      },
-      "artists": [
-        {
-          "name": "Bogdan Kondracki",
-          "url": "https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0"
-        }
-      ],
-      "duration_ms": 182833,
-      "name": "Sze\u015b\u0107 \u015awi\u0144",
-      "url": "https://open.spotify.com/track/4HrgQtkyc7V2KXx8n78ckF"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Tu (chcia\u0142bym wr\u00f3ci\u0107)",
-        "url": "https://open.spotify.com/album/0UljJW6XBDXqksj3hAfw2g"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 238081,
-      "name": "Tu (chcia\u0142bym wr\u00f3ci\u0107)",
-      "url": "https://open.spotify.com/track/1gdxDK4TqduqX7TsMI2gGG"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "To nie najlepszy czas dla wra\u017cliwych ludzi",
         "url": "https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV"
@@ -1009,7 +1141,7 @@
       "url": "https://open.spotify.com/track/7JEirX2SKKIChDNk3iwbhE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Zosta\u0107 Tu",
         "url": "https://open.spotify.com/album/1tukBpUmCGFT2ZHQOpyirS"
@@ -1025,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2Rkl2ZhuVs7sVWnPo8Luve"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ta\u0144cz\u0119 do Ciebie",
         "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
@@ -1045,7 +1177,7 @@
       "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Odkrywanie",
         "url": "https://open.spotify.com/album/6lO7fYnaUj5oluzLnix7Xv"
@@ -1061,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2bGupEfDvXCfNtHkFmo1GX"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Na Dwoje Lampa \u015awieci\u0142a",
         "url": "https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn"
@@ -1077,7 +1209,7 @@
       "url": "https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Dobrostan",
         "url": "https://open.spotify.com/album/7ceGAAkYLx3kIppeHjuibV"
@@ -1097,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5spcXc9GLGoxb2VHhyF2zT"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "GOTIK LOLITA",
         "url": "https://open.spotify.com/album/6C1ICbqY31hSwmGuug4Uou"
@@ -1113,39 +1245,7 @@
       "url": "https://open.spotify.com/track/0Xxgk9nnMhIFu5zwm6XPRW"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Rok trzeci",
-        "url": "https://open.spotify.com/album/4GfmCuImY3WgTuo5qvsdF1"
-      },
-      "artists": [
-        {
-          "name": "BAiKA",
-          "url": "https://open.spotify.com/artist/42T9pQeSYn2olQmVFSXZJc"
-        }
-      ],
-      "duration_ms": 232083,
-      "name": "Rok trzeci",
-      "url": "https://open.spotify.com/track/03rZXStWx0Ik0Af6tLOYEl"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "W naturze nic nie ginie",
-        "url": "https://open.spotify.com/album/3MOCSBbAOYCVsiUAi8RkB0"
-      },
-      "artists": [
-        {
-          "name": "Jagoda Kret",
-          "url": "https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3"
-        }
-      ],
-      "duration_ms": 205750,
-      "name": "W naturze nic nie ginie",
-      "url": "https://open.spotify.com/track/6ww0IlGKgTHN1E3a9IugAc"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Bezsenni (Re: Krawczyk)",
         "url": "https://open.spotify.com/album/659DUDgTqxXgtWLq5L7OHA"
@@ -1169,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2sJe6aiGaUxyrAjr8AkQQi"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "P\u0142yn\u0119",
         "url": "https://open.spotify.com/album/6RnfdSXx6iLFPrIaXYLa5v"
@@ -1193,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0fl1GG395icBH50RuGM93R"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Zima",
         "url": "https://open.spotify.com/album/3FwdYr7JH0uddOIiyKizw2"
@@ -1213,7 +1313,7 @@
       "url": "https://open.spotify.com/track/6X0Sj5M2LyBFvCDvm4J9m2"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ta\u0144ce na Modlinie",
         "url": "https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf"
@@ -1229,23 +1329,7 @@
       "url": "https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Sto lat samotno\u015bci",
-        "url": "https://open.spotify.com/album/1ikg3MsoejZTS4qAxN03Mp"
-      },
-      "artists": [
-        {
-          "name": "Justyna Chachu\u0142a",
-          "url": "https://open.spotify.com/artist/2WdpNeH1gL5a2udTuOAwZk"
-        }
-      ],
-      "duration_ms": 185130,
-      "name": "Trwa\u0142o to d\u0142ugo",
-      "url": "https://open.spotify.com/track/1d7QcqumvzdBbH5vXj9jxE"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Po burzy",
         "url": "https://open.spotify.com/album/7r7qJVTQqgGYCR6kwIIvla"
@@ -1261,7 +1345,7 @@
       "url": "https://open.spotify.com/track/5OUnE4vseamGcAy0O3uzRh"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Farewell",
         "url": "https://open.spotify.com/album/5xXAKv0SiTYNADJqivHMzV"
@@ -1285,23 +1369,7 @@
       "url": "https://open.spotify.com/track/7jcPNp5rfCtGFEhJGKtu4J"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Ostatni tramwaj",
-        "url": "https://open.spotify.com/album/39qtj4gY8cidDfDGsyQZqu"
-      },
-      "artists": [
-        {
-          "name": "hugo",
-          "url": "https://open.spotify.com/artist/6CqTCNzbNNnLKJVFROmqty"
-        }
-      ],
-      "duration_ms": 276842,
-      "name": "Ostatni tramwaj",
-      "url": "https://open.spotify.com/track/5XKtclBjQq7S757gWahMAS"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Jako\u015b mi l\u017cej",
         "url": "https://open.spotify.com/album/7lJOIwXfKVPCQn5JrUwHn6"
@@ -1317,7 +1385,7 @@
       "url": "https://open.spotify.com/track/5kGW4yoERQm8dYHyDaRROJ"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "BEZ TRZYMANKI",
         "url": "https://open.spotify.com/album/6cYcT2tNQ0BYGE491z8z8T"
@@ -1333,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1jgfCJsrijrIx8goq1wfl4"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Pierwsza P\u0142yta",
         "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
@@ -1353,7 +1421,7 @@
       "url": "https://open.spotify.com/track/2rLlVYI0UFrMDU4xfcZdVB"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "parasol",
         "url": "https://open.spotify.com/album/56fkaFJUpQ47XriXEbTHqa"
@@ -1369,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6alJAmpYqrl0m6vIIKXwBX"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Nazywam si\u0119 niebo (rework 10 lat albumu Pr\u0105d)",
         "url": "https://open.spotify.com/album/2cVyYHf1J6dx5cQTYZhF5c"
@@ -1389,47 +1457,7 @@
       "url": "https://open.spotify.com/track/08yRQudHsDYsTdG3GsBccP"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Nie gotujemy (live orkiestra)",
-        "url": "https://open.spotify.com/album/1sMGvopVvOGXxMoblAaVot"
-      },
-      "artists": [
-        {
-          "name": "The Dumplings",
-          "url": "https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4"
-        }
-      ],
-      "duration_ms": 248715,
-      "name": "Nie gotujemy - live orkiestra",
-      "url": "https://open.spotify.com/track/2wZ53VTwW1ODxkXieoSNBa"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Powiedz mi jak?",
-        "url": "https://open.spotify.com/album/2dUe7bVGnGHdzZ9pmdOc6S"
-      },
-      "artists": [
-        {
-          "name": "DOBRY",
-          "url": "https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X"
-        },
-        {
-          "name": "Kuba Gali\u0144ski",
-          "url": "https://open.spotify.com/artist/2oR9K6tG6QppRoYYkDBpDo"
-        },
-        {
-          "name": "Piotr Fronczewski",
-          "url": "https://open.spotify.com/artist/45gKB5AD7ADgQJUZNNPIXm"
-        }
-      ],
-      "duration_ms": 228369,
-      "name": "Powiedz mi jak?",
-      "url": "https://open.spotify.com/track/4RKILntw38FZRyfOU6VGUt"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "ch*jowy film",
         "url": "https://open.spotify.com/album/1ogsDLvNbvWEbyRYaCo1Yg"
@@ -1445,7 +1473,7 @@
       "url": "https://open.spotify.com/track/4qytdAT11E25cYbAU4tFHg"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Rani\u0119",
         "url": "https://open.spotify.com/album/5EBeXzw6JrAfA6C5DiTQVq"
@@ -1461,7 +1489,7 @@
       "url": "https://open.spotify.com/track/6NXazZRyqTvVUqiFJ16l7A"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "z papieru",
         "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
@@ -1477,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Kasia i B\u0142a\u017cej",
         "url": "https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi"
@@ -1497,39 +1525,7 @@
       "url": "https://open.spotify.com/track/6eNvSpo15LMlNvZ35pduni"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "urywki",
-        "url": "https://open.spotify.com/album/4aE6ZaFWZNhSpg2fDgWORu"
-      },
-      "artists": [
-        {
-          "name": "mop",
-          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
-        }
-      ],
-      "duration_ms": 206788,
-      "name": "urywki",
-      "url": "https://open.spotify.com/track/2IvqPWjG59ay9UAl0G9oVE"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Tutaj si\u0119 nie ta\u0144czy",
-        "url": "https://open.spotify.com/album/40HaGjml5r2emyUvYDHMen"
-      },
-      "artists": [
-        {
-          "name": "Ranko Ukulele",
-          "url": "https://open.spotify.com/artist/0tfJBHQtndZAeilrnJfJSC"
-        }
-      ],
-      "duration_ms": 172195,
-      "name": "Tutaj si\u0119 nie ta\u0144czy",
-      "url": "https://open.spotify.com/track/1V13KaaaMyPg8YjQLgf2qj"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Moja i Twoja nadzieja",
         "url": "https://open.spotify.com/album/0gQszvMVFzzOvFjFit9XnV"
@@ -1621,7 +1617,7 @@
       "url": "https://open.spotify.com/track/0RTVDJtAC04Hzx52c0B1gU"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "\u017bony Hollywood",
         "url": "https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW"
@@ -1637,7 +1633,7 @@
       "url": "https://open.spotify.com/track/1cMJPa55C62HlcQRFw0Hjj"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "HAPI",
         "url": "https://open.spotify.com/album/4QiBRzQmuzi1fSl9QeMMRQ"
@@ -1657,7 +1653,7 @@
       "url": "https://open.spotify.com/track/4DTYjZ5dWFa39MKY4dv7k8"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Z\u0142ote \u0142ezki",
         "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
@@ -1677,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "I store my fear and my pain in the nape of my neck",
         "url": "https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP"
@@ -1693,7 +1689,7 @@
       "url": "https://open.spotify.com/track/1EmDi8X1q2vwLVQ3mcKNVt"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
         "url": "https://open.spotify.com/album/3BHMi7fHjXFmQsTFx6DviT"
@@ -1709,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1AYzYoqkHWJKWkrhD9lH56"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Od jutra zaczn\u0119 si\u0119 modli\u0107",
         "url": "https://open.spotify.com/album/1exMof1QSx2gzJW3qiO86O"
@@ -1725,7 +1721,7 @@
       "url": "https://open.spotify.com/track/3sX1KgURKWdt92RNy35Hhj"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Kadr",
         "url": "https://open.spotify.com/album/2d2oNQGsGKgSj1Pl6qGGEe"
@@ -1741,7 +1737,7 @@
       "url": "https://open.spotify.com/track/4ZO1OxzqSIPlJCkrLCln7U"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Czas si\u0119 ba\u0107! (Akt II)",
         "url": "https://open.spotify.com/album/1UUVdPE6Puv3oC6KwERvRU"
@@ -1761,7 +1757,7 @@
       "url": "https://open.spotify.com/track/2Ug5alwLaG2oDaUa7D4mtg"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Neonova",
         "url": "https://open.spotify.com/album/2HdSNW4w2d5ZiC3ucoaYPl"
@@ -1785,7 +1781,7 @@
       "url": "https://open.spotify.com/track/1z4PbnE6ez7F4hhiy0v4HK"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Bambini di mare",
         "url": "https://open.spotify.com/album/1zMeQnftDE9QXOGvxOHx0j"
@@ -1805,7 +1801,7 @@
       "url": "https://open.spotify.com/track/4iJiCY1KMyl3ad4G1FE4Lf"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Chcia\u0142bym z tob\u0105 stworzy\u0107 dom",
         "url": "https://open.spotify.com/album/2jOsRaff9JdPptWJhU3GKI"
@@ -1821,7 +1817,7 @@
       "url": "https://open.spotify.com/track/5CEkcTSgwfGpInXUaPTBXZ"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Rzeka kt\u00f3ra p\u0142ynie w dw\u00f3ch kierunkach",
         "url": "https://open.spotify.com/album/4PQjMWH0ZCnRnv6W5OWA5d"
@@ -1837,7 +1833,7 @@
       "url": "https://open.spotify.com/track/1HNWsc23Iv10syDf6qdZmY"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Po co mi to?",
         "url": "https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m"
@@ -1853,7 +1849,7 @@
       "url": "https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr"
     },
     {
-      "added_at": "2024-11-28 23:00:00",
+      "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Ostatnie",
         "url": "https://open.spotify.com/album/50bgloJFexhFH0LijSJaL0"

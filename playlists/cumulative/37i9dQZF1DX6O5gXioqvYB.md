@@ -2,9 +2,9 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Angelica Bove
+> La nuova scena indie italiana! Cover: Giulia Mei
 
-236 songs - 11 hr 35 min
+238 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [BELLA BALLA](https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1) | [Questo e Quello](https://open.spotify.com/artist/5b5R5uVklKSNErPuNTyuyI), [Francesco Mannella](https://open.spotify.com/artist/51SSin2alKwFv9IJRSMvv7), [Stefano](https://open.spotify.com/artist/4aaZayLUCwWMw5ks67GyyW) | [BELLA BALLA](https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp) | 2:56 | 2024-11-14 |  |
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [bimbapazza](https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1) | [sonoalaska](https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP) | [bimbapazza](https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg) | 2:21 | 2024-11-21 |  |
+| [brivido](https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [brivido](https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT) | 2:38 | 2024-12-05 |  |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
 | [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 | 2024-12-05 |
@@ -106,7 +107,7 @@
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
 | [Le nonne e le chiese](https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH) | [dimaggio](https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l) | [Le nonne e le chiese](https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P) | 4:22 | 2024-10-17 |  |
-| [lecosepeggiori](https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [lecosepeggiori](https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn) | 2:50 | 2024-11-07 |  |
+| [lecosepeggiori](https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [lecosepeggiori](https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn) | 2:50 | 2024-11-07 | 2024-12-06 |
 | [LEI](https://open.spotify.com/track/7uVpOf4K7e7v2Z7gDF5yJp) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [LEI](https://open.spotify.com/album/2Yx15AcchXUF7SiwyKkPuw) | 2:54 | 2024-11-21 |  |
 | [Limiti](https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o) | [Sangi](https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb) | [Limiti](https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W) | 2:19 | 2024-07-04 | 2024-07-27 |
 | [Lindacolei](https://open.spotify.com/track/0P2EOU8FDTcdPqasxgyy3N) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [Lindacolei](https://open.spotify.com/album/6UdydwbsRth1xW9OtqqJwk) | 3:20 | 2024-11-21 |  |
@@ -156,6 +157,7 @@
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 | 2024-11-15 |
 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 | 2024-10-30 |
 | [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 | 2024-09-27 |
+| [Parole vuote](https://open.spotify.com/track/6MQnM3ZlwwHvdOK943PUNz) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU) | [Parole vuote](https://open.spotify.com/album/3wLhirtvIbXJMZAq2MhubF) | 2:58 | 2024-12-05 |  |
 | [PARTITA A SCACCHI](https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [PARTITA A SCACCHI](https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49) | 3:08 | 2024-10-10 |  |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 |  |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
@@ -222,7 +224,7 @@
 | [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 | 2024-09-26 | 2024-10-01 |
 | [tutte le tue onde](https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [tutte le tue onde](https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi) | 2:24 | 2024-09-05 |  |
 | [tuttoaposto](https://open.spotify.com/track/651BJ5dPNUhbW8n4KXhDla) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [tuttoaposto](https://open.spotify.com/album/5YHA9Jty2aXbaZDzY0arMA) | 3:03 | 2024-06-27 | 2024-07-05 |
-| [tuxtu](https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tuxtu](https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu) | 2:44 | 2024-11-14 |  |
+| [tuxtu](https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2) | [Parrelle](https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx) | [tuxtu](https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu) | 2:44 | 2024-11-14 | 2024-12-06 |
 | [Tè al limone](https://open.spotify.com/track/01MUVpv95WyB9h4eP5kY78) | [NYX](https://open.spotify.com/artist/1RzE3e8u66CAb4tAyhqK6i) | [Tè al limone](https://open.spotify.com/album/2JxjXBj48mmkjhoRibh0VR) | 2:51 | 2024-06-27 | 2024-07-12 |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-07-04 | 2024-10-25 |
 | [Un Altro Giro](https://open.spotify.com/track/6Da8hRd6GzbBYtjBtSyR1f) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Un Altro Giro](https://open.spotify.com/album/7maR5YIcAUKBY3YzfYucQ9) | 2:26 | 2024-06-27 | 2024-07-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jaivah",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 273438,
       "name": "BADO",
       "url": "https://open.spotify.com/track/5weEvxkYrCYyNSsPLOg8Qa"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 202683,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/4HU8Lq2LQZxiUTlkKXZzId"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 180530,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/1lenhwtsu7WRv847HumXE0"
@@ -3519,6 +3519,28 @@
     },
     {
       "album": {
+        "name": "Kubaya",
+        "url": "https://open.spotify.com/album/1Nq1KOinn0gaqgctW91fsJ"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        },
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277766,
+      "name": "Kubaya",
+      "url": "https://open.spotify.com/track/1anC3aZ4cb3dfLgwOfUpib"
+    },
+    {
+      "album": {
         "name": "Kufuli",
         "url": "https://open.spotify.com/album/0Va6eNgw90XvaIOcZP4JEr"
       },
@@ -3774,6 +3796,28 @@
       "duration_ms": 203022,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/5vtz8vv7tfDPGlJGx1rEz7"
+    },
+    {
+      "album": {
+        "name": "Air Piano",
+        "url": "https://open.spotify.com/album/2Xwr753ZeOGFNoOCCrDBKZ"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171442,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/6icUvQpBfT8bqj9cYGGnG5"
     },
     {
       "album": {
@@ -5191,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Nafunga Mwaka",
+        "url": "https://open.spotify.com/album/1VcdR7v9dKUUZ2IWUi7ur2"
+      },
+      "artists": [
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175829,
+      "name": "Nafunga Mwaka",
+      "url": "https://open.spotify.com/track/1M3ICM2DALtaw0FKnXlnTa"
+    },
+    {
+      "album": {
         "name": "Nakuja",
         "url": "https://open.spotify.com/album/4iaHJ3zRqwOELpHOZzFTqV"
       },
@@ -6540,6 +6602,24 @@
     {
       "album": {
         "name": "Okay",
+        "url": "https://open.spotify.com/album/7wt6uu5it7TniGsatpOgKb"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/5wY9TuRcJ5G9gz7SpqMzSW"
+    },
+    {
+      "album": {
+        "name": "Okay",
         "url": "https://open.spotify.com/album/3h3wSoFadNAYHiEF0XpRGj"
       },
       "artists": [
@@ -7390,7 +7470,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 256991,
       "name": "Sensema",
       "url": "https://open.spotify.com/track/47YW5xYtmIKd6yD5GUG0sM"
@@ -9246,7 +9326,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 220000,
       "name": "Wa Wa Wa",
       "url": "https://open.spotify.com/track/6PBmmrtsz5tEpHzTm0NY7V"
@@ -9979,6 +10059,58 @@
     },
     {
       "album": {
+        "name": "ZAKA",
+        "url": "https://open.spotify.com/album/4wHMFbVLwQ2sEW2D5n9Wxi"
+      },
+      "artists": [
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Bellinda Chester",
+          "url": "https://open.spotify.com/artist/7g7cmtVdJJIamqb8YvdRW4"
+        },
+        {
+          "name": "Manu WorldStar",
+          "url": "https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339823,
+      "name": "ZAKA",
+      "url": "https://open.spotify.com/track/2rkgE4qf4RnjamJHveB4lX"
+    },
+    {
+      "album": {
+        "name": "Zali",
+        "url": "https://open.spotify.com/album/5dSFAzeP8Dlrj8YQzOHTgt"
+      },
+      "artists": [
+        {
+          "name": "Dully Sykes",
+          "url": "https://open.spotify.com/artist/0gy6YVLQnEbSdWzxap1ue6"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171285,
+      "name": "Zali",
+      "url": "https://open.spotify.com/track/44NTQ4RN0gDj6Y4mOL8gj2"
+    },
+    {
+      "album": {
         "name": "Zamani",
         "url": "https://open.spotify.com/album/4Yzel0DLrBCXK5wILa8deq"
       },
@@ -10052,7 +10184,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 210750,
       "name": "Zawadi (feat. Dadiposlim)",
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"

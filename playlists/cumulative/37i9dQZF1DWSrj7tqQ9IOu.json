@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Miki",
+  "description": "The best French indie tracks right now. Cover : Miel De Montagne",
   "name": "Made in France",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 180624,
       "name": "Adieu Cl\u00e9mence",
       "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203500,
       "name": "Baby, Come Over Tonight",
       "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
@@ -1087,6 +1087,32 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/1WqnhdEIciecoyWVYeJzEE"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/3TrgYexdOmHSvWJ7DRfoG6"
+    },
+    {
+      "album": {
         "name": "Burning House",
         "url": "https://open.spotify.com/album/6De2kkNHabZmLoTcTdLvf8"
       },
@@ -1276,6 +1302,24 @@
       "duration_ms": 170000,
       "name": "C'est ton truc",
       "url": "https://open.spotify.com/track/21cdxCXMIgweW3yZuWNn5V"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/5pXtbSQZbOvH4B0Najx5a8"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134045,
+      "name": "California",
+      "url": "https://open.spotify.com/track/1h7Re5gO1yifWWp1edXmIn"
     },
     {
       "album": {
@@ -2185,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Destruction",
+        "url": "https://open.spotify.com/album/4GRMWv6L9ldKlWib2VH59C"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149130,
+      "name": "Destruction",
+      "url": "https://open.spotify.com/track/5UXWE2YprzKonI14ZIB4Sd"
+    },
+    {
+      "album": {
         "name": "Dictators",
         "url": "https://open.spotify.com/album/3XHMx2QAx1xoRdetbEGVfZ"
       },
@@ -2504,6 +2566,24 @@
       "duration_ms": 224000,
       "name": "D\u00e9samour",
       "url": "https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/45E0UFc4udoOaeNiPN4eOB"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/7aQfuGKbdDyTK1JCYzK4NJ"
     },
     {
       "album": {
@@ -3358,7 +3438,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 190500,
       "name": "Golden Bay",
       "url": "https://open.spotify.com/track/7hB9Efd9KkapvHfjpzPUu8"
@@ -4755,6 +4835,28 @@
     },
     {
       "album": {
+        "name": "La ca\u00efpi",
+        "url": "https://open.spotify.com/album/3S575RwsrSzbqrXr5RNaVl"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        },
+        {
+          "name": "Pierre Grizzli",
+          "url": "https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211966,
+      "name": "La ca\u00efpi",
+      "url": "https://open.spotify.com/track/5oiE5RVpzoqLGnnN3ljPP1"
+    },
+    {
+      "album": {
         "name": "La Cigarette",
         "url": "https://open.spotify.com/album/0ARlPPW0bGaasKWzcZC9Px"
       },
@@ -5976,7 +6078,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 203133,
       "name": "Minuit sur le balcon",
       "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
@@ -6204,7 +6306,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 213880,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
@@ -6624,6 +6726,24 @@
       "duration_ms": 214000,
       "name": "NOT WHAT YOU WANTED",
       "url": "https://open.spotify.com/track/0d7LopGyWjUsXKCeKOEJzO"
+    },
+    {
+      "album": {
+        "name": "Nouveau d\u00e9part",
+        "url": "https://open.spotify.com/album/5F8J6TG8vHp9YWsLSoDLNK"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197414,
+      "name": "Nouveau d\u00e9part",
+      "url": "https://open.spotify.com/track/6Be312SFmugZFtSMY22J3K"
     },
     {
       "album": {
@@ -8879,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "T PAS SI BO",
+        "url": "https://open.spotify.com/album/7lkIqJwjswavQGu4eW0KNz"
+      },
+      "artists": [
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131119,
+      "name": "T PAS SI BO",
+      "url": "https://open.spotify.com/track/2vA0ne4qtPRdQelgpOd33j"
+    },
+    {
+      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7"
       },
@@ -9886,7 +10024,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 176743,
       "name": "Viens on prend le temps",
       "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
@@ -10126,7 +10264,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 243827,
       "name": "When You Keep Running",
       "url": "https://open.spotify.com/track/4BK2Ahjaain3jpUeOWaIfO"

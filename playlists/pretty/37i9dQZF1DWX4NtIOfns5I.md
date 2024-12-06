@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > searows and a cinnamon scented candle burning 🕯️🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,663 likes - 118 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,796 likes - 118 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

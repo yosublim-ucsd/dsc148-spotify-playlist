@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Anla\u015f\u0131l\u0131r Tabii",
+        "url": "https://open.spotify.com/album/6M3nG1jRfGDuTWGNeavdOo"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00c7alkan",
+          "url": "https://open.spotify.com/artist/40nToqTbZUUXhFhx4zkbD3"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234815,
+      "name": "Anla\u015f\u0131l\u0131r Tabii",
+      "url": "https://open.spotify.com/track/4iHS5earH363cx54IhEExy"
+    },
+    {
+      "album": {
         "name": "Asi",
         "url": "https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5"
       },
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 152699,
       "name": "S\u00f6yle",
       "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"

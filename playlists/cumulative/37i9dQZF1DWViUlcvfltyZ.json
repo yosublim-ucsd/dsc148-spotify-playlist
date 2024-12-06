@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Post Nebbia in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Les Votives in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -6039,6 +6039,24 @@
     },
     {
       "album": {
+        "name": "El Me Moro",
+        "url": "https://open.spotify.com/album/1XDROOAgLBPOzYabr2l8b9"
+      },
+      "artists": [
+        {
+          "name": "Elli de Mon",
+          "url": "https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291612,
+      "name": "El Me Moro",
+      "url": "https://open.spotify.com/track/7sKmVmMOpQYwjORN8PgkGE"
+    },
+    {
+      "album": {
         "name": "ELDORADO",
         "url": "https://open.spotify.com/album/3ulCBcf0ZrlCJAEfsyB7Zt"
       },
@@ -9062,7 +9080,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 184534,
       "name": "i miei fiumi",
       "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
@@ -10218,7 +10236,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 319080,
       "name": "Karaoke feat. Marta Del Grandi",
       "url": "https://open.spotify.com/track/1CxY15KF67f22NjQ1RvRjU"
@@ -10494,7 +10512,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 331912,
       "name": "L'Amour",
       "url": "https://open.spotify.com/track/1nJcOTpikHuPm9KwKLl8gw"
@@ -10722,6 +10740,24 @@
       "duration_ms": 200588,
       "name": "LA FINE",
       "url": "https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS"
+    },
+    {
+      "album": {
+        "name": "/ PITONI",
+        "url": "https://open.spotify.com/album/58eEaLxYIII0tCljXTaZu5"
+      },
+      "artists": [
+        {
+          "name": "PITONI",
+          "url": "https://open.spotify.com/artist/47FmploiTJhA9BABtpnpAI"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "LA FINE",
+      "url": "https://open.spotify.com/track/4Ku4hyAVPbS1uDuISpcIvr"
     },
     {
       "album": {
@@ -15202,7 +15238,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 195200,
       "name": "Passo dopo Passo",
       "url": "https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm"
@@ -15617,6 +15653,24 @@
     },
     {
       "album": {
+        "name": "Mazap\u00e9",
+        "url": "https://open.spotify.com/album/1LXoWjDdXuW0fyncoFpZg8"
+      },
+      "artists": [
+        {
+          "name": "Lo Straniero",
+          "url": "https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Pianura paura",
+      "url": "https://open.spotify.com/track/6ciFPpC0ZI8RS5vHp5DJmI"
+    },
+    {
+      "album": {
         "name": "Palo",
         "url": "https://open.spotify.com/album/4r4hX5EBmbqE8TCJIK3y2P"
       },
@@ -15686,6 +15740,24 @@
       "duration_ms": 179083,
       "name": "Pinky",
       "url": "https://open.spotify.com/track/0uSIia2ftRwb7QxbB6kQsk"
+    },
+    {
+      "album": {
+        "name": "Rimasti Indietro",
+        "url": "https://open.spotify.com/album/6HciTag3REapbsxYXczSmK"
+      },
+      "artists": [
+        {
+          "name": "Fuorimano",
+          "url": "https://open.spotify.com/artist/7FtBMIiu6p16oE3I6ULjcM"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116643,
+      "name": "Pioggia",
+      "url": "https://open.spotify.com/track/7hIlk0CmZ9drnekRgMtbAs"
     },
     {
       "album": {
@@ -18059,6 +18131,24 @@
     },
     {
       "album": {
+        "name": "Senza paura",
+        "url": "https://open.spotify.com/album/6sGXPl6dJGW8MDOhzcqiG0"
+      },
+      "artists": [
+        {
+          "name": "Voina",
+          "url": "https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Senza paura",
+      "url": "https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3"
+    },
+    {
+      "album": {
         "name": "SENZA PRETESE",
         "url": "https://open.spotify.com/album/7a4KDPzjAgpQh4uuQiuHec"
       },
@@ -18070,7 +18160,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 154825,
       "name": "SENZA PRETESE",
       "url": "https://open.spotify.com/track/0K7yRgrlkDBrWep8hEvjin"

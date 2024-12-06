@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: ALEPH(\uc54c\ub808\ud504)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -6304,7 +6304,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 179885,
       "name": "It's time to go up high",
       "url": "https://open.spotify.com/track/2MxODxp6GgBuQnsmEx1GLq"
@@ -7590,7 +7590,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 207130,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC"
@@ -8326,6 +8326,24 @@
       "duration_ms": 278122,
       "name": "Night Sea",
       "url": "https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2"
+    },
+    {
+      "album": {
+        "name": "Night, night",
+        "url": "https://open.spotify.com/album/28DONTbETtEh7MMTIXFoP3"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Night, night",
+      "url": "https://open.spotify.com/track/2mWKLDnwAgvBooII1wUS7k"
     },
     {
       "album": {
@@ -13452,6 +13470,24 @@
       "duration_ms": 195515,
       "name": "WE NEED LOVE",
       "url": "https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU"
+    },
+    {
+      "album": {
+        "name": "we never turn cold",
+        "url": "https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295429,
+      "name": "we never turn cold",
+      "url": "https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T"
     },
     {
       "album": {

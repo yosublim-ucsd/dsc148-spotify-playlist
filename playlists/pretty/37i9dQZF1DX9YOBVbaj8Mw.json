@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14760,
+  "num_followers": 14762,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,38 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Pokaz slajd\u00f3w",
+        "url": "https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "duration_ms": 229370,
+      "name": "Od nowa",
+      "url": "https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "+ piek\u0142o + niebo +",
+        "url": "https://open.spotify.com/album/0vRXC5k20GgSWbTWumsRFO"
+      },
+      "artists": [
+        {
+          "name": "Walu\u015bKraksaKryzys",
+          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "kawa\u0142ek dla Marcina P.",
+      "url": "https://open.spotify.com/track/7uX71wnAiyEKVkjikwn6Cp"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Akademia Pana Kleksa",
         "url": "https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA"
       },
@@ -288,10 +320,6 @@
           "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
         },
         {
-          "name": "Ralph Kaminski",
-          "url": "https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw"
-        },
-        {
           "name": "Bedoes 2115",
           "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
         },
@@ -303,38 +331,6 @@
       "duration_ms": 193855,
       "name": "Ca\u0142kiem Nowa Bajka",
       "url": "https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "+ piek\u0142o + niebo +",
-        "url": "https://open.spotify.com/album/0vRXC5k20GgSWbTWumsRFO"
-      },
-      "artists": [
-        {
-          "name": "Walu\u015bKraksaKryzys",
-          "url": "https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "kawa\u0142ek dla Marcina P.",
-      "url": "https://open.spotify.com/track/7uX71wnAiyEKVkjikwn6Cp"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Pokaz slajd\u00f3w",
-        "url": "https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr"
-      },
-      "artists": [
-        {
-          "name": "Kwiat Jab\u0142oni",
-          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
-        }
-      ],
-      "duration_ms": 229370,
-      "name": "Od nowa",
-      "url": "https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -683,22 +679,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "TAM",
-        "url": "https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ"
-      },
-      "artists": [
-        {
-          "name": "Natalia Przybysz",
-          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Mam potrzeb\u0119",
-      "url": "https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "EROTIK ERA",
         "url": "https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF"
       },
@@ -711,6 +691,22 @@
       "duration_ms": 180293,
       "name": "MARIA PRZED O\u0141TARZEM",
       "url": "https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "TAM",
+        "url": "https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Przybysz",
+          "url": "https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Mam potrzeb\u0119",
+      "url": "https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -747,22 +743,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 239712,
-      "name": "Nie by\u0142o Ci\u0119 - Live",
-      "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Pracownia (deluks)",
         "url": "https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk"
       },
@@ -775,6 +755,22 @@
       "duration_ms": 260146,
       "name": "Etna",
       "url": "https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 239712,
+      "name": "Nie by\u0142o Ci\u0119 - Live",
+      "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -995,22 +991,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Moje serce w Warszawie",
-        "url": "https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG"
-      },
-      "artists": [
-        {
-          "name": "Sorry Boys",
-          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Moje serce w Warszawie",
-      "url": "https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Kryzys",
         "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
       },
@@ -1023,6 +1003,22 @@
       "duration_ms": 159205,
       "name": "Wiersz wigilijny",
       "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Moje serce w Warszawie",
+        "url": "https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG"
+      },
+      "artists": [
+        {
+          "name": "Sorry Boys",
+          "url": "https://open.spotify.com/artist/0WX7MXOUx7elCFdxdgvdBU"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Moje serce w Warszawie",
+      "url": "https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1043,22 +1039,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Mikromusic z G\u00f3rnej P\u00f3\u0142ki",
-        "url": "https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN"
-      },
-      "artists": [
-        {
-          "name": "Mikromusic",
-          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
-        }
-      ],
-      "duration_ms": 341589,
-      "name": "\u015awiat Oddala Si\u0119 Ode Mnie",
-      "url": "https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Big Band Live",
         "url": "https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy"
       },
@@ -1071,6 +1051,22 @@
       "duration_ms": 214226,
       "name": "Wonderland In Alice - Big Band Live",
       "url": "https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Mikromusic z G\u00f3rnej P\u00f3\u0142ki",
+        "url": "https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        }
+      ],
+      "duration_ms": 341589,
+      "name": "\u015awiat Oddala Si\u0119 Ode Mnie",
+      "url": "https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1147,22 +1143,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pocz\u0105tek",
-        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
-      },
-      "artists": [
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Pocz\u0105tek",
-      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Cykl",
         "url": "https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7"
       },
@@ -1175,6 +1155,22 @@
       "duration_ms": 157053,
       "name": "Patataj",
       "url": "https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pocz\u0105tek",
+        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Pocz\u0105tek",
+      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1279,22 +1275,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "AFR AI D",
-        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
-      },
-      "artists": [
-        {
-          "name": "Mariusz Duda",
-          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "I Love To Chat With You",
-      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
       },
@@ -1307,6 +1287,22 @@
       "duration_ms": 99000,
       "name": "Pie\u015b\u0144 baby",
       "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "AFR AI D",
+        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
+      },
+      "artists": [
+        {
+          "name": "Mariusz Duda",
+          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "I Love To Chat With You",
+      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
     },
     {
       "added_at": "2024-03-25 08:52:09",

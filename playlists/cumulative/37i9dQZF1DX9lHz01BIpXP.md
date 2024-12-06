@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-165 songs - 8 hr 31 min
+166 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Consistent](https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Consistent](https://open.spotify.com/album/6WcqsfGIEelzpkHXDaUTAy) | 2:08 | 2024-04-05 | 2024-11-30 |
 | [Da Money](https://open.spotify.com/track/2PpXTeSSxwZ3CfqI1or0wM) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a) | [Da Money](https://open.spotify.com/album/3adAOGcOj3SiDgZcExb9bN) | 3:44 | 2024-02-01 | 2024-11-22 |
 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 | 2024-09-20 |  |
-| [Dala Jy](https://open.spotify.com/track/1rGhk2rlC3pJwRaB6SM3cY) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [King Klutch CPT](https://open.spotify.com/artist/2seAeW6VySkucEd8VbOcQQ) | [Motivated 2: Still I Am](https://open.spotify.com/album/518HuJYnwFxc6MDxfxgkoE) | 2:38 | 2024-11-29 |  |
+| [Dala Jy](https://open.spotify.com/track/1rGhk2rlC3pJwRaB6SM3cY) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [King Klutch CPT](https://open.spotify.com/artist/2seAeW6VySkucEd8VbOcQQ) | [Motivated 2: Still I Am](https://open.spotify.com/album/518HuJYnwFxc6MDxfxgkoE) | 2:38 | 2024-11-29 | 2024-12-06 |
 | [Dala wat jy moet \- Radio Edit](https://open.spotify.com/track/4e3bju60JhI6KWRTsagoAB) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Irshaad](https://open.spotify.com/artist/3n8uAgnScYtwFHIkfnxj10), [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam) | [Dala wat jy moet](https://open.spotify.com/album/1G0WLpHnyXzTtfV62BSmo3) | 3:50 | 2022-09-08 | 2023-09-16 |
 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 | 2024-01-18 | 2024-09-23 |
 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 | 2024-06-13 | 2024-10-28 |
@@ -121,6 +121,7 @@
 | [Old MacDonald](https://open.spotify.com/track/6qZgQWFWFcT7GyQxZbVKNL) | [Rich Boy Clothing® Presents:](https://open.spotify.com/artist/76e3qSJLGlSyJUBjVMfCGZ), [21 Promo](https://open.spotify.com/artist/1tHFwKhC5RhKjvYn2SfvAw), [Pengii](https://open.spotify.com/artist/6MtwzM6nLQSPdeu9784WyQ) | [Old MacDonald](https://open.spotify.com/album/4tEzTuocvSXOmGHxuw0NND) | 2:24 | 2023-04-20 | 2023-05-06 |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
 | [Op Dai](https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Op Dai](https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY) | 3:26 | 2023-07-27 | 2024-09-27 |
+| [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 | 2024-12-05 |  |
 | [Passion Vir Die Game](https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS) | [Ktog](https://open.spotify.com/artist/0rqXLEx5cewNCwWuuUTrfT), [King B Hf](https://open.spotify.com/artist/4Z9gJNJkCxN3xhjrEITDLt) | [Passion Vir Die Game](https://open.spotify.com/album/5IaeLYlC58bvW4tSpuAgF6) | 5:30 | 2023-01-13 | 2024-02-10 |
 | [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 | 2023-11-03 |
 | [Pot Jie Kos](https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV) | [Brasse Vannie Kaap](https://open.spotify.com/artist/6nkhSnCQetHUVMEaZNpuvj) | [Super Power](https://open.spotify.com/album/0WS0M32uGuEKQL1KilDYFQ) | 3:32 | 2022-09-08 | 2022-12-02 |

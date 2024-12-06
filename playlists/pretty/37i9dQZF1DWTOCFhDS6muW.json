@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 28713,
+  "num_followers": 28745,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -367,38 +367,6 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
-      },
-      "artists": [
-        {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "Metela Sacala",
-        "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
-      },
-      "artists": [
-        {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        }
-      ],
-      "duration_ms": 181996,
-      "name": "Metela Sacala",
-      "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
         "name": "Batalla de Puntas 3: Power Mix",
         "url": "https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT"
       },
@@ -427,6 +395,38 @@
       "duration_ms": 412400,
       "name": "Punta Power Mix #1",
       "url": "https://open.spotify.com/track/6ShPz1zUeNRSvqd1PEDbGA"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+      },
+      "artists": [
+        {
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
+        "name": "Metela Sacala",
+        "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        }
+      ],
+      "duration_ms": 181996,
+      "name": "Metela Sacala",
+      "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
     },
     {
       "added_at": "2024-07-12 22:32:28",

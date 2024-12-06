@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 61256,
+  "num_followers": 61278,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z024ZwAAAAB+DmOzknH4GZsWxuvIjYZn",
+  "snapshot_id": "Z1GL/wAAAAAAN+CJ3X/9JdO/GtOMyuh3",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -119,6 +119,34 @@
       "duration_ms": 198399,
       "name": "Sadhaa (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
       "url": "https://open.spotify.com/track/127oMYKnLPYUQlRfWi5jLa"
+    },
+    {
+      "added_at": "2024-12-05 11:18:23",
+      "album": {
+        "name": "Kadalidu Theerada (From \"Aaram Aravinda Swamy\")",
+        "url": "https://open.spotify.com/album/2yXHJuqj8pr6ihjcw0m3yN"
+      },
+      "artists": [
+        {
+          "name": "Anand Rajavikram",
+          "url": "https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ"
+        },
+        {
+          "name": "Abhishek Shetty",
+          "url": "https://open.spotify.com/artist/3XcKgVaaR0APZhWCO9zhsf"
+        },
+        {
+          "name": "Suprith Sharma S",
+          "url": "https://open.spotify.com/artist/51B2gBGLKXNrKomRj8HKjz"
+        },
+        {
+          "name": "Chethan Gandharva",
+          "url": "https://open.spotify.com/artist/2aZR9aRrSC2OodxW3hkbj5"
+        }
+      ],
+      "duration_ms": 225074,
+      "name": "Kadalidu Theerada (From \"Aaram Aravinda Swamy\")",
+      "url": "https://open.spotify.com/track/1PJVQAnZjwS9pfVtYLnuld"
     },
     {
       "added_at": "2024-12-02 13:05:04",
@@ -1783,26 +1811,6 @@
       "duration_ms": 282921,
       "name": "Mareyalare",
       "url": "https://open.spotify.com/track/03FkK0XAbTHwvlTxBUnEeo"
-    },
-    {
-      "added_at": "2024-10-11 11:07:10",
-      "album": {
-        "name": "Call Of Rudra (From \"Gharga\")",
-        "url": "https://open.spotify.com/album/5aF8trn59GsJPK39kp8ds3"
-      },
-      "artists": [
-        {
-          "name": "Deepak",
-          "url": "https://open.spotify.com/artist/68HcwsusEEqx5ZMW9ADC3j"
-        },
-        {
-          "name": "C Girinandh",
-          "url": "https://open.spotify.com/artist/6CfIPVSMmiQNBt5yLt2t2I"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Call Of Rudra (From \"Gharga\")",
-      "url": "https://open.spotify.com/track/6vHO2EVUJ2dRI4gFy3r8Hm"
     },
     {
       "added_at": "2024-10-10 10:36:19",

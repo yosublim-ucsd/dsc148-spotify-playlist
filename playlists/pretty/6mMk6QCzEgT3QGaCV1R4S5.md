@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 ### [Dancefloor Beats](https://open.spotify.com/playlist/6mMk6QCzEgT3QGaCV1R4S5)
 
-> Get moving on the dancefloor with some big room beats! Cover: Purple Disco Machine &amp; The Magician
+> Get moving on the dancefloor with some big room beats! Cover: Steve Aoki, Sam Feldt, Xandra, Zak Abel &amp; Nile Rodgers
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,276 likes - 60 songs - 3 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,275 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
-| 2 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
-| 3 | [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 |
-| 4 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
-| 5 | [Now That I'm Gone](https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Now That I'm Gone](https://open.spotify.com/album/5719mUavSnpK65Vr317xbK) | 2:30 |
-| 6 | [I'm Going Out \(with Zak Abel & Nile Rodgers\)](https://open.spotify.com/track/3yy2x178PndVRPFmLmtqDB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca) | [I'm Going Out \(with Zak Abel & Nile Rodgers\)](https://open.spotify.com/album/1nQzYYPVXMKPb23hoAnioP) | 2:29 |
+| 1 | [I'm Going Out \(with Zak Abel & Nile Rodgers\)](https://open.spotify.com/track/3yy2x178PndVRPFmLmtqDB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca) | [I'm Going Out \(with Zak Abel & Nile Rodgers\)](https://open.spotify.com/album/1nQzYYPVXMKPb23hoAnioP) | 2:29 |
+| 2 | [All My Life](https://open.spotify.com/track/6NOlVkuAFtqTiBInHuqlrs) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:22 |
+| 3 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
+| 4 | [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 |
+| 5 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
+| 6 | [Now That I'm Gone](https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Now That I'm Gone](https://open.spotify.com/album/5719mUavSnpK65Vr317xbK) | 2:30 |
 | 7 | [Familiars \(From the Game "World of Tanks Blitz"\)](https://open.spotify.com/track/4jaoBjvV9goyLG0o41Uhzx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Familiars \(From the Game "World of Tanks Blitz"\)](https://open.spotify.com/album/5dbaxGVxlxtaV8vVcQ4nYF) | 6:07 |
 | 8 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
 | 9 | [Jaded](https://open.spotify.com/track/2AuYtt0mlYy4vbK5oHDStV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Jaded](https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV) | 8:50 |
@@ -67,6 +67,5 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 57 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 58 | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP) | 3:01 |
 | 59 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\) \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 |
-| 60 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 |
 
-Snapshot ID: `AAAhGdZpScD3IDsll23yhWiBN1l6Vb+Q`
+Snapshot ID: `AAAhIxo7fYHXG32i4YzFfm74Je3t+XCs`

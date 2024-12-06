@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Erika Isac",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Misha Miller, Alex Velea",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 164210,
       "name": "Buzele tale",
       "url": "https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 177187,
       "name": "Dans nocturn",
       "url": "https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 197142,
       "name": "Hai sictir",
       "url": "https://open.spotify.com/track/1dc5vfOUOPNLs8GG64cfz3"
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Iart\u0103-m\u0103",
+        "url": "https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184159,
+      "name": "Iart\u0103-m\u0103",
+      "url": "https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0"
+    },
+    {
+      "album": {
         "name": "Iluzii",
         "url": "https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH"
       },
@@ -1284,6 +1302,28 @@
       "duration_ms": 159699,
       "name": "Imuni la bine",
       "url": "https://open.spotify.com/track/5rCM81EFhyptgNSVC0CMwF"
+    },
+    {
+      "album": {
+        "name": "Inainte de tine",
+        "url": "https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC"
+      },
+      "artists": [
+        {
+          "name": "Magda Ignat",
+          "url": "https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh"
+        },
+        {
+          "name": "Dorian Popa",
+          "url": "https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Inainte de tine",
+      "url": "https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M"
     },
     {
       "album": {
@@ -2846,6 +2886,28 @@
       "duration_ms": 164000,
       "name": "Vecinii de bloc",
       "url": "https://open.spotify.com/track/6UnAmT7n43XJGIWd8tRfwu"
+    },
+    {
+      "album": {
+        "name": "Viata Bate Filmul",
+        "url": "https://open.spotify.com/album/375My8DsXLTBLcAECbDpzl"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX"
+        },
+        {
+          "name": "Antonio Pican",
+          "url": "https://open.spotify.com/artist/151AdA8GTkchYAkB7bOvnv"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197890,
+      "name": "Viata Bate Filmul",
+      "url": "https://open.spotify.com/track/6qvcJQ3csduILzGTvWDl9I"
     },
     {
       "album": {

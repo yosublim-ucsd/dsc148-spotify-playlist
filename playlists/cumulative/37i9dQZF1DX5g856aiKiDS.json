@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Favorite Things",
+        "url": "https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z"
+      },
+      "artists": [
+        {
+          "name": "Bok Dajin",
+          "url": "https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188234,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/3eWsUurhINPES3Db7jkDAX"
       },
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 201000,
       "name": "Under Caffeine",
       "url": "https://open.spotify.com/track/4DunhC1RuUbqC3MXrMozIg"

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Luthuly",
-  "num_followers": 436879,
+  "num_followers": 436920,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER",
-        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Ficar de Leve",
-      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
-    },
-    {
-      "added_at": "2024-11-29 19:20:38",
-      "album": {
         "name": "Degrad\u00ea",
         "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 238582,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ"
+    },
+    {
+      "added_at": "2024-11-29 19:20:38",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER",
+        "url": "https://open.spotify.com/album/3tP91jB9qEgUbZD5CxSTvD"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Ficar de Leve",
+      "url": "https://open.spotify.com/track/2glwTrVC4Y2DSY3Z9iMOlH"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -479,22 +479,18 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
-        "name": "Baila Comigo",
-        "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
       "artists": [
         {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
         }
       ],
-      "duration_ms": 186341,
-      "name": "Baila Comigo",
-      "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
+      "duration_ms": 179517,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -519,18 +515,38 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 179517,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2024-11-29 19:20:38",
+      "album": {
+        "name": "Baila Comigo",
+        "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Baila Comigo",
+      "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -583,22 +599,6 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
-    },
-    {
-      "added_at": "2024-11-29 19:20:38",
-      "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2024-11-29 19:20:38",
+      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 143658,
       "name": "Como D\u00f3i",
       "url": "https://open.spotify.com/track/3nNb9AXOB4sH2Q6z3ERMV1"
-    },
-    {
-      "added_at": "2024-11-29 19:20:38",
-      "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -927,22 +927,18 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
-        "name": "Dan\u00e7a Comigo",
-        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
+        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "Nanda",
-          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 82380,
-      "name": "Dan\u00e7a Comigo",
-      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
+      "duration_ms": 201250,
+      "name": "Ainda Bem Que Chegou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -979,18 +975,22 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
-        "name": "A Bolha Ao Vivo em S\u00e3o Paulo, Pt. 1",
-        "url": "https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f"
+        "name": "Dan\u00e7a Comigo",
+        "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Nanda",
+          "url": "https://open.spotify.com/artist/1QD43Tp8RUMWTSWtRsqlvL"
         }
       ],
-      "duration_ms": 201250,
-      "name": "Ainda Bem Que Chegou - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg"
+      "duration_ms": 82380,
+      "name": "Dan\u00e7a Comigo",
+      "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
       "added_at": "2024-11-29 19:20:38",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-11-29 19:20:38",
       "album": {
+        "name": "Som de Alma",
+        "url": "https://open.spotify.com/album/0icq1nKGnjevXRF3DkaC8T"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 139873,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/1jllCeJCsbQwnwHTxKWNEb"
+    },
+    {
+      "added_at": "2024-11-29 19:20:38",
+      "album": {
         "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
         "url": "https://open.spotify.com/album/6373SGgFo7W2hyKe4oUbj4"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 162327,
       "name": "Se Voc\u00ea Quiser (Vers\u00e3o)",
       "url": "https://open.spotify.com/track/7FDk8EX3fuUsSDVbS4gIB3"
-    },
-    {
-      "added_at": "2024-11-29 19:20:38",
-      "album": {
-        "name": "Som de Alma",
-        "url": "https://open.spotify.com/album/0icq1nKGnjevXRF3DkaC8T"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 139873,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/1jllCeJCsbQwnwHTxKWNEb"
     },
     {
       "added_at": "2024-11-29 19:20:38",

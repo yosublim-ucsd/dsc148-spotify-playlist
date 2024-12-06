@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 105811,
+  "num_followers": 105840,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 284862,
       "name": "Um Verso de Amor",
       "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -551,18 +551,42 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+        "name": "Encontrar Voc\u00ea",
+        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Thamiriz",
+          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
         }
       ],
-      "duration_ms": 351735,
-      "name": "Amar Voc\u00ea",
-      "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
+      "duration_ms": 235373,
+      "name": "Encontrar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "do avesso",
+        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
+      },
+      "artists": [
+        {
+          "name": "Marcos Martins",
+          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 246917,
+      "name": "do avesso",
+      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -583,38 +607,38 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+      "duration_ms": 351735,
+      "name": "Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
     },
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Encontrar Voc\u00ea",
-        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
+        "name": "O Jeito Que Voc\u00ea Me Olha",
+        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
         },
         {
-          "name": "Thamiriz",
-          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Encontrar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+      "duration_ms": 198067,
+      "name": "O Jeito Que Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -643,42 +667,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "O Jeito Que Voc\u00ea Me Olha",
-        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
       "artists": [
         {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 198067,
-      "name": "O Jeito Que Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "do avesso",
-        "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
-      },
-      "artists": [
-        {
-          "name": "Marcos Martins",
-          "url": "https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 246917,
-      "name": "do avesso",
-      "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2024-07-11 15:58:05",

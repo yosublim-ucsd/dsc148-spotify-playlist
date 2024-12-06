@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Jacqui(\uc7ac\ud0a4))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Kimmuse(\uae40\ubba4\uc988))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -154,6 +154,28 @@
       "duration_ms": 204906,
       "name": "365 (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/1g44dTzKW337AAReshbgUm"
+    },
+    {
+      "album": {
+        "name": "4 Seasons",
+        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151106,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
     },
     {
       "album": {
@@ -634,7 +656,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 199440,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/69zoAcTmHBiBlum588OmzB"
@@ -1046,6 +1068,24 @@
       "duration_ms": 216330,
       "name": "Better",
       "url": "https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L"
+    },
+    {
+      "album": {
+        "name": "beyond the trivial",
+        "url": "https://open.spotify.com/album/0vbEPIxhYDdXf1XlWJTfpK"
+      },
+      "artists": [
+        {
+          "name": "yeni",
+          "url": "https://open.spotify.com/artist/6SVK1qUJW8PpJOoytQcfsZ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "beyond the trivial",
+      "url": "https://open.spotify.com/track/3efWpp73W5W9mgwFO8adaO"
     },
     {
       "album": {
@@ -1495,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Careless I Love You (Secret Relationships X Paul Blanco)",
+        "url": "https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Careless I Love You",
+      "url": "https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT"
+    },
+    {
+      "album": {
         "name": "Bind",
         "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
       },
@@ -1564,7 +1622,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 150013,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw"
@@ -2452,7 +2510,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 183874,
       "name": "Don\u2032t Wanna Lose Myself (Feat. veanii)",
       "url": "https://open.spotify.com/track/4rElh76q7QWQD7DUoLYISU"
@@ -2920,7 +2978,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 197800,
       "name": "For you",
       "url": "https://open.spotify.com/track/3hMCdukMSs35wmCrnTmj10"
@@ -3254,7 +3312,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 168000,
       "name": "Good Night Good Morning (GNGM)",
       "url": "https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30"
@@ -4193,6 +4251,28 @@
     },
     {
       "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/6kdd3CABGistMILJ4mkdib"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "colin",
+          "url": "https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177961,
+      "name": "It's Christmas time",
+      "url": "https://open.spotify.com/track/1LI3yIf50lkVqvvt50Qplo"
+    },
+    {
+      "album": {
         "name": "it's my fault",
         "url": "https://open.spotify.com/album/50xp8elLZomzlu6uE4RebW"
       },
@@ -4288,6 +4368,24 @@
       "duration_ms": 197106,
       "name": "Jimmy Choo",
       "url": "https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP"
+    },
+    {
+      "album": {
+        "name": "Just Be Here",
+        "url": "https://open.spotify.com/album/05xU7EhMXDvPTxnyg9Jkll"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219437,
+      "name": "Just Be Here",
+      "url": "https://open.spotify.com/track/4Dffc36mG23WsfT2pSYdmv"
     },
     {
       "album": {
@@ -5656,7 +5754,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 139879,
       "name": "Nostril (feat. Shiv)",
       "url": "https://open.spotify.com/track/75WdqOXeNjQ6gnosWogIt7"
@@ -6291,6 +6389,28 @@
     },
     {
       "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/5ihgj46lcynZHSLEWQJNTt"
+      },
+      "artists": [
+        {
+          "name": "Kimmuse",
+          "url": "https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN"
+        },
+        {
+          "name": "Mixsings",
+          "url": "https://open.spotify.com/artist/1u1PX3qXohy6Zz5yiuH5vy"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190559,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/1ChsPagcSwYgbmTKlCKkLN"
+    },
+    {
+      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -6702,6 +6822,24 @@
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/6smXQpQbpHx5a8f1yTnQwe"
+      },
+      "artists": [
+        {
+          "name": "ROSESIA",
+          "url": "https://open.spotify.com/artist/4mVq0iiFXS8kUerXWCNK2W"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/4i0AQFbvu7AlRCtNi4azrf"
     },
     {
       "album": {
@@ -7919,6 +8057,28 @@
     },
     {
       "album": {
+        "name": "Walk a Flower (feat. chaenni)",
+        "url": "https://open.spotify.com/album/5HROTFJScbaAu9kSA9p5kE"
+      },
+      "artists": [
+        {
+          "name": "KOUSEI",
+          "url": "https://open.spotify.com/artist/42m6lOGRi5ZUGubVO8cLlw"
+        },
+        {
+          "name": "chaenni",
+          "url": "https://open.spotify.com/artist/28FEs2xVFcKLMjJYiWPDzi"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225900,
+      "name": "Walk a Flower (feat. chaenni)",
+      "url": "https://open.spotify.com/track/3vpBBHtBMAtsb0uVbn9Wug"
+    },
+    {
+      "album": {
         "name": "Waltz",
         "url": "https://open.spotify.com/album/7pcQW4zF50WuC5ecrRGDPG"
       },
@@ -8408,7 +8568,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 200010,
       "name": "Woo-Woo-Ah-Ah",
       "url": "https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel"
@@ -8524,7 +8684,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 142378,
       "name": "Y KIKI",
       "url": "https://open.spotify.com/track/1Bp3T0oh86HBRX6foLFxVm"

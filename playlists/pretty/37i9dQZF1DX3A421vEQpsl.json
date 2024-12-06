@@ -1,6 +1,6 @@
 {
   "description": "Hits, repackaged by Bollywood. Cover - Badrinath Ki Dulhania",
-  "num_followers": 207076,
+  "num_followers": 207168,
   "original_name": "Bollywood 2.O",
   "owner": {
     "name": "Spotify",
@@ -948,12 +948,12 @@
           "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
         },
         {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+          "name": "Vishal",
+          "url": "https://open.spotify.com/artist/1xX0K9yaCUHVyVLCVfUAnw"
         },
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
         }
       ],
       "duration_ms": 201655,
@@ -1220,6 +1220,10 @@
       },
       "artists": [
         {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
           "name": "Neha Kakkar",
           "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         },
@@ -1230,14 +1234,6 @@
         {
           "name": "B Praak",
           "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         }
       ],
       "duration_ms": 191089,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Guess Who",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Vlad Dobrescu",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -725,6 +725,42 @@
     },
     {
       "album": {
+        "name": "Fiare noi",
+        "url": "https://open.spotify.com/album/4T4w9o0BJUikD9UTYBFukc"
+      },
+      "artists": [
+        {
+          "name": "Vlad Dobrescu",
+          "url": "https://open.spotify.com/artist/0bypMpAgjSZJaThtP1oqFV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260117,
+      "name": "Dup\u0103 sf\u00e2r\u0219it",
+      "url": "https://open.spotify.com/track/4W5d8Ka2h042sUdaevjUlL"
+    },
+    {
+      "album": {
+        "name": "MOB PACK (EP)",
+        "url": "https://open.spotify.com/album/32DTY8uyqKUqBRXoyeCr8G"
+      },
+      "artists": [
+        {
+          "name": "Mobtrap",
+          "url": "https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107919,
+      "name": "EMIL BOC",
+      "url": "https://open.spotify.com/track/73QUECdsYbfuPPhmhrJiQy"
+    },
+    {
+      "album": {
         "name": "Eram La Drum",
         "url": "https://open.spotify.com/album/1hgfPOzPpOKSukKDCcdfGD"
       },
@@ -849,6 +885,28 @@
     },
     {
       "album": {
+        "name": "Fricile",
+        "url": "https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf"
+      },
+      "artists": [
+        {
+          "name": "Faust",
+          "url": "https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg"
+        },
+        {
+          "name": "AdyB",
+          "url": "https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Fricile",
+      "url": "https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun"
+    },
+    {
+      "album": {
         "name": "Geamu Jos",
         "url": "https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ"
       },
@@ -868,7 +926,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 151741,
       "name": "Geamu Jos",
       "url": "https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz"
@@ -886,7 +944,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 153024,
       "name": "Genera\u021bia de suflet",
       "url": "https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd"
@@ -1628,7 +1686,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
@@ -1818,10 +1876,32 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149169,
       "name": "TELEKOM",
       "url": "https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT"
+    },
+    {
+      "album": {
+        "name": "Televiziune",
+        "url": "https://open.spotify.com/album/0h25T0HlftyXE2VYDZM6C8"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Televiziune",
+      "url": "https://open.spotify.com/track/3rhi5byLosubYqOcDbPxBF"
     },
     {
       "album": {
@@ -1862,7 +1942,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 201038,
       "name": "TRATAMENT",
       "url": "https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2"
@@ -2092,6 +2172,24 @@
       "duration_ms": 149000,
       "name": "\u00ceNCASEZ",
       "url": "https://open.spotify.com/track/6eNbonlVmj3JnRHjqfHE62"
+    },
+    {
+      "album": {
+        "name": "\u00ceNPAI",
+        "url": "https://open.spotify.com/album/0hdybSBVj1H0CAlP02cKRa"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169625,
+      "name": "\u00ceNPAI",
+      "url": "https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA"
     },
     {
       "album": {

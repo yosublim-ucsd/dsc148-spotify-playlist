@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=LXKgZPm3QrWGlI2w7sLuXA">Joel Lwaga</a>
 
-203 songs - 17 hr 56 min
+204 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c) | 7:16 | 2023-09-22 | 2024-05-24 |
 | [Hakuna Wakufanana](https://open.spotify.com/track/2iDJTL5XerzoErsduFYWVQ) | [Dan Em](https://open.spotify.com/artist/5UysAc77bsT1C6XJIZn1u1) | [Halleluya \(Worship 1\)](https://open.spotify.com/album/6iHWWsouuBWpKUzJlROoYr) | 5:06 | 2022-06-24 |  |
 | [Halal](https://open.spotify.com/track/4UdqbEzCQ7OqHqb8i8AlVF) | [Mathooko](https://open.spotify.com/artist/6JRgBJKwtMEnApK7bn1Svw) | [Halal](https://open.spotify.com/album/5Uqe1LZJyXpqBJuxZw2K90) | 2:18 | 2023-07-14 | 2023-11-25 |
+| [Halleluyah](https://open.spotify.com/track/5PUw4w2gNG8ICTO5nPfwpz) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Halleluyah](https://open.spotify.com/album/6rqvnt4GNUTHEBMpjdyDSW) | 4:00 | 2024-12-06 |  |
 | [Hararat](https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hararat](https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS) | 3:45 | 2023-04-07 | 2024-09-06 |
 | [Hatua Nyingine](https://open.spotify.com/track/3KxKo4HOHceQbD1wRQCtVU) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hatua Nyingine](https://open.spotify.com/album/5tyFYjcZ8ZZuIEPupzmWph) | 3:01 | 2024-05-03 |  |
 | [Hekima Yako](https://open.spotify.com/track/5hgE39Qp8NZ4AH6OPwvj4O) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Hekima Yako](https://open.spotify.com/album/1XJi0mvsuEwpELBDRoIj6Q) | 4:20 | 2024-06-21 |  |

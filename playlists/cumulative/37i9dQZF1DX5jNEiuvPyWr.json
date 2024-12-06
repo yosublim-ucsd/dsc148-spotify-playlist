@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : YUNG POOR ALO",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : SAF",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 157701,
       "name": "A.D.N",
       "url": "https://open.spotify.com/track/2DrjbrGDb6s1RlAfs8kwvn"
@@ -1946,7 +1946,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 129473,
       "name": "Corrida",
       "url": "https://open.spotify.com/track/20EqhjIfTYZYW0LdL1HUD1"
@@ -2487,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9brouillard",
+        "url": "https://open.spotify.com/album/5zQGPfiTstQbcVBoUWNkcT"
+      },
+      "artists": [
+        {
+          "name": "Saan",
+          "url": "https://open.spotify.com/artist/0fCV53y12NSwAgq3WnwO99"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158773,
+      "name": "D\u00e9brouillard",
+      "url": "https://open.spotify.com/track/1NRerbYymUiSgJ8s580L52"
+    },
+    {
+      "album": {
         "name": "D\u00e9sol\u00e9, d'\u00eatre moi.",
         "url": "https://open.spotify.com/album/1nsFtCQo2jmjJBoRqYYlS6"
       },
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 147096,
       "name": "FAST LIFE",
       "url": "https://open.spotify.com/track/1lXpuN0QfupyovgfJPgSsz"
@@ -3098,6 +3116,24 @@
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
+    },
+    {
+      "album": {
+        "name": "GRANDES CHOSES",
+        "url": "https://open.spotify.com/album/6DGiZZ2w5CzW4CllXW4kSk"
+      },
+      "artists": [
+        {
+          "name": "Jaymee",
+          "url": "https://open.spotify.com/artist/78i5YadY0dgB2Fdb9tZp6s"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135012,
+      "name": "GRANDES CHOSES",
+      "url": "https://open.spotify.com/track/3LgOKzVRSpjQvLCfao0W8e"
     },
     {
       "album": {
@@ -4294,7 +4330,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 153290,
       "name": "LA LUNE",
       "url": "https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa"
@@ -5938,7 +5974,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 221950,
       "name": "OKOCHA",
       "url": "https://open.spotify.com/track/7caYhBo57VGdfk5K6NqZ4x"
@@ -6274,6 +6310,24 @@
       "duration_ms": 148571,
       "name": "PAS DE CE MONDE",
       "url": "https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d"
+    },
+    {
+      "album": {
+        "name": "PAS L\u00c0",
+        "url": "https://open.spotify.com/album/4M8HFFEdTyj4x6NDYLXwAA"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "PAS L\u00c0",
+      "url": "https://open.spotify.com/track/7or4Oizch9zUc6iiV1Ncus"
     },
     {
       "album": {
@@ -6868,6 +6922,28 @@
       "duration_ms": 165000,
       "name": "RADIO",
       "url": "https://open.spotify.com/track/5vuQDHV1Athh4u9h8IMEG1"
+    },
+    {
+      "album": {
+        "name": "Personne n'est sp\u00e9cial",
+        "url": "https://open.spotify.com/album/1rYGnzaG7WLMcyX0KOCuqS"
+      },
+      "artists": [
+        {
+          "name": "Savage Toddy",
+          "url": "https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw"
+        },
+        {
+          "name": "Roni0block",
+          "url": "https://open.spotify.com/artist/6JZrCsUM6Ap5jKgQ7rRVsV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Range (feat. Roni0Block) - bonus",
+      "url": "https://open.spotify.com/track/3aTtUOarHyF3J1BUxecF4U"
     },
     {
       "album": {
@@ -8168,6 +8244,24 @@
       "duration_ms": 166956,
       "name": "Tous les jours",
       "url": "https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z"
+    },
+    {
+      "album": {
+        "name": "Merci la vie pour les douleurs",
+        "url": "https://open.spotify.com/album/7gabBywNczFVUdfQmwvBaW"
+      },
+      "artists": [
+        {
+          "name": "LauCarr\u00e9",
+          "url": "https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144706,
+      "name": "Tout est magique",
+      "url": "https://open.spotify.com/track/64gvM3OyQs9iIQhRVmehn2"
     },
     {
       "album": {

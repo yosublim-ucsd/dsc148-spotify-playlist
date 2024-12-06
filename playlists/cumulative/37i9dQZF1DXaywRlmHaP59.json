@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Hobbak Metl Beirut",
+        "url": "https://open.spotify.com/album/43M4mL9yhmnSK0C8P4FhSS"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243609,
+      "name": "Hobbak Metl Beirut",
+      "url": "https://open.spotify.com/track/2DYIRwjjr3oJ0LMoOsIlrs"
+    },
+    {
+      "album": {
         "name": "Ishtaktilak Wallah",
         "url": "https://open.spotify.com/album/2vkUC79BiGoHfHvRFeGjXz"
       },

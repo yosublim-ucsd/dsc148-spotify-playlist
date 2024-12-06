@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3QlajBFGUIUNesPKeftJG0"
+      },
+      "artists": [
+        {
+          "name": "TWIN BEE",
+          "url": "https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/2B54jM0HuxhergnxiZsNVo"
+    },
+    {
+      "album": {
         "name": "Do They Know It's Christmas",
         "url": "https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ"
       },

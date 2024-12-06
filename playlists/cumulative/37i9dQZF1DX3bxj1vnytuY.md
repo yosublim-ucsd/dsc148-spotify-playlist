@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-280 songs - 1 day 3 hr 11 min
+281 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2023-03-08 |  |
 | [Ainuke](https://open.spotify.com/track/3Mo4JnQEaIKOEVBIo9ewha) | [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF), [Zenma](https://open.spotify.com/artist/2kgmql7CAfRr5QqbhYrcIJ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Oyowa EP](https://open.spotify.com/album/5RIbv8D5rGnRrAjnpYVT0O) | 5:13 | 2023-04-18 | 2023-04-21 |
 | [Ajarif](https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw) | [Stranger Souma](https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp), [Nukad](https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9) | [Ajarif](https://open.spotify.com/album/2J2obyZsyURopJhdmWT253) | 6:05 | 2022-11-18 |  |
-| [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 | 2023-04-07 |  |
+| [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 | 2023-04-07 | 2024-12-06 |
 | [Alesta](https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Alesta](https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI) | 5:56 | 2022-04-13 | 2023-04-21 |
 | [Amal](https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens Of Eden](https://open.spotify.com/album/61068yXj9KdR7pzL36kBia) | 8:45 | 2022-07-21 | 2023-04-21 |
 | [Amal](https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens of Eden](https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ) | 8:45 | 2022-04-13 | 2022-07-29 |
@@ -165,6 +165,7 @@
 | [Luna \- Omary Remix](https://open.spotify.com/track/6oPYi7nKqZHKpRqjTsXafc) | [Ary Sya](https://open.spotify.com/artist/1BwQgYtqEnAUQI3RrbsMbC), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs) | [Luna](https://open.spotify.com/album/7s5hHH9wJVZmLzQZt55wgt) | 6:46 | 2023-03-03 | 2024-08-28 |
 | [Madi](https://open.spotify.com/track/1NewzjB93jvqy1YEXlZBg6) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Blaq Samurai](https://open.spotify.com/artist/3W3hsSe7ziFLuXtCtXOnhO) | [Madi](https://open.spotify.com/album/6542q8TjKwKSZujJN1oEd4) | 6:35 | 2024-11-22 |  |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-04-13 | 2023-04-21 |
+| [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 | 2024-12-06 |  |
 | [Maktoub](https://open.spotify.com/track/3YLQqkq1qr9gecj09ltfcd) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:56 | 2023-03-07 | 2024-01-09 |
 | [Malawi](https://open.spotify.com/track/0cxZ9Fv1rYRavkbVvdwBT7) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/7ixdpATJyqFtWGevSD7PJU) | 4:43 | 2023-10-23 | 2024-04-19 |
 | [Malawi](https://open.spotify.com/track/0uWQOZM4uKSIdAa0RJMpCT) | [SirYLL](https://open.spotify.com/artist/65Y8uaasPCKMctCyyk0qOw) | [Malawi](https://open.spotify.com/album/03Wo3nvGfVpF0rxfRjy1ah) | 4:43 | 2023-03-09 |  |

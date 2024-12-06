@@ -4,12 +4,13 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-173 songs - 8 hr 45 min
+174 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/31FsKXdQiIqxHYMyPMl7ev) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Jazz Nights](https://open.spotify.com/album/09CNhFjwKtppqXQKzrKOWe) | 2:34 | 2022-10-07 | 2022-10-28 |
 | [A Child Is Born](https://open.spotify.com/track/3xp3vHkZmXXjuPN5TIZw9c) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [A Child Is Born](https://open.spotify.com/album/1uTcIqbf4J8KDPYEl4AYXW) | 3:19 | 2022-10-27 |  |
+| [A December to Remember](https://open.spotify.com/track/311LJn3hzR1L2fNYlVCYCT) | [Season's Greetings](https://open.spotify.com/artist/5wLLNDMOPzzbKjRGOWymEf) | [A December to Remember](https://open.spotify.com/album/3KcrL0tebR066rsCoG9Rge) | 3:39 | 2024-12-05 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/5L4cYsu1seA4z9uGntY8lx) | [Gil Monde Jazz Band](https://open.spotify.com/artist/2iomCGY0KmzcfTQoTL4VOl) | [A Holly Jolly Christmas](https://open.spotify.com/album/4iYlrUIRIn826BpEK0SF8u) | 2:23 | 2021-12-21 | 2023-11-11 |
 | [A Marshmallow World](https://open.spotify.com/track/3zbXDb5jPesaObj7wALirI) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 2:49 | 2022-10-27 |  |
 | [A Marshmallow World](https://open.spotify.com/track/5hI9PuH5lFpEryNVc7FImN) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 3:57 | 2021-12-21 | 2022-10-28 |
@@ -105,7 +106,7 @@
 | [O Come All Ye Faithful](https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 2:40 | 2021-12-21 |  |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 | 2021-12-21 | 2023-12-06 |
 | [O Holy Night](https://open.spotify.com/track/25iEQTtIhKXhhZedTn7YZm) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 4:54 | 2021-12-21 |  |
-| [O Little Town of Bethlehem](https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 1:52 | 2021-12-21 |  |
+| [O Little Town of Bethlehem](https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 1:52 | 2021-12-21 | 2024-12-06 |
 | [Oh Christmas Tree](https://open.spotify.com/track/4HkmCOAh5oqQ7KsihV2Yfs) | [Holy Eve Trio](https://open.spotify.com/artist/2MIg8Vq5NCa9AER8dbCFDG) | [Blue Christmas EP](https://open.spotify.com/album/4dJvLEZjecdymJWBHCiZiZ) | 2:23 | 2022-10-07 | 2022-10-28 |
 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 | 2022-10-27 |  |
 | [Oh How Joyfully](https://open.spotify.com/track/2rGd1bfxOLjhfTHSK0GqdS) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Oh How Joyfully](https://open.spotify.com/album/2iWUwrlqFRc0lovQ4Bv1Uf) | 3:52 | 2024-11-11 |  |

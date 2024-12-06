@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 君島大空 Ohzora Kimishima
 
-2,012 songs - 5 day 5 hr 20 min
+2,013 songs - 5 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [nichijou:loopmania](https://open.spotify.com/track/0TAvsfD9Guud9xJAuypjRW) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [nichijou:loopmania](https://open.spotify.com/album/2WDKmk9Qa75kWeACuuHZG1) | 2:16 | 2024-05-21 | 2024-08-07 |
 | [Night Walk](https://open.spotify.com/track/26l7WFHXltQfKdSLwPz6OB) | [Sic Sic Sic](https://open.spotify.com/artist/1z9YbYG94qg5MtooyQmiqv) | [Night Walk](https://open.spotify.com/album/0SC9O1bWc0XlJQnH9hMPP0) | 2:56 | 2024-02-13 | 2024-02-21 |
 | [night walker](https://open.spotify.com/track/1eNQeVEkeJ1DEioE0p1Rok) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [R](https://open.spotify.com/album/5px0M4ijgpCq9HQFATADol) | 3:20 | 2023-03-28 | 2023-04-05 |
+| [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-04 |  |
 | [Niigata Talented Cats](https://open.spotify.com/track/2AIh6gh16JjhCpa4IFFkXk) | [おしりちぎりパン](https://open.spotify.com/artist/2uAMhvpLh8jm4VwyL8u5N9) | [Niigata Talented Cats](https://open.spotify.com/album/62ZspPP38hhEWh3dsmUGE7) | 3:08 | 2024-05-28 | 2024-06-05 |
 | [No Direction Home](https://open.spotify.com/track/26R28QaYJGJ20mfxi0UXCx) | [Pablo Haiku](https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt) | [No Direction Home](https://open.spotify.com/album/5e9fkxJcZgby7uhDtX4BK8) | 3:31 | 2023-05-09 | 2023-05-24 |
 | [no reception](https://open.spotify.com/track/7xHaCM2lDhmKGJKMTvSc0Q) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys), [yayako](https://open.spotify.com/artist/0O34oKZU1DC7InSHbNoO5g) | [venus in aries](https://open.spotify.com/album/0KS2U9aA7K4I6EHWfzrKPX) | 3:12 | 2024-01-30 | 2024-02-07 |
@@ -992,7 +993,7 @@
 | [Somebody, Somewhere](https://open.spotify.com/track/1UZ39vzyFxP0ESVubuq8mG) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The Way I See You](https://open.spotify.com/album/6Ye2HzPp6DhXo6kYPcS5XQ) | 3:18 | 2024-07-16 | 2024-08-07 |
 | [Something like Hope](https://open.spotify.com/track/2xXxhNbNkeOUH2rQhzmqCB) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Shoe Shine](https://open.spotify.com/album/7tPVkZr79zSooDsjgYEy5r) | 5:47 | 2024-09-17 | 2024-10-09 |
 | [Something's Wrong](https://open.spotify.com/track/0gewynQBTwzAgSS6vLWcFZ) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Something's Wrong \-EP\-](https://open.spotify.com/album/6o4aoOi9IcKNgSUBy1mJAQ) | 3:28 | 2023-01-12 | 2023-04-05 |
-| [Somewhere](https://open.spotify.com/track/66Y414GgpGzepfJEsT2D7A) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Somewhere](https://open.spotify.com/album/5OSXSuN2jEjGsFRUR2Qv8S) | 3:47 | 2024-11-05 |  |
+| [Somewhere](https://open.spotify.com/track/66Y414GgpGzepfJEsT2D7A) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Somewhere](https://open.spotify.com/album/5OSXSuN2jEjGsFRUR2Qv8S) | 3:47 | 2024-11-05 | 2024-12-06 |
 | [Song for you](https://open.spotify.com/track/72v02xOSWuDQphZPZTqxzp) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BUDDY CLUB](https://open.spotify.com/album/0nNF3J9mHGy8v07hWoBLiI) | 2:18 | 2023-04-25 | 2023-06-01 |
 | [Song For You & Me](https://open.spotify.com/track/2PwUNMzovPMyv6i6uibS3D) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [RICORITA](https://open.spotify.com/album/16yI6zhMtzYc1xSoKrxV1M) | 2:52 | 2024-06-11 | 2024-07-10 |
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-20 | 2024-09-18 |

@@ -4,7 +4,7 @@
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 
-180 songs - 9 hr 43 min
+181 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/5g8xcC8CR9RcepQXXQuhOc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Winter Hits 2020](https://open.spotify.com/album/0qRSDaPX2vRkVVENvqpa28) | 2:30 | 2022-10-28 | 2022-11-13 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/6ca5oWPPv6nXVjeFUyucvA) | 2:30 | 2021-12-17 |  |
 | [Christmas Drillings](https://open.spotify.com/track/7oD6QZsaK3lrMWsmJnvuO0) | [Sidemen](https://open.spotify.com/artist/3cz1YSCXv6hjifHO6bYLLH) | [Christmas Drillings](https://open.spotify.com/album/0CBwRbpR7nrqLubnx5CjNo) | 3:12 | 2022-12-16 | 2023-11-16 |
-| [Christmas Is All Around](https://open.spotify.com/track/5h8dC1fpAEDEDwXpE2fJyv) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Christmas Is All Around](https://open.spotify.com/album/5FkHXF2WtCa0bAajLq1SxC) | 2:59 | 2024-11-22 |  |
+| [Christmas Is All Around](https://open.spotify.com/track/5h8dC1fpAEDEDwXpE2fJyv) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Christmas Is All Around](https://open.spotify.com/album/5FkHXF2WtCa0bAajLq1SxC) | 2:59 | 2024-11-22 | 2024-12-06 |
 | [Christmas Is All Around \- Soundtrack Version](https://open.spotify.com/track/2bWizjWMdoTFUmMdaZsZsi) | [Billy Mack](https://open.spotify.com/artist/1I42E6vHKlGhggG55hvVtx) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 3:48 | 2023-10-27 | 2024-11-22 |
 | [Christmas Lights](https://open.spotify.com/track/5qaWzFL2PoVtRDSRKmaeYs) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Now That's What I Call Christmas](https://open.spotify.com/album/3eYqEBNC8yVgeExCQgogQh) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [Christmas Lights](https://open.spotify.com/track/2NyiWPdsYTKYB1aX9BWfFu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Music \- 50 Christmas Songs](https://open.spotify.com/album/2zyHcaXBI4bpHZAAGE0Pl3) | 4:02 | 2022-10-28 | 2022-11-14 |
@@ -138,6 +138,7 @@
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6CKN3aSdYCWAGE8VIxY2oI) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Family Christmas Singalong](https://open.spotify.com/album/66geHFCxf6P76sww1sCHHA) | 2:31 | 2022-10-28 | 2022-11-13 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/013OtfiI9W3qO3dGwte8hv) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [World's Best Christmas Playlist 2023](https://open.spotify.com/album/3UOI7eKPTkMGC4JWJiVuRn) | 2:31 | 2022-12-16 | 2023-10-28 |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/24bMh8AF6XZsklVgnHwlrP) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:31 | 2021-12-17 | 2023-06-10 |
+| [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 | 2024-12-06 |  |
 | [Santa Baby](https://open.spotify.com/track/0cM5URUqqQTpJWonmdzF1J) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [A Kylie Christmas](https://open.spotify.com/album/0D0L0pzNy8gu9d1jXbridR) | 3:22 | 2021-12-17 |  |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/3WenabAYCnkf3AKEjukQhY) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Merry Christmas Baby](https://open.spotify.com/album/3rlxuugpyJG4hIWVO91UeC) | 2:56 | 2023-10-27 |  |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2023-10-27 |  |

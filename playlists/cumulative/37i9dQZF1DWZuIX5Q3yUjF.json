@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Elodie, Tiziano Ferro",
+  "description": "Il meglio dell'R&B italiano. Cover: Palmaria",
   "name": "anima R&B",
   "tracks": [
     {
@@ -8380,7 +8380,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 199365,
       "name": "Nuova Forma",
       "url": "https://open.spotify.com/track/5kdVto9S0QQwZXyfn3J0oH"
@@ -12138,6 +12138,24 @@
       "duration_ms": 155948,
       "name": "Threeway",
       "url": "https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS"
+    },
+    {
+      "album": {
+        "name": "Ti scorderai di me",
+        "url": "https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy"
+      },
+      "artists": [
+        {
+          "name": "TOMMY DALI",
+          "url": "https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176566,
+      "name": "Ti scorderai di me",
+      "url": "https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh"
     },
     {
       "album": {

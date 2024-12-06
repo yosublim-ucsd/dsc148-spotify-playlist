@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Dear, Barcelona",
+        "url": "https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Dear, Barcelona",
+      "url": "https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G"
+    },
+    {
+      "album": {
         "name": "Deep in the night, you and me",
         "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
@@ -1518,6 +1536,24 @@
       "duration_ms": 281000,
       "name": "Like a Bird",
       "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "album": {
+        "name": "Like a tree",
+        "url": "https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW"
+      },
+      "artists": [
+        {
+          "name": "YE ON",
+          "url": "https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295889,
+      "name": "Like a tree",
+      "url": "https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx"
     },
     {
       "album": {
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"

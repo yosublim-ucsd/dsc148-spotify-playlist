@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 149999,
       "name": "15 Gramos",
       "url": "https://open.spotify.com/track/158fs2nrDmdCVoxEIjT8pq"
@@ -352,6 +352,24 @@
       "duration_ms": 101731,
       "name": "Antimateria",
       "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
+    },
+    {
+      "album": {
+        "name": "Cuarto Mundo",
+        "url": "https://open.spotify.com/album/2Q0qXD7BSCwRuZJ6cb2xuR"
+      },
+      "artists": [
+        {
+          "name": "Cuarto Mundo",
+          "url": "https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "Arcano",
+      "url": "https://open.spotify.com/track/343upm20E1tcXBoSlHaVuX"
     },
     {
       "album": {
@@ -710,7 +728,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 180257,
       "name": "Corre, Escapa",
       "url": "https://open.spotify.com/track/23qJwmWJysiJYky8U5zpaS"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 125769,
       "name": "Habitamos el vertedero",
       "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
@@ -2011,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "La Cattana",
+        "url": "https://open.spotify.com/album/0c6dnXJnpwcqfpVRXmpQEc"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "La Cattana",
+      "url": "https://open.spotify.com/track/5GDvrYLtdJq4YA14aWILc6"
+    },
+    {
+      "album": {
         "name": "La Del Americano",
         "url": "https://open.spotify.com/album/3gPecnYyJOKS5NhXP01cXK"
       },
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 142373,
       "name": "Las Drogas",
       "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
@@ -2210,7 +2246,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 220943,
       "name": "Lola",
       "url": "https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 124853,
       "name": "Mi Mejor Colega - original",
       "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 105946,
       "name": "Nueva libertad",
       "url": "https://open.spotify.com/track/3UtJ8omZiJbHynoIbi4mQE"
@@ -3004,7 +3040,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 162609,
       "name": "Placer Al fin",
       "url": "https://open.spotify.com/track/7pKs0NK6zlPICc2BPyqteC"
@@ -3124,6 +3160,24 @@
       "duration_ms": 210279,
       "name": "Preso 2023",
       "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
+    },
+    {
+      "album": {
+        "name": "Prozak, Etumina y Haloperidol",
+        "url": "https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Prozak, Etumina y Haloperidol",
+      "url": "https://open.spotify.com/track/1bR2QoVmgV3b4wbVVZ3VUj"
     },
     {
       "album": {
@@ -3420,7 +3474,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192880,
       "name": "Sols El Poble Salva Al Poble",
       "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
@@ -3438,7 +3492,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 157991,
       "name": "Sombra y Luz - Sombra y Luz",
       "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
@@ -3748,7 +3802,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 96666,
       "name": "Vpo",
       "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
@@ -3810,10 +3864,28 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
+    },
+    {
+      "album": {
+        "name": "Yonkijote",
+        "url": "https://open.spotify.com/album/5EWAsbX9Pp3i22ckFWrrPF"
+      },
+      "artists": [
+        {
+          "name": "A Granel",
+          "url": "https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128498,
+      "name": "Yonkijote",
+      "url": "https://open.spotify.com/track/4OHk0NyPOMuIndz5HohDOl"
     },
     {
       "album": {
@@ -3828,7 +3900,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 158824,
       "name": "zona s\u00edsmica",
       "url": "https://open.spotify.com/track/0DI5XP7DSwdPRFWKpazJgJ"

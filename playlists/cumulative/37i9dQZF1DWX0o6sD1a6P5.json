@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tiakola x Wizkid",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tyla",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "C'est ma vie",
+        "url": "https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "C'est ma vie",
+      "url": "https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv"
+    },
+    {
+      "album": {
         "name": "C'est mort",
         "url": "https://open.spotify.com/album/2VXCxNQ2RX1v58C5o5x4OP"
       },
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
@@ -3172,7 +3190,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 133894,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
@@ -3924,7 +3942,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 140064,
       "name": "Djigili",
       "url": "https://open.spotify.com/track/0zAGFIM9C5BfqPB9vD57ex"
@@ -4606,6 +4624,28 @@
       "duration_ms": 146092,
       "name": "Elle est trop",
       "url": "https://open.spotify.com/track/45Kl4j0f9Qq1eyKtAUiucg"
+    },
+    {
+      "album": {
+        "name": "Hybride",
+        "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140760,
+      "name": "Elle veut",
+      "url": "https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a"
     },
     {
       "album": {
@@ -6320,6 +6360,28 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
     },
     {
       "album": {

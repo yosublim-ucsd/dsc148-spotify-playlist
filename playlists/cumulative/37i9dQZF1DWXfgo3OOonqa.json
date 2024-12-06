@@ -9293,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "En av En",
+        "url": "https://open.spotify.com/album/2gwH6ZL3Y1eJtOABL5Lely"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118880,
+      "name": "En av En",
+      "url": "https://open.spotify.com/track/25gpMBmBl7NirmrPNCCejo"
+    },
+    {
+      "album": {
         "name": "En Chans",
         "url": "https://open.spotify.com/album/2iWpYrj5Crkov7rTVn7TCU"
       },
@@ -22849,6 +22867,24 @@
     },
     {
       "album": {
+        "name": "Ord",
+        "url": "https://open.spotify.com/album/0AaP6Qw4Ovku76I3PQ6pLb"
+      },
+      "artists": [
+        {
+          "name": "Ravin",
+          "url": "https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109321,
+      "name": "Ord",
+      "url": "https://open.spotify.com/track/76BSmyzhM8E2O6p8YwkLN9"
+    },
+    {
+      "album": {
         "name": "Ordning & Reda",
         "url": "https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB"
       },
@@ -24788,6 +24824,24 @@
       "duration_ms": 123823,
       "name": "Radarn",
       "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
+    },
+    {
+      "album": {
+        "name": "RASAR",
+        "url": "https://open.spotify.com/album/1edci0RQ0JGZ7amW2eEFZf"
+      },
+      "artists": [
+        {
+          "name": "Gee Dixon",
+          "url": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206582,
+      "name": "RASAR",
+      "url": "https://open.spotify.com/track/2lJGXcdxk8HdaGlZrMIkQ2"
     },
     {
       "album": {
@@ -30885,6 +30939,24 @@
     },
     {
       "album": {
+        "name": "Tr\u00e4ffa mig i smyg",
+        "url": "https://open.spotify.com/album/546ngml7E9Blz8gtk9u4Gz"
+      },
+      "artists": [
+        {
+          "name": "Robbz x Brookz",
+          "url": "https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147882,
+      "name": "Tr\u00e4ffa mig i smyg",
+      "url": "https://open.spotify.com/track/2YTJQDkAHUbxGQAvgqtsk9"
+    },
+    {
+      "album": {
         "name": "In Memory Of Some Stand Up Guys",
         "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
       },
@@ -33059,6 +33131,28 @@
     },
     {
       "album": {
+        "name": "WINA DEN",
+        "url": "https://open.spotify.com/album/2DneB2vhRBvWM0aSvKYHds"
+      },
+      "artists": [
+        {
+          "name": "Emiliano",
+          "url": "https://open.spotify.com/artist/5zNVLSn6tRAzrfis3IUqns"
+        },
+        {
+          "name": "Alex Lopesz",
+          "url": "https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "WINA DEN",
+      "url": "https://open.spotify.com/track/2wIklDbhDn9jN3kgdrhG93"
+    },
+    {
+      "album": {
         "name": "Window Shopper",
         "url": "https://open.spotify.com/album/1kUpXT3OAzoiy7l1KtsX9y"
       },
@@ -33614,6 +33708,24 @@
       "duration_ms": 167040,
       "name": "Yumma",
       "url": "https://open.spotify.com/track/4DN48nHlUyiuTqSbQaNhju"
+    },
+    {
+      "album": {
+        "name": "Zai Thai",
+        "url": "https://open.spotify.com/album/6G9dUhyCRfh5ZMnzIU4PVe"
+      },
+      "artists": [
+        {
+          "name": "Arre",
+          "url": "https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Zai Thai",
+      "url": "https://open.spotify.com/track/1Ok7zEVEnAxiFwMKnS1FG5"
     },
     {
       "album": {

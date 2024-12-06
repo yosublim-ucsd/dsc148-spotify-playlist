@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 224186,
       "name": "Purple Sky",
       "url": "https://open.spotify.com/track/5YFaiAKYhQvTTBMz8w3uPr"
@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 251880,
       "name": "Super Lover",
       "url": "https://open.spotify.com/track/5CKZKAat1cJhMTRtSx2KJA"
@@ -4886,7 +4886,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 277680,
       "name": "VIVID \u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/2aiEGZJDS0ocnkdiR339AW"
@@ -5176,7 +5176,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 310720,
       "name": "\u3055\u304b\u3057\u307e\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/7k7jWP36Anxoy6TBFVMepH"
@@ -6602,7 +6602,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 234946,
       "name": "\u4fe0\u6c17\u4e71\u821e",
       "url": "https://open.spotify.com/track/0ErE3PUHS4SUL9MvSqRqe1"
@@ -7522,7 +7522,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 190106,
       "name": "\u7a32\u59bb\u30b9\u30d4\u30ea\u30c3\u30c8",
       "url": "https://open.spotify.com/track/3tOGQym8VauhRw5NVGQDhz"
@@ -7746,7 +7746,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"
@@ -7790,6 +7790,24 @@
       "duration_ms": 300413,
       "name": "\u991e\u306e\u9ce5",
       "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 09",
+        "url": "https://open.spotify.com/album/0cJMcwShlAMyP5ooWPxWwQ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283026,
+      "name": "\u9ce5\u7c60\u30b9\u30af\u30ea\u30d7\u30c1\u30e5\u30a2",
+      "url": "https://open.spotify.com/track/5w3ZSoyDhnTXx9xEFRWAM5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYF9TpSdRtkF"

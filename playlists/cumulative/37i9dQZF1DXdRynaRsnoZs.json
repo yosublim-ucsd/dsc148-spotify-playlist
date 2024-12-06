@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/0xCWDJ0c67zt59hk0l2eo4"
+      },
+      "artists": [
+        {
+          "name": "Jo Nichols",
+          "url": "https://open.spotify.com/artist/3XZOOG3V4fB9wCDBUUZlzq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86631,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/0zy8xnRLIQ8mnA3Z9diYHZ"
+    },
+    {
+      "album": {
         "name": "The Joy of Christmas",
         "url": "https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD"
       },
@@ -1408,6 +1426,24 @@
       "duration_ms": 113288,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK"
+    },
+    {
+      "album": {
+        "name": "Lullaby Instrumentals: Happy Holidays",
+        "url": "https://open.spotify.com/album/3DfrXQ4rzbVgsDQ7y2qERh"
+      },
+      "artists": [
+        {
+          "name": "Lullavibes",
+          "url": "https://open.spotify.com/artist/2IIF8jrpe367SgyJ6r7HUk"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225309,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/1Gneuw6f4PIrg19bwMC8aK"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Spiritbox
+> The best in new rock\. Cover: Sam Fender
 
-214 songs - 12 hr 20 min
+217 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-26 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-10-11 |
 | [Black Balloon](https://open.spotify.com/track/6xPaEPEayaj9sxYXMdWk7q) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Black Balloon](https://open.spotify.com/album/2YTaEe1xzi2YRGHKwSzDjE) | 4:02 | 2024-05-02 | 2024-08-23 |
-| [Blood](https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/5m1PFNZ4wQOqJrMVsSyGn4) | 3:34 | 2024-08-01 |  |
+| [Blood](https://open.spotify.com/track/75L4uUeq4U8Z48XuRYJfUd) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [The Deluge](https://open.spotify.com/album/5m1PFNZ4wQOqJrMVsSyGn4) | 3:34 | 2024-08-01 | 2024-12-06 |
 | [Blutac](https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5) | [Heavy Moss](https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt) | [Dead Slow](https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC) | 5:35 | 2024-11-28 |  |
 | [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 |  |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-08-02 |
@@ -51,6 +51,7 @@
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-05 | 2024-10-18 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-04-09 | 2024-07-12 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-04-25 | 2024-08-31 |
+| [Don't Feel Right](https://open.spotify.com/track/15o1aMlyBLPTiPNSplIsAo) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Don't Feel Right](https://open.spotify.com/album/5r6Gn5aCcCku9RDnFdIGTk) | 3:06 | 2024-12-05 |  |
 | [Don't Try To Talk](https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:06 | 2024-10-31 |  |
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-26 |  |
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-04-09 |  |
@@ -65,7 +66,7 @@
 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 | 2024-09-12 | 2024-11-15 |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 |  |
 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 | 2024-11-28 |  |
-| [First One](https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [The Only Place I Know](https://open.spotify.com/album/43lrNoD7YTqyHtZL6TaX8M) | 2:04 | 2024-09-26 |  |
+| [First One](https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [The Only Place I Know](https://open.spotify.com/album/43lrNoD7YTqyHtZL6TaX8M) | 2:04 | 2024-09-26 | 2024-12-06 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-04-09 | 2024-07-27 |
 | [Ghost Of Us](https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Ghost Of Us](https://open.spotify.com/album/7oO3cTGMCYfXOEptg8jVxS) | 3:27 | 2024-11-28 |  |
 | [Giant's Despair](https://open.spotify.com/track/6ZM932VVT6gSgo2ATdtt4i) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [All You Embrace](https://open.spotify.com/album/5fXeDBzHjkgwYod1kt4EUL) | 3:40 | 2024-05-23 | 2024-08-02 |
@@ -75,7 +76,7 @@
 | [Hate It When You Call](https://open.spotify.com/track/01WZlSocaPq8P11FC8J9hE) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Hate It When You Call](https://open.spotify.com/album/0U6ZeUoK0vFEZ3Z9xUOHz9) | 2:50 | 2024-05-09 | 2024-07-05 |
 | [Hate Me If You Want](https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Hate Me If You Want](https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg) | 2:52 | 2024-09-19 |  |
 | [He's A Lad](https://open.spotify.com/track/5btBJ5bMhC5rj9hI5uG44I) | [Noah Dillon](https://open.spotify.com/artist/6g4VCntGKDE2bsGSPEjtal) | [He's A Lad](https://open.spotify.com/album/5oTg0D4D6qNCmtpkOskoYZ) | 3:50 | 2024-07-11 | 2024-09-27 |
-| [Heartbeats](https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine](https://open.spotify.com/album/5GPBkq5Um3EzY4OFnDfcR7) | 3:39 | 2024-06-27 |  |
+| [Heartbeats](https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine](https://open.spotify.com/album/5GPBkq5Um3EzY4OFnDfcR7) | 3:39 | 2024-06-27 | 2024-12-06 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 | 2024-10-03 |  |
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-06-20 | 2024-11-15 |
@@ -126,6 +127,7 @@
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-04-09 | 2024-08-02 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-21 |  |
 | [Ninety Nine \(Go For Broke\)](https://open.spotify.com/track/3AuhfeALbFab4Fyyd3EdWQ) | [The Angels](https://open.spotify.com/artist/2PeqTZKroEc2oDwTfmB2al) | [Ninety Nine \(Go For Broke\)](https://open.spotify.com/album/4wRcyhF3sEUmwVGj8pc1DP) | 2:45 | 2024-05-30 |  |
+| [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 | 2024-12-05 |  |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-30 |  |
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2024-08-09 |
 | [No Other Place](https://open.spotify.com/track/3XE8IQe5xPB0YvWEFAAfZh) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [No Other Place](https://open.spotify.com/album/3Rr3LnAb1qDaRk3G8JTmbO) | 2:46 | 2024-08-08 | 2024-10-11 |
@@ -212,6 +214,7 @@
 | [Weaponz](https://open.spotify.com/track/00pmqiJxIvnorE7dDR8Hnr) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Weaponz](https://open.spotify.com/album/3DRQt80MAHsSJC2vraQVaX) | 2:29 | 2024-04-09 | 2024-07-27 |
 | [What Do You Want Me To Be](https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [What Do You Want Me To Be](https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0) | 3:05 | 2024-11-07 |  |
 | [What You've Lost](https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [What You've Lost](https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8) | 2:51 | 2024-06-27 | 2024-11-15 |
+| [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-05 |  |
 | [Wildflowers](https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5) | [Jim Nothing](https://open.spotify.com/artist/4eb7qCBJliHYY0oYgFFdYR) | [Wildflowers](https://open.spotify.com/album/2aPcmHmXm8VOirMVurtynw) | 2:52 | 2024-10-03 |  |
 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 | 2024-05-09 |  |
 | [Wreck & Ruin](https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Rebuild Repeat](https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox) | 2:25 | 2024-06-13 | 2024-10-11 |

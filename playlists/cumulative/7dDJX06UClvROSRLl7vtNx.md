@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-650 songs - 1 day 4 hr 19 min
+651 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Falling In Love](https://open.spotify.com/track/1XHVcapurdhEB39TaktK8I) | [Nostalgic Feeling](https://open.spotify.com/artist/7ugUmmaKYg6071bjHsRx2Y), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM) | [Falling In Love](https://open.spotify.com/album/21epMUHqRrpJpyZybGJIe3) | 2:42 | 2024-04-14 | 2024-07-05 |
 | [Faraway](https://open.spotify.com/track/58pi82abqVUY3jRNDvZJWC) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Faraway](https://open.spotify.com/album/7f27vQWTvfWzsUdyjUU4wm) | 2:58 | 2024-09-01 | 2024-09-30 |
 | [Fast Car](https://open.spotify.com/track/5iWfvvDDdwmjmuQuquEwgg) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Fast Car](https://open.spotify.com/album/5GjEy1Gaki9Q3zAa6fnznm) | 2:48 | 2023-09-22 |  |
+| [Feel](https://open.spotify.com/track/35w3yvIS9rMvhUg9oEcYcH) | [SUGAR RUSH](https://open.spotify.com/artist/3mkErTLZLhkuDpNSLiN9Z1), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Feel](https://open.spotify.com/album/0yrJOqsM4UtGS1OOYh4Tu5) | 2:02 | 2024-12-05 |  |
 | [Feel Alive](https://open.spotify.com/track/1Eiczy4ODEAEIhyzS7WIs8) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Feel Alive](https://open.spotify.com/album/2EbaF0PmHli9HQFgrVVS8m) | 2:13 | 2024-10-10 |  |
 | [Feel Alright](https://open.spotify.com/track/6yFWU2RnhjoMRCFJRG6I3n) | [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02) | [Feel Alright](https://open.spotify.com/album/23LeqWTGhdn8fGeMvsxGyy) | 2:39 | 2024-02-11 | 2024-03-11 |
 | [Feel Invisible](https://open.spotify.com/track/4788vVadOEMH5pSoX6ZnEk) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Feel Invisible](https://open.spotify.com/album/2Lv35h237ZtcHaBvY3GL8c) | 2:43 | 2023-11-22 | 2023-12-30 |

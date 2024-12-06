@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,235 likes - 308 songs - 21 hr 22 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,234 likes - 308 songs - 21 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 40 | [Dream FX](https://open.spotify.com/track/03dim3IEyLQGzKq8Yu641y) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:12 |
 | 41 | [Paradigm Shift](https://open.spotify.com/track/6S2iWk3tnRuwLJgRjplJtH) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [Transient Offworld](https://open.spotify.com/album/01ybaBILfyIhgFFbFNe0gF) | 4:00 |
 | 42 | [FCKD](https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE) | [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Mark Arn](https://open.spotify.com/artist/5xBqBIu7ESuIlJ4cLsS1B8) | [Cyberpunk EP](https://open.spotify.com/album/7i8tKtIKPpKUo8LfilzRFc) | 3:26 |
-| 43 | [Biomechanoid](https://open.spotify.com/track/6Lb2UZv6h3gUSeaCOs9aoS) | [Wraithwalker](https://open.spotify.com/artist/3jCaxDDk5tcGOHsX4x0HxE) | [Blackest Night](https://open.spotify.com/album/2Dn29pRHaR0z1zYezVllGV) | 3:31 |
+| 43 | [Transistor Rhythms](https://open.spotify.com/track/2JeLlyEZqeMQrZC2bbp4HF) | [Iterations](https://open.spotify.com/artist/49kDrCRjTsLxJETYSWBVjt) | [Transistor Rhythms](https://open.spotify.com/album/5szWdtjRqur5MUpUJ7lvzC) | 5:32 |
 | 44 | [TYRAEL](https://open.spotify.com/track/3FPNuTquIJbhqG0LX4atqi) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [TYRAEL](https://open.spotify.com/album/5KNPf1L0u6WRgVhlLR0mOl) | 3:28 |
 | 45 | [Human Hardware](https://open.spotify.com/track/0BN0PJBuz4tJTQldzQNQGo) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 4:37 |
 | 46 | [Wish](https://open.spotify.com/track/5i9mH9PcMrlqYcxnUX1LYC) | [Eightecs](https://open.spotify.com/artist/3ZprFbLQkdlLeUaNZBuhJ6) | [Wish](https://open.spotify.com/album/0ZqGWhGX9AYvmR4tgZYaFo) | 3:58 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 307 | [Heavy Metal Brothers](https://open.spotify.com/track/10VfLWYzB3HDsy2cURe7Yy) | [Fighter Jets](https://open.spotify.com/artist/6kzcQB6tyfyVIwnwoWV7vH) | [Heavy Metal Brothers](https://open.spotify.com/album/6Dzgh1UH98YZ6nAUgoYRUx) | 4:23 |
 | 308 | [Violence \- Call Me Sleeper Remix](https://open.spotify.com/track/48qtquoS7amT7zu2V65oiS) | [Powernerd](https://open.spotify.com/artist/2vio6wIiVR3XOM1zlgMxXK), [Requiem](https://open.spotify.com/artist/7seQVCjq5nCcLxb6B3TLsR), [Call Me Sleeper](https://open.spotify.com/artist/56R43sgGa6BTTr7xkE5TyE) | [Violence \(Call Me Sleeper Remix\)](https://open.spotify.com/album/0ixgdQdosPVMvD6pkF7dE6) | 3:33 |
 
-Snapshot ID: `AAADFS64CdVdbhrZuAU56GBKCI/qVwk+`
+Snapshot ID: `AAADGWCmVwPhSXni4HCDmvwMLDC6cY/W`

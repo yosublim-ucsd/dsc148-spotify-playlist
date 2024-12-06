@@ -4,7 +4,7 @@
 
 > 
 
-1,870 songs - 4 day 3 hr 59 min
+1,871 songs - 4 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Dream](https://open.spotify.com/track/4UmUmJqQK3tPUEX3gEbIPF) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Dream](https://open.spotify.com/album/5umZsTreEdNKVhEHLncTGy) | 2:55 | 2024-09-20 |  |
 | [Dream \- Radio Edit](https://open.spotify.com/track/3IXcb2qb7vzw7jKXNCvjvD) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Dream \(Radio Edit\)](https://open.spotify.com/album/44EzHdklZrj2cXIVa9RY4O) | 3:20 | 2024-11-03 |  |
 | [Dream Up \- kors k Remix](https://open.spotify.com/track/5j6dFGY2oVg47wLGwH72nZ) | [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M), [Mari\*F](https://open.spotify.com/artist/1B5gXWmWIPU0LKVIpYHJKx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ) | [Dream Up \(feat\. Mari\*F\) \[kors k Remix\]](https://open.spotify.com/album/7zENTXepNOXr8bNEd1VRLB) | 4:43 | 2022-09-27 |  |
+| [Dreaming](https://open.spotify.com/track/0ADD222IXEmtSXE2AuVVzS) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Dreaming](https://open.spotify.com/album/5SEUUeBqYlKo41zlkGbHsB) | 3:05 | 2024-12-05 |  |
 | [Driftin'](https://open.spotify.com/track/7xJqmjHtPBKTIa18GXUog4) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Driftin'](https://open.spotify.com/album/6oZb1uwGF70X2TT3lrvD58) | 2:50 | 2024-07-17 |  |
 | [Drifting Away](https://open.spotify.com/track/28lyEHZrnmRJETHMrnyTjB) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Drifting Away](https://open.spotify.com/album/5aLrJHWb2OwLbNLpp7t4Ug) | 4:26 | 2023-05-06 |  |
 | [Drifting Away \- Extended Mix](https://open.spotify.com/track/6TX6t2DkZ6nrfQKfcMG2gh) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:21 | 2023-01-21 |  |

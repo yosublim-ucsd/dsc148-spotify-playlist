@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 168004,
       "name": "Adina Bengarab",
       "url": "https://open.spotify.com/track/3FvJUxZIG180cmXf1T87ZJ"
@@ -4640,6 +4640,32 @@
       "duration_ms": 121621,
       "name": "NATARQA",
       "url": "https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9"
+    },
+    {
+      "album": {
+        "name": "Nazel 3la Fo2",
+        "url": "https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Hassan Yasser",
+          "url": "https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141182,
+      "name": "Nazel 3la Fo2",
+      "url": "https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT"
     },
     {
       "album": {

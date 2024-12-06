@@ -1,12 +1,12 @@
 {
   "description": "Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.",
-  "num_followers": 75498,
+  "num_followers": 75493,
   "original_name": "LoFi Rod's Chillhop Lounge",
   "owner": {
     "name": "awesomeplaylists",
     "url": "https://open.spotify.com/user/awesomeplaylists"
   },
-  "snapshot_id": "AAAH+K3rN7LiTVzSprO3meKOO6oQueUW",
+  "snapshot_id": "AAAH+t4/xb/15gRMsgNvVe7BEymboJIh",
   "tracks": [
     {
       "added_at": "2024-11-26 02:38:32",
@@ -79,22 +79,6 @@
       "duration_ms": 111627,
       "name": "Good Times, Good Vibes",
       "url": "https://open.spotify.com/track/640OxThTULy36uzpuPPjMa"
-    },
-    {
-      "added_at": "2024-11-26 02:38:32",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6zX8PtxPwv07008avXkXtr"
-      },
-      "artists": [
-        {
-          "name": "Calm Chapter",
-          "url": "https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh"
-        }
-      ],
-      "duration_ms": 106956,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/0gCbudbeIhe7n9zA4Xpn8r"
     },
     {
       "added_at": "2024-11-26 02:38:32",
@@ -611,6 +595,22 @@
       "duration_ms": 144705,
       "name": "blues clues",
       "url": "https://open.spotify.com/track/6dE8byiQs38hPetenI2Zuh"
+    },
+    {
+      "added_at": "2024-11-26 02:38:32",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6zX8PtxPwv07008avXkXtr"
+      },
+      "artists": [
+        {
+          "name": "Calm Chapter",
+          "url": "https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh"
+        }
+      ],
+      "duration_ms": 106956,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0gCbudbeIhe7n9zA4Xpn8r"
     },
     {
       "added_at": "2024-11-26 02:38:32",

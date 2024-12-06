@@ -1,32 +1,33 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain](/playlists/plain/37i9dQZF1DX9YuquEmVMFY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9YuquEmVMFY)
 
-### [On Tour Korea: Jamie xx](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
+### [On Tour Korea: 거미](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
-> <Jamie xx live in Seoul> 2024년 11월 28일 \(목\) 오후 8시 @YES 24 라이브 홀\(서울\)
+> GUMMY Tour Concert 2024 〈LOVE〉 2024년 12월 14\~28일 \(목\) @서울, 대구, 부산, 성남
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,061 likes - 20 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,048 likes - 21 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
-| 2 | [Gosh](https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:51 |
-| 3 | [Baddy On The Floor](https://open.spotify.com/track/79gWc6dZ1dXH7rC67DTunz) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 3:42 |
-| 4 | [Wanna](https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 2:15 |
-| 5 | [Treat Each Other Right](https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 4:00 |
-| 6 | [LET'S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET'S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
-| 7 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 |
-| 8 | [All Under One Roof Raving](https://open.spotify.com/track/6giQSCiUkjiYkMsCXZ3ZAy) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [All Under One Roof Raving](https://open.spotify.com/album/2t6527FpEu3kojik3PibKp) | 5:59 |
-| 9 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
-| 10 | [It's So Good](https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [It's So Good](https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij) | 4:38 |
-| 11 | [Still Summer](https://open.spotify.com/track/27D9YN3uHPD3PTXvzNtbto) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 3:25 |
-| 12 | [Obvs](https://open.spotify.com/track/5kSBstWdaP3tMlArgGM00C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 3:51 |
-| 13 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 |
-| 14 | [Breather](https://open.spotify.com/track/6pOzbdJKEr4hvXkX7VkfY6) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 6:16 |
-| 15 | [Sleep Sound](https://open.spotify.com/track/7H2adPObEX0T4sYTPzm6vK) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 3:52 |
-| 16 | [Every Single Weekend \- Interlude](https://open.spotify.com/track/1wpcJ6TCrKpH6KdBmrp9yN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 1:11 |
-| 17 | [Falling Together](https://open.spotify.com/track/08Jhu8OZ6gCIGWQn6vP3uI) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Oona Doherty](https://open.spotify.com/artist/2Q4FR4Ss0mh6EvbiQBHEOU) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 5:37 |
-| 18 | [Far Nearer](https://open.spotify.com/track/1KThgRWylKw6mbUtA8pyPH) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Far Nearer](https://open.spotify.com/album/7hwnDWycmNtOCtfQ8JSS56) | 6:50 |
-| 19 | [I Know There's Gonna Be \(Good Times\)](https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 3:33 |
-| 20 | [Running](https://open.spotify.com/track/7xPldYgAV4W8L4AOsq6XJG) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 3:31 |
+| 1 | [Love Recipe](https://open.spotify.com/track/7llGIYeteN3pTEcujNfeEZ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [Bobby Kim](https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z) | [Love Recipe](https://open.spotify.com/album/2xVUfaZWMf3jPfWlOOwqBj) | 3:51 |
+| 2 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
+| 3 | [We Should've Been Friends](https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:41 |
+| 4 | [Childish Adult](https://open.spotify.com/track/06hY8viaxC51LU6w4Cm4lY) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [For The Bloom](https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV) | 3:43 |
+| 5 | [구르미 그린 달빛](https://open.spotify.com/track/0kowEmoCAdTMJj5dm44eGK) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [구르미 그린 달빛 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/73PDfj8ygf4kCSua7abkMU) | 3:58 |
+| 6 | [Memory Loss](https://open.spotify.com/track/0tCZ6PZXTa25Fidj0DnYzJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 3:53 |
+| 7 | [기억해줘요 내 모든 날과 그때를](https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:48 |
+| 8 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |
+| 9 | [혼자만 하는 사랑](https://open.spotify.com/track/6J0M0cR2SOdgmAHTjtoYYl) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [For The Bloom](https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV) | 4:25 |
+| 10 | [Snowflake](https://open.spotify.com/track/4QXb2c6lUkcjuyKXMNcv4L) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Baramibunda OST Part 3](https://open.spotify.com/album/3ms066Wz3MnQ05isWQpzzA) | 3:27 |
+| 11 | [I'm Sorry \(Feat\. T.O.P\)](https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [T.O.P.](https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y) | [Comfort](https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP) | 3:56 |
+| 12 | [그대라서](https://open.spotify.com/track/0A8NkJsiEmBC18C4tT7YSj) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Will it snow for Christmas? OST](https://open.spotify.com/album/3TcRNlXWiCD5Zym1qOtTco) | 3:31 |
+| 13 | [I Will Stay With You](https://open.spotify.com/track/4QOv0bYWBRr6Fp3paq3tZw) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Romantic Doctor 3 OST Part.2](https://open.spotify.com/album/7Db25PkL5e5d7RKPk4mlhw) | 3:27 |
+| 14 | [Because Of You](https://open.spotify.com/track/01Z81LLMSZfw8PgBJAKRcI) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Loveless](https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr) | 3:18 |
+| 15 | [I I YO \(Prod.Gill Of Magic Mansion\)](https://open.spotify.com/track/1lSnGPnfYw6irn5YleedJN) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [STROKE](https://open.spotify.com/album/0dvQV58rP7hduBW5AD2SM3) | 4:21 |
+| 16 | [No](https://open.spotify.com/track/6Qe87q9panJspyAMdbtAtX) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [For The Bloom](https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV) | 4:12 |
+| 17 | [남자라서](https://open.spotify.com/track/0YzFW9YrGZ8H0PDxm4b9u6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Loveless](https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr) | 4:26 |
+| 18 | [죽어도 사랑해](https://open.spotify.com/track/2mMpO8XVZAjXukh1nlDb65) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [대물 Pt.1 Original Television Soundtrack](https://open.spotify.com/album/2h07CWmZRbmE2ndRohoW9O) | 4:16 |
+| 19 | [I Wanna Be With You](https://open.spotify.com/track/5SpFYYh8k9OzViu7XCWIkt) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0BLapMW376NbEbg6CtF2XN) | 4:07 |
+| 20 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 |
+| 21 | [노래해요 그대 듣도록](https://open.spotify.com/track/4TOM0gxRic72ErGNCvJ3pY) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/6bJMzXTQUjeSwMaunET0g4) | 3:09 |
 
-Snapshot ID: `Z0QWOwAAAABFMzZV13lY9sTdbJU/wyFf`
+Snapshot ID: `Z1ExMwAAAADMRjFt91isfpO8xfbFyKjs`

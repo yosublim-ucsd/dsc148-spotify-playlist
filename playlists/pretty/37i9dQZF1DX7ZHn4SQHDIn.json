@@ -1,12 +1,12 @@
 {
   "description": "All in us! ITZY is back!",
-  "num_followers": 324025,
+  "num_followers": 323997,
   "original_name": "This Is ITZY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw7GtQAAAACStCiRejaKZiya36hvc1Rw",
+  "snapshot_id": "Z1EijAAAAABuN8OviQuAdF9H79ACFKwk",
   "tracks": [
     {
       "added_at": "2024-10-15 19:47:01",
@@ -23,6 +23,38 @@
       "duration_ms": 187213,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09"
+    },
+    {
+      "added_at": "2024-12-05 03:48:28",
+      "album": {
+        "name": "The Fiery Priest 2 (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "duration_ms": 178620,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL"
+    },
+    {
+      "added_at": "2024-12-05 03:48:28",
+      "album": {
+        "name": "Love Your Enemy OST Part 3",
+        "url": "https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB"
+      },
+      "artists": [
+        {
+          "name": "YEJI (ITZY)",
+          "url": "https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m"
+        }
+      ],
+      "duration_ms": 189151,
+      "name": "Think about you",
+      "url": "https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG"
     },
     {
       "added_at": "2024-10-15 19:47:01",

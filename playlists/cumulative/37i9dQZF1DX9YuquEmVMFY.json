@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "<Jamie xx live in Seoul> 2024\ub144 11\uc6d4 28\uc77c (\ubaa9) \uc624\ud6c4 8\uc2dc @YES 24 \ub77c\uc774\ube0c \ud640(\uc11c\uc6b8)",
-  "name": "On Tour Korea: Jamie xx",
+  "description": "GUMMY Tour Concert 2024 \u3008LOVE\u3009 2024\ub144 12\uc6d4 14~28\uc77c (\ubaa9) @\uc11c\uc6b8, \ub300\uad6c, \ubd80\uc0b0, \uc131\ub0a8",
+  "name": "On Tour Korea: \uac70\ubbf8",
   "tracks": [
     {
       "album": {
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ"
+    },
+    {
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 359929,
       "name": "All Under One Roof Raving",
       "url": "https://open.spotify.com/track/6giQSCiUkjiYkMsCXZ3ZAy"
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
@@ -132,7 +150,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/79gWc6dZ1dXH7rC67DTunz"
@@ -158,6 +176,24 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/01Z81LLMSZfw8PgBJAKRcI"
     },
     {
       "album": {
@@ -244,7 +280,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 376918,
       "name": "Breather",
       "url": "https://open.spotify.com/track/6pOzbdJKEr4hvXkX7VkfY6"
@@ -324,6 +360,24 @@
       "duration_ms": 205400,
       "name": "CASTLE OF GLASS",
       "url": "https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5"
+    },
+    {
+      "album": {
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Childish Adult",
+      "url": "https://open.spotify.com/track/06hY8viaxC51LU6w4Cm4lY"
     },
     {
       "album": {
@@ -470,7 +524,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 71680,
       "name": "Every Single Weekend - Interlude",
       "url": "https://open.spotify.com/track/1wpcJ6TCrKpH6KdBmrp9yN"
@@ -528,7 +582,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 337414,
       "name": "Falling Together",
       "url": "https://open.spotify.com/track/08Jhu8OZ6gCIGWQn6vP3uI"
@@ -546,7 +600,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 410577,
       "name": "Far Nearer",
       "url": "https://open.spotify.com/track/1KThgRWylKw6mbUtA8pyPH"
@@ -688,7 +742,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 291018,
       "name": "Gosh",
       "url": "https://open.spotify.com/track/79Jl8KMvmnXedTjjW6pJan"
@@ -865,6 +919,24 @@
     },
     {
       "album": {
+        "name": "STROKE",
+        "url": "https://open.spotify.com/album/0dvQV58rP7hduBW5AD2SM3"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "I I YO (Prod.Gill Of Magic Mansion)",
+      "url": "https://open.spotify.com/track/1lSnGPnfYw6irn5YleedJN"
+    },
+    {
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
@@ -884,10 +956,46 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 213622,
       "name": "I Know There's Gonna Be (Good Times)",
       "url": "https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD"
+    },
+    {
+      "album": {
+        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0BLapMW376NbEbg6CtF2XN"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "I Wanna Be With You",
+      "url": "https://open.spotify.com/track/5SpFYYh8k9OzViu7XCWIkt"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.2",
+        "url": "https://open.spotify.com/album/7Db25PkL5e5d7RKPk4mlhw"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "I Will Stay With You",
+      "url": "https://open.spotify.com/track/4QOv0bYWBRr6Fp3paq3tZw"
     },
     {
       "album": {
@@ -936,6 +1044,28 @@
       "duration_ms": 184560,
       "name": "I'd Rather Pretend (with d4vd)",
       "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
+    },
+    {
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/63mXEu4xtlyEYDxBrs9EVP"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "T.O.P.",
+          "url": "https://open.spotify.com/artist/4yiB30K5scGkjmAgHGIH8Y"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "I'm Sorry (Feat. T.O.P)",
+      "url": "https://open.spotify.com/track/6UF4dbXnxEL2kTKDoGAUS8"
     },
     {
       "album": {
@@ -994,7 +1124,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 278518,
       "name": "It's So Good",
       "url": "https://open.spotify.com/track/1Cc00pWEDEDiA4eEv3npjD"
@@ -1108,7 +1238,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 223536,
       "name": "KILL DEM",
       "url": "https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP"
@@ -1202,7 +1332,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 225494,
       "name": "LET'S DO IT AGAIN - Radio Edit",
       "url": "https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX"
@@ -1336,10 +1466,32 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
+    },
+    {
+      "album": {
+        "name": "Love Recipe",
+        "url": "https://open.spotify.com/album/2xVUfaZWMf3jPfWlOOwqBj"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231354,
+      "name": "Love Recipe",
+      "url": "https://open.spotify.com/track/7llGIYeteN3pTEcujNfeEZ"
     },
     {
       "album": {
@@ -1376,6 +1528,24 @@
       "duration_ms": 191439,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv"
+    },
+    {
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Memory Loss",
+      "url": "https://open.spotify.com/track/0tCZ6PZXTa25Fidj0DnYzJ"
     },
     {
       "album": {
@@ -1473,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252573,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6Qe87q9panJspyAMdbtAtX"
+    },
+    {
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -1524,7 +1712,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 231039,
       "name": "Obvs",
       "url": "https://open.spotify.com/track/5kSBstWdaP3tMlArgGM00C"
@@ -1752,7 +1940,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 211506,
       "name": "Running",
       "url": "https://open.spotify.com/track/7xPldYgAV4W8L4AOsq6XJG"
@@ -1806,7 +1994,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 232622,
       "name": "Sleep Sound",
       "url": "https://open.spotify.com/track/7H2adPObEX0T4sYTPzm6vK"
@@ -1858,6 +2046,24 @@
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "album": {
+        "name": "Baramibunda OST Part 3",
+        "url": "https://open.spotify.com/album/3ms066Wz3MnQ05isWQpzzA"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Snowflake",
+      "url": "https://open.spotify.com/track/4QXb2c6lUkcjuyKXMNcv4L"
     },
     {
       "album": {
@@ -1930,7 +2136,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 205638,
       "name": "Still Summer",
       "url": "https://open.spotify.com/track/27D9YN3uHPD3PTXvzNtbto"
@@ -2174,7 +2380,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 240580,
       "name": "Treat Each Other Right",
       "url": "https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC"
@@ -2244,7 +2450,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
@@ -2280,10 +2486,28 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 135835,
       "name": "Wanna",
       "url": "https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p"
+    },
+    {
+      "album": {
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     },
     {
       "album": {
@@ -2431,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30ea\u30fc\u30f4",
         "url": "https://open.spotify.com/album/59KKv1Pdr7VpyKRtMq7YrV"
       },
@@ -2464,6 +2706,150 @@
       "duration_ms": 264476,
       "name": "\u63fa\u308c\u308b\u60f3\u3044",
       "url": "https://open.spotify.com/track/7GjZ2TXXfyukkhJrnh754c"
+    },
+    {
+      "album": {
+        "name": "\uad6c\ub974\ubbf8 \uadf8\ub9b0 \ub2ec\ube5b (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/73PDfj8ygf4kCSua7abkMU"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "\uad6c\ub974\ubbf8 \uadf8\ub9b0 \ub2ec\ube5b",
+      "url": "https://open.spotify.com/track/0kowEmoCAdTMJj5dm44eGK"
+    },
+    {
+      "album": {
+        "name": "Will it snow for Christmas? OST",
+        "url": "https://open.spotify.com/album/3TcRNlXWiCD5Zym1qOtTco"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211069,
+      "name": "\uadf8\ub300\ub77c\uc11c",
+      "url": "https://open.spotify.com/track/0A8NkJsiEmBC18C4tT7YSj"
+    },
+    {
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.7",
+        "url": "https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228635,
+      "name": "\uae30\uc5b5\ud574\uc918\uc694 \ub0b4 \ubaa8\ub4e0 \ub0a0\uacfc \uadf8\ub54c\ub97c",
+      "url": "https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR"
+    },
+    {
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/4xjEHO7yts490qZNu2A3Dr"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266053,
+      "name": "\ub0a8\uc790\ub77c\uc11c",
+      "url": "https://open.spotify.com/track/0YzFW9YrGZ8H0PDxm4b9u6"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 10",
+        "url": "https://open.spotify.com/album/6bJMzXTQUjeSwMaunET0g4"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189527,
+      "name": "\ub178\ub798\ud574\uc694 \uadf8\ub300 \ub4e3\ub3c4\ub85d",
+      "url": "https://open.spotify.com/track/4TOM0gxRic72ErGNCvJ3pY"
+    },
+    {
+      "album": {
+        "name": "\ub300\ubb3c Pt.1 Original Television Soundtrack",
+        "url": "https://open.spotify.com/album/2h07CWmZRbmE2ndRohoW9O"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "\uc8fd\uc5b4\ub3c4 \uc0ac\ub791\ud574",
+      "url": "https://open.spotify.com/track/2mMpO8XVZAjXukh1nlDb65"
+    },
+    {
+      "album": {
+        "name": "For The Bloom",
+        "url": "https://open.spotify.com/album/0xJsXbfuUwbCAvBzTdZzRV"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265013,
+      "name": "\ud63c\uc790\ub9cc \ud558\ub294 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/6J0M0cR2SOdgmAHTjtoYYl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY"

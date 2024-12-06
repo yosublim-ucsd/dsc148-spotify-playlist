@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-292 songs - 13 hr 39 min
+293 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ASTARR](https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 3:15 | 2024-11-21 |  |
 | [At The Afterparty](https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [At The Afterparty](https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj) | 2:22 | 2023-12-14 | 2024-01-04 |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-06 | 2024-11-20 |
+| [Baari Barsi](https://open.spotify.com/track/2HGJVQdduQ756MmKArW0Vj) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/5GWGhyLTaQZ8gBJbO68oGn), [Nakeeta](https://open.spotify.com/artist/0uSiLWLgqqR7SUL00iz0iZ) | [Baari Barsi](https://open.spotify.com/album/25NoXODrqtkM9xd75MnL9Q) | 2:34 | 2024-12-05 |  |
 | [Bach Sohnie](https://open.spotify.com/track/0keFxoNryQPlMLMXTR8OUZ) | [Sajjn](https://open.spotify.com/artist/1B4OT0DMB0gnluv2UIukCT) | [Bach Sohnie](https://open.spotify.com/album/0P7XjvZhP4cZUI7W3tLuLc) | 2:19 | 2024-10-08 | 2024-11-14 |
 | [Bad Ass Boy](https://open.spotify.com/track/1PanDlK13SWPjKvOdCjHK1) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Sky 38](https://open.spotify.com/artist/6pciHEnBi4NOwZohw7jB1f), [Inder D Last Level](https://open.spotify.com/artist/5mHnBqe0ORanNO0oeIWX2d) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 2:21 | 2024-09-03 | 2024-10-05 |
 | [Bandana](https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo) | [Jujhar](https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6) | [Bandana](https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV) | 2:26 | 2024-09-03 | 2024-09-29 |
@@ -71,7 +72,7 @@
 | [Colt Buntlines](https://open.spotify.com/track/50UofRUiC8RvGh32B7CLrI) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Indrr Bajwa](https://open.spotify.com/artist/1VmoJx8138LFsA5XiRjQ01) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:33 | 2024-10-18 | 2024-11-23 |
 | [Crush](https://open.spotify.com/track/6zeqoQLXUuTjk5Hr1C9VzM) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Crush](https://open.spotify.com/album/21n8WOX81Ntub6g1kFFRtH) | 2:23 | 2024-11-20 |  |
 | [CULLINAN](https://open.spotify.com/track/5xAxz2XOH93HFIC1DaU1Tc) | [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx), [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j) | [CULLINAN](https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl) | 2:21 | 2024-11-18 |  |
-| [Cult Figure](https://open.spotify.com/track/7dfQ2RX5Pri7lBKMNzMhrG) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Cult Figure](https://open.spotify.com/album/3zMpDOg0q593e5fsm3r1u4) | 2:47 | 2024-11-04 |  |
+| [Cult Figure](https://open.spotify.com/track/7dfQ2RX5Pri7lBKMNzMhrG) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Cult Figure](https://open.spotify.com/album/3zMpDOg0q593e5fsm3r1u4) | 2:47 | 2024-11-04 | 2024-12-06 |
 | [Culture](https://open.spotify.com/track/6szgLz2R9DuvttnAb0BiY4) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Culture](https://open.spotify.com/album/4xgtLuP2QVVRyG54TNlfbK) | 2:43 | 2024-11-19 |  |
 | [Daang V1](https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:48 | 2024-09-09 | 2024-11-12 |
 | [DABBDA NAHI](https://open.spotify.com/track/6IXJSqbyXUf3yd2OIYxNVS) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Goldy Kingmeker](https://open.spotify.com/artist/3Py94OVGyh6M4Y5sNW5S7q) | [DABBDA NAHI](https://open.spotify.com/album/2o8fSGFa29bfbaCLr0af3b) | 3:49 | 2023-03-18 | 2023-04-27 |

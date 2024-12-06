@@ -845,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Halleluyah",
+        "url": "https://open.spotify.com/album/6rqvnt4GNUTHEBMpjdyDSW"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Evelyn Wanjiru",
+          "url": "https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Halleluyah",
+      "url": "https://open.spotify.com/track/5PUw4w2gNG8ICTO5nPfwpz"
+    },
+    {
+      "album": {
         "name": "Hararat",
         "url": "https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS"
       },

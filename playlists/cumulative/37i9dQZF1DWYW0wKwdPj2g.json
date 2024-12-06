@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Jesus You Reign (Live)",
+        "url": "https://open.spotify.com/album/4JgJzuN9fvlR8LGHoiVIsl"
+      },
+      "artists": [
+        {
+          "name": "Gerald Bishung",
+          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522526,
+      "name": "Jesus You Reign - Live",
+      "url": "https://open.spotify.com/track/4icG1gAvu1wOOxrkwTIXLJ"
+    },
+    {
+      "album": {
         "name": "Jesus, Lamb Of God (Live)",
         "url": "https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4"
       },

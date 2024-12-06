@@ -1,6 +1,6 @@
 {
   "description": "chill guy",
-  "num_followers": 1263007,
+  "num_followers": 1262956,
   "original_name": "Hits de Internet",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,10 @@
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Stromae",
           "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"

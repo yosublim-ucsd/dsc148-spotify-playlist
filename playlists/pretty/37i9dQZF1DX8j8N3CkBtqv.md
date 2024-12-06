@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Vismay Patel
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,911 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,909 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 35 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 |
 | 36 | [Beshumar](https://open.spotify.com/track/6BdfabYQIflgSlZmFY7O19) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Beshumar](https://open.spotify.com/album/3NNAhq0EbFISI9wOJXNVAZ) | 2:55 |
 | 37 | [What Sets Us Free](https://open.spotify.com/track/7AwzT0d2EC7KDeACKSHKSH) | [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [What Sets Us Free](https://open.spotify.com/album/4KjF2Qr2QOD93cC6jKXG4v) | 2:55 |
-| 38 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2scoQVbLVrjswa8lycsyCG), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
+| 38 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
 | 39 | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/track/3ifdiDHwuODTgVPmshKYan) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/album/5tbx0NpfcoEU1LUSrmPoEt) | 4:30 |
 | 40 | [Kaisi Hoon Poocho Na](https://open.spotify.com/track/6bO9Ox1GhoezvI4zDgqMgP) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/1pHAfN6vsvwG63NVNMffpI) | 3:47 |
 | 41 | [Faasle](https://open.spotify.com/track/6F7oLEn3bg46mFhRZ2hy9U) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Faasle](https://open.spotify.com/album/4VuNeUPldnLv7MYO8DOh3D) | 3:14 |

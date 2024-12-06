@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ALEPH\(알레프\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: YdBB\(유다빈밴드\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-807 songs - 2 day 0 hr 51 min
+809 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Invisibles](https://open.spotify.com/track/7bJcyukFHTgXuQ31Cl7LZ9) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Square One](https://open.spotify.com/album/3sQvmhUTKE0SY7piBVlinX) | 3:49 | 2022-04-12 | 2022-07-25 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2022-04-22 | 2022-07-28 |
 | [It's Complicated](https://open.spotify.com/track/60BgjgIQKhVO4mA6HnL2jT) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [It's Complicated \- The 6th Mini Album](https://open.spotify.com/album/2ZsqDQ58pJDf9ljm4MAo3w) | 3:39 | 2024-11-06 |  |
-| [It's time to go up high](https://open.spotify.com/track/2MxODxp6GgBuQnsmEx1GLq) | [강혜인](https://open.spotify.com/artist/3ZlJiWl3KRGDPuf9XGhhTp) | [Music Collaboration \- It's time to go up high](https://open.spotify.com/album/02NPzT6rw8yy7xvr8HEkkw) | 2:59 | 2024-11-06 |  |
+| [It's time to go up high](https://open.spotify.com/track/2MxODxp6GgBuQnsmEx1GLq) | [강혜인](https://open.spotify.com/artist/3ZlJiWl3KRGDPuf9XGhhTp) | [Music Collaboration \- It's time to go up high](https://open.spotify.com/album/02NPzT6rw8yy7xvr8HEkkw) | 2:59 | 2024-11-06 | 2024-12-06 |
 | [It’ll Be Okay](https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [20](https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP) | 4:27 | 2024-10-24 |  |
 | [It′s Red \(Feat\. Park Dawool\)](https://open.spotify.com/track/7oB8XYkkN0oPKMoex43HeL) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt), [Park Da Wool](https://open.spotify.com/artist/3eklnSBKrfc9XqVH3xmESe) | [Bloody Heart, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6hMNXNNTQJH2qlEwdLLUKC) | 3:39 | 2022-06-20 | 2022-06-24 |
 | [I’m Alive](https://open.spotify.com/track/4HKzIW8jGEqf5BWIC0T3JS) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Broken Kaleidoscope](https://open.spotify.com/album/1xaaxoERaH0Mq1kdA13G0E) | 2:55 | 2022-04-12 | 2022-07-25 |
@@ -415,7 +415,7 @@
 | [Love, Spark, Kiss](https://open.spotify.com/track/3gEEX6hcU6Qm2VU0TieZFV) | [SSunder](https://open.spotify.com/artist/1J32y4hGK3ovIslMNGuKDR) | [Love, Spark, Kiss](https://open.spotify.com/album/5UopY0OnaSKW3Cis5BJxQM) | 3:22 | 2022-06-03 | 2022-07-19 |
 | [Lovender](https://open.spotify.com/track/1HPdA41RCEcADEwiwjLic2) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [The 1st Mini Album 'Lovender'](https://open.spotify.com/album/646nLsVkP1hqVp24mYyg53) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [Lovers](https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 4:40 | 2022-04-22 | 2022-07-24 |
-| [Loving You](https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [sunoa](https://open.spotify.com/artist/6N67hO98Q9C9Iam30gpcqQ) | [Loving You](https://open.spotify.com/album/4wUTMXz0OvkPtLXrbmsoA8) | 3:27 | 2024-11-06 |  |
+| [Loving You](https://open.spotify.com/track/05Jq13UnAFaacFTCUadnDC) | [LEEYOUNGWOONG](https://open.spotify.com/artist/6lA59rirEDW0rZFUV0TfCu), [sunoa](https://open.spotify.com/artist/6N67hO98Q9C9Iam30gpcqQ) | [Loving You](https://open.spotify.com/album/4wUTMXz0OvkPtLXrbmsoA8) | 3:27 | 2024-11-06 | 2024-12-06 |
 | [Lunar phase](https://open.spotify.com/track/1F3pPDZkBpfxcPzcQbXjTt) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Lunar phase : A side](https://open.spotify.com/album/08wRhg5KFGIsE0MTQEfyF4) | 4:49 | 2022-04-21 | 2022-07-03 |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-06-03 | 2022-07-28 |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2023-07-08 |
@@ -456,6 +456,7 @@
 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 | 2024-10-16 |  |
 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 | 2023-06-13 | 2023-06-20 |
 | [Night Sea](https://open.spotify.com/track/4IlUi3tPj2iKYpHv9QD1G2) | [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [In Summer](https://open.spotify.com/album/3YPZ2UqculUNYPl07DZYh9) | 4:38 | 2022-06-09 | 2022-06-16 |
+| [Night, night](https://open.spotify.com/track/2mWKLDnwAgvBooII1wUS7k) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Night, night](https://open.spotify.com/album/28DONTbETtEh7MMTIXFoP3) | 5:20 | 2024-12-05 |  |
 | [Nightfall](https://open.spotify.com/track/6y0m2ZqxryJvRtjSlW2Uw0) | [SKIPJACK](https://open.spotify.com/artist/3eqel93sPqKCJfZsgi1uHp) | [Nightfall](https://open.spotify.com/album/4XKHSscld4s0dTFovtcb0l) | 4:12 | 2022-09-30 | 2022-10-19 |
 | [Nightmare](https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:35 | 2023-08-24 | 2024-10-28 |
 | [NIGHTMARE](https://open.spotify.com/track/0Wej6OtZQU1v1FARRpsQmc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 2:42 | 2022-05-02 | 2022-07-27 |
@@ -735,6 +736,7 @@
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2024-06-05 | 2024-11-07 |
 | [WE GO HIGH](https://open.spotify.com/track/2xiMbOHBJhAysqRSTLMYnk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [WE GO HIGH](https://open.spotify.com/album/0JVq4vVvfai25hdLJhvHxz) | 3:13 | 2023-06-19 | 2023-07-08 |
 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 | 2022-04-12 | 2022-07-27 |
+| [we never turn cold](https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3) | [we never turn cold](https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5) | 4:55 | 2024-12-05 |  |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-26 | 2023-02-15 |
 | [We Talk](https://open.spotify.com/track/3dAo93NPkYNZcrVTYQN3PN) | [Band Minha](https://open.spotify.com/artist/18lZ5mKgExa7KKLBHoDMrJ) | [We Talk](https://open.spotify.com/album/2lWLxM3pYeILU3PTWqoEVQ) | 3:26 | 2022-08-18 | 2022-09-06 |
 | [We're destined to meet someday](https://open.spotify.com/track/6YgVmvaDpMIIeBCYog2wkx) | [BLVN](https://open.spotify.com/artist/5YpY8ifnZKsV99rZqwYMGF) | [B\-SIDE](https://open.spotify.com/album/2xfhZvZmpCsTmS3vyT8Pdu) | 4:40 | 2022-05-11 | 2022-06-04 |

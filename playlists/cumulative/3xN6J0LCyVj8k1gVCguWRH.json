@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 192000,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
@@ -13648,6 +13648,24 @@
       "duration_ms": 235035,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "album": {
+        "name": "cloudynight",
+        "url": "https://open.spotify.com/album/3Yhto188w6UDqwMsEx9ZKe"
+      },
+      "artists": [
+        {
+          "name": "The Artist Ren",
+          "url": "https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170218,
+      "name": "cloudynight",
+      "url": "https://open.spotify.com/track/711CL9VKYRgAZwCm5kQ8wM"
     },
     {
       "album": {
@@ -38629,6 +38647,24 @@
     },
     {
       "album": {
+        "name": "Las Mujeres",
+        "url": "https://open.spotify.com/album/4TpB7bh1YxHJEM5oTQ0sTp"
+      },
+      "artists": [
+        {
+          "name": "Lios Choko",
+          "url": "https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Las Mujeres",
+      "url": "https://open.spotify.com/track/05qQroDuZ62T0u7y8oj6uH"
+    },
+    {
+      "album": {
         "name": "Las Vegas Will You Marry Me",
         "url": "https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B"
       },
@@ -38840,6 +38876,28 @@
       "duration_ms": 170312,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/4g5okF1U7kHn4owUn5oKxT"
+    },
+    {
+      "album": {
+        "name": "Late Night Conversation",
+        "url": "https://open.spotify.com/album/5MsLaQGmEmUbaW271jlfFR"
+      },
+      "artists": [
+        {
+          "name": "Keely",
+          "url": "https://open.spotify.com/artist/6O22NnZ7zH3nosk9yfKMIx"
+        },
+        {
+          "name": "PeterFeelGood",
+          "url": "https://open.spotify.com/artist/4nMh2wu3UzcEhfkp1X7VjJ"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Late Night Conversation",
+      "url": "https://open.spotify.com/track/7bDwww9Rg8Oo68PThrhNqF"
     },
     {
       "album": {
@@ -40136,7 +40194,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 153652,
       "name": "Lick My Body",
       "url": "https://open.spotify.com/track/14lMGhPuCKTJvT19gfky49"
@@ -52122,7 +52180,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 250222,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/70gaDGj65yIeJqcLYBNRhR"
@@ -57812,7 +57870,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 193750,
       "name": "Rewind Again",
       "url": "https://open.spotify.com/track/1O54akjNodye3j35EE5zE2"
@@ -61118,7 +61176,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 234963,
       "name": "Shallow Games",
       "url": "https://open.spotify.com/track/0sZJwdGLsbFNl8xBGfZzy8"
@@ -78278,7 +78336,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-06",
       "duration_ms": 181416,
       "name": "Why?",
       "url": "https://open.spotify.com/track/7uescjDzKiGph2bnvj8G4a"

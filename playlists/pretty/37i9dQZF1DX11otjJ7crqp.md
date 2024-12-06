@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,422 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,452 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 55 | [Rhythm Is Right](https://open.spotify.com/track/40WdPDahbul3yexvSiGTf0) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Rhythm Is Right](https://open.spotify.com/album/19x81guzMDRaOV5byARIxj) | 4:05 |
 | 56 | [Crocodile Tears](https://open.spotify.com/track/7ieXRAw83EVCel0W3VUuLw) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Crocodile Tears](https://open.spotify.com/album/2i06Wiq7zC13KxsHkPjGfC) | 2:43 |
 | 57 | [Stars](https://open.spotify.com/track/6XmeTmOZx0PPXG5tvVIUou) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Stars](https://open.spotify.com/album/0vhRqCFFvypHxqaRgwsENo) | 3:02 |
-| 58 | [Forbidden Road \- From Better Man: Original Motion Picture Soundtrack](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
+| 58 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
 | 59 | [TYSM](https://open.spotify.com/track/5P7gnRCCpKU64vfv27HaMj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [TYSM](https://open.spotify.com/album/22WuTYFcw6HfArfwt4woMm) | 2:49 |
 | 60 | [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 |
 | 61 | [Proud](https://open.spotify.com/track/5UnT1C8otTF3VpqrClP4X2) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Soundtrack](https://open.spotify.com/album/0pJJfypvH2WkPbIcNsSbif) | 2:54 |

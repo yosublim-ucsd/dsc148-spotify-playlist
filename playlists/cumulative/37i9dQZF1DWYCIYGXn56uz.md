@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Mida
+> ✨giovane✨pop✨z✨ Cover: centomilacarie
 
-564 songs - 1 day 2 hr 10 min
+569 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-05-31 | 2024-10-25 |
 | [4ever](https://open.spotify.com/track/3AFk1sRGNVSMQRlGGjKFWH) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [4ever](https://open.spotify.com/album/3E2Zx1fkrNW15jOFv3xav2) | 2:43 | 2023-06-08 | 2023-07-07 |
 | [5 MINUTI](https://open.spotify.com/track/35KwZkxsrcJiDJlloj4oHZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [5 MINUTI](https://open.spotify.com/album/4KGPs5mBpd4p3b2hGYLH9V) | 2:47 | 2023-03-23 | 2023-05-19 |
+| [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 | 2024-12-05 |  |
 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 | 2024-08-01 | 2024-08-23 |
 | [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 | 2024-04-11 | 2024-05-03 |
 | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/track/4u8ADeOiiWXSvvI3v8OOrb) | [Matteo E Io](https://open.spotify.com/artist/4Zx1FdnVj10w170XV0GzvO), [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [A Modo Nostro \(feat\. Mose\)](https://open.spotify.com/album/3lEdKxz9XtJfmkjAgLJYRN) | 2:19 | 2023-11-16 | 2023-12-08 |
@@ -132,6 +133,7 @@
 | [DAI FIDATI DI ME](https://open.spotify.com/track/4MxoqD2NAjBzKUAwAQGLOE) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [DAI FIDATI DI ME](https://open.spotify.com/album/6JDD4qmvye81KLj25CU2Yt) | 2:06 | 2023-10-05 | 2023-10-27 |
 | [Dal Tuo Lato](https://open.spotify.com/track/5HyMqF3V8XFLermeTRFITZ) | [AIZA](https://open.spotify.com/artist/55gLQek3jQJDfijp4Qi2m7) | [Dal Tuo Lato](https://open.spotify.com/album/60IB9XxjNUtiC1BmUp5c9c) | 2:37 | 2024-05-16 | 2024-05-24 |
 | [DAMMI UN BACIO JA’](https://open.spotify.com/track/3OCCmqxxlz7AXI1Ns7gY2C) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [DAMMI UN BACIO JA’](https://open.spotify.com/album/63Lct71NrJl6FjsJSgBRp5) | 2:45 | 2023-11-16 | 2024-01-05 |
+| [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 | 2024-12-05 |  |
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-06-13 | 2024-07-05 |
 | [Del + e del \-](https://open.spotify.com/track/3XLiJfgPLGbOhemWzuNpHO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Del + e del \-](https://open.spotify.com/album/6biAzgZtwwShblArNSSzPs) | 2:56 | 2023-10-19 | 2023-11-03 |
 | [DESNUDA](https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [DESNUDA](https://open.spotify.com/album/2lTfLDo6406WLjYUY9nUIM) | 2:54 | 2024-06-20 | 2024-10-04 |
@@ -171,6 +173,7 @@
 | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/track/5cn3rW6VXCpI9dxysqx5fk) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [FERMARE L'ETÀ \(feat\. Enrico Nigiotti\)](https://open.spotify.com/album/0nG3UwE8qNTeJxpXBRRu3K) | 2:57 | 2024-06-06 | 2024-07-05 |
 | [Fermarmi](https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH), [Natasha](https://open.spotify.com/artist/2pxZIannUq9lCH9ZEQoZZy) | [Fermarmi](https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ) | 2:26 | 2023-11-16 | 2023-12-08 |
 | [FIGHT CLUB](https://open.spotify.com/track/6EDyIAfRKxJTs4a8ROuRZd) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [FIGHT CLUB](https://open.spotify.com/album/66HO7R2mEK0QLCe93HCP1L) | 2:30 | 2024-03-06 | 2024-06-14 |
+| [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 | 2024-12-05 |  |
 | [Fila indiana](https://open.spotify.com/track/1H36kJUqLOHLSL98XQBRFU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM) | 3:13 | 2024-01-26 | 2024-04-19 |
 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 | 2023-11-30 | 2024-07-05 |
 | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/track/5rPGJdfVxKCcVCjhZYeWQb) | [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Finale Aperto \(feat\. Albe\)](https://open.spotify.com/album/19bX6D0fiIYm01QxeNPehJ) | 3:01 | 2024-01-04 | 2024-01-19 |
@@ -431,6 +434,7 @@
 | [Rivoluzione!](https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Rivoluzione!](https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM) | 2:41 | 2023-07-20 | 2023-08-11 |
 | [Rock N Roll](https://open.spotify.com/track/3iIFvER6NUxnJc9Zv5BhsN) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Rock N Roll](https://open.spotify.com/album/0QwnfupfwKZFlsPY7dYqqM) | 2:33 | 2023-06-08 | 2023-09-22 |
 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 | 2024-11-07 |  |
+| [ROJOFUEGO \- Spotify Singles](https://open.spotify.com/track/50jl0dJ6eBzFPz1I9wskHt) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROJOFUEGO \- Spotify Singles](https://open.spotify.com/album/5IlQTbEXM4RzyzBO2LfJ4i) | 2:43 | 2024-12-05 |  |
 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 | 2023-03-23 | 2024-04-19 |
 | [ROMANTICA E BUGIARDA](https://open.spotify.com/track/3jZojGbxzsJTihyb1VVrFE) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [ROMANTICA E BUGIARDA](https://open.spotify.com/album/0WE9QOW9r88g2gcPQRADbm) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [RONDINI](https://open.spotify.com/track/5qt5YZOEUCejoPMrXFXRQq) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [RONDINI](https://open.spotify.com/album/5MLv3tlurdcQwChX4olC7K) | 2:27 | 2023-04-06 | 2023-04-14 |
@@ -503,6 +507,7 @@
 | [TEMPO \(all the things she said\)](https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [TEMPO \(all the things she said\)](https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI) | 2:49 | 2024-04-18 | 2024-10-04 |
 | [Testa o Croce](https://open.spotify.com/track/3YrI7ZCMy655cpdMQUWCoE) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Testa o Croce](https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38) | 2:27 | 2024-07-04 | 2024-10-18 |
 | [TI AMO E NON LO SAI](https://open.spotify.com/track/5qJxdzS42qg8quay4i4kZE) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [TI AMO E NON LO SAI](https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU) | 2:28 | 2023-06-08 | 2023-06-16 |
+| [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 | 2024-12-05 |  |
 | [ti sei scordata del mio compleanno](https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [cattive abitudini](https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr) | 2:05 | 2023-09-07 | 2023-11-10 |
 | [Toccare la luna](https://open.spotify.com/track/0P0OENNOGNpzra0Ma1Ur9t) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Notturno](https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu) | 2:24 | 2023-04-13 | 2023-05-16 |
 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 | 2024-06-27 |  |

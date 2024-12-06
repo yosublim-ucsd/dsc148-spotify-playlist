@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 46189,
+  "num_followers": 46195,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -899,18 +899,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Bandera",
-        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
+        "name": "A Punto Caramelo",
+        "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
       },
       "artists": [
         {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        },
+        {
+          "name": "Julian Kartun",
+          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
         }
       ],
-      "duration_ms": 185926,
-      "name": "El Enemigo",
-      "url": "https://open.spotify.com/track/2Rro0BoyMLdgrTVOFpINZU"
+      "duration_ms": 222866,
+      "name": "El Ritmo de la Vida",
+      "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -931,22 +935,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "A Punto Caramelo",
-        "url": "https://open.spotify.com/album/1BB2uPxFEBDdOwHcuDI2Jn"
+        "name": "Bandera",
+        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
       },
       "artists": [
         {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        },
-        {
-          "name": "Julian Kartun",
-          "url": "https://open.spotify.com/artist/04f2OyzgBLH7Wh4m57OPv8"
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
         }
       ],
-      "duration_ms": 222866,
-      "name": "El Ritmo de la Vida",
-      "url": "https://open.spotify.com/track/0nWdzerefBQpTFg8gIbCjA"
+      "duration_ms": 185926,
+      "name": "El Enemigo",
+      "url": "https://open.spotify.com/track/2Rro0BoyMLdgrTVOFpINZU"
     },
     {
       "added_at": "2024-06-12 22:23:25",

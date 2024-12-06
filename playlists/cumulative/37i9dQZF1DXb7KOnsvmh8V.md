@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-163 songs - 8 hr 29 min
+164 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 | 2022-10-24 |  |
 | [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2023-10-06 |  |
 | [Country Christmas](https://open.spotify.com/track/1A81LCryI8Trjaml37TeLK) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Country Christmas](https://open.spotify.com/album/6Dnh02rJWIkH6qDjMhe5wc) | 3:33 | 2022-10-24 | 2023-10-21 |
+| [Deck the Halls](https://open.spotify.com/track/2B54jM0HuxhergnxiZsNVo) | [TWIN BEE](https://open.spotify.com/artist/7ojrDGf1QCVnNN3E0N5hKh) | [Deck the Halls](https://open.spotify.com/album/3QlajBFGUIUNesPKeftJG0) | 2:30 | 2024-12-05 |  |
 | [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 | 2023-10-06 |  |
 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 | 2023-11-24 |  |
 | [Fairytale of New York](https://open.spotify.com/track/4mimSQ5z7B6qRGKke32S2k) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Acoustic Christmas \- Deluxe Edition](https://open.spotify.com/album/20PjNlTdOUYB2lIg5ipiA7) | 3:40 | 2021-12-17 |  |
