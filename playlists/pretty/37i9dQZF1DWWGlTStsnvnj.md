@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 
 > Tembang Jowo lawas pancen saget nrenyuhake ati
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,538 likes - 33 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,558 likes - 33 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGlTStsnvnj.md) - [plain]
 | 27 | [Gubuk Asmoro \(feat\. Dimas Tedjo\)](https://open.spotify.com/track/1JFJbWGWE7zdXDTLTpVbWK) | [Langgam Campursari Sangga Buana](https://open.spotify.com/artist/4GV37x7Nfxl0m3gAk0rU2J), [Dimas Tedjo](https://open.spotify.com/artist/7fYeWW12JYNs9Q0NNeNQfw) | [Gubug Asmoro](https://open.spotify.com/album/653L4zdptwCGw4KbffGG66) | 5:39 |
 | 28 | [Tulung](https://open.spotify.com/track/565PueGipMUc719CembSCg) | [Arda Tatu](https://open.spotify.com/artist/0XoYout1dRTYkg5R2PI9bq) | [Tulung](https://open.spotify.com/album/29gKDTVr8V8YY2BDRWKdUV) | 4:26 |
 | 29 | [Kusumaning Ati](https://open.spotify.com/track/6mKhs9ji8maPgh1yuUj8vj) | [Nurhana](https://open.spotify.com/artist/40YY92IUPsSrUfsitkWbv3) | [Sukses Nurhana, Vol\. 2](https://open.spotify.com/album/2b7tl2a7SB4dXUsLxwNA0M) | 4:51 |
-| 30 | [Walang Kekek](https://open.spotify.com/track/036ARyk2seExNK6AR0sxWK) | [Mus Mulyadi](https://open.spotify.com/artist/4WnEy38kT3nojRrIlbxlu8), [Sriyatun](https://open.spotify.com/artist/1sr980Ysv9HpJHyGmGct5v) | [Gamelan Campur Sari Walang Kekek](https://open.spotify.com/album/35lvs1fRKm1AvKBkzwo6KQ) | 5:20 |
+| 30 | [Walang Kekek](https://open.spotify.com/track/036ARyk2seExNK6AR0sxWK) | [Mus Mulyadi](https://open.spotify.com/artist/1vcUPCOVfvIDuAGG4n9D9Z), [Sriyatun](https://open.spotify.com/artist/1sr980Ysv9HpJHyGmGct5v) | [Gamelan Campur Sari Walang Kekek](https://open.spotify.com/album/35lvs1fRKm1AvKBkzwo6KQ) | 5:20 |
 | 31 | [Gatot Kaca Edan](https://open.spotify.com/track/6zE9dgmaBMoIatA1OLRCCU) | [Soleh Akbar](https://open.spotify.com/artist/6AwrGNhIIIAzcFsutrUpBY) | [Indonesian Folksongs, Vol\. 3: Jawa](https://open.spotify.com/album/6UVOzURBACpJd5v9YJuenq) | 4:20 |
 | 32 | [Nginang Karo Ngilo](https://open.spotify.com/track/3dj56ZRUvBO0z7YQ61vu6C) | [Lasmini](https://open.spotify.com/artist/3UMbszVhnTMIXvhTWrowUt) | [Campursari Gunung Kidul, Vol\. 1](https://open.spotify.com/album/0IHCBWDz3tEdf22JkMTsWg) | 5:00 |
 | 33 | [Kuncung](https://open.spotify.com/track/4fjYW9wSFa9K2C7oqw2VxK) | [Didi Kempot](https://open.spotify.com/artist/5LmRNHfiQfvy9zO8U9Q4mp) | [Keroncong Jawa Sepanjang Masa II](https://open.spotify.com/album/02YmAo3rmEw5zgNgdAn81K) | 4:15 |

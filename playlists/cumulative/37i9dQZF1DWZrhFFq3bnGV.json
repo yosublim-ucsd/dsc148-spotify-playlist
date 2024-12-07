@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Michael Aldi",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 156466,
       "name": "Even Rain",
       "url": "https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD"
@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "CINEMA. extended",
+        "url": "https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt"
+      },
+      "artists": [
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121437,
+      "name": "It Don't Mean a Thing",
+      "url": "https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA"
+    },
+    {
+      "album": {
         "name": "Jeje",
         "url": "https://open.spotify.com/album/2ReE8N1x0YrSCLgLtaNyEY"
       },
@@ -2420,6 +2438,24 @@
       "duration_ms": 208194,
       "name": "Keriput",
       "url": "https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP"
+    },
+    {
+      "album": {
+        "name": "Kita Ke Masa Depan",
+        "url": "https://open.spotify.com/album/6bg9Yy0fJRUrM1JTaoLDdy"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Kita Ke Masa Depan",
+      "url": "https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x"
     },
     {
       "album": {
@@ -2998,7 +3034,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 496333,
       "name": "Mystical Glow",
       "url": "https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH"

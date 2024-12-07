@@ -4,7 +4,7 @@
 
 > It’s pop punk, it’s the best\. Celebrating 30 years of Hopeless Records.
 
-285 songs - 15 hr 34 min
+289 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,8 @@
 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/7Mro8PBi6rIFtzWR3Yh9x4) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Lost Songs](https://open.spotify.com/album/7wXYi05mImVHUQwOJbVzCH) | 2:42 | 2023-12-01 | 2024-01-10 |
 | [Coffee at Midnight](https://open.spotify.com/track/0O5WAeW9fQb0E1sKUi5QZt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Coffee at Midnight](https://open.spotify.com/album/0hku1mkSuPNcn8Deb9I2NV) | 3:44 | 2024-01-09 |  |
 | [Cold](https://open.spotify.com/track/6Xi6jtcUy81RpuEM5mGR5E) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Cold](https://open.spotify.com/album/7lCAAI6dIX8WHYeLdi503o) | 2:31 | 2024-05-08 | 2024-06-29 |
+| [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 | 2024-12-06 |  |
+| [Cry](https://open.spotify.com/track/4MfUrcygPNxILi20jxWRVz) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Cry](https://open.spotify.com/album/1ArTXYvqw4nxORwB0pMjIc) | 3:16 | 2024-12-06 |  |
 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 | 2023-02-12 | 2023-12-02 |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered 2019](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2024-01-09 |  |
 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 | 2024-01-09 |  |
@@ -75,7 +77,9 @@
 | [Deal](https://open.spotify.com/track/5ER4pcEZSQebs20yVWu0vq) | [No Pressure](https://open.spotify.com/artist/1jzmHk0SLhAJjEw6NqvaLs) | [No Pressure](https://open.spotify.com/album/0Co02kAkZC42kvdhl75zvy) | 2:43 | 2023-10-17 | 2023-12-02 |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD) | 3:02 | 2024-01-09 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2023-10-17 | 2023-12-02 |
+| [Dear Maria, Count Me In](https://open.spotify.com/track/6P60HWHnUA9qIoVeUSYomn) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Dear Maria, Count Me In](https://open.spotify.com/album/5Sr94Gr4KsxF3OzDsZzrMk) | 3:06 | 2024-12-06 |  |
 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/6l70xzvmZdAJnM41s0iPDD) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:27 | 2024-01-09 |  |
+| [December](https://open.spotify.com/track/7hvFFiFYBAj4Pj6NxaLlp2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [December](https://open.spotify.com/album/1vg43S8b4EltQvhaJ57auy) | 3:45 | 2024-12-06 |  |
 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 | 2023-02-12 |  |
 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw) | 3:33 | 2023-12-01 | 2024-01-10 |
 | [December's Here](https://open.spotify.com/track/6RJ3WV4MVXkoK4wE0CCmpI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [December's Here](https://open.spotify.com/album/4NzdzadUC2QiDojUKnZHXk) | 2:59 | 2023-12-01 | 2024-01-10 |

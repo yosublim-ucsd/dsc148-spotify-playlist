@@ -1,12 +1,12 @@
 {
   "description": "Warm, inspirational pop, that's good at heart. ",
-  "num_followers": 41306,
+  "num_followers": 41327,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzJMMAAAAAAAyJUuWin+ESQ+3xUyPy8v",
+  "snapshot_id": "Z1KE0AAAAAC9VUQ3y5+D4mBh6+Bgqu8J",
   "tracks": [
     {
       "added_at": "2024-10-11 13:41:50",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/1sERYSzi32APhDRjLAAm7r"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 162728,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/2ARGyDTsorNJG3vclTCzwq"
+    },
+    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "Beautifully Broken",
@@ -71,22 +87,6 @@
       "duration_ms": 194413,
       "name": "Winning Streak",
       "url": "https://open.spotify.com/track/4yAuMf5Nrp9j7CY0NOIaRh"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Jordans",
-        "url": "https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 246563,
-      "name": "Jordans",
-      "url": "https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -187,6 +187,22 @@
       "duration_ms": 170119,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+    },
+    {
+      "added_at": "2024-10-11 13:41:50",
+      "album": {
+        "name": "Jordans",
+        "url": "https://open.spotify.com/album/64iJpysspjOmBeNOoG0fRI"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 246563,
+      "name": "Jordans",
+      "url": "https://open.spotify.com/track/7g87kzaZEzoHF8yOlwViVk"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -943,22 +959,6 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2024-10-11 13:41:50",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
       "added_at": "2024-10-11 13:41:50",

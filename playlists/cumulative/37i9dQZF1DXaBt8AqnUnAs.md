@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-611 songs - 1 day 5 hr 51 min
+612 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 | 2023-06-16 | 2024-08-30 |
 | [Waterfall](https://open.spotify.com/track/6q4Kc7GvKZ3eZOtHlXnyRQ) | [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Waterfall](https://open.spotify.com/album/6TT3Wzv43z2OPTug3Q9smn) | 1:43 | 2023-06-23 | 2023-07-08 |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 | 2023-07-15 |
+| [YOU GOT IT](https://open.spotify.com/track/3WzGd7wDKGI5jEGU8cixpM) | [Orhals](https://open.spotify.com/artist/3QnYKFEZw2wZf6umYoyi8D), [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [ollerrrr](https://open.spotify.com/artist/2yiiLFHIG4P7qnSvFA0vLJ) | [YOU GOT IT](https://open.spotify.com/album/044JPvu7h9hvAWBtmPfgPL) | 2:45 | 2024-12-06 |  |
 | [Zodíaco](https://open.spotify.com/track/7G2M9tyMAZAIoN8dmKvSQg) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Zodíaco](https://open.spotify.com/album/7BJmJLIy1EYYrg3Y6PIT1m) | 2:21 | 2024-09-20 | 2024-10-08 |
 | [Álcool e Seus Olhos Azuis](https://open.spotify.com/track/71NJqTdB9bF2wfVEUzR9B1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:48 | 2023-01-09 | 2023-08-26 |
 | [É Normal Amar](https://open.spotify.com/track/4zRAL7q9r8L8jFlAiilM1X) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [É Normal Amar](https://open.spotify.com/album/6NpxhE8BqH69TzJ1tutIqs) | 3:24 | 2024-11-08 | 2024-11-29 |

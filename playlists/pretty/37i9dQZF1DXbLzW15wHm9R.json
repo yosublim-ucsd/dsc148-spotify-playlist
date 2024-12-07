@@ -1,13 +1,81 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Wicked",
-  "num_followers": 158064,
+  "num_followers": 158080,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZOyAAAAAD1M7Odf+4FyHf6dL58Uf01",
+  "snapshot_id": "Z1KE0AAAAADDV3Qj3+SwyfChmCaZPR+N",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Queer (Original Score)",
+        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 274463,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Te Maldigo (From \"Queer\")",
+        "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Te Maldigo (From \"Queer\")",
+      "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
+    },
     {
       "added_at": "2024-11-22 06:56:36",
       "album": {
@@ -657,38 +725,6 @@
       "url": "https://open.spotify.com/track/7Ct3wqpGLbNrrG617S00B3"
     },
     {
-      "added_at": "2024-07-09 05:02:28",
-      "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 261966,
-      "name": "Save It For Later",
-      "url": "https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm"
-    },
-    {
-      "added_at": "2024-06-27 23:28:55",
-      "album": {
-        "name": "The Chain (From The Prime Video Original Series, My Lady Jane)",
-        "url": "https://open.spotify.com/album/7keXdFgGtDhrkJoFXoqxIc"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "The Chain - From The Prime Video Original Series, My Lady Jane",
-      "url": "https://open.spotify.com/track/328yyFDPgpzUXVq3v2YBld"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Moth To A Flame",
@@ -751,22 +787,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "All I Want (from the Netflix Series \"Bridgerton\")",
-        "url": "https://open.spotify.com/album/4HJ1f1jfoIzcfHTdKfbgA8"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 184866,
-      "name": "All I Want (from the Netflix Series \"Bridgerton\")",
-      "url": "https://open.spotify.com/track/4uuVa7YG5n5QxdVN2XM7hx"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Bridgerton Season Three (Covers from the Netflix Series \u2013 Pt. 1)",
         "url": "https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 153002,
       "name": "Guard Down",
       "url": "https://open.spotify.com/track/3HpaV46FMvO52VbH0wuxpP"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "The Idea of You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Galitzine",
-          "url": "https://open.spotify.com/artist/6FupcSGek9Zs4EJGpkBllL"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "The Idea of You",
-      "url": "https://open.spotify.com/track/3FUgM0EcTHjcZxbZgAYFMg"
     },
     {
       "added_at": "2024-06-07 04:00:00",

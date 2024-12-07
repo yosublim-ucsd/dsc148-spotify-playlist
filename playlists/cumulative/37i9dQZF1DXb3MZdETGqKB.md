@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-328 songs - 19 hr 17 min
+329 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 | 2024-11-15 |  |
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 | 2024-10-26 |
-| [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 | 2024-08-16 |  |
+| [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 | 2024-08-16 | 2024-12-07 |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 | 2024-02-23 |  |
 | [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 | 2024-01-26 | 2024-04-06 |
@@ -116,6 +116,7 @@
 | [Good People](https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Good People](https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5) | 5:45 | 2024-04-26 | 2024-07-06 |
 | [Good Times](https://open.spotify.com/track/5cUjDokJ7BpzghS8gcRhWi) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Good Times](https://open.spotify.com/album/4LtBDjPPZbgcinG0qCyuwR) | 3:14 | 2022-04-08 | 2024-02-17 |
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
+| [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 | 2024-12-06 |  |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-03-23 |
 | [Half my Heart](https://open.spotify.com/track/2AMVhjyfM2a3r2cE3Yq8GI) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Half my Heart](https://open.spotify.com/album/42k5Phl1ifiqOHXGojGhIh) | 4:19 | 2024-03-29 |  |

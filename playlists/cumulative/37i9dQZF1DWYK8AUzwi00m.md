@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-306 songs - 11 hr 51 min
+308 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2021-12-20 |  |
 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 | 2021-12-20 |  |
 | [All Want For Christmas is Lofi Hip Hop](https://open.spotify.com/track/2tqNQxgNXPa3TqQl46LQCk) | [Christmas Rap Beats](https://open.spotify.com/artist/2ernZA4LlpNCyAuddaXdOa) | [Lofi Xmas Instrumentals](https://open.spotify.com/album/7pm7weCBfcpSrTO4yXzGje) | 1:43 | 2021-12-20 | 2022-11-12 |
+| [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 | 2024-12-06 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 | 2021-12-20 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 | 2021-12-20 |  |
 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 | 2022-11-11 |  |
@@ -29,6 +30,7 @@
 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 | 2022-12-16 |  |
 | [Blue Christmas](https://open.spotify.com/track/0KymGk50aOs0M2qjXqhnX1) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Blue Christmas](https://open.spotify.com/album/63IJQmWKwqgmEwHJWz5B7J) | 2:27 | 2022-11-11 |  |
 | [Blue Christmas](https://open.spotify.com/track/2OFVwMiH725wXcsTJUQ2fK) | [JeMeNeZ](https://open.spotify.com/artist/6VKOJ18yv76jy2D3Kjw4nG) | [Blue Christmas](https://open.spotify.com/album/4f0zmlGGxhpinwTBUbybxX) | 2:39 | 2021-12-20 | 2022-11-12 |
+| [By the Fireplace](https://open.spotify.com/track/1VgSgsePPWhxuLvA2gMZGp) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [By the Fireplace](https://open.spotify.com/album/408CjI5JW9BFytEgLlWskb) | 2:01 | 2024-12-06 |  |
 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 | 2022-11-11 |  |
 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 | 2022-11-11 |  |
 | [Cherish Every Moment](https://open.spotify.com/track/0AeqHfQ1WNfTzfLo3b8B6x) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [A Christmas Tale](https://open.spotify.com/album/3ABLquk4WVfZvo7tdQpBPM) | 1:38 | 2021-12-20 |  |
@@ -196,7 +198,7 @@
 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 | 2022-09-30 |  |
 | [Nighttide](https://open.spotify.com/track/1yokaYy8WVounrXG82iiM7) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Nighttide](https://open.spotify.com/album/3rVDMhVZkYZ2iFclFc0EaF) | 2:12 | 2022-11-11 |  |
 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 | 2022-11-11 |  |
-| [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 | 2021-12-20 |  |
+| [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 | 2021-12-20 | 2024-12-07 |
 | [O Christmas Chill](https://open.spotify.com/track/57eaor5p4n2fVunmw5A43c) | [Amethyst Voyage](https://open.spotify.com/artist/7qtiZX6nbdr4hwHxMnizT0) | [O Christmas Chill](https://open.spotify.com/album/4hknqOVnHmbEriOiMbakTA) | 2:06 | 2022-12-16 |  |
 | [O Christmas Tree](https://open.spotify.com/track/1TKfooyCj8TSugn6UmikDC) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [The ultimate Lofi XMas Compilation \- Merry Christmas!](https://open.spotify.com/album/4v4sLWaTRtu2TP7Nc3KEgl) | 1:03 | 2021-12-20 | 2022-07-29 |
 | [O Christmas Tree](https://open.spotify.com/track/2shWMlZ2LkE92EyP9ZIazd) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI), [Ol Wallace](https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c) | [Winter LoFi and ChillHop Beats Vol\. 1 \(Merry Xmas!\)](https://open.spotify.com/album/2hz2yJRGdcVkssSRV3o7cP) | 1:03 | 2021-12-20 | 2022-11-12 |

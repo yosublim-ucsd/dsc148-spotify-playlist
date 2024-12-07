@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-640 songs - 1 day 14 hr 34 min
+641 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-09-28 |
 | [Fade \(feat\. KIRBY\)](https://open.spotify.com/track/4JIQyyCvJnUcRTYxKBB4LU) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Fade \(feat\. KIRBY\)](https://open.spotify.com/album/2np1sUdwyKLUGAe1NFs4uL) | 3:28 | 2024-05-31 | 2024-08-11 |
 | [Fall into place](https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Fall into place](https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo) | 2:48 | 2023-05-05 | 2023-10-07 |
+| [Fallin Up](https://open.spotify.com/track/5zzKQkne8IZnwYSn64f58h) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Fallin Up](https://open.spotify.com/album/0BDU605hqCrMZLfLQJpziG) | 4:24 | 2024-12-06 |  |
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-14 |
 | [Far Away](https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Far Away](https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy) | 2:48 | 2024-07-05 | 2024-08-28 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-09 |  |
@@ -503,7 +504,7 @@
 | [So In Love](https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [So In Love](https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ) | 4:06 | 2024-05-03 | 2024-10-01 |
 | [So Much](https://open.spotify.com/track/0jEDSgowFfE5VG3OSgiNXO) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [No Promises](https://open.spotify.com/album/231tFVqfkebvdFqg1fjyB4) | 2:39 | 2023-05-26 | 2023-10-07 |
 | [Soft](https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Soft](https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB) | 5:18 | 2024-05-31 |  |
-| [Solo](https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Solo](https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R) | 3:16 | 2024-07-12 |  |
+| [Solo](https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Elena Pinderhughes](https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu) | [Solo](https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R) | 3:16 | 2024-07-12 | 2024-12-07 |
 | [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 | 2024-11-08 |  |
 | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Rob "Fonksta" Bacon](https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO) | [Something Keeps Calling \(feat\. Rob Bacon\)](https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw) | 4:44 | 2021-12-03 | 2021-12-31 |
 | [Something To Hold \- Live](https://open.spotify.com/track/3FeKqHml7fmWnlVmNWXw75) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [Something To Hold \(Live\)](https://open.spotify.com/album/6GMmpkehPMkrtVCyncizYL) | 6:03 | 2024-05-10 | 2024-06-22 |

@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 169731,
       "name": "Goodnight Moon",
       "url": "https://open.spotify.com/track/4ccNgPrStOC8rIjyprbnXQ"
@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 166043,
       "name": "Little Birdie's Tune",
       "url": "https://open.spotify.com/track/1GVUqebQqD0nLFCYC7VX6a"
@@ -3211,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Pirate Fabian (Sj\u00f6r\u00f6var-Fabbe)",
+        "url": "https://open.spotify.com/album/6HROajIVH9olEStM4Q4Q9A"
+      },
+      "artists": [
+        {
+          "name": "Hjalmar Lagerqvist",
+          "url": "https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122403,
+      "name": "Pirate Fabian (Sj\u00f6r\u00f6var-Fabbe)",
+      "url": "https://open.spotify.com/track/6hJsbibFLOydQVfrKyacsS"
+    },
+    {
+      "album": {
         "name": "Ponnien min",
         "url": "https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM"
       },
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 75580,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN"
@@ -3946,6 +3964,24 @@
       "duration_ms": 88500,
       "name": "Stjernefall",
       "url": "https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/0aikExd8M5vlQWE5703612"
+      },
+      "artists": [
+        {
+          "name": "Rubin Briggs",
+          "url": "https://open.spotify.com/artist/0WXzVGG7J8nQRMU8RFE4pH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120283,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3HjletFkHbRp3LBzgKtGkF"
     },
     {
       "album": {

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,436 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,448 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 |
-| 2 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 |
-| 3 | [Sure Thang](https://open.spotify.com/track/5S0mtfxpYaj0uNdlfsMOxR) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Sure Thang](https://open.spotify.com/album/50iJ7EiM7X4TxU062Mus3M) | 3:23 |
-| 4 | [Carry My Name](https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Time Is A Thief](https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c) | 3:47 |
-| 5 | [U Shake Me](https://open.spotify.com/track/3QvzhZTaiI051DQ5OycbOU) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [U Shake Me](https://open.spotify.com/album/3VMhhLKcybsEZd5nHRQKnZ) | 3:31 |
-| 6 | [Cold Blues](https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy) | [DR\. Moriarity](https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Dionysus the God](https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4) | [Cold Blues](https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G) | 4:34 |
-| 7 | [Can I Get An Amen](https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Can I Get An Amen](https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N) | 3:40 |
-| 8 | [Separate Ways](https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7) | [Go Be Free](https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up) | 4:19 |
-| 9 | [Patiently Waiting For Love](https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Patiently Waiting For Love](https://open.spotify.com/album/4S1vgyiWLVNGjWbFvrNGhO) | 3:02 |
-| 10 | [California Loner](https://open.spotify.com/track/7x12Qi4L61CaprFITz5Ks9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [California Loner / Runaway From You](https://open.spotify.com/album/2fHvQ9rEjNbeNbVNDGLqhc) | 4:05 |
-| 11 | [RIOT](https://open.spotify.com/track/4oU3wup0ixElRJLzpEjRB4) | [J.Pollock](https://open.spotify.com/artist/0LuT1TXrVuq4fsA0Sy3QQe), [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [RIOT](https://open.spotify.com/album/0IE26YwVRBnDUYxPh2JfZN) | 2:09 |
-| 12 | [Mumma Raised a Man](https://open.spotify.com/track/1WM8Kf8sKwW7M6OSVh6CaZ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [Chapter One](https://open.spotify.com/album/04p6D0dz1CWTM3ngJXAJoF) | 3:50 |
-| 13 | [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 |
+| 1 | [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 |
+| 2 | [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 |
+| 3 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 |
+| 4 | [Sure Thang](https://open.spotify.com/track/5S0mtfxpYaj0uNdlfsMOxR) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Sure Thang](https://open.spotify.com/album/50iJ7EiM7X4TxU062Mus3M) | 3:23 |
+| 5 | [Carry My Name](https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Time Is A Thief](https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c) | 3:47 |
+| 6 | [U Shake Me](https://open.spotify.com/track/3QvzhZTaiI051DQ5OycbOU) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [U Shake Me](https://open.spotify.com/album/3VMhhLKcybsEZd5nHRQKnZ) | 3:31 |
+| 7 | [Cold Blues](https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy) | [DR\. Moriarity](https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Dionysus the God](https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4) | [Cold Blues](https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G) | 4:34 |
+| 8 | [Can I Get An Amen](https://open.spotify.com/track/39ZUVhgF5E50RrhRkCJ624) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Can I Get An Amen](https://open.spotify.com/album/4OmvWg51rJgDgypXntUR4N) | 3:40 |
+| 9 | [Separate Ways](https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7) | [Go Be Free](https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up) | 4:19 |
+| 10 | [Patiently Waiting For Love](https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Patiently Waiting For Love](https://open.spotify.com/album/4S1vgyiWLVNGjWbFvrNGhO) | 3:02 |
+| 11 | [California Loner](https://open.spotify.com/track/7x12Qi4L61CaprFITz5Ks9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [California Loner / Runaway From You](https://open.spotify.com/album/2fHvQ9rEjNbeNbVNDGLqhc) | 4:05 |
+| 12 | [RIOT](https://open.spotify.com/track/4oU3wup0ixElRJLzpEjRB4) | [J.Pollock](https://open.spotify.com/artist/0LuT1TXrVuq4fsA0Sy3QQe), [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [RIOT](https://open.spotify.com/album/0IE26YwVRBnDUYxPh2JfZN) | 2:09 |
+| 13 | [Mumma Raised a Man](https://open.spotify.com/track/1WM8Kf8sKwW7M6OSVh6CaZ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [Chapter One](https://open.spotify.com/album/04p6D0dz1CWTM3ngJXAJoF) | 3:50 |
 | 14 | [Black & Gold](https://open.spotify.com/track/1lfu1TB7puVtzZs6BZjB00) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black & Gold](https://open.spotify.com/album/6xMSC3RY8Ty0BeXRxKTMXK) | 4:03 |
 | 15 | [Heavy in this World](https://open.spotify.com/track/3CZjfZPHjtijEZcNFCFaUW) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Heavy in this World](https://open.spotify.com/album/0kJiMjDiNafJTaeytZCft4) | 2:57 |
 | 16 | [Smoke](https://open.spotify.com/track/7yLN6jW7m26mhYrsu0w2vI) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Smoke](https://open.spotify.com/album/0spbu3TKyH5n7VHrUO7qWt) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `Z0AP0AAAAAB74IX4ZLhNuh/9Yf7130Mp`
+Snapshot ID: `Z1KE0AAAAAD8svmX7ofyfaFG7Udn/Ul0`

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Gusti Irawan Wibowo
 
-304 songs - 19 hr 49 min
+305 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bagaimana Kabarmu?](https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Bagaimana Kabarmu?](https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq) | 4:25 | 2024-06-27 | 2024-07-27 |
 | [Bagaimana Ku Bisa](https://open.spotify.com/track/3qMt6x9lCGhKs6OCsw4ZBo) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Bagaimana Ku Bisa](https://open.spotify.com/album/07S28VCx1GGJh6zZdv3YsN) | 3:34 | 2024-06-27 | 2024-09-06 |
 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 | 2024-09-12 | 2024-11-08 |
+| [Bahagia di akhir cerita](https://open.spotify.com/track/0SufOyK7UeaP7L3RAxszxC) | [Zai Hudzaa](https://open.spotify.com/artist/1InTrPUoRBCUD5EneKBod7) | [Bahagia di akhir cerita](https://open.spotify.com/album/4TucytmUeJg8om7yNPEb2p) | 3:33 | 2024-12-05 |  |
 | [Bahagia Tanpaku](https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Bahagia Tanpaku](https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK) | 4:12 | 2024-09-26 |  |
 | [Baik Adanya](https://open.spotify.com/track/4VByqnUukW7PbNcsNt9R9A) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Baik Adanya](https://open.spotify.com/album/4Io9u4BIIsnDofyihVIZnF) | 3:20 | 2024-08-01 | 2024-10-18 |
 | [Balik Arah](https://open.spotify.com/track/2BbUfHUTIZsokhzrApZzSy) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Balik Arah](https://open.spotify.com/album/7ERDG4GgqVkNL016GHBDmt) | 3:45 | 2024-06-27 | 2024-07-05 |

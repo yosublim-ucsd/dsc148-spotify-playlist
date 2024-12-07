@@ -4,7 +4,7 @@
 
 > The best new alternative sounds from Scotland\. Cover: VUKOVI
 
-100 songs - 5 hr 37 min
+105 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [City On Fire](https://open.spotify.com/track/23yYAT8Nt1G6dXnJBolTab) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(10 Year Anniversary Special Edition\)](https://open.spotify.com/album/3gvcOyv8IJfNZUbXjce0JW) | 4:38 | 2024-06-20 | 2024-08-16 |
 | [darkroom](https://open.spotify.com/track/4pyVRH0ExZOtrJCxS2e4gM) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [darkroom](https://open.spotify.com/album/1o46mtab2pTJc2EOO7f3KT) | 2:36 | 2024-06-20 | 2024-07-19 |
 | [Deep Dark Waters \- Edit](https://open.spotify.com/track/1xd2CibZy7SNzcUoKmMQxF) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Deep Dark Waters](https://open.spotify.com/album/6x1Uu1bl7VTxmrFWBIk9xU) | 3:32 | 2024-08-29 |  |
+| [Depressed Beyond Tablets](https://open.spotify.com/track/5Ea9saMuvY5Q4CIus3R2XN) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Depressed Beyond Tablets](https://open.spotify.com/album/0MajIB2PIw5rvLTJqLtqfL) | 2:31 | 2024-12-06 |  |
 | [Desire](https://open.spotify.com/track/7maFCcYlppvlSRzeiEi1VZ) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Desire](https://open.spotify.com/album/7gNVqO8HdbkZow6YS2Hnwz) | 3:27 | 2024-09-13 |  |
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-20 |  |
 | [Disconnect](https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Disconnect](https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs) | 3:15 | 2024-07-18 |  |
@@ -76,9 +77,11 @@
 | [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2024-06-20 |  |
 | [Over The Moon](https://open.spotify.com/track/60N3qBaaCjK9Aq6Nt4Ujvy) | [Lewis McLaughlin](https://open.spotify.com/artist/6Th5PnKHXHqchkCl7pXeHz) | [Over The Moon](https://open.spotify.com/album/2bLTTdrndC5OnswWBbF6bu) | 4:29 | 2024-07-05 |  |
 | [Photobooth](https://open.spotify.com/track/3sw0xXDVupxDehe4EeA8vz) | [Swiss Portrait](https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE) | [Photobooth](https://open.spotify.com/album/4sfGi0V4wKK1BwrRPEMtRZ) | 2:56 | 2024-07-05 |  |
+| [Polaroid](https://open.spotify.com/track/6xOCOb2R79tpNZB5OMQSoA) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0tBJ4l7XEt3q5qYhBEug6H) | 3:47 | 2024-12-06 |  |
 | [Prevalent](https://open.spotify.com/track/0P33LDGm9juBr78xOFSa4x) | [The Kaves](https://open.spotify.com/artist/0vI8KviF30ZSCucgF2b3nn) | [Prevalent](https://open.spotify.com/album/7bcjALIKl2eBnauVNxKZfq) | 4:45 | 2024-06-20 | 2024-11-16 |
 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 | 2024-06-20 |  |
 | [PUBLIC ENEMY](https://open.spotify.com/track/2APs9TNlHP096WLwrGBlhE) | [La Mantra](https://open.spotify.com/artist/6UjKvtXEWoIwtWn2qNFcxb) | [PUBLIC ENEMY](https://open.spotify.com/album/4R1CjrhbitwpxzRQW3GY6P) | 2:49 | 2024-06-20 | 2024-08-16 |
+| [Punches](https://open.spotify.com/track/7d6Yk9SaGI8TiguJxXANrk) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Surface Tension](https://open.spotify.com/album/1rYKWV6Co3fC3896Ptwjeq) | 2:57 | 2024-12-06 |  |
 | [Red Moon](https://open.spotify.com/track/5brIFiuTqTgZpNkPl4KKMa) | [Gary's Rainbow Shop](https://open.spotify.com/artist/2TYLPnkmNnJQdPGwPHEBhV) | [Red Moon](https://open.spotify.com/album/6RGUkMDxKH047m6P27Vvs5) | 2:42 | 2024-06-20 | 2024-07-27 |
 | [Return To The East](https://open.spotify.com/track/6HSKaJwnG5zXbgXtUbt1Og) | [Rhona Macfarlane](https://open.spotify.com/artist/1mhtSAWUY51DcT8LBT3lSy) | [Return To The East](https://open.spotify.com/album/3PihU5OUZWOYUsUTwu7dPJ) | 3:45 | 2024-08-29 |  |
 | [Ride or Die](https://open.spotify.com/track/61r9UkhMDvzpbaSvBLyscX) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Ride or Die](https://open.spotify.com/album/1p1Px5AEBiqiKzZbI0q5dC) | 3:40 | 2024-06-20 | 2024-07-05 |
@@ -97,6 +100,8 @@
 | [TAKE CARE](https://open.spotify.com/track/0FQzUq3f6o5pJNhMJCA7qH) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [firsts.](https://open.spotify.com/album/0RQGsyCOUuEXEMSABUTAkc) | 3:10 | 2024-06-20 | 2024-07-19 |
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 | 2024-08-30 |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |
+| [This Is Love](https://open.spotify.com/track/5dwJ1aEoLyqQhgvnXPBiri) | [Georgia Cécile](https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa) | [This Is Love](https://open.spotify.com/album/4oGywwQGz3KNcuJDCCLlPB) | 4:35 | 2024-12-06 |  |
+| [This Town](https://open.spotify.com/track/5zW2rxb3tMV5DftAyDICNW) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [This Town](https://open.spotify.com/album/0CFkIsJJ9gKASix0yvfKmq) | 3:03 | 2024-12-06 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1cUWtqz5LeN7LsLu2DCQmw) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/69aS3IuY9tfPexhyElnJiA) | 4:43 | 2024-06-20 | 2024-07-05 |
 | [Two Step](https://open.spotify.com/track/4LGCpNYJRLN7Rn5NXMkjKa) | [The Fat Stacks](https://open.spotify.com/artist/7eLiXAAxH1r0BkJN2R74g4) | [Two Step](https://open.spotify.com/album/1luQcSOFWU7z3Ok8hQIiLn) | 2:55 | 2024-11-15 |  |
 | [Underneath My Skin](https://open.spotify.com/track/3yATpOOm6H1fqCO64F2mKf) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Underneath My Skin](https://open.spotify.com/album/5Yxq2FcBMOnrCdD7od9xuO) | 2:54 | 2024-08-02 |  |

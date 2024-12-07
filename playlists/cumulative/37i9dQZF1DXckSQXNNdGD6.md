@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-126 songs - 6 hr 10 min
+127 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 | 2024-11-05 |  |
 | [A QUIÉN LE IMPORTA](https://open.spotify.com/track/4pLgFeI4hteh9DsJ1TncM7) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm), [Marta Melle](https://open.spotify.com/artist/0Db1dQofqP6OWjXzrv7PPk), [GALICIAN](https://open.spotify.com/artist/5suQqERMjWkkZlcYxzJxcr) | [A QUIÉN LE IMPORTA](https://open.spotify.com/album/5jKiXQcmCtIsxB6K2vaYcB) | 2:49 | 2024-06-05 | 2024-07-03 |
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-06-05 | 2024-08-07 |
+| [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 | 2024-12-04 |  |
 | [Aire](https://open.spotify.com/track/1t4xi7nj0Svhlckg0d02lu) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Aire](https://open.spotify.com/album/6wjSxaUnrahyzTUt4QD2FM) | 2:44 | 2024-09-03 | 2024-10-02 |
 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 |  |
 | [Al Gimnasio en Tacones](https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Al Gimnasio en Tacones](https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2) | 2:33 | 2024-06-05 | 2024-07-04 |
@@ -82,7 +83,7 @@
 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 | 2024-08-06 |  |
 | [Liturgia](https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Liturgia](https://open.spotify.com/album/24yYXtyoh3yVZzGPZkkjvT) | 3:53 | 2024-10-01 |  |
 | [LOCOLOCO](https://open.spotify.com/track/6O3wWV2M81Vhs3JQJtGdcT) | [Yenesi](https://open.spotify.com/artist/2G49dkprxnvfogsgYd3yOb) | [LOCOLOCO](https://open.spotify.com/album/2GGWmq9XIqwKO9xCH5kJSB) | 2:37 | 2024-07-02 | 2024-08-07 |
-| [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 | 2024-06-05 |  |
+| [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 | 2024-06-05 | 2024-12-07 |
 | [Madres Solteras Buscan Polla](https://open.spotify.com/track/5HBKJZOUmNM6EDHbIF8K5V) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [DICTADURA TRAVESTI](https://open.spotify.com/album/4wyhnwydBRXCxjzhlMqT1D) | 3:40 | 2024-06-05 | 2024-07-03 |
 | [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 | 2024-12-04 |  |
 | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [MATARÍA A TODOS LOS HOMBRES](https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX) | 1:54 | 2024-08-06 | 2024-09-04 |

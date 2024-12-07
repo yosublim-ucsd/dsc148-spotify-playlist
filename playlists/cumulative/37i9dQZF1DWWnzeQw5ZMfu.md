@@ -2,9 +2,9 @@
 
 ### [Pop Live](https://open.spotify.com/playlist/37i9dQZF1DWWnzeQw5ZMfu)
 
-> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
+> Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Dua Lipa
 
-242 songs - 18 hr 46 min
+243 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 | 2022-04-14 |  |
 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 | 2022-04-29 |  |
 | [New Rules \- Live](https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Live\)](https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc) | 4:35 | 2022-04-14 |  |
-| [No One \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 6:53 | 2023-05-14 |  |
+| [No One \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 6:53 | 2023-05-14 | 2024-12-07 |
 | [No One \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/0BleHROB2SxV7jv9dOQr7J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 6:09 | 2022-04-14 | 2022-07-29 |
 | [no tears left to cry \- live](https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:53 | 2022-04-14 | 2023-08-19 |
 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 | 2022-04-29 |  |
@@ -214,6 +214,7 @@
 | [The Power Of Love \- Live at Le Zénith, Paris, France \- October 1995](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 |  |
 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 | 2022-11-11 | 2023-08-19 |
 | [The Way \- Live from London \(feat\. Mac Miller\)](https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly \(Tenth Anniversary Edition\)](https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM) | 3:33 | 2023-09-01 |  |
+| [Training Season \(Live from the Royal Albert Hall\)](https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa Live from the Royal Albert Hall](https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS) | 3:40 | 2024-12-06 |  |
 | [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 |  |
 | [True \- Live from the N.E.C.](https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Live At The NEC](https://open.spotify.com/album/6wWteACsElSVowr1JzAMGf) | 5:58 | 2022-04-14 | 2022-07-29 |
 | [Up Where We Belong \- Live](https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up \- Live](https://open.spotify.com/album/5zAk411l61QmbdiyAbqCEK) | 6:03 | 2022-04-14 | 2022-07-28 |

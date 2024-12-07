@@ -1,13 +1,45 @@
 {
-  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Pentatonix in Meet Me Next Christmas ",
-  "num_followers": 16876,
+  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas",
+  "num_followers": 17023,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DUZwAAAAA+A9zFHR0Us/+uQUc9pKYY",
+  "snapshot_id": "Z1NTMwAAAADM2t6zo+o4WQxnLzMt8amh",
   "tracks": [
+    {
+      "added_at": "2024-12-06 19:40:35",
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
+    },
+    {
+      "added_at": "2024-12-06 08:00:00",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 226713,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
+    },
     {
       "added_at": "2024-11-26 19:12:02",
       "album": {

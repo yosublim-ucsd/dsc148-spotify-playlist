@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185067,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J"
+    },
+    {
+      "album": {
         "name": "El Regreso",
         "url": "https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 178289,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Malilla en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Mont y Bellakath en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 235051,
       "name": "Arrebatate",
       "url": "https://open.spotify.com/track/4Ls1DjQl7t5wLpbohONi3H"
@@ -5569,6 +5569,28 @@
     },
     {
       "album": {
+        "name": "Hermanas de leche",
+        "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165318,
+      "name": "Hermanas de leche",
+      "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
+    },
+    {
+      "album": {
         "name": "Hipernova",
         "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
       },
@@ -7219,6 +7241,32 @@
     },
     {
       "album": {
+        "name": "Lolas",
+        "url": "https://open.spotify.com/album/1kJUpb7iwFo88ox7XMBX1U"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Dayner \"El Especialista\"",
+          "url": "https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185998,
+      "name": "Lolas",
+      "url": "https://open.spotify.com/track/3G6uNdCFa9717AHWo0sQUH"
+    },
+    {
+      "album": {
         "name": "Lopa Lopa",
         "url": "https://open.spotify.com/album/3sZWtxmRdPNyd15r7XyoI8"
       },
@@ -8580,7 +8628,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 213333,
       "name": "Modo Diablo",
       "url": "https://open.spotify.com/track/23y55Fro6qfLqEhkkBNAP7"
@@ -9608,6 +9656,28 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "album": {
+        "name": "UGH / OTROS LUGARES",
+        "url": "https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201672,
+      "name": "OTROS LUGARES",
+      "url": "https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj"
     },
     {
       "album": {
@@ -14322,6 +14392,28 @@
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
     },
     {
       "album": {

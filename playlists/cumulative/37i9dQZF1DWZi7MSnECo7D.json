@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Boogarins",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Tangerim",
   "name": "alt BR",
   "tracks": [
     {
@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Ayer Mor\u00ed",
+        "url": "https://open.spotify.com/album/1byvBnHTMnu34AzKPFAFZz"
+      },
+      "artists": [
+        {
+          "name": "Atalhos",
+          "url": "https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158970,
+      "name": "Ayer Mor\u00ed",
+      "url": "https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3"
+    },
+    {
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/5qW2a7KYrGUQDziRtBF4fn"
       },
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 532698,
       "name": "Canhoto de P\u00e9",
       "url": "https://open.spotify.com/track/2mui676jtyVvTzpnJEwHWC"
@@ -3887,6 +3905,28 @@
     },
     {
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
+      },
+      "artists": [
+        {
+          "name": "nat\u00e1lia carreira",
+          "url": "https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX"
+        },
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250800,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
+    },
+    {
+      "album": {
         "name": "Domingo de Sol",
         "url": "https://open.spotify.com/album/2WUiv785U0NmWRrdOn2ijY"
       },
@@ -4032,6 +4072,24 @@
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "album": {
+        "name": "Migrante",
+        "url": "https://open.spotify.com/album/7xUAc8aDr2MgJPQxTVeVG4"
+      },
+      "artists": [
+        {
+          "name": "Tangerim",
+          "url": "https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194765,
+      "name": "Eclipse Solar",
+      "url": "https://open.spotify.com/track/7JnOzPASrmhQdiSrv8Yl1v"
     },
     {
       "album": {
@@ -5444,7 +5502,7 @@
       },
       "artists": [
         {
-          "name": "Milton",
+          "name": "Milton Guesi",
           "url": "https://open.spotify.com/artist/4zIyIja72kzmKIi7v02sZx"
         }
       ],
@@ -5472,6 +5530,24 @@
       "duration_ms": 150320,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/5gWer2Q0jgZo2VHgt3akHr"
+    },
+    {
+      "album": {
+        "name": "Hasta Luego",
+        "url": "https://open.spotify.com/album/4BTdDxiDn0ERcQJYQPLaMw"
+      },
+      "artists": [
+        {
+          "name": "A Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Hasta Luego",
+      "url": "https://open.spotify.com/track/3YYCBFMcYz5gHMq0de9BQY"
     },
     {
       "album": {
@@ -5714,6 +5790,32 @@
       "duration_ms": 238583,
       "name": "Impress\u00e3o Digital",
       "url": "https://open.spotify.com/track/0UoRBK9Q7CDsZTJlzhdOed"
+    },
+    {
+      "album": {
+        "name": "Imprevis\u00edvel",
+        "url": "https://open.spotify.com/album/1uuuKNQyBMwkxiFL5CpTi9"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Jo\u00e3o Paulo Lopes",
+          "url": "https://open.spotify.com/artist/6BZZsvcWRDSP53dvlh5u3D"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162692,
+      "name": "Imprevis\u00edvel",
+      "url": "https://open.spotify.com/track/5cRpK6nKXBM5xbHU048Z6h"
     },
     {
       "album": {
@@ -8218,7 +8320,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 230678,
       "name": "Noites com Gosto de Sol",
       "url": "https://open.spotify.com/track/1EuzXkYKCyg4uRii3TGz2t"
@@ -8302,7 +8404,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162861,
       "name": "novas rotinas",
       "url": "https://open.spotify.com/track/4CNRnV7MoHMwg6kxESiz0M"
@@ -9045,6 +9147,28 @@
     },
     {
       "album": {
+        "name": "Olha Pra Mim",
+        "url": "https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI"
+      },
+      "artists": [
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        },
+        {
+          "name": "Ra\u00e7a",
+          "url": "https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128375,
+      "name": "Olha Pra Mim",
+      "url": "https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB"
+    },
+    {
+      "album": {
         "name": "o temporal",
         "url": "https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC"
       },
@@ -9384,7 +9508,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 143482,
       "name": "Passivo",
       "url": "https://open.spotify.com/track/4DQdQVBsmC8y2Ng9fDpk8O"
@@ -10436,7 +10560,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 171265,
       "name": "Quero Estar",
       "url": "https://open.spotify.com/track/5wsyTSRVf6ob8DkCGa5pqH"
@@ -11861,6 +11985,24 @@
     },
     {
       "album": {
+        "name": "Talvez",
+        "url": "https://open.spotify.com/album/5qe4GakbSgVhkGhLcsbFFF"
+      },
+      "artists": [
+        {
+          "name": "Marrakesh",
+          "url": "https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/6KE4fIyig09bMdKdLMZjZl"
+    },
+    {
+      "album": {
         "name": "Talvez o Problema Seja Eu",
         "url": "https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL"
       },
@@ -11944,7 +12086,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 120110,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/76zObbgCpNkONNVieHQIa1"
@@ -11988,7 +12130,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 198720,
       "name": "TELA DE CINEMA",
       "url": "https://open.spotify.com/track/5Y0xSeJalkj96H5pp1ae0h"

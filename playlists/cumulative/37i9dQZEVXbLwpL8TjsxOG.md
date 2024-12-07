@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,029 songs - 2 day 12 hr 2 min
+1,030 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [ChatMrE](https://open.spotify.com/track/47aJSdqoHoKw0XDXivA9EH) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [ChatMrE](https://open.spotify.com/album/6aXIB3Geu6VHwSePAXQV7h) | 3:51 | 2023-05-13 | 2023-05-20 |
 | [Cheers to youth](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:11 | 2024-04-30 | 2024-05-03 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 | 2023-04-22 |
-| [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-10-29 |  |
+| [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-10-29 | 2024-12-07 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-23 | 2024-10-30 |
 | [Cheshire](https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL) | 3:02 | 2022-12-02 | 2022-12-04 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-01 |
@@ -235,7 +235,7 @@
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-16 | 2021-05-23 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-11 | 2022-05-13 |
 | [Good Graces](https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:05 | 2024-08-29 | 2024-08-31 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-12 | 2024-11-25 |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-12 |  |
 | [Good Night Marie](https://open.spotify.com/track/3jOdJJu8JlYec6BMiMHOyQ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 3:09 | 2024-03-20 | 2024-03-31 |
 | [Got U](https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Got U](https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0) | 2:52 | 2022-05-06 | 2023-07-20 |
 | [Gotta Go!](https://open.spotify.com/track/3F16iie73VyKgN63z6YyZH) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Gotta Go!](https://open.spotify.com/album/5QMViZsyLMd5pJJc3l9BEO) | 3:26 | 2022-05-01 | 2022-06-07 |
@@ -835,6 +835,7 @@
 | [我們不 Chok](https://open.spotify.com/track/4bC4inBYZpOZFvZVJ27RM5) | [Error](https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ) | [我們不 Chok](https://open.spotify.com/album/2SWKHKhlGJZKq5tvcUvEWo) | 2:58 | 2021-07-14 | 2021-08-29 |
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2021-03-27\* | 2021-06-24 |
 | [我很不愛你](https://open.spotify.com/track/5lK1HwtIeO6tIisPf3Dogc) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [我很不愛你](https://open.spotify.com/album/6pXxlObzsBKcYMSBhdf1Y2) | 4:13 | 2024-08-10 | 2024-08-12 |
+| [我感覺到](https://open.spotify.com/track/1oKqn2ZQPjxyO5cHukLyJz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh), [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我感覺到](https://open.spotify.com/album/29jfGvVKC2aJFTW01HB6fU) | 4:33 | 2024-12-06 |  |
 | [我與你的差距 \(ViuTV 劇集 "社內相親" 主題曲\)](https://open.spotify.com/track/2H6JOKPq1G3JHKoz6Es7Qr) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [我與你的差距 \(ViuTV 劇集 "社內相親" 主題曲\)](https://open.spotify.com/album/4Fj8InKo7NYZOYomizbHhi) | 2:39 | 2023-11-28 | 2023-11-30 |
 | [才二十三](https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [才二十三](https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh) | 3:44 | 2024-08-24 | 2024-09-01 |
 | [抱抱無尾熊](https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [抱抱無尾熊](https://open.spotify.com/album/27ht56bpzBhmQfjSjgoAmI) | 3:45 | 2023-04-13 | 2024-02-21 |
@@ -868,7 +869,7 @@
 | [最愛是誰 My Dearest](https://open.spotify.com/track/0B7Q3WgZFRi4okNruZxk41) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REMEMBRANCE Leslie](https://open.spotify.com/album/2Kek1O4ABvg1t7bSFz6jHm) | 3:52 | 2023-04-02 | 2023-04-04 |
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2021-10-16 | 2021-12-30 |
 | [最難行的路](https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:41 | 2021-12-29 | 2022-02-16 |
-| [會再見的](https://open.spotify.com/track/2HMgfqnkZEynYfW1B9viVe) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [會再見的](https://open.spotify.com/album/3mnfFbK8y2PNOViEqUwF4G) | 4:30 | 2024-09-25 |  |
+| [會再見的](https://open.spotify.com/track/2HMgfqnkZEynYfW1B9viVe) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [會再見的](https://open.spotify.com/album/3mnfFbK8y2PNOViEqUwF4G) | 4:30 | 2024-09-25 | 2024-12-07 |
 | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/track/1Z4NLRQQJ5eaEEJe2e9lTS) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/album/6kGyB5fn87yk0Gk9OOR1cM) | 3:26 | 2024-06-22 | 2024-06-24 |
 | [月球上碰面](https://open.spotify.com/track/35KzQtjAlRJiV85veCiX6z) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa), [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [月球上碰面](https://open.spotify.com/album/2cyIEWMK250xGJ1eGmmRfB) | 4:26 | 2022-01-30 | 2022-02-12 |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-12 | 2024-10-08 |

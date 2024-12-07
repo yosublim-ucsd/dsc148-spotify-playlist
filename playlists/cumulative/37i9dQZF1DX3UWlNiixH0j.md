@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 君島大空 Ohzora Kimishima
 
-2,013 songs - 5 day 5 hr 24 min
+2,014 songs - 5 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,7 +1472,7 @@
 | [グッド・バッド・ストーリー](https://open.spotify.com/track/6a5FG3A5rkMvcrig6QJPpC) | [Enjoy Music Club](https://open.spotify.com/artist/30TUV9gTBJ8ffWRMe3O2J0) | [グッド・バッド・ストーリー](https://open.spotify.com/album/0F8byrDHlTHVist8lPG4Hn) | 3:50 | 2024-09-24 | 2024-11-06 |
 | [グリン・グリーンレッド](https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [グリン・グリーンレッド](https://open.spotify.com/album/7Fncd7Lp8hwh7fy9i5Uw0X) | 1:14 | 2023-12-19 | 2024-09-18 |
 | [グリーンマン](https://open.spotify.com/track/5A5IxGThcKc5ZG3TVqouVP) | [KiQ](https://open.spotify.com/artist/1wpDXEtGHLGW18q9A0bvGz) | [グリーンマン](https://open.spotify.com/album/5YoZ2aUnPsLCJIduIMG9Xg) | 3:43 | 2023-09-05 | 2023-09-20 |
-| [グレー](https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [グレー](https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR) | 3:29 | 2024-10-15 |  |
+| [グレー](https://open.spotify.com/track/7zDtaZKT3Q1RRzXjnRIv4B) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [グレー](https://open.spotify.com/album/6vqpq472JxEatGTOlwrLZR) | 3:29 | 2024-10-15 | 2024-12-07 |
 | [コステロメガネ](https://open.spotify.com/track/4V1zGopqPDZl2pkeURmj95) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [コステロメガネ](https://open.spotify.com/album/2nITrjvHBFFPE6wtNA43qU) | 3:11 | 2024-01-30 | 2024-02-07 |
 | [コメット](https://open.spotify.com/track/4OUGiOpZtwEnFOsUZfONhS) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [コメット](https://open.spotify.com/album/4bwQ5Mz7zR8tW7nzOBOi4c) | 4:02 | 2023-10-31 | 2023-11-08 |
 | [コロネ気流](https://open.spotify.com/track/66M7oadAQbYXj1KQQipcLd) | [KISS THE GAMBLER](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [コロネ気流](https://open.spotify.com/album/1MuCLcj073eV0Cu4vXP0IT) | 2:29 | 2023-09-05 | 2023-09-13 |
@@ -1526,6 +1526,7 @@
 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-18 | 2023-06-28 |
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-03-19 | 2024-04-24 |
 | [ドライブ論争](https://open.spotify.com/track/54d1tRwYn66RD0H1BCDatC) | [ミジンコ論争](https://open.spotify.com/artist/1FYEo2saNM2qIbQC0pVfSJ) | [ドライブ論争](https://open.spotify.com/album/0yGsTF9plbmUSXcLjMN9ud) | 4:04 | 2024-02-13 | 2024-02-21 |
+| [ドラゴンなんだって](https://open.spotify.com/track/1GzJ0cBkWSKDLKzmtWZxs5) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [ドラゴンなんだって](https://open.spotify.com/album/2S1izJUhNvRO2KKXcqlG4p) | 3:16 | 2024-12-04 |  |
 | [ドラマにならない](https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u) | [kako](https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk) | [愛すべき誰](https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB) | 2:54 | 2024-06-11 | 2024-06-19 |
 | [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-03-08 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-06 |

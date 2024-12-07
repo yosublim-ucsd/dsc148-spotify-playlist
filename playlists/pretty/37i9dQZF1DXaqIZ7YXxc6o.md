@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Tommy Genesis & Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,475 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,495 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Are The People \- ARTBAT Remix](https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [We Are The People \(ARTBAT Remix\)](https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2) | 3:58 |
-| 2 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/7xXPwuFYskJxMRfbxjsjDL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
+| 2 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
 | 3 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 |
 | 4 | [Forever Young \(feat\. Alphaville & Ava Max\) \- CYRIL Remix](https://open.spotify.com/track/7MivXlOJSElWcNPSRWMpkc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young \(feat\. Alphaville & Ava Max\) \[CYRIL Remix\]](https://open.spotify.com/album/1CKpz0mOYS9dmIk05djEGw) | 2:13 |
 | 5 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 |

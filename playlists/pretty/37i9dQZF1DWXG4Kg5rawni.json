@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 105840,
+  "num_followers": 105861,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 284862,
       "name": "Um Verso de Amor",
       "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Encontrar Voc\u00ea",
-        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Thamiriz",
-          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "Encontrar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "do avesso",
         "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 246917,
       "name": "do avesso",
       "url": "https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Encontrar Voc\u00ea",
+        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Thamiriz",
+          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Encontrar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
     },
     {
       "added_at": "2024-07-11 15:58:05",

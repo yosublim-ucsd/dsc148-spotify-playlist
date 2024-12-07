@@ -2,7 +2,7 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: أحمد كامل
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
 1,251 songs - 2 day 21 hr 48 min
 
@@ -400,6 +400,7 @@
 | [Heya Elnas](https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Heya Elnas](https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi) | 4:09 | 2022-07-28 | 2022-10-21 |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2022-09-24 |
 | [Hob Taht El Enshaa](https://open.spotify.com/track/7ASe4X29gwQLvO2dTtj04d) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Hob Taht El Enshaa](https://open.spotify.com/album/7IoYxk1XGAwq8bdXdVkS52) | 3:22 | 2024-07-24 | 2024-09-13 |
+| [Hob Tany](https://open.spotify.com/track/2wgLVfYEqvjAQCCPlNtkSc) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Hob Tany](https://open.spotify.com/album/0wyDsN5nHVeQ8aHfMK9w1M) | 3:13 | 2024-12-06 |  |
 | [Hollela](https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Hollela](https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g) | 3:51 | 2023-06-22 | 2023-07-28 |
 | [Independent](https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB), [Alaa Ayoub](https://open.spotify.com/artist/1VlKswfMq3gkY5dqMPqOtH) | [Independent](https://open.spotify.com/album/2RZG30VaDtoJeCUPdMImG0) | 4:11 | 2022-11-09 | 2023-01-25 |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-21 | 2022-12-24 |
@@ -801,7 +802,6 @@
 | [Ya Khabar](https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Khabar](https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9) | 2:52 | 2023-05-11 | 2023-06-28 |
 | [Ya Khsara](https://open.spotify.com/track/3NHzvUVVmkNQ6hQ9VJMbJq) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Ya Khsara](https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz) | 2:52 | 2024-02-23 | 2024-06-07 |
 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-18 | 2023-08-21 |
-| [Ya Layaly](https://open.spotify.com/track/2wgLVfYEqvjAQCCPlNtkSc) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Hob Tany](https://open.spotify.com/album/0wyDsN5nHVeQ8aHfMK9w1M) | 3:13 | 2024-12-06 |  |
 | [Ya Leil Ya Ein](https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Leil Ya Ein](https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL) | 3:31 | 2023-03-03 | 2023-05-05 |
 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 | 2024-03-07 | 2024-04-26 |
 | [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 | 2024-05-06 | 2024-07-06 |

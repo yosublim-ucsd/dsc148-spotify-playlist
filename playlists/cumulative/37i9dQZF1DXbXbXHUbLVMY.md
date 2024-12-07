@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-256 songs - 11 hr 9 min
+257 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Go](https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Go](https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA) | 2:34 | 2023-09-21 |  |
 | [godis](https://open.spotify.com/track/0P3Pmq5JAlsFuyX7rGRjIm) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [godis EP](https://open.spotify.com/album/7x42NMS2WkIcHcOlypMAJd) | 2:56 | 2024-07-11 | 2024-08-12 |
 | [Goodbye](https://open.spotify.com/track/3Z9Hk0xOZpmKXUSMWIRf1V) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Voksen Mann Uten Slips](https://open.spotify.com/album/2BNCNlkVDlR7gNCpN97jnk) | 2:12 | 2024-05-30 | 2024-10-13 |
+| [Gora B](https://open.spotify.com/track/3fraIzpP79GXG54c4K9oFH) | [Snow Boyz](https://open.spotify.com/artist/0QZTQYBwBC1A951YedFq2c), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Gora B](https://open.spotify.com/album/3ulOVZvbamCeXRU20c3lj1) | 3:23 | 2024-11-28 |  |
 | [Gram](https://open.spotify.com/track/2vDuMv7vdKBBpLSe3bDT3X) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Søvngjenger](https://open.spotify.com/album/5xgO1NE1649LL5we5pXx4M) | 3:19 | 2024-11-21 |  |
 | [Habibi You](https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Habibi You](https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf) | 1:54 | 2024-07-18 |  |
 | [Halvt mann, halvt geit](https://open.spotify.com/track/3sdFJGE5I2eXuxod4jhj5p) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [Halvt mann, halvt geit](https://open.spotify.com/album/1qyitc9Ke7huYPC7lTWgAv) | 2:12 | 2024-11-07 |  |
@@ -147,7 +148,7 @@
 | [Känslokall](https://open.spotify.com/track/0XYJmQjglYGEYTAipk9uVQ) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:03 | 2024-02-01 | 2024-04-19 |
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 | 2024-02-04 |
 | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/track/1JnyapmYsRfnirBjc5xorh) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [København \(feat\. Arif Murakami & Bargee\)](https://open.spotify.com/album/7nk0l6LqD5bjWHZNfRuMJ9) | 2:58 | 2024-05-30 | 2024-10-18 |
-| [LA LIGA](https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [LA LIGA](https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa) | 2:21 | 2024-09-26 |  |
+| [LA LIGA](https://open.spotify.com/track/2qmqbVxH8QOhRDK6bnno6P) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [LA LIGA](https://open.spotify.com/album/0C7aWQCc5MMefmUKhzwsQa) | 2:21 | 2024-09-26 | 2024-12-07 |
 | [Lean & $prite](https://open.spotify.com/track/1iW01MpA3PwLW97dq1hHEH) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Lean & $prite](https://open.spotify.com/album/7eEKWJ2EWUqDTHNQnyDwCW) | 2:34 | 2024-01-22 | 2024-06-01 |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 | 2024-04-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Charlotte Lawrence",
+  "description": "Sit back and relax to the chillest pop.  Cover: David Kushner",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 179528,
       "name": "85",
       "url": "https://open.spotify.com/track/0TExB3rbWBgk5TUlH3Aei9"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 145178,
       "name": "9 Lives",
       "url": "https://open.spotify.com/track/66tq3X5MuLhQienSSv6qQ3"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218099,
       "name": "Ash (feat. Deb Never)",
       "url": "https://open.spotify.com/track/0txPmhnFeaK0KlTZGRrYGE"
@@ -3698,7 +3698,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 230445,
       "name": "BITE THE APPLE",
       "url": "https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC"
@@ -6531,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner",
+        "url": "https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215826,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/2jv02Sqo81GWoZ49pabbnR"
+    },
+    {
+      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
@@ -9173,6 +9191,24 @@
     },
     {
       "album": {
+        "name": "Empty Bench",
+        "url": "https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Empty Bench",
+      "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
+    },
+    {
+      "album": {
         "name": "end credits",
         "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
@@ -11558,6 +11594,24 @@
       "duration_ms": 221434,
       "name": "Future Love",
       "url": "https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL"
+    },
+    {
+      "album": {
+        "name": "gas station cowboy hats",
+        "url": "https://open.spotify.com/album/6hbimeEkiMNLopOdBdBCri"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200445,
+      "name": "gas station cowboy hats",
+      "url": "https://open.spotify.com/track/4GP6UNL6rfNIHHtrg4BCkb"
     },
     {
       "album": {
@@ -14151,6 +14205,24 @@
     },
     {
       "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212043,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
+    },
+    {
+      "album": {
         "name": "WHO'S TAKEN TIME ?! (ACT II)",
         "url": "https://open.spotify.com/album/43Sg70QwSOnzrSSxYfzfs5"
       },
@@ -14768,6 +14840,24 @@
       "duration_ms": 205776,
       "name": "I Can't Wait to Be British",
       "url": "https://open.spotify.com/track/2HAnmtm1N1twtiVRrLD4jQ"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
     },
     {
       "album": {
@@ -17164,7 +17254,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 231066,
       "name": "I\u2019ll See You In My Dreams",
       "url": "https://open.spotify.com/track/6e1etASUJJUrg8LHiV4RI0"
@@ -20200,7 +20290,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 152610,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
@@ -22436,7 +22526,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162461,
       "name": "Never Knew",
       "url": "https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ"
@@ -25604,7 +25694,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
@@ -26286,6 +26376,24 @@
       "duration_ms": 152922,
       "name": "Ready Yet",
       "url": "https://open.spotify.com/track/2KNB0oKjKoITfAJXLCS8U6"
+    },
+    {
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
     },
     {
       "album": {
@@ -28608,7 +28716,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
@@ -30172,6 +30280,24 @@
       "duration_ms": 165325,
       "name": "State of Emotion",
       "url": "https://open.spotify.com/track/3e2bbvL1DPInaQp6zsF0h0"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "album": {
@@ -32103,6 +32229,24 @@
     },
     {
       "album": {
+        "name": "The Alchemist",
+        "url": "https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212021,
+      "name": "The Alchemist",
+      "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
+    },
+    {
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -32378,6 +32522,24 @@
       "duration_ms": 214533,
       "name": "The Golden Years",
       "url": "https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT"
+    },
+    {
+      "album": {
+        "name": "The Great Magician",
+        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183687,
+      "name": "The Great Magician",
+      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
     },
     {
       "album": {
@@ -32660,7 +32822,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 175750,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
@@ -32816,6 +32978,24 @@
       "duration_ms": 233560,
       "name": "The Same",
       "url": "https://open.spotify.com/track/4x7OnXtzFvsPIqdmQq2Pao"
+    },
+    {
+      "album": {
+        "name": "The scientist",
+        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267700,
+      "name": "The scientist",
+      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
       "album": {

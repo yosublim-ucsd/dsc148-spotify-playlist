@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💛 ROSÉ 💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,869 likes - 132 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,865 likes - 132 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

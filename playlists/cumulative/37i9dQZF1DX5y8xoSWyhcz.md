@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,267 songs - 2 day 17 hr 15 min
+1,268 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 | 2024-10-04 |  |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/5p5cFBRERDfiNJlfABACP0) | 4:31 | 2021-01-15 | 2021-03-19 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-14 | 2022-01-22 |
-| [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 | 2023-06-23 |  |
+| [Cherub](https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Sewer Rat](https://open.spotify.com/album/5ct3lmfTmWd2MRgxsF6LHJ) | 2:39 | 2023-06-23 | 2024-12-07 |
 | [Chillin In The Garden](https://open.spotify.com/track/3yTnJrXRHNrLvyaE8dIZNx) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [Chillin In The Garden](https://open.spotify.com/album/1VWUmgOf96if3qz0MbgqbC) | 4:19 | 2022-02-25 | 2022-04-02 |
 | [Cigar in the Snow](https://open.spotify.com/track/3Lj4URycxYrlC7L9aHwSZo) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Cigar in the Snow](https://open.spotify.com/album/5Fm0KNrVt50mAl3NriNzp3) | 3:30 | 2021-05-03 | 2021-07-17 |
 | [CIGARETTES](https://open.spotify.com/track/2e1SliQSsHs1YutpnfuNYC) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [CIGARETTES](https://open.spotify.com/album/0W2PW9SzUoZYRAoYS2YKnH) | 2:29 | 2022-07-01 | 2023-09-29 |
@@ -1029,6 +1029,7 @@
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2020-10-29\* | 2020-11-14 |
 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2022-10-14 | 2024-03-30 |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-31 | 2024-06-22 |
+| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
 | [Still Think You Do](https://open.spotify.com/track/2ADYaUJ8i9ElvjStgLjhLT) | [Devan](https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2) | [Still Think You Do](https://open.spotify.com/album/2dZwOcKSlPXF0avepEFyXy) | 3:39 | 2023-11-10 | 2024-07-19 |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-03-14 | 2021-04-10 |
 | [Stomping](https://open.spotify.com/track/2RCxfudVc5y1cPvppLwVAp) | [Earth Dad](https://open.spotify.com/artist/4chHQ1XcMUGTnvb0Q5mgIG), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [Stomping / 2 Be Loved](https://open.spotify.com/album/2A6g4eLSERVlqQHLF3nVug) | 2:12 | 2021-01-09 | 2021-01-30 |

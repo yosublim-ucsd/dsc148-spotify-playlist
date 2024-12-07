@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 167788,
+  "num_followers": 167831,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Pista do C\u00e9u (Quase 30)",
         "url": "https://open.spotify.com/album/4ysRL1yOl0Wk8q55x83NTT"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 432000,
       "name": "Pista do C\u00e9u (Quase 30)",
       "url": "https://open.spotify.com/track/2Tkbqw8hvszUvsP71JYUW6"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "A Noiva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 343626,
-      "name": "A Noiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
-        }
-      ],
-      "duration_ms": 331110,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 247746,
       "name": "Mais Que Vencedor",
       "url": "https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+        }
+      ],
+      "duration_ms": 331110,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Quero Te Levar Comigo",
+        "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
+      },
+      "artists": [
+        {
+          "name": "Bruno Cerqueira",
+          "url": "https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D"
+        }
+      ],
+      "duration_ms": 279360,
+      "name": "Quero Te Levar Comigo",
+      "url": "https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "\u00c9s o Meu Amor",
         "url": "https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 226791,
       "name": "\u00c9s o Meu Amor",
       "url": "https://open.spotify.com/track/5FJx6A87uRYHowoeHfEe7F"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Quero Te Levar Comigo",
-        "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
-      },
-      "artists": [
-        {
-          "name": "Bruno Cerqueira",
-          "url": "https://open.spotify.com/artist/2YKr7WRb3XjesJU0P7oC3D"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Quero Te Levar Comigo",
-      "url": "https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Crente Que Ora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 246737,
       "name": "O Melhor Pra Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Crente Que Ora - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
     },
     {
       "added_at": "2024-11-08 03:01:00",

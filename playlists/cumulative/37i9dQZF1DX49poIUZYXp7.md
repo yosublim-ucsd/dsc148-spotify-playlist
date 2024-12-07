@@ -2,7 +2,7 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Tiera Kennedy
+> The extraordinary women making great country music today\. Cover: Ashley Cooke
 
 389 songs - 21 hr 12 min
 

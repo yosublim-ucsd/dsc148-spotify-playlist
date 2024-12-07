@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 269093,
       "name": "Noni Onako",
       "url": "https://open.spotify.com/track/3k1yrdey3rESxZguzXdv98"
@@ -2469,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "Shake It To The Max (FLY)",
+        "url": "https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Shake It To The Max (FLY)",
+      "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"
+    },
+    {
+      "album": {
         "name": "Shameless",
         "url": "https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT"
       },
@@ -2564,6 +2586,28 @@
       "duration_ms": 261048,
       "name": "Soft Vibez - Acoustic",
       "url": "https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz"
+    },
+    {
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/1jrlmIgLonqnlxuz4pkX06"
+      },
+      "artists": [
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        },
+        {
+          "name": "Okaiwav",
+          "url": "https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/6LIPNqq9Ha2SQlpXbMKQq5"
     },
     {
       "album": {
@@ -3100,7 +3144,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162742,
       "name": "Yawa Go Dey",
       "url": "https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N"

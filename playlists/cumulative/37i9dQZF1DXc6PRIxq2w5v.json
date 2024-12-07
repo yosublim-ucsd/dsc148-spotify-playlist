@@ -3269,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "DU NADA - Parte 2",
+        "url": "https://open.spotify.com/album/02m63diqQK3FLhFpT0d66G"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161575,
+      "name": "Fica Atento",
+      "url": "https://open.spotify.com/track/68gwW1g6BCB5yvnLr59bTF"
+    },
+    {
+      "album": {
         "name": "Filho",
         "url": "https://open.spotify.com/album/2E32XoyVDlV8yHnXKM9VFk"
       },
@@ -4366,7 +4388,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 169016,
       "name": "Jesus Saves Bro",
       "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
@@ -7510,7 +7532,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185430,
       "name": "Reino",
       "url": "https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G"
@@ -7536,6 +7558,28 @@
       "duration_ms": 177973,
       "name": "Reino de Deus - Utopia",
       "url": "https://open.spotify.com/track/3AIYvoE2IlXmUFdSDU2MRX"
+    },
+    {
+      "album": {
+        "name": "Renuncio o Meu Eu",
+        "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190408,
+      "name": "Renuncio o Meu Eu",
+      "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
     },
     {
       "album": {

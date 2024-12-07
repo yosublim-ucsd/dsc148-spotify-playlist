@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2 hands (Don Diablo remix)",
+        "url": "https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "2 hands - Don Diablo remix",
+      "url": "https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
       },
@@ -464,6 +486,32 @@
       "duration_ms": 162727,
       "name": "Coffee & Cigarettes",
       "url": "https://open.spotify.com/track/1boIJkAILLJCggEyaNxCss"
+    },
+    {
+      "album": {
+        "name": "come aliv3",
+        "url": "https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "come aliv3",
+      "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
     },
     {
       "album": {
@@ -1216,6 +1264,28 @@
       "duration_ms": 141660,
       "name": "GIRLZ",
       "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
+    },
+    {
+      "album": {
+        "name": "Give It Up For Me (The Remixes)",
+        "url": "https://open.spotify.com/album/7g7pY4oWQsWBzHAfl2CxdJ"
+      },
+      "artists": [
+        {
+          "name": "Sydney Blu",
+          "url": "https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378857,
+      "name": "Give It Up for Me - deadmau5 Remix",
+      "url": "https://open.spotify.com/track/2x37fnWK7aoxObPkTX1OK2"
     },
     {
       "album": {
@@ -2344,7 +2414,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 208699,
       "name": "Mohobbat - Love",
       "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
@@ -3709,6 +3779,28 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144024,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb"
+    },
+    {
+      "album": {
         "name": "Without You (with HAYLA)",
         "url": "https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk"
       },
@@ -3782,7 +3874,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218929,
       "name": "You Belong To No-One",
       "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
@@ -3826,7 +3918,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 181760,
       "name": "Youngblood (feat. Josh Breaks)",
       "url": "https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg"

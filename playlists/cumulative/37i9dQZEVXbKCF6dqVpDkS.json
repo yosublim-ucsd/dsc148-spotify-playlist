@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -6500,7 +6500,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 52146,
       "name": "Daar Wordt Aan De Deur Geklopt",
       "url": "https://open.spotify.com/track/1ok5ni0Bt4SdX7bWckSemo"
@@ -6566,7 +6566,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 40800,
       "name": "Dag Sinterklaasje",
       "url": "https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD"
@@ -7083,6 +7083,24 @@
     },
     {
       "album": {
+        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
+        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69230,
+      "name": "De baard van Sinterklaas",
+      "url": "https://open.spotify.com/track/5jNJW37E96IgROig56mIEJ"
+    },
+    {
+      "album": {
         "name": "De Diepte",
         "url": "https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o"
       },
@@ -7225,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "Mega Sint Hits",
+        "url": "https://open.spotify.com/album/1e2dHrupiMOpPNnvqn2UJ4"
+      },
+      "artists": [
+        {
+          "name": "Party Piet Pablo",
+          "url": "https://open.spotify.com/artist/1s3i7nR3SaBR77Oia1kbfW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "De pieten sinterklaas move",
+      "url": "https://open.spotify.com/track/1rDip8Mu350sCDFWoOawWI"
+    },
+    {
+      "album": {
         "name": "Deze Is Niet Voor De Charts",
         "url": "https://open.spotify.com/album/2h8DK6wMno3qMLJUNtKu1B"
       },
@@ -7240,6 +7276,42 @@
       "duration_ms": 206939,
       "name": "De Ploff!",
       "url": "https://open.spotify.com/track/41BrizXLf8QfN6ErgrdgHu"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68052,
+      "name": "De Sint is in het land",
+      "url": "https://open.spotify.com/track/1Mrg3AtmOUHeHnum2bOzrM"
+    },
+    {
+      "album": {
+        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
+        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72537,
+      "name": "De Sint staat te zwaaien",
+      "url": "https://open.spotify.com/track/1yRXOPJ7qMlp2ZRuJ3tAbB"
     },
     {
       "album": {
@@ -7276,7 +7348,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 67333,
       "name": "De Zak Van Sinterklaas",
       "url": "https://open.spotify.com/track/4DywzzJMofsBLai1RO3oXb"
@@ -8452,7 +8524,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -11020,7 +11092,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141775,
       "name": "Gaan We Weg?",
       "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
@@ -12894,7 +12966,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 70186,
       "name": "Hee, Zeg Piet, Wiedewiedewiet",
       "url": "https://open.spotify.com/track/6ADDYhtzdIS8cZ9o4tGGh9"
@@ -13156,7 +13228,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 161160,
       "name": "Het Midden",
       "url": "https://open.spotify.com/track/5650jkmPhrqy7sdXQ9O9mL"
@@ -13350,7 +13422,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 47320,
       "name": "Hij Komt, Hij Komt",
       "url": "https://open.spotify.com/track/0t0oGLmuoBd5xqTLNkLlkX"
@@ -13780,7 +13852,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 91160,
       "name": "Hoor De Wind Waait Door De Bomen",
       "url": "https://open.spotify.com/track/55Fdq7Gz3uCCEP7xtyikiq"
@@ -13810,6 +13882,28 @@
       "duration_ms": 72336,
       "name": "Hoor wie klopt daar - Vlaams",
       "url": "https://open.spotify.com/track/1aJ13a29hL3re8w0JRsHKL"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes om mee te zingen",
+        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+      },
+      "artists": [
+        {
+          "name": "Alles Kids",
+          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+        },
+        {
+          "name": "Sinterklaasliedjes Alles Kids",
+          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70453,
+      "name": "Hoor Wie Klopt Daar Kinderen",
+      "url": "https://open.spotify.com/track/0ULIwF6El7CvS6fVslrD7c"
     },
     {
       "album": {
@@ -14298,7 +14392,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -15298,7 +15392,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 174953,
       "name": "Ik Wil Dat Je Liegt",
       "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
@@ -15902,7 +15996,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -16170,7 +16264,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -16356,7 +16450,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 88200,
       "name": "Jongens, Heb Je 't Al Vernomen",
       "url": "https://open.spotify.com/track/6HlytDgbNe2xJREe9XjKru"
@@ -16962,7 +17056,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -19080,7 +19174,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -19212,7 +19306,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -19764,7 +19858,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -20582,7 +20676,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -21094,7 +21188,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 144675,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2rpIkmBVX8wCsGcJytW9IY"
@@ -21326,7 +21420,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
@@ -22186,7 +22280,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
@@ -22328,7 +22422,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 89160,
       "name": "Oh Kom Er Eens Kijken",
       "url": "https://open.spotify.com/track/0i1G8lq7OoE2Dverts6OoC"
@@ -23762,7 +23856,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 88040,
       "name": "Pepernotensamba",
       "url": "https://open.spotify.com/track/1YDl0IczCuQwFoUjvWbZXI"
@@ -24404,7 +24498,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 145354,
       "name": "PRETTY GIRLS",
       "url": "https://open.spotify.com/track/4vW57jBzQQ8Q9MwUibzmir"
@@ -26818,7 +26912,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -27008,7 +27102,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 57146,
       "name": "Sinterklaas Is Jarig",
       "url": "https://open.spotify.com/track/4xwh0OgPHCFexcDzIVwx2Z"
@@ -27030,10 +27124,28 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 42093,
       "name": "Sinterklaas Kapoentje",
       "url": "https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55280,
+      "name": "Sinterklaas kapoentje",
+      "url": "https://open.spotify.com/track/1FDrCkCH1EU3k95q4NTMw2"
     },
     {
       "album": {
@@ -27070,7 +27182,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 36026,
       "name": "Sinterklaas Wie Kent Hem Niet",
       "url": "https://open.spotify.com/track/0HDGca5yljtubIKv8sfAmz"
@@ -27092,7 +27204,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 36173,
       "name": "Sinterklaasje Bonne Bonne Bonne",
       "url": "https://open.spotify.com/track/6dWXUUnFdxvvpfqUrf7Myt"
@@ -27118,7 +27230,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 93994,
       "name": "Sinterklaasje kom maar binnen",
       "url": "https://open.spotify.com/track/2va7hTvr8psGLxZoxkrTwd"
@@ -27140,6 +27252,24 @@
       "duration_ms": 49333,
       "name": "Sinterklaasje Kom Maar Binnen",
       "url": "https://open.spotify.com/track/5SSElBg0LNiXm9SQrOkjrd"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49473,
+      "name": "Sinterklaasje Kom Maar Binnen",
+      "url": "https://open.spotify.com/track/5dJJiGqsskjq7OSwNgbHoI"
     },
     {
       "album": {
@@ -27244,7 +27374,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -27474,7 +27604,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 57173,
       "name": "Snelle Piet Ging Uit Fietsen",
       "url": "https://open.spotify.com/track/7lgfaCuIBLt0MuwQLlTt8B"
@@ -28828,7 +28958,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
@@ -29308,7 +29438,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -30310,7 +30440,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -30590,7 +30720,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -30648,7 +30778,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
@@ -31192,7 +31322,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -31448,7 +31578,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -31466,7 +31596,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -33848,7 +33978,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 55453,
       "name": "Wie Komt Er Alle Jaren",
       "url": "https://open.spotify.com/track/4Xvq0McZanuNuROuA6IsQb"
@@ -33928,7 +34058,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -34458,7 +34588,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 91933,
       "name": "Zachtjes Gaan De Paardenvoetjes",
       "url": "https://open.spotify.com/track/0ag6qgkabOCkXDyREM7K17"
@@ -34506,7 +34636,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 72702,
       "name": "Zie de maan schijnt door de bomen - Nederlands",
       "url": "https://open.spotify.com/track/5CBv0yxnw9SMrNQD1rGZSE"
@@ -34528,10 +34658,28 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 63626,
       "name": "Zie Ginds Komt De Stoomboot",
       "url": "https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58"
+    },
+    {
+      "album": {
+        "name": "Sinterklaasliedjes 2023 met Juf Roos",
+        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+      },
+      "artists": [
+        {
+          "name": "Juf Roos",
+          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75453,
+      "name": "Zie ginds komt de stoomboot",
+      "url": "https://open.spotify.com/track/1grKwGKpBGvX3yp889hXEV"
     },
     {
       "album": {

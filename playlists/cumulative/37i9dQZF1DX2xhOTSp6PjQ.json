@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=E4K0jnN2SaO_uYljBpxttQ\">Khuzani</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=2i2vs-pVTA6Ml5TKzPimnQ\">Inkos'yamagcokama</a>",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 270236,
       "name": "Amahlalakhona",
       "url": "https://open.spotify.com/track/3bCUpPcOOX0v29J2vc1t1L"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 243000,
       "name": "Nguye",
       "url": "https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH"
@@ -3318,6 +3318,24 @@
       "duration_ms": 257754,
       "name": "Sikhokha Njalo",
       "url": "https://open.spotify.com/track/4DtXsMWFsOxsWgldeXiavB"
+    },
+    {
+      "album": {
+        "name": "SILENT TREATMENT",
+        "url": "https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247797,
+      "name": "SILENT TREATMENT",
+      "url": "https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j"
     },
     {
       "album": {
@@ -3978,6 +3996,28 @@
       "duration_ms": 719567,
       "name": "UYINSIZWA KOBANI",
       "url": "https://open.spotify.com/track/6hFRRT8YKi9PaNfXH1H36E"
+    },
+    {
+      "album": {
+        "name": "Uzosala (feat. Fistola IneCut)",
+        "url": "https://open.spotify.com/album/44Xc65ZnHILXvu66fdMXJr"
+      },
+      "artists": [
+        {
+          "name": "Nue_Sam",
+          "url": "https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY"
+        },
+        {
+          "name": "Fistola Inecut",
+          "url": "https://open.spotify.com/artist/7pEx1QNIpPgHEEuSBhxLDI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Uzosala (feat. Fistola IneCut)",
+      "url": "https://open.spotify.com/track/6Puf51bfPEXvf8LoIZwUDN"
     },
     {
       "album": {

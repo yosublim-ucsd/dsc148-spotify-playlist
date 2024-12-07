@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KSHMR
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,398 likes - 19 songs - 55 min 17 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,409 likes - 19 songs - 55 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 15 | [Stick Season](https://open.spotify.com/track/5D9hrfUtgFetORbaIKhFRy) | [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL) | [Stick Season](https://open.spotify.com/album/6LqbfWlQIHjNNOV59qTGfA) | 3:50 |
 | 16 | [Boadicea](https://open.spotify.com/track/1lszxhcrquGtnledjcRHwb) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Boadicea](https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV) | 2:27 |
 | 17 | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/album/0phsWfE0jsPYtAkQHp6eAE) | 2:59 |
-| 18 | [Famous \(Dub Mix\)](https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/2IWbrSOviY76oxfLKxHiOa), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous \(Dub Mix\)](https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl) | 2:42 |
+| 18 | [Famous \(Dub Mix\)](https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/7iJYMHJo0DricxqurDXAYR), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous \(Dub Mix\)](https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl) | 2:42 |
 | 19 | [Sant'allegria \- Jack Sani Remix](https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Sant'allegria \(Jack Sani Remix\)](https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w) | 2:27 |
 
-Snapshot ID: `AAAegeca911MVcWT2FY7Pm3kRMsG9VpN`
+Snapshot ID: `AAAegr2HY6AJpFjRBHt3mbkvOrrmo2KL`

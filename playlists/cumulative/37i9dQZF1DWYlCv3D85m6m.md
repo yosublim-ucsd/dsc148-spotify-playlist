@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-235 songs - 12 hr 45 min
+242 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,8 +116,10 @@
 | [Jelly Jelly](https://open.spotify.com/track/2GJxT761mGTQocouI2oLTe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:30 | 2022-03-24 |  |
 | [Jelly Jelly](https://open.spotify.com/track/7a2QLFestFOeQ03xBBX6E0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 1](https://open.spotify.com/album/5zQhaDNbiXHRqd8Y51I4vy) | 3:30 | 2022-07-19 | 2024-04-19 |
 | [Just be yourself](https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Just be yourself](https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC) | 3:20 | 2022-03-24 |  |
+| [Keeper](https://open.spotify.com/track/7mNpdG3NFsbMXogKerdQkt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:35 | 2024-12-06 |  |
 | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/track/0t5Q16hVryXI4CKx8VpA66) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb) | 3:05 | 2023-09-15 |  |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-22 |  |
+| [Kiss My Troubles Away](https://open.spotify.com/track/4bBhK4Ip9iXu4Dzx61HEsh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:54 | 2024-12-06 |  |
 | [Knock Knock](https://open.spotify.com/track/3HWOknOVmd44e1jg4g0Sga) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster: Lane 2](https://open.spotify.com/album/2Mw8oK3aJKmOa9YGWqpN2W) | 3:15 | 2022-07-19 | 2024-04-19 |
 | [Knock Knock](https://open.spotify.com/track/3DKtiWVAcWFOxIPyBlXxJt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster : Lane 2](https://open.spotify.com/album/5JtYNion0x5enJFBhDgBJq) | 3:15 | 2022-03-24 |  |
 | [Kura Kura](https://open.spotify.com/track/0SiX8tNiIZskZrPiAh6XxX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Kura Kura](https://open.spotify.com/album/5FMslDParbcWQ7o5FQqCWf) | 3:47 | 2022-03-24 |  |
@@ -125,12 +127,14 @@
 | [LAST WALTZ](https://open.spotify.com/track/1Gh4fJxW4T9idXKqiMffJ6) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 2:50 | 2022-03-24 |  |
 | [LAST WALTZ](https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:50 | 2022-07-19 | 2024-04-19 |
 | [Lazy Baby \(Feat\. pH\-1\)](https://open.spotify.com/track/7CYnDrufyGMIHCMGVZ3usQ) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 2:42 | 2024-11-01 |  |
+| [Like It Like It](https://open.spotify.com/track/50zytvnUrWFdDLqxiBFWI4) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:02 | 2024-12-06 |  |
 | [Like Ooh\-Ahh](https://open.spotify.com/track/3c0CJ0DBgsGZ7I79lyx02Z) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/72WWZVAx6GtSbEeGESwDLo) | 3:35 | 2022-07-19 | 2024-04-19 |
 | [Like Ooh\-Ahh](https://open.spotify.com/track/3i01M7jnvBYrhG6YnAqCdC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Story Begins](https://open.spotify.com/album/2vsOT4A0aFm0HoLMfAZrng) | 3:35 | 2022-03-24 |  |
 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 | 2022-07-19 | 2024-04-19 |
 | [Likey](https://open.spotify.com/track/6ve3r62aFa708CuICfbY5P) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/2hlrs1dDJnxbeeBZXQmlBd) | 3:27 | 2022-03-24 |  |
 | [LOVE FOOLISH](https://open.spotify.com/track/1MdEg2lk4EakgWnCvFUGEZ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo) | 3:11 | 2022-07-19 | 2024-04-19 |
 | [LOVE FOOLISH](https://open.spotify.com/track/5L002vJ4NC0lRM8RtncBBp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Feel Special](https://open.spotify.com/album/4EG4E0Uk0HpJBgOMgXI26z) | 3:11 | 2022-03-24 |  |
+| [Magical](https://open.spotify.com/track/0nfRGbqM7jWCG5Y2u5n8DJ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:16 | 2024-12-06 |  |
 | [MAKE ME GO](https://open.spotify.com/track/2kYbyudUsQyBzFjWTpy6xV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:06 | 2022-03-24 |  |
 | [MAKE ME GO](https://open.spotify.com/track/6caS9LrdquWAfGeAmjqt1t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:06 | 2022-07-19 | 2024-04-19 |
 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/3TNlo9OEKQxBA9Ctghiz4r) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:35 | 2024-10-25 |  |
@@ -203,11 +207,14 @@
 | [Signal](https://open.spotify.com/track/2C7ypcfp9B4bCwlQZEVpvu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SIGNAL](https://open.spotify.com/album/592a3GSZMuKaDcXG61bS1F) | 3:16 | 2022-03-24 |  |
 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2022-03-24 |  |
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-24 |  |
+| [Strategy](https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2024-12-06 |  |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/19rOI8tvgnNUQaNyz0n2TP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 2:56 | 2022-07-19 | 2024-04-19 |
 | [STUCK IN MY HEAD](https://open.spotify.com/track/045vckAeaQEbJ3vmatyBWt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:56 | 2022-03-24 |  |
 | [STUCK IN MY HEAD \- Japanese ver.](https://open.spotify.com/track/64yv4Oj1BfZse3JswH5iBH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STUCK IN MY HEAD \(Japanese ver.\)](https://open.spotify.com/album/6ASR567iHO8X0ILS2vsP3W) | 2:59 | 2022-03-24 |  |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/4XDWKodqvKyGL5YJILpKM5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:11 | 2022-03-24 |  |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2022-07-19 | 2024-04-19 |
+| [Sweetest Obsession](https://open.spotify.com/track/3JLsNH9got4QblMZOjQIeO) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 2:46 | 2024-12-06 |  |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2024-04-19 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2024-02-23 |  |
 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/0EUJ10QWM7iYYyHt2Bf0DI) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Killin' Me Good \(English Ver.\)](https://open.spotify.com/album/3FZTxJrmuObG7HCgQe9acb) | 2:50 | 2023-09-15 |  |

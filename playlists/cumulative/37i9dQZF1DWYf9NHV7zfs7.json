@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Roc\u00edo Igarzabal y Zen\u00f3n Pereyra",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Ainda & Leiva.",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -322,6 +322,24 @@
       "duration_ms": 265917,
       "name": "Adi\u00f3s a la Rama",
       "url": "https://open.spotify.com/track/0mB5lPXkRjHuEFgifMI5hQ"
+    },
+    {
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "album": {
@@ -1285,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Despacio Que Hay Prisa",
+        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302597,
+      "name": "Despacio Que Hay Prisa",
+      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
+    },
+    {
+      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
       },
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 207262,
       "name": "Ey",
       "url": "https://open.spotify.com/track/5HiI0uAeODyl0tyP32L0YT"
@@ -2146,7 +2182,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162359,
       "name": "hijo \u00fanico",
       "url": "https://open.spotify.com/track/5IkQX5yqgKV7O7HhdySfLF"
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 212033,
       "name": "LA FORMA DE TUS HUESOS",
       "url": "https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn"
@@ -2790,6 +2826,28 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "album": {
@@ -3301,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1xWpnekynuyo6vEKcHMgSi"
+      },
+      "artists": [
+        {
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+        },
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206701,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4"
+    },
+    {
+      "album": {
         "name": "Me Dediqu\u00e9 a Perderte",
         "url": "https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u"
       },
@@ -3500,7 +3580,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 188286,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
@@ -4160,7 +4240,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 192106,
       "name": "paladar",
       "url": "https://open.spotify.com/track/6u6mp12wioT53HAvOyakcq"
@@ -4540,7 +4620,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
@@ -5593,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "Tu soledad y la m\u00eda",
+        "url": "https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Tu soledad y la m\u00eda",
+      "url": "https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq"
+    },
+    {
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD"
       },
@@ -5856,6 +5958,28 @@
       "duration_ms": 206013,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
+    },
+    {
+      "album": {
+        "name": "Voy A Brindar",
+        "url": "https://open.spotify.com/album/3kRaSYXy8iJG9VtOWLu0Mu"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158201,
+      "name": "Voy A Brindar",
+      "url": "https://open.spotify.com/track/6h2OfZy5Q2NP3aBCCby0Eg"
     },
     {
       "album": {

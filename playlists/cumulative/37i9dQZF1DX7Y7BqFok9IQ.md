@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-343 songs - 22 hr 12 min
+345 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All I've Got is You](https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [All I've Got is You](https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA) | 2:41 | 2020-10-16 | 2024-06-22 |
 | [All Night Long](https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Promised Land](https://open.spotify.com/album/4hlHbBAzgvjs0w0J7VXDjU) | 3:31 | 2024-05-03 |  |
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 |  |
+| [Ancient Heart](https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Ancient Heart](https://open.spotify.com/album/5SgcE7rpDVcQ5lCszvTNmg) | 4:12 | 2024-12-06 |  |
 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 | 2020-10-16 | 2023-03-04 |
 | [Are You](https://open.spotify.com/track/32xYsLJbczsr2s4aR0Snft) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [Are You](https://open.spotify.com/album/4Chn5PYIqtpsD3LD1SjB8s) | 3:40 | 2020-10-16 |  |
 | [Autumn of Humanity](https://open.spotify.com/track/0hLKTdZxbapY70McAB3gkg) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Autumn of Humanity](https://open.spotify.com/album/3bHPoiEwneq98KkchYMcCH) | 4:12 | 2024-06-07 | 2024-07-06 |
@@ -137,6 +138,7 @@
 | [Hounds Loose](https://open.spotify.com/track/4dtIYwgOPuFZrjOKygyLl9) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Hounds Loose](https://open.spotify.com/album/3QmIoMDXgmOIMj9oCPnjlO) | 3:44 | 2022-02-25 |  |
 | [How High](https://open.spotify.com/track/4BYD2s44Gzhnpw9XsyhfKk) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [How High](https://open.spotify.com/album/5AImRUVECSvsxYnEeGVGMf) | 2:12 | 2021-07-02 |  |
 | [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 | 2023-01-13 |  |
+| [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/track/5gkAlecczArRBlzatrPXBZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/album/3tbUSmHhH2pqePByepxvP0) | 4:53 | 2024-12-06 |  |
 | [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 |  |
 | [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 | 2022-09-09 |  |
 | [I See You](https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:47 | 2020-10-16 | 2022-07-29 |
@@ -285,7 +287,7 @@
 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 | 2023-11-18 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
-| [Tastes Like Heaven](https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Tastes Like Heaven](https://open.spotify.com/album/53Rg8ZnwNUA2iuwjLpyGS6) | 3:20 | 2024-07-05 |  |
+| [Tastes Like Heaven](https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Tastes Like Heaven](https://open.spotify.com/album/53Rg8ZnwNUA2iuwjLpyGS6) | 3:20 | 2024-07-05 | 2024-12-07 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 | 2024-04-19 |
 | [Tell Me](https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/7hLiHJqM7TJJrHxN5o4FWB) | 3:17 | 2021-02-26 |  |
 | [Testify \- Radio Edit](https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Testify \(Radio Edit\)](https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4) | 4:13 | 2023-02-03 | 2023-09-16 |
@@ -341,7 +343,7 @@
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
 | [Wild Honey](https://open.spotify.com/track/5Td3hpekZcEKaWhicS8hxg) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Wild Honey](https://open.spotify.com/album/6HNPRYLIeMyMsQ3bOyxinV) | 4:06 | 2024-03-01 | 2024-05-03 |
 | [Will We Ever](https://open.spotify.com/track/2hYQpTCX3z4LybxKKRhaBO) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD) | [Will We Ever](https://open.spotify.com/album/4Sea3LyXNqJPZ2EH8s0dy6) | 4:25 | 2021-11-12 |  |
-| [Wishing Well](https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wishing Well](https://open.spotify.com/album/3kHwkySXzWkWvnYCGh7Os2) | 3:21 | 2024-07-12 |  |
+| [Wishing Well](https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wishing Well](https://open.spotify.com/album/3kHwkySXzWkWvnYCGh7Os2) | 3:21 | 2024-07-12 | 2024-12-07 |
 | [With You I Go](https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [With You I Go](https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY) | 5:04 | 2024-02-02 |  |
 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 | 2023-08-25 |  |
 | [Woolamai](https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe) | [Smoke Stack Rhino](https://open.spotify.com/artist/1aLAvhug01VsqctbbSx5rD) | [Woolamai](https://open.spotify.com/album/6jrGRQ0v0jiECoyiWgMnBQ) | 3:55 | 2022-03-18 |  |

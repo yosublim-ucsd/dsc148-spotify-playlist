@@ -1,12 +1,12 @@
 {
   "description": "SCH au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 355930,
+  "num_followers": 356481,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1IwcAAAAAAIhzw9VhG7wowcdB9SRcXi",
+  "snapshot_id": "Z1LiQwAAAAA7t9ErFA8I9Qh7LnBqueVV",
   "tracks": [
     {
       "added_at": "2024-12-05 23:00:00",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 197200,
-      "name": "02 :00",
+      "name": "02:00",
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
     },
     {
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Muay Tha\u00ef",
         "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
       },
@@ -453,7 +473,7 @@
         },
         {
           "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
         }
       ],
       "duration_ms": 147133,
@@ -740,7 +760,7 @@
       },
       "artists": [
         {
-          "name": "Tengaishy",
+          "name": "Tenga\u00efshy",
           "url": "https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq"
         },
         {
@@ -1365,6 +1385,22 @@
       "url": "https://open.spotify.com/track/5oiE5RVpzoqLGnnN3ljPP1"
     },
     {
+      "added_at": "2024-12-06 11:38:43",
+      "album": {
+        "name": "The Great Magician",
+        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 183687,
+      "name": "The Great Magician",
+      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
+    },
+    {
       "added_at": "2024-12-05 23:00:00",
       "album": {
         "name": "Bitume Caviar (Vol.1)",
@@ -1559,6 +1595,22 @@
       "duration_ms": 194823,
       "name": "STK STK",
       "url": "https://open.spotify.com/track/521iVAlkmBbcDMHEovz70h"
+    },
+    {
+      "added_at": "2024-12-06 11:38:43",
+      "album": {
+        "name": "New Old Horse",
+        "url": "https://open.spotify.com/album/35Yzjj53JrZsobBouZGpxj"
+      },
+      "artists": [
+        {
+          "name": "Twine",
+          "url": "https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Spine",
+      "url": "https://open.spotify.com/track/4RW5kRse6zsf6WWHE0OPuK"
     },
     {
       "added_at": "2024-12-05 23:00:00",

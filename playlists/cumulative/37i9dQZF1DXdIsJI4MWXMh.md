@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-138 songs - 9 hr 26 min
+139 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ay Mi Amor](https://open.spotify.com/track/0wtDWP4eK9RJVtXkxa7PJr) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 3:15 | 2023-03-03 |  |
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 | 2024-04-19 |
 | [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 |  |
+| [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 | 2024-12-06 |  |
 | [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 | 2024-06-12 |  |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy) | [Eliseo Guevara](https://open.spotify.com/artist/2elfE5Hl1JQzfrtGNolVEI) | [Le Canto a Mi Pueblo](https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47) | 3:28 | 2023-03-03 | 2024-04-19 |
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 |  |
@@ -50,7 +51,7 @@
 | [El Camión del Amor](https://open.spotify.com/track/17mzvXFTqCIePOiqGVz7Tk) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [La Banda Ranchera Femenina de Chile](https://open.spotify.com/album/3Nmtvl4Y9aY50xATCoMVdX) | 2:54 | 2024-06-12 | 2024-10-31 |
 | [El Chorito de Violeta](https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU), [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Cumbias](https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY) | 3:55 | 2023-10-05 |  |
 | [El Corrido Del R\-15](https://open.spotify.com/track/7rjQhl7r3019yShjY02VdO) | [La Descendencia Chilena](https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n) | [El Corrido Del R\-15](https://open.spotify.com/album/71AvOjT5t3bLf0GuLZBTYA) | 3:24 | 2023-03-03 | 2024-11-25 |
-| [El Hijo Ausente](https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [El Hijo Ausente](https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq) | 2:58 | 2023-10-05 |  |
+| [El Hijo Ausente](https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [El Hijo Ausente](https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq) | 2:58 | 2023-10-05 | 2024-12-07 |
 | [El Intruso](https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Machos de la Cumbia](https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH) | [El Intruso](https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz) | 3:25 | 2023-09-15 |  |
 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 | 2023-03-03 |  |
 | [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 | 2023-05-29 | 2023-09-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,313 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,315 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 47 | [光　は　君](https://open.spotify.com/track/0chOhWAuq9ivnAtunHHEQu) | [The Big Hustle](https://open.spotify.com/artist/0lCJfyGRC02cIDTVwNcUst), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [ザ　東京　エルピー](https://open.spotify.com/album/2riUFYoWe7pnBnRtfFBCyS) | 6:30 |
 | 48 | [Mayb](https://open.spotify.com/track/2kboR99JMOU5XbkJAkxmvw) | [天童児 直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [Mayb](https://open.spotify.com/album/1S5NzfPyOQTwGEKV5GGChY) | 3:06 |
 | 49 | [Wan!](https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wan!](https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW) | 2:35 |
-| 50 | [Beautiful Dreamer](https://open.spotify.com/track/1nYMpVz0F648oa478EkeTa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [YOCO](https://open.spotify.com/artist/3PX8WXlyHfoNCcL6hG1aXY) | [Beautiful Dreamer](https://open.spotify.com/album/6JCKjA1XMBdAjpfAJqMEkO) | 3:55 |
+| 50 | [Beautiful Dreamer](https://open.spotify.com/track/1nYMpVz0F648oa478EkeTa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [YOCO](https://open.spotify.com/artist/7h60H9IO1yhF2D1v9tFxzV) | [Beautiful Dreamer](https://open.spotify.com/album/6JCKjA1XMBdAjpfAJqMEkO) | 3:55 |
 | 51 | [E\-kanji](https://open.spotify.com/track/2gGeXbPr6Tsk9LiMoYUwaD) | [YINYO](https://open.spotify.com/artist/04dWH0yjHrxZ0TUGdqzDiz) | [E\-kanji](https://open.spotify.com/album/6O7Q3mux28njEO2H8ebXoJ) | 3:09 |
 | 52 | [Angel by the window](https://open.spotify.com/track/6JWtigwvXwfSHLk5UrDXGq) | [JIANG SHIDAO](https://open.spotify.com/artist/3Pu9Zo6pwCJN0qR3FTq2aj) | [Angel by the window](https://open.spotify.com/album/7m0mNskDcDgWHTjwcF0rX0) | 2:51 |
 | 53 | [GO…?（前を向いて）](https://open.spotify.com/track/73zDBwZYGXtnDOkfgF126l) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 2:28 |

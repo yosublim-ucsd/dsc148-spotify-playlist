@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 295635,
+  "num_followers": 295687,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAABcCYXD2N70x6VZiDGUvtvz",
+  "snapshot_id": "Z1DtAAAAAAA+p7utP9MV7bz2YedUlWqy",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulgar Display of Power (Expanded)",
-        "url": "https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN"
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 168453,
-      "name": "Fucking Hostile - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0GY3AhUEO5T1Q5LMEIE1vL"
+      "duration_ms": 419893,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+        "name": "Vulgar Display of Power (Expanded)",
+        "url": "https://open.spotify.com/album/1x09hOE124v9jMuQZRYqWN"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 419893,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7"
+      "duration_ms": 168453,
+      "name": "Fucking Hostile - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0GY3AhUEO5T1Q5LMEIE1vL"
     },
     {
       "added_at": null,

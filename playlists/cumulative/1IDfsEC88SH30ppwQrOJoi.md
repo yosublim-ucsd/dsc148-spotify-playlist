@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-355 songs - 18 hr 26 min
+356 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5) | [DJ Traytex](https://open.spotify.com/artist/6mrd6VB8APeUr5ATWunRZX) | [All Good Things \(Come To An End\)](https://open.spotify.com/album/2rijCmu0yFrRBslQ5ujkW7) | 3:24 | 2023-05-12 | 2024-03-14 |
 | [All I Want](https://open.spotify.com/track/0U0hYjI9boxgmloVfMdfWe) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [N3RD](https://open.spotify.com/artist/5iBLTo15GS9kbESDXrC3pR) | [All I Want](https://open.spotify.com/album/1davgSnBAmq2l7EeDPelI2) | 2:56 | 2023-04-26 | 2024-05-01 |
 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 | 2024-04-26 |  |
+| [All Night Long](https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Nate James](https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Dance To The Music](https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V) | 3:59 | 2024-12-06 |  |
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-04-26 | 2024-05-01 |
 | [All Yours](https://open.spotify.com/track/6WyHogSbe3RV4vZ5QV1ua0) | [M1K3](https://open.spotify.com/artist/1OWnVgLuF8u1H64oFuO0Wp) | [All Yours](https://open.spotify.com/album/76mmwwjKDKJqQE89rCeIBS) | 3:16 | 2024-03-13 | 2024-05-01 |
 | [Alone In The Dark \- Radio Edit](https://open.spotify.com/track/53hR4ebI4kNXhHI6WwCAo3) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Tellur](https://open.spotify.com/artist/5rvzvX60UWSsHXOKd2XwZT), [Paiola](https://open.spotify.com/artist/14MY1N7hBtEoXiCpjSQEXO) | [Alone In The Dark](https://open.spotify.com/album/6oD66jmgTPhfXOnW6AXt1m) | 3:17 | 2024-09-27 |  |

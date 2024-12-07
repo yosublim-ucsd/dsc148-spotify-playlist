@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: ROS\u00c9",
-  "num_followers": 386081,
+  "num_followers": 386528,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -157,7 +157,7 @@
         },
         {
           "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
         }
       ],
       "duration_ms": 147133,
@@ -411,6 +411,46 @@
     {
       "added_at": "2024-12-05 13:11:08",
       "album": {
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
+    },
+    {
+      "added_at": "2024-12-05 13:11:08",
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2024-12-05 13:11:08",
+      "album": {
         "name": "How It Was It Will Never Be Again",
         "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
       },
@@ -455,6 +495,22 @@
       "duration_ms": 261306,
       "name": "Leash (Babygirl Original Soundtrack)",
       "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
+    {
+      "added_at": "2024-12-05 13:11:08",
+      "album": {
+        "name": "I Just Got A Lot On My Shoulders",
+        "url": "https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 226378,
+      "name": "Stealing Out The Trap",
+      "url": "https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy"
     },
     {
       "added_at": "2024-12-05 13:11:08",
@@ -1335,6 +1391,26 @@
       "duration_ms": 193111,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/0WEOjm0veMZW8puMN6714l"
+    },
+    {
+      "added_at": "2024-12-05 13:11:08",
+      "album": {
+        "name": "BIG STEPPA",
+        "url": "https://open.spotify.com/album/3EwgQdP0ZDbgUQrLp5Swdk"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "666SWISH",
+          "url": "https://open.spotify.com/artist/4pClZ8jAntDTIQ8zno5lCC"
+        }
+      ],
+      "duration_ms": 93552,
+      "name": "BIG STEPPA",
+      "url": "https://open.spotify.com/track/48hIglpsCh2rLyEScUgB2c"
     },
     {
       "added_at": "2024-12-05 13:11:08",

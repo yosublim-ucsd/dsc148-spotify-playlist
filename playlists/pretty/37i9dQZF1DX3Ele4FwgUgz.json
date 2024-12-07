@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 17113,
+  "num_followers": 17117,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
-        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Look at me now",
-      "url": "https://open.spotify.com/track/6av1xL9khQJQptHMmduHYI"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "Sing & Smile!!",
         "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 281920,
       "name": "Sing & Smile!!",
       "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "\u30cb\u30b8\u30ac\u30af \u30dc\u30fc\u30ca\u30b9\u30c8\u30e9\u30c3\u30af \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.2",
+        "url": "https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Look at me now",
+      "url": "https://open.spotify.com/track/6av1xL9khQJQptHMmduHYI"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-24 15:00:00",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
-      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
-    },
-    {
-      "added_at": "2024-09-24 15:00:00",
-      "album": {
         "name": "Dream Land!Dream World!",
         "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
       },
@@ -784,13 +768,13 @@
       },
       "artists": [
         {
-          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
-          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
         }
       ],
-      "duration_ms": 288973,
-      "name": "\u3081\u3063\u3061\u3083Going!!",
-      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -800,13 +784,13 @@
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
         }
       ],
-      "duration_ms": 326040,
-      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
     },
     {
       "added_at": "2024-09-24 15:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 237000,
       "name": "Fire Bird",
       "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
+    },
+    {
+      "added_at": "2024-09-24 15:00:00",
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
     }
   ],
   "unique_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",

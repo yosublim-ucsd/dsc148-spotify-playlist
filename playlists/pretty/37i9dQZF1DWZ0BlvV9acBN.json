@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Resgate",
-  "num_followers": 141266,
+  "num_followers": 141278,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
+        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 397750,
+      "name": "H\u03a3R\u039eGE",
+      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Cordeiro e Le\u00e3o",
         "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
       },
@@ -431,18 +447,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "MAUR\u00d8 - F\u00d8RMA (Ao Vivo Hard Rock Cafe)",
-        "url": "https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        },
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
         }
       ],
-      "duration_ms": 397750,
-      "name": "H\u03a3R\u039eGE",
-      "url": "https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2"
+      "duration_ms": 221820,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7nC1xiw6oZ0dA7hLzvEju3"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -479,22 +499,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
-      },
-      "artists": [
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 197936,
-      "name": "Na Contram\u00e3o",
-      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Maranata (Trono)",
         "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
       },
@@ -511,6 +515,26 @@
       "duration_ms": 303775,
       "name": "Maranata (Trono)",
       "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "A Est\u00e1tua",
+        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Diego Rox",
+          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
+        }
+      ],
+      "duration_ms": 207087,
+      "name": "A Est\u00e1tua",
+      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -551,38 +575,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "A Est\u00e1tua",
-        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
       },
       "artists": [
         {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Diego Rox",
-          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
         }
       ],
-      "duration_ms": 207087,
-      "name": "A Est\u00e1tua",
-      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 197936,
+      "name": "Na Contram\u00e3o",
+      "url": "https://open.spotify.com/track/7pdO5lMv1rpSsUevZ4hFGS"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -607,22 +611,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
       "artists": [
         {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        },
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
         }
       ],
-      "duration_ms": 221820,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7nC1xiw6oZ0dA7hLzvEju3"
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2024-11-29 03:01:00",

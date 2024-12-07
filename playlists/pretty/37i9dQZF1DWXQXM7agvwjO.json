@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Billyrrom + Wendy Wander",
-  "num_followers": 105196,
+  "num_followers": 105718,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
+        "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
+        "url": "https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
+      "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
         "name": "Putus",
         "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
-        "url": "https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK"
+        "name": "\u5016\u5b58\u8005",
+        "url": "https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
-      "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
+      "duration_ms": 232968,
+      "name": "\u5016\u5b58\u8005",
+      "url": "https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -915,38 +931,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "happy endings do exist",
-        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 197100,
-      "name": "happy endings do exist",
-      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
-        "name": "\u5016\u5b58\u8005",
-        "url": "https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 232968,
-      "name": "\u5016\u5b58\u8005",
-      "url": "https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "undo",
-        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
         }
       ],
-      "duration_ms": 208854,
-      "name": "undo",
-      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -995,6 +979,38 @@
       "duration_ms": 144835,
       "name": "WDYS",
       "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Tapi",
+        "url": "https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "duration_ms": 222874,
+      "name": "Tapi",
+      "url": "https://open.spotify.com/track/5WT6STiQCyEJZrLFJvte3N"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1031,22 +1047,6 @@
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
-        "name": "Tapi",
-        "url": "https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA"
-      },
-      "artists": [
-        {
-          "name": "Perunggu",
-          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
-        }
-      ],
-      "duration_ms": 222874,
-      "name": "Tapi",
-      "url": "https://open.spotify.com/track/5WT6STiQCyEJZrLFJvte3N"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "LOVERs ATLAS",
         "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 196977,
       "name": "WANDERLUST",
       "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Hardcore Romance",
-        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 228708,
-      "name": "Fight Some More",
-      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
+      "duration_ms": 148465,
+      "name": "INVITATION - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+        "name": "Hardcore Romance",
+        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 148465,
-      "name": "INVITATION - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
+      "duration_ms": 228708,
+      "name": "Fight Some More",
+      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "eko",
-        "url": "https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 121564,
-      "name": "eko - Edit",
-      "url": "https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "Perak",
         "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Hopelessly In Love",
-        "url": "https://open.spotify.com/album/6kk6khyB7eI5Rc1VKM0fZv"
+        "name": "eko",
+        "url": "https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 166434,
-      "name": "Hopelessly In Love",
-      "url": "https://open.spotify.com/track/6v9aa1FPwDYW34YIbDsDaF"
+      "duration_ms": 121564,
+      "name": "eko - Edit",
+      "url": "https://open.spotify.com/track/2LpAgQiBOnkhx2MS5Cpg9F"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1643,6 +1627,38 @@
       "duration_ms": 302903,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Hopelessly In Love",
+        "url": "https://open.spotify.com/album/6kk6khyB7eI5Rc1VKM0fZv"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 166434,
+      "name": "Hopelessly In Love",
+      "url": "https://open.spotify.com/track/6v9aa1FPwDYW34YIbDsDaF"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Love, Again",
-        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "\u505a\u4e00\u534a\u7684\u5922",
         "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
       },
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "\u7a7a\u4e2d\u98db\u4eba",
-        "url": "https://open.spotify.com/album/5T6ErFoPoKV9UEmrLePRp5"
+        "name": "We Are Making Out",
+        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
       },
       "artists": [
         {
-          "name": "Leah Dou",
-          "url": "https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 265621,
-      "name": "\u98db\u54af",
-      "url": "https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius"
+      "duration_ms": 170975,
+      "name": "We Are Making Out",
+      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
     }
   ],
   "unique_name": ".ORG",

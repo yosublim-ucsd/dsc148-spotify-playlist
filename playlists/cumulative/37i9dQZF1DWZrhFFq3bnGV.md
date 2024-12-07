@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Michael Aldi
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-218 songs - 15 hr 24 min
+220 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 |  |
 | [Enter The Forest](https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2) | [Achi Hardjakusumah](https://open.spotify.com/artist/4DHHEVXeggPQInQQCa7OJW), [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Vito Jr.](https://open.spotify.com/artist/0RXxMFheFjksSYzqJlSoqe), [Viandebas](https://open.spotify.com/artist/61G4WS8ioqfVTCktOQNvJF), [Kabul Oktavianus](https://open.spotify.com/artist/3JB0ctZ30YXBaFp475FxMr), [Housman Pranoto](https://open.spotify.com/artist/2cWhXmXb82NiU5ZJgeyMBf) | [Enter The Forest](https://open.spotify.com/album/37E5B9MPot8YmWWw8JyQ6c) | 4:42 | 2024-07-08 |  |
 | [Euphoria](https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [EUPHORIA](https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X) | 4:02 | 2022-09-02 | 2024-08-16 |
-| [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 |  |
+| [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 | 2024-12-07 |
 | [evening in senayan](https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [evening in senayan](https://open.spotify.com/album/4jJ1dbHf4jPhKSblVGVRrg) | 3:00 | 2024-11-29 |  |
 | [Everyday People](https://open.spotify.com/track/6rmxcDSZza05k1ylSVo3am) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:37 | 2023-08-17 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-04-18 |  |
@@ -114,6 +114,7 @@
 | [Irene](https://open.spotify.com/track/5bF3msuuAcyU316UptpKRg) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/2zpVHyMwkO320BFTdx1XJb) | 2:13 | 2022-09-02 | 2022-10-09 |
 | [Irene](https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/3mogJhxm0wmeZkZEEZfWzK) | 2:13 | 2023-02-03 | 2023-07-14 |
 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 |  |
+| [It Don't Mean a Thing](https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [CINEMA\. extended](https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt) | 2:01 | 2024-12-06 |  |
 | [Jeje](https://open.spotify.com/track/51C65PJIu5tC1369pCd8YJ) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Jeje](https://open.spotify.com/album/2ReE8N1x0YrSCLgLtaNyEY) | 5:49 | 2023-01-26 |  |
 | [Jetlag](https://open.spotify.com/track/3hBGxI7UqcR7luoO5mvlYl) | [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Jetlag](https://open.spotify.com/album/0tX3LsUKM1LPAmpTcyYMHQ) | 3:05 | 2023-03-03 |  |
 | [Jhung Kejhungan 1](https://open.spotify.com/track/6xKSXsCq7DIzUava8uyRji) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Jhung Kejhungan](https://open.spotify.com/album/5HQ2rql6yz9IF297y9ZB6O) | 4:42 | 2022-12-22 | 2023-08-18 |
@@ -125,6 +126,7 @@
 | [Kejar Waktu](https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE) | [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [Kejar Waktu](https://open.spotify.com/album/3Q8ZezQuRlmq8xsVfYsw3F) | 4:36 | 2022-09-02 | 2022-11-18 |
 | [Kembali Bersama](https://open.spotify.com/track/5uCEXd94GXJrediRWmF9Mx) | [Sequoia Projects](https://open.spotify.com/artist/3yyjWdipsrJk6edPtRUpfF), [Danto](https://open.spotify.com/artist/1DdCPXzmVDJnPKiH1AnUL2) | [Kembali Bersama](https://open.spotify.com/album/41fNuj0KJtHoR3Rger2nfL) | 4:00 | 2022-09-02 |  |
 | [Keriput](https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Bercerita](https://open.spotify.com/album/7iGjEOAwvBJvGncuVQNo2Z) | 3:28 | 2024-06-27 |  |
+| [Kita Ke Masa Depan](https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W) | [Kita Ke Masa Depan](https://open.spotify.com/album/6bg9Yy0fJRUrM1JTaoLDdy) | 3:17 | 2024-12-06 |  |
 | [Koji](https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Koji](https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG) | 3:48 | 2024-07-25 |  |
 | [L'arc en ciel](https://open.spotify.com/track/6i2wBBpMnen68NQxMHZqgS) | [Madame & Toean](https://open.spotify.com/artist/3qJ0WDJjy8j5LuJc5updgi) | [L'arc en ciel](https://open.spotify.com/album/1PudlIkTLY2c1A2CtpURj6) | 4:38 | 2023-03-03 |  |
 | [Last Day of Summer](https://open.spotify.com/track/4oUIfcycGoAKSDYhgeiFLA) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Last Day of Summer](https://open.spotify.com/album/7rqSiJ0ZaTI1nNWhGCdItB) | 3:02 | 2022-09-02 |  |
@@ -153,7 +155,7 @@
 | [Music To My Soul \(Special\)](https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF) | [Heyru](https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH), [Fabiolous](https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz) | [Music To My Soul \(Special\)](https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G) | 4:43 | 2024-07-25 |  |
 | [My Funny Guy](https://open.spotify.com/track/3571e0EPNI1NUpiVk7ZpOV) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Mar Vilaseca](https://open.spotify.com/artist/04LJBGqMl3Um7fFAxdMr0Y) | [My Funny Guy](https://open.spotify.com/album/7IIr2aHjaqAE0JQOxfePvy) | 4:03 | 2024-08-01 |  |
 | [My Galaxies](https://open.spotify.com/track/7qaFl9TwwpcPufnczWkVLN) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Sondang Silalahi](https://open.spotify.com/artist/1L6fNXi1tYovfQYvyyi9sz) | [My Galaxies](https://open.spotify.com/album/4txkolAYBuc2ZvQS6wZz81) | 2:31 | 2022-09-02 | 2023-06-09 |
-| [Mystical Glow](https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Surya Sewana](https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3) | 8:16 | 2023-03-03 |  |
+| [Mystical Glow](https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH) | [Indra Lesmana](https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7) | [Surya Sewana](https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3) | 8:16 | 2023-03-03 | 2024-12-07 |
 | [Never Asked For](https://open.spotify.com/track/09VyrDoKfZPyihWVobpqIh) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Never Asked For](https://open.spotify.com/album/1lGZZyKRXVTqQN6P4oEhnH) | 4:42 | 2023-03-03 |  |
 | [Noodle](https://open.spotify.com/track/0skPOaR1KzICWLqhzTJoOA) | [Cresensia Naibaho](https://open.spotify.com/artist/2F0SWxOlxawQl2DiguXpCm) | [Cherish in Samba](https://open.spotify.com/album/4NsGUUs73KDI5ugeFyppzQ) | 3:03 | 2024-05-30 |  |
 | [Nurlela](https://open.spotify.com/track/2FyIuOusvjzE5cAXH2iMPW) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Ayu Ting Ting](https://open.spotify.com/artist/3TKrakVauUGuCb4rqTvLSG) | [Nurlela](https://open.spotify.com/album/2jLlsqaelMbzSv63NHMkDe) | 3:26 | 2024-11-29 |  |

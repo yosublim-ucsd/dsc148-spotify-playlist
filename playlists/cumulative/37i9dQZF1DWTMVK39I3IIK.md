@@ -2,7 +2,7 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  GUZO & Drew Sycamore
+> de skarpeste knive i dansk musik  📸  Mona Moroni
 
 128 songs - 6 hr 52 min
 

@@ -2829,7 +2829,7 @@
         },
         {
           "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
         }
       ],
       "date_added": "2024-12-05",
@@ -31559,6 +31559,28 @@
     },
     {
       "album": {
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
+    },
+    {
+      "album": {
         "name": "Lonely Road (with Jelly Roll)",
         "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
@@ -48301,6 +48323,24 @@
     },
     {
       "album": {
+        "name": "I Just Got A Lot On My Shoulders",
+        "url": "https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226378,
+      "name": "Stealing Out The Trap",
+      "url": "https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy"
+    },
+    {
+      "album": {
         "name": "Steiniger Weg",
         "url": "https://open.spotify.com/album/3hYJ5FNeNJR1e7POvZIaXT"
       },
@@ -48574,6 +48614,28 @@
       "duration_ms": 158813,
       "name": "Strategie",
       "url": "https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "album": {

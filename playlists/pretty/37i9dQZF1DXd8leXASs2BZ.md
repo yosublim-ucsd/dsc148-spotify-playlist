@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ratiff
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,859 likes - 98 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,863 likes - 98 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 50 | [Mandarin](https://open.spotify.com/track/2umjAVzYvJT6OfVaZRBjlj) | [GOUU](https://open.spotify.com/artist/21sZk9baIpQaCtFxFoFg73) | [Mandarin](https://open.spotify.com/album/7q9n7cDmYq1vtb8nVbgn6d) | 1:54 |
 | 51 | [This the TJ flow](https://open.spotify.com/track/6c7TybiPxkvoJ2TnQ2PAZC) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [This the TJ flow](https://open.spotify.com/album/4C2NBVo4SVxMoIMwoB93oU) | 1:59 |
 | 52 | [Free My Bro$](https://open.spotify.com/track/2a757GXFm7NnwSpxLKfeLX) | [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [Free My Bro$](https://open.spotify.com/album/3gJCJYUmWdkyl0ZCFXUzcf) | 3:12 |
-| 53 | [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 |
+| 53 | [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/1jm7371BSjFnn5tVsHst7d) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 |
 | 54 | [Life](https://open.spotify.com/track/1duUW2TUHxBjr3iKZgoW7L) | [Jimmy Rotten](https://open.spotify.com/artist/2ic96irBUlmkXEJc3GCCoE), [KUROMAKU](https://open.spotify.com/artist/6C2U2QtF4rll9QqZJKKb2c) | [Silent Anarchy](https://open.spotify.com/album/3BLJpXuXO63qMXgguZZzDT) | 2:28 |
 | 55 | [Oh Oh Oh \(feat\. DJ PMX & eyden\)](https://open.spotify.com/track/0qOvLMSRYJ0reORGFPnJZt) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [DJ PMX](https://open.spotify.com/artist/1tnqKUyXlFMUY4TMj6r4Ed), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [For The Street](https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf) | 3:02 |
 | 56 | [PURPLE LAMBORGHINI](https://open.spotify.com/track/2bxDsYro229z8vGkfNRhgF) | [HighSe](https://open.spotify.com/artist/4j3y79kteDWs0jKGOvjVz8) | [PURPLE LAMBORGHINI](https://open.spotify.com/album/4l49NuY0gL3kHqbVmqgbhe) | 2:00 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With LAVE, The Wild Wind, The Strike and more",
+  "description": "With LAVE, The Strike, The Wild Wind and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 160600,
       "name": "Back To Town",
       "url": "https://open.spotify.com/track/2y9LB5ylOBteGk59naF3lf"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 261320,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 235226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4CbEywsdQl5J2e2XQhYEfq"
@@ -5580,7 +5580,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155224,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ"
@@ -8714,7 +8714,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7xT7S9uNrRkYTl4U4xps4M"
@@ -9806,7 +9806,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193905,
       "name": "Holding Hands",
       "url": "https://open.spotify.com/track/1IXbKWu5jhEVOVUGwy5J5S"
@@ -10624,7 +10624,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 228260,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
@@ -11974,7 +11974,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 229634,
       "name": "It Was Always You",
       "url": "https://open.spotify.com/track/7Fy98ezmG0HOWe4cyiJYmU"
@@ -13023,6 +13023,24 @@
     },
     {
       "album": {
+        "name": "levitate",
+        "url": "https://open.spotify.com/album/3AUaqudDvwr0PoubwtlI6C"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245411,
+      "name": "levitate",
+      "url": "https://open.spotify.com/track/6dnnC4nW0kBdQBn5pR5jul"
+    },
+    {
+      "album": {
         "name": "Light On",
         "url": "https://open.spotify.com/album/3A4ev02buDPBsNdUKr9uqa"
       },
@@ -13078,7 +13096,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 327000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4nd5wyahX5FgpXlxWJ9Olc"
@@ -16239,6 +16257,24 @@
     },
     {
       "album": {
+        "name": "Nothing Seems To Matter Now",
+        "url": "https://open.spotify.com/album/4A7XfpaOML3nxaCiaSwYZw"
+      },
+      "artists": [
+        {
+          "name": "VICTORS",
+          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Nothing Seems To Matter Now",
+      "url": "https://open.spotify.com/track/3YktaxfQzXAAVY5utLFdKP"
+    },
+    {
+      "album": {
         "name": "N\u00b01 Loves You",
         "url": "https://open.spotify.com/album/6xXjo5yRuRpIeTnTRVjGQF"
       },
@@ -16434,7 +16470,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 262733,
       "name": "NYC",
       "url": "https://open.spotify.com/track/4M7BEVDGmmP6zYso2xZlMf"
@@ -17808,7 +17844,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 316733,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1bm0PeowTV4ZvCdqHIwZcs"
@@ -19486,7 +19522,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 216240,
       "name": "She",
       "url": "https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl"
@@ -22444,7 +22480,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 236330,
       "name": "Thoughts in Progress",
       "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"
@@ -23724,7 +23760,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -25120,7 +25156,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 266155,
       "name": "You Don't Love Me (Like You Used To)",
       "url": "https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs"

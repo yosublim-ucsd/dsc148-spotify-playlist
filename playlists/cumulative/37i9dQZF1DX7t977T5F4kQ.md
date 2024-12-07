@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Quamina MP
 
-450 songs - 23 hr 29 min
+451 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Asantewaa](https://open.spotify.com/track/5EKoM6kwZ5LJdco2iVQ5OA) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3) | [Asantewaa](https://open.spotify.com/album/05C09QwD1DOhF5K9NdTc7s) | 3:56 | 2023-11-24 | 2023-12-02 |
 | [Ase3](https://open.spotify.com/track/7jUk655LJ9EjvykHZdCoxl) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Ase3](https://open.spotify.com/album/166W3lpTGfcrfMFFvX57kG) | 3:00 | 2024-01-26 |  |
 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 | 2024-04-03 |  |
-| [asem](https://open.spotify.com/track/0G2fnj3aEvWLBfte6LkUyp) | [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [asem](https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e) | 2:12 | 2024-11-22 |  |
+| [asem](https://open.spotify.com/track/0G2fnj3aEvWLBfte6LkUyp) | [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [asem](https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e) | 2:12 | 2024-11-22 | 2024-12-07 |
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 | 2024-06-28 |
 | [Asikyire](https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 4:46 | 2023-11-24 | 2024-01-13 |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
@@ -184,6 +184,7 @@
 | [Goosebumps](https://open.spotify.com/track/61wxMXgLy8Vfxzx65gthIW) | [Jetey](https://open.spotify.com/artist/0BzP5LIn392sLAa78SapOZ) | [Goosebumps](https://open.spotify.com/album/0PNWsa8wiZNgdFqIUgmdSQ) | 3:24 | 2023-03-10 | 2023-03-18 |
 | [Grateful To Your Ex](https://open.spotify.com/track/3KnWRzfFyx5qljyeTRrbDU) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Grateful To Your Ex](https://open.spotify.com/album/74tjt18cIuiJqtfMGK0LzX) | 3:15 | 2024-07-12 |  |
 | [Gree](https://open.spotify.com/track/3YusYV6AHdfJUC2vZz7Ts0) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj), [Gidochi](https://open.spotify.com/artist/1PzQSg9P40FrD2Z92SQMa6) | [Gree](https://open.spotify.com/album/3lkPvFpWfzn5GskSyYUrBi) | 2:18 | 2023-05-26 | 2023-06-17 |
+| [Grenade](https://open.spotify.com/track/0nWYAK1qFKvHbgxrFTk9K2) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Grenade](https://open.spotify.com/album/0OiEbUGg5kepKCT4CAVpmW) | 3:13 | 2024-12-06 |  |
 | [Happy](https://open.spotify.com/track/4RtRtgj4a0UzipVkInF9Xd) | [Dr Cryme](https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk) | [Happy](https://open.spotify.com/album/255TlgzhDs5gF0grRyW7Sl) | 2:51 | 2023-01-27 | 2023-02-04 |
 | [Happy Day](https://open.spotify.com/track/08KL8wr8okqHoP10rTU5E0) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Happy Day](https://open.spotify.com/album/0vpAjyDr9fB2yoImBMkSci) | 2:19 | 2023-06-16 | 2023-07-08 |
 | [Heart](https://open.spotify.com/track/2HNTbsyt01LxsNYt4KT34x) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Heart](https://open.spotify.com/album/2rm4WeokJysZbUES74Uray) | 3:00 | 2023-12-08 | 2023-12-15 |

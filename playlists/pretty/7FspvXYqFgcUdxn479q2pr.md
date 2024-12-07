@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: David Guetta x Kiko x Olivier Giacomotto
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Wax Motif
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,544 likes - 14 songs - 40 min 50 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,543 likes - 14 songs - 40 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 13 | [Lose My Mind](https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Lose My Mind](https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF) | 1:55 |
 | 14 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 |
 
-Snapshot ID: `AAArqrbNmtdRcAKZ9+ouaGlIh5Xql/Go`
+Snapshot ID: `AAArqwnMq+W9mhlnecXshyBfvE4ZcnSP`

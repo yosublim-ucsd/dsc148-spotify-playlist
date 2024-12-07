@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-377 songs - 18 hr 7 min
+380 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |
 | [Bassline \- 4B Remix](https://open.spotify.com/track/7GGhEm8OtSxjjA0kTacEzo) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bassline \(4B Remix\)](https://open.spotify.com/album/0fz5yLDyUogI8CK98sSlid) | 1:48 | 2023-12-15 |  |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-04-07 |  |
+| [Beautiful](https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [Beautiful](https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh) | 3:26 | 2024-12-06 |  |
 | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:48 | 2023-05-06 |  |
 | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/track/1b5bA4rk56LmFBZCvi55tj) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Beg For It \(feat\. Britt Lari\)](https://open.spotify.com/album/7qH5pAokhhH8qpJ064xRu0) | 2:59 | 2024-03-15 |  |
 | [Believer](https://open.spotify.com/track/7dYBCDao1pYAKvqzAexYod) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Believer](https://open.spotify.com/album/7LgLoJOnLn4yvDOe6vFthx) | 2:09 | 2023-05-26 |  |
@@ -192,6 +193,7 @@
 | [Let Go \- Martron Remix](https://open.spotify.com/track/4KymG0vuUPu8v8YCPUx5d8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Martron](https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx) | [Let Go \(Remixes\)](https://open.spotify.com/album/5eSxxrVxi6YT93f9oRumGk) | 2:40 | 2023-11-22 |  |
 | [Let Go \- Mox Jade Remix](https://open.spotify.com/track/6cnd7hpsXipz83TbKEnOkZ) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Mox Jade](https://open.spotify.com/artist/3HlA4oN32tBsJgVIppg0z1) | [Let Go \(Remixes\)](https://open.spotify.com/album/5eSxxrVxi6YT93f9oRumGk) | 3:31 | 2023-11-22 |  |
 | [Let Go \- TwoSides Remix](https://open.spotify.com/track/2lwycS5L6Ilih0DJCN7eCs) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [TwoSides](https://open.spotify.com/artist/1K9jLPrfh7R7jykAV79ivA) | [Let Go \(Remixes\)](https://open.spotify.com/album/5eSxxrVxi6YT93f9oRumGk) | 2:32 | 2023-11-22 |  |
+| [Let Go Of Control \(feat\. Akacia\)](https://open.spotify.com/track/3uIoz3lra0sZooWzWJupWL) | [WHOiSEE](https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Let Go Of Control \(feat\. Akacia\)](https://open.spotify.com/album/0DZRRSm5BDh3e2xmX1DXXH) | 4:11 | 2024-12-06 |  |
 | [Let You Go](https://open.spotify.com/track/7ym4T5J0jCYq86MiJbj1la) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Let You Go](https://open.spotify.com/album/2vc6dSJhXeqe2wVXZjWvti) | 2:52 | 2023-06-09 |  |
 | [Let's Dance Tonight](https://open.spotify.com/track/6jMPTYHDu4rPDxOZXVr6Mt) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [Let's Dance Tonight](https://open.spotify.com/album/0ipPlwc1J03LexVvjUEN4N) | 2:36 | 2024-04-12 |  |
 | [Let's Rock](https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Let's Rock](https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25) | 3:29 | 2024-02-02 |  |
@@ -210,6 +212,7 @@
 | [Loco](https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SAYMYNAME](https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv) | [Loco](https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi) | 2:45 | 2022-07-27 | 2023-04-09 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2022-12-21 |
 | [Look At Me](https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Look At Me](https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU) | 2:27 | 2024-05-24 |  |
+| [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-06 |  |
 | [Lost Cause](https://open.spotify.com/track/0T1avwj6YeeUZAAw2s26tQ) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt), [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ) | [Lost Cause](https://open.spotify.com/album/0ZelRbO1gxg9Qw8s55vohG) | 3:26 | 2024-08-02 |  |
 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 | 2022-05-06 | 2022-06-25 |
 | [Lullaby](https://open.spotify.com/track/4zalizeajaM4COAsb04Ihh) | [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Lullaby](https://open.spotify.com/album/5a6dggnsI1SEbenUoqZtFO) | 2:47 | 2023-11-22 |  |

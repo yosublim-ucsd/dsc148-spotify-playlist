@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-383 songs - 20 hr 59 min
+384 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All I Want for Now](https://open.spotify.com/track/78xtCgOIMJxAsW2HCz5Oh3) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Dizzy Strange Summer](https://open.spotify.com/album/2Zkl4c8OsEeJWEKyCeKQCv) | 2:48 | 2024-01-24 | 2024-03-10 |
 | [All the Same](https://open.spotify.com/track/22Bbrkre9bk8B0DUe9J4Lc) | [Jessamine](https://open.spotify.com/artist/25X66pFr8eorCjpasQ2biG) | [The Long Arm of Coincidence](https://open.spotify.com/album/4BajPb9IW0qmQh2uM5pXDZ) | 6:39 | 2024-11-25 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 | 2024-03-10 |
+| [Alonzo](https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [This Time](https://open.spotify.com/album/4UsDilRDkv7adgos4EJlF6) | 5:26 | 2024-12-06 |  |
 | [Amponsah](https://open.spotify.com/track/3QXQ4J0akuPQjXS8SRpOrd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 4:17 | 2024-05-16 | 2024-07-12 |
 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 | 2024-09-28 | 2024-11-14 |
 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 | 2024-10-11 | 2024-11-14 |
@@ -255,7 +256,7 @@
 | [Open Door](https://open.spotify.com/track/5aLwseyHgPRxyzqlCfIqal) | [Lifted](https://open.spotify.com/artist/3183eBpNb3nicV6VkhwCUL) | [Trellis](https://open.spotify.com/album/3RH41G95sJX1QEAlqiFbQX) | 4:53 | 2024-11-24 |  |
 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 | 2024-10-10 | 2024-11-14 |
 | [Overcome \- 2009 Remix](https://open.spotify.com/track/2fIn2blB174jad6eM27LXj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6), [Al Riley](https://open.spotify.com/artist/5FTqRHLv1p7TcX9qQzHpIY) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:24 | 2024-11-13 |  |
-| [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 |  |
+| [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 | 2024-12-07 |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
 | [Pawns](https://open.spotify.com/track/4gjt4fvbif0RIu3ifEbXbe) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:47 | 2024-07-26 | 2024-09-08 |
 | [People Get Real](https://open.spotify.com/track/2OPLyjw4pDQremg5IVfkSv) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:44 | 2024-06-02 | 2024-07-12 |

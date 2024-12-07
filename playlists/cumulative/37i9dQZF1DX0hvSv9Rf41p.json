@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Subtronics & Alison Wonderland",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Tape B",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147487,
       "name": "ARE WE HAVING FUN OR WHAT?",
       "url": "https://open.spotify.com/track/1haJ3BSPGuZ7f3CCkZwHnA"
@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Bout To Break",
+        "url": "https://open.spotify.com/album/1L0BuVdCVXHlzR8zpfd9DS"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bout To Break",
+      "url": "https://open.spotify.com/track/4bNrncBCRWlfSn3qCJGwGE"
+    },
+    {
+      "album": {
         "name": "BOW DOWN",
         "url": "https://open.spotify.com/album/49gv3myZESG0ufbuomnEyy"
       },
@@ -2714,6 +2732,28 @@
       "duration_ms": 176000,
       "name": "BOW DOWN",
       "url": "https://open.spotify.com/track/3H4Cu07RHqh83HigtRDYkr"
+    },
+    {
+      "album": {
+        "name": "Brain Busta",
+        "url": "https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Brain Busta",
+      "url": "https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK"
     },
     {
       "album": {
@@ -3306,6 +3346,28 @@
       "duration_ms": 150110,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
+    },
+    {
+      "album": {
+        "name": "cantBREATHE",
+        "url": "https://open.spotify.com/album/1cXVumNqjlJ96PxeNznvZY"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        },
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "cantBREATHE",
+      "url": "https://open.spotify.com/track/2E5dEZE6rGEMAZMFBsBGai"
     },
     {
       "album": {
@@ -3940,6 +4002,32 @@
       "duration_ms": 191120,
       "name": "Colors (feat. Eyelar) - REAPER Remix",
       "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
+    },
+    {
+      "album": {
+        "name": "come aliv3",
+        "url": "https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "come aliv3",
+      "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
     },
     {
       "album": {
@@ -5528,7 +5616,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
@@ -8512,7 +8600,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 153600,
       "name": "Get Wompy",
       "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
@@ -8740,7 +8828,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 173793,
       "name": "GO OFF!",
       "url": "https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO"
@@ -10101,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
+    },
+    {
+      "album": {
         "name": "How To Kill A God",
         "url": "https://open.spotify.com/album/4MsOsP1gBDNgR5KfdeZETH"
       },
@@ -11274,7 +11380,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
@@ -11900,6 +12006,28 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "album": {
+        "name": "Hellscape",
+        "url": "https://open.spotify.com/album/0DKqg7ylZ6jmqz1WdkoQkc"
+      },
+      "artists": [
+        {
+          "name": "Poni",
+          "url": "https://open.spotify.com/artist/3a6qES5elZUR1LIpUq2ERm"
+        },
+        {
+          "name": "Satin Puppets",
+          "url": "https://open.spotify.com/artist/5QWJwGhk0eZWlSnGASvD9m"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Leeches",
+      "url": "https://open.spotify.com/track/1dePrua4ObgyCWgCOMJg2i"
     },
     {
       "album": {
@@ -13393,6 +13521,28 @@
     },
     {
       "album": {
+        "name": "MONEY COUNT",
+        "url": "https://open.spotify.com/album/0VF6mFQLk9YHlm4LYCM4tA"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "MONEY COUNT",
+      "url": "https://open.spotify.com/track/6S7fnId2yjrAe5kswGxfOs"
+    },
+    {
+      "album": {
         "name": "Money Dance",
         "url": "https://open.spotify.com/album/0xYuvy9cAFsizq7UA1vG4S"
       },
@@ -13962,7 +14112,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 220689,
       "name": "Nervous System",
       "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
@@ -17521,6 +17671,24 @@
     },
     {
       "album": {
+        "name": "SAINT VITUS",
+        "url": "https://open.spotify.com/album/56c3nHUYtlUzxIOgyhUtaU"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "SAINT VITUS",
+      "url": "https://open.spotify.com/track/0er5nt6WASDSnqAN27HF3u"
+    },
+    {
+      "album": {
         "name": "Light Garden",
         "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
       },
@@ -19930,7 +20098,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 159103,
       "name": "SWEAT!",
       "url": "https://open.spotify.com/track/6HS7p2KZcrJ7IGREGdIgwN"
@@ -23420,7 +23588,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147555,
       "name": "Young Majestic",
       "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"

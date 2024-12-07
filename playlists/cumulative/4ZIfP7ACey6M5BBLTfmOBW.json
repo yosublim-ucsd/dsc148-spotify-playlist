@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "All Nite",
+        "url": "https://open.spotify.com/album/01gaijUdtnBnW9znDLi1ts"
+      },
+      "artists": [
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "All Nite",
+      "url": "https://open.spotify.com/track/6mLCh7ce7EyBFuQtIRMVwy"
+    },
+    {
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
       },
@@ -436,6 +454,28 @@
       "duration_ms": 190904,
       "name": "Allure (feat. Future & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
+    },
+    {
+      "album": {
+        "name": "Alpha Omega",
+        "url": "https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lex Luger",
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147133,
+      "name": "Alpha Omega",
+      "url": "https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3"
     },
     {
       "album": {
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 140465,
       "name": "Bless Ha",
       "url": "https://open.spotify.com/track/2IjCKEB5xErETgu3HPXs07"
@@ -1326,6 +1366,24 @@
       "duration_ms": 168895,
       "name": "Callin",
       "url": "https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH"
+    },
+    {
+      "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/7bEsA9QL79CqmMpFADe8LU"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98133,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/5Ryyh301NTp03Ays0ovWbS"
     },
     {
       "album": {
@@ -1925,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/3oLR9OrpINJUQT4UcKBp7a"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "Dlow Curry",
+      "url": "https://open.spotify.com/track/3PwNJhkvRAbRJfTq3alFIP"
+    },
+    {
+      "album": {
         "name": "Sincerely, Rex",
         "url": "https://open.spotify.com/album/6i67GONsuTiBYlo0N17lr7"
       },
@@ -2024,6 +2100,24 @@
       "duration_ms": 194897,
       "name": "don't rely on other men",
       "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
+    },
+    {
+      "album": {
+        "name": "Don't You Love It?",
+        "url": "https://open.spotify.com/album/73xd9xf0eAQsaYeuFyM6zG"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Don't You Love It?",
+      "url": "https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ"
     },
     {
       "album": {
@@ -3341,6 +3435,28 @@
     },
     {
       "album": {
+        "name": "TMK 2.0",
+        "url": "https://open.spotify.com/album/776uGoli13DJpIe7Xglzlz"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        },
+        {
+          "name": "Biirthplace",
+          "url": "https://open.spotify.com/artist/0EsYJwTQMt0GLdy1FsPiav"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "Had To Do",
+      "url": "https://open.spotify.com/track/0dsAnwQ9vYykDToKyCKSOe"
+    },
+    {
+      "album": {
         "name": "Hard To See",
         "url": "https://open.spotify.com/album/0RkVJHDQpePIHNuViSKQpI"
       },
@@ -3994,7 +4110,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 139000,
       "name": "It's Your Anniversary",
       "url": "https://open.spotify.com/track/0oQLE7zqOp9rGfG4ZXnniH"
@@ -4238,6 +4354,28 @@
       "duration_ms": 130604,
       "name": "KING TUT",
       "url": "https://open.spotify.com/track/61Edo4I24jbs749NSRDEbY"
+    },
+    {
+      "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
     },
     {
       "album": {
@@ -4952,7 +5090,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 174693,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -5000,7 +5138,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 144746,
       "name": "Monitoring Me",
       "url": "https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d"
@@ -5152,7 +5290,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 146004,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC"
@@ -5557,6 +5695,24 @@
     },
     {
       "album": {
+        "name": "number",
+        "url": "https://open.spotify.com/album/0p5Mo4alMuPemivmZL5C2C"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "number",
+      "url": "https://open.spotify.com/track/10irq5r9yRRPuh24Tmqn0S"
+    },
+    {
+      "album": {
         "name": "NYU",
         "url": "https://open.spotify.com/album/6p1B0lcRQidpYdgw3gkYTL"
       },
@@ -5604,7 +5760,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 149313,
       "name": "Off White Rozay (feat. Voice of Harlem)",
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
@@ -6523,6 +6679,24 @@
     },
     {
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/0m90b0QjbLMpOjfpE0T6xM"
+      },
+      "artists": [
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/49oTvwaDbGFZ4zfTsaB5yt"
+    },
+    {
+      "album": {
         "name": "Secluded",
         "url": "https://open.spotify.com/album/2mgt7cCwdRP6irlgmHWtT0"
       },
@@ -6600,7 +6774,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 150870,
       "name": "Send Her Home (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3lmTQobz9kKkqb5kszxIXV"
@@ -6622,7 +6796,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 194782,
       "name": "Sh*t Sad",
       "url": "https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF"
@@ -7958,7 +8132,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141878,
       "name": "Turn Up A Notch",
       "url": "https://open.spotify.com/track/25iuEho6akUyl3aufmXHqy"

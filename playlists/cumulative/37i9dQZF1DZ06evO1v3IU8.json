@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "La Bikina",
+        "url": "https://open.spotify.com/album/69ZQ61MmoxT8oXVfw748GZ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "La Bikina",
+      "url": "https://open.spotify.com/track/7cp9KS1pbrAAbBYtwcQQiZ"
+    },
+    {
+      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },

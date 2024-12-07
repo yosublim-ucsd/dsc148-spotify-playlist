@@ -4,7 +4,7 @@
 
 > Pinguini Tattici Nucleari in cover + tutte le migliori uscite di questa settimana!
 
-2,837 songs - 5 day 23 hr 32 min
+2,839 songs - 5 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,6 +1340,7 @@
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2024-07-19 |
 | [Le vecchie maniere](https://open.spotify.com/track/4rOxcipujPjVfAm5NFiWem) | [Appino](https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH) | [Le vecchie maniere](https://open.spotify.com/album/5AgFRwIU34wmltQzrKkNcx) | 4:47 | 2024-05-23 | 2024-06-01 |
 | [LEADER](https://open.spotify.com/track/3OJR7UYQW3vXI5SH40G9YC) | [Myto](https://open.spotify.com/artist/7ArCICJwpNMHWiDMCXiEZO) | [LEADER](https://open.spotify.com/album/0xTsNhVGTG5mSR8uAKbw0m) | 2:34 | 2024-07-18 | 2024-07-27 |
+| [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG) | 4:21 | 2024-12-06 |  |
 | [lecosepeggiori](https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI) | [Avanzi](https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J) | [lecosepeggiori](https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn) | 2:50 | 2024-10-31 | 2024-11-08 |
 | [LEGAMI](https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma) | [Goldreick](https://open.spotify.com/artist/0UJ6nopuHJk9q7addrnFhD), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q) | [MERO CREDIT](https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm) | 3:33 | 2024-07-18 | 2024-07-27 |
 | [Leggera](https://open.spotify.com/track/2U1jRNDyOLw4V5agzt1lpZ) | [KIMONO](https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm) | [Leggera](https://open.spotify.com/album/1oR8GfraxUU5MnZCrtJ8O9) | 2:46 | 2024-09-05 | 2024-09-13 |
@@ -2388,6 +2389,7 @@
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Storie Di Noi](https://open.spotify.com/track/3V9BRqsmAKjykhn8hhpzay) | [NIMSAY](https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre) | [Storie Di Noi](https://open.spotify.com/album/4xVOHJhZiyd2BSIh3S6yze) | 3:03 | 2024-11-28 | 2024-12-06 |
 | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/track/1tGv0FsQ9E1huqo9l8gIBl) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Straniero RMX \(feat\. Tedua & Neima Ezza\)](https://open.spotify.com/album/729KrkLu00nv1Y7wCbMbX2) | 3:56 | 2024-04-26 | 2024-05-03 |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
 | [Street Life](https://open.spotify.com/track/6Pa6bqbWnNZML34ex3s06q) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Street Life](https://open.spotify.com/album/04p2ig4ktUoqhilY6au2HI) | 2:32 | 2024-09-12 | 2024-09-20 |
 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 | 2024-10-18 | 2024-10-25 |
 | [STRESS](https://open.spotify.com/track/1qLJupRlpqolbKNnrVDp9x) | [DIREI](https://open.spotify.com/artist/1xvnIuvn8DLzSwlKRT74IY) | [STRESS](https://open.spotify.com/album/62ObkL6tzkrz1yNXkPBFvE) | 3:13 | 2024-06-13 | 2024-06-21 |

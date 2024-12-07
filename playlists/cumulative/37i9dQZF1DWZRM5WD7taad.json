@@ -6687,6 +6687,28 @@
     },
     {
       "album": {
+        "name": "SUE\u00d1OS",
+        "url": "https://open.spotify.com/album/7cuMNHqR2QsVrXv8QeEDBv"
+      },
+      "artists": [
+        {
+          "name": "ERRE TRES",
+          "url": "https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "V\u00f3rtice 333",
+      "url": "https://open.spotify.com/track/0XuyxnE04jvfOou9qiOoWw"
+    },
+    {
+      "album": {
         "name": "Wachita",
         "url": "https://open.spotify.com/album/52xzKPPlZ8IjvjtNqoATwU"
       },

@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> gigi perez is only getting started
+> ❤️‍🔥 what if i told you this was george clanton and TV Girl ❤️‍🔥
 
-3,102 songs - 7 day 0 hr 13 min
+3,105 songs - 7 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1646,7 +1646,7 @@
 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 | 2021-01-29 | 2021-02-06 |
 | [Love Costs](https://open.spotify.com/track/7aJDtyNcnlx8a1P60uqmNn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Love Costs](https://open.spotify.com/album/5gcubcwD8Gvhti1gWvdMuO) | 3:15 | 2024-06-21 | 2024-09-07 |
 | [Love Is Everywhere](https://open.spotify.com/track/2ZSDtC0XZnpokAMwRtgqzh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:14 | 2024-09-02 |  |
-| [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-27 |  |
+| [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-27 | 2024-12-07 |
 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 | 2022-06-03 | 2022-07-19 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2023-03-07 |
 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 | 2022-10-14 | 2022-11-05 |
@@ -1945,6 +1945,7 @@
 | [Obvious](https://open.spotify.com/track/5qN9j62fq0YbWQd57bzf0U) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Obvious](https://open.spotify.com/album/1pd5hBZ4YjFENk3HedtdZt) | 3:29 | 2024-03-13 | 2024-06-08 |
 | [Ocean Eyes \- Astronomyy Remix](https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Astronomyy](https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm) | [Ocean Eyes \(The Remixes\)](https://open.spotify.com/album/44OSkEmvHwdTFhPBCewIks) | 4:56 | 2019-07-30\* | 2019-09-27 |
 | [ocean view](https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:54 | 2021-06-02 | 2021-08-14 |
+| [OCTOBER](https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [OCTOBER/HERO](https://open.spotify.com/album/3QnzXOGnAsquHrRjnkfOBk) | 3:01 | 2024-12-06 |  |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2022-10-14 | 2023-01-06 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2020-07-08 | 2021-01-12 |
 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 | 2022-11-25 | 2023-03-07 |
@@ -2529,6 +2530,7 @@
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-09 | 2024-08-17 |
 | [Still Got It](https://open.spotify.com/track/6r8Xk7Fldj4GR4r0fVBH42) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:28 | 2023-10-13 | 2023-11-18 |
 | [Still Got It \- Live from Spotify Green Screen](https://open.spotify.com/track/0Lo1FAFOyXXX1ptjez0Odn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Still Got It \(Live from Spotify Green Screen\)](https://open.spotify.com/album/3xPu6oQFNfcC3e3Bcj2viF) | 2:47 | 2023-11-17 | 2023-12-14 |
+| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
 | [STILL IN LOVE](https://open.spotify.com/track/2FNDyU7qtE3U4UGZTO1NCo) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [STILL IN LOVE](https://open.spotify.com/album/5fOFmxmkcpTTdC1UloGZG6) | 2:38 | 2022-06-03 | 2022-07-07 |
 | [Still Light](https://open.spotify.com/track/6eoYZc5CfMDGTpVmeUEwvs) | [Carol Robbins](https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2) | [Jazz Play](https://open.spotify.com/album/0Lbyil0O0YXcGpXB5IGYEd) | 5:50 | 2021-07-17 | 2021-07-23 |
 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 | 2021-01-27 | 2021-03-06 |
@@ -3022,6 +3024,7 @@
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-23 | 2024-01-11 |
 | [wishuwerehere](https://open.spotify.com/track/6ouflVakFDbhMaRKfv2jvF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [wishuwerehere](https://open.spotify.com/album/1cWmMEtvycWbC65ncuL2zs) | 2:14 | 2023-04-07 | 2023-04-20 |
 | [With A Little Help From My Friends](https://open.spotify.com/track/4J8RM3zVT5VXbJZeGIgVOA) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [With A Little Help From My Friends](https://open.spotify.com/album/1LhYHnCOmWxATr01UcHZXw) | 2:50 | 2020-05-22 | 2020-08-20 |
+| [With Only Your Mouth](https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [With Only Your Mouth](https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB) | 3:03 | 2024-12-06 |  |
 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-04-08 | 2022-04-21 |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-05-03 | 2021-06-05 |
 | [WIYULD](https://open.spotify.com/track/4nV1MfDLKK50nBSaEjtDzZ) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [WIYULD](https://open.spotify.com/album/1nRzOBHC1eAjeFG8pGIFSr) | 2:20 | 2020-07-09 | 2021-01-12 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> ❄️ <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>
 
-3,261 songs - 7 day 1 hr 12 min
+3,263 songs - 7 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [almost killed me](https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:11 | 2024-07-25 | 2024-08-02 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-26 | 2024-10-04 |
 | [Alone](https://open.spotify.com/track/03PKhW6sqJlM0nkp9Jnsrx) | [Yune](https://open.spotify.com/artist/5rdAHVb3yMOC25XkaiAjhU) | [Alone](https://open.spotify.com/album/3mXean8ztYQUIcU037nFH4) | 4:39 | 2024-08-16 | 2024-08-23 |
-| [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-05 |  |
+| [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-05 |  |
 | [Already Gone](https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Already Gone](https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A) | 3:48 | 2024-06-13 | 2024-06-21 |
 | [Already Gone](https://open.spotify.com/track/0UE5wq9WnDgdbajmx2eQxY) | [Thorbjørn Risager & The Black Tornado](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT) | [Already Gone](https://open.spotify.com/album/05HZt91IeIrnMaCfPkY0dr) | 4:03 | 2024-06-13 | 2024-06-21 |
 | [Alright](https://open.spotify.com/track/2haMyzKGv0uOfV4vCObmYq) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [wanna be friends?](https://open.spotify.com/album/1GfChrfO2dg92W5W7FGj6O) | 2:35 | 2024-11-07 | 2024-11-15 |
@@ -1296,6 +1296,7 @@
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-11 | 2024-07-19 |
 | [Hiding](https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Hiding](https://open.spotify.com/album/1oFiCEgZ9T89OZmnej5tjf) | 2:45 | 2024-06-06 | 2024-06-14 |
 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 | 2024-08-22 | 2024-08-30 |
+| [High](https://open.spotify.com/track/6WAnUzmNtJnWagmMYCfST5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [High](https://open.spotify.com/album/2fbxmiDsXsMPflu3hydDoJ) | 2:53 | 2024-12-06 |  |
 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 | 2024-07-25 | 2024-08-02 |
 | [High On Love](https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [High On Love](https://open.spotify.com/album/1RS0vAX4YynNRKyxl7DoAw) | 2:56 | 2024-05-16 | 2024-05-24 |
 | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/album/7m5Ht2zoyNeDrQgJcOBHPr) | 4:03 | 2024-08-01 | 2024-08-09 |
@@ -2702,6 +2703,7 @@
 | [Stories](https://open.spotify.com/track/23JwegoF8rtMqfeVcpUVLy) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Stories](https://open.spotify.com/album/6NexXt7Omv0gTc7lqcFPK5) | 3:44 | 2024-10-24 | 2024-11-01 |
 | [Storm](https://open.spotify.com/track/0pv2sWFrI799uz36iX1mVO) | [virvar](https://open.spotify.com/artist/4fBOBoDT3hArCZA8Q3Euh2), [Pede B](https://open.spotify.com/artist/05X5qdeeGgBQe115bTNlWu), [Yepha](https://open.spotify.com/artist/5asGLnsKzGu0vUCRFSjibL), [Mund de Carlo](https://open.spotify.com/artist/6O1UHqv8OdsltIC8q4ABXI) | [Storm](https://open.spotify.com/album/5VW2KEm2KAjCNEyZPdsKyJ) | 4:00 | 2024-07-11 | 2024-07-19 |
 | [Straight Up](https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Straight Up](https://open.spotify.com/album/4OGLkwfhVSh6jhFN3agdmB) | 3:15 | 2024-12-05 |  |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 |  |
 | [STRAY](https://open.spotify.com/track/7MCtZJoabikk4AVQp8o6rP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [STRAY / SAD OCTOBER](https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT) | 2:33 | 2024-04-26 | 2024-05-03 |
 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 | 2024-10-17 | 2024-10-25 |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-16 | 2024-08-23 |

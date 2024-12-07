@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "A Tyler Shaw Christmas",
+        "url": "https://open.spotify.com/album/54t92A7UnB3Y7ht3OYT5OL"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168204,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1ZuL07UkaLYf96d6GpWJQu"
+    },
+    {
+      "album": {
         "name": "Christmas Hits",
         "url": "https://open.spotify.com/album/2ojsnLAKwDMT0k3sU0ur0x"
       },

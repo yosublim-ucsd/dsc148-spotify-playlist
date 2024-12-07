@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-444 songs - 1 day 3 hr 47 min
+445 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Mistletoe Meltdown](https://open.spotify.com/track/6VYcqmoh8PqlsHQdvV4zAW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Irwin's Christmas Collection](https://open.spotify.com/album/317Rb3ssDv1clHRsHvEuYZ) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |
 | [My Heart Would Be Your Bethlehem](https://open.spotify.com/track/4osWMuu2sFE3mr50gO58Fp) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [My Heart Would Be Your Bethlehem](https://open.spotify.com/album/2ZQL0DkMbtKd3H0iMH1BZW) | 4:14 | 2024-08-01 | 2024-12-03 |
+| [My Holiday \(Radio Edit\)](https://open.spotify.com/track/6xwmHmD49RDUibZI0YcQA2) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [My Holiday \(Radio Edit\)](https://open.spotify.com/album/7BNyLMDviAjuBdTrJVPMZk) | 3:14 | 2024-11-29 |  |
 | [No Time Like Christmas](https://open.spotify.com/track/5Hqxd0AwFoFwbMZlAsxR4K) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [No Time Like Christmas](https://open.spotify.com/album/4TXYrrc2xV3w1R3Xhbb4b8) | 2:50 | 2024-11-29 |  |
 | [Noel](https://open.spotify.com/track/14811dAkS6Frq4vWNBxiLg) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Noel](https://open.spotify.com/album/3CSaK7RxIUinXyDW8coxou) | 3:25 | 2021-12-24 |  |
 | [Noel \(He Is Born\) \- Acoustic](https://open.spotify.com/track/17Lfjg1DnlDBc7BsVz1uOG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [Noel \(He Is Born\)](https://open.spotify.com/album/0qBNdc9efGihbsXN2x8Wkg) | 4:21 | 2021-12-24 | 2022-07-25 |
@@ -395,7 +396,7 @@
 | [The Wait is Over](https://open.spotify.com/track/45clpYzIdS7Ju6yOSCxkaL) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [The Wait is Over](https://open.spotify.com/album/2Uviy1FsGVVctRmFDH3MbE) | 4:18 | 2022-11-26 | 2024-08-02 |
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2024-10-27 |
-| [This Christmas](https://open.spotify.com/track/7ymACyIlTg1ZTTRoZdnPAN) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [This Christmas](https://open.spotify.com/album/4rzPckbuNLw3gVvFWX7WM7) | 3:08 | 2024-08-01 |  |
+| [This Christmas](https://open.spotify.com/track/7ymACyIlTg1ZTTRoZdnPAN) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [This Christmas](https://open.spotify.com/album/4rzPckbuNLw3gVvFWX7WM7) | 3:08 | 2024-08-01 | 2024-12-07 |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2024-11-18 |
 | [This is Emmanuel](https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [This is Emmanuel](https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA) | 3:55 | 2023-12-15 |  |
 | [This Is Jesus](https://open.spotify.com/track/69v45hb7AYLxvecGXmd4Di) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [God With Us](https://open.spotify.com/album/7lxYFbhgQ7JCdMQiLpng2k) | 3:10 | 2021-12-24 | 2024-08-02 |

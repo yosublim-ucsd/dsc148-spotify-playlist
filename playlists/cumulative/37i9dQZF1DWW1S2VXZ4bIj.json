@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Dept, LANDOKMAI",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 226714,
       "name": "Infatuated",
       "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
@@ -794,6 +794,24 @@
       "duration_ms": 246923,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+    },
+    {
+      "album": {
+        "name": "LYKYOU - Single",
+        "url": "https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214166,
+      "name": "LYKYOU",
+      "url": "https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ"
     },
     {
       "album": {
@@ -1191,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
+    },
+    {
+      "album": {
         "name": "Situationship",
         "url": "https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd"
       },
@@ -1206,6 +1242,24 @@
       "duration_ms": 190615,
       "name": "Situationship",
       "url": "https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M"
+    },
+    {
+      "album": {
+        "name": "Christmas Promises",
+        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
     },
     {
       "album": {
@@ -1304,6 +1358,46 @@
       "duration_ms": 157120,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "album": {
+        "name": "SUPER SECRET",
+        "url": "https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "SUPER SECRET",
+      "url": "https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif"
     },
     {
       "album": {
@@ -1487,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
         "name": "TRAFFIC",
         "url": "https://open.spotify.com/album/3vqZjXdm32aotxndvwr8FT"
       },
@@ -1520,6 +1632,24 @@
       "duration_ms": 231982,
       "name": "TRANSFORMER",
       "url": "https://open.spotify.com/track/79gZEEThebUtPiqGLHMupL"
+    },
+    {
+      "album": {
+        "name": "UNHAPPY NEW YEAR",
+        "url": "https://open.spotify.com/album/2megrePBfWSMOvH8lokKUz"
+      },
+      "artists": [
+        {
+          "name": "BADMIXY",
+          "url": "https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "UNHAPPY NEW YEAR",
+      "url": "https://open.spotify.com/track/5gFusw34ThLYmj0PG38sgp"
     },
     {
       "album": {
@@ -1874,7 +2004,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189000,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e15\u0e2d\u0e19\u0e08\u0e1a (I Wish)",
       "url": "https://open.spotify.com/track/3BJEGjNxCELlKPLAhgudYy"
@@ -1892,7 +2022,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 221250,
       "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (Unforgettable)",
       "url": "https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6"
@@ -2052,7 +2182,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 225882,
       "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
@@ -2070,7 +2200,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "\u0e07\u0e49\u0e2d (ALRIGHT)",
       "url": "https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS"
@@ -2222,7 +2352,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193500,
       "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/1aNPaQSeQhBYfyLbTKXEJU"
@@ -2475,6 +2605,28 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e34\u0e14\u0e41\u0e01(\u0e25\u0e21) [Glamour Girl]",
+        "url": "https://open.spotify.com/album/528ZGuFgT6cLxRhIG6ZuHb"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        },
+        {
+          "name": "MUKTA",
+          "url": "https://open.spotify.com/artist/6qhHW3pFQd2uAUbW2InXQ4"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "\u0e15\u0e34\u0e14\u0e41\u0e01(\u0e25\u0e21) [Glamour Girl]",
+      "url": "https://open.spotify.com/track/5P4gPTCSX4h7eLbRW6QG5S"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
         "url": "https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr"
       },
@@ -2624,7 +2776,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 302352,
       "name": "\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/77KOIam0nJwyQkzdjEiQdL"
@@ -2754,7 +2906,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 224785,
       "name": "\u0e1b\u0e0f\u0e34\u0e40\u0e2a\u0e18\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/6V8vXABxi58ulQK09vnTCq"
@@ -2928,7 +3080,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 223000,
       "name": "\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e21\u0e35\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/2h7cLSwt7ZYxiRzPkGHmf2"
@@ -3048,7 +3200,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 214166,
       "name": "\u0e21\u0e2d\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e34\u0e14 (Awkward)",
       "url": "https://open.spotify.com/track/6Wkv4R01FhXrQlo2al9tGU"
@@ -3160,7 +3312,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 234135,
       "name": "\u0e22\u0e49\u0e33\u0e04\u0e34\u0e14\u0e22\u0e49\u0e33\u0e17\u0e33 (OCD)",
       "url": "https://open.spotify.com/track/0xVC4DZ1q7TSv1CBRgisRM"
@@ -3351,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e30\u0e25\u0e32\u0e22 (LaLaLye) - Single",
+        "url": "https://open.spotify.com/album/1aWimcmep85JiuUE2shfny"
+      },
+      "artists": [
+        {
+          "name": "Daou Pittaya",
+          "url": "https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223308,
+      "name": "\u0e25\u0e30\u0e25\u0e32\u0e22 (LaLaLye)",
+      "url": "https://open.spotify.com/track/0sGRwyZJH9lRft6hoNWDPU"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e39\u0e01\u0e04\u0e38\u0e13\u0e2b\u0e19\u0e39 - Single",
         "url": "https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj"
       },
@@ -3482,6 +3652,24 @@
       "duration_ms": 248048,
       "name": "\u0e2a\u0e32\u0e23\u0e34\u0e01\u0e32\u0e25\u0e34\u0e49\u0e19\u0e17\u0e2d\u0e07 (Smooth-talker)",
       "url": "https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
+        "url": "https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
+      "url": "https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh"
     },
     {
       "album": {
@@ -3750,7 +3938,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 251379,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e44\u0e1b\u0e23\u0e31\u0e01\u0e40\u0e02\u0e32\u0e40\u0e25\u0e22\u0e40\u0e18\u0e2d (Someone Who Cares)",
       "url": "https://open.spotify.com/track/7aODosiDkZoJdgny6F38Xs"
@@ -4252,7 +4440,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 176727,
       "name": "\u0e40\u0e2b\u0e19\u0e37\u0e48\u0e2d\u0e22\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (SOMEONE LIKE ME)",
       "url": "https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO"
@@ -4382,7 +4570,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 254222,
       "name": "\u0e41\u0e1c\u0e25\u0e40\u0e1b\u0e47\u0e19",
       "url": "https://open.spotify.com/track/7q7JQ8RElZlL4mLT4pp09V"
@@ -4860,10 +5048,28 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 224277,
       "name": "\u6e0b\u8c37\u306eBAR\u3067\u521d\u3081\u3066\u306e\u30c7\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6mawcugH3sxOF17aQSONjj"
+    },
+    {
+      "album": {
+        "name": "\u6e0b\u8c37\u306eBAR\u3067\u521d\u3081\u3066\u306e\u30c7\u30a4\u30c8 (Thai version)",
+        "url": "https://open.spotify.com/album/22ywi566JF0IxiNBmmD7xT"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224277,
+      "name": "\u6e0b\u8c37\u306eBAR\u3067\u521d\u3081\u3066\u306e\u30c7\u30a4\u30c8 - Thai version",
+      "url": "https://open.spotify.com/track/1YqVRJDjqo2r3YAISjCu4F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj"

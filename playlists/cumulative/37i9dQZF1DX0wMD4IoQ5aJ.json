@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Aerocano",
+        "url": "https://open.spotify.com/album/56ngEzPBTMwFJBMh3TbbNj"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170077,
+      "name": "Aerocano",
+      "url": "https://open.spotify.com/track/41qs9JWFpeVOqlWp2JXIji"
+    },
+    {
+      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL"
       },
@@ -794,6 +812,24 @@
       "duration_ms": 223500,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv"
+    },
+    {
+      "album": {
+        "name": "Blue World",
+        "url": "https://open.spotify.com/album/0bLxtqOTcYEZ3ZU7c06FzE"
+      },
+      "artists": [
+        {
+          "name": "Nine Nugs",
+          "url": "https://open.spotify.com/artist/4aaVc2Z7OddLESgkrCQvmx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/7dLQ8Src5RHL1Q6LKGoMkJ"
     },
     {
       "album": {
@@ -1852,7 +1888,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 252371,
       "name": "Doja Dojo",
       "url": "https://open.spotify.com/track/3y0raD8eU9EHrxTCSr9AvL"
@@ -1892,6 +1928,24 @@
       "duration_ms": 137739,
       "name": "Don't You Know?",
       "url": "https://open.spotify.com/track/5qejNRsGXyw9p7qVaTocPm"
+    },
+    {
+      "album": {
+        "name": "Downplaying",
+        "url": "https://open.spotify.com/album/0xhSu8Jp9yAjbvZUDqqlHn"
+      },
+      "artists": [
+        {
+          "name": "Audio Scavengers",
+          "url": "https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182477,
+      "name": "Downplaying",
+      "url": "https://open.spotify.com/track/2C73PFGoUiSn7qZnGTXVg1"
     },
     {
       "album": {
@@ -2288,7 +2342,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141052,
       "name": "Fifteen",
       "url": "https://open.spotify.com/track/2dhziN5G456z3P2J4inmH1"
@@ -2904,7 +2958,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 260000,
       "name": "House in the Jungle",
       "url": "https://open.spotify.com/track/6JBXWaGwTa3UepR5ItF7M8"
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 124620,
       "name": "In D\u00e9cadence",
       "url": "https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET"
@@ -3102,7 +3156,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 220275,
       "name": "Innuendo",
       "url": "https://open.spotify.com/track/0OxJZn5qtO6kXdanKDrJI3"
@@ -3901,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Moving Pulp",
+        "url": "https://open.spotify.com/album/1OifOcygVav9NhNODj9Rq9"
+      },
+      "artists": [
+        {
+          "name": "Ali Neroli",
+          "url": "https://open.spotify.com/artist/5peHVLddUJr3XzqnlypxZR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Moving Pulp",
+      "url": "https://open.spotify.com/track/1GmtHLuFsdq4VFd4LtPLKB"
+    },
+    {
+      "album": {
         "name": "much needed",
         "url": "https://open.spotify.com/album/5TjDtfaLb8qlkmB6uffNif"
       },
@@ -4153,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Nothing-happenin'",
+        "url": "https://open.spotify.com/album/0F0K4uJ35MzvYHIiJh2Aw5"
+      },
+      "artists": [
+        {
+          "name": "Robo Rat",
+          "url": "https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179181,
+      "name": "Nothing-happenin'",
+      "url": "https://open.spotify.com/track/3p8Mgby7mAmUMQLyLyXSC6"
+    },
+    {
+      "album": {
         "name": "Now I Know / Timglas",
         "url": "https://open.spotify.com/album/2jeAJB0PDLUizOnspECkDz"
       },
@@ -4362,7 +4452,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 186451,
       "name": "On the radio",
       "url": "https://open.spotify.com/track/3fy1wFK8zEWVFfLyDxOGx6"
@@ -4848,7 +4938,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 136217,
       "name": "Readings",
       "url": "https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP"
@@ -5414,7 +5504,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 134086,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7sK0vS2FyHMb5wFGFcwUMI"
@@ -5436,6 +5526,24 @@
       "duration_ms": 201475,
       "name": "Since I Laid My Eyes on U",
       "url": "https://open.spotify.com/track/5Ll1fMSA6ns9fO0f72h7OI"
+    },
+    {
+      "album": {
+        "name": "Sips by the Shore",
+        "url": "https://open.spotify.com/album/2Hi38Y79HxNcIZQnWZGPWs"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156888,
+      "name": "Sips by the Shore",
+      "url": "https://open.spotify.com/track/2GFLKKm0uqmAL4K1d7a8VQ"
     },
     {
       "album": {
@@ -5619,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "Solar System",
+        "url": "https://open.spotify.com/album/5v8zszq3uqPc484a8thsIq"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206714,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/1GnA35bCMuUttum4dCaAJZ"
+    },
+    {
+      "album": {
         "name": "Something Begins",
         "url": "https://open.spotify.com/album/4pti7XN6dDBjm54bbACl9C"
       },
@@ -5792,7 +5918,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162916,
       "name": "Star Bright",
       "url": "https://open.spotify.com/track/4Up93SiEP5fiATqaFqDtgK"
@@ -5868,6 +5994,24 @@
       "duration_ms": 153846,
       "name": "Sun In Seoul",
       "url": "https://open.spotify.com/track/2xdMHpepR6Rh8b3o2kq8OP"
+    },
+    {
+      "album": {
+        "name": "Sun-lounger",
+        "url": "https://open.spotify.com/album/4hEWVgp0tfJj9NApq6gone"
+      },
+      "artists": [
+        {
+          "name": "Lndonfox",
+          "url": "https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121958,
+      "name": "Sun-lounger",
+      "url": "https://open.spotify.com/track/37Bakzv2SSjSh7Cva8cLSc"
     },
     {
       "album": {
@@ -5972,7 +6116,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
@@ -6588,7 +6732,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 156290,
       "name": "Where When",
       "url": "https://open.spotify.com/track/0WJjY4u7gtDDgKseWFXiG3"

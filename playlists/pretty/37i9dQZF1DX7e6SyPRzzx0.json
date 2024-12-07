@@ -1,13 +1,65 @@
 {
   "description": "The home of rage rap. Cover: Yeat",
-  "num_followers": 79062,
+  "num_followers": 79368,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZztdxAAAAAAhlXydhDnNyQPM+Z4DRwvI",
+  "snapshot_id": "Z1OCrAAAAAABw2063B/q5st6YBP6IfDc",
   "tracks": [
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "BAD ASS F*CKING KID",
+        "url": "https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 123783,
+      "name": "Tyla",
+      "url": "https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv"
+    },
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "CONGLOMERATE (DELUXE)",
+        "url": "https://open.spotify.com/album/1OmkbDmyYrqfSLPwefZ8W3"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        },
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "duration_ms": 87843,
+      "name": "Excuse My French",
+      "url": "https://open.spotify.com/track/5VgsVypakdkvcVkbIoXsap"
+    },
     {
       "added_at": "2024-10-25 18:47:03",
       "album": {
@@ -41,6 +93,22 @@
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "Eternal Atake 2",
+        "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 150895,
+      "name": "Not An Option",
+      "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
+    },
+    {
       "added_at": "2024-10-25 18:52:00",
       "album": {
         "name": "gold",
@@ -55,6 +123,58 @@
       "duration_ms": 126988,
       "name": "gold",
       "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "5BRAZY (FEAT. QUAVO)",
+        "url": "https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 178442,
+      "name": "5BRAZY (FEAT. QUAVO)",
+      "url": "https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv"
+    },
+    {
+      "added_at": "2024-09-20 22:16:58",
+      "album": {
+        "name": "COUNT MY BANDZ",
+        "url": "https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "COUNT MY BANDZ",
+      "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
+    },
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "just score it",
+        "url": "https://open.spotify.com/album/73cibirs94ZVsObZcEdyny"
+      },
+      "artists": [
+        {
+          "name": "OsamaSon",
+          "url": "https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1"
+        }
+      ],
+      "duration_ms": 107786,
+      "name": "just score it",
+      "url": "https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx"
     },
     {
       "added_at": "2024-10-25 18:52:00",
@@ -77,22 +197,6 @@
       "url": "https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC"
     },
     {
-      "added_at": "2024-09-20 22:16:58",
-      "album": {
-        "name": "COUNT MY BANDZ",
-        "url": "https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "COUNT MY BANDZ",
-      "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
-    },
-    {
       "added_at": "2024-07-31 16:54:30",
       "album": {
         "name": "ABU DHABI (w/ Lancey Foux)",
@@ -113,20 +217,36 @@
       "url": "https://open.spotify.com/track/5sv52cIHSsKw66yhHFFXyj"
     },
     {
-      "added_at": "2024-10-25 18:52:00",
+      "added_at": "2024-12-06 23:03:08",
       "album": {
-        "name": "Sayso Says",
-        "url": "https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU"
+        "name": "givenchy jeans",
+        "url": "https://open.spotify.com/album/7vzUXa6KCUly9coSH1X7UV"
       },
       "artists": [
         {
-          "name": "che",
-          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+          "name": "Dom Corleo",
+          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
         }
       ],
-      "duration_ms": 119232,
-      "name": "I Rot, I Rot.",
-      "url": "https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM"
+      "duration_ms": 82917,
+      "name": "givenchy jeans",
+      "url": "https://open.spotify.com/track/3xlQipBAHPoTwQ8fXRtKxj"
+    },
+    {
+      "added_at": "2024-12-06 23:03:08",
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "ORCHESTRAT\u00cb",
+      "url": "https://open.spotify.com/track/3Ygb9jYG5TeibrrKJzCPmV"
     },
     {
       "added_at": "2024-10-25 18:52:00",
@@ -147,6 +267,22 @@
       "duration_ms": 274308,
       "name": "LOVE HURTS",
       "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "VENUS",
+      "url": "https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R"
     },
     {
       "added_at": "2024-09-10 13:45:16",
@@ -187,22 +323,6 @@
       "duration_ms": 252636,
       "name": "THRILL (with Ken Carson)",
       "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
-    },
-    {
-      "added_at": "2024-10-25 18:52:00",
-      "album": {
-        "name": "REBIRTH",
-        "url": "https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "VENUS",
-      "url": "https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R"
     },
     {
       "added_at": "2024-09-03 19:49:13",
@@ -295,22 +415,6 @@
       "duration_ms": 131506,
       "name": "trauma",
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
-    },
-    {
-      "added_at": "2024-10-25 18:52:00",
-      "album": {
-        "name": "Da Real Oso",
-        "url": "https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1"
-      },
-      "artists": [
-        {
-          "name": "Glokk40Spaz",
-          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "BLV Anthem",
-      "url": "https://open.spotify.com/track/1myCuKyaEQDpuBe8DnpFQN"
     },
     {
       "added_at": "2024-08-20 20:38:33",
@@ -987,22 +1091,6 @@
       "duration_ms": 194213,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
-      },
-      "artists": [
-        {
-          "name": "Dom Corleo",
-          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
-        }
-      ],
-      "duration_ms": 126615,
-      "name": "Penthouse Shordy",
-      "url": "https://open.spotify.com/track/0p761VSAObNRJF855bIHRF"
     }
   ],
   "unique_name": "RAGE",

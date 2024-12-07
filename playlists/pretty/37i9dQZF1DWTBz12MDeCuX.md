@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,141 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,120 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 75 | [liebe das](https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [liebe das](https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX) | 3:08 |
 | 76 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 |
 | 77 | [Wieso jetzt?](https://open.spotify.com/track/75psKd58yXGEHArBFpMLgm) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Wieso jetzt?](https://open.spotify.com/album/3Y3dhPjfBU1x8MEWnCEqjG) | 2:43 |
-| 78 | [It Girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [It Girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
+| 78 | [it girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
 | 79 | [niemand](https://open.spotify.com/track/06jhkzbAB3mnnZGnySBnrh) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [niemand](https://open.spotify.com/album/2TZMcmePJ1zcZgjKKRu9tG) | 2:26 |
 | 80 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 81 | [BADDIE](https://open.spotify.com/track/2SI2wNItkbbSGjNIY5IS68) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Money Boy](https://open.spotify.com/artist/1DxUdl4z0N2hLqU7U6yqwc), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa), [kira on the phone](https://open.spotify.com/artist/3hy2bcEqMKxkoO3emLgoZw) | [BADDIE](https://open.spotify.com/album/0jvm7lxMq1Da8F0cXHgZ1i) | 2:41 |

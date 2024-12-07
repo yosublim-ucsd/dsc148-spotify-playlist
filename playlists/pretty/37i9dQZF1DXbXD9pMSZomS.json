@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 480624,
+  "num_followers": 480745,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 225493,
       "name": "Cami - Edamame Remix",
       "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
-      },
-      "artists": [
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        }
-      ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Always By Your Side",
-        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
+        "name": "It's in My Ears",
+        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Gallegos",
+          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
         }
       ],
-      "duration_ms": 337975,
-      "name": "Always By Your Side",
-      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
+      "duration_ms": 245173,
+      "name": "It's in My Ears",
+      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "It's in My Ears",
-        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
       "artists": [
         {
-          "name": "Gallegos",
-          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 245173,
-      "name": "It's in My Ears",
-      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
+      "duration_ms": 337975,
+      "name": "Always By Your Side",
+      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 214602,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "About Our Amore",
         "url": "https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 256695,
       "name": "Random Places",
       "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 214602,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
-      },
-      "artists": [
-        {
-          "name": "Becky Ford",
-          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7"
+      },
+      "artists": [
+        {
+          "name": "Becky Ford",
+          "url": "https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 164878,
-      "name": "You With Me",
-      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Flutes of Gold",
         "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
       },
@@ -683,18 +667,34 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+      "duration_ms": 164878,
+      "name": "You With Me",
+      "url": "https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 373974,
+      "name": "008A1",
+      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
       "artists": [
         {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 373974,
-      "name": "008A1",
-      "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
-      },
-      "artists": [
-        {
-          "name": "Best Friends Club",
-          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 155789,
       "name": "House Party",
       "url": "https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
+      },
+      "artists": [
+        {
+          "name": "Best Friends Club",
+          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
     },
     {
       "added_at": "2024-11-29 05:00:00",

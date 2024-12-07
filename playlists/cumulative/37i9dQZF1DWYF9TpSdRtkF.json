@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 262266,
       "name": "GR@TITUDE - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01Ver.",
       "url": "https://open.spotify.com/track/0Y8GIkZKTbkjjLKMPiNDZR"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 256972,
       "name": "\u3042\u305f\u305f\u3081\u307e\u3059\u304b\uff1f",
       "url": "https://open.spotify.com/track/6XnhvnxghOAQx36G7SUA0i"
@@ -6407,6 +6407,32 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm",
+        "url": "https://open.spotify.com/album/5AI4ZKsvVtfMTj0TknJjBE"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "\u6728\u4e0b\u3072\u306a\u305f (CV.\u7530\u6751\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/1iruVsncWyvlBN5FdPdHmZ"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259239,
+      "name": "\u30e9\u30f3\u30cb\u30f3\u30b0\u30fb\u30cf\u30a4\u30c3",
+      "url": "https://open.spotify.com/track/0t3aawDDxm3GnNAXnOBUkd"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
         "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
       },
@@ -6602,7 +6628,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 234946,
       "name": "\u4fe0\u6c17\u4e71\u821e",
       "url": "https://open.spotify.com/track/0ErE3PUHS4SUL9MvSqRqe1"
@@ -6844,6 +6870,28 @@
       "duration_ms": 269600,
       "name": "\u591c\u3068\u3001\u660e\u304b\u308a\u3068\u3002",
       "url": "https://open.spotify.com/track/2e2Y9QePDrHN0Leb5UkSVE"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 05",
+        "url": "https://open.spotify.com/album/1K4K7FKVGIAH1Bo2DD2mdr"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274360,
+      "name": "\u591c\u306b\u8f1d\u304f\u661f\u5ea7\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/6AdCXYD7AXTCDaIItUlOJn"
     },
     {
       "album": {
@@ -7804,7 +7852,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 283026,
       "name": "\u9ce5\u7c60\u30b9\u30af\u30ea\u30d7\u30c1\u30e5\u30a2",
       "url": "https://open.spotify.com/track/5w3ZSoyDhnTXx9xEFRWAM5"

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-258 songs - 13 hr 18 min
+259 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Cadê Aquele Nosso Amor \- Ao Vivo](https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:04 | 2023-12-09 | 2024-03-02 |
 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 | 2023-09-01 |  |
 | [calma](https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 4:03 | 2023-11-10 | 2024-03-09 |
+| [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 | 2024-12-06 |  |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 | 2023-06-24 |
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-11-18 | 2024-03-23 |
 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 | 2022-11-18 | 2024-04-13 |
@@ -89,7 +90,7 @@
 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 | 2023-01-13 | 2023-03-25 |
 | [FAMOSA](https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Busco Romance Love Show](https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1) | 3:21 | 2024-11-29 |  |
 | [Farei](https://open.spotify.com/track/1AwqQGjNSlPN9X7Iu4Yx30) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0) | [Farei](https://open.spotify.com/album/2RTRWw4hiYWbnz0ww1Gumu) | 3:06 | 2024-03-29 | 2024-04-13 |
-| [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 |  |
+| [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 | 2023-02-17 | 2024-12-07 |
 | [Fora do Normal](https://open.spotify.com/track/08r830LTmYYj6GoF5tstkB) | [DeLua](https://open.spotify.com/artist/2b3FIonB346s5kYHaPxqKq), [Tory](https://open.spotify.com/artist/0Cscqd4XordWPh05d8PkRy) | [Fora do Normal](https://open.spotify.com/album/6fwX4GAEynh8TUJvLInkhT) | 2:53 | 2023-11-10 | 2023-12-05 |
 | [Forasteiro](https://open.spotify.com/track/2y3cSgjC0OJm18XCTAYL64) | [Matheus Telles](https://open.spotify.com/artist/3N6sxbTtkfFYeTHr8RO2qS) | [Forasteiro](https://open.spotify.com/album/4zOhy2vPHpmepLnLm8uTCA) | 2:58 | 2023-08-11 | 2023-09-02 |
 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-10-27 |  |

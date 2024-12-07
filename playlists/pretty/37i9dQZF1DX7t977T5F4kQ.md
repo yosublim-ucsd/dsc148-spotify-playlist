@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Quamina MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,033 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,052 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 19 | [Wash](https://open.spotify.com/track/68oHERGzh4T91Po4WYjz2k) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Wash](https://open.spotify.com/album/5L4ALYCh557ihUVxHiG27b) | 2:43 |
 | 20 | [Into The Future](https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu) | 2:30 |
 | 21 | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Rugged 2.0 \(with Olivetheboy\)](https://open.spotify.com/album/0YLqst6MXpMNNyVtZKJPQb) | 2:28 |
-| 22 | [Grateful To Your Ex](https://open.spotify.com/track/3KnWRzfFyx5qljyeTRrbDU) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Grateful To Your Ex](https://open.spotify.com/album/74tjt18cIuiJqtfMGK0LzX) | 3:15 |
-| 23 | [Canopy](https://open.spotify.com/track/6HWx6dqKPfThbHIt79oBus) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Canopy](https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV) | 2:34 |
-| 24 | [Jesus Christ](https://open.spotify.com/track/0Au5PSC5WR6PajhnCBogle) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [Jesus Christ](https://open.spotify.com/album/0g81DgWVnrSCOuOjLg3nyB) | 3:10 |
-| 25 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
-| 26 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
-| 27 | [asem](https://open.spotify.com/track/0G2fnj3aEvWLBfte6LkUyp) | [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [asem](https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e) | 2:12 |
+| 22 | [Grenade](https://open.spotify.com/track/0nWYAK1qFKvHbgxrFTk9K2) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Grenade](https://open.spotify.com/album/0OiEbUGg5kepKCT4CAVpmW) | 3:13 |
+| 23 | [Grateful To Your Ex](https://open.spotify.com/track/3KnWRzfFyx5qljyeTRrbDU) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Grateful To Your Ex](https://open.spotify.com/album/74tjt18cIuiJqtfMGK0LzX) | 3:15 |
+| 24 | [Canopy](https://open.spotify.com/track/6HWx6dqKPfThbHIt79oBus) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Canopy](https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV) | 2:34 |
+| 25 | [Jesus Christ](https://open.spotify.com/track/0Au5PSC5WR6PajhnCBogle) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [Jesus Christ](https://open.spotify.com/album/0g81DgWVnrSCOuOjLg3nyB) | 3:10 |
+| 26 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
+| 27 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 |
 | 28 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
 | 29 | [LIQUOR](https://open.spotify.com/track/5O1XtrzDEnzuCCVCub26fb) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [LIQUOR](https://open.spotify.com/album/6MahyLFpyrepCcvRDc4g1Q) | 2:28 |
 | 30 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [MY STORY](https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [MY STORY](https://open.spotify.com/album/5j0aGzyIav244lIvycbjVI) | 2:27 |
 | 80 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 |
 
-Snapshot ID: `Z0kEPAAAAAA8j8WLt1sppvfzzZsi/Es2`
+Snapshot ID: `Z1KTLgAAAADmkAujHmBYFM1XiEnoFgJV`

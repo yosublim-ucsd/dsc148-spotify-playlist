@@ -4,7 +4,7 @@
 
 > The best new Irish alternative sounds\. Cover: Soda Blonde
 
-108 songs - 6 hr 21 min
+110 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [Baked Cheesecake](https://open.spotify.com/track/2f9blujS4WOKvmQ50k2TqU) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | [Berlin](https://open.spotify.com/album/7dLIT8Z8tQOguvIlYTfqpv) | 3:58 | 2024-06-20 | 2024-07-13 |
 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 | 2024-06-20 | 2024-07-13 |
 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-06-20 |  |
+| [Boy Racer](https://open.spotify.com/track/4qnoNv96JSCMtKJq1Mrpfe) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Boy Racer](https://open.spotify.com/album/5TXEsw0Amvt0fdQgyyocQU) | 3:39 | 2024-12-06 |  |
 | [boyfriend](https://open.spotify.com/track/4rRWj00dK0kN9BZqI6wYY9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:54 | 2024-10-08 |  |
 | [Bring Heaven](https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp) | [Mjeam](https://open.spotify.com/artist/4agfjDmBH4Xpqr2tNRKlWn) | [Bring Heaven](https://open.spotify.com/album/6cdkEDv8szrzO4SNkYXYmV) | 2:26 | 2024-06-20 |  |
+| [Call In A Minute](https://open.spotify.com/track/4PeH1pAYSSTLEZeJlktNAb) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Call In A Minute](https://open.spotify.com/album/7IJ170Evsc2KYVWH0Z58CJ) | 2:59 | 2024-12-06 |  |
 | [Camera Shy](https://open.spotify.com/track/2C1JgukgvDi86aODDZrSp2) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Camera Shy](https://open.spotify.com/album/2ypzTHQbRGdXGrujQvkXzt) | 3:31 | 2024-06-20 | 2024-07-13 |
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-20 |  |
 | [Choose Life](https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF) | [Shark School](https://open.spotify.com/artist/39fpkhOwJADA84IcUobmAh) | [Choose Life](https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq) | 4:01 | 2024-10-08 |  |
@@ -93,7 +95,7 @@
 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 | 2024-06-20 |  |
 | [Stereo Games](https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Stereo Games](https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP) | 2:31 | 2024-07-18 |  |
 | [Suffer](https://open.spotify.com/track/06C3FmOECOes9MhxKvT7US) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:31 | 2024-06-20 |  |
-| [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2024-06-20 |  |
+| [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2024-06-20 | 2024-12-07 |
 | [Supermum!](https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG) | [Adore](https://open.spotify.com/artist/4BwY0FjNdkoWef8kixy54M) | [Supermum!](https://open.spotify.com/album/04YstcjLsBBfbByvQBM78O) | 3:16 | 2024-09-05 |  |
 | [switching tongues](https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [switching tongues](https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8) | 2:29 | 2024-06-20 | 2024-09-06 |
 | [Talk To](https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv) | [Sheerbuzz](https://open.spotify.com/artist/66Jf8kE6FvL3FiLHD0lWTY) | [Talk To](https://open.spotify.com/album/3CNF54cH33278EJcku3gXI) | 4:31 | 2024-06-20 | 2024-07-19 |
@@ -114,7 +116,7 @@
 | [WELL ENOUGH!](https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW) | [fiiVVVEE!](https://open.spotify.com/artist/44yvXn4JmArldmKRaq6L6Q), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [WELL ENOUGH!](https://open.spotify.com/album/5a2AjxUtgdtfWLhooKnF6q) | 3:13 | 2024-09-05 |  |
 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 | 2024-06-20 |  |
 | [why don't u like me anymore?](https://open.spotify.com/track/70VQZmJsY927oN249j8Czv) | [thanks mom](https://open.spotify.com/artist/3vcuC4PZIUr3AVzbJvvHmD) | [why don't u like me anymore?](https://open.spotify.com/album/03eD81EVF26nuHjHzC9dzI) | 3:39 | 2024-08-15 |  |
-| [You Say You Won't](https://open.spotify.com/track/3UlUAEdJiku8r0E0YEEvjY) | [HAVVK](https://open.spotify.com/artist/0up20da9ITwCzq8Qv9JTCB) | [You Say You Won't](https://open.spotify.com/album/2sxtUQm9mQsbMgQvesRgqb) | 4:01 | 2024-06-20 |  |
+| [You Say You Won't](https://open.spotify.com/track/3UlUAEdJiku8r0E0YEEvjY) | [HAVVK](https://open.spotify.com/artist/0up20da9ITwCzq8Qv9JTCB) | [You Say You Won't](https://open.spotify.com/album/2sxtUQm9mQsbMgQvesRgqb) | 4:01 | 2024-06-20 | 2024-12-07 |
 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-06-20 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1,33 +1,13 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2769,
+  "num_followers": 2772,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAADVHijsXCU5AGS6rzC5G6cE",
+  "snapshot_id": "Z1DtAAAAAADuBSnFbsVUgfRgE9a4BlQI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beyond (End Credit Version) [From \"Vaiana 2\"]",
-        "url": "https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Beyond (End Credit Version) - From \"Vaiana 2\"",
-      "url": "https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH"
-    },
     {
       "added_at": null,
       "album": {
@@ -91,6 +71,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beyond (End Credit Version) [From \"Moana 2\"]",
+        "url": "https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Beyond (End Credit Version) - From \"Moana 2\"",
+      "url": "https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moana 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y"
       },
@@ -131,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 187960,
-      "name": "Apex Predator",
-      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -183,6 +167,26 @@
       "duration_ms": 210320,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Apex Predator",
+      "url": "https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf"
     },
     {
       "added_at": null,
@@ -239,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
-        }
-      ],
-      "duration_ms": 176515,
-      "name": "I'd Rather Be Me",
-      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -291,6 +275,26 @@
       "duration_ms": 72626,
       "name": "Know Who You Are",
       "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
+        }
+      ],
+      "duration_ms": 176515,
+      "name": "I'd Rather Be Me",
+      "url": "https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR"
     },
     {
       "added_at": null,
@@ -347,6 +351,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mean Girls (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
       },
@@ -375,30 +403,6 @@
       "duration_ms": 285221,
       "name": "Revenge Party",
       "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "I Am Moana (Song of the Ancestors)",
-      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
     },
     {
       "added_at": null,
@@ -435,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Jaquel Spivey",
-          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        }
-      ],
-      "duration_ms": 68692,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise Season 1: The Album (Music from the TV Series)",
         "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
@@ -471,6 +455,26 @@
       "duration_ms": 278040,
       "name": "Perfect - Rise Cast Version",
       "url": "https://open.spotify.com/track/7Jt9Y3buDflRaSSuy20Byh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Jaquel Spivey",
+          "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        }
+      ],
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -531,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Who Bore Me (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 120960,
+      "name": "Mama Who Bore Me - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
       },
@@ -551,26 +575,6 @@
       "duration_ms": 147952,
       "name": "Glorious - Rise Cast Version",
       "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Who Bore Me (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Mama Who Bore Me - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
     },
     {
       "added_at": null,

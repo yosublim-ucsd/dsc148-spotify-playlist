@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-651 songs - 1 day 4 hr 21 min
+653 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Never Enough](https://open.spotify.com/track/0asIZr1ITQrGQLVT9vmdld) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG), [Harmless Night](https://open.spotify.com/artist/0vGdi8zNID6cg6Ua9ksmyQ) | [Never Enough](https://open.spotify.com/album/4cH4VMzQkEbIHTXgy8HknL) | 2:30 | 2024-11-04 |  |
 | [Never Found It](https://open.spotify.com/track/5vz1ItCx8S2bZWbfjk4ESo) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Never Found It](https://open.spotify.com/album/6FU7w4Ecf0uA6fQXiDH1B0) | 2:44 | 2024-01-20 | 2024-02-26 |
 | [Neverland](https://open.spotify.com/track/6YlVsp5W6vj81HINKAgneT) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/3E3SrMSgjWqgKXNafEOqVn) | 2:40 | 2023-09-22 | 2024-07-31 |
+| [New Day](https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [New Day](https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT) | 2:30 | 2024-12-06 |  |
 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 | 2024-04-05 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 | 2024-11-24 |  |
 | [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2023-09-22 | 2024-07-05 |
@@ -588,6 +589,7 @@
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2024-07-30 | 2024-12-02 |
 | [Too Hot For You To Hold](https://open.spotify.com/track/3nZBJJT2efeQ89JRK50lDC) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Jessie Villa](https://open.spotify.com/artist/17f6GZLFTD3ImVTQGyA9gX) | [Too Hot For You To Hold](https://open.spotify.com/album/2JRLofOR1HIZjXMfh7dntu) | 2:23 | 2024-10-06 |  |
 | [Too Sweet](https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Too Sweet](https://open.spotify.com/album/5RapO0NBTef1Od1UnEIOlH) | 3:10 | 2024-08-19 |  |
+| [Tore Me Up](https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Treyy G](https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG), [BUBU](https://open.spotify.com/artist/0xhrjgTOUmwlMjRMZXmMWI) | [Tore Me Up](https://open.spotify.com/album/13QC7gtblaL6HDfPGEejIu) | 2:53 | 2024-12-06 |  |
 | [Tried To Forget You](https://open.spotify.com/track/5VY6tNKCh3Xws16GXFMQMn) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4), [colormeblue.](https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev) | [Tried To Forget You](https://open.spotify.com/album/0gLOn1qRKayW4wBTU9baxc) | 2:22 | 2024-03-01 | 2024-05-13 |
 | [Trouble](https://open.spotify.com/track/5RcwBBCCWOEWefMm3fZ9TS) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Trouble](https://open.spotify.com/album/0cIMyPk6NZPLjhIlrMsB5Z) | 2:52 | 2024-09-01 | 2024-10-14 |
 | [Two Souls](https://open.spotify.com/track/675JuODU5OxqTl1k4NaN4q) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [LeXxìv](https://open.spotify.com/artist/20JtkFH7pG8FJxd0hL63LS) | [Two Souls](https://open.spotify.com/album/4JjhoZajszdZySSVukCA5N) | 2:30 | 2024-05-12 | 2024-06-24 |

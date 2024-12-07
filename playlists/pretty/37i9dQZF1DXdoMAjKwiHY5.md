@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoMAjKwiHY5.md) - [plain]
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,953 likes - 77 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,983 likes - 77 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

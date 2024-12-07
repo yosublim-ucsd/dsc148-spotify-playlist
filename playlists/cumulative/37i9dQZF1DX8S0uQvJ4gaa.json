@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Cameron Whitcomb",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Tucker Wetmore",
   "name": "New Boots",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193040,
       "name": "Acres",
       "url": "https://open.spotify.com/track/2QUuvRYxQd0X0AHZKUmkzO"
@@ -1146,6 +1146,24 @@
       "duration_ms": 156720,
       "name": "Ain't Enough Cowboy",
       "url": "https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL"
+    },
+    {
+      "album": {
+        "name": "Ain't Enough Cowboy Songs",
+        "url": "https://open.spotify.com/album/30A8n5nBkZblU0sBVhQzrm"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Ain't Enough Cowboy Songs",
+      "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
     },
     {
       "album": {
@@ -5543,6 +5561,24 @@
     },
     {
       "album": {
+        "name": "Can't Hold Me Down",
+        "url": "https://open.spotify.com/album/7ioK2ZwDQF6pvH3E7VpSJn"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "Can't Hold Me Down",
+      "url": "https://open.spotify.com/track/1sGKLpzG59d2aoXT8V2CDw"
+    },
+    {
+      "album": {
         "name": "Can't Miss You Anymore",
         "url": "https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx"
       },
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 214800,
       "name": "CHUCK TAYLORS",
       "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
@@ -6969,6 +7005,24 @@
     },
     {
       "album": {
+        "name": "Country Till I Die",
+        "url": "https://open.spotify.com/album/0jJ9YbIbrkY0jyQrye8O4u"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Country Till I Die",
+      "url": "https://open.spotify.com/track/1AwFtV87jGkDKHLm7OZcea"
+    },
+    {
+      "album": {
         "name": "Country'd Look Good On You",
         "url": "https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO"
       },
@@ -7128,7 +7182,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 160646,
       "name": "Cowboy Break My Heart",
       "url": "https://open.spotify.com/track/0OWjq1RpEPwLErq7yiotxm"
@@ -8988,6 +9042,24 @@
       "duration_ms": 228640,
       "name": "Don\u2019t Wanna Write This Song",
       "url": "https://open.spotify.com/track/0BteLcimTI0usYZ2L2zQaZ"
+    },
+    {
+      "album": {
+        "name": "Wait Til I Get My Money Up",
+        "url": "https://open.spotify.com/album/3rhjUhXZ861CypUDrtInyl"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158872,
+      "name": "Doublewide",
+      "url": "https://open.spotify.com/track/1wyo9YyrlQLiYfS9KX90cV"
     },
     {
       "album": {
@@ -20617,6 +20689,24 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/5IzKWTdg4NBdyUTyYJBDUb"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169838,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/22iwbZQN8Mg7NkDr3OephE"
+    },
+    {
+      "album": {
         "name": "Last Night Lonely",
         "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
       },
@@ -24164,7 +24254,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 177981,
       "name": "MONEY CAN'T BUY",
       "url": "https://open.spotify.com/track/3vOTGv3UFjkL5Rjxlvv5XY"
@@ -29952,6 +30042,28 @@
       "duration_ms": 197400,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/2YJhx8ELWI0Pr00p1tc3HW"
+    },
+    {
+      "album": {
+        "name": "Roses and Wolves (feat. Hailey Whitters)",
+        "url": "https://open.spotify.com/album/6bzDZs590US2jx1OyZroM1"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Roses and Wolves (feat. Hailey Whitters)",
+      "url": "https://open.spotify.com/track/0Q9ILgShrEv0ap5YIaMAC7"
     },
     {
       "album": {
@@ -36918,7 +37030,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 172125,
       "name": "Thoughts of You",
       "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
@@ -42624,7 +42736,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 179266,
       "name": "You'd Think I Was A Cowboy",
       "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"

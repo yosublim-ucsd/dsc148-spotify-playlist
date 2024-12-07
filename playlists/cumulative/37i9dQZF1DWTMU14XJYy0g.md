@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre\. Foto: Los Caballeros de la Quema.
+> Más vivo que nunca, más nuestro que siempre\. Foto: Airbag.
 
-330 songs - 20 hr 27 min
+331 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ama a Quien Llora por Ti](https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ama a Quien Llora por Ti](https://open.spotify.com/album/6ER89S7vm5NODaRvJ5dl0Z) | 4:09 | 2023-01-20 |  |
 | [Amnesia](https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE) | [Francia 98](https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu) | [Amnesia](https://open.spotify.com/album/4OMEnSsFgeenZiIVNjBIn6) | 3:47 | 2024-10-18 |  |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
+| [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 |  |
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 | 2024-04-06 |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 | 2022-12-17 |

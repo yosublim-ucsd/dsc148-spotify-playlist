@@ -6,7 +6,7 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAhIxo7fYHXG32i4YzFfm74Je3t+XCs",
+  "snapshot_id": "AAAhLh8VyAb0uE2cGxZRcd3sH1XiQBEc",
   "tracks": [
     {
       "added_at": "2024-12-05 21:38:58",
@@ -119,6 +119,90 @@
       "duration_ms": 150399,
       "name": "Now That I'm Gone",
       "url": "https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT"
+    },
+    {
+      "added_at": "2024-12-06 15:04:56",
+      "album": {
+        "name": "2 hands (Don Diablo remix)",
+        "url": "https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "2 hands - Don Diablo remix",
+      "url": "https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx"
+    },
+    {
+      "added_at": "2024-12-06 15:09:03",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 144024,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb"
+    },
+    {
+      "added_at": "2024-12-06 17:58:19",
+      "album": {
+        "name": "come aliv3",
+        "url": "https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "come aliv3",
+      "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
+    },
+    {
+      "added_at": "2024-12-06 18:03:14",
+      "album": {
+        "name": "Give It Up For Me (The Remixes)",
+        "url": "https://open.spotify.com/album/7g7pY4oWQsWBzHAfl2CxdJ"
+      },
+      "artists": [
+        {
+          "name": "Sydney Blu",
+          "url": "https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb"
+        },
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 378857,
+      "name": "Give It Up for Me - deadmau5 Remix",
+      "url": "https://open.spotify.com/track/2x37fnWK7aoxObPkTX1OK2"
     },
     {
       "added_at": "2024-12-05 21:38:58",
@@ -1007,22 +1091,6 @@
     {
       "added_at": "2024-12-05 21:38:58",
       "album": {
-        "name": "Kiss & Forget",
-        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 218929,
-      "name": "You Belong To No-One",
-      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
-    },
-    {
-      "added_at": "2024-12-05 21:38:58",
-      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/4lWuS2YNiLaGFQb4dBUqSG"
       },
@@ -1067,30 +1135,6 @@
     {
       "added_at": "2024-12-05 21:38:58",
       "album": {
-        "name": "Mohobbat (Love)",
-        "url": "https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN"
-      },
-      "artists": [
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
-        },
-        {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 208699,
-      "name": "Mohobbat - Love",
-      "url": "https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK"
-    },
-    {
-      "added_at": "2024-12-05 21:38:58",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -1107,26 +1151,6 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2024-12-05 21:38:58",
-      "album": {
-        "name": "Youngblood (feat. Josh Breaks)",
-        "url": "https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Josh Breaks",
-          "url": "https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Youngblood (feat. Josh Breaks)",
-      "url": "https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg"
     },
     {
       "added_at": "2024-12-05 21:38:58",

@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/3lwSfz7ZkKFyVFiuJ5IVhT"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152516,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/1Oa80BFtliBEru0KgxwJx5"
+    },
+    {
+      "album": {
         "name": "Angel o Demonio",
         "url": "https://open.spotify.com/album/1rrKKryerzTqOR7BZ0lARv"
       },
@@ -686,7 +708,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183333,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
@@ -1557,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "EL KARMA (Remix)",
+        "url": "https://open.spotify.com/album/24WqSqxlxukWGqFdNQ3oTz"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        },
+        {
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178163,
+      "name": "EL KARMA - Remix",
+      "url": "https://open.spotify.com/track/2vvueBffS7Mb0HHLJZ8lBc"
+    },
+    {
+      "album": {
         "name": "Por Siempre (Deluxe)",
         "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
       },
@@ -1674,6 +1718,28 @@
       "duration_ms": 188642,
       "name": "El Provinciano",
       "url": "https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi"
+    },
+    {
+      "album": {
+        "name": "El Tierno",
+        "url": "https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "El Tierno",
+      "url": "https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf"
     },
     {
       "album": {
@@ -2404,7 +2470,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180681,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/47v4Q3tdPs89izWCpbuFpG"
@@ -2826,7 +2892,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189383,
       "name": "Mari y Rosa",
       "url": "https://open.spotify.com/track/0NIyKzh4jfODflFBOD2t5Y"
@@ -3269,6 +3335,24 @@
     },
     {
       "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/49XfluuOcJpZUTJJnqinZe"
+      },
+      "artists": [
+        {
+          "name": "Shaira",
+          "url": "https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188836,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/6pH8GcHpA5GETCVHsrPitk"
+    },
+    {
+      "album": {
         "name": "Mor\u00ed",
         "url": "https://open.spotify.com/album/3xTefPNi5demDd4X2s4nch"
       },
@@ -3392,7 +3476,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 153442,
       "name": "Next",
       "url": "https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7"

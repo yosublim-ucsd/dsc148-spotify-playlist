@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 599717,
+  "num_followers": 599790,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Wilmersdorfs Kind",
-        "url": "https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        }
-      ],
-      "duration_ms": 155722,
-      "name": "IMMER (MIT MAKKO)",
-      "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "Wilmersdorfs Kind",
+        "url": "https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "duration_ms": 155722,
+      "name": "IMMER (MIT MAKKO)",
+      "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "UNISEXKLO",
-        "url": "https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        }
-      ],
-      "duration_ms": 126542,
-      "name": "UNISEXKLO",
-      "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "UNISEXKLO",
+        "url": "https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "duration_ms": 126542,
+      "name": "UNISEXKLO",
+      "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
         "name": "Paradies",
         "url": "https://open.spotify.com/album/6Kyd3AsrRrRo3SZQ94E4fy"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 137592,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/3o56QtQiW1m2Uaeri2XzJj"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2024-11-18 11:35:06",

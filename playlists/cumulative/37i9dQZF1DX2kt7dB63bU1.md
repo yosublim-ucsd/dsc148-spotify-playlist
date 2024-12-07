@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-793 songs - 2 day 7 hr 17 min
+794 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Blue Moon](https://open.spotify.com/track/4yzx7CiAFb4UlV16G7iBpn) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Laura Goes East](https://open.spotify.com/album/0ktGkuJRuBSqGmNZ0wOCw1) | 2:49 | 2022-02-18 | 2023-02-25 |
 | [Blue Skies \- 2020 Version](https://open.spotify.com/track/675SQS6E9PN07pr9uRi035) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Blue Skies \(2020 Version\)](https://open.spotify.com/album/16vwSCKg3gEM135dvvZfrQ) | 2:40 | 2020-10-09 | 2022-02-19 |
 | [Bluebells](https://open.spotify.com/track/5TPEYe7fvQ6gBQtt6g6ig5) | [Dasha Beets](https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh) | [Bach…because](https://open.spotify.com/album/0d7q0bfcEDPcyk3NegqNsN) | 4:05 | 2022-04-08 | 2022-06-26 |
-| [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 | 2023-07-14 |  |
+| [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 | 2023-07-14 | 2024-12-07 |
 | [Bonita](https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Bonita](https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00) | 4:13 | 2021-03-26 | 2022-07-29 |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2021-03-26 | 2022-10-08 |
 | [Break in the Clouds](https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Break in the Clouds](https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb) | 3:25 | 2024-07-12 |  |
@@ -799,6 +799,7 @@
 | [You're the Top](https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You're the Top](https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29) | 4:08 | 2024-01-12 |  |
 | [You've Changed](https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 6:44 | 2020-10-09 | 2022-02-18 |
 | [You've Changed \- Big Band](https://open.spotify.com/track/19GyWK5SuwYomTcCjTqAXs) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [You've Changed \(Big Band\)](https://open.spotify.com/album/41RPmDkYKxvoZCGLd73JnP) | 3:56 | 2023-06-23 | 2024-02-24 |
+| [Your Love Is Home](https://open.spotify.com/track/6qFZF9ptbBvmsBKgN9MNF9) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [Your Love Is Home](https://open.spotify.com/album/5v3mkKCbt69luTADFPX4ud) | 5:17 | 2024-12-06 |  |
 | [Zanzibar](https://open.spotify.com/track/3yMQn0JNS030wY5vRIIcGj) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN), [Magnus Hjorth](https://open.spotify.com/artist/4yEsEUD37Jvk7MadM3XZVP), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Tira Skamby](https://open.spotify.com/artist/1BpQuxYEPKxsGWaatsJw54) | [Why Not?](https://open.spotify.com/album/2lSlGtVME4XL0lqDzq1HOI) | 4:30 | 2021-05-21 | 2022-02-17 |
 | [À La Tour Eiffel](https://open.spotify.com/track/71RkxMNJzFk80bo0p4OFnp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 3:53 | 2022-05-20 | 2023-06-10 |
 

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Christmas Cheer",
+        "url": "https://open.spotify.com/album/26FmKJDWKFfoE8PQJy4PiY"
+      },
+      "artists": [
+        {
+          "name": "Full Cord",
+          "url": "https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164950,
+      "name": "Christmas Cheer",
+      "url": "https://open.spotify.com/track/3CyOBD3VqRIuZuYVTzBvVx"
+    },
+    {
+      "album": {
         "name": "A Christmas Heritage",
         "url": "https://open.spotify.com/album/2VcWxkkesGAvcSvIoHrxtS"
       },
@@ -518,6 +536,24 @@
       "duration_ms": 143026,
       "name": "Come Some Winter Morning (feat. The Kruger Brothers)",
       "url": "https://open.spotify.com/track/0qr7fSpAjaQQxRMzRqJ2UW"
+    },
+    {
+      "album": {
+        "name": "Holiday Favorites, Vol. 1",
+        "url": "https://open.spotify.com/album/44GpvHR3xiFQeSEcGJz3rd"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "Country Christmas",
+      "url": "https://open.spotify.com/track/2mzMt5gDXzQNliZhDMe93f"
     },
     {
       "album": {
@@ -1299,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "Tinsel Tunes - More Holiday Treats From Sugar Hill",
+        "url": "https://open.spotify.com/album/1r9igVbo3vaHZcYp93Zdei"
+      },
+      "artists": [
+        {
+          "name": "Kathy Kallick",
+          "url": "https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv"
+        },
+        {
+          "name": "The Little Big Band",
+          "url": "https://open.spotify.com/artist/3qnuCCOcPgulo917yEeohe"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Ring The Bells At Midnight",
+      "url": "https://open.spotify.com/track/5l7iiRFUSfOV2nJGb1Asgf"
+    },
+    {
+      "album": {
         "name": "Blue Mountain Christmas",
         "url": "https://open.spotify.com/album/28gGT3QnLg1Bmnmv7OYtf8"
       },
@@ -1878,6 +1936,24 @@
       "duration_ms": 208532,
       "name": "Winter Warm",
       "url": "https://open.spotify.com/track/3ERqxX6svXVSpM4IaOyexN"
+    },
+    {
+      "album": {
+        "name": "A Very Merry Christmas, Vol.1",
+        "url": "https://open.spotify.com/album/18nomoeAFrD7TlgXl1Vasu"
+      },
+      "artists": [
+        {
+          "name": "Jason Broyles",
+          "url": "https://open.spotify.com/artist/0biQlMnxfmZJbIU8COQyrp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/6EQxEuhwcGJ2aZ7wPdQxTV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8eSKQLYj7yU"

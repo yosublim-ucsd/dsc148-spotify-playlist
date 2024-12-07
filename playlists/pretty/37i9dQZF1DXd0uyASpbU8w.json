@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=-t9MEyv5QyW_fRmtAP6l0w\">Uncle Waffles</a> ",
-  "num_followers": 107714,
+  "num_followers": 108336,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1IqBAAAAAAKx/YSy1GWrfazOejY8NPQ",
+  "snapshot_id": "Z1LL3wAAAABiaKQ6p+msQE01qvTbC4m2",
   "tracks": [
     {
       "added_at": "2024-12-05 22:32:36",
@@ -305,6 +305,26 @@
       "url": "https://open.spotify.com/track/06Q3EYMkRjqe5K3lSKABtN"
     },
     {
+      "added_at": "2024-12-06 10:03:11",
+      "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 151786,
+      "name": "Make It Up To You (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
+    },
+    {
       "added_at": "2024-12-05 22:32:36",
       "album": {
         "name": "Linda",
@@ -431,6 +451,30 @@
       "duration_ms": 433401,
       "name": "Wondaba zabantu (feat. Zeenhle & Ndoose sa)",
       "url": "https://open.spotify.com/track/62i5wykFOxK03k080AHhv2"
+    },
+    {
+      "added_at": "2024-12-06 05:56:36",
+      "album": {
+        "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+        "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+      "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
     },
     {
       "added_at": "2024-12-05 22:32:36",
@@ -615,6 +659,26 @@
       "duration_ms": 205764,
       "name": "OULIK",
       "url": "https://open.spotify.com/track/4HtPtwXvgfk0Rg0ZMWNgoS"
+    },
+    {
+      "added_at": "2024-12-05 22:32:36",
+      "album": {
+        "name": "Alpha Omega",
+        "url": "https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lex Luger",
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Alpha Omega",
+      "url": "https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3"
     },
     {
       "added_at": "2024-12-05 22:32:36",
@@ -875,30 +939,6 @@
       "duration_ms": 535415,
       "name": "Asilwi Nabantu (feat. Mr.Maker & Psycho Sax)",
       "url": "https://open.spotify.com/track/5ePV9o8pntckSwvfCsMQDl"
-    },
-    {
-      "added_at": "2024-12-05 22:32:36",
-      "album": {
-        "name": "Teboho",
-        "url": "https://open.spotify.com/album/5ooO7rSgrIstXIzmKiEeJM"
-      },
-      "artists": [
-        {
-          "name": "Bandros",
-          "url": "https://open.spotify.com/artist/5yR5c8xnUVQDP3UDqfjhZd"
-        },
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Babalwa M",
-          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
-        }
-      ],
-      "duration_ms": 373973,
-      "name": "Amandla Akho",
-      "url": "https://open.spotify.com/track/4jL2CM75WZRRsu9634bo0Z"
     },
     {
       "added_at": "2024-12-05 22:32:36",
@@ -1279,26 +1319,6 @@
     {
       "added_at": "2024-12-05 22:32:36",
       "album": {
-        "name": "Alpha Omega",
-        "url": "https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "Alpha Omega",
-      "url": "https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3"
-    },
-    {
-      "added_at": "2024-12-05 22:32:36",
-      "album": {
         "name": "Dream Syndrome (Season 1)",
         "url": "https://open.spotify.com/album/7uBtJ5fKJhLBK0yXC6KeEU"
       },
@@ -1511,6 +1531,22 @@
       "duration_ms": 346648,
       "name": "Hlabelela",
       "url": "https://open.spotify.com/track/1H4NvEEDSIic0ITKhNVaBX"
+    },
+    {
+      "added_at": "2024-12-05 22:32:36",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/6eJvIgNkuHqGT3lSfg4zIr"
+      },
+      "artists": [
+        {
+          "name": "Miss Sxvage",
+          "url": "https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo"
+        }
+      ],
+      "duration_ms": 101050,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/7rlLYrT5KNqrx4Zk0PS7Ug"
     },
     {
       "added_at": "2024-12-05 22:32:36",

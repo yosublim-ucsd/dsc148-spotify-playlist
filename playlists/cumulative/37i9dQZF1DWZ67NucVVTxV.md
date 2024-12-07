@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-642 songs - 1 day 6 hr 53 min
+643 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [SWAG \(feat\. O'Kenneth, Reggie, Jay Bahd & Kawabanga\)](https://open.spotify.com/album/4jVT3IHYxo6EFIMpaMRrsp) | 2:54 | 2022-11-25 | 2023-01-20 |
 | [Taku](https://open.spotify.com/track/4WLDsffcuTVCcuxUuCzKtm) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Taku](https://open.spotify.com/album/5atDupZQP8V0pZBVnKmyQK) | 2:28 | 2024-08-30 | 2024-09-28 |
 | [Talk](https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Talk](https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL) | 3:16 | 2024-10-25 |  |
-| [Tatanu](https://open.spotify.com/track/0Rdhb7QUMUlCSsBYrcVp5b) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Tatanu](https://open.spotify.com/album/2FW7MmZrnhiPraR3MSAagZ) | 3:17 | 2024-11-29 |  |
+| [Tatanu](https://open.spotify.com/track/0Rdhb7QUMUlCSsBYrcVp5b) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Tatanu](https://open.spotify.com/album/2FW7MmZrnhiPraR3MSAagZ) | 3:17 | 2024-11-29 | 2024-12-07 |
 | [Taya](https://open.spotify.com/track/70NWXrs5axUxvl866fPXNq) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Kayswitch](https://open.spotify.com/artist/3FygTCDrrBXvQ6hMegQL72), [Specikinging](https://open.spotify.com/artist/4d2sq69ImlTGjVFsAwVwLd) | [Taya](https://open.spotify.com/album/5ukybcd54gxcfFpZUAs6im) | 2:48 | 2024-04-12 | 2024-04-19 |
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-07 | 2024-06-15 |
 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 | 2023-05-04 | 2023-06-17 |
@@ -625,6 +625,7 @@
 | [WHAT IF](https://open.spotify.com/track/2Z3N0nsTinkIRUBBmLNKjA) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [WHAT IF](https://open.spotify.com/album/24oJgwPkHYe27PQ8kaz4Y9) | 2:16 | 2024-11-29 |  |
 | [Whateva](https://open.spotify.com/track/71dF8V3CxGANvLOTWxThF7) | [Marz BGX](https://open.spotify.com/artist/1la0AGaLZ4v7WSjS99nAps) | [Whateva](https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt) | 2:49 | 2023-06-02 | 2023-08-04 |
 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 | 2024-08-29 |  |
+| [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 | 2024-12-06 |  |
 | [Who Knows Tomorrow](https://open.spotify.com/track/2eWUSvBfYbiMU4Ihk4yKrj) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Who Knows Tomorrow](https://open.spotify.com/album/7JfSTfghTIKpBgb8TBVTw1) | 3:01 | 2023-05-04 | 2023-05-12 |
 | [Who We See](https://open.spotify.com/track/36OnfuDiPeEv3H1ubvTGuw) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Jamopyper](https://open.spotify.com/album/1BBPS3NNluXVn7x7fM5VTT) | 3:17 | 2023-07-20 | 2023-07-29 |
 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 | 2021-09-17 | 2023-02-17 |

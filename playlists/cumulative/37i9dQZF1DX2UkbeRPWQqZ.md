@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-277 songs - 9 hr 22 min
+279 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-11 | 2022-10-15 |
 | [Golden Slumbers](https://open.spotify.com/track/2XCDCv6kc6Rg9u2xHoaNC8) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Golden Slumbers](https://open.spotify.com/album/6Go7jtmR2g1fxGcyHsC50H) | 1:51 | 2022-10-14 |  |
 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2021-11-11 | 2024-04-05 |
-| [Goodnight Moon](https://open.spotify.com/track/4ccNgPrStOC8rIjyprbnXQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Goodnight Moon](https://open.spotify.com/album/7dkatsU7jo86zN8rwfV0fp) | 2:49 | 2024-10-18 |  |
+| [Goodnight Moon](https://open.spotify.com/track/4ccNgPrStOC8rIjyprbnXQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Goodnight Moon](https://open.spotify.com/album/7dkatsU7jo86zN8rwfV0fp) | 2:49 | 2024-10-18 | 2024-12-07 |
 | [Goodnight Mr Bear](https://open.spotify.com/track/55LyKRj9oRi4HVHJsILhDf) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Goodnight Mr Bear](https://open.spotify.com/album/5jBxQMaffyQjCA7TmFJ8Fi) | 1:50 | 2021-11-11 | 2023-03-18 |
 | [Goodnight Mr Bear](https://open.spotify.com/track/6fqOTn42xRhdjyT7ehcgTN) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [Goodnight Mr Bear](https://open.spotify.com/album/70txSGxRXOEyzlzgUubh45) | 1:57 | 2022-10-14 | 2024-04-05 |
 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 | 2023-04-25 |  |
@@ -146,7 +146,7 @@
 | [Lavender's Blue](https://open.spotify.com/track/360yPQFkFfKEYmQ0uNdRF4) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Lavender's Blue](https://open.spotify.com/album/0fdgeJvBXNcFk8Jn07S2Ed) | 1:55 | 2023-01-27 |  |
 | [Le Fiacre \- Guitar Version](https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Le Fiacre \(Guitar Version\)](https://open.spotify.com/album/4ymz79UOyQjqwCHyE8oUw2) | 2:01 | 2023-05-19 |  |
 | [Lego Lego](https://open.spotify.com/track/1kxyDjsR44bTOnLDm9XyFV) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Lego Lego](https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR) | 2:17 | 2022-07-01 | 2023-06-16 |
-| [Little Birdie's Tune](https://open.spotify.com/track/1GVUqebQqD0nLFCYC7VX6a) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Little Birdie's Tune](https://open.spotify.com/album/3y4IYaoxGUGmfBwjq0ml1q) | 2:46 | 2023-04-25 |  |
+| [Little Birdie's Tune](https://open.spotify.com/track/1GVUqebQqD0nLFCYC7VX6a) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Little Birdie's Tune](https://open.spotify.com/album/3y4IYaoxGUGmfBwjq0ml1q) | 2:46 | 2023-04-25 | 2024-12-07 |
 | [Little Cat](https://open.spotify.com/track/49dGyHFqtk18QYnFQBxiA9) | [Rubin Briggs](https://open.spotify.com/artist/0WXzVGG7J8nQRMU8RFE4pH) | [Little Cat](https://open.spotify.com/album/08XXYoJQTcO9grlqO1H3Hf) | 1:40 | 2024-07-19 |  |
 | [Little Dreamer](https://open.spotify.com/track/2Bi78w0eDI0LLki6hL4kRy) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Little Dreamer](https://open.spotify.com/album/2hJ4XAJ27gU58YmEFatsgb) | 1:07 | 2023-03-17 | 2024-01-19 |
 | [Little Jack Horner](https://open.spotify.com/track/3CmTG34ua7Q7oFGxggNPuN) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:41 | 2021-11-11 | 2022-06-11 |
@@ -185,12 +185,13 @@
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-22 |  |
 | [Opsis Kalopsis](https://open.spotify.com/track/0oSUBTj88nvlfA7kGebnnH) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Sleepwalk](https://open.spotify.com/album/0wT9mHgg7rT03wWdih43rL) | 1:39 | 2023-03-17 | 2024-05-11 |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-11 | 2023-05-19 |
+| [Pirate Fabian \(Sjörövar\-Fabbe\)](https://open.spotify.com/track/6hJsbibFLOydQVfrKyacsS) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Pirate Fabian \(Sjörövar\-Fabbe\)](https://open.spotify.com/album/6HROajIVH9olEStM4Q4Q9A) | 2:02 | 2024-12-06 |  |
 | [Ponnien min](https://open.spotify.com/track/1mdc6ZxW3Gtbm4slVI41r8) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Ponnien min](https://open.spotify.com/album/2EIAPYeSvnmtjp4HUa28dM) | 2:14 | 2022-12-16 | 2023-09-01 |
 | [Pop Goes the Weasel](https://open.spotify.com/track/4EsbzD1hbc4Kk7utFWGwIV) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [Pop Goes the Weasel](https://open.spotify.com/album/5axZEOVm1BnlBFEcrEjjk3) | 1:18 | 2021-11-11 | 2023-08-11 |
 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 | 2021-11-11 | 2024-01-19 |
 | [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 | 2024-10-18 |  |
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2021-11-11 |  |
-| [Rainbow](https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Rainbow](https://open.spotify.com/album/3d6NOgTphkJbxHNtBtPyT5) | 1:15 | 2023-05-19 |  |
+| [Rainbow](https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Rainbow](https://open.spotify.com/album/3d6NOgTphkJbxHNtBtPyT5) | 1:15 | 2023-05-19 | 2024-12-07 |
 | [Ring Around The Rosie](https://open.spotify.com/track/67ATkKg9EIm2h6LRRSC2ZO) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Ring Around The Rosie](https://open.spotify.com/album/0RbeqCPbK4vxnzrZNDrzMa) | 1:39 | 2023-03-17 |  |
 | [Rockabye Baby](https://open.spotify.com/track/75Ts9hRtbg1AVGy9vRJtsK) | [Jeremy Weber](https://open.spotify.com/artist/5kG2I7kJM2vgorcUBEmdQX) | [Guitar Lullabies](https://open.spotify.com/album/1RYmiB1F57bwA1CYhOctwu) | 1:11 | 2021-11-11 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/2182KvEnqJQ6YfTmobpXwI) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Row Row Row Your Boat](https://open.spotify.com/album/1PvHQyoli2uqfZ2wS8YpO9) | 1:49 | 2023-05-19 |  |
@@ -226,6 +227,7 @@
 | [Stars From Afar](https://open.spotify.com/track/6xO6mruU9Ptgfm6VjA2cSa) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Cozy Evening](https://open.spotify.com/album/1QfZNlNZN8UIaervJMkTlp) | 2:48 | 2023-08-10 |  |
 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 | 2023-05-19 | 2023-09-02 |
 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 | 2022-06-10 | 2024-10-19 |
+| [Sunny Days](https://open.spotify.com/track/3HjletFkHbRp3LBzgKtGkF) | [Rubin Briggs](https://open.spotify.com/artist/0WXzVGG7J8nQRMU8RFE4pH) | [Sunny Days](https://open.spotify.com/album/0aikExd8M5vlQWE5703612) | 2:00 | 2024-12-06 |  |
 | [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 | 2023-03-17 |  |
 | [Sweetest of Dreams](https://open.spotify.com/track/4H6fjjvMB5mPF97u6x1Ehj) | [Lilah Cooke](https://open.spotify.com/artist/1UjSlpMf1i1ay4X7HhT2dR) | [Sweetest of Dreams](https://open.spotify.com/album/5GXrCBzNN4J4HXhLxNjrIi) | 1:28 | 2024-07-19 |  |
 | [Swing Low, Sweet Chariot](https://open.spotify.com/track/4gLXCiJEJjqzvGq9kmtTYI) | [Fardeen Evans](https://open.spotify.com/artist/5Vyql7da8OmbtgTqbOMSC1) | [Swing Low, Sweet Chariot](https://open.spotify.com/album/7g3YIYhWzOPxuUCldvXiRp) | 2:02 | 2023-01-27 |  |

@@ -1927,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Come To Jesus",
+        "url": "https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe"
+      },
+      "artists": [
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228208,
+      "name": "Come To Jesus",
+      "url": "https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH"
+    },
+    {
+      "album": {
         "name": "Come To Jesus (Rest In Him)",
         "url": "https://open.spotify.com/album/4YuF1KBGzAG4QKQGlaqlGC"
       },
@@ -11434,6 +11452,24 @@
       "duration_ms": 733828,
       "name": "Yahweh - Live",
       "url": "https://open.spotify.com/track/3FnAnpIW5uOrTpoVYqGvad"
+    },
+    {
+      "album": {
+        "name": "Yes and Amen (Hallelujah)",
+        "url": "https://open.spotify.com/album/6J4IzMLYaV7CMYbMKQv0W2"
+      },
+      "artists": [
+        {
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/1ng5GiN8u9Sml2NmNFWCJo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316365,
+      "name": "Yes and Amen (Hallelujah)",
+      "url": "https://open.spotify.com/track/1GwTkgtlPo92ZD2phuM7aS"
     },
     {
       "album": {

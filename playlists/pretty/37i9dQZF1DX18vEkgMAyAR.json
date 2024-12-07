@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68411,
+  "num_followers": 68420,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Love Everlasting",
-        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        }
-      ],
-      "duration_ms": 160018,
-      "name": "Love Everlasting",
-      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Bosana",
         "url": "https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Love Everlasting",
+        "url": "https://open.spotify.com/album/1jk13k67kk897HjHgIELRV"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        }
+      ],
+      "duration_ms": 160018,
+      "name": "Love Everlasting",
+      "url": "https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g"
     },
     {
       "added_at": "2024-05-10 06:34:25",
@@ -775,6 +775,30 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+        "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Nate Highfield",
+          "url": "https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF"
+        },
+        {
+          "name": "SILVER",
+          "url": "https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u"
+        }
+      ],
+      "duration_ms": 204789,
+      "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
+      "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Passionfruit",
         "url": "https://open.spotify.com/album/5yJhQGEnuwbOUnlbY6aHCA"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
-        "url": "https://open.spotify.com/album/3PJnw0E507X2yMby8pUHOm"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Nate Highfield",
-          "url": "https://open.spotify.com/artist/4JquAIlxYSGeqFcQyPUMVF"
-        },
-        {
-          "name": "SILVER",
-          "url": "https://open.spotify.com/artist/1HXRQ8IflmWzNxTrymVI7u"
-        }
-      ],
-      "duration_ms": 204789,
-      "name": "Forever Free (DeepFish Remix) (feat. Nate Highfield & SILVER)",
-      "url": "https://open.spotify.com/track/2YT7OMlGZlaFpBpMGLtDuK"
     },
     {
       "added_at": "2024-05-10 06:34:25",

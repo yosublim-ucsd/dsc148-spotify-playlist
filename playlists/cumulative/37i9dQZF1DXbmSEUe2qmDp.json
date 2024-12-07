@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 165825,
       "name": "A Chance \u00c9 Grande - Ao Vivo",
       "url": "https://open.spotify.com/track/0fQ0gx9D0lDWsWaO1NXz5p"
@@ -472,10 +472,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 156218,
       "name": "Boca Solta",
       "url": "https://open.spotify.com/track/7HwFEByDQS8Xg9z7FW9Gh2"
+    },
+    {
+      "album": {
+        "name": "Caco de Vidro",
+        "url": "https://open.spotify.com/album/16reN9ouarIwOAMavSxS2i"
+      },
+      "artists": [
+        {
+          "name": "Matheus e Lorenzo",
+          "url": "https://open.spotify.com/artist/5rqO9153JGgFSJJzHXbKdt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190634,
+      "name": "Caco de Vidro",
+      "url": "https://open.spotify.com/track/718jo7g3Nf7SEX0uTuBCud"
     },
     {
       "album": {
@@ -818,10 +836,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155945,
       "name": "C\u00ea Nunca Namorou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk"
+    },
+    {
+      "album": {
+        "name": "Da Porta Pra Cama",
+        "url": "https://open.spotify.com/album/4Dkah7tqcn2crk6ErhynfY"
+      },
+      "artists": [
+        {
+          "name": "Kelvin e Kauan",
+          "url": "https://open.spotify.com/artist/6ROKJ8cE6Y5IkqvKLSiWM1"
+        },
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165296,
+      "name": "Da Porta Pra Cama",
+      "url": "https://open.spotify.com/track/0YWBUkM4NZfBK5bg556qGB"
     },
     {
       "album": {
@@ -1026,7 +1066,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 161632,
       "name": "Ela n\u00e3o sabe terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/4WLS3uOk1WDvQogBoWXsgE"
@@ -1612,7 +1652,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 153716,
       "name": "Guenta Reca\u00edda - Ao Vivo",
       "url": "https://open.spotify.com/track/0WMglEGNGlmFkr9wTdSrKk"
@@ -1801,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Menino de Quebra",
+        "url": "https://open.spotify.com/album/63bAwW07lBPcVm1rwzi7cF"
+      },
+      "artists": [
+        {
+          "name": "Thiago Castelli",
+          "url": "https://open.spotify.com/artist/0ROprJwPDQ1NleWURpFgFj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Menino de Quebra",
+      "url": "https://open.spotify.com/track/2OMjxEBDD0ZDkTp3XXNLb1"
+    },
+    {
+      "album": {
         "name": "Mensagem de Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/3mdhsoMHXIPxM45R47y6HO"
       },
@@ -1888,7 +1946,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218178,
       "name": "Meu Segredo - Ao Vivo",
       "url": "https://open.spotify.com/track/6OkxbHTFbFGdSc7Is5tgzw"
@@ -1950,7 +2008,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 217750,
       "name": "Minha Loucura de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG"
@@ -1980,6 +2038,28 @@
       "duration_ms": 174000,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/6PtpDOdRNXaHyigjgvN43m"
+    },
+    {
+      "album": {
+        "name": "Moreno Cheiroso",
+        "url": "https://open.spotify.com/album/5DUbwurF8NUlo9JJ7QGdda"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Gateli",
+          "url": "https://open.spotify.com/artist/63h4vF9FQrGIjadRzNWJZI"
+        },
+        {
+          "name": "J\u00falia & Rafaela",
+          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "Moreno Cheiroso",
+      "url": "https://open.spotify.com/track/04eifAqj61TXF2GHYmnwFe"
     },
     {
       "album": {
@@ -2251,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Orgulho de Ser Pe\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2lgKqFhmsoLSkdojIT9FzC"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Castellari",
+          "url": "https://open.spotify.com/artist/25A6AArfbRIAy3vJEx7K8X"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161183,
+      "name": "Orgulho de Ser Pe\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Kgki6LQcg0xCe4PWz3bDu"
+    },
+    {
+      "album": {
         "name": "Nossa Vibe, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7FjIIZHR90VhWwgBir1uu0"
       },
@@ -2368,7 +2466,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 167475,
       "name": "Pergunta Pro Meu Ex",
       "url": "https://open.spotify.com/track/6iF9M9PxnjrjVFn6U2nIWz"
@@ -2873,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Carta Cantada (Ao Vivo / Vol.3)",
+        "url": "https://open.spotify.com/album/39bLGpJCtVYe3nE9XpEf8L"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Luan",
+          "url": "https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169046,
+      "name": "Saudade Atacada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zPzD5AoT1xBnv5uGIU8oC"
+    },
+    {
+      "album": {
         "name": "Saudade Em Pessoa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hWHAXLqGRvHlr453nVn14"
       },
@@ -2982,6 +3098,24 @@
       "duration_ms": 179937,
       "name": "Se Tocar Bruno e Marrone - Solta a Voz e Vem Com N\u00f3is, Ao Vivo",
       "url": "https://open.spotify.com/track/7FpLr2e3ygHl30w2vJslqW"
+    },
+    {
+      "album": {
+        "name": "Ser Solteira \u00c9 Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1dlyH0bVwwVcxdXHVbxlX6"
+      },
+      "artists": [
+        {
+          "name": "Lucylla & Lucyana",
+          "url": "https://open.spotify.com/artist/4VpQZOyPXrivCGGuNtQNPc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Ser Solteira \u00c9 Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yJtd09ixrNvs8DEiUZRkW"
     },
     {
       "album": {
@@ -3636,6 +3770,24 @@
       "duration_ms": 140058,
       "name": "Vida Bagun\u00e7ada",
       "url": "https://open.spotify.com/track/29RWcQ5sabWjNimHtf7gY7"
+    },
+    {
+      "album": {
+        "name": "Vontade da Gente",
+        "url": "https://open.spotify.com/album/1EYo3tq0hCFoWUtlhowrgl"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155210,
+      "name": "Vontade da Gente",
+      "url": "https://open.spotify.com/track/7lI62GrSv5YV3DGJRnTkqQ"
     },
     {
       "album": {

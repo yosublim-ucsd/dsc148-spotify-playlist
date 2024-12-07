@@ -2,7 +2,7 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> An eclectic mix of past & current indie favourites\. Cover: Nemahsis
+> An eclectic mix of past & current indie favourites\. Cover: The Marías
 
 767 songs - 1 day 22 hr 14 min
 

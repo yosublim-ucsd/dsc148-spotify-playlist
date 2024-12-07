@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Josiah Queen",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: TobyMac",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 170733,
       "name": "a life worth dying",
       "url": "https://open.spotify.com/track/09XxXlkOkp2qeoLE3WGcsg"
+    },
+    {
+      "album": {
+        "name": "a lil Church",
+        "url": "https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185301,
+      "name": "a lil Church",
+      "url": "https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1"
     },
     {
       "album": {
@@ -6017,6 +6035,28 @@
     },
     {
       "album": {
+        "name": "He Has Done Great Things (Live)",
+        "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/0TJOVQKoS7sbGVn8RkkvPI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355706,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
+    },
+    {
+      "album": {
         "name": "He Is Good",
         "url": "https://open.spotify.com/album/57JFOyf7sOuYDK0zTpW6aj"
       },
@@ -7213,6 +7253,24 @@
     },
     {
       "album": {
+        "name": "I Apologize",
+        "url": "https://open.spotify.com/album/4c4RoOXkBr0eZfYHC5KrRN"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220744,
+      "name": "I Apologize",
+      "url": "https://open.spotify.com/track/4WwhAhBdBSXngHoDRsynA4"
+    },
+    {
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -7438,7 +7496,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 168998,
       "name": "I Need Help",
       "url": "https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0"
@@ -9880,7 +9938,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 243067,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4f6bHNxoWKbRw1qhmwv5e8"
@@ -10214,7 +10272,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 385506,
       "name": "Made For More - Live",
       "url": "https://open.spotify.com/track/1qo2WigLGq2fi2s4uSs5Pi"
@@ -11716,7 +11774,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193968,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
@@ -11770,7 +11828,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
@@ -14321,6 +14379,24 @@
     },
     {
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/0FQHtuBu64K3EW1kc2oiKx"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0QST4dTRitZquNmLodBdON"
+    },
+    {
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv"
       },
@@ -15630,6 +15706,36 @@
       "duration_ms": 205363,
       "name": "Thank You, Lord",
       "url": "https://open.spotify.com/track/3s0tfDSB5pfsf36Fbu6LDh"
+    },
+    {
+      "album": {
+        "name": "The Kingdom of Jesus",
+        "url": "https://open.spotify.com/album/1Bp2MioZNIJBEJGfQnuWNo"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Dee Wilson",
+          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345816,
+      "name": "That We Might Overcome",
+      "url": "https://open.spotify.com/track/3UbjooXOOlnYqLtOCkio9P"
     },
     {
       "album": {

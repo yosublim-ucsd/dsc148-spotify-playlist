@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,755 likes - 86 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,772 likes - 86 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 11 | [WWE: 10 Beats Of The Bodhrán \(Sheamus\)](https://open.spotify.com/track/3BvDZCm22PyTG7cfrIEA9k) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: 10 Beats Of The Bodhrán \(Sheamus\)](https://open.spotify.com/album/7sQQIMgBPTbdw8vpEkaS9G) | 2:41 |
 | 12 | [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/track/4e36XFVChaw4rTz4zV3LXs) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [WWE: Welcome To LA \(LA Knight\) \[feat\. Letdown.\]](https://open.spotify.com/album/6TteJvQpZ6TRF9R5SyjsN6) | 2:43 |
 | 13 | [WWE: With A Smile \(Ethan Page\)](https://open.spotify.com/track/2xUKMa23rkBxkHhVGiabLC) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: With A Smile \(Ethan Page\)](https://open.spotify.com/album/3yqrE5RFVfYnGF4lBIX3dA) | 2:44 |
-| 14 | [WWE: Samoan Destroyer \(Jacob Fatu\)](https://open.spotify.com/track/62nBP4xIKjarus9ZR4IDj9) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Samoan Destroyer \(Jacob Fatu\)](https://open.spotify.com/album/4kVjA0eGcX2zDeyYA97R44) | 2:36 |
+| 14 | [WWE: Samoan Destroyer \(Jacob Fatu\)](https://open.spotify.com/track/62nBP4xIKjarus9ZR4IDj9) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Samoan Destroyer \(Jacob Fatu\)](https://open.spotify.com/album/4kVjA0eGcX2zDeyYA97R44) | 2:40 |
 | 15 | [WWE: Breakk And Destroy \(Bron Breakker\)](https://open.spotify.com/track/4BECmBkTJrrsrJS4bW13mx) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Breakk And Destroy \(Bron Breakker\)](https://open.spotify.com/album/6gz94olKelZ2ghT4NZBK1e) | 2:35 |
 | 16 | [WWE: Assemble \(Remix 2024\) \[Wes Lee\]](https://open.spotify.com/track/6IaQ5jdrDZl9x399LOnIt1) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg) | [WWE: Assemble \(Remix 2024\) \[Wes Lee\]](https://open.spotify.com/album/2WQshsNuSZZAPEM9w8EiEo) | 3:08 |
 | 17 | [WWE: Who Want It \(Je'Von Evans\)](https://open.spotify.com/track/1JwyTc98Nqvb964lj2p695) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [J\-Frost](https://open.spotify.com/artist/7qM0TH8OBDmovHGexv6JBO) | [WWE: Who Want It \(Je'Von Evans\)](https://open.spotify.com/album/3iDCxajCrXHiF3eSkshpW6) | 3:13 |

@@ -9023,6 +9023,24 @@
     },
     {
       "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/7Cf9t1081bnynjbVx0xonT"
+      },
+      "artists": [
+        {
+          "name": "Lavender Shore",
+          "url": "https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M"
+    },
+    {
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER"
       },
@@ -13102,6 +13120,32 @@
       "duration_ms": 190526,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg"
+    },
+    {
+      "album": {
+        "name": "Tore Me Up",
+        "url": "https://open.spotify.com/album/13QC7gtblaL6HDfPGEejIu"
+      },
+      "artists": [
+        {
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
+        },
+        {
+          "name": "Treyy G",
+          "url": "https://open.spotify.com/artist/2vz513fFOvrrkuISQd1CYG"
+        },
+        {
+          "name": "BUBU",
+          "url": "https://open.spotify.com/artist/0xhrjgTOUmwlMjRMZXmMWI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173477,
+      "name": "Tore Me Up",
+      "url": "https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g"
     },
     {
       "album": {

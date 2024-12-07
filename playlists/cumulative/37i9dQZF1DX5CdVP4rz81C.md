@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: mxmtoon
 
-1,742 songs - 3 day 20 hr 1 min
+1,744 songs - 3 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 | 2022-06-24 | 2022-08-20 |
 | [EMPATHY](https://open.spotify.com/track/7Mg30M7Yt6EBV7sN00Xr9k) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7A66n9P2h3Cfbuh5YZDNqZ) | 3:15 | 2020-12-04 | 2021-01-15 |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-18 |  |
+| [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 | 2024-12-06 |  |
 | [Empty House](https://open.spotify.com/track/6udQeEr42u5FZ3UFLdcyvK) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Empty House](https://open.spotify.com/album/2L0e0ULfmfKiA05VLgxscu) | 2:57 | 2021-09-04 | 2021-09-25 |
 | [End of a Dark Age](https://open.spotify.com/track/4CTgAqxb24tRuJ15tUpPpL) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [End of a Dark Age](https://open.spotify.com/album/3sPxdmZBfZpAk1CUxTIvM3) | 2:51 | 2021-10-30 | 2021-11-20 |
 | [End Of It All](https://open.spotify.com/track/3LQCjv6qGDFjDMFzen1TrY) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [End Of It All](https://open.spotify.com/album/0bYOxW0NzJACp0wBhgFSqy) | 2:39 | 2023-01-13 | 2023-01-21 |
@@ -585,7 +586,7 @@
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2020-10-13\* | 2020-11-12 |
 | [Gold](https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Gold](https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2) | 2:45 | 2021-12-24 | 2022-01-08 |
 | [Golden](https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Golden](https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG) | 3:01 | 2023-04-21 | 2023-07-03 |
-| [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 | 2024-04-19 |  |
+| [Golden](https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Golden](https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS) | 2:43 | 2024-04-19 | 2024-12-07 |
 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 |  |
 | [Gone](https://open.spotify.com/track/1dHhX4kzzge5XYRL6S2L6q) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:50 | 2021-08-21 | 2021-08-28 |
 | [Gone Away](https://open.spotify.com/track/5y8EtFGaKa9Nn8LGGL4wFD) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Gone Away](https://open.spotify.com/album/14R3wGT7xu5FoFRhf5jZyo) | 3:48 | 2022-02-25 | 2022-04-29 |
@@ -774,7 +775,7 @@
 | [I'll Be Home Soon](https://open.spotify.com/track/72xzw4sk7CcgYIyQsj0pxn) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Marathon](https://open.spotify.com/album/4RQN3Cqkj3dHhEa5wa7Ag8) | 2:11 | 2021-03-14 | 2021-04-10 |
 | [I'll Be There](https://open.spotify.com/track/4UVp2XD2Z9F2aY9vLlKwhv) | [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [I’ll Be There/Honest](https://open.spotify.com/album/3ObU6T0OnYO8y4CAA5P68P) | 3:37 | 2021-04-10 | 2021-05-22 |
 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 | 2023-06-09 | 2023-08-05 |
-| [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 |  |
+| [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 | 2024-12-07 |
 | [I'm Different Now](https://open.spotify.com/track/0Ff2ltrgOMd3IVNJRnD4PD) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [I'm Different Now](https://open.spotify.com/album/6pwcK3JeJsT865X43eOFCW) | 3:09 | 2023-10-20 | 2024-05-18 |
 | [I'm Here](https://open.spotify.com/track/7l5jZiuwClTKk2Xyf5mc69) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [i hope you're happy](https://open.spotify.com/album/1kR8ROs5klKibWulbjWjxa) | 2:45 | 2022-09-30 | 2022-11-05 |
 | [I'm in Love](https://open.spotify.com/track/2k2AJgV5PAA4pIl9jdJxqz) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Sushisingz](https://open.spotify.com/artist/4WKvmQIY4gK8XWXg9Gksnd), [Isaiah Mendiola](https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO) | [I'm in Love](https://open.spotify.com/album/6YseWN0WpEHAOTqVzJfzLo) | 3:16 | 2022-10-24 | 2023-02-04 |
@@ -1576,6 +1577,7 @@
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-26 | 2021-12-11 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-06-01 |
 | [TRAGIC](https://open.spotify.com/track/5yiOs4FYwtsuJZ6PfiziF8) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [sad songs in the summer \(mixtape\)](https://open.spotify.com/album/1xq48TLzC81TsS1Tl4DNc6) | 2:32 | 2023-10-20 | 2024-04-23 |
+| [Trail Horse](https://open.spotify.com/track/5B02dAqo1u9OYjoeBV0MvI) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Trail Horse](https://open.spotify.com/album/7C3fDOTaE40u57RyXQ5NWj) | 3:57 | 2024-12-06 |  |
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 |  |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-18 | 2022-03-12 |
 | [Troubled Man](https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Troubled Man](https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N) | 2:35 | 2022-09-23 | 2022-11-12 |

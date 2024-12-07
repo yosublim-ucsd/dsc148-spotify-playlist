@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Hyldon
 
-100 songs - 6 hr 0 min
+101 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bala Doce](https://open.spotify.com/track/6740tFiff0CZAL5TZNZFT0) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/5n1z0veQcZg6s7dTxQ7hKo) | 2:53 | 2023-12-08 | 2024-04-19 |
 | [Bala Doce](https://open.spotify.com/track/6lpUGFfa0XzqsnqbKNa4rC) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Bala Doce](https://open.spotify.com/album/7eNtMTiMyJOc0tRoYXyBwE) | 2:53 | 2024-03-29 |  |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-15 |  |
-| [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 |  |
+| [Black Brasa](https://open.spotify.com/track/2y2hUS0ikiZYSpdPrHA2u1) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Caio Laser](https://open.spotify.com/artist/2jp7kEBemeKyT69klAawwk), [Leonardo Marques](https://open.spotify.com/artist/4h4gmOlHneRU0qqvhkmhN0) | [Black Brasa](https://open.spotify.com/album/3d7n6wxLjYzlsFqxObMbEZ) | 2:32 | 2023-12-08 | 2024-12-07 |
 | [BRASIL TÁ EM FESTA!](https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 | 2023-12-08 |  |
 | [Caminho pro Seu Ouvido \- Remix](https://open.spotify.com/track/4oBoAlKwocOTOyKJWiYuJC) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Caminho pro Seu Ouvido \(Remix\)](https://open.spotify.com/album/1RdMg2ve6GxQGYDtpClLXJ) | 2:35 | 2024-03-22 |  |
 | [Cantar Cantar](https://open.spotify.com/track/0gb9TwMBiMpH7jzPTadRU0) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Passarinho](https://open.spotify.com/album/07eUETgYv4eqREVHTE3OFK) | 3:38 | 2023-12-08 |  |
@@ -108,5 +108,6 @@
 | [Vadiagem](https://open.spotify.com/track/2jJh9rkFfCYxkjtfbNdv0l) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Sabor de amor](https://open.spotify.com/album/7ujzNhKq8tpx14MXkTLNBW) | 3:22 | 2023-12-08 |  |
 | [VAI VIVER](https://open.spotify.com/track/23vOjzeW7rjtZN2mdcDW1K) | [Rodrigo Sá](https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho), [Champz](https://open.spotify.com/artist/23aUdKJQ97T0r0Ogp3yT4F) | [VAI VIVER](https://open.spotify.com/album/5B6jeiCMNzI9pTtcfmInm0) | 3:11 | 2023-12-08 |  |
 | [violão amarelo](https://open.spotify.com/track/04A6kvfVw3hJimApxX6hhr) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:03 | 2024-05-10 |  |
+| [Voltando pra casa](https://open.spotify.com/track/2tuyFzuEda8pd2RSNKBhpI) | [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Voltando pra casa](https://open.spotify.com/album/1BOe7qFLVB2tELnlzwyu5S) | 2:36 | 2024-12-06 |  |
 
 \*This playlist was first scraped on 2024-01-15. Prior content cannot be recovered.

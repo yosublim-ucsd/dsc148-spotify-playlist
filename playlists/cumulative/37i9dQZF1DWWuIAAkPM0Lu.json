@@ -2623,7 +2623,7 @@
         },
         {
           "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
         }
       ],
       "date_added": "2024-12-05",
@@ -25310,6 +25310,24 @@
       "duration_ms": 212503,
       "name": "High",
       "url": "https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2fbxmiDsXsMPflu3hydDoJ"
+      },
+      "artists": [
+        {
+          "name": "Debbie Sings",
+          "url": "https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173110,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6WAnUzmNtJnWagmMYCfST5"
     },
     {
       "album": {
@@ -53038,6 +53056,28 @@
       "duration_ms": 195146,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE"
+    },
+    {
+      "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "album": {

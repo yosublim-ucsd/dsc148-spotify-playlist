@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Marc Segu\u00ed & Alvaro Diaz",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: TINI",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -476,6 +476,24 @@
       "duration_ms": 216389,
       "name": "Acto Final",
       "url": "https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6"
+    },
+    {
+      "album": {
+        "name": "aeropuerto",
+        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214226,
+      "name": "aeropuerto",
+      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
     },
     {
       "album": {
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 200842,
       "name": "Destrucci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
@@ -4193,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Todo Lo Que Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/6dM2RCZGGZp7gSJv1YTP3a"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/7GSDTSna21Aw8qWMkt0D7p"
+    },
+    {
+      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -4288,6 +4324,24 @@
       "duration_ms": 172920,
       "name": "El Canto Del Olvido",
       "url": "https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe"
+    },
+    {
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "album": {
@@ -4456,6 +4510,28 @@
       "duration_ms": 172685,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "album": {
+        "name": "El Tiempo Que Paso Contigo",
+        "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190205,
+      "name": "El Tiempo Que Paso Contigo",
+      "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
     },
     {
       "album": {
@@ -8060,7 +8136,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5"
@@ -9692,7 +9768,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
@@ -10702,6 +10778,24 @@
       "duration_ms": 202546,
       "name": "par d ni\u00f1os",
       "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
+    },
+    {
+      "album": {
+        "name": "Para El Tiempo",
+        "url": "https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197115,
+      "name": "Para El Tiempo",
+      "url": "https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M"
     },
     {
       "album": {
@@ -12702,7 +12796,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -13080,6 +13174,24 @@
       "duration_ms": 188380,
       "name": "solo x ti - Remix",
       "url": "https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj"
+    },
+    {
+      "album": {
+        "name": "SOLONELY",
+        "url": "https://open.spotify.com/album/2hEt194qb7vBjQBwcMeByW"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148554,
+      "name": "SOLONELY",
+      "url": "https://open.spotify.com/track/6Z3TackFYDr41wDXgfKAkB"
     },
     {
       "album": {
@@ -13544,7 +13656,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
@@ -14784,7 +14896,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56351,
+  "num_followers": 56369,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Like Heaven",
-        "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
-      },
-      "artists": [
-        {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        },
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Like Heaven (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Cocktail love",
-        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+        "name": "Like Heaven",
+        "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
       "artists": [
         {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 204053,
-      "name": "Cocktail love",
-      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+      "duration_ms": 209453,
+      "name": "Like Heaven (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 218880,
       "name": "Elastic Love",
       "url": "https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Cocktail love",
+        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Cocktail love",
+      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Loving you",
         "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "5min to heartbreak",
-        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "Choi HEART",
-          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
         }
       ],
-      "duration_ms": 200053,
-      "name": "5min to heartbreak",
-      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "5min to heartbreak",
+        "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "5min to heartbreak",
+      "url": "https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -723,6 +723,26 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Moonset with KozyPop",
+        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Moonset",
+      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -775,6 +795,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -807,26 +843,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Moonset with KozyPop",
-        "url": "https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        },
-        {
-          "name": "Kim Mi Jeong",
-          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Moonset",
-      "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
+      },
+      "artists": [
+        {
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 299500,
       "name": "Aqua (feat. Muzie)",
       "url": "https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Pier",
-        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 174624,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "After this night",
-        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 262658,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1067,6 +1035,22 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Cream Dream",
         "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "After this night",
+        "url": "https://open.spotify.com/album/1A31imB5bDtcwBogAvxIzG"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 262658,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/243eZR6OEAl0AKFAOWH6lK"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
-      },
-      "artists": [
-        {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 179393,
       "name": "Passing Light",
       "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
       "added_at": "2024-09-30 08:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "High energy, club songs from around the world! <a href=\"https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA\">Jaxomy</a> on the cover. Follow <a href=\"http://open.spotify.com/user/ultramusicofficial\">our profile</a> for more playlists.",
-  "num_followers": 14414,
+  "num_followers": 14412,
   "original_name": "Ultra Club Hits",
   "owner": {
     "name": "Ultra Records",
     "url": "https://open.spotify.com/user/ultramusicofficial"
   },
-  "snapshot_id": "AAAKIzzvPz9eqPku8ek1jqm1VMPmR9kx",
+  "snapshot_id": "AAAKJE5bocaDk2oL9WtM3i8yeHxW/dwr",
   "tracks": [
     {
       "added_at": "2024-04-26 12:50:00",
@@ -1743,6 +1743,30 @@
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+    },
+    {
+      "added_at": "2024-12-06 12:26:03",
+      "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V"
+      },
+      "artists": [
+        {
+          "name": "Revival House Project",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Nate James",
+          "url": "https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG"
+        },
+        {
+          "name": "GeO Gospel Choir",
+          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
+        }
+      ],
+      "duration_ms": 239603,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo"
     }
   ],
   "unique_name": "Ultra Club Hits",

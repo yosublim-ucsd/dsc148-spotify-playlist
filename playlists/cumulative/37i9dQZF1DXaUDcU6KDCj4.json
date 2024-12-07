@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Half Moon Run",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Hildegard & Helena Deland",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 175790,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/5GtfNJlEWahLnXsKFzZtTz"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 232853,
       "name": "Baby Bright",
       "url": "https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw"
@@ -3566,6 +3566,24 @@
       "duration_ms": 246000,
       "name": "Be (For July)",
       "url": "https://open.spotify.com/track/5ItO5kS0iPwB5AypKJ0dOG"
+    },
+    {
+      "album": {
+        "name": "Be alive",
+        "url": "https://open.spotify.com/album/72n7hhFJLkvgpaX9BiKFpK"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Be alive",
+      "url": "https://open.spotify.com/track/72PebD6W6SXzUjOX6pO8Hl"
     },
     {
       "album": {
@@ -4018,6 +4036,24 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "album": {
+        "name": "Bet On Beauty",
+        "url": "https://open.spotify.com/album/2077zAocbofNbqEVimAIHV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Bet On Beauty",
+      "url": "https://open.spotify.com/track/2oX4mCEcN2oV6F48gtcHMe"
     },
     {
       "album": {
@@ -9095,6 +9131,24 @@
     },
     {
       "album": {
+        "name": "boundless & true",
+        "url": "https://open.spotify.com/album/69AcJYuoVwJzoq86dnA08r"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196392,
+      "name": "dandelion dream",
+      "url": "https://open.spotify.com/track/0JtEIgORtcboJBcbTDbwk1"
+    },
+    {
+      "album": {
         "name": "All to Bones",
         "url": "https://open.spotify.com/album/4Zn4YKoRpgesieWwWrKWX3"
       },
@@ -13655,6 +13709,28 @@
     },
     {
       "album": {
+        "name": "Focus Ring",
+        "url": "https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u"
+      },
+      "artists": [
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147586,
+      "name": "Focus Ring",
+      "url": "https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA"
+    },
+    {
+      "album": {
         "name": "Follow Me Down",
         "url": "https://open.spotify.com/album/5ckzUx2HRZkghJO4NIs3H1"
       },
@@ -15328,6 +15404,24 @@
       "duration_ms": 200132,
       "name": "Good Friday",
       "url": "https://open.spotify.com/track/5fScDsNhUfp0FCHuBOxqZu"
+    },
+    {
+      "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/5aVusXeGsyDiwo8Qd9hl5J"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188482,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1fW7KHl5cHzdKmCHS2mpJq"
     },
     {
       "album": {
@@ -17361,6 +17455,24 @@
     },
     {
       "album": {
+        "name": "high school reunion",
+        "url": "https://open.spotify.com/album/0G7VElk25Pds0bYkwCEtZT"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191581,
+      "name": "high school reunion",
+      "url": "https://open.spotify.com/track/2OUmRTuUaGMC7omfMUS2pP"
+    },
+    {
+      "album": {
         "name": "High Seas",
         "url": "https://open.spotify.com/album/77gXwpuOu8ssVerNMoWEdu"
       },
@@ -18622,6 +18734,24 @@
       "duration_ms": 270310,
       "name": "How I Long for Peace",
       "url": "https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9"
+    },
+    {
+      "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
     },
     {
       "album": {
@@ -20276,7 +20406,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202000,
       "name": "I'm Not Dyin'",
       "url": "https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8"
@@ -20330,7 +20460,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
@@ -26368,7 +26498,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 209163,
       "name": "Mean Guy",
       "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
@@ -27490,7 +27620,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 229795,
       "name": "Much Ado About Nothing",
       "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
@@ -28244,7 +28374,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 307062,
       "name": "Neon Signs",
       "url": "https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w"
@@ -28852,6 +28982,32 @@
       "duration_ms": 122624,
       "name": "No One's Gonna Love You Like I Can",
       "url": "https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ"
+    },
+    {
+      "album": {
+        "name": "No Other Mind",
+        "url": "https://open.spotify.com/album/6AEyr8ZcvLltJtIlSrX040"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203783,
+      "name": "No Other Mind",
+      "url": "https://open.spotify.com/track/7fYWIR34PZbo9RGpjLoAMH"
     },
     {
       "album": {
@@ -31992,7 +32148,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 206995,
       "name": "Porcupine Tattoo",
       "url": "https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU"
@@ -32771,6 +32927,24 @@
     },
     {
       "album": {
+        "name": "Raindrop River",
+        "url": "https://open.spotify.com/album/0BBHtyJ1gX6q7NwmeqyQDg"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221706,
+      "name": "Raindrop River",
+      "url": "https://open.spotify.com/track/6GFOQQn4EJkHIMx9ILENnS"
+    },
+    {
+      "album": {
         "name": "Infinite Jest",
         "url": "https://open.spotify.com/album/4iN3kZrRkD4g40zjZRWUcp"
       },
@@ -32840,6 +33014,24 @@
       "duration_ms": 152971,
       "name": "Rare Disease",
       "url": "https://open.spotify.com/track/677s1ukItuq66rf0yiQ1Hw"
+    },
+    {
+      "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229996,
+      "name": "Rascal",
+      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
     },
     {
       "album": {
@@ -34709,6 +34901,28 @@
     },
     {
       "album": {
+        "name": "Scornful Heat (feat. Tr\u00e9 Burt)",
+        "url": "https://open.spotify.com/album/7gzxMChEg5YmNicW1elmbE"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Scornful Heart - feat. Tr\u00e9 Burt",
+      "url": "https://open.spotify.com/track/78N8uVeFSeXrpZYWqfeLrb"
+    },
+    {
+      "album": {
         "name": "Season 4 Theme Song (feat. Lera Lynn)",
         "url": "https://open.spotify.com/album/5wVj4KDyeWdu3KgAjLynN4"
       },
@@ -36176,7 +36390,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
@@ -36400,7 +36614,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 242731,
       "name": "Soft Kissing Hour",
       "url": "https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H"
@@ -37122,7 +37336,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
@@ -42080,7 +42294,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 230133,
       "name": "this little lighter of mine",
       "url": "https://open.spotify.com/track/7c5ItJB9cCGme65bA4ifAK"
@@ -42138,7 +42352,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202500,
       "name": "This Was A Gift",
       "url": "https://open.spotify.com/track/5w5YZThDOGwskczdLV5fel"
@@ -42596,6 +42810,24 @@
       "duration_ms": 175088,
       "name": "to be all alone",
       "url": "https://open.spotify.com/track/1gi55AIRocF4dFXaZDUdDD"
+    },
+    {
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
     },
     {
       "album": {
@@ -43196,6 +43428,24 @@
       "duration_ms": 210266,
       "name": "TRAFFIC FICTION",
       "url": "https://open.spotify.com/track/2LeIA3mtEMFV4LpKWu9w6p"
+    },
+    {
+      "album": {
+        "name": "Trail Horse",
+        "url": "https://open.spotify.com/album/7C3fDOTaE40u57RyXQ5NWj"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237351,
+      "name": "Trail Horse",
+      "url": "https://open.spotify.com/track/5B02dAqo1u9OYjoeBV0MvI"
     },
     {
       "album": {
@@ -46287,6 +46537,24 @@
     },
     {
       "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251784,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
+    },
+    {
+      "album": {
         "name": "Whiskey",
         "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
       },
@@ -47050,7 +47318,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 252960,
       "name": "Without A Leg To Stand On",
       "url": "https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm"

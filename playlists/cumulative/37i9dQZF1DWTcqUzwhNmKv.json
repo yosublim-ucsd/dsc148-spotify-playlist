@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Memphis May Fire on top of today's best Metal playlist.",
+  "description": "Bloodywood on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 163141,
       "name": "Always Watching You",
       "url": "https://open.spotify.com/track/62G2TOK3MnQAHWTmogNYgb"
@@ -1254,6 +1254,28 @@
       "duration_ms": 417293,
       "name": "Beholden to Clan",
       "url": "https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT"
+    },
+    {
+      "album": {
+        "name": "Bekhauf (feat. BABYMETAL)",
+        "url": "https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228364,
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
     },
     {
       "album": {
@@ -3252,6 +3274,24 @@
       "duration_ms": 187680,
       "name": "Death to the Holy",
       "url": "https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5"
+    },
+    {
+      "album": {
+        "name": "Deathwalk",
+        "url": "https://open.spotify.com/album/11A6IcZ2Vl9Ue7CfaLhAqd"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174527,
+      "name": "Deathwalk",
+      "url": "https://open.spotify.com/track/3KT0kwny4izeeLyE6MTyP7"
     },
     {
       "album": {
@@ -5268,6 +5308,24 @@
       "duration_ms": 163586,
       "name": "Gaping Wounds of Earth",
       "url": "https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y"
+    },
+    {
+      "album": {
+        "name": "Generation No Surrender",
+        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167354,
+      "name": "Generation No Surrender",
+      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
     },
     {
       "album": {
@@ -7546,7 +7604,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 199560,
       "name": "Love As An Act Of Rebellion",
       "url": "https://open.spotify.com/track/4lMfUuTWCFEbXx0CwdDMiI"
@@ -8884,7 +8942,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 268141,
       "name": "Nu Delhi",
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
@@ -10729,6 +10787,28 @@
     },
     {
       "album": {
+        "name": "The Temptation of Pain",
+        "url": "https://open.spotify.com/album/3FpwIjm9XsL46kyhNvgScv"
+      },
+      "artists": [
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        },
+        {
+          "name": "Nick Chance",
+          "url": "https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212205,
+      "name": "Severance",
+      "url": "https://open.spotify.com/track/1WseyLAfQ6qxGqwE1yUM3T"
+    },
+    {
+      "album": {
         "name": "Shadowminds",
         "url": "https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc"
       },
@@ -12092,7 +12172,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 198417,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"

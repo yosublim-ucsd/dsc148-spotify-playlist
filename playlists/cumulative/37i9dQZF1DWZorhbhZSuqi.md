@@ -4,11 +4,11 @@
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-127 songs - 7 hr 26 min
+128 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Window to the Past \(Harry Potter\)](https://open.spotify.com/track/4SYMrlxxtSK6fpW2Nzsva8) | [Je Suis Parte](https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63) | [A Window to the Past \(Harry Potter\)](https://open.spotify.com/album/2CVQdS2bGPXjSlXAr6BxYV) | 1:57 | 2024-03-25 |  |
+| [A Window to the Past \(Harry Potter\)](https://open.spotify.com/track/4SYMrlxxtSK6fpW2Nzsva8) | [Je Suis Parte](https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63) | [A Window to the Past \(Harry Potter\)](https://open.spotify.com/album/2CVQdS2bGPXjSlXAr6BxYV) | 1:57 | 2024-03-25 | 2024-12-07 |
 | [Airy\-Fairy Heart](https://open.spotify.com/track/6YYv6hemXnF3GCYtMv8Gkh) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Slow Day](https://open.spotify.com/album/0yNQyK4joAmwj8XNawKaQo) | 3:29 | 2024-03-25 | 2024-06-24 |
 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 | 2023-04-21 | 2024-07-18 |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2023-04-21 | 2024-07-18 |
@@ -118,6 +118,7 @@
 | [The Flower Garden](https://open.spotify.com/track/6IZF8hi9J6EtFDLQqOlSbu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 2:58 | 2023-04-21 |  |
 | [The Man with the Axe](https://open.spotify.com/track/2mP9lPo7pv9k2HTVutEisM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:15 | 2024-05-07 | 2024-07-18 |
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2024-07-17 |  |
+| [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 | 2024-12-06 |  |
 | [The Shire](https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \- the Complete Recordings](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) | 2:29 | 2024-03-25 |  |
 | [To Keep You from Breaking](https://open.spotify.com/track/7rIf53zRSn4zAyYtUvt8Lr) | [Kelsey Woods](https://open.spotify.com/artist/0561irRxpOH0x1qJi6C80Y) | [To Keep You from Breaking](https://open.spotify.com/album/5JCNG1G2iZHzn6Ki65Yl7H) | 1:51 | 2024-03-25 |  |
 | [Trees and Flowers](https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U) | [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [1982 4 Piece Demo](https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG) | 3:14 | 2023-04-21 |  |

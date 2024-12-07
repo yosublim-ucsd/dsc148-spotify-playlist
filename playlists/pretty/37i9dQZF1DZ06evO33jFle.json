@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 484214,
+  "num_followers": 484406,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAACPdbkJvsLJv8XesmsBk6W8",
+  "snapshot_id": "Z1DtAAAAAACHdRmnXciCrBoLX3bYh8rE",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        },
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Taquito De Ojo",
-      "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
       "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 203619,
-      "name": "Paloma Negra - En Vivo",
-      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
+      "duration_ms": 267080,
+      "name": "Taquito De Ojo",
+      "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
     },
     {
       "added_at": null,

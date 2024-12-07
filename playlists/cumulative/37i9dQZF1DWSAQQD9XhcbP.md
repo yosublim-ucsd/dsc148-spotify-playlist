@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Lyn Lapid
 
-146 songs - 8 hr 5 min
+147 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3UOMKwvFdqulOff12uv3pr) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:02 | 2021-12-23 |  |
 | [Christmas All Over Again](https://open.spotify.com/track/6Y47JOcU3IQSDtblqdAuda) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Christmas All Over Again](https://open.spotify.com/album/6k2tmcgtBZh7Haf1yGOUSP) | 3:01 | 2022-11-12 |  |
 | [Christmas Brought Me You](https://open.spotify.com/track/1PoFnbwxstUxyoSKpIhbVX) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Christmas Brought Me You](https://open.spotify.com/album/3N8av3i7ESQRwZBL0qc9j5) | 4:24 | 2021-12-23 |  |
-| [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 | 2021-12-23 |  |
+| [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 | 2021-12-23 | 2024-12-07 |
 | [Christmas Come Early](https://open.spotify.com/track/2nQbAHSkFjirC0qPgWWelZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 2:59 | 2021-12-23 |  |
 | [Christmas Day](https://open.spotify.com/track/5hexwMWl47Y4XASG8aOI36) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4Z0E2zhE6qdsKdrUTKffXn) | 2:28 | 2021-12-23 |  |
 | [Christmas Day](https://open.spotify.com/track/6QfjvDB63IGxWNtjySyh9F) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [A Johnnyswim Christmas](https://open.spotify.com/album/4NVnwX1oas9B9zHSX8xwfD) | 2:28 | 2021-12-23 | 2024-04-19 |
@@ -84,7 +84,7 @@
 | [Jingle Bells](https://open.spotify.com/track/4KVGhE7rSozVpd6thV94c7) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Christmas Mistletunes](https://open.spotify.com/album/7hxw2kfP8PliEPbKzaDvoG) | 3:17 | 2022-12-05 | 2023-12-14 |
 | [Joy](https://open.spotify.com/track/1mH6oU3m70PZmqe9lnrbmV) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:56 | 2021-12-23 |  |
 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 | 2021-12-23 | 2024-04-19 |
-| [Joy To The World](https://open.spotify.com/track/2wIcC00knzyI889QUMQy4D) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/26kXeKHRO3RcNbQ5Onc4QQ) | 4:20 | 2021-12-23 |  |
+| [Joy To The World](https://open.spotify.com/track/2wIcC00knzyI889QUMQy4D) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/26kXeKHRO3RcNbQ5Onc4QQ) | 4:20 | 2021-12-23 | 2024-12-07 |
 | [Just Like Christmas](https://open.spotify.com/track/2QqXjUndwDYA3nEUyvprqo) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/4IWSjhF8wtYR7MVgMFrOkM) | 3:19 | 2022-12-05 | 2024-04-19 |
 | [Just Like Christmas](https://open.spotify.com/track/61VQDkmBg7i5GDyQIVvvRS) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/0cIX6G09jcuijrQgH5br9U) | 3:19 | 2021-12-23 |  |
 | [Just Like Christmas](https://open.spotify.com/track/6CuBMwtlPhbmsg4vOtE7cZ) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Like Christmas](https://open.spotify.com/album/7rqKrq5prPZc4tqspXvmh3) | 3:19 | 2021-12-23 | 2023-06-07 |
@@ -109,7 +109,7 @@
 | [old fashioned christmas](https://open.spotify.com/track/5rukTp7yZJgpIKO7eDuwZg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 3:25 | 2024-11-15 |  |
 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 | 2021-12-23 |  |
 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 | 2021-12-23 |  |
-| [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 | 2022-11-12 |  |
+| [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 | 2022-11-12 | 2024-12-07 |
 | [santa doesn’t know you like i do](https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj) | 3:09 | 2024-10-18 |  |
 | [Silent Night](https://open.spotify.com/track/1WDqk1lOwKWLyJJLYZCww4) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:19 | 2021-12-23 | 2022-11-12 |
 | [Silent Night](https://open.spotify.com/track/7k0QLj3c1sTVak4yEt3VWc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [A Very Cozy Christmas](https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ) | 2:58 | 2022-11-12 |  |
@@ -138,6 +138,7 @@
 | [There Is A Star That Shines Tonight](https://open.spotify.com/track/04TNwsW1kWrj0wCvqMMHYi) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/1DHBF6SPp4wImQGAi80AX9) | 3:58 | 2021-12-23 | 2024-10-19 |
 | [There Is A Star That Shines Tonight](https://open.spotify.com/track/2j6ACRgdXgInMFFqV83TFG) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/4knfTM4vliB04OibXqaRnK) | 3:58 | 2021-12-23 | 2024-04-19 |
 | [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 | 2022-11-12 |  |
+| [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-12-06 |  |
 | [Waiting for Christmas](https://open.spotify.com/track/47ZGdDkt6Vq3L1k3HnMnkC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:35 | 2021-12-23 | 2022-12-06 |
 | [We Need a Little Christmas](https://open.spotify.com/track/2hM6yd9ZDPpKRVqDheFyoW) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 2:59 | 2021-12-23 | 2024-04-19 |
 | [We Need a Little Christmas](https://open.spotify.com/track/6iD2vZ7WR0Zf77jdvcr4jv) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/2P4jHpHDEBsvnHN1htI824) | 2:59 | 2021-12-23 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 135940,
+  "num_followers": 135959,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+      "duration_ms": 175356,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
         }
       ],
-      "duration_ms": 175356,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/548xag3N1RRqouKbnrkCex"
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Homenaje a Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
+        "name": "La Guitarra De M\u00e9xico",
+        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "duration_ms": 206093,
-      "name": "Canci\u00f3n Mixteca - Qu\u00e9 Lejos Estoy",
-      "url": "https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt"
+      "duration_ms": 188586,
+      "name": "La Borrachita",
+      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Serie de Colecci\u00f3n 16 Aut\u00e9nticos \u00c9xitos Antonio Bribiesca",
-        "url": "https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX"
+        "name": "Homenaje a Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "duration_ms": 186360,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/5q9YsFCYfgyo1vmkSMD8wl"
+      "duration_ms": 206093,
+      "name": "Canci\u00f3n Mixteca - Qu\u00e9 Lejos Estoy",
+      "url": "https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "La Guitarra De M\u00e9xico",
-        "url": "https://open.spotify.com/album/0ClQK9zVAw9RCb57wX6Z8M"
+        "name": "Serie de Colecci\u00f3n 16 Aut\u00e9nticos \u00c9xitos Antonio Bribiesca",
+        "url": "https://open.spotify.com/album/65uwubNhA9Iyhgmdiy3CsX"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
         }
       ],
-      "duration_ms": 188586,
-      "name": "La Borrachita",
-      "url": "https://open.spotify.com/track/1LMBIdz27WVSC3y6TGX7v9"
+      "duration_ms": 186360,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/5q9YsFCYfgyo1vmkSMD8wl"
     },
     {
       "added_at": "2024-07-11 01:27:02",

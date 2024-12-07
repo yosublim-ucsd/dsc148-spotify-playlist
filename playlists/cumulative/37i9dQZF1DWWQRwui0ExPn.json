@@ -20367,6 +20367,28 @@
     },
     {
       "album": {
+        "name": "Cerveja",
+        "url": "https://open.spotify.com/album/0AohkNfn3hvitcTmF9I9RY"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "Cerveja",
+      "url": "https://open.spotify.com/track/3pOQ3FcLGbTfa6eFqJSF2m"
+    },
+    {
+      "album": {
         "name": "Cerveza",
         "url": "https://open.spotify.com/album/2ZPWCa4zhBDGSzEenlmRel"
       },
@@ -23496,7 +23518,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9"
@@ -26074,7 +26096,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 118967,
       "name": "Corona",
       "url": "https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp"
@@ -43886,7 +43908,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -53784,7 +53806,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 127228,
       "name": "Hopes&Dreams",
       "url": "https://open.spotify.com/track/2OQ0A8JJpOjmhFrdqDDNEG"
@@ -63356,7 +63378,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 128490,
       "name": "Kyabe",
       "url": "https://open.spotify.com/track/1qxnKt8IIWidFOTE3v5wuj"
@@ -67970,7 +67992,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 111034,
       "name": "Liquid Wires",
       "url": "https://open.spotify.com/track/0jKsJCjRgd7NisC6K4DB8J"
@@ -73134,6 +73156,24 @@
       "duration_ms": 174936,
       "name": "Marco Polo",
       "url": "https://open.spotify.com/track/6pDvKciVGMRqcSygBHjQI0"
+    },
+    {
+      "album": {
+        "name": "maria",
+        "url": "https://open.spotify.com/album/5Kzx0gtAvaCh46KOD1FIze"
+      },
+      "artists": [
+        {
+          "name": "Mumblo",
+          "url": "https://open.spotify.com/artist/7vN8JcVBYs97sPMK1fb38Z"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "maria",
+      "url": "https://open.spotify.com/track/5ils8VsSUSs5WqRpgCgXKY"
     },
     {
       "album": {
@@ -86382,7 +86422,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 80000,
       "name": "Okabe",
       "url": "https://open.spotify.com/track/4ktluvYYDGUvBl9uKruQiv"
@@ -90240,7 +90280,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 140874,
       "name": "Parga",
       "url": "https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1"
@@ -105460,7 +105500,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "Silver Apples",
       "url": "https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i"
@@ -107106,6 +107146,24 @@
       "duration_ms": 113281,
       "name": "Slow Jazz",
       "url": "https://open.spotify.com/track/7v6jVyrZvRfCAZDc8P79tq"
+    },
+    {
+      "album": {
+        "name": "slow moves",
+        "url": "https://open.spotify.com/album/5hT01YQUpCir1cMF75q0dp"
+      },
+      "artists": [
+        {
+          "name": "Reve brumeux",
+          "url": "https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112280,
+      "name": "slow moves",
+      "url": "https://open.spotify.com/track/17fFyEO0vkh4or1mJ207vz"
     },
     {
       "album": {
@@ -113928,7 +113986,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 144182,
       "name": "Sueca",
       "url": "https://open.spotify.com/track/51YcG5rNWcsUsOwSQPVqk0"
@@ -117918,7 +117976,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 106787,
       "name": "Symbiotic Love",
       "url": "https://open.spotify.com/track/4WIOnbxtX6POno9PTlompk"
@@ -121247,6 +121305,32 @@
     },
     {
       "album": {
+        "name": "The Realest",
+        "url": "https://open.spotify.com/album/7mQn9XWfeffVvBFzfGrlA8"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        },
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "The Realest",
+      "url": "https://open.spotify.com/track/26vWmDXFUQilc5FtUMIgN7"
+    },
+    {
+      "album": {
         "name": "The Red Line",
         "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
       },
@@ -121504,7 +121588,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 136750,
       "name": "The Tallest Mountain",
       "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"

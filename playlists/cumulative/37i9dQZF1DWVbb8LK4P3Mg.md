@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: V, Park Hyo Shin\(V, 박효신\)\)
 
-212 songs - 12 hr 23 min
+213 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-16 |  |
 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 | 2021-12-21 |  |
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
+| [Christmas Again](https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc) | 3:46 | 2024-12-06 |  |
 | [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 | 2021-12-21 | 2024-08-14 |
 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 | 2024-01-05 |  |
 | [Christmas EveL](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 2:58 | 2021-12-21 | 2022-07-29 |
@@ -62,7 +63,7 @@
 | [Fa La La](https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd) | [Paul Kim](https://open.spotify.com/artist/0bltiPNSIpQP6rd6kKLUkn), [David So](https://open.spotify.com/artist/4UevYV5V4ebNHE6zpiVC3G), [Z.Woods](https://open.spotify.com/artist/6rbagiJwOJQAvDAOWs5zxW) | [The Christmas Sessions](https://open.spotify.com/album/5w49x3ZNF7DvYrrk8NpEyF) | 3:08 | 2021-12-21 | 2022-11-13 |
 | [Falling](https://open.spotify.com/track/3R4mRcH24Kw0iC5MDVNePA) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park Jung Ah](https://open.spotify.com/artist/3DQ5KUdFYQn0hGkQFnthhf), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly box Jelly Christmas 2016](https://open.spotify.com/album/2JloGurwfxIIk6vsLaulGf) | 4:09 | 2021-12-21 | 2022-07-29 |
 | [Falling](https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A), [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY), [Park Yunha](https://open.spotify.com/artist/34nTe3ixEmbYyzsiLJeEUq), [Park JungA](https://open.spotify.com/artist/4aqjsIDcJwUVjq9vQbjlll), [Kim Gyu Sun](https://open.spotify.com/artist/1HvRGOiUGvQUxCLwgcx4O8), [Kim Ye\-Won](https://open.spotify.com/artist/5W20UGfzUOyZyAnq5VAuqJ), [Ji Yul](https://open.spotify.com/artist/67N0u1LXlfqz51c7a78qPm) | [Jelly Box Jelly Christmas 2016](https://open.spotify.com/album/5c4RIUO2CA2P0gUopDP3na) | 4:09 | 2021-12-21 | 2024-03-08 |
-| [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 | 2024-01-08 |  |
+| [Fallin’ in the Christmas love](https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF) | [NTX](https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL) | [X\-Present](https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg) | 4:06 | 2024-01-08 | 2024-12-07 |
 | [FIRST SNOW](https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [FIRST SNOW](https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK) | 3:15 | 2023-12-11 |  |
 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 | 2021-12-21 |  |
 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 | 2021-12-21 |  |

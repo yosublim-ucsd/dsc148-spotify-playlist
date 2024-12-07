@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: أحمد كامل
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,422 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,472 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
-| 2 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 |
+| 1 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 |
+| 2 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
 | 3 | [Gary El Bahs](https://open.spotify.com/track/0ZXAOyCoFUOVtShp6wS9R1) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Gary El Bahs](https://open.spotify.com/album/2qjq7WsVZJKGdCNW3QPfTm) | 4:00 |
 | 4 | [Mosalsalat](https://open.spotify.com/track/7rbl7UQRa8MLltMQW29edv) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mosalsalat](https://open.spotify.com/album/0qyEh9mvyiq8rLJ5fG5Z2g) | 3:11 |
 | 5 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 20 | [يا خراشي](https://open.spotify.com/track/6sgqhRwBLDBqPXCfIYuaFj) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [يا خراشي](https://open.spotify.com/album/6Fxs0wvQFi3z8ZotjGMJ21) | 1:54 |
 | 21 | [عقبالكوا](https://open.spotify.com/track/6Dygs4OAr4pe9kFUdGr4jp) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [عقبالكوا](https://open.spotify.com/album/2MAUoMG1GyrCHKHUIrgEeH) | 3:00 |
 | 22 | [انا همشي ومش قلقان](https://open.spotify.com/track/5qr4FTn0eafZRqhbdPUWMX) | [ELZAYN](https://open.spotify.com/artist/4AkcLmKQ2xKsftpGCfz3HN) | [انا همشي ومش قلقان](https://open.spotify.com/album/1lsWvQ6kCGioMEUQXdCsLy) | 2:27 |
-| 23 | [Ya Layaly](https://open.spotify.com/track/2wgLVfYEqvjAQCCPlNtkSc) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Hob Tany](https://open.spotify.com/album/0wyDsN5nHVeQ8aHfMK9w1M) | 3:13 |
+| 23 | [Hob Tany](https://open.spotify.com/track/2wgLVfYEqvjAQCCPlNtkSc) | [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Hob Tany](https://open.spotify.com/album/0wyDsN5nHVeQ8aHfMK9w1M) | 3:13 |
 | 24 | [قللت من نفسي](https://open.spotify.com/track/3f42ZBoQcnTPJbO9REc9Qi) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [قللت من نفسي](https://open.spotify.com/album/42KJPaJptQyPLHQT1sd0h0) | 4:28 |
 | 25 | [خلصتني](https://open.spotify.com/track/1VGlVXbXpM1YeUu5OAkRKk) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [خلصتني](https://open.spotify.com/album/0ayGHIODJCmkZ2shzEChwt) | 4:28 |
 | 26 | [خسارة فيك](https://open.spotify.com/track/3dSWMIRnmmv8QhbM82Om8d) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [خسارة فيك](https://open.spotify.com/album/6JXFlNgvwlnQmvB7DJG1fb) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Kabarto El Mawdo3 From Deebo Series](https://open.spotify.com/track/5HIN0momD42TC84Fb8XKwa) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kabarto El Mawdo3 From Deebo Series](https://open.spotify.com/album/22rMc5P5IZJ3SsdudstPad) | 2:26 |
 | 75 | [بكدب روحي](https://open.spotify.com/track/4MrQxuA4tmcVtFZtIZkV1U) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [بكدب روحي](https://open.spotify.com/album/4k9v9hjLj6f1DLaLQODDc5) | 3:58 |
 
-Snapshot ID: `Z1JNMwAAAAAUo0gOCgJOZCpplAGAUbrW`
+Snapshot ID: `Z1KYJgAAAAAxdzvetXl/XVslRlotzAmC`

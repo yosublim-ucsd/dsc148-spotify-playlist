@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-153 songs - 13 hr 29 min
+154 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Appalachia](https://open.spotify.com/track/7u0XWL41N6AqkmaqYGjBv8) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Appalachia](https://open.spotify.com/album/0wLo8lUnywiRPgkjrqZ3Bf) | 3:59 | 2022-05-13 |  |
 | [Appalachia](https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Stave](https://open.spotify.com/album/64LXA7HAr6IsT5wISAmZqu) | 3:59 | 2023-02-17 | 2024-04-19 |
 | [Babylon](https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Babylon](https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y) | 3:41 | 2024-04-16 |  |
+| [Birna](https://open.spotify.com/track/0VFjKovOdQZje1n3nLwGAb) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/6EKX2dTn9DYVvBoheKb4Hm) | 6:25 | 2024-12-06 |  |
 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 | 2022-07-08 |  |
 | [Blodbylgje](https://open.spotify.com/track/49vfzNh1RARoPNcDDIAGLf) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn) | [Blodbylgje](https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn) | 15:22 | 2022-05-13 | 2024-04-17 |
 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 | 2024-05-03 |  |
@@ -41,7 +42,7 @@
 | [Fæcele](https://open.spotify.com/track/36P9S31Td4pdmDd95c9OGe) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Fæcele](https://open.spotify.com/album/5r7j50lSSkS8kFO6CRFJFN) | 3:12 | 2022-05-13 | 2024-04-17 |
 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 | 2024-12-03 |  |
 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 | 2024-08-25 |  |
-| [Grå Hest](https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Grå Hest](https://open.spotify.com/album/2P7bJcPvvLfIizw86vv7AK) | 3:09 | 2022-05-13 |  |
+| [Grå Hest](https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Grå Hest](https://open.spotify.com/album/2P7bJcPvvLfIizw86vv7AK) | 3:09 | 2022-05-13 | 2024-12-07 |
 | [Grå Hest](https://open.spotify.com/track/362UfKo2khSB4vGMmChR14) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Nordlige Rúnaskog \(Deluxe Version\)](https://open.spotify.com/album/3EMtE4ozFRAa3ZTSGx7jR9) | 3:09 | 2023-02-17 | 2024-04-19 |
 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 |  |
 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 | 2022-12-01 | 2024-04-19 |

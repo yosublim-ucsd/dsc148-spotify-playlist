@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Dillom y Santiago Motorizado en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Pollo Bruxo y LaPeste en Portada.
 
-549 songs - 1 day 9 hr 16 min
+551 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Amarre](https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Amarre](https://open.spotify.com/album/2Ek3QgFbhya9DxNPwQnX3F) | 2:36 | 2023-07-07 | 2023-07-15 |
 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 | 2021-12-17 | 2024-09-28 |
 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 | 2022-08-13 | 2023-03-04 |
+| [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 |  |
 | [Ani Oni](https://open.spotify.com/track/6X805fVzhajIpPDApla2AM) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ani Oni / Fantasma](https://open.spotify.com/album/5MMClJXjiSN0UlHyjPxKVz) | 3:00 | 2024-04-19 | 2024-08-31 |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2023-08-05 |
 | [Aprendiendo A Amar](https://open.spotify.com/track/4UMqfxC6oXIC5V4OSZZhlX) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Aprendiendo A Amar](https://open.spotify.com/album/0d1q9kYWLh4GzB97LqZC9d) | 3:04 | 2022-06-02 | 2022-06-25 |
@@ -117,6 +118,7 @@
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-02-25 | 2023-01-28 |
 | [Demasiado](https://open.spotify.com/track/12URqDQygL3AlD2wF5WbhN) | [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [Demasiado](https://open.spotify.com/album/3uWNyMXOlW3gPYQSWX4wyV) | 2:17 | 2023-04-21 | 2023-06-12 |
 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 | 2022-08-09 | 2023-07-15 |
+| [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 | 2024-12-06 |  |
 | [Descending To Nowhere](https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Descending To Nowhere](https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt) | 3:29 | 2023-02-17 | 2023-04-24 |
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-04-14 | 2023-06-24 |
 | [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-12 | 2023-07-08 |
@@ -152,7 +154,7 @@
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 | 2023-10-14 |
 | [El Futuro Luce Brillante](https://open.spotify.com/track/7LVNF9GtJOoCJhfOl9mfKr) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino \(Deluxe\)](https://open.spotify.com/album/2rIbyvyTtqIpGc6POmzmrm) | 4:01 | 2023-12-01 | 2024-04-06 |
 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 | 2024-01-19 | 2024-07-06 |
-| [El perro de Alcibíades](https://open.spotify.com/track/0L35y8Hfp1GdXXl2LRB6fA) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Miren para allá!](https://open.spotify.com/album/7qabCQoyfTHRLKBnSDNdz6) | 3:48 | 2024-10-25 |  |
+| [El perro de Alcibíades](https://open.spotify.com/track/0L35y8Hfp1GdXXl2LRB6fA) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Miren para allá!](https://open.spotify.com/album/7qabCQoyfTHRLKBnSDNdz6) | 3:48 | 2024-10-25 | 2024-12-07 |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-20 | 2022-07-02 |
 | [El rock and roll pasó de moda](https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Lucas Jaubet](https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr) | [El rock and roll pasó de moda](https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB) | 4:01 | 2023-10-13 | 2024-05-11 |
 | [El Sol](https://open.spotify.com/track/01UdcrTLkqLfw134DAGA5R) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [El Sol](https://open.spotify.com/album/2gi9fD8c4pRr9NTyOcrvRn) | 2:03 | 2024-11-01 |  |
@@ -503,7 +505,7 @@
 | [Trebol](https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Trebol](https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7) | 2:42 | 2023-03-31 | 2023-06-24 |
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 | 2023-06-24 |
 | [Triste Pop](https://open.spotify.com/track/30zVKpTZnkrmKMiIcpoPlV) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Triste Pop](https://open.spotify.com/album/2zIYA9Zs3vk0yQk241Omgt) | 5:22 | 2022-09-03 | 2022-09-28 |
-| [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 | 2024-10-18 |  |
+| [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 | 2024-10-18 | 2024-12-07 |
 | [Tu Tiempo](https://open.spotify.com/track/5AnNiPaLMROa4wiba4VlWR) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tu Tiempo](https://open.spotify.com/album/6wGQJhl5Dvm0vgwGvJTsKp) | 3:25 | 2022-02-01 | 2023-09-09 |
 | [Tus Pasos](https://open.spotify.com/track/3akV8nvN6BNxdwT6yacH08) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [Tus Pasos](https://open.spotify.com/album/61Ql4NZcrtpn2euqdgIqYk) | 3:26 | 2023-08-04 | 2023-09-02 |
 | [Términos y Condiciones](https://open.spotify.com/track/0NeQY4wc4fCGkRUMPuA3wM) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Términos y Condiciones](https://open.spotify.com/album/2udbVEb7ZysWb605c91NRT) | 2:35 | 2024-10-25 |  |

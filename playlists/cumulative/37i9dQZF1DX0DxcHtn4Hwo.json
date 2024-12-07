@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 84500,
       "name": "A Thousand Hugs",
       "url": "https://open.spotify.com/track/4H4nia1p93hZibEj7OSa5i"
@@ -6723,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/4HXfz8OFPcxrBjd1ji2GUd"
+      },
+      "artists": [
+        {
+          "name": "Milo Creek",
+          "url": "https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/44uqQJfPv3LO9p4Zt8CyIH"
+    },
+    {
+      "album": {
         "name": "Isolde\u2019s dream",
         "url": "https://open.spotify.com/album/7fybKYONWHdx5KLUViY3oQ"
       },
@@ -8469,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Mama Bear's Blanket",
+        "url": "https://open.spotify.com/album/70DNNWTUR5aMcv2MeCLgAR"
+      },
+      "artists": [
+        {
+          "name": "David Finnegan",
+          "url": "https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90263,
+      "name": "Mama Bear's Blanket",
+      "url": "https://open.spotify.com/track/0Zgvc2ELsZNATXFUuqFcJJ"
+    },
+    {
+      "album": {
         "name": "Man In The Moon",
         "url": "https://open.spotify.com/album/2qvSAdDXgr3sk7gKy6m0cy"
       },
@@ -9200,7 +9236,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 128766,
       "name": "My Bonnie Lies Over the Ocean",
       "url": "https://open.spotify.com/track/7A5T3WgbiojUSYNKvSQrur"
@@ -10197,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "On My Dreamboat",
+        "url": "https://open.spotify.com/album/05q9Wu3pLVxpVIKAVvvpXl"
+      },
+      "artists": [
+        {
+          "name": "Isaac Trager",
+          "url": "https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105516,
+      "name": "On My Dreamboat",
+      "url": "https://open.spotify.com/track/3DcibBkqgOm09ZIG6qDepg"
+    },
+    {
+      "album": {
         "name": "On the Night You Were Born",
         "url": "https://open.spotify.com/album/2t9UIgBagllTRvR8Yb5mjj"
       },
@@ -10446,7 +10500,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 75675,
       "name": "pancake song",
       "url": "https://open.spotify.com/track/1jN64xMdXnsXifRwvPX3ZB"
@@ -10810,6 +10864,24 @@
       "duration_ms": 116197,
       "name": "Please Mr. Butterfly",
       "url": "https://open.spotify.com/track/7pSXRd7wETX1apSttk2G1w"
+    },
+    {
+      "album": {
+        "name": "Polly Put the Kettle on",
+        "url": "https://open.spotify.com/album/5INufWvoGDnaqG1n2HVcAf"
+      },
+      "artists": [
+        {
+          "name": "Everett Winslow",
+          "url": "https://open.spotify.com/artist/0rLeP5yceaqpq6RNoxnbVd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103687,
+      "name": "Polly Put the Kettle on",
+      "url": "https://open.spotify.com/track/2ZaWlNAymDtGSArULqD5vb"
     },
     {
       "album": {
@@ -16160,6 +16232,24 @@
       "duration_ms": 91304,
       "name": "White Pyjamas",
       "url": "https://open.spotify.com/track/2Zgn3c9rmuS7NOahAyblqf"
+    },
+    {
+      "album": {
+        "name": "Winter Outside",
+        "url": "https://open.spotify.com/album/5cvPdAFXA3GvtzdJVEMvfC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Gorbella",
+          "url": "https://open.spotify.com/artist/2yGkgsGKykkoiPO0xK6mB3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102461,
+      "name": "Winter Outside",
+      "url": "https://open.spotify.com/track/17mwptONmw1dv6bwrQATXg"
     },
     {
       "album": {

@@ -1128,7 +1128,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 227545,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/5YM7Ae4VUe7LNtvCcYpUcA"
@@ -3122,6 +3122,24 @@
       "duration_ms": 144960,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/35zMHLsN7awTR3wEpdtXC3"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1uzQe5pkZpVLIcuEjDxTb1"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225647,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1uw2yArj2WPAzF2kKJMgqq"
     },
     {
       "album": {
@@ -7059,6 +7077,24 @@
     },
     {
       "album": {
+        "name": "The scientist",
+        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267700,
+      "name": "The scientist",
+      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
+    },
+    {
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 217043,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/5THybCnLJJ6yELeignV078"

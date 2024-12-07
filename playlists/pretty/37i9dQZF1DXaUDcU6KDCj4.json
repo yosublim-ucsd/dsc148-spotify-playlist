@@ -1,13 +1,237 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Half Moon Run",
-  "num_followers": 820632,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Hildegard & Helena Deland",
+  "num_followers": 821297,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAAB3b/snW838GOyTfBKAO7l1",
+  "snapshot_id": "Z1KE0AAAAAB2itgrZpK9qlqYVQBpn2Rs",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "No Other Mind",
+        "url": "https://open.spotify.com/album/6AEyr8ZcvLltJtIlSrX040"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 203783,
+      "name": "No Other Mind",
+      "url": "https://open.spotify.com/track/7fYWIR34PZbo9RGpjLoAMH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 251784,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Be alive",
+        "url": "https://open.spotify.com/album/72n7hhFJLkvgpaX9BiKFpK"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Be alive",
+      "url": "https://open.spotify.com/track/72PebD6W6SXzUjOX6pO8Hl"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Focus Ring",
+        "url": "https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u"
+      },
+      "artists": [
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 147586,
+      "name": "Focus Ring",
+      "url": "https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "boundless & true",
+        "url": "https://open.spotify.com/album/69AcJYuoVwJzoq86dnA08r"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 196392,
+      "name": "dandelion dream",
+      "url": "https://open.spotify.com/track/0JtEIgORtcboJBcbTDbwk1"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Scornful Heat (feat. Tr\u00e9 Burt)",
+        "url": "https://open.spotify.com/album/7gzxMChEg5YmNicW1elmbE"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Scornful Heart - feat. Tr\u00e9 Burt",
+      "url": "https://open.spotify.com/track/78N8uVeFSeXrpZYWqfeLrb"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Good Guy",
+        "url": "https://open.spotify.com/album/5aVusXeGsyDiwo8Qd9hl5J"
+      },
+      "artists": [
+        {
+          "name": "Cece Coakley",
+          "url": "https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/1fW7KHl5cHzdKmCHS2mpJq"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 229996,
+      "name": "Rascal",
+      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Bet On Beauty",
+        "url": "https://open.spotify.com/album/2077zAocbofNbqEVimAIHV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Bet On Beauty",
+      "url": "https://open.spotify.com/track/2oX4mCEcN2oV6F48gtcHMe"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Raindrop River",
+        "url": "https://open.spotify.com/album/0BBHtyJ1gX6q7NwmeqyQDg"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Raindrop River",
+      "url": "https://open.spotify.com/track/6GFOQQn4EJkHIMx9ILENnS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "high school reunion",
+        "url": "https://open.spotify.com/album/0G7VElk25Pds0bYkwCEtZT"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 191581,
+      "name": "high school reunion",
+      "url": "https://open.spotify.com/track/2OUmRTuUaGMC7omfMUS2pP"
+    },
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
@@ -23,6 +247,22 @@
       "duration_ms": 215652,
       "name": "Rust.",
       "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Trail Horse",
+        "url": "https://open.spotify.com/album/7C3fDOTaE40u57RyXQ5NWj"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 237351,
+      "name": "Trail Horse",
+      "url": "https://open.spotify.com/track/5B02dAqo1u9OYjoeBV0MvI"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -2307,250 +2547,6 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1lrzJl5nqeFkcuK7J0IOQm"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 175790,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/5GtfNJlEWahLnXsKFzZtTz"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Soft Kissing Hour",
-        "url": "https://open.spotify.com/album/0GZiHFKeTi5lvDmGmDyHVt"
-      },
-      "artists": [
-        {
-          "name": "Nat & Alex Wolff",
-          "url": "https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S"
-        }
-      ],
-      "duration_ms": 242731,
-      "name": "Soft Kissing Hour",
-      "url": "https://open.spotify.com/track/0kqAay0O50MTaQtrPmV26H"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Baby Bright",
-        "url": "https://open.spotify.com/album/1zmDYIWkJIJfbqXTtUoY0X"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 232853,
-      "name": "Baby Bright",
-      "url": "https://open.spotify.com/track/3mqmXj2IkjNbWNwCrQy8cw"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "this little lighter of mine",
-        "url": "https://open.spotify.com/album/7wZwvVVUR933QvJuIvke98"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "this little lighter of mine",
-      "url": "https://open.spotify.com/track/7c5ItJB9cCGme65bA4ifAK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 262518,
-      "name": "Spring Into Summer",
-      "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Without A Leg To Stand On",
-        "url": "https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Without A Leg To Stand On",
-      "url": "https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Much Ado About Nothing",
-        "url": "https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 229795,
-      "name": "Much Ado About Nothing",
-      "url": "https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Neon Signs",
-        "url": "https://open.spotify.com/album/42vZKcVepSEpAt2c1LniXQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 307062,
-      "name": "Neon Signs",
-      "url": "https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "I'm Not Dyin'",
-        "url": "https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "I'm Not Dyin'",
-      "url": "https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Porcupine Tattoo",
-        "url": "https://open.spotify.com/album/7yHTcBmhMU0hRmoFQIDVOf"
-      },
-      "artists": [
-        {
-          "name": "Everything Is Recorded",
-          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Porcupine Tattoo",
-      "url": "https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "With a Lightning Strike",
-        "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 209163,
-      "name": "Mean Guy",
-      "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Snowpath",
-        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Snowpath",
-      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "This Was A Gift",
-        "url": "https://open.spotify.com/album/2tzMAYElf5FKo1AL5Rrcxw"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "This Was A Gift",
-      "url": "https://open.spotify.com/track/5w5YZThDOGwskczdLV5fel"
     }
   ],
   "unique_name": "Fresh Folk",

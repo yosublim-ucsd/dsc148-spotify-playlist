@@ -4,7 +4,7 @@
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-162 songs - 6 hr 15 min
+165 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 | 2024-10-17 |  |
 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 | 2024-10-17 |  |
 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 | 2024-10-17 |  |
+| [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 | 2024-12-06 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 | 2024-10-17 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/57J4SCSsiHBsWifOeUSVsq) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Jingle Bells](https://open.spotify.com/album/1nb65nP4yprMjJPSUEjxK0) | 2:30 | 2024-10-17 |  |
 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 | 2024-10-17 |  |
@@ -42,6 +43,7 @@
 | [Cold December Night](https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q) | [Frosty Pete](https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R) | [Cold December Night](https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva) | 2:41 | 2024-10-17 |  |
 | [Cold Wonderland](https://open.spotify.com/track/3WKOaCXGUQ3uFRwQbnyb4G) | [Melteoria](https://open.spotify.com/artist/270POK21q60lx287MFYyXm) | [Cold Wonderland](https://open.spotify.com/album/31QrLCguWzOuK11DPdaKhl) | 2:07 | 2024-10-17 |  |
 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 | 2024-10-17 |  |
+| [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 | 2024-12-06 |  |
 | [Corre Caballito](https://open.spotify.com/track/4i7iZE9YYPiUUcT9ycUb1m) | [Jaire Tiraxi](https://open.spotify.com/artist/0lq4gjKRUvC0TL8CJdHFEs) | [Corre Caballito](https://open.spotify.com/album/2FvpUgEVdbFnInaFPfgEsb) | 2:07 | 2024-10-17 |  |
 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 | 2024-10-17 |  |
 | [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 | 2024-10-17 |  |
@@ -129,6 +131,7 @@
 | [Santa's Delight](https://open.spotify.com/track/2CISlQAxMNLeEvOQqxYUzC) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Santa's Delight](https://open.spotify.com/album/6P8hC3DkP5TDiCM6mq6E3Z) | 2:08 | 2024-11-14 |  |
 | [Santa's jam](https://open.spotify.com/track/0IOdHQ8ewOQlStX9UJEqGK) | [Statistix](https://open.spotify.com/artist/3FDY67kyoGgLMWGVywQ6OZ) | [Santa's jam](https://open.spotify.com/album/3aeJZMAh18XVC75Gtx3hcE) | 2:25 | 2024-10-17 |  |
 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 | 2024-10-17 |  |
+| [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 | 2024-12-06 |  |
 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 | 2024-10-17 |  |
 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 | 2024-11-14 |  |
 | [SILENT NIGHT](https://open.spotify.com/track/06kYtG3AjxoOiSfw1yUOgj) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Christmas\-hop](https://open.spotify.com/album/30BnyFUc8Q4L9S9RqAunHe) | 3:21 | 2024-10-17 |  |

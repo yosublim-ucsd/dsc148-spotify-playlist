@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 33934,
+  "num_followers": 33946,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lsiQAAAAAEBxyU/NfWQpr+9mWxcgP1",
+  "snapshot_id": "Z1L1twAAAACQe56Om65Ml/rqG9iPfCGX",
   "tracks": [
     {
       "added_at": "2024-11-27 13:46:02",
@@ -71,6 +71,50 @@
       "duration_ms": 226578,
       "name": "KUMMBA",
       "url": "https://open.spotify.com/track/1Xyl21ZvU2lIz15UxvQzOT"
+    },
+    {
+      "added_at": "2024-12-06 13:00:59",
+      "album": {
+        "name": "Aaru Nee",
+        "url": "https://open.spotify.com/album/7GjRnGovDsIqY1MjTVx68w"
+      },
+      "artists": [
+        {
+          "name": "Vocal Dude",
+          "url": "https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI"
+        },
+        {
+          "name": "Hesham Luca",
+          "url": "https://open.spotify.com/artist/5UvqCjykzX8sm8VCo9COmb"
+        },
+        {
+          "name": "Sourav Suresh",
+          "url": "https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu"
+        }
+      ],
+      "duration_ms": 161234,
+      "name": "Aaru Nee",
+      "url": "https://open.spotify.com/track/2gVg3Df0dKsV35t8HN1EqF"
+    },
+    {
+      "added_at": "2024-12-06 13:01:43",
+      "album": {
+        "name": "Spot On",
+        "url": "https://open.spotify.com/album/10O8TAwWGW8uRpjwCz7NNb"
+      },
+      "artists": [
+        {
+          "name": "Prakash Alex",
+          "url": "https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz"
+        },
+        {
+          "name": "Christakala",
+          "url": "https://open.spotify.com/artist/6oMdITZxR2CdwfbzPGRK3P"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Spot On",
+      "url": "https://open.spotify.com/track/6Z81IruV4O8roYjAuYuCx4"
     },
     {
       "added_at": "2024-02-26 07:32:29",
@@ -781,26 +825,6 @@
       "url": "https://open.spotify.com/track/3pjXqo5XpSTAiiqFJ7pwP9"
     },
     {
-      "added_at": "2024-07-12 10:08:08",
-      "album": {
-        "name": "Na Papamu Pogotti - Hues Of Nalinakanthi",
-        "url": "https://open.spotify.com/album/4UQDQM8Lk070hCHRVWhCrE"
-      },
-      "artists": [
-        {
-          "name": "Rijo Joseph",
-          "url": "https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ"
-        },
-        {
-          "name": "Neelima P.R",
-          "url": "https://open.spotify.com/artist/5bzK9ENPlhlg2i3r228pV2"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Na Papamu Pogotti - Hues Of Nalinakanthi",
-      "url": "https://open.spotify.com/track/1vCsPdcBC7nwnMLtUfsVz0"
-    },
-    {
       "added_at": "2024-04-26 09:46:47",
       "album": {
         "name": "Cholo Shobe",
@@ -1011,30 +1035,6 @@
       "duration_ms": 208701,
       "name": "Paarvai",
       "url": "https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN"
-    },
-    {
-      "added_at": "2024-06-28 13:30:51",
-      "album": {
-        "name": "Life Is Adipoli",
-        "url": "https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y"
-      },
-      "artists": [
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "Sajan CR",
-          "url": "https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Life Is Adipoli",
-      "url": "https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO"
     },
     {
       "added_at": "2024-06-10 06:51:24",
@@ -1327,38 +1327,6 @@
       "duration_ms": 313624,
       "name": "Urumbu",
       "url": "https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
-        "name": "Padayatra (Live)",
-        "url": "https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1"
-      },
-      "artists": [
-        {
-          "name": "Job Kurian",
-          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Padayatra - Live",
-      "url": "https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
-        "name": "Fish Rock",
-        "url": "https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv"
-      },
-      "artists": [
-        {
-          "name": "Thaikkudam Bridge",
-          "url": "https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI"
-        }
-      ],
-      "duration_ms": 259127,
-      "name": "Fish Rock",
-      "url": "https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B"
     },
     {
       "added_at": "2024-01-15 04:10:09",

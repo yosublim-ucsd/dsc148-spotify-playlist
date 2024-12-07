@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Resist The System!",
+        "url": "https://open.spotify.com/album/3I3Shbekm7jsBMIMlcFoiS"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Tony Tillman",
+          "url": "https://open.spotify.com/artist/3ykPxobhwzrQ2a15hEFWAo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152810,
+      "name": "Before Ye Was Republican",
+      "url": "https://open.spotify.com/track/6syM7I90jAbl2DSowZ49gU"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 139428,
       "name": "Feel Me?",
       "url": "https://open.spotify.com/track/6k9BKlPz5J4uXMOtita08J"
@@ -3830,7 +3852,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 199404,
       "name": "Holy",
       "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
@@ -5040,6 +5062,32 @@
       "duration_ms": 136470,
       "name": "Let Go Let God",
       "url": "https://open.spotify.com/track/0FaZTQqTrOOVp84K1aygmC"
+    },
+    {
+      "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
     },
     {
       "album": {
@@ -6440,7 +6488,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 175368,
       "name": "Pick Up The Pieces",
       "url": "https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX"
@@ -7140,6 +7188,24 @@
       "duration_ms": 149566,
       "name": "So What",
       "url": "https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW"
+    },
+    {
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/0FQHtuBu64K3EW1kc2oiKx"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0QST4dTRitZquNmLodBdON"
     },
     {
       "album": {

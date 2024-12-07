@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Zoe Ko
+> Dark, hard hitting pop\. Cover: Ellise
 
-823 songs - 1 day 13 hr 55 min
+827 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Dark Side](https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Dark Side](https://open.spotify.com/album/1Mt02bzaETcvNe5psmpdzh) | 2:05 | 2023-06-30 | 2023-09-09 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-02-25 | 2022-11-19 |
 | [Dead To Me](https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Dead To Me](https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO) | 2:32 | 2023-07-14 | 2023-12-09 |
+| [dead2me](https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [dead2me](https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3) | 2:44 | 2024-12-06 |  |
 | [Dear Denny](https://open.spotify.com/track/0ODA6YVgdZpss4n7JKaqzc) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Dear Denny](https://open.spotify.com/album/6an5iKKW7Nf7PUTvCxna0A) | 2:41 | 2022-03-04 | 2022-03-26 |
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-04-01 |
 | [deathmatch](https://open.spotify.com/track/6cDfk6xwxZ5GlXPjLlYcKy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:41 | 2022-11-18 | 2023-03-25 |
@@ -469,6 +470,7 @@
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 | 2023-07-08 |
 | [MASOCHIST](https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [OVER HER DEAD BODY](https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2) | 2:23 | 2023-10-13 | 2023-12-09 |
 | [Masterclass](https://open.spotify.com/track/0H5nic3dfKXg09HQGmcmTq) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Masterclass](https://open.spotify.com/album/5s865EPaHzPgrilRTsz1GA) | 2:52 | 2022-04-29 | 2022-06-18 |
+| [MASTERMIND](https://open.spotify.com/track/689AAIH7FSHYwTG2HujHSU) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [MASTERMIND](https://open.spotify.com/album/3IRv0jwNnAbEzSUZPvfv2M) | 3:00 | 2024-12-06 |  |
 | [Masterpiece](https://open.spotify.com/track/3qkKAfqOn7laGPeVicY1bX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Masterpiece](https://open.spotify.com/album/1fO1r3rTHIcF1s6pG8EGZs) | 2:54 | 2024-02-28 | 2024-06-29 |
 | [Match To Memories](https://open.spotify.com/track/1wmHClgdhhnvSXtjhnWQcg) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Match To Memories](https://open.spotify.com/album/5dSBJEEPuzDPulYXTjnugi) | 2:50 | 2024-07-26 | 2024-10-19 |
 | [Maybe All the Rumours Are True](https://open.spotify.com/track/5TOypkLxV6SDEIePb7lvox) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Maybe All the Rumours Are True](https://open.spotify.com/album/5bzK7vxzep2qDCOUxvXwAr) | 3:14 | 2022-07-22 | 2023-03-25 |
@@ -604,6 +606,7 @@
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-24 | 2024-06-29 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 | 2024-08-10 |
+| [ROCKSTAR](https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL) | [KANNER](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh) | [ROCKSTAR](https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA) | 2:38 | 2024-12-06 |  |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2024-10-05 |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 | 2023-07-15 |
@@ -824,6 +827,7 @@
 | [yellow tape](https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [yellow tape](https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE) | 2:20 | 2023-10-20 | 2024-01-20 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-09-24 |
 | [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2023-09-03 | 2023-09-23 |
+| [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-06 |  |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
 | [You're Not A God](https://open.spotify.com/track/6Ljsg7wOFnxT5YevmHxJUT) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [You're Not A God](https://open.spotify.com/album/5mSw3KJaIvvfnmLy2AOgys) | 3:03 | 2023-10-27 | 2024-01-27 |

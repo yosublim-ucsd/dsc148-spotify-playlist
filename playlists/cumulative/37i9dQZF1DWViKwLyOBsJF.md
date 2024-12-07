@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-110 songs - 4 hr 50 min
+112 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/7fibMOfC0p0083Ghn92zoA) | [Christmas Music Experts](https://open.spotify.com/artist/6RLbHo2g5l1mQBRFFTs8RA) | [100 Classic Songs For Christmas](https://open.spotify.com/album/6GtVBaPeDGXYlciQbP4lQ1) | 4:25 | 2023-09-27 | 2023-11-05 |
 | [Angels from the Realms of Glory](https://open.spotify.com/track/3Nq0nWKZqZOpYEc1IMWb4g) | [Christmas Piano Maestro](https://open.spotify.com/artist/6Fy2stjbuAVE5MEtqSTTX0) | [Non\-Denominational Holiday Music](https://open.spotify.com/album/3KPhVaCPCPktxfmNoBuDVp) | 4:25 | 2022-11-11 | 2022-11-14 |
 | [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 | 2021-11-19 | 2024-04-19 |
+| [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 | 2024-12-06 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/38Lmu5jKK9tDNohHZs76to) | [Matthew Reid](https://open.spotify.com/artist/0TrkVAcqxuyL1XWjaee9rD) | [Angels We Have Heard on High](https://open.spotify.com/album/2ulYvAiM3SKoWhwKqehG4J) | 2:35 | 2024-11-06 |  |
 | [Angels, from the Realms of Glory \(arr\. A\. Delmoni\)](https://open.spotify.com/track/56YOeRNT8wdRA9vvc5nq5i) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 1:29 | 2021-11-19 | 2023-09-28 |
 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 | 2021-11-19 | 2023-12-20 |
@@ -81,6 +82,7 @@
 | [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 | 2021-11-19 | 2023-10-19 |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/6wxLTjOG4U4rC9CWxGhWxu) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 2:52 | 2021-11-19 | 2023-10-19 |
 | [O Holy Night](https://open.spotify.com/track/6FYRgmZehWRvrrZRvvi0sM) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [O Holy Night](https://open.spotify.com/album/2quKQPBMUWYI38tVZwRPNp) | 3:31 | 2024-11-12 |  |
+| [O Holy Night \- For Two Cellos](https://open.spotify.com/track/1kzmVfBQ7pNcj2M0JLPLWF) | [Mr & Mrs Cello](https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7) | [Christmas Carols for Two Cellos](https://open.spotify.com/album/0Rjt9kkTy2F8Tcd54uM2WX) | 4:02 | 2024-12-06 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 2:38 | 2021-11-19 | 2023-11-14 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [O Little Town of Bethlehem](https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT) | 2:37 | 2023-11-13 |  |
 | [O Tannenbaum](https://open.spotify.com/track/0X7zX4vhaYLY0Li1zTpfnS) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Little Drummer Boy](https://open.spotify.com/album/50N8RLcnXHRulPucazKUfE) | 2:30 | 2022-12-05 | 2022-12-16 |

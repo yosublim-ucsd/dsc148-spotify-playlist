@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: SCH",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -108,6 +108,28 @@
       "duration_ms": 171820,
       "name": "+1 pour l'artiste",
       "url": "https://open.spotify.com/track/051SRL0n7bNknKqge6QSuI"
+    },
+    {
+      "album": {
+        "name": "JVLIVS III : Ad Finem",
+        "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "02:00",
+      "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
     },
     {
       "album": {
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 148067,
       "name": "52 hertz",
       "url": "https://open.spotify.com/track/6pMpUyh5nHu5TvVAXS9Zqr"
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 165386,
       "name": "Ah les crocodiles",
       "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
@@ -7588,7 +7610,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 227020,
       "name": "Ca Va Aller",
       "url": "https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w"
@@ -8602,7 +8624,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 153618,
       "name": "Chacun son chacun",
       "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
@@ -10541,6 +10563,32 @@
     },
     {
       "album": {
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/7hMSLnBcnkrfOs0Uluksc5"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155659,
+      "name": "Comment te remplacer",
+      "url": "https://open.spotify.com/track/61wsJbova6u1UNIBmoKMcK"
+    },
+    {
+      "album": {
         "name": "Comment tu vas finir",
         "url": "https://open.spotify.com/album/7cJZ69AZhMMGk87nRwY8sz"
       },
@@ -11042,7 +11090,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196320,
       "name": "Coup de foudre",
       "url": "https://open.spotify.com/track/4kcbhPSHm99ZH4AcUrQk9s"
@@ -11118,7 +11166,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 245506,
       "name": "Cours, Cora, cours",
       "url": "https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk"
@@ -16896,7 +16944,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 148778,
       "name": "F.I.U.W",
       "url": "https://open.spotify.com/track/4w2I8pWh8YAB0nZ9D9QYgg"
@@ -19918,7 +19966,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 198000,
       "name": "Guardia",
       "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
@@ -20516,7 +20564,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 140996,
       "name": "High On Life",
       "url": "https://open.spotify.com/track/1DcvHIiIHJcWK3kPfFwkrX"
@@ -24090,7 +24138,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 227800,
       "name": "Je suis de toi",
       "url": "https://open.spotify.com/track/6ufDjxcJR0Ki3dMbmVLx9v"
@@ -25236,6 +25284,28 @@
       "duration_ms": 211000,
       "name": "Kicks",
       "url": "https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO"
+    },
+    {
+      "album": {
+        "name": "KID",
+        "url": "https://open.spotify.com/album/1aR1plJlFMGYlkMI3Mulp1"
+      },
+      "artists": [
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "KID",
+      "url": "https://open.spotify.com/track/3AaA9yUH3dNLG0HLR5hZ9k"
     },
     {
       "album": {
@@ -27860,7 +27930,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 140583,
       "name": "La v\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
@@ -29196,6 +29266,32 @@
       "duration_ms": 175840,
       "name": "Le phare",
       "url": "https://open.spotify.com/track/7LRGPtVQQYY6K8b33T0TGi"
+    },
+    {
+      "album": {
+        "name": "Le plug",
+        "url": "https://open.spotify.com/album/1wgvUghmy0JePLY8uwgRHZ"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187335,
+      "name": "Le plug",
+      "url": "https://open.spotify.com/track/6R7ffuUUvZYyLjk3DoWlFd"
     },
     {
       "album": {
@@ -31316,7 +31412,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155592,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751"
@@ -32454,7 +32550,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3mNkS16EktzfCs0O1eWdPd"
@@ -35599,6 +35695,24 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/5Z3auDRa1mAHh1zLzJ4V9T"
+      },
+      "artists": [
+        {
+          "name": "Mouss",
+          "url": "https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160824,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/4flCB2VC4nXtUZtN9xNoCR"
+    },
+    {
+      "album": {
         "name": "Morning Man",
         "url": "https://open.spotify.com/album/2riC9NunZOsYDF8rq0UAxy"
       },
@@ -35872,6 +35986,24 @@
       "duration_ms": 162173,
       "name": "MPC 2021",
       "url": "https://open.spotify.com/track/55zbh8DTg1np6DCJnxEcCG"
+    },
+    {
+      "album": {
+        "name": "Muay Tha\u00ef",
+        "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185636,
+      "name": "Muay Tha\u00ef",
+      "url": "https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R"
     },
     {
       "album": {
@@ -37824,7 +37956,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 193027,
       "name": "OK",
       "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
@@ -39662,7 +39794,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196963,
       "name": "Partir",
       "url": "https://open.spotify.com/track/30aD43Mx2fcGrej0NzhFhi"
@@ -40028,6 +40160,24 @@
       "duration_ms": 190360,
       "name": "Passe-mo\u00e9 un Qu\u00e9bec",
       "url": "https://open.spotify.com/track/0hYGhxW6ZuCV1ZIEBaPkIP"
+    },
+    {
+      "album": {
+        "name": "Passenger Prince",
+        "url": "https://open.spotify.com/album/6rGToOme38qBuUeic5U6zs"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261802,
+      "name": "Passenger Prince",
+      "url": "https://open.spotify.com/track/0dcLSzhTGBJq3ZAwHNM52e"
     },
     {
       "album": {
@@ -40614,7 +40764,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 130979,
       "name": "Petite Dose",
       "url": "https://open.spotify.com/track/5sJYv4k2LCN2JFytafATyv"
@@ -40632,7 +40782,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 179080,
       "name": "petite musique",
       "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
@@ -43368,7 +43518,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 211239,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
@@ -47262,7 +47412,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
@@ -48254,7 +48404,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 159377,
       "name": "soleil",
       "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
@@ -55354,7 +55504,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 102426,
       "name": "Vie Viano (#STATION 1)",
       "url": "https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa"

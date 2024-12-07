@@ -4,28 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,429 likes - 19 songs - 1 hr 1 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,429 likes - 15 songs - 48 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Lifetime in Pain](https://open.spotify.com/track/688wANrgJUQihI33I12pmU) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [A Lifetime in Pain](https://open.spotify.com/album/4Ygkqq6yVjeA7Jpmj1NwqM) | 3:08 |
-| 2 | [No Shelter \(From The Rain\)](https://open.spotify.com/track/23unfXqWKBLYU5dNyZAAMD) | [Trainman Blues](https://open.spotify.com/artist/4EtygfoYbLDpe9eKy25sUH) | [No Shelter \(From The Rain\)](https://open.spotify.com/album/2LLZ6Oik0tCrnjZ2Q22vyH) | 2:38 |
-| 3 | [Lot Hjerte Ditt dra](https://open.spotify.com/track/2zQIukVEKopPXDt4Iddxea) | [Thosebricks](https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj), [Skjevik](https://open.spotify.com/artist/62MIIbNPmuJGIOWR4XQ7em) | [Lot Hjerte Ditt dra](https://open.spotify.com/album/1HMZCJdQC7Ctxf9VLH8z2k) | 3:00 |
-| 4 | [Näralivetupplevelsen](https://open.spotify.com/track/7HZTE9iWLtZ7zLwkdiErnG) | [Björnarna](https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y) | [Näralivetupplevelsen/Varför](https://open.spotify.com/album/2e7KPP2Sh4BqmmlBjEnhbF) | 3:00 |
-| 5 | [Menade för alltid](https://open.spotify.com/track/3m6bG9kpVLZTlcVYajgrdK) | [Björns Band](https://open.spotify.com/artist/5vshbshO7DybuIWIq86rUG) | [Menade för alltid](https://open.spotify.com/album/3XUogjd33m92RKAEpiAAS4) | 3:37 |
-| 6 | [Mitt liv](https://open.spotify.com/track/2OQim8eOoNFt2V6vflz1Iy) | [Håkan Hemlin](https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt) | [Mitt Liv](https://open.spotify.com/album/1VkVir842K6hcQCFjJdq3q) | 3:18 |
-| 7 | [Passa](https://open.spotify.com/track/2XEiJiYKYo4Qa3BoahFLbB) | [Mazar](https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF) | [Passa](https://open.spotify.com/album/0LsWiOoGROXvzFS3RilhLF) | 2:25 |
-| 8 | [Better](https://open.spotify.com/track/0UXY7P2ThkbB4nLDB9YDLV) | [Maklo & Peter](https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7) | [Better](https://open.spotify.com/album/1qdXqSEcDhJK0QPcwUBBkT) | 3:01 |
-| 9 | [A.K.W](https://open.spotify.com/track/3dEi6TiJoZQehVyZFrrTqR) | [Landsväg 76](https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1) | [A.K.W](https://open.spotify.com/album/3tLqMjKJsekO0rhrKRw876) | 3:36 |
-| 10 | [real love](https://open.spotify.com/track/1GEY022Fl3SMLXEvwZ1v2K) | [BRAVO](https://open.spotify.com/artist/4frFc8oT9qzlTtoHiACIwy) | [real love](https://open.spotify.com/album/5Y13BqoCyXGolNwNi5oHpN) | 2:45 |
-| 11 | [There Will Be Oceans](https://open.spotify.com/track/6oSzzOGhTwVIBJQRgZobJv) | [Drever](https://open.spotify.com/artist/5dwBfmm7dTk3NiEBLZ3vaJ) | [There Will Be Oceans](https://open.spotify.com/album/4hGhAc31KMPfBJOHe9v8vz) | 4:26 |
-| 12 | [tenukepit \- Live at Rytmikorjaamo, 24/5/2024](https://open.spotify.com/track/4IsUkvAkbMD1s5duvxE1It) | [1Tipe](https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7), [Kvartetti](https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi) | [tenukepit \(Live at Rytmikorjaamo, 24/5/2024\)](https://open.spotify.com/album/2AmXEXgmGBbjhmU8poPigW) | 2:38 |
-| 13 | [baby blue](https://open.spotify.com/track/75lWNZgm1yRmLY4hvHYeuW) | [the diamondbacks](https://open.spotify.com/artist/6SPdbDQWjOtcFMmTh9sQkN) | [baby blue](https://open.spotify.com/album/6Atyfmfis9Lphy3RW39FzI) | 3:12 |
-| 14 | [Luciavisa](https://open.spotify.com/track/7ES0WiM2jSbstCFa1SvGpi) | [TONÅ](https://open.spotify.com/artist/02phQfSig5Csyp242kM3RI) | [Luciavisa / Den signade dag](https://open.spotify.com/album/0RRp1xw4XlRHHf3bP51HDR) | 3:50 |
-| 15 | [Never Enough](https://open.spotify.com/track/2jo3QJDR7CBTzsvZGSgRW8) | [Pretty Smile](https://open.spotify.com/artist/6rhtmUtQrmLCTbJQt6nK7C) | [Never Enough](https://open.spotify.com/album/3zIGPXKoVkntflYcl5IzTP) | 3:00 |
-| 16 | [Perfect display of love](https://open.spotify.com/track/3OaT6MApTDWCIj2e2M8dcZ) | [Portraits & Tales](https://open.spotify.com/artist/7se2ygBpDjPSbQ0plY9mI1) | [Perfect display of love](https://open.spotify.com/album/6vdLOxlkzttoh5iYslxy83) | 3:49 |
-| 17 | [Respond Time](https://open.spotify.com/track/4gH3M88N2y7N1TEcKkXjd4) | [Hadidi Nouri](https://open.spotify.com/artist/1dEWwolQzveMvU8kQ9MWnd) | [Closer To The Edge](https://open.spotify.com/album/1LuXxIRUQbCSA31KHQPpPC) | 2:58 |
-| 18 | [Like A Stone](https://open.spotify.com/track/1P4c9CnFBbiuw0oWFdRond) | [Alf Hill](https://open.spotify.com/artist/1rV7jt56jKFcW76hvEuPlH) | [Like A Stone](https://open.spotify.com/album/0Lzcie1A7gGdIX8BeE6cwi) | 3:38 |
-| 19 | [Love me](https://open.spotify.com/track/4Gpm8Ri68AW1nimzYlGaWj) | [Doktor Stent](https://open.spotify.com/artist/1JDVkP9NmrGJm0OgQtNxGF) | [Desert \- upgraded](https://open.spotify.com/album/29trPtjgm7PDrHOpdcZzGf) | 3:52 |
+| 1 | [Willow](https://open.spotify.com/track/3qizmLdqqq4uODMQLQrOYz) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Willow](https://open.spotify.com/album/0f4o5OFqlNz3EqX36zv6c5) | 2:52 |
+| 2 | [Back Alley Art](https://open.spotify.com/track/7ovEpUZXLbWnV8gqtoafya) | [TmmyX](https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK), [Chris Rivers](https://open.spotify.com/artist/4TCqgEIWd5RsCKItJqt8PL), [nikmoody](https://open.spotify.com/artist/3xJPID7HT7YaFXtDZPhfIC) | [Back Alley Art](https://open.spotify.com/album/4HwKgTOUKGmLVFDgQFGcPm) | 2:19 |
+| 3 | [Aire En Perspectiva](https://open.spotify.com/track/32buKY7l3NZViuwy6AEIRa) | [El Cantaitor](https://open.spotify.com/artist/4nJHolL2iizfZUo6PhbOo0), [Má](https://open.spotify.com/artist/3KPau62ZVJLDhiFtzwRABv) | [Aire En Perspectiva](https://open.spotify.com/album/7vOpNYNQArpp57nKDlKaQU) | 2:08 |
+| 4 | [Jag Kan Undra](https://open.spotify.com/track/0kHKShvUx6ybgWqXY4q6dx) | [Mikäel](https://open.spotify.com/artist/531Lk2RKOoToHcmoPdeLLd) | [Jag Kan Undra](https://open.spotify.com/album/1wYW3b220mVXioJCEK7EMK) | 3:32 |
+| 5 | [Hög Frekvens](https://open.spotify.com/track/7DDSJVoDkSe0w8oAMg7EIO) | [Dava](https://open.spotify.com/artist/59UfURXqVmhzy5FZkFJFRg), [Vaiken](https://open.spotify.com/artist/2ldZCADuSqTdJsYMT4VLjn), [Västermalmsligan](https://open.spotify.com/artist/0TgEeBPqfe7ujdZ5yK1V6R) | [Hög Frekvens](https://open.spotify.com/album/6uYTrsUOOYBOwuZNDLiXFd) | 2:49 |
+| 6 | [STAY](https://open.spotify.com/track/3ma9X0f5i7ugYOcMqxhy6v) | [Odessa K](https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7) | [STAY](https://open.spotify.com/album/5ra3Dw2FpXDY2QxEm8rgKc) | 3:28 |
+| 7 | [Don't Wait Up](https://open.spotify.com/track/59V9sInxwR968NUPwqTqUq) | [THEFIRSTBOURNE.](https://open.spotify.com/artist/4lhxJG3mRdgz1GYjvHXBhd) | [Don't Wait Up](https://open.spotify.com/album/47XGzR9ihkAzhsGQPEU0ws) | 3:42 |
+| 8 | [Cage](https://open.spotify.com/track/5CMP5hUSA4OFDYLWz8zvw1) | [Marionette](https://open.spotify.com/artist/2vvpK4sY1sBxlsdaLPvXZ4) | [Cage](https://open.spotify.com/album/3SpKxqcYtoqZ3PVEU6IGXb) | 3:20 |
+| 9 | [Electric](https://open.spotify.com/track/61aTnmVhVyZXzr8bnIOzie) | [LOMMI](https://open.spotify.com/artist/33J5hTWqIi9Yxr8ddzPWnh) | [Electric](https://open.spotify.com/album/5THpi4GmTTGaXnCaXk0jOY) | 4:19 |
+| 10 | [If Not You](https://open.spotify.com/track/0l9ZtErThWAupmvdyDi4WM) | [Melinda](https://open.spotify.com/artist/0HnP2qhrcSNH3Ks8b0kPCF), [Magnus Bäcklund](https://open.spotify.com/artist/5lDRHWIcnl76SBeXJBInNl) | [If Not You](https://open.spotify.com/album/2bHIkTG6PSYrpVeiEaKOoI) | 2:59 |
+| 11 | [Funeral](https://open.spotify.com/track/6oZGDyr5zznuKbYQLR8yf3) | [KAYA](https://open.spotify.com/artist/5Q2jQISS0fpfPLHj4IKBsj) | [Funeral](https://open.spotify.com/album/40CYKOWhgUByQEEdU4Zv87) | 2:05 |
+| 12 | [Where I Belong](https://open.spotify.com/track/0Aw4tvBRE71nq36uE24tdh) | [Magne Håheim](https://open.spotify.com/artist/5I0UTc9IHeSImz2XxhoxZF) | [Where I Belong](https://open.spotify.com/album/0zZFX72wyBJGJ4GpKIWsMX) | 3:23 |
+| 13 | [Minnesota](https://open.spotify.com/track/6ADHwvnrgGvr5j7M7n1y9n) | [Månlandet](https://open.spotify.com/artist/7jXQOHmBRhYmqLmnSHsrSV) | [Minnesota](https://open.spotify.com/album/4a6rjUXz066QsvmvEUGIEd) | 3:08 |
+| 14 | [The Ones in Charge \- Alternative Mix](https://open.spotify.com/track/31gILS0PIz7mdpR8baYoxm) | [Sound Interface Device](https://open.spotify.com/artist/2EiEOoh9IlTvUTLtb3z7xo) | [The Ones in Charge](https://open.spotify.com/album/5i0s8y13uyBClgK7y4SBco) | 5:34 |
+| 15 | [Home Care Sadist](https://open.spotify.com/track/7gy2M0NOB5LFVMn3stw5uL) | [Margaux's Star Chart](https://open.spotify.com/artist/1hgcE7ouQS3rl1nzquncLf) | [Vicious Habits](https://open.spotify.com/album/0XUo9UTf0nTjm1veHU4dMU) | 2:47 |
 
-Snapshot ID: `AAAD7NGyHAhHuUnkKHeyyz7Ye+EcO2xG`
+Snapshot ID: `AAAD8V6VSM7q+h6nzCcE+FvpMuZb3Rro`

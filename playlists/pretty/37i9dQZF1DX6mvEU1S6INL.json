@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1137625,
+  "num_followers": 1137627,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Smoke + Mirrors",
-        "url": "https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Nothing But Thieves (Deluxe)",
         "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 206560,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Smoke + Mirrors",
+        "url": "https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Lover, Please Stay",
+      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
         "name": "thoughts i have while lying in bed (with Beach Weather)",
         "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Lover, Please Stay",
-      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Petals For Armor",
         "url": "https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 212894,
       "name": "Crystal Clear",
       "url": "https://open.spotify.com/track/3fV4kgcQzh2aLGSJbSAtoV"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -803,6 +787,22 @@
       "duration_ms": 151792,
       "name": "Superbloodmoon (feat. D4vd)",
       "url": "https://open.spotify.com/track/2yBiwYEX680zQLrHwdV1aT"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 321386,
-      "name": "Litost",
-      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 183760,
       "name": "She's Casual",
       "url": "https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 321386,
+      "name": "Litost",
+      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Heart Beat Here",
-      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 240546,
       "name": "Love's The Only Way",
       "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Heart Beat Here",
+      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Dangerous Game",
         "url": "https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 158647,
       "name": "Dangerous Game",
       "url": "https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Songs for Losers",
-        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Love Songs for Losers",
+        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
+        "name": "Just Say When (Version 2.0)",
+        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 224343,
+      "name": "Just Say When (Version 2.0)",
+      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
     },
     {
       "added_at": "2024-07-02 21:46:28",

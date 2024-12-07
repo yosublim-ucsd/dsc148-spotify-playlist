@@ -1,13 +1,137 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Oklou",
-  "num_followers": 1340029,
+  "description": "Genre-less. Quality first always. Cover: Smino",
+  "num_followers": 1340022,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZXlQAAAADt9i1i8h6B/idRgrIKl1Du",
+  "snapshot_id": "Z1KE0AAAAABYPFyPn4VcTenOlcGjKmQ/",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Gold Filigree",
+        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "H.B.W",
+        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 292355,
+      "name": "H.B.W",
+      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
+    },
+    {
+      "added_at": "2024-11-01 00:00:00",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 154261,
+      "name": "Balloon (feat. Doechii)",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Minha Vida - Hope",
+        "url": "https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "In Love We Know Ourselves",
+      "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "uwu ^^",
+        "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 162077,
+      "name": "uwu ^^",
+      "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
+    },
     {
       "added_at": "2024-11-26 23:19:49",
       "album": {
@@ -29,44 +153,40 @@
       "url": "https://open.spotify.com/track/0wgOhYnqZKjOHr6bmdz0aN"
     },
     {
-      "added_at": "2024-11-26 23:19:49",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "My Method Actor - The Remixes",
-        "url": "https://open.spotify.com/album/13kCgRTFjpF9vERKk9J6Zs"
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
       "artists": [
         {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
         },
         {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
         }
       ],
-      "duration_ms": 315598,
-      "name": "Like I Say (I runaway) - MorMor X Lesser Remix",
-      "url": "https://open.spotify.com/track/1YRfArfO4Be7TKKmMpISkZ"
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
-      "added_at": "2024-11-01 00:00:00",
+      "added_at": "2024-11-22 18:57:44",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "ydoifeel?",
+        "url": "https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
         }
       ],
-      "duration_ms": 154261,
-      "name": "Balloon (feat. Doechii)",
-      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+      "duration_ms": 190484,
+      "name": "ydoifeel?",
+      "url": "https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -101,36 +221,44 @@
       "url": "https://open.spotify.com/track/1z5gCDJRjiRcDyJ7WVFpOL"
     },
     {
-      "added_at": "2024-11-22 18:57:44",
+      "added_at": "2024-11-26 23:19:49",
       "album": {
-        "name": "ydoifeel?",
-        "url": "https://open.spotify.com/album/2wzzqMqhXc4p5eK4LrTlp2"
+        "name": "My Method Actor - The Remixes",
+        "url": "https://open.spotify.com/album/13kCgRTFjpF9vERKk9J6Zs"
       },
       "artists": [
         {
-          "name": "Saam Sultan",
-          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 190484,
-      "name": "ydoifeel?",
-      "url": "https://open.spotify.com/track/3a3xthyDmu7smxTi9xbxBV"
+      "duration_ms": 315598,
+      "name": "Like I Say (I runaway) - MorMor X Lesser Remix",
+      "url": "https://open.spotify.com/track/1YRfArfO4Be7TKKmMpISkZ"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "H.B.W",
-        "url": "https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4"
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
       "artists": [
         {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 292355,
-      "name": "H.B.W",
-      "url": "https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K"
+      "duration_ms": 163796,
+      "name": "Glo-Fi (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1093,22 +1221,6 @@
       "url": "https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/1Qq1OWNjBNYfIPme7pjDnz"
-      },
-      "artists": [
-        {
-          "name": "Contour",
-          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
-        }
-      ],
-      "duration_ms": 127129,
-      "name": "Reflexion",
-      "url": "https://open.spotify.com/track/07fDrLILiP0U7TmdvxrMUs"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "TARDIS (hardest)",
@@ -1283,26 +1395,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "the evidence (Exaktly remix)",
-        "url": "https://open.spotify.com/album/2aM56kUoNhWsDhg5sDZlwG"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "Exaktly",
-          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
-        }
-      ],
-      "duration_ms": 179536,
-      "name": "the evidence - Exaktly remix",
-      "url": "https://open.spotify.com/track/6V0wLGlc9WkPrKGOsBBhMd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "JRNY",
         "url": "https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb"
       },
@@ -1393,22 +1485,6 @@
       "url": "https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "SHELLAC",
-        "url": "https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231860,
-      "name": "SHELLAC - Edit",
-      "url": "https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd"
-    },
-    {
       "added_at": "2024-09-27 23:55:36",
       "album": {
         "name": "SPANK!",
@@ -1423,22 +1499,6 @@
       "duration_ms": 163263,
       "name": "SPANK!",
       "url": "https://open.spotify.com/track/0BMFTGo7flIdopJLYV2Ueu"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 249761,
-      "name": "Circle Games",
-      "url": "https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1615,42 +1675,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Mi Casa, Su Casa",
-        "url": "https://open.spotify.com/album/1om5D6fzgJX8UTNRz7QTwr"
-      },
-      "artists": [
-        {
-          "name": "insyt.",
-          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
-        }
-      ],
-      "duration_ms": 117973,
-      "name": "Truth Serum",
-      "url": "https://open.spotify.com/track/1wJs3jRsbA8vDf7jVhpSO7"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Himalayan Salt",
-        "url": "https://open.spotify.com/album/4PwWtlzoEKwdOoctoPlbOj"
-      },
-      "artists": [
-        {
-          "name": "Goya Gumbani",
-          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
-        },
-        {
-          "name": "droppedmilk",
-          "url": "https://open.spotify.com/artist/6uigNrFuftOdvRs9boXTwT"
-        }
-      ],
-      "duration_ms": 93116,
-      "name": "Himalayan Salt",
-      "url": "https://open.spotify.com/track/2hVl8NQPC2YqTlcTP5BCZn"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Chrome",
         "url": "https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe"
       },
@@ -1749,42 +1773,6 @@
       "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Ppl",
-        "url": "https://open.spotify.com/album/6DpKHMIgwFQ7FJdnYewBsO"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Ppl",
-      "url": "https://open.spotify.com/track/7akBn8rG1rf6AT8wOKQZiT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 196021,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Dafodil",
@@ -1843,158 +1831,6 @@
       "duration_ms": 212927,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Ruby Rosary (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Ruby Rosary (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Curve 1",
-        "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 226135,
-      "name": "Shuf (Adore U)",
-      "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Summer Drop (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "Summer Drop (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "6' Pole",
-        "url": "https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0"
-      },
-      "artists": [
-        {
-          "name": "Safe Mind",
-          "url": "https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        },
-        {
-          "name": "LUCY (Cooper B. Handy)",
-          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
-        }
-      ],
-      "duration_ms": 235087,
-      "name": "6' Pole",
-      "url": "https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "neo roneo",
-        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 166705,
-      "name": "neo roneo",
-      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Keep Up / All Night",
-        "url": "https://open.spotify.com/album/2RGLsqqp9TiFYMvZjcpcVW"
-      },
-      "artists": [
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        }
-      ],
-      "duration_ms": 124600,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/0xHGM3o0Ns51ZPZKdnN3o0"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Come Find Me",
-        "url": "https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236332,
-      "name": "Come Find Me",
-      "url": "https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "In The End",
-        "url": "https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1"
-      },
-      "artists": [
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 222608,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8"
     }
   ],
   "unique_name": "POLLEN",

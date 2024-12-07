@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-418 songs - 22 hr 58 min
+419 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Cup Namdu](https://open.spotify.com/track/6WEYexjIqGmkb7F0UILxpG) | [Parvez Ahmed](https://open.spotify.com/artist/2mYPXgVAHd01UcZP1m1Vbp) | [Cup Namdu](https://open.spotify.com/album/4Ra460PZ9uiMb4wBwo8dva) | 2:01 | 2024-06-10 | 2024-11-13 |
 | [D Boss Nera Maathu](https://open.spotify.com/track/6zQCYjmxhlRqBrq08PH4WW) | [Harshit Acharya](https://open.spotify.com/artist/6igHsxUrTKAq3LLGS0AX6x), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [D Boss Nera Maathu](https://open.spotify.com/album/31g7eocmCwHhmzzZd3VCUC) | 3:27 | 2024-11-26 |  |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 | 2024-02-17 |
+| [Dear Nikki](https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV) | [Dear Nikki](https://open.spotify.com/album/1ZgGzdKQbbycNovfxMWqFh) | 3:29 | 2024-12-06 |  |
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
 | [Dinavella](https://open.spotify.com/track/1hfpybsNfra73ShRLBTVpk) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1YP89I84s7rdeJvRYNTo9h) | 3:12 | 2023-11-24 | 2024-04-19 |
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 | 2024-04-30 |
@@ -299,7 +300,7 @@
 | [Nenapaagiru](https://open.spotify.com/track/3pAb0JyhnVl8U6PGUpEmmL) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/5djLiHTiPKqbHxa6fhwYO8) | 3:44 | 2023-03-20 | 2023-12-09 |
 | [Nenapaagiru](https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ) | [Aakash Hebbar](https://open.spotify.com/artist/64hwvgmt8sru0GvBV5VMMJ), [Chethan Shrinivas](https://open.spotify.com/artist/0DxpPOSRAbFBkESXzM4yId) | [Nenapaagiru](https://open.spotify.com/album/1h8A3OYCcs2dLGRljWGwgj) | 3:44 | 2023-03-20 | 2023-11-02 |
 | [Nenapina Setuve](https://open.spotify.com/track/0VDUfZ6bgbZVrVqgsc1r9Q) | [Ananya Muthamma](https://open.spotify.com/artist/3HqWWm7osZH8AXR98w2aHq) | [Nenapina Setuve](https://open.spotify.com/album/4bOC609dc5Qf2gyMKU6ZZz) | 3:42 | 2024-12-03 |  |
-| [Nettana Mugina Hudugi](https://open.spotify.com/track/7ykUCq7PqPn1PzQbTDYJzh) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Nettana Mugina Hudugi](https://open.spotify.com/album/5qjMYqIsGGT01LQTlJXgpA) | 3:03 | 2024-07-01 |  |
+| [Nettana Mugina Hudugi](https://open.spotify.com/track/7ykUCq7PqPn1PzQbTDYJzh) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2) | [Nettana Mugina Hudugi](https://open.spotify.com/album/5qjMYqIsGGT01LQTlJXgpA) | 3:03 | 2024-07-01 | 2024-12-07 |
 | [Never](https://open.spotify.com/track/0d20BQIXw2xUKXQMRJoQRz) | [Derrick You Kno Me](https://open.spotify.com/artist/7FLBUmEZsWCSPMcHO8Xcm3), [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Never](https://open.spotify.com/album/24iuXtQnq7fa6XV75ZkZxS) | 3:00 | 2023-04-14 | 2023-06-09 |
 | [Never Ever Follow The Girl](https://open.spotify.com/track/7Idjqfzp8LRN0EbX3HxK2E) | [Style King Kumar](https://open.spotify.com/artist/2cpe8d5uD4KkfPA4mJ7uFY) | [Never Ever Follow The Girl](https://open.spotify.com/album/6T1XrCJFma60INvzYDEubT) | 3:14 | 2023-02-17 | 2023-06-08 |
 | [Never Love Again](https://open.spotify.com/track/1B8McCxEmyLM7Xv64zx0Qc) | [Aryamanu Baloji](https://open.spotify.com/artist/2Udj46YBjkjfds4hjRLMcp), [Shubhangini](https://open.spotify.com/artist/08XZ4vBBklbpgX2tvDbN9Q) | [Never Love Again](https://open.spotify.com/album/2rNtWzYqaHhzUiNpngNEz6) | 3:41 | 2023-10-25 | 2024-06-26 |

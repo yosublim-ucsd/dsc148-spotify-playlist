@@ -1,13 +1,29 @@
 {
   "description": "BLACKPINK in our area!",
-  "num_followers": 3225144,
+  "num_followers": 3225225,
   "original_name": "This Is BLACKPINK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1Eh+gAAAAAYHebjB0hA59xgOJ5FtlmZ",
+  "snapshot_id": "Z1KE0AAAAADJzkvoj+ZG7z2BkhFR5OJk",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
     {
       "added_at": "2024-12-05 03:46:02",
       "album": {

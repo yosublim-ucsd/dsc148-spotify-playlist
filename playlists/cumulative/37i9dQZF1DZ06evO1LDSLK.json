@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "The Passenger (Live at Montreux Jazz Festival 2023)",
+        "url": "https://open.spotify.com/album/4jX6V8kfYu2UK765kB00x4"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341098,
+      "name": "The Passenger - Live at Montreux Jazz Festival 2023",
+      "url": "https://open.spotify.com/track/7EGiyx3gI7YBgSFgOZFbXl"
+    },
+    {
+      "album": {
         "name": "Good Time Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
       },

@@ -4,7 +4,7 @@
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-100 songs - 5 hr 16 min
+104 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Carol of the Kings](https://open.spotify.com/track/6fE2EhH0snXRw3sWjIk59b) | [Alison Brown Quartet](https://open.spotify.com/artist/51gcQsFlxtU2peNpHsoWpN) | [A Winter's Eve: Acoustic Music for the Winter Season](https://open.spotify.com/album/4Xju1EdumbIovbeXckdfd2) | 5:02 | 2024-11-29 |  |
 | [Children Go](https://open.spotify.com/track/0kl7Ak1Et777oDEjFRUhlu) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [A Skaggs Family Christmas Volume Two](https://open.spotify.com/album/5EKBEi0b1xQ19Z8frIr5QT) | 2:26 | 2024-11-29 |  |
 | [Christmas at the Old Homeplace](https://open.spotify.com/track/2uOlxKf6Yda9owdLgM7cld) | [Terry Baucom's Dukes of Drive](https://open.spotify.com/artist/0tsVNQUZHevy6tt3i5jBki) | [Here in the Country](https://open.spotify.com/album/3Zky4A4I8Ju17jbj4oFbmA) | 2:47 | 2024-11-29 |  |
+| [Christmas Cheer](https://open.spotify.com/track/3CyOBD3VqRIuZuYVTzBvVx) | [Full Cord](https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr) | [Christmas Cheer](https://open.spotify.com/album/26FmKJDWKFfoE8PQJy4PiY) | 2:44 | 2024-12-06 |  |
 | [Christmas Eve](https://open.spotify.com/track/4lyTAjIPxWI6PkT5ponJI2) | [Newgrange](https://open.spotify.com/artist/0n7eZjQI3kTKvBPTrnhTkz) | [A Christmas Heritage](https://open.spotify.com/album/2VcWxkkesGAvcSvIoHrxtS) | 3:59 | 2024-11-29 |  |
 | [Christmas In My Mountain Home](https://open.spotify.com/track/2OZuPWIvBiyrjonM2AMeoO) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Christmas In My Mountain Home](https://open.spotify.com/album/3CUOpVu20xf6vkuS422VB1) | 2:37 | 2024-11-29 |  |
 | [Christmas In The Mountains \- Remastered](https://open.spotify.com/track/3mAf9eeMS8SrsOFx0aqDCg) | [Larry Sparks & The Lonesome Ramblers](https://open.spotify.com/artist/3uVBHp6rCpddpw7JdQfZFU) | [Christmas In The Hills \(Remastered\)](https://open.spotify.com/album/0VW0vl0R0htWnw1cakEL9P) | 1:46 | 2024-11-29 |  |
@@ -36,6 +37,7 @@
 | [Coal for Christmas](https://open.spotify.com/track/2sGgEfGwPODKVZDaxg4Y6g) | [Mountain Dew Maynard](https://open.spotify.com/artist/7gn7aRwbahL4FKcOXCh3PF) | [Coal for Christmas](https://open.spotify.com/album/7bDe23NzxebQp9t52aVrk1) | 3:08 | 2024-11-29 |  |
 | [Come See The Star](https://open.spotify.com/track/6FValP9g547nnXC55OGLju) | [The Whites](https://open.spotify.com/artist/75d2SGqtUsggybmf1BlbPd) | [Christmas Star](https://open.spotify.com/album/034L89mT0p9fnXRgQbdBmu) | 2:37 | 2024-11-29 |  |
 | [Come Some Winter Morning \(feat\. The Kruger Brothers\)](https://open.spotify.com/track/0qr7fSpAjaQQxRMzRqJ2UW) | [Irene Kelley](https://open.spotify.com/artist/23HcZ91h1agwBsyrwhrDvy), [Kruger Brothers](https://open.spotify.com/artist/2VKdUZfz4ILSHoqU53Oxmr) | [Snow White Memories](https://open.spotify.com/album/4bGggCYHepxqZWFQ4yAbSI) | 2:23 | 2024-11-29 |  |
+| [Country Christmas](https://open.spotify.com/track/2mzMt5gDXzQNliZhDMe93f) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Holiday Favorites, Vol\. 1](https://open.spotify.com/album/44GpvHR3xiFQeSEcGJz3rd) | 2:31 | 2024-12-06 |  |
 | [Dancing in the Snow](https://open.spotify.com/track/36Qz1rKJepEWooyyhI42aN) | [Tammy Rogers](https://open.spotify.com/artist/3wbkQhbAgMFxkiEjyEmsdS), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Dancing in the Snow](https://open.spotify.com/album/3RMKDkTFPSpI1FZQuU20O3) | 2:25 | 2024-11-29 |  |
 | [Danse Of The Sugar Plum Fairies](https://open.spotify.com/track/1UIe6RbL6xDiaToGN4nk3V) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe), [Alash Ensemble](https://open.spotify.com/artist/27hBqhUVPnkDTP6hDFLlOe) | [Jingle All the Way](https://open.spotify.com/album/5hqftgd3Y5ENR47T0JrshF) | 3:29 | 2024-11-29 |  |
 | [Deck The Halls](https://open.spotify.com/track/7Hz3DzGesy5A5N758T9nsz) | [Jim Bows & The Flycatchers](https://open.spotify.com/artist/0U0pUhmntI6hEFvdro8a6Q) | [Deck The Halls](https://open.spotify.com/album/1tGoRbqNTUxOiypWHh5O0s) | 2:24 | 2024-11-29 |  |
@@ -77,6 +79,7 @@
 | [Oh Holy Night](https://open.spotify.com/track/3bOFYIb6a2QZs6bkzbb55i) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Dust the Halls: An Acoustic Christmas Holiday!](https://open.spotify.com/album/0PJmG1KmYVX5I9lEtmFWTt) | 3:47 | 2024-11-29 |  |
 | [Old Fashioned Christmas \(feat\. Paul Williams\)](https://open.spotify.com/track/3EwXsMzUfFaJ3oGQIudJPi) | [Joe Mullins & The Radio Ramblers](https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17), [Paul Williams](https://open.spotify.com/artist/6gaC5c71sU2fwEkqJqVFoW) | [Old Fashioned Christmas \(feat\. Paul Williams\)](https://open.spotify.com/album/3duiWLvaDJ6KOh3clRdJZw) | 3:00 | 2024-11-29 |  |
 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 | 2024-11-29 |  |
+| [Ring The Bells At Midnight](https://open.spotify.com/track/5l7iiRFUSfOV2nJGb1Asgf) | [Kathy Kallick](https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv), [The Little Big Band](https://open.spotify.com/artist/3qnuCCOcPgulo917yEeohe) | [Tinsel Tunes \- More Holiday Treats From Sugar Hill](https://open.spotify.com/album/1r9igVbo3vaHZcYp93Zdei) | 3:20 | 2024-12-06 |  |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6d41loCMnc7pVS0TWfXxwF) | [Blueridge Mountain Bluegrass Band](https://open.spotify.com/artist/11dIVj4EuyOdtN7vEmNYGc) | [Blue Mountain Christmas](https://open.spotify.com/album/28gGT3QnLg1Bmnmv7OYtf8) | 3:51 | 2024-11-29 |  |
 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/3W5VSy3fRnTcLOa0V0NjO7) | [Lynn Morris](https://open.spotify.com/artist/7vD9rjp3K0HANh5svUmjh9) | [O Christmas Tree \- A Bluegrass Collection For The Holidays](https://open.spotify.com/album/1LhRByIwi3SBcTyTY9NYLm) | 2:48 | 2024-11-29 |  |
 | [Santa Ain't A Cowboy](https://open.spotify.com/track/0vNT0zGXZIXnEmSCeEzjvA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Santa Ain't A Cowboy](https://open.spotify.com/album/3ZtWWM1Qj0tk2vA76oWwUl) | 3:40 | 2024-11-29 |  |
@@ -108,5 +111,6 @@
 | [What Child Is This \- Instrumental](https://open.spotify.com/track/6IvGQ994ZN0CNe8tq5xnD2) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Grass: The Instrumentals](https://open.spotify.com/album/7bO67la2FXFQLUXZax6j7N) | 2:53 | 2024-11-29 |  |
 | [White Christmas](https://open.spotify.com/track/3Tzb4Ke9hd7Sb2GdXa7h8l) | [Claire Lynch Band](https://open.spotify.com/artist/2DRNg4SA1jQn4DRGAH0f3U) | [Holiday!](https://open.spotify.com/album/0ecnmzXmUVhrfdQ8nxWLq1) | 4:34 | 2024-11-29 |  |
 | [Winter Warm](https://open.spotify.com/track/3ERqxX6svXVSpM4IaOyexN) | [Few Miles South](https://open.spotify.com/artist/1RfbOChJAJOAxNzu4JMDWP) | [Winter Warm](https://open.spotify.com/album/39GQZ0shrwCtWq5QzztyOY) | 3:28 | 2024-11-29 |  |
+| [Wonderful Christmastime](https://open.spotify.com/track/6EQxEuhwcGJ2aZ7wPdQxTV) | [Jason Broyles](https://open.spotify.com/artist/0biQlMnxfmZJbIU8COQyrp) | [A Very Merry Christmas, Vol.1](https://open.spotify.com/album/18nomoeAFrD7TlgXl1Vasu) | 3:46 | 2024-12-06 |  |
 
 \*This playlist was first scraped on 2024-12-03. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Natanael Cano, Uriel Gaxiola, Ganggy y Victor Mendivil en portada.",
+  "description": "Bienvenidx a la trampa mexa. Kevis & Maykyy en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185379,
       "name": "Esquimal",
       "url": "https://open.spotify.com/track/5XeRY4i3SgMQqgWDcAodKe"
@@ -3327,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "ESTO NO ES EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/74LGb72JEp8miMjn0rk38f"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106085,
+      "name": "Jesse Pinkman",
+      "url": "https://open.spotify.com/track/65KOvUgvf4iFub3KiiL5JP"
+    },
+    {
+      "album": {
         "name": "Jovenes Traperos",
         "url": "https://open.spotify.com/album/5uZlkaUbmrnMjbcRpYDL5d"
       },
@@ -3740,6 +3758,28 @@
       "duration_ms": 202736,
       "name": "Lento y Contento - Remix",
       "url": "https://open.spotify.com/track/2hHBzhSQShNFmWPXrFK9yU"
+    },
+    {
+      "album": {
+        "name": "Leviat\u00e1n",
+        "url": "https://open.spotify.com/album/6JsDwooDRvRkN6dZPeJ3QY"
+      },
+      "artists": [
+        {
+          "name": "Romeroflacko",
+          "url": "https://open.spotify.com/artist/2miHP8kA3PuPT0yrcqWAhT"
+        },
+        {
+          "name": "KadaK",
+          "url": "https://open.spotify.com/artist/2KM0hJihcECHnvDv0SE2Iu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159189,
+      "name": "Leviat\u00e1n",
+      "url": "https://open.spotify.com/track/4uEjU4PREM4zyODNUx5HSc"
     },
     {
       "album": {
@@ -6832,6 +6872,28 @@
       "duration_ms": 175173,
       "name": "Vuelo para Uno",
       "url": "https://open.spotify.com/track/3BmFZQWviHYsNKGaoPuBEF"
+    },
+    {
+      "album": {
+        "name": "VV BRUJO .WAV SESS #5 (ND KOBI')",
+        "url": "https://open.spotify.com/album/1h2Z6uiHu2DoaQoMKw556S"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "VV BRUJO .WAV SESS #5 - ND KOBI'",
+      "url": "https://open.spotify.com/track/2PvEBEHOnA7O8tp0VoqYIG"
     },
     {
       "album": {

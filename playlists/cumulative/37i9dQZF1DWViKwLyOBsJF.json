@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Angels of the Realm of Glory",
+        "url": "https://open.spotify.com/album/2juXfSADucR4whF57T6skl"
+      },
+      "artists": [
+        {
+          "name": "Merlin Willow",
+          "url": "https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Angels of the Realm of Glory",
+      "url": "https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard on High",
         "url": "https://open.spotify.com/album/2ulYvAiM3SKoWhwKqehG4J"
       },
@@ -1388,6 +1406,24 @@
       "duration_ms": 211226,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6FYRgmZehWRvrrZRvvi0sM"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols for Two Cellos",
+        "url": "https://open.spotify.com/album/0Rjt9kkTy2F8Tcd54uM2WX"
+      },
+      "artists": [
+        {
+          "name": "Mr & Mrs Cello",
+          "url": "https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "O Holy Night - For Two Cellos",
+      "url": "https://open.spotify.com/track/1kzmVfBQ7pNcj2M0JLPLWF"
     },
     {
       "album": {

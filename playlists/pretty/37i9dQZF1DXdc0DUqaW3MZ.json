@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 355825,
+  "num_followers": 355869,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Sunrise Sunfall (Edit)",
-        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
-      },
-      "artists": [
-        {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 193105,
-      "name": "Sunrise Sunfall - Edit",
-      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 152750,
       "name": "High Notes",
       "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Sunrise Sunfall (Edit)",
+        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
+      },
+      "artists": [
+        {
+          "name": "NATE08",
+          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 193105,
+      "name": "Sunrise Sunfall - Edit",
+      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -851,22 +851,6 @@
       "duration_ms": 118604,
       "name": "Ching",
       "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -911,6 +895,22 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Shaken To My Soul (feat. Ruti)",
         "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Golden Hour, Vol. 1",
         "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 171546,
       "name": "Things You Didn't Know",
       "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Da Bump",
-        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Da Bump",
-      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1279,6 +1263,22 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     },
     {
       "added_at": "2024-10-25 15:55:35",

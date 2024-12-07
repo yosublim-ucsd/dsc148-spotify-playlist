@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "In the Stars",
+        "url": "https://open.spotify.com/album/6jk8taCOXavu7PudkybqHO"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Mayfield",
+          "url": "https://open.spotify.com/artist/0yjBkHJA6pxZL5FYccrwwa"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156308,
+      "name": "In the Stars",
+      "url": "https://open.spotify.com/track/7riO7i4L4lBTjqrkuu4sTv"
+    },
+    {
+      "album": {
         "name": "Infatuation",
         "url": "https://open.spotify.com/album/0Snt5AfbgRQQMDcOKFLDJm"
       },

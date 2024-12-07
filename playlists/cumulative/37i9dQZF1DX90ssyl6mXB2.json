@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "All You",
+        "url": "https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162923,
+      "name": "All You",
+      "url": "https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK"
+    },
+    {
+      "album": {
         "name": "THERES ALWAYS MORE",
         "url": "https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7"
       },
@@ -2624,6 +2642,24 @@
       "duration_ms": 190584,
       "name": "Unsure",
       "url": "https://open.spotify.com/track/3PBomL6F0O1xqR6zyFlKcH"
+    },
+    {
+      "album": {
+        "name": "Late Nite Slider Music - EP",
+        "url": "https://open.spotify.com/album/3K7e3rKAB194KQbes13kgW"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118082,
+      "name": "Upperhand",
+      "url": "https://open.spotify.com/track/6YHLJnzjbH5b5x3THQ41yq"
     },
     {
       "album": {

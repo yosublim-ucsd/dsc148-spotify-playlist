@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Khalid
 
-675 songs - 1 day 12 hr 12 min
+676 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Next Move](https://open.spotify.com/track/3NOVJtKOJd801BIBqHHVhK) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f), [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Next Move](https://open.spotify.com/album/3vf8aVe4MDzNQhRIhBIghb) | 4:02 | 2024-07-26 | 2024-10-11 |
 | [Night Drive](https://open.spotify.com/track/6UrnMRjuD4YGRPtZ7mP1vk) | [ET.PAT](https://open.spotify.com/artist/1o0C2LfpcBZpocihcZPxsN) | [Night Drive](https://open.spotify.com/album/2nNDsrc7i0vvRxElBaOwGw) | 3:00 | 2024-09-26 | 2024-12-06 |
 | [nightbus](https://open.spotify.com/track/2Q0CGoAr7Cjuxq31GtqbR3) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [nightbus](https://open.spotify.com/album/22GFglKpVpgTyN5xEVS5Dq) | 3:08 | 2023-06-29 | 2023-07-14 |
+| [Nirvana Blues](https://open.spotify.com/track/0GkFv2SgVRf07F5HL3ABj4) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [YIN REMIX](https://open.spotify.com/album/4OoLKAbROfeGkBDi6iA87e) | 4:13 | 2024-12-05 |  |
 | [No Angels](https://open.spotify.com/track/7dBT63cDF9a76fAJyvRXCT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:28 | 2024-03-14 | 2024-05-17 |
 | [No Fear](https://open.spotify.com/track/3V0rNeBbdBfWzsP6nk98iT) | [Starceed](https://open.spotify.com/artist/5LUczylybNr9ylPScEvlSz) | [No Fear](https://open.spotify.com/album/4WBNdhnG9x36CVnyDJ83VM) | 2:47 | 2023-12-14 | 2023-12-16 |
 | [No Fear](https://open.spotify.com/track/596tehHMkW1OJSM2qRYBrX) | [Starceed](https://open.spotify.com/artist/2zz1LTzFkZyEn9FlldGuwm) | [No Fear](https://open.spotify.com/album/2ZRsLwBTj6AFR5T0DFAZtI) | 2:47 | 2023-12-14 | 2024-02-09 |

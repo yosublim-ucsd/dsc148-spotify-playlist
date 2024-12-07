@@ -4,11 +4,11 @@
 
 > La nuova scena indie italiana! Cover: Giulia Mei
 
-238 songs - 11 hr 41 min
+239 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\( ARIA \)](https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [\) \) \) echo \( \( \( \(](https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB) | 2:07 | 2024-09-19 |  |
+| [\( ARIA \)](https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [\) \) \) echo \( \( \( \(](https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB) | 2:07 | 2024-09-19 | 2024-12-07 |
 | [\)\)\) CORRO FORTE](https://open.spotify.com/track/0NFj78UCztzCiGaOFavTgm) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [\)\)\) CORRO FORTE](https://open.spotify.com/album/3PWtq3QnSRpWFa4M3gmIFM) | 3:16 | 2024-06-27 | 2024-07-05 |
 | [206](https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [206](https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB) | 2:50 | 2024-11-07 | 2024-12-01 |
 | [21:15](https://open.spotify.com/track/7fpxvlQ0jIKwxj2YjBLrHt) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Estate Lachea](https://open.spotify.com/album/34nhLELST3HQ6walACeSVA) | 3:05 | 2024-06-27 | 2024-07-12 |
@@ -26,6 +26,7 @@
 | [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 | 2024-12-03 |
 | [Andando Molto Piano](https://open.spotify.com/track/5cxkweImoqytdiJ2GF3SB4) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Andando Molto Piano](https://open.spotify.com/album/7uW2mwzJ2fvg8iFWRLWJPg) | 2:41 | 2024-06-27 | 2024-07-12 |
 | [andateafanculotutti](https://open.spotify.com/track/17TBj8gZYSBGSeoD9TBKpo) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [TUTTOSBAGLIATO](https://open.spotify.com/album/74x1PwNA0C6CrMb74PhSd6) | 2:37 | 2024-06-27 | 2024-07-05 |
+| [anna se la sente ancora](https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK) | [UmbertoCì.](https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I) | [anna se la sente ancora](https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq) | 3:00 | 2024-12-05 |  |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 | 2024-07-12 |
 | [ATTACCHI DI PANICO](https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [ATTACCHI DI PANICO](https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa) | 2:59 | 2024-10-03 |  |
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 | 2024-07-05 |

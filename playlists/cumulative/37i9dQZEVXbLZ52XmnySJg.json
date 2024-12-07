@@ -10413,6 +10413,32 @@
     },
     {
       "album": {
+        "name": "Kissik (From \"Pushpa 2 The Rule\") [TELUGU]",
+        "url": "https://open.spotify.com/album/4XfTu63KPcqiaYtkGvznuO"
+      },
+      "artists": [
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248013,
+      "name": "Kissik (From \"Pushpa 2 The Rule\") [TELUGU]",
+      "url": "https://open.spotify.com/track/46ofwvDbks8GpQoLxGVD0o"
+    },
+    {
+      "album": {
         "name": "Koi Si",
         "url": "https://open.spotify.com/album/4HYXhgflBVtGl3cYL2eJIm"
       },
@@ -13254,7 +13280,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 216054,
       "name": "Mere Mehboob",
       "url": "https://open.spotify.com/track/5ZjWYv5kOH1ywFmv5JjPNd"
@@ -13378,7 +13404,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 193355,
       "name": "Mere Sohneya (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2IoZMG3RqiTmsy7Li3zGFg"
@@ -15670,7 +15696,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 247137,
       "name": "Peelings (From \"Pushpa 2 The Rule\") [TELUGU]",
       "url": "https://open.spotify.com/track/6reHcXJekQ2csk0UazSBV1"
@@ -17582,7 +17608,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
@@ -17974,7 +18000,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"

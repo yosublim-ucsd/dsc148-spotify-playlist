@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Malcriada en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. M\u00e9ne en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 154000,
       "name": "A d\u00f3nde vayas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4BqhQcVHFV5zns3WOZVqoS"
+    },
+    {
+      "album": {
+        "name": "A la Defensiva",
+        "url": "https://open.spotify.com/album/4iISx1cQy3P4hOA6LHrpQa"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208409,
+      "name": "A la Defensiva",
+      "url": "https://open.spotify.com/track/5mh439iXAVZ3inB1XsfUJo"
     },
     {
       "album": {
@@ -447,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200799,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
+    },
+    {
+      "album": {
         "name": "Amarillo",
         "url": "https://open.spotify.com/album/2MC5DH933tWiyL8vE5hJ70"
       },
@@ -654,10 +690,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 178201,
       "name": "bby:)",
       "url": "https://open.spotify.com/track/0JpQKBgsdEHxYWgzi1igc4"
+    },
+    {
+      "album": {
+        "name": "BELLA",
+        "url": "https://open.spotify.com/album/6fexRvGSeG2sHlla8LIanp"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/5aWBfICPZSTUSAHdyxRy9R"
     },
     {
       "album": {
@@ -751,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Cada d\u00eda",
+        "url": "https://open.spotify.com/album/4hHlXUDBOFgbqcwN2V1d1L"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203950,
+      "name": "Cada d\u00eda",
+      "url": "https://open.spotify.com/track/0FnuFbDOixbkRxesjWfsog"
+    },
+    {
+      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -800,6 +872,24 @@
       "duration_ms": 156253,
       "name": "California",
       "url": "https://open.spotify.com/track/2sOfChSTFiuicBli18TJkc"
+    },
+    {
+      "album": {
+        "name": "Call It Freestyle",
+        "url": "https://open.spotify.com/album/535eXEJNnPRGmvHdYzIe7Z"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262173,
+      "name": "Call It Freestyle",
+      "url": "https://open.spotify.com/track/6WQNf0QRuTYi89J18GSY5U"
     },
     {
       "album": {
@@ -926,7 +1016,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 167721,
       "name": "Chiquitita Bum Bum",
       "url": "https://open.spotify.com/track/4buTrqA3oTwn7z34fKw0DO"
@@ -1586,7 +1676,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 132120,
       "name": "Enloquecer",
       "url": "https://open.spotify.com/track/54pdJE2Ykv5eYGfL6ZHTky"
@@ -2534,6 +2624,24 @@
       "duration_ms": 273609,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/3hbkGcYrz1nlFfPAq0w72i"
+    },
+    {
+      "album": {
+        "name": "Marea",
+        "url": "https://open.spotify.com/album/5bmhsf47YfjR60mQBV7sKr"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Marea",
+      "url": "https://open.spotify.com/track/13B3yJz9sYzRLhW2acD4wQ"
     },
     {
       "album": {
@@ -3706,7 +3814,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
@@ -3778,7 +3886,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189000,
       "name": "te escrib\u00ed un CD",
       "url": "https://open.spotify.com/track/5qxW361HKmKx59EUQcIyyI"
@@ -3822,7 +3930,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 179032,
       "name": "Te Odio / Te Amo",
       "url": "https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx"

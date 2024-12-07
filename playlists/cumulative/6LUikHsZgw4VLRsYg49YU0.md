@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-230 songs - 13 hr 27 min
+231 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Save Yourself \- NGHTMRE VIP REMIX](https://open.spotify.com/track/0xCdQ9jYFDENkE2ck73CAc) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Save Yourself \(NGHTMRE VIP REMIX\)](https://open.spotify.com/album/1kr5PKqCSq5walEVhxNa77) | 2:21 | 2022-02-18 | 2022-12-10 |
 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 | 2022-02-18 | 2022-12-10 |
 | [Seeking the Truth](https://open.spotify.com/track/4ccTgEsZDhmqZbdBgDBkdm) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [YAHZARAH](https://open.spotify.com/artist/7GGpbip5DdtNyfmE58OqGI) | [SPRIGGAN \(Original Series Soundtrack\)](https://open.spotify.com/album/575gqJtErZLKqw9Jj3TYpD) | 3:17 | 2022-12-09 | 2024-02-03 |
+| [seiko](https://open.spotify.com/track/4PRuNmpzFsulsyaIOPw3wE) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 3:33 | 2024-12-06 |  |
 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 | 2024-04-12 |  |
 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 | 2022-12-09 | 2024-05-25 |
 | [Skechers](https://open.spotify.com/track/2alc8VZAzDgdAsL2QMk3hu) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV) | [Skechers](https://open.spotify.com/album/4a50hfH6HJQywmghPYnRRW) | 1:46 | 2022-02-18 | 2022-12-10 |

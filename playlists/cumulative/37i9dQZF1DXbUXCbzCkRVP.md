@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-116 songs - 7 hr 29 min
+117 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dockside Boogie](https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:40 | 2022-06-29 |  |
 | [Don't Be Late](https://open.spotify.com/track/1CT03EZWEzeePJs8nYvZHu) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Don't Be Late](https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P) | 2:46 | 2022-11-24 | 2023-07-22 |
 | [Easy](https://open.spotify.com/track/5w3RqBNmHufIVgr2aD77QF) | [Jimmy and Walter](https://open.spotify.com/artist/3oDOPgYaBe6K1VbP3tqzqY) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:59 | 2023-08-23 | 2024-08-21 |
-| [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 | 2022-05-25 |  |
+| [Easy Does It Blues](https://open.spotify.com/track/4bnVziTbh15r5zkVQlaA12) | [Ross Hammond](https://open.spotify.com/artist/4Nyl11mo7720s5gSGyQocj) | [Roll Forward](https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp) | 6:01 | 2022-05-25 | 2024-12-07 |
 | [End Of The Blues](https://open.spotify.com/track/4etOIUGXH02e9pg1cJSJ9E) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 4:27 | 2022-12-02 |  |
 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 | 2022-11-24 |  |
 | [Extra Jimmies](https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [What's The Word?](https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD) | 2:38 | 2022-05-25 |  |
@@ -109,6 +109,7 @@
 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 | 2022-05-25 |  |
 | [The Clock Strikes Twelve](https://open.spotify.com/track/30gyTs0Ycve2NqwaQD4CV2) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Go Bo Diddley](https://open.spotify.com/album/71lvfHjjLerIFN8ZNSrqIe) | 2:57 | 2022-05-25 |  |
 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 | 2022-05-25 |  |
+| [The Deacon's Hop](https://open.spotify.com/track/3x8GU6RvLNZD3Ah13aBCTp) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Jump Blues](https://open.spotify.com/album/6bfeTAlGvG2sZtxdtLeUho) | 2:49 | 2024-05-29 |  |
 | [The Grind](https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [The Grind](https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC) | 1:16 | 2022-11-24 | 2023-07-22 |
 | [The Messiah Will Come](https://open.spotify.com/track/5Wz5FAR8rtzahwqPDIifRj) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ), [D\. Rivers](https://open.spotify.com/artist/2hFRqFw8t3n8L0oxSzJIhY) | [True Stories](https://open.spotify.com/album/18MxC4z6K39xkMOd2FWzBf) | 9:24 | 2022-06-29 | 2022-07-26 |
 | [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 | 2022-11-24 | 2024-04-19 |

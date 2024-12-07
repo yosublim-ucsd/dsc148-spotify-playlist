@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Pepe Aguilar en portada.",
-  "num_followers": 31986,
+  "num_followers": 31994,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "A C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "A C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Hablar de Flores",
         "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "A C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "A C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Tormenta Perfecta",
-        "url": "https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n"
-      },
-      "artists": [
-        {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
-        }
-      ],
-      "duration_ms": 237002,
-      "name": "Tormenta Perfecta",
-      "url": "https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 vas a saber?",
         "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Tormenta Perfecta",
+        "url": "https://open.spotify.com/album/1KIuUn3B04sCDAdE3BFK4n"
+      },
+      "artists": [
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 237002,
+      "name": "Tormenta Perfecta",
+      "url": "https://open.spotify.com/track/1RG4xMoRobbuqGYHaF4nRp"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Pienso En Vos",
-        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Pienso En Vos",
-      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Mi + 1",
         "url": "https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM"
       },
@@ -843,22 +827,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Tesis",
-        "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
+        "name": "Pienso En Vos",
+        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Tesis",
-      "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
+      "duration_ms": 146000,
+      "name": "Pienso En Vos",
+      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -911,6 +891,26 @@
       "duration_ms": 163239,
       "name": "Pensamientos Intrusivos",
       "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Tesis",
+        "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Tesis",
+      "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "El Pasadiscos",
-        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 270335,
-      "name": "El Pasadiscos",
-      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "ECLIPSE",
         "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
@@ -1071,6 +1055,26 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+        "name": "El Pasadiscos",
+        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
         }
       ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+      "duration_ms": 270335,
+      "name": "El Pasadiscos",
+      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "ZEPPELIN",
-        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "ZEPPELIN",
-      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
         "url": "https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Antes de que apague el sol",
-        "url": "https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf"
+        "name": "ZEPPELIN",
+        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Antes de que apague el sol",
-      "url": "https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC"
+      "duration_ms": 192815,
+      "name": "ZEPPELIN",
+      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 245586,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Antes de que apague el sol",
+        "url": "https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Antes de que apague el sol",
+      "url": "https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC"
     },
     {
       "added_at": "2024-11-29 06:00:00",

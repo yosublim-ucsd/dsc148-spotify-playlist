@@ -2,7 +2,7 @@
 
 ### [Cumbia y Romance](https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs)
 
-> Al corazón! Foto: Natalie Perez.
+> Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
 498 songs - 1 day 4 hr 18 min
 

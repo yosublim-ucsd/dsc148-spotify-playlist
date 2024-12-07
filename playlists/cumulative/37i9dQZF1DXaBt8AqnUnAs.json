@@ -14717,6 +14717,32 @@
     },
     {
       "album": {
+        "name": "YOU GOT IT",
+        "url": "https://open.spotify.com/album/044JPvu7h9hvAWBtmPfgPL"
+      },
+      "artists": [
+        {
+          "name": "Orhals",
+          "url": "https://open.spotify.com/artist/3QnYKFEZw2wZf6umYoyi8D"
+        },
+        {
+          "name": "Raillow",
+          "url": "https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN"
+        },
+        {
+          "name": "ollerrrr",
+          "url": "https://open.spotify.com/artist/2yiiLFHIG4P7qnSvFA0vLJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165641,
+      "name": "YOU GOT IT",
+      "url": "https://open.spotify.com/track/3WzGd7wDKGI5jEGU8cixpM"
+    },
+    {
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/7BJmJLIy1EYYrg3Y6PIT1m"
       },

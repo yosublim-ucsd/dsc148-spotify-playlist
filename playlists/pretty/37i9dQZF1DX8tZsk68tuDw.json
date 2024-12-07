@@ -1,29 +1,13 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Chris Stussy.",
-  "num_followers": 1951288,
+  "num_followers": 1951277,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAAAbYmo4MkWOgYU0JaFXcyaQ",
+  "snapshot_id": "Z1KE0AAAAADKZUmqYKPc9kyVmgpP5ETo",
   "tracks": [
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
-    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
@@ -69,6 +53,30 @@
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Stephanie",
+        "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        {
+          "name": "InntRaw",
+          "url": "https://open.spotify.com/artist/0j6Tcp4NiZqsS3OEl4ppLw"
+        }
+      ],
+      "duration_ms": 188534,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Dirty Cash (Money Talks)",
@@ -91,6 +99,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
       },
@@ -103,6 +127,26 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Eusexua (Anyma Remix)",
+        "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 198808,
+      "name": "Eusexua - Anyma Remix",
+      "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -165,30 +209,6 @@
       "url": "https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Going On",
-        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "MC DT",
-          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Going On",
-      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Sentimental",
@@ -229,6 +249,38 @@
       "url": "https://open.spotify.com/track/4XO2AIJyy8d5DOuVoFtBGE"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Not The Same (Black Coffee feat. Shoba Remix)",
+        "url": "https://open.spotify.com/album/0pNYIjBnrhXe0coE6QpHYX"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        },
+        {
+          "name": "Shoba",
+          "url": "https://open.spotify.com/artist/79ciLJFZzYNYzo6Whl9inU"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Not The Same - Black Coffee feat. Shoba Remix",
+      "url": "https://open.spotify.com/track/1evlBqxfjtUoUMLB0iCbjD"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Can't Let You Go",
@@ -249,24 +301,24 @@
       "url": "https://open.spotify.com/track/7E6KF4tYddZGxtBqv9J7YA"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Intersexy",
-        "url": "https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm"
+        "name": "Kuwe",
+        "url": "https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u"
       },
       "artists": [
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
         },
         {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
         }
       ],
-      "duration_ms": 285730,
-      "name": "Khuluma Nami",
-      "url": "https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG"
+      "duration_ms": 165500,
+      "name": "Kuwe",
+      "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -287,6 +339,26 @@
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+        "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+      "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -337,6 +409,26 @@
       "url": "https://open.spotify.com/track/6BMQJGldPH49ZsdyEnTuBs"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Intersexy",
+        "url": "https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        }
+      ],
+      "duration_ms": 285730,
+      "name": "Khuluma Nami",
+      "url": "https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Electricity",
@@ -375,6 +467,22 @@
       "duration_ms": 187086,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -421,6 +529,54 @@
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Noise Pollution",
+        "url": "https://open.spotify.com/album/2Bj2CNQUurTkMIhy4gero9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/32I1ZqwrF0J9IOmlGWFzUG"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Going On",
+        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Going On",
+      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Hooligans",
@@ -435,22 +591,6 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6hNHbMObDJxst0mbXLI6PR"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 174659,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/7wyAHcp9fxfTKZhHNoABRp"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -491,6 +631,46 @@
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -605,30 +785,6 @@
       "url": "https://open.spotify.com/track/492Ms38l1NRyZQgwizSs3i"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Let's Go Dancing",
-        "url": "https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Let's Go Dancing",
-      "url": "https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "NEVER STOPPIN'",
@@ -729,22 +885,6 @@
       "url": "https://open.spotify.com/track/7tgJYPD07mMrHm631xyjwj"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Vigilant",
-        "url": "https://open.spotify.com/album/3lw3rMQ6OhHNVLzBYhwD8o"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 188172,
-      "name": "Vigilant",
-      "url": "https://open.spotify.com/track/7va8gQoezcAhwnKDywsuK2"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Keep On Moving Up",
@@ -797,22 +937,6 @@
       "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Don't Go",
-        "url": "https://open.spotify.com/album/3e0ey4aL4pWbdGl92S4F0m"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 176390,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Her Eyes",
@@ -827,26 +951,6 @@
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/2140Txb63i5WGqFZX52gag"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Move Your Feet",
-        "url": "https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -941,22 +1045,6 @@
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib"
-      },
-      "artists": [
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Dreaming",
@@ -1035,6 +1123,22 @@
       "duration_ms": 196850,
       "name": "Go",
       "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/1PNLHxshVVuPtCQgY7tWGo"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/6Vd1DMK1agDDFoAJyvSSaI"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1241,30 +1345,6 @@
       "url": "https://open.spotify.com/track/5QvM8VE7pqBn73Av704IkA"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Imad",
-          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
-        },
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Not The Same",
-      "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "YAWA (Man On A Mission)",
@@ -1283,46 +1363,6 @@
       "duration_ms": 225128,
       "name": "YAWA (Man On A Mission)",
       "url": "https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Need I Say More",
-        "url": "https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Need I Say More",
-      "url": "https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1439,22 +1479,6 @@
       "duration_ms": 204755,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6et4XZEJ19NpB5j6WQ4i13"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "BROKEN",
-        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 271435,
-      "name": "BROKEN",
-      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
     },
     {
       "added_at": "2024-10-11 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future of music around the world. Cover: Berre.",
+  "description": "Meet the future of music around the world. Cover: Fazerdaze.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -6224,7 +6224,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 205901,
       "name": "Dance at the Function",
       "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
@@ -13002,7 +13002,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 152904,
       "name": "Il tempo cura",
       "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
@@ -19709,6 +19709,24 @@
     },
     {
       "album": {
+        "name": "obvious",
+        "url": "https://open.spotify.com/album/0sgW7LhLJyavgI2C0p8ov0"
+      },
+      "artists": [
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132328,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R"
+    },
+    {
+      "album": {
         "name": "Occhi Niagara",
         "url": "https://open.spotify.com/album/5e4Ja9BU1I6flN0insmf1y"
       },
@@ -19864,7 +19882,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 190684,
       "name": "ok :0",
       "url": "https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy"

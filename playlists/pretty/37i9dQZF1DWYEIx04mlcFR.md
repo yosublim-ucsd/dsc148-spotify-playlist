@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > lo mejor de la nueva ola de artistas con NSQK en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,190 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,194 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 21 | [Cielo](https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:56 |
 | 22 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 |
 | 23 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 |
-| 24 | [Super Shining](https://open.spotify.com/track/1TmdDUYSurNh7a6LJUsHqR) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [Super Shining](https://open.spotify.com/album/1xhP3m9LooKPAdtmpmjBvr) | 2:28 |
+| 24 | [BB](https://open.spotify.com/track/5NXnW1LTXz76G0UpfO5aYi) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [BB](https://open.spotify.com/album/2947PkCcjkC58JXgVMUsqb) | 2:53 |
 | 25 | [Te Perdono](https://open.spotify.com/track/4qxdq9N7rtyUNpqLAMUeV5) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Cumpleaños y Funerales](https://open.spotify.com/album/1SgggMzOYWuLdThadwVPPl) | 3:20 |
 | 26 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
 | 27 | [ACELERA2!](https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA](https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 | 50 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 
-Snapshot ID: `Z1BHxAAAAADkjeH2DQXHYfgsOuJFjQaR`
+Snapshot ID: `Z1KS4AAAAABquIgFYJaLDEnQP4ie0Om0`

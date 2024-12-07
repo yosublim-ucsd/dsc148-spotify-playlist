@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 170785,
       "name": "Acr\u00f3stico - Milan + Sasha",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 278226,
       "name": "Camamasi",
       "url": "https://open.spotify.com/track/4EPlKbQ1vSdVuJw4toHJYf"
@@ -2332,6 +2332,24 @@
       "duration_ms": 204453,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
+    },
+    {
+      "album": {
+        "name": "Despacio Que Hay Prisa",
+        "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302597,
+      "name": "Despacio Que Hay Prisa",
+      "url": "https://open.spotify.com/track/1aSY7vLVCmles61P034Gpm"
     },
     {
       "album": {
@@ -4511,6 +4529,28 @@
     },
     {
       "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
+    },
+    {
+      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -4624,7 +4664,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
@@ -6277,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Para El Tiempo",
+        "url": "https://open.spotify.com/album/4MLpfnee5aR9WCsOQbUyiL"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197115,
+      "name": "Para El Tiempo",
+      "url": "https://open.spotify.com/track/2ltvvftNngVjO6xhqVQd9M"
+    },
+    {
+      "album": {
         "name": "Para Siempre... \u00bf?",
         "url": "https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu"
       },
@@ -6306,7 +6364,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196650,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw"
@@ -6528,7 +6586,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218480,
       "name": "Por Si Me Vuelves a Querer",
       "url": "https://open.spotify.com/track/1rBeu1vaULdjMNOBa7JerW"
@@ -7658,6 +7716,28 @@
       "duration_ms": 219666,
       "name": "Soldado Del Amor",
       "url": "https://open.spotify.com/track/2kJaoWF0iUmqma7fp9HPkh"
+    },
+    {
+      "album": {
+        "name": "Natalia Lafourcade Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252520,
+      "name": "Soledad y el Mar (feat. Omara Portuondo) - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k"
     },
     {
       "album": {
@@ -9001,6 +9081,28 @@
     },
     {
       "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/235NJ0yplxfwmTPGCmjQjl"
+      },
+      "artists": [
+        {
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/7nxvsuEtsUoFWx5H9jaF8A"
+    },
+    {
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -9606,6 +9708,24 @@
       "duration_ms": 227944,
       "name": "\u00bfT\u00fa C\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/2Wv8i9zzxsNHWfYWY7BU9R"
+    },
+    {
+      "album": {
+        "name": "\u00bfvienes o voy?",
+        "url": "https://open.spotify.com/album/74iSh4BaM0hX4Lj9zC1gIV"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168208,
+      "name": "\u00bfvienes o voy?",
+      "url": "https://open.spotify.com/track/67LS5RGUfwQMoi3uPfFm5u"
     },
     {
       "album": {

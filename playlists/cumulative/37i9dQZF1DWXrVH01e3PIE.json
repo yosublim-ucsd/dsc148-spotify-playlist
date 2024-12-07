@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Neo Pistea en la casa del Trap Argentino.",
+  "description": "YSY A en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -138,6 +138,24 @@
       "duration_ms": 173834,
       "name": "100oMIL",
       "url": "https://open.spotify.com/track/3DDexajgYw9notHn95WtNc"
+    },
+    {
+      "album": {
+        "name": "COSMIC KID",
+        "url": "https://open.spotify.com/album/7M3tTNeYiYamVgZur0HIap"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109644,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD"
     },
     {
       "album": {
@@ -360,7 +378,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 133193,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/7EFXaQWNI2aB1EaOxrRpdT"
@@ -946,7 +964,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 161578,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/0CA0mRGzeZv53d6DainJ40"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 235284,
       "name": "CANADA",
       "url": "https://open.spotify.com/track/23ywfcSQrrgWS6F1J53ZyM"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 120805,
       "name": "Diddy",
       "url": "https://open.spotify.com/track/1WnmemyxhNoX6bxPSpKMjm"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 133332,
       "name": "Digamos Todo",
       "url": "https://open.spotify.com/track/097IfQ9sUrF7ErZHm1thG7"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 183159,
       "name": "El Tiempo Se Para",
       "url": "https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ"
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 113548,
       "name": "KFC",
       "url": "https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t"
@@ -6408,7 +6426,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 188525,
       "name": "Si no me olvido",
       "url": "https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN"
@@ -7954,7 +7972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "VUD\u00da",
       "url": "https://open.spotify.com/track/4ORYC508Z4K3iLb5Y1jlJX"

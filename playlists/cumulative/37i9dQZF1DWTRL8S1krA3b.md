@@ -2,13 +2,14 @@
 
 ### [New Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTRL8S1krA3b)
 
-> This year's new country holiday songs! Cover: Dan + Shay
+> This year's new country holiday songs! Cover: Megan Moroney
 
-192 songs - 10 hr 25 min
+198 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis The Season](https://open.spotify.com/track/2GYGyoycqE3cvyYep05SLn) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | ['Tis The Season](https://open.spotify.com/album/0kkFJA74Vi5srbSQS6zUhe) | 3:10 | 2024-11-01 |  |
+| [26th of December](https://open.spotify.com/track/0FmCDqosfKRaDhwRoHsmxW) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [26th of December](https://open.spotify.com/album/3ardUtfG8umopgs0K8JS2i) | 4:37 | 2024-12-06 |  |
 | [A Horse Named Christmas](https://open.spotify.com/track/3JnduhM1P90BlPx6AaVmwJ) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Kimberly Kelly](https://open.spotify.com/artist/5lXFUPKLFCgdpsP7WJ3Czc) | [A Horse Named Christmas](https://open.spotify.com/album/78Wq9rLNmmYOToHdYGQwkw) | 2:59 | 2023-12-08 | 2024-10-19 |
 | [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 | 2024-11-01 |  |
 | [All I Want For Christmas Is An Open Bar](https://open.spotify.com/track/3jMGhb6NXlV6Vb1zY1hTG8) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [All I Want For Christmas Is An Open Bar](https://open.spotify.com/album/2AOvLrMl8whUhTibrfvQdl) | 3:15 | 2024-11-08 |  |
@@ -37,6 +38,7 @@
 | [Christmas Again](https://open.spotify.com/track/5OByBdrRvSq8xRk7O6WWJ9) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/3J7V3Aqh0t3D2tD5y3tT6K) | 3:40 | 2023-11-24 | 2024-04-19 |
 | [Christmas Again](https://open.spotify.com/track/6Xu0UNGLMDGL1gyQmwavla) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Christmas Again](https://open.spotify.com/album/4monFcb3YhZVNXWbbWG2H7) | 3:40 | 2023-12-22 | 2024-10-19 |
 | [Christmas By Myself](https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Christmas By Myself](https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F) | 3:00 | 2023-11-24 | 2024-10-19 |
+| [Christmas Cards](https://open.spotify.com/track/5yNS0YQCnh9fUFsyK1nczq) | [Clayton Johnson](https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9) | [Christmas Cards](https://open.spotify.com/album/6eHrIiFD1UtMHQciiPQHs0) | 3:07 | 2024-12-06 |  |
 | [christmas comes in waves](https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [christmas comes in waves](https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ) | 3:41 | 2023-11-24 | 2024-10-19 |
 | [Christmas In Dixie](https://open.spotify.com/track/2HUqqFjgoqUgkfckEQo7RX) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Christmas In Dixie](https://open.spotify.com/album/0HGDbKzBdcSBA2feW9A2bG) | 3:36 | 2024-11-22 |  |
 | [Christmas In The Backyard](https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Christmas In The Backyard](https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO) | 2:36 | 2023-11-24 | 2024-10-19 |
@@ -84,6 +86,7 @@
 | [Holiday Road](https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Holiday Road](https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva) | 2:08 | 2023-11-24 | 2024-10-19 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/3Atea4mrJ1Qcj2hbklFIww) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Holly Jolly Christmas](https://open.spotify.com/album/0RvoQz90J7CkRIVdX7Chld) | 2:02 | 2024-11-15 |  |
 | [Holly Jolly Heartbreak](https://open.spotify.com/track/77TCGjmEQDDFiMQYYOhcNc) | [Zoe Jean Fowler](https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm) | [Holly Jolly Heartbreak](https://open.spotify.com/album/4ttDODLIFcOZFlq0MCgvFm) | 3:10 | 2024-11-08 |  |
+| [Home for Christmas](https://open.spotify.com/track/62Tnt9QPOOOnQs8PhNgp4d) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Home for Christmas](https://open.spotify.com/album/1DqbP2dxdlrIDG3vvzeEyR) | 3:38 | 2024-12-06 |  |
 | [Home for Christmas](https://open.spotify.com/track/2urSN33wrvTM6OcZo0Y6zU) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Home for Christmas](https://open.spotify.com/album/5RbkIPZ28JsOBwhi46Ur9g) | 2:53 | 2024-11-01 |  |
 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 | 2023-11-24 | 2024-10-19 |
 | [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-12-22 | 2024-10-19 |
@@ -109,6 +112,7 @@
 | [Joy To The World](https://open.spotify.com/track/3Wc6clK3BdmeW0Ce20Du2u) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Joy To The World](https://open.spotify.com/album/1yhL0vfvEp2P5JX7UrMnva) | 3:05 | 2024-11-15 |  |
 | [Joy To The World](https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Joy To The World](https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv) | 2:51 | 2023-11-24 | 2024-10-19 |
 | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/track/6HwrjfBjnbyfgKRDzX3jdk) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Just Takes Two \(To Make It Christmas\)](https://open.spotify.com/album/6mByerb31tq2Ng8teBvMqj) | 3:21 | 2024-11-15 |  |
+| [Last Christmas](https://open.spotify.com/track/7CUcT0glaMVgtBAtUE4i1y) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Homesick For The Holidays](https://open.spotify.com/album/579d5n23nFLVIJY5a7JP1D) | 4:35 | 2024-12-06 |  |
 | [Last Christmas](https://open.spotify.com/track/2Deggx5Ehhuk7tVkryLZA1) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight](https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg) | 3:49 | 2024-11-08 |  |
 | [Last Christmas](https://open.spotify.com/track/7q8Fv75FWwsbx1XXAiEHQN) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Last Christmas](https://open.spotify.com/album/5fsJixTot0tjHv4XbC9Amn) | 4:29 | 2023-11-24 | 2024-10-19 |
 | [Last Christmas](https://open.spotify.com/track/2CoMiYfmW1K4oTYaF2U2Fl) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Last Christmas](https://open.spotify.com/album/41au4gfkbjzNeeAAsgyX1i) | 4:13 | 2023-11-24 | 2024-10-19 |
@@ -150,6 +154,7 @@
 | [Run Outta Mistletoe](https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Run Outta Mistletoe](https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy) | 2:43 | 2023-11-24 | 2024-10-19 |
 | [Run Rudolph Run](https://open.spotify.com/track/4Gz6VMA8BL6Sg61hXBG5RX) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Run Rudolph Run](https://open.spotify.com/album/6e03xVNZm7zk2wMIy6SiKT) | 2:53 | 2023-12-01 | 2024-10-19 |
 | [Run Run Rudolf](https://open.spotify.com/track/6ull9lrTsUizqpSTyTFdjI) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Run Run Rudolf](https://open.spotify.com/album/6EvVbtmyrvgzMYYPzfpUdE) | 2:59 | 2024-11-22 |  |
+| [Run Run Rudolph](https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents..\. Wetzel's Wonderland Chapter 2](https://open.spotify.com/album/5GmCyt6pFMtFKkqHHIuYUz) | 3:16 | 2024-12-06 |  |
 | [Run Run Rudolph \- Mason’s Version](https://open.spotify.com/track/1DigwEbyShfSMe8VU4vQK6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Run Run Rudolph \(Mason’s Version\)](https://open.spotify.com/album/6WfS0QdvRckuv4bUPRulk1) | 2:47 | 2023-11-24 | 2024-10-19 |
 | [Santa Baby](https://open.spotify.com/track/7BmZWTkg0vYa45mthCYSra) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [The Campbell Family](https://open.spotify.com/artist/3nUHK8ArdMTduxETdVwvRK) | [Santa Baby](https://open.spotify.com/album/7mPPqR668zKXJrUEJZXq2D) | 2:56 | 2023-12-01 | 2024-10-19 |
 | [Santa Baby](https://open.spotify.com/track/5ajQCyeRSRwqxByzJDsQg0) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Santa Baby](https://open.spotify.com/album/4iQUCVTTNj7oBflckNBBq3) | 3:22 | 2023-11-24 | 2024-10-19 |
@@ -182,6 +187,7 @@
 | [Tennessee Christmas](https://open.spotify.com/track/6C2pUFzgS1YL93IGiDxdvk) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:51 | 2024-10-18 |  |
 | [The Christmas Song](https://open.spotify.com/track/0oXcucBOAdY367JhsKQMSN) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [The Christmas Song](https://open.spotify.com/album/5Q7HgVnYrR2sW5airrAeKL) | 2:56 | 2023-11-24 | 2024-10-19 |
 | [The Christmas Song](https://open.spotify.com/track/2F74xhEmEJ8fEXdpVlZQph) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 3:27 | 2023-11-24 | 2024-10-19 |
+| [The Christmas Song](https://open.spotify.com/track/5Yz3PK6opQbQXkhu8hyaVb) | [Sandy Kelly](https://open.spotify.com/artist/1oa3oxPuZiBshVJURL6U30), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Christmas Song](https://open.spotify.com/album/273Jdhdf38P1OD4laaSpEY) | 3:35 | 2024-12-06 |  |
 | [The Cozy Song](https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:17 | 2024-10-18 |  |
 | [This Christmas](https://open.spotify.com/track/0Ox1ClOgdqxnWg76T5KjqQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [This Christmas](https://open.spotify.com/album/7jzBGv3btGTgNchJTKxqOr) | 3:39 | 2023-11-24 | 2024-10-19 |
 | [Warm For December](https://open.spotify.com/track/6coXObqtNEXVwUEdpMelyB) | [Tori Martin](https://open.spotify.com/artist/1rxGIkRvbGjlRscju1sabe) | [Warm For December](https://open.spotify.com/album/6zcSa0TwrBlYblJm9NsxcC) | 3:22 | 2024-11-15 |  |

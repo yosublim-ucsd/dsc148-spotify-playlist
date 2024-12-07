@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-649 songs - 1 day 3 hr 37 min
+651 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [It Feels Good To Write A Song](https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [It Feels Good To Write A Song](https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai) | 2:58 | 2024-04-26 |  |
 | [It Must Be Love](https://open.spotify.com/track/3FIEkSOrEHWeDwgUG9qgOV) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Sing Classic Pop Hits!](https://open.spotify.com/album/3INw0axhrXHJHIfo9arjrF) | 3:32 | 2024-01-12 | 2024-08-24 |
 | [It Takes All Kinds](https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [All Kinds of You and Me](https://open.spotify.com/album/3ssKvHMvJ0QMpWO9Wo1Szv) | 3:07 | 2022-04-15 | 2023-10-21 |
+| [It's Raining Tacos Again](https://open.spotify.com/track/2gBSQCNsDZYwlsiZGvQXtT) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [The Raining Tacos Saga](https://open.spotify.com/album/3mEi6JvyJcLoPsOrPgIVyC) | 1:44 | 2024-12-06 |  |
 | [It's Stariana!](https://open.spotify.com/track/0mI8clBGy1IIVDctrLA9fP) | [The Cast of Baby Shark's Big Movie](https://open.spotify.com/artist/2qlOwH6ICaEw63LMC3bBVR), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [It's Stariana!](https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q) | 0:43 | 2023-12-08 | 2024-02-10 |
 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 | 2022-04-15 | 2023-10-28 |
 | [Jill's Frozen Palace \- Snow Queen](https://open.spotify.com/track/0uAZucg3YduaLoadryzhtm) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Christmas](https://open.spotify.com/album/0vOJVU64517LT8JYhlvnNV) | 1:57 | 2024-11-15 |  |
@@ -334,6 +335,7 @@
 | [Let's Make A Shape](https://open.spotify.com/track/0gPFZhvPSZHvmmQplLwlcf) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let's Make A Shape](https://open.spotify.com/album/6yVa1Xeq2ZYMiSq6t5omyn) | 2:01 | 2024-04-26 |  |
 | [Let's Move! Dance Party](https://open.spotify.com/track/1xpYDiirwCbQfqlpFloIFE) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Let's Move! Dance Party](https://open.spotify.com/album/1dyyEdnXHY9aqWafR6JqiV) | 3:22 | 2024-03-22 | 2024-08-24 |
 | [Letter C](https://open.spotify.com/track/3pDeU1HQaufmpKckaPS6Jd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 3:51 | 2022-04-15 | 2023-10-21 |
+| [Let’s Blaze \- Remix](https://open.spotify.com/track/2IABpRQ8tLS97mvp03FfOD) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l), [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Nick Jr\. Mix It Up! Vol\. 18: Lil' Boots Big Dreams \(The Remixes\)](https://open.spotify.com/album/3551EFkORjacPC6SHavSKg) | 2:09 | 2024-12-06 |  |
 | [Light It Up \- From Monster High: Scaradise Island](https://open.spotify.com/track/5YFPCM5Mp1xzz0hqBddgW5) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Light It Up \(From Monster High: Scare\-adise Island\)](https://open.spotify.com/album/6co49BCcyTZ5gSuRbv2ZyT) | 2:32 | 2024-04-05 | 2024-08-24 |
 | [Like Nobody Else](https://open.spotify.com/track/0lxAaW5ajqmnvEZacxGPqX) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/6sZUdRMUBkkTXI5NS6G9pv) | 1:40 | 2022-10-07 | 2022-12-20 |
 | [Like Nobody Else](https://open.spotify.com/track/4ab5Xa3DF4gm6heuhTvqr9) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/3YzyCeKKhM8zFyxIc4C36M) | 1:40 | 2022-07-25 | 2022-10-08 |

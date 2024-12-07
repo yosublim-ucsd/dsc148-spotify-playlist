@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: ericdoa
+> A little bit of pop, a little bit of rap\. Cover: iann dior
 
-665 songs - 1 day 6 hr 22 min
+667 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Let's go to Hell](https://open.spotify.com/track/5wxLJCLMUhyi7iTOCyuQrl) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/0StPEpOcL93ORzJFiAFY8u) | 2:32 | 2021-12-03 | 2022-02-26 |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-03 | 2022-02-26 |
 | [like that](https://open.spotify.com/track/30iHJe2noaNkUtWanmH1D5) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [like that](https://open.spotify.com/album/2YoJieMK2NsxoS56vA01nc) | 2:32 | 2022-08-26 | 2022-10-01 |
-| [Like That \(feat\. Armani White\)](https://open.spotify.com/track/669ftUGKrpw9aWYqg6EaGB) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Like That \(feat\. Armani White\)](https://open.spotify.com/album/5wd1e37tPmtg1W9twc5LAk) | 2:35 | 2024-05-24 |  |
+| [Like That \(feat\. Armani White\)](https://open.spotify.com/track/669ftUGKrpw9aWYqg6EaGB) | [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Like That \(feat\. Armani White\)](https://open.spotify.com/album/5wd1e37tPmtg1W9twc5LAk) | 2:35 | 2024-05-24 | 2024-12-07 |
 | [LIME](https://open.spotify.com/track/6rB46iHlnzFSds3vC3X6h4) | [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs), [jackwoods](https://open.spotify.com/artist/5Jq1Pr7kLEm3h5RlkSiQ5z) | [LIME](https://open.spotify.com/album/3I6F5HlKtBFwpzpeRyHqQB) | 2:57 | 2022-10-14 | 2022-10-22 |
 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 | 2022-06-10 | 2023-09-09 |
 | [Livin It Up \(with Post Malone & A$AP Rocky\)](https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:30 | 2021-11-16 | 2022-02-26 |
@@ -505,6 +505,7 @@
 | [safe to say](https://open.spotify.com/track/2GDEhyGpLgUxxLi95pvYgM) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [safe to say](https://open.spotify.com/album/2eBpe2BunLdyvJJ8FsekyA) | 2:02 | 2023-06-09 | 2024-03-16 |
 | [same squad](https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:31 | 2022-09-27 | 2022-11-12 |
 | [Same Streets](https://open.spotify.com/track/7cUhsSkqpWI8JMrlRKdEGI) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/32bbFhtMy0OhYcE4UolJAB) | 2:33 | 2023-07-07 | 2024-06-01 |
+| [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 | 2024-12-06 |  |
 | [Seen It All](https://open.spotify.com/track/6hB0cABPuWsH26D7nsVvCr) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Seen It All](https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ) | 2:42 | 2022-06-03 | 2022-07-13 |
 | [SELF CARE](https://open.spotify.com/track/6xJ8pLfdfnJBpQR6i8J4jq) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [SELF CARE](https://open.spotify.com/album/2gUv8u6L3fCT7pDm5FMleh) | 2:54 | 2023-11-10 |  |
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-11-16 | 2022-02-19 |
@@ -572,6 +573,7 @@
 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2022-04-11 | 2022-08-09 |
 | [Supercharged](https://open.spotify.com/track/0vq6MAzofcgiI8RMeAfdao) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Supercharged](https://open.spotify.com/album/7KEEFdCQYw9RZFfd0fxn6R) | 2:15 | 2022-04-01 | 2022-07-07 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-07-09 |
+| [Sweet](https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Sweet](https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp) | 2:15 | 2024-12-06 |  |
 | [Swing](https://open.spotify.com/track/7mLXXOYfVQdBHkrI6HASt8) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Swing](https://open.spotify.com/album/2z4qMbr3ozdcz6Tp185gPS) | 2:09 | 2023-03-03 | 2023-05-06 |
 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-07 | 2024-02-12 |
 | [Sympathy](https://open.spotify.com/track/57BkAcQRIxrQyWwgJUc49W) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/4aNXr4et2TpAE6bL2thPGY) | 3:05 | 2024-01-12 | 2024-06-01 |

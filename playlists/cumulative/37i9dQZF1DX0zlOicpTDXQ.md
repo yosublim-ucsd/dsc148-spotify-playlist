@@ -2,15 +2,16 @@
 
 ### [Netflix Holidays Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0zlOicpTDXQ)
 
-> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Pentatonix in Meet Me Next Christmas
+> Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas
 
-85 songs - 4 hr 17 min
+87 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Days of Christmas \(feat\. Aloe Blacc\)](https://open.spotify.com/track/0bEDa562DIK9plDxrVTg6N) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [A Bad Moms Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ym9lRObWTXBDZafXmqwm6) | 2:05 | 2022-11-18 | 2023-11-07 |
 | [A Christmas Thing \(aka Quince Ballad\)](https://open.spotify.com/track/7oiVBBQVuVeR8vNQT9ip1n) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 | 2022-11-18 |  |
 | [A Mouse and a Kingdom](https://open.spotify.com/track/7FDGKgY1LALDcBqgcuFpbD) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:21 | 2022-11-18 | 2022-11-23 |
+| [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 | 2024-12-06 |  |
 | [A Story About Letters](https://open.spotify.com/track/5ajzF3VX52mCkBupgteij1) | [Alfonso G\. Aguilar](https://open.spotify.com/artist/0zPsPfHcjbQzlb6gVAa0QM) | [Klaus \(Music from the Netflix film\)](https://open.spotify.com/album/3pxQp1SCC1fUggunoo2Kb5) | 1:38 | 2022-11-18 | 2023-11-07 |
 | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/track/06brLYLA4DVwITVbbRuvm9) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/album/6pJJt55QFmYnoFkKUGSiUj) | 3:13 | 2023-12-27 |  |
 | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/track/5QB64gwD8o0JKMLKPKSp2c) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Angels from the Realms of Glory \(from the Netflix Film A Castle For Christmas\)](https://open.spotify.com/album/4Lr5JXPMnBd2gqWBBLmNcS) | 3:13 | 2022-11-18 | 2024-04-19 |
@@ -40,6 +41,7 @@
 | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB) | [Shameik Moore](https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP) | [First Christmas \(That I Loved You\) \[From The Netflix Film Let It Snow\]](https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4) | 3:02 | 2022-11-18 | 2023-11-07 |
 | [Freezie Day](https://open.spotify.com/track/6HdJTwvLhE35XVl2bb1seu) | [Waffles + Mochi Cast](https://open.spotify.com/artist/0ip3E1W97Aj3lO32iyDGKn), [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Freezie Day \(from the Netflix Special, Waffles + Mochi: Holiday Feast\)](https://open.spotify.com/album/7x9q8EX4xkLOMb8lB1Qdk0) | 2:37 | 2022-11-18 | 2022-11-23 |
 | [Grandpa Me Nie' \(Asew Jingle Jangle Remix\) \[feat\. Mic Flammez\]](https://open.spotify.com/track/0u9w8hguVdkPHkzlnwV9eh) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 1:41 | 2022-11-18 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH) | 3:46 | 2024-12-06 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2022-11-18 | 2023-11-16 |
 | [It's Christmas!](https://open.spotify.com/track/4MKlducyADIQeGWrieJIqy) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 2:17 | 2022-11-18 | 2022-11-23 |
 | [Jessica’s Picture](https://open.spotify.com/track/4IceduohsCgzUyl2QoLuwX) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Jingle Jangle: A Christmas Journey \(Score from the Netflix Original Film\)](https://open.spotify.com/album/2PQq1kd1uEjrpDrErtYYEX) | 1:40 | 2022-11-18 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 ### [Best of Fresh Finds India 2024](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Ashwin Advani \#SpotifyWrapped
+> Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Ashwin Adwani \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,764 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,827 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Rango Se](https://open.spotify.com/track/3yBYYhGo0Yy9qFz96fNKEj) | [Chinmay Agrawal](https://open.spotify.com/artist/0SqLzJdPw0DPQb8lWN4pdk) | [Rango Se](https://open.spotify.com/album/2DFQHyHy0ly9y3cxN7gSB9) | 2:52 |
 | 50 | [Aana Na Tu](https://open.spotify.com/track/2q6LTElfNENh92sxiPa7nD) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Aana Na Tu](https://open.spotify.com/album/6MOBjenHZeB2VmUnx8XuVQ) | 2:55 |
 
-Snapshot ID: `Z1BHxAAAAADDUMEEuc+ZO39Y7stACIwa`
+Snapshot ID: `Z1KyvAAAAACsPrmHHmin1p/sTXuqEEyN`

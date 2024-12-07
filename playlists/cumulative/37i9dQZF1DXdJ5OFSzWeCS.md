@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-723 songs - 21 hr 40 min
+726 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [A Smile For Me](https://open.spotify.com/track/3i16Aq5xnXD5C1ESwQ2jS0) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [A Smile For Me](https://open.spotify.com/album/7m4EMIbsdDnS0FMkgOV20I) | 1:59 | 2022-02-10 | 2023-02-10 |
 | [A Snowflake On My Nose](https://open.spotify.com/track/5DfVrpef8hqayH7cX85PMs) | [Marielle Wilson](https://open.spotify.com/artist/2XH0vhn32RdidOMQiqxOEG) | [The Pumpkin](https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv) | 1:22 | 2022-02-10 | 2023-01-13 |
 | [A Sweet Lullaby](https://open.spotify.com/track/2MwDlTgA8fYmDI5q3wGmYV) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Hush Little Baby](https://open.spotify.com/album/6HbLEgO2wXiT0fqxAh7Ohd) | 1:58 | 2023-03-17 |  |
+| [A Swim In The Ocean](https://open.spotify.com/track/237YyDSy5pzygZaAjwIeN4) | [Julius Nilsson](https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX) | [A Swim In The Ocean](https://open.spotify.com/album/0vRnewOf5FyLPivukwu1Qb) | 1:48 | 2024-12-06 |  |
 | [A Whole New World](https://open.spotify.com/track/20XvoLSftapXeGhyTbL8B3) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [A Whole New World](https://open.spotify.com/album/59iePmElcmxNxwPFTj3Xok) | 2:19 | 2022-09-02 | 2024-05-17 |
 | [A\-Hunting We Will Go](https://open.spotify.com/track/3hLc4ab4KT4m4gvattLKBL) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [A\-Hunting We Will Go](https://open.spotify.com/album/3F79BhgZBdN6WfmQM1W820) | 1:45 | 2022-05-16 | 2023-09-09 |
 | [A\-tisket, A\-tasket](https://open.spotify.com/track/2bgQs7UTnoOgdHlPjjHG6m) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [A\-tisket, A\-tasket](https://open.spotify.com/album/7buCqlY8XcXvL3NPz5wVIm) | 1:29 | 2024-02-09 |  |
@@ -202,6 +203,7 @@
 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/1N6QzeFReQAmVZj3rgKBCP) | [Mégane Moulin](https://open.spotify.com/artist/0ZA83yzf9xrEbI0fgHjaQG) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4haQvxIMYJNPwGNBNTFtTb) | 1:24 | 2023-02-24 |  |
 | [Family Photo](https://open.spotify.com/track/4pE9U2DrP0VFWKnT9pxcJq) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [Family Photo](https://open.spotify.com/album/2PEV2w4qjS58I0QNFodYPy) | 1:38 | 2022-04-25 | 2024-04-19 |
 | [Fattig Bonddräng](https://open.spotify.com/track/2aip5Q4P1GZCBV6xiD8MeK) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Fattig Bonddräng](https://open.spotify.com/album/5ItMl2yGJUtIf2n9aghSw1) | 1:28 | 2022-12-23 |  |
+| [Fazendinha](https://open.spotify.com/track/2lYa8WwYlRlakpjVjND7iS) | [Butterfly Forest](https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5) | [Fazendinha](https://open.spotify.com/album/7dVczYDIEpSQh8Yz6Lk1eu) | 2:57 | 2024-12-06 |  |
 | [Feel Free to Sleep](https://open.spotify.com/track/0PbLyrTvEMn6ED9xo1LhXy) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Feel Free to Sleep](https://open.spotify.com/album/33sXuQxHQVphqNA2P3NCFd) | 1:22 | 2022-02-10 | 2023-03-18 |
 | [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
 | [Find the Rabbit](https://open.spotify.com/track/2vjDdu0tysrnzHnauxWEKI) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [Find the Rabbit](https://open.spotify.com/album/3XRiAsdLak4P7VEIuobruI) | 1:56 | 2022-02-10 | 2023-01-13 |
@@ -534,6 +536,7 @@
 | [Room For One More](https://open.spotify.com/track/7JsEBQiCoVUoF7ryygpwBf) | [Lev Castillo](https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6) | [Room For One More](https://open.spotify.com/album/2fvKK9bz4BRUteKXj8DW6s) | 2:11 | 2022-02-10 | 2024-05-17 |
 | [Röversången](https://open.spotify.com/track/20mCWm7oKXLutGE47jTCnC) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Rövarsången](https://open.spotify.com/album/0inZF8Fw2EVQ9nKUoWX9nX) | 1:31 | 2023-02-10 | 2023-06-03 |
 | [S Cookie](https://open.spotify.com/track/3Ibxvlp5Ib0U8TcnyHZbmZ) | [Barry Peterson](https://open.spotify.com/artist/3Bw6VB7LnLXVWr81Vnv5Dj) | [Nap Happy](https://open.spotify.com/album/51fmSHGCo2XbkiAN2b78Ki) | 2:12 | 2022-02-10 | 2022-10-08 |
+| [Safe in My Arms](https://open.spotify.com/track/0be6PqCV1SwmrLtVo3VFKQ) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Safe in My Arms](https://open.spotify.com/album/4KAkkxGfVTctFjoEM77k2J) | 1:57 | 2024-12-06 |  |
 | [Sawing lumber when I slumber](https://open.spotify.com/track/2inaMVUoCaJh6P0DRfcrcE) | [Koby Watkins](https://open.spotify.com/artist/1XQRa7AZGtigxKfRiQ2Suz) | [Sawing lumber when I slumber](https://open.spotify.com/album/4ZFwidVASp10qO7TV6veyT) | 1:48 | 2022-02-10 | 2022-12-24 |
 | [Sea Lions](https://open.spotify.com/track/4NwEQsgZbGVhhjHKEBzEEa) | [Little Mishka](https://open.spotify.com/artist/5aWytEfJwLbprQOpAtGQ3n) | [Sea Lions](https://open.spotify.com/album/2d81vXY5IRWoAGFoOjZuON) | 1:48 | 2023-06-15 |  |
 | [See How You Sleep](https://open.spotify.com/track/0bu18Rba8zfokMSRIcMksW) | [Finnegan Blakeley](https://open.spotify.com/artist/61uEvRFXik0o0l9Ld3Dw3S) | [See How You Sleep](https://open.spotify.com/album/4UPYFbqQWyKK4iOSTSPrag) | 1:15 | 2022-04-25 | 2024-05-17 |

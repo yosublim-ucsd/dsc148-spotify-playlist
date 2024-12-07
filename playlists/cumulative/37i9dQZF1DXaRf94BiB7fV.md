@@ -2,7 +2,7 @@
 
 ### [Best of Fresh Finds India 2024](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Ashwin Advani \#SpotifyWrapped
+> Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Ashwin Adwani \#SpotifyWrapped
 
 1,468 songs - 3 day 12 hr 45 min
 

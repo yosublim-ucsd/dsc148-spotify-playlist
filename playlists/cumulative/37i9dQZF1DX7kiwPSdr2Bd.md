@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Sued Silva, Dalete hungria
 
-273 songs - 1 day 0 hr 39 min
+274 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 | 2022-09-09 | 2023-10-07 |
 | [Ele Vivo Está \- Ao Vivo](https://open.spotify.com/track/1rdX7BDE5okxQ3gIVbj1sy) | [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Ele Vivo Está \(Ao Vivo\)](https://open.spotify.com/album/1TfwbOSiKetVgFv3hwXmJ8) | 9:21 | 2023-04-28 | 2023-06-17 |
 | [Em Missão de Amor](https://open.spotify.com/track/6u3BXKJdGXUKyDpti4QSGL) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Em Missão de Amor](https://open.spotify.com/album/6WowcZuZLUxImUkz8Lw9X7) | 4:24 | 2024-10-25 |  |
+| [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 | 2024-12-06 |  |
 | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/track/5PwfEoRObqfeFYMt0gjf1j) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora \(Versão Acústica\)](https://open.spotify.com/album/4xR7lEe74x3j3xuxlOB5BD) | 3:23 | 2023-08-04 | 2023-08-19 |
 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 | 2023-09-01 | 2023-09-16 |
 | [Então Profetiza](https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Então Profetiza](https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs) | 4:19 | 2023-09-25 |  |
@@ -111,7 +112,7 @@
 | [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 | 2024-10-26 |
 | [Feliz de Vez \(Ao Vivo\)](https://open.spotify.com/track/2lh9k3zcXAGEc8JpmehU8J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Em Casa \(Ao Vivo\)](https://open.spotify.com/album/2tNGhCv1PBLioKB13XgnhJ) | 4:39 | 2022-09-09 | 2022-10-01 |
 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-08-30 |  |
-| [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 | 2022-09-09 |  |
+| [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 | 2022-09-09 | 2024-12-07 |
 | [Filho Meu \(Ao Vivo\)](https://open.spotify.com/track/1b4E0RE6gdRQmP6JqrjoKR) | [Karolzinha](https://open.spotify.com/artist/1EX52ykglCCY8a51tsU2jQ) | [Filho Meu \(Ao Vivo\)](https://open.spotify.com/album/1VbesboSK1PBV9NHFAGDSA) | 4:27 | 2023-09-25 | 2023-11-04 |
 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 | 2023-07-07 |  |
 | [Grande é o Nosso Deus \- Ao Vivo](https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH) | 5:23 | 2023-04-15 | 2023-07-08 |

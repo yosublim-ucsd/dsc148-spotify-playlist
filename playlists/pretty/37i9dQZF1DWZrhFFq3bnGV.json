@@ -1,13 +1,45 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Michael Aldi",
-  "num_followers": 107496,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
+  "num_followers": 107511,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lzjQAAAABGhqNxITSLsj61GTIxDbBA",
+  "snapshot_id": "Z1J7UAAAAADFVmXchwTRm8rZGyxZFYgo",
   "tracks": [
+    {
+      "added_at": "2024-12-06 04:19:28",
+      "album": {
+        "name": "Kita Ke Masa Depan",
+        "url": "https://open.spotify.com/album/6bg9Yy0fJRUrM1JTaoLDdy"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "duration_ms": 197100,
+      "name": "Kita Ke Masa Depan",
+      "url": "https://open.spotify.com/track/51ccM90FgfwOjTHX9hjd0x"
+    },
+    {
+      "added_at": "2024-12-06 04:19:28",
+      "album": {
+        "name": "CINEMA. extended",
+        "url": "https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt"
+      },
+      "artists": [
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "duration_ms": 121437,
+      "name": "It Don't Mean a Thing",
+      "url": "https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA"
+    },
     {
       "added_at": "2024-11-29 07:55:57",
       "album": {
@@ -1203,26 +1235,6 @@
     {
       "added_at": "2024-09-19 17:00:00",
       "album": {
-        "name": "Perspektif",
-        "url": "https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz"
-      },
-      "artists": [
-        {
-          "name": "Adi Darmawan",
-          "url": "https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX"
-        },
-        {
-          "name": "Teguh Sukarelawanto",
-          "url": "https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Even Rain",
-      "url": "https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0x2ihg2RFYa7ESUnJzEdcq"
       },
@@ -1327,22 +1339,6 @@
       "duration_ms": 232400,
       "name": "Kala Itu",
       "url": "https://open.spotify.com/track/7HO2RmmmIZgZHiRJPzpguJ"
-    },
-    {
-      "added_at": "2024-09-19 17:00:00",
-      "album": {
-        "name": "Surya Sewana",
-        "url": "https://open.spotify.com/album/72cSOyJTh3pImtWv6DRqc3"
-      },
-      "artists": [
-        {
-          "name": "Indra Lesmana",
-          "url": "https://open.spotify.com/artist/4DnkJItO6woQAeq1eEv6c7"
-        }
-      ],
-      "duration_ms": 496333,
-      "name": "Mystical Glow",
-      "url": "https://open.spotify.com/track/3CDDzWzcyY84fh0UE3NeKH"
     },
     {
       "added_at": "2024-09-19 17:00:00",

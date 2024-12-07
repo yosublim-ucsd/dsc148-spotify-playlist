@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 472914,
+  "num_followers": 473078,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAACVkajm2tAIMK15xV8JUc/X",
+  "snapshot_id": "Z1DtAAAAAABRJPjKNP5HfpYYhoDQxN9i",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Es Color De Rosa",
         "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 255493,
       "name": "Me Olvidar\u00e1s",
       "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
     },
     {
       "added_at": null,

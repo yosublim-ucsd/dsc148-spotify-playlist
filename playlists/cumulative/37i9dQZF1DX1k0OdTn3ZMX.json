@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Bloodywood.",
+  "description": "n\u00fc-metal revival is happening here and now with Tetrarch.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 203333,
       "name": "Kraken Down",
       "url": "https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be"
@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Parasite",
+        "url": "https://open.spotify.com/album/2RJ1a6ahIkKfObmJztZ8TH"
+      },
+      "artists": [
+        {
+          "name": "Shark Eyes",
+          "url": "https://open.spotify.com/artist/1QDuWNS0ISWmg8TxRDqZwB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158313,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5ES2h7mbW1EmT65Sl1uShP"
+    },
+    {
+      "album": {
         "name": "Permanence in Sleep",
         "url": "https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM"
       },
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185357,
       "name": "ROC SH!T",
       "url": "https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg"
@@ -3321,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/746RawvDho6HKng0MymUJl"
+      },
+      "artists": [
+        {
+          "name": "Stay Lost",
+          "url": "https://open.spotify.com/artist/5OIMHiAXjUaBM9V8VpPdup"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166192,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3g6VoOQjAOwRsnSd4N7iC9"
+    },
+    {
+      "album": {
         "name": "Sucks 2 Suck",
         "url": "https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w"
       },
@@ -3430,7 +3466,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 191561,
       "name": "Take",
       "url": "https://open.spotify.com/track/1xUhwqW7W6uEi1oGCCfYv7"
@@ -4272,6 +4308,24 @@
       "duration_ms": 173180,
       "name": "XOXO (feat. From Ashes to New)",
       "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
+    },
+    {
+      "album": {
+        "name": "YEAR OF THE RAT",
+        "url": "https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB"
+      },
+      "artists": [
+        {
+          "name": "MUDRAT",
+          "url": "https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "YEAR OF THE RAT",
+      "url": "https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1"
     },
     {
       "album": {

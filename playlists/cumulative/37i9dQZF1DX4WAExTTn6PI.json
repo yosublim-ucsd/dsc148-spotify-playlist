@@ -2379,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Marry Jane",
+        "url": "https://open.spotify.com/album/7G0BjpkTSipUxuYUL3vwSJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145932,
+      "name": "Marry Jane",
+      "url": "https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK"
+    },
+    {
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
       },

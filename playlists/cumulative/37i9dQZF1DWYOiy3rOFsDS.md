@@ -4,7 +4,7 @@
 
 > Romance a la antigüita con Yami Safdie y Lasso en portada.
 
-320 songs - 18 hr 34 min
+321 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [No me reproches](https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [Lo esencial de Orígenes: El Bolero](https://open.spotify.com/album/6JJJE2Mp1nfIHVdKR7C8MZ) | 2:54 | 2021-10-16 | 2024-10-12 |
 | [No Me Vuelves Loco](https://open.spotify.com/track/6t5xSymdyuMDgmJuMKw8PQ) | [Cine Mudo](https://open.spotify.com/artist/7ewKI73b6pZJ14kALAPUmN) | [No Me Vuelves Loco](https://open.spotify.com/album/5EOgUfFGzJRGFZrvN5gqo5) | 2:58 | 2024-09-27 | 2024-10-12 |
 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 | 2021-10-16 |  |
-| [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 | 2021-10-16 |  |
+| [No Olvides Recordarme \- En Vivo](https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Necesito un Bolero \[\(Edición de Lujo\)\[En Vivo\]\]](https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt) | 3:55 | 2021-10-16 | 2024-12-07 |
 | [No Respondo Pt\. 2](https://open.spotify.com/track/3ZDyawmx3X2cazcFYv74F6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [No Respondo Pt\. 2](https://open.spotify.com/album/6jHmrZG9ZytJMnd5VoHQh2) | 4:08 | 2023-08-25 | 2023-11-14 |
 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 | 2021-10-29 | 2022-07-29 |
 | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/track/5rCvtkwn4Y30lfhis5s2aw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/album/7dqlEsABmYafODMP9hlNw9) | 3:27 | 2021-10-16 | 2022-07-28 |
@@ -235,6 +235,7 @@
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 | 2024-10-12 |
 | [por qué?](https://open.spotify.com/track/1OZ7q6s3bFQmHudLDCOMhX) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [por qué?](https://open.spotify.com/album/3lTL2WgNvjcJ91mIXyYG9V) | 3:49 | 2024-11-22 |  |
 | [Por Siempre Lara / Popurrí](https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 5:30 | 2021-10-16 | 2022-07-29 |
+| [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 | 2024-12-06 |  |
 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 | 2021-10-16 | 2024-03-23 |
 | [Preso](https://open.spotify.com/track/1nGrueHu2nJ4a0rzDkbHoB) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Cuando Quieras..\. \(Edición Deluxe\)](https://open.spotify.com/album/558LPlVngGcdWuoF0BfjI7) | 3:47 | 2021-10-16 | 2022-07-29 |
 | [Propuesta](https://open.spotify.com/track/0qHDXcOQlaLQ0lWPWpPdeH) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Homenaje A Las Grandes Canciones, Vol\. II](https://open.spotify.com/album/2A03ukPh044CVuW70bSKeW) | 4:17 | 2021-10-16 | 2024-02-17 |

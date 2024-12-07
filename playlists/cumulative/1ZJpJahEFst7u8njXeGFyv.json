@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Prelude No. 3",
+        "url": "https://open.spotify.com/album/3j3Tcyg9D7DLASJHyx0rTs"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175712,
+      "name": "A Christmas Prelude No. 3",
+      "url": "https://open.spotify.com/track/550tiyZbarfuAejjHMSZLO"
+    },
+    {
+      "album": {
         "name": "A Good Person",
         "url": "https://open.spotify.com/album/5o5S6SyEWAgO05k6oNDTAo"
       },
@@ -1355,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "Piano No\u00ebl II",
+        "url": "https://open.spotify.com/album/3rkdFMmbbpkGJ8bHXpuZU2"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jean-Michel Bernard",
+          "url": "https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146493,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6VYSqs3AgB6koJdXOaXjkJ"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
       },
@@ -1518,7 +1558,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 603000,
       "name": "Ballade No. 1 in G Minor, Op. 23",
       "url": "https://open.spotify.com/track/6q51ncljbPiUuVLmbhyOQS"
@@ -1540,7 +1580,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 431426,
       "name": "Ballade No. 2 in F Major, Op. 38",
       "url": "https://open.spotify.com/track/7s7R1USFGkiqFk4UaVnojA"
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 472240,
       "name": "Ballade No. 3 in A-Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/124a9qrLbcKCE3WfHvlU29"
@@ -1628,7 +1668,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 305573,
       "name": "Barcarolle No. 11 in G Minor, Op. 105",
       "url": "https://open.spotify.com/track/1WwY53OCyh9cKuilDeTLpW"
@@ -1650,7 +1690,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 228693,
       "name": "Barcarolle No. 12 in E-Flat, Op. 106",
       "url": "https://open.spotify.com/track/51aHCzv5F0Y4fv8yWktwsC"
@@ -1672,7 +1712,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 435506,
       "name": "Barcarolle No. 2 in G Major, Op. 41",
       "url": "https://open.spotify.com/track/76iEHfh0OMfYp0Emp9N9q6"
@@ -1694,7 +1734,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 306173,
       "name": "Barcarolle No. 3 in A Minor, Op. 26",
       "url": "https://open.spotify.com/track/255AolcuhrgQt7pZHXU1dH"
@@ -1716,7 +1756,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 250400,
       "name": "Barcarolle No. 4 in A-Flat Major, Op. 44",
       "url": "https://open.spotify.com/track/5FabqbAAeL5rsUFzVhfQC6"
@@ -1738,7 +1778,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 370200,
       "name": "Barcarolle No. 5 in F-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/4CHbPFjF9PkINo5kGcB0BJ"
@@ -1760,7 +1800,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 188800,
       "name": "Barcarolle No. 6 in D-Flat Major, Op. 70",
       "url": "https://open.spotify.com/track/2q3kTQL8W3LGdW94ZzZZZ2"
@@ -1782,7 +1822,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 241133,
       "name": "Barcarolle No. 7 in D Minor, Op. 90",
       "url": "https://open.spotify.com/track/4awTYaFNXqDiAW9Tc6CZNv"
@@ -1870,7 +1910,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 319760,
       "name": "Berceuse, Op. 57",
       "url": "https://open.spotify.com/track/0MjTumOpsjEsE7UKrFcSEG"
@@ -2202,6 +2242,24 @@
       "duration_ms": 304453,
       "name": "Cantique de Jean Racine, Op. 11 (Paraphrase for Piano by Lucas Debargue)",
       "url": "https://open.spotify.com/track/6B6quVh40KpOmd9VgBh9aA"
+    },
+    {
+      "album": {
+        "name": "Carol of the Bells",
+        "url": "https://open.spotify.com/album/5h7BzP1ADecqoe8XnQpmkh"
+      },
+      "artists": [
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94626,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/2MQkIXTRh4H8eaKW1mPLoY"
     },
     {
       "album": {
@@ -2928,7 +2986,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147626,
       "name": "Contredanse in G-Flat Major, B. 17",
       "url": "https://open.spotify.com/track/6ivvZWyt8MmQiJ41AjZdrk"
@@ -3008,6 +3066,24 @@
       "duration_ms": 174800,
       "name": "Dancer in the Snow",
       "url": "https://open.spotify.com/track/1PbNy6LgD8zehL8vxAOitp"
+    },
+    {
+      "album": {
+        "name": "Dancing Girl",
+        "url": "https://open.spotify.com/album/6TzhFFFPfkvsbE392eXZvt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Dancing Girl",
+      "url": "https://open.spotify.com/track/1h0k5c35Bnh63khuMMBfmg"
     },
     {
       "album": {
@@ -4024,7 +4100,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 413626,
       "name": "Gaspard de la nuit, M. 55: Gaspard de la nuit, M. 55: I. Ondine",
       "url": "https://open.spotify.com/track/7dlpvMBHbzfvWxtkMP80SI"
@@ -4046,7 +4122,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 385533,
       "name": "Gaspard de la nuit, M. 55: Gaspard de la nuit, M. 55: II. Le Gibet",
       "url": "https://open.spotify.com/track/5AREbGJAHHIzJBNiagxz2E"
@@ -4068,7 +4144,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 560666,
       "name": "Gaspard de la nuit, M. 55: Gaspard de la nuit, M. 55: III. Scarbo",
       "url": "https://open.spotify.com/track/0OdkSJBqSoh0yFLaEV5kiB"
@@ -5116,7 +5192,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 373666,
       "name": "Images pour piano, Livre I, L. 110: No. 1: Reflets dans l'eau",
       "url": "https://open.spotify.com/track/4Wbwznyor2VrV0LXd5E3FK"
@@ -5138,7 +5214,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 451533,
       "name": "Images pour piano, Livre I, L. 110: No. 2: Hommage \u00e0 Rameau",
       "url": "https://open.spotify.com/track/5M7Qe45e5vxrVva1SFQfNI"
@@ -5160,7 +5236,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 203600,
       "name": "Images pour piano, Livre I, L. 110: No. 3: Mouvement",
       "url": "https://open.spotify.com/track/2v4jMY77JlgLeCW9HFRRQT"
@@ -5200,7 +5276,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 260466,
       "name": "Impromptu No. 1 in E-Flat Major, Op. 25",
       "url": "https://open.spotify.com/track/5ulEXi4vtc2Kqxzx43JaCi"
@@ -5222,7 +5298,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 204933,
       "name": "Impromptu No. 2 in F Minor, Op. 31",
       "url": "https://open.spotify.com/track/13krxB6yD6xj3S98bi0Itx"
@@ -5244,7 +5320,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 260106,
       "name": "Impromptu No. 3 in A-Flat Major, Op. 34",
       "url": "https://open.spotify.com/track/7sNpRWcuT6lI1oD4aIMW64"
@@ -5266,7 +5342,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 526866,
       "name": "Impromptu No. 6 in D-Flat Major, Op. 86",
       "url": "https://open.spotify.com/track/0To3v6VVAtoc2CTOQEBiaK"
@@ -6168,7 +6244,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 175333,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/1VQlRMLLLodJ92dKNgkD4Z"
@@ -6190,7 +6266,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 350333,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: II. Forlane",
       "url": "https://open.spotify.com/track/1Fs20BQoV7eTI0ghL7U5jp"
@@ -6212,7 +6288,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 207266,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: II. Fugue",
       "url": "https://open.spotify.com/track/232cgamAROSWC3bw5ytxvK"
@@ -6234,7 +6310,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 168160,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: III. Rigaudon",
       "url": "https://open.spotify.com/track/4CWI0qCTEWCqRmZhz8SXma"
@@ -6256,7 +6332,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 304826,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: IV. Menuet",
       "url": "https://open.spotify.com/track/6qEwJiT4y3KD9eV5aFmRs3"
@@ -6278,7 +6354,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 231666,
       "name": "Le Tombeau de Couperin: Le Tombeau de Couperin, M. 68: V. Toccata",
       "url": "https://open.spotify.com/track/2k89nbzxchA5jFIJ7yl60b"
@@ -7214,7 +7290,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 408640,
       "name": "Mazurka in B-Flat Major, Op. 32",
       "url": "https://open.spotify.com/track/6MMfbkTP8oMxAdBDGKpiMO"
@@ -7522,7 +7598,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 311040,
       "name": "Morceaux de Fantaisie, Op. 3: No. 2. Prelude in C Sharp Minor",
       "url": "https://open.spotify.com/track/7LjYCUfETKNaYPEp7xyi9Q"
@@ -7544,7 +7620,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 294026,
       "name": "Morceaux de Fantaisie, Op. 3: No. 3. Melodie in E Major",
       "url": "https://open.spotify.com/track/0tBK50Qn5xsfLIi6I4WvNh"
@@ -7566,7 +7642,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 191000,
       "name": "Morceaux de Fantaisie, Op. 3: No. 4. Polichinelle in F-Sharp Minor",
       "url": "https://open.spotify.com/track/1MBgclMYhSkju52BdpzVYw"
@@ -8112,7 +8188,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 497640,
       "name": "Nocturne in E-Flat Major, Op. 33 No. 1",
       "url": "https://open.spotify.com/track/3m2hA33bbCJMO3lFQx7KsX"
@@ -8152,7 +8228,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 358813,
       "name": "Nocturne No. 10 in E Minor, Op. 99",
       "url": "https://open.spotify.com/track/2MGZPFJ0o9t7ck2aC8lmYx"
@@ -8174,7 +8250,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 338706,
       "name": "Nocturne No. 11 in F-Sharp Minor, Op. 104: No. 1",
       "url": "https://open.spotify.com/track/3xZySBy7DpO8hCPC9an7kp"
@@ -8196,7 +8272,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 488760,
       "name": "Nocturne No. 4 in E-Flat Major, Op. 36",
       "url": "https://open.spotify.com/track/152gOM1OSoIoq71rjxNYC7"
@@ -8218,7 +8294,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 529960,
       "name": "Nocturne No. 6 in D-Flat Major, Op. 63",
       "url": "https://open.spotify.com/track/6N0wXrtmWPp1ybgrkMY12M"
@@ -8240,7 +8316,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 268226,
       "name": "Nocturne No. 8 in D-Flat Major, Op. 84: No. 5",
       "url": "https://open.spotify.com/track/2L4IfJiWa6fVOdfQc31vtZ"
@@ -8262,7 +8338,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 314533,
       "name": "Nocturne No. 9 in B Minor, Op. 97",
       "url": "https://open.spotify.com/track/73PhguEQezPatclaQKYMjU"
@@ -8570,6 +8646,28 @@
       "duration_ms": 260239,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/10fIEVkZmS2ZCpCHSZIBfG"
+    },
+    {
+      "album": {
+        "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+        "url": "https://open.spotify.com/album/77OEhTZfHsYNyMfHBJoCof"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Michael Bosch",
+          "url": "https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+      "url": "https://open.spotify.com/track/0cwDtnv4PUyNr6ppd05DcQ"
     },
     {
       "album": {
@@ -9158,7 +9256,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 406093,
       "name": "Pavane pour une infante d\u00e9funte, M. 19",
       "url": "https://open.spotify.com/track/1lAm6ID0erA3p3WhUmwrJ4"
@@ -9996,7 +10094,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 320600,
       "name": "Preludes Op.23: Preludes, Op. 23: No.4 in D Major",
       "url": "https://open.spotify.com/track/0nXsrKpqqbBLT86p4aQUFX"
@@ -10040,7 +10138,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189240,
       "name": "Preludes Op.23: Preludes, Op. 23: No.6 in E-Flat Major. Andante",
       "url": "https://open.spotify.com/track/1IG9xNwCP41fbgPqjF2U6A"
@@ -11458,7 +11556,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 301800,
       "name": "Sonatine, M. 40:: I. \"Mod\u00e9r\u00e9\"",
       "url": "https://open.spotify.com/track/4FTIqKzd6CCVDTkXYL38TE"
@@ -11480,7 +11578,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185733,
       "name": "Sonatine, M. 40:: II. \"Mouvement de menuet\"",
       "url": "https://open.spotify.com/track/59TQFfl6fvVKh7El02ltYh"
@@ -11502,7 +11600,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 217173,
       "name": "Sonatine, M. 40:: III. \"Anim\u00e9\"",
       "url": "https://open.spotify.com/track/5aMYVW96h8PjkrHggRBgRN"
@@ -12356,7 +12454,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176933,
       "name": "Tarantelle, Op. 43",
       "url": "https://open.spotify.com/track/1Yf9eszGH4lhNydDhVaVlB"
@@ -12984,7 +13082,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 212191,
       "name": "The Last Post (Evolution)",
       "url": "https://open.spotify.com/track/6V5fVSrwZiE9YxZeJurNXy"
@@ -13164,6 +13262,44 @@
       "duration_ms": 195373,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/3T53QCB282wA6GY8hMRs4x"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt Suite",
+        "url": "https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gan-Ya Ben-Gur Akselrod",
+          "url": "https://open.spotify.com/artist/1teORouDCbrq9yYxreb2UF"
+        },
+        {
+          "name": "Rusanda Panfili",
+          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
+        },
+        {
+          "name": "Pedro Eustache",
+          "url": "https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380360,
+      "name": "The Prince of Egypt Suite: Part 3",
+      "url": "https://open.spotify.com/track/0qk94htJlMYnfs4FlGhBoI"
     },
     {
       "album": {
@@ -13440,7 +13576,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 605666,
       "name": "Three Concert Studies, S144: No. 1. Il lamento",
       "url": "https://open.spotify.com/track/3MbshyEXEa3HdF3wgbPNac"
@@ -13462,7 +13598,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 355760,
       "name": "Three Concert Studies, S144: No. 2. La leggierezza",
       "url": "https://open.spotify.com/track/2yTAfIQoqIFouNiHLFjeEh"
@@ -13484,7 +13620,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 408000,
       "name": "Three Concert Studies, S144: No. 3. Un sospiro",
       "url": "https://open.spotify.com/track/34gqMNSr2Ya1ApZlpu93eS"
@@ -13886,7 +14022,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 379106,
       "name": "Trois romances sans paroles, Op. 17",
       "url": "https://open.spotify.com/track/5qMaTFhw5bDCLv45cLnWlB"
@@ -13908,7 +14044,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 126200,
       "name": "Trois \u00c9cossaises, Op. 72: No. 3.",
       "url": "https://open.spotify.com/track/4FJoSlqFzNTO5L5vWZV2UX"
@@ -14086,7 +14222,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 511266,
       "name": "Valse caprice No. 4 in A-Flat, Op. 62",
       "url": "https://open.spotify.com/track/5RuwaEvYGwNR3HpDmm0oOS"
@@ -14138,7 +14274,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 32000,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op. 42: Variation 2. L'istesso tempo",
       "url": "https://open.spotify.com/track/5LRW7II11DWZyWFl1p0ekP"
@@ -14160,7 +14296,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 33133,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op. 42: Variation 3. Tempo di minuetto",
       "url": "https://open.spotify.com/track/2uV1R3PHAm4DIuMXxQkPwp"
@@ -14182,7 +14318,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 111866,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Coda",
       "url": "https://open.spotify.com/track/2C8XHoCPU9ZcOCoK0hcVBw"
@@ -14204,7 +14340,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 77733,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Intermezzo",
       "url": "https://open.spotify.com/track/2lzTYLImSF7nHAOFrrbXyf"
@@ -14226,7 +14362,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 49800,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Theme",
       "url": "https://open.spotify.com/track/21nCtnAqZgcgTD8NENiyOZ"
@@ -14248,7 +14384,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 40026,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 1. Poco piu mosso",
       "url": "https://open.spotify.com/track/7rr1WzVlaZswtp3pT4mgYR"
@@ -14270,7 +14406,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 41106,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 10. Allegro scherzando",
       "url": "https://open.spotify.com/track/0kaB5jt63jvg5CccgImg4M"
@@ -14292,7 +14428,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 23133,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 11. Allegro vivace",
       "url": "https://open.spotify.com/track/2F9OowPA5PvKVjrONgxeAz"
@@ -14314,7 +14450,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 36466,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 12. L'istesso tempo",
       "url": "https://open.spotify.com/track/34e9JjmTgv9oOLBJWgKNfJ"
@@ -14336,7 +14472,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 27360,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 13. Agitato",
       "url": "https://open.spotify.com/track/0eqWhS8P1Zojey1V9zfhB6"
@@ -14358,7 +14494,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 62973,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 14. Andante",
       "url": "https://open.spotify.com/track/2Rqrq0BtuzD4GjRZxfY0yP"
@@ -14380,7 +14516,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 89826,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 15. L'istesso tempo",
       "url": "https://open.spotify.com/track/78lFJIu2Ra633y9vPr0lPw"
@@ -14402,7 +14538,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 30666,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 16. Allegro vivace",
       "url": "https://open.spotify.com/track/1n2NGsRtHmz8NIGxkt0Zdl"
@@ -14424,7 +14560,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 58506,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 17. Meno mosso",
       "url": "https://open.spotify.com/track/39NmXy13Mbem9vPni0a3iH"
@@ -14446,7 +14582,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 32533,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 18. Allegro con brio",
       "url": "https://open.spotify.com/track/71MsdhBzbbYBrmZaqICa9d"
@@ -14468,7 +14604,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 31533,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 19 Piu mosso, agitato",
       "url": "https://open.spotify.com/track/4y1ZEBHi9hB5qBEFDMdk8b"
@@ -14490,7 +14626,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 61466,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 20. Piu mosso",
       "url": "https://open.spotify.com/track/4aDfUDUMjBUcveVO2jUniY"
@@ -14512,7 +14648,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 50600,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 4. Andante",
       "url": "https://open.spotify.com/track/7qkV3Rr5PdNMqtLZQxVZ6Q"
@@ -14534,7 +14670,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 20706,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 5. Allegro ma non tanto",
       "url": "https://open.spotify.com/track/0glqMx3fYogdk9l9ArbprA"
@@ -14556,7 +14692,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 23293,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 6. L'istesso tempo",
       "url": "https://open.spotify.com/track/3uXlGBhM3S6txd4W76d6NS"
@@ -14578,7 +14714,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 26040,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 7. Vivace",
       "url": "https://open.spotify.com/track/5uOeuuZnxYwQxNk9GvZCpm"
@@ -14600,7 +14736,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 93600,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 8. Adagio misterioso",
       "url": "https://open.spotify.com/track/5ifZmqFhP8VhoKpvoIBUqp"
@@ -14622,7 +14758,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 72026,
       "name": "Variations on a Theme of Corelli, Op.42: Variations on a Theme of Corelli, Op.42: Variation 9. Un poco piu mosso",
       "url": "https://open.spotify.com/track/2bSs1WVD50RQ0uiXhXv6Dd"

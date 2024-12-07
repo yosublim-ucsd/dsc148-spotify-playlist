@@ -4,7 +4,7 @@
 
 > lo mejor de la nueva ola de artistas con NSQK en portada\. 🌊✨
 
-596 songs - 1 day 6 hr 49 min
+597 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-01-26 | 2024-11-30 |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2024-06-29 |
 | [Barco](https://open.spotify.com/track/3kCqWOMnlfZylvw76TAY5d) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ISABEL LP](https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX) | 4:01 | 2024-03-22 | 2024-04-13 |
+| [BB](https://open.spotify.com/track/5NXnW1LTXz76G0UpfO5aYi) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [BB](https://open.spotify.com/album/2947PkCcjkC58JXgVMUsqb) | 2:53 | 2024-12-06 |  |
 | [Bendita](https://open.spotify.com/track/1Jc27ZqE4Fw46Og9Xv8kTn) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Mariana](https://open.spotify.com/album/4gEn3RMghDcVTo47wnqm4A) | 2:54 | 2024-11-29 | 2024-12-05 |
 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 | 2024-04-26 | 2024-10-19 |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-10-21 | 2024-06-29 |
@@ -501,7 +502,7 @@
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-06-24 | 2022-07-19 |
 | [Sueño](https://open.spotify.com/track/6Ei43WF7g5ZOrtV5W52IIA) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Sueño](https://open.spotify.com/album/28odkuShEsUNTXuoC5psDo) | 3:55 | 2022-08-26 | 2023-03-11 |
 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2023-07-28 | 2024-03-23 |
-| [Super Shining](https://open.spotify.com/track/1TmdDUYSurNh7a6LJUsHqR) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [Super Shining](https://open.spotify.com/album/1xhP3m9LooKPAdtmpmjBvr) | 2:28 | 2024-04-26 |  |
+| [Super Shining](https://open.spotify.com/track/1TmdDUYSurNh7a6LJUsHqR) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [Super Shining](https://open.spotify.com/album/1xhP3m9LooKPAdtmpmjBvr) | 2:28 | 2024-04-26 | 2024-12-07 |
 | [Superdependiente](https://open.spotify.com/track/0XYjbskM6FqfYmMbHagoxz) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Superdependiente](https://open.spotify.com/album/5ja6pj9XeNSaccvgSiLsJo) | 2:56 | 2022-09-23 | 2023-04-01 |
 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 | 2023-02-03 | 2023-04-22 |
 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 | 2021-12-10 | 2022-06-17 |

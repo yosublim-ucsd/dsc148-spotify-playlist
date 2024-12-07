@@ -126,7 +126,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 178157,
       "name": "512 - Remix",
       "url": "https://open.spotify.com/track/1Fs8wvSOyhNiFyMS35AufX"
@@ -594,6 +594,28 @@
       "duration_ms": 169950,
       "name": "Benz",
       "url": "https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF"
+    },
+    {
+      "album": {
+        "name": "Beso Pal Cielo",
+        "url": "https://open.spotify.com/album/6SfTuL2f5940w9dJRsWL2O"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Beso Pal Cielo",
+      "url": "https://open.spotify.com/track/1VkiUCSsIAZa0kcGDMnOdT"
     },
     {
       "album": {
@@ -4478,7 +4500,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 184359,
       "name": "SHISHIBROKE",
       "url": "https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv"
@@ -4951,6 +4973,40 @@
     },
     {
       "album": {
+        "name": "Te Mojo Too",
+        "url": "https://open.spotify.com/album/1TBaNrNVkmH9j4Jrtqwyii"
+      },
+      "artists": [
+        {
+          "name": "El Sanz",
+          "url": "https://open.spotify.com/artist/2P8uWQChMxyz3uNTjeDKrh"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Fortuna music",
+          "url": "https://open.spotify.com/artist/1r7Phu83xmmblxZUuKt5sn"
+        },
+        {
+          "name": "Axl Boore",
+          "url": "https://open.spotify.com/artist/4WnChRKrzhukEIN00vy0s8"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216911,
+      "name": "Te Mojo Too",
+      "url": "https://open.spotify.com/track/6Sw4JIXf93WEfADKEXNYr8"
+    },
+    {
+      "album": {
         "name": "L.O.V.E.",
         "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
       },
@@ -5308,7 +5364,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 139307,
       "name": "TuUuUuU",
       "url": "https://open.spotify.com/track/438gEFQbF9yb0O90B02GTP"
@@ -5762,6 +5818,24 @@
       "duration_ms": 161652,
       "name": "XERATON",
       "url": "https://open.spotify.com/track/3yGRwTF5wDOb1cSj6Fes42"
+    },
+    {
+      "album": {
+        "name": "Ya Ganamos",
+        "url": "https://open.spotify.com/album/0IaUSmzNre5q8jrIzbjTVT"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157361,
+      "name": "Ya Ganamos",
+      "url": "https://open.spotify.com/track/6oxrhNRspZE9KVIqTisXWc"
     },
     {
       "album": {

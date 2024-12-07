@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Wells\*
 
-1,532 songs - 3 day 7 hr 5 min
+1,533 songs - 3 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,6 +1239,7 @@
 | [Straight With Me](https://open.spotify.com/track/0z3WKX1McBTgXbfKBExMGB) | [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Straight With Me](https://open.spotify.com/album/5klZUAK7pzv8nwrvEu5JCp) | 2:44 | 2024-07-19 | 2024-08-23 |
 | [Stranger](https://open.spotify.com/track/3Sda4D07uUlpyI0aa9WMWH) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 2:16 | 2023-10-26 | 2023-12-08 |
 | [Strangers Again](https://open.spotify.com/track/0GCqsWG1ZCWmoBxXjhqayy) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Strangers Again](https://open.spotify.com/album/1QpIGsHL35dpWA37Pn31SV) | 2:44 | 2023-09-28 | 2023-10-20 |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-05 |  |
 | [strawberry cake](https://open.spotify.com/track/65jL6lQnGBMiyWMOEwDDNK) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [strawberry cake](https://open.spotify.com/album/1wlssQmeJ21bMtmiPZSMf1) | 3:12 | 2024-05-09 | 2024-06-07 |
 | [STRAWBERRY PIE](https://open.spotify.com/track/5G52bBP1URmq9wGtMCXbHR) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [STRAWBERRY PIE](https://open.spotify.com/album/4hL6PXUp5M1Gt24MNC5Ma8) | 2:45 | 2024-01-18 | 2024-02-16 |
 | [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 | 2023-11-30 | 2024-01-12 |

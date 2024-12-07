@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Disgrace",
+        "url": "https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124943,
+      "name": "Disgrace",
+      "url": "https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba"
+    },
+    {
+      "album": {
         "name": "Sundiver",
         "url": "https://open.spotify.com/album/3yEElJhMf5ZefKwMgvVRod"
       },
@@ -9962,6 +9980,24 @@
       "duration_ms": 310380,
       "name": "Place Your Debts",
       "url": "https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3"
+    },
+    {
+      "album": {
+        "name": "Planet Popstar",
+        "url": "https://open.spotify.com/album/7KuPIQd0Ix8aVQuGLgsHqS"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244506,
+      "name": "Planet Popstar",
+      "url": "https://open.spotify.com/track/0l9GXpgaE7lBxl29G68Lfu"
     },
     {
       "album": {

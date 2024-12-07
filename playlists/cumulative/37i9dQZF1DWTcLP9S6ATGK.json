@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Bahagia di akhir cerita",
+        "url": "https://open.spotify.com/album/4TucytmUeJg8om7yNPEb2p"
+      },
+      "artists": [
+        {
+          "name": "Zai Hudzaa",
+          "url": "https://open.spotify.com/artist/1InTrPUoRBCUD5EneKBod7"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213875,
+      "name": "Bahagia di akhir cerita",
+      "url": "https://open.spotify.com/track/0SufOyK7UeaP7L3RAxszxC"
+    },
+    {
+      "album": {
         "name": "Bahagia Tanpaku",
         "url": "https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK"
       },

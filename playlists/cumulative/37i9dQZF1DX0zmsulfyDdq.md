@@ -4,7 +4,7 @@
 
 > Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.
 
-217 songs - 10 hr 52 min
+218 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lost in the Woods](https://open.spotify.com/track/6js7mLpJ4vlOkR8rme6fDD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Tranquility](https://open.spotify.com/album/1BX9U1imsmf6lImnV63Xkb) | 3:00 | 2022-04-15 |  |
 | [Love](https://open.spotify.com/track/1YTirJpIZARdMpMYspPo0Y) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Break Time](https://open.spotify.com/album/3bpgROclnnWm7clCFgmweI) | 3:25 | 2022-04-15 |  |
 | [Love Is a Song](https://open.spotify.com/track/0IkV2YqLBVsLrsm4ycVn2w) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Tranquility](https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT) | 2:54 | 2022-04-15 |  |
+| [Love Is an Open Door](https://open.spotify.com/track/4ME94ohG4VQa2EoekCNShL) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Winter Songs](https://open.spotify.com/album/5mfmSSVrt4BOZScMKLROKd) | 2:03 | 2024-12-06 |  |
 | [Love Is an Open Door](https://open.spotify.com/track/0P0U1LfGMSxeAarJOpVa6U) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Princess Piano](https://open.spotify.com/album/2rMzWCO0R028IyDSr5qUHN) | 2:24 | 2022-05-23 |  |
 | [Loyal Brave True](https://open.spotify.com/track/3Dys7jJfkd4UOykn8SVY9T) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 2:48 | 2022-04-15 |  |
 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 | 2022-04-15 |  |

@@ -3581,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "Soy el Alto Mando (En Vivo)",
+        "url": "https://open.spotify.com/album/3tBaPubCg8F5np6VBhh40Q"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "Soy el Alto Mando (En Vivo)",
+      "url": "https://open.spotify.com/track/70JJgvKCMQ4V88lS496dfa"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },

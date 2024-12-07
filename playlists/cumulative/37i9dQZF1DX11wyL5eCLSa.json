@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Dillom y Santiago Motorizado en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Pollo Bruxo y LaPeste en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -540,6 +540,24 @@
       "duration_ms": 140117,
       "name": "Amygdalae",
       "url": "https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz"
+    },
+    {
+      "album": {
+        "name": "Anarqu\u00eda en Buenos Aires",
+        "url": "https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238597,
+      "name": "Anarqu\u00eda en Buenos Aires",
+      "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
     },
     {
       "album": {
@@ -2083,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
+      },
+      "artists": [
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        },
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165959,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
+    },
+    {
+      "album": {
         "name": "Descending To Nowhere",
         "url": "https://open.spotify.com/album/40x1FfDLWrqgts1sZq6xyt"
       },
@@ -2736,7 +2776,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 228671,
       "name": "El perro de Alcib\u00edades",
       "url": "https://open.spotify.com/track/0L35y8Hfp1GdXXl2LRB6fA"
@@ -9394,7 +9434,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 186160,
       "name": "Tu Puto Grupo",
       "url": "https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl"

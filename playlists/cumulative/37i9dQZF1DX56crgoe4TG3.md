@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-302 songs - 19 hr 42 min
+303 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/0UiDKWjgZNmO4XAqUq4YwR) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/5Vp7FdPMarEESivkc6xaSD) | 3:55 | 2022-03-04 | 2022-07-29 |
 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 | 2022-05-27 | 2024-01-20 |
 | [Yellow Ledbetter](https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Yellow Ledbetter](https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr) | 4:05 | 2023-04-21 |  |
+| [YMCA](https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [YMCA b/w Rasputin](https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6) | 4:41 | 2024-12-06 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 | 2022-05-27 | 2024-01-20 |
 | [You Are My Sunshine](https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [You Are My Sunshine](https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD) | 3:20 | 2022-01-07 | 2022-07-29 |
 | [You Can Close Your Eyes](https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:04 | 2022-08-19 |  |

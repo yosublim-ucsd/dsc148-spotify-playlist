@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Brad Paisley
+> Spotify country fan favorites\. Cover: Blake Shelton
 
 234 songs - 13 hr 26 min
 

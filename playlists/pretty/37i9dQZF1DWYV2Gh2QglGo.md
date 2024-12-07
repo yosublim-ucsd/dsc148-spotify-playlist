@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Brett Kissel
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,843 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,849 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 13 | [Going Home](https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Going Home](https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR) | 3:06 |
 | 14 | [home](https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [home](https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib) | 2:45 |
 | 15 | [When I Hear That Song](https://open.spotify.com/track/4OVLUqXlKNejdnT1ll0HmN) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [When I Hear That Song](https://open.spotify.com/album/6iZsjfUmar4PgGYlpjQLpn) | 3:22 |
-| 16 | [Coming Home To You \(Bigger Houses\) \[feat\. Owen Riegling\]](https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Coming Home To You \(Bigger Houses\)](https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl) | 3:28 |
-| 17 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
-| 18 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 |
-| 19 | [Stoned Alone \(feat\. Caitlyn Smith\)](https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 3:33 |
-| 20 | [Stay a Little Longer](https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Stay a Little Longer](https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb) | 3:09 |
-| 21 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 |
-| 22 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
-| 23 | [Jealous Of Jesus](https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Jealous Of Jesus](https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj) | 3:36 |
-| 24 | [Lonely Dirt Road](https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Lonely Dirt Road](https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y) | 4:06 |
+| 16 | [Place Of Peace](https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [From A Man's Perspective](https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj) | 2:45 |
+| 17 | [Coming Home To You \(Bigger Houses\) \[feat\. Owen Riegling\]](https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Coming Home To You \(Bigger Houses\)](https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl) | 3:28 |
+| 18 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
+| 19 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 |
+| 20 | [Stoned Alone \(feat\. Caitlyn Smith\)](https://open.spotify.com/track/0h00CfymQSe8A2VukDiVFC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Golden Child](https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct) | 3:33 |
+| 21 | [Stay a Little Longer](https://open.spotify.com/track/29qwIkY2r8gShcx9NfhQxs) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [Stay a Little Longer](https://open.spotify.com/album/3Xu8qQ5ub97wlniJznRGAb) | 3:09 |
+| 22 | [Middle Of The Bed](https://open.spotify.com/track/2SMUoXaTlpbYEg4nJQGziV) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [ONE HOUSE DOWN \(from the girl next door\)](https://open.spotify.com/album/4UC8sYWpaHLpqivwrSICvU) | 3:21 |
+| 23 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
+| 24 | [Jealous Of Jesus](https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Jealous Of Jesus](https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj) | 3:36 |
 | 25 | [What Got Me Here](https://open.spotify.com/track/7lqeJAu2vzi32nSCINfEJz) | [Jason Kirkness](https://open.spotify.com/artist/6gzw8meygQ3Yl6zfBdNiDQ) | [What Got Me Here](https://open.spotify.com/album/0FXuP4qvGbHBQaoM0zjrAP) | 3:16 |
 | 26 | [Things My Mama Says](https://open.spotify.com/track/4my3xcaM2p80DFfi3ZTiHB) | [Hailey Benedict](https://open.spotify.com/artist/494qaFjOqqQ2NOQfCHSYce) | [Things My Mama Says](https://open.spotify.com/album/4MWGPCRkqgf9Iswh6kYJCH) | 2:52 |
 | 27 | [My Bedroom](https://open.spotify.com/track/4s2hYIjegeOxsVXpVtwywh) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq), [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb), [Laila](https://open.spotify.com/artist/4EXZpEXNEw9idyyLvmdjhb) | [My Bedroom](https://open.spotify.com/album/2qNVSPTBeMo1vLUg1JF09z) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Pretty](https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [She's Me \(Deluxe\)](https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny) | 2:41 |
 | 50 | [I Need A Saviour](https://open.spotify.com/track/0lULeUjpSe1fA2nh6n8FPk) | [Luke Boland](https://open.spotify.com/artist/703HJRpit4XmHFG0Cv72ok) | [I Need A Saviour](https://open.spotify.com/album/59WY5p3CaRPtkp84mXjYrc) | 4:39 |
 
-Snapshot ID: `Z0lKUAAAAABb6l40nkLNguepWIbPkRFI`
+Snapshot ID: `Z1KE0AAAAAABXRs2uv3E9oKM7YAA+b5Y`

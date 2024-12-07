@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-436 songs - 1 day 1 hr 7 min
+438 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Black Velvet \- Junos 365 Sessions](https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Black Velvet \(Junos 365 Sessions\)](https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41) | 3:38 | 2021-12-17 | 2022-12-30 |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-02-18 | 2022-12-30 |
 | [Blinding Lights](https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Blinding Lights](https://open.spotify.com/album/1oTvZ0EYr09AJsdliPbMd4) | 2:55 | 2021-12-17 | 2022-12-30 |
-| [Boo'd Up](https://open.spotify.com/track/5YM7Ae4VUe7LNtvCcYpUcA) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Boo'd Up](https://open.spotify.com/album/0g8PqKip0qIQAKLyNd3lAi) | 3:47 | 2024-04-12 |  |
+| [Boo'd Up](https://open.spotify.com/track/5YM7Ae4VUe7LNtvCcYpUcA) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Boo'd Up](https://open.spotify.com/album/0g8PqKip0qIQAKLyNd3lAi) | 3:47 | 2024-04-12 | 2024-12-07 |
 | [Boom Clap](https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91) | [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [Boom Clap](https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj) | 2:55 | 2021-12-17 | 2022-12-30 |
 | [Both Sides Now](https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Both Sides Now](https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt) | 4:44 | 2021-12-17 | 2023-10-17 |
 | [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2023-10-17 |
@@ -174,6 +174,7 @@
 | [Graveyard](https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc) | 3:18 | 2022-08-26 | 2022-12-30 |
 | [Graveyard](https://open.spotify.com/track/358En9GBp4r4Gi6GuMCiJ6) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/0rlOrJtwIhltLuEnDfBT0G) | 3:18 | 2021-12-17 | 2022-10-03 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/35zMHLsN7awTR3wEpdtXC3) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN) | [Habits \(Stay High\)](https://open.spotify.com/album/3yWITbmUPAnua08jPSHmBt) | 2:24 | 2022-03-25 | 2022-04-16 |
+| [Hallelujah](https://open.spotify.com/track/1uw2yArj2WPAzF2kKJMgqq) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1uzQe5pkZpVLIcuEjDxTb1) | 3:45 | 2024-12-06 |  |
 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 | 2022-03-25 | 2022-04-21 |
 | [Halo](https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Halo](https://open.spotify.com/album/3GmA1W7zAKUtEUpLjX8pFQ) | 4:27 | 2021-12-17 | 2022-12-30 |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-02-24 | 2023-10-17 |
@@ -385,6 +386,7 @@
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [The One That Got Away \(Acoustic\)](https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3) | 3:37 | 2022-01-21 | 2022-12-30 |
 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 | 2023-10-16 |  |
 | [The Only Exception](https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [The Only Exception](https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW) | 3:52 | 2021-12-17 | 2023-10-17 |
+| [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 | 2024-12-06 |  |
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2021-12-17 | 2023-10-28 |
 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 | 2021-12-17 | 2022-05-02 |
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-12-17 | 2022-12-30 |
@@ -436,7 +438,7 @@
 | [You And I](https://open.spotify.com/track/7ECVu9dvPZVG1xEcwWfCRk) | [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [You And I](https://open.spotify.com/album/0avKRT69O6IzBHiMNiAGr0) | 3:19 | 2022-04-15 | 2022-12-30 |
 | [You Broke Me First](https://open.spotify.com/track/2xKy8HbpMFgHV2xZhpQf12) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [You Broke Me First](https://open.spotify.com/album/4bpL1S1jMzH9OlPWVSoaue) | 2:40 | 2021-12-17 |  |
 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 | 2021-12-17 | 2022-05-02 |
-| [You Get What You Give](https://open.spotify.com/track/5THybCnLJJ6yELeignV078) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [You Get What You Give](https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6) | 3:37 | 2023-02-17 |  |
+| [You Get What You Give](https://open.spotify.com/track/5THybCnLJJ6yELeignV078) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [You Get What You Give](https://open.spotify.com/album/2OU1KMDkZAXhWs1FUHcFm6) | 3:37 | 2023-02-17 | 2024-12-07 |
 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 | 2021-12-17 | 2022-12-30 |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-10-28 |  |
 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 | 2021-12-17 |  |

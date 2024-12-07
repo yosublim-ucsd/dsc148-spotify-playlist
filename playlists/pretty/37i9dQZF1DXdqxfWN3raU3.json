@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256563,
+  "num_followers": 256575,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "WYA REMIX WHITE",
         "url": "https://open.spotify.com/album/6R29zteRiORMadmQCkLLBZ"
       },
@@ -375,22 +395,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "La Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+        "name": "Mi Novio Tiene Novia (W Sound 02)",
+        "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
         },
         {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+          "name": "Valka",
+          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+      "duration_ms": 162207,
+      "name": "Mi Novio Tiene Novia - W Sound 02",
+      "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -415,30 +439,6 @@
       "duration_ms": 233693,
       "name": "Besitos BB 2.0",
       "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Mi Novio Tiene Novia (W Sound 02)",
-        "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
-      },
-      "artists": [
-        {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Valka",
-          "url": "https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 162207,
-      "name": "Mi Novio Tiene Novia - W Sound 02",
-      "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "No Sabe Igual",
         "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 136062,
       "name": "No Sabe Igual",
       "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "en la cara",
-        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "en la cara",
-      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Amor \u2260 Cristal",
-        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Rodriguez",
-          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 172888,
-      "name": "Amor \u2260 Cristal",
-      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Amor \u2260 Cristal",
+        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rodriguez",
+          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 172888,
+      "name": "Amor \u2260 Cristal",
+      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Dreams & Love",
-        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "Dreams & Love",
-      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "alexademie",
         "url": "https://open.spotify.com/album/1BfuhqJvGSzRfswonWNmRf"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 167707,
       "name": "alexademie",
       "url": "https://open.spotify.com/track/3St7sFGXYDJqgbdxnT9gwR"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Dreams & Love",
+        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "Dreams & Love",
+      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "LA PRIMERA VEZ",
         "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 171826,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Ukiyo",
-        "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/2kapGymnbrzm8ZwWnQRYIm"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1227,42 +1227,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Wiken",
-        "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 223643,
-      "name": "Wiken",
-      "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Sickreet",
-        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
-      },
-      "artists": [
-        {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "Sickreet",
-      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -1283,6 +1247,42 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Sickreet",
+        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Sickreet",
+      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Wiken",
+        "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 223643,
+      "name": "Wiken",
+      "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "t\u00fanosabes",
+        "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
+      },
+      "artists": [
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "t\u00fanosabes",
+      "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Caballo Negro",
         "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 164736,
       "name": "Dicen Que Eres Arte",
       "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "t\u00fanosabes",
-        "url": "https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq"
-      },
-      "artists": [
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "t\u00fanosabes",
-      "url": "https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1731,26 +1731,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Dime Si Tu",
-        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
+        "name": "Baby Love",
+        "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
       },
       "artists": [
         {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+          "name": "Anthony",
+          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
         },
         {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Fullbrand Music",
-          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
+          "name": "Keen Levy",
+          "url": "https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H"
         }
       ],
-      "duration_ms": 196823,
-      "name": "Dime Si Tu",
-      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
+      "duration_ms": 190736,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1775,22 +1771,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Baby Love",
-        "url": "https://open.spotify.com/album/00nK5uQf0AtmjIvMY44wmV"
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
       },
       "artists": [
         {
-          "name": "Anthony",
-          "url": "https://open.spotify.com/artist/3vHGDuTJOs1D9gAsBPouJ5"
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
         },
         {
-          "name": "Keen Levy",
-          "url": "https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 190736,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/1NA7Ctp8bcYha1pegTM3AO"
+      "duration_ms": 205241,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1815,22 +1811,42 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "CALIFORNIA",
-        "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
+        "name": "Dime Si Tu",
+        "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
       "artists": [
         {
-          "name": "Dani Ribba",
-          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
         },
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Fullbrand Music",
+          "url": "https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe"
         }
       ],
-      "duration_ms": 205241,
-      "name": "CALIFORNIA",
-      "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
+      "duration_ms": 196823,
+      "name": "Dime Si Tu",
+      "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1863,22 +1879,6 @@
       "duration_ms": 202146,
       "name": "FYAH",
       "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
     }
   ],
   "unique_name": "R&B Latino",

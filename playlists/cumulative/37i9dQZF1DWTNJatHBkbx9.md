@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Malaika
 
-155 songs - 7 hr 39 min
+157 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Never Fold](https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU) | [SagetheRager](https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j) | [Never Fold](https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T) | 2:18 | 2024-07-26 | 2024-09-13 |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 | 2024-07-19 |
 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 | 2024-05-31 | 2024-11-29 |
-| [Noni Onako](https://open.spotify.com/track/3k1yrdey3rESxZguzXdv98) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Don't Take My Soul](https://open.spotify.com/album/5YEw6CN7mUjxFCVyYMcMVg) | 4:29 | 2024-09-13 |  |
+| [Noni Onako](https://open.spotify.com/track/3k1yrdey3rESxZguzXdv98) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [Dizraeli](https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa) | [Don't Take My Soul](https://open.spotify.com/album/5YEw6CN7mUjxFCVyYMcMVg) | 4:29 | 2024-09-13 | 2024-12-07 |
 | [Nonsense](https://open.spotify.com/track/2dKzxUbmDLscf0Wu7EkR3E) | [Wanzam The Classic Dj](https://open.spotify.com/artist/0bTKup0wxXNlwzrNvjZvEx), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Gaga Ranks](https://open.spotify.com/artist/7utvjdqhdvjjKMEx96KSpt) | [Nonsense](https://open.spotify.com/album/1XDyC4cV2UNE4pmV3hdf0e) | 2:52 | 2024-07-05 | 2024-07-12 |
 | [Not Yet](https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [Not Yet](https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD) | 2:41 | 2024-05-24 | 2024-06-21 |
 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 | 2024-05-24 |
@@ -128,11 +128,13 @@
 | [Sandbox Vibes](https://open.spotify.com/track/4OWOg2OCoSUjgkkUA7fNHY) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Sandbox Vibes](https://open.spotify.com/album/7jxSO7vkVd9zXYNXxko1w2) | 3:15 | 2024-10-12 |  |
 | [SELFISH.](https://open.spotify.com/track/4S6r7dVPgs36suKmecDxHp) | [Lesléy](https://open.spotify.com/artist/1LBzlrdp7raJkjb34IG7m2) | [SWEET AFROSEXY SUMMERS.](https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf) | 2:48 | 2024-06-14 | 2024-07-12 |
 | [Sexy Depression](https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu) | [Susan Augustt](https://open.spotify.com/artist/1vx6qCxNhUH57xPZrBddo5) | [Sexy Depression](https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l) | 2:56 | 2024-05-10 | 2024-06-01 |
+| [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2024-12-06 |  |
 | [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 | 2024-05-10 | 2024-09-07 |
 | [Shigege](https://open.spotify.com/track/4XEISBCIAK72Qcfi0gDftu) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Shigege](https://open.spotify.com/album/0kg93Sqf3m9RvZaXTzrnxl) | 2:35 | 2024-11-29 |  |
 | [Shika K3 Kotoku](https://open.spotify.com/track/6ektIRTZpLS2YXlpnaslI3) | [Younga101](https://open.spotify.com/artist/3XNl6NZFH3MADC8I4ny800), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Shika K3 Kotoku](https://open.spotify.com/album/7cmHiFkLU5ydMOKfX6sR9u) | 3:00 | 2024-10-12 |  |
 | [Silver Lining](https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Silver Lining](https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm) | 2:53 | 2024-05-31 |  |
 | [Soft Vibez \- Acoustic](https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W) | [Soft Vibez \(Acoustic\)](https://open.spotify.com/album/6NWc7JXrrOaxQevjWNGUAd) | 4:21 | 2024-05-24 | 2024-08-31 |
+| [Sold Out](https://open.spotify.com/track/6LIPNqq9Ha2SQlpXbMKQq5) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Okaiwav](https://open.spotify.com/artist/790WTyVQzbx74N1Iy300Aj) | [Sold Out](https://open.spotify.com/album/1jrlmIgLonqnlxuz4pkX06) | 2:48 | 2024-12-06 |  |
 | [SOTEY](https://open.spotify.com/track/5IDpAYNMGX4z6VBspb6Rvk) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [SOTEY](https://open.spotify.com/album/2XEkQE2Ig42tW6TwMXXQcL) | 2:40 | 2024-09-06 |  |
 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 | 2024-09-06 | 2024-11-08 |
 | [Special Ting](https://open.spotify.com/track/0ffu2K1gzPsyQGxUwy0OPZ) | [Harma Boy](https://open.spotify.com/artist/0dBu3FtAi8txcbF1dc5Z0e) | [Special Ting](https://open.spotify.com/album/2pHulfIkZVxByik17VzIiZ) | 2:01 | 2024-05-10 | 2024-06-01 |
@@ -160,7 +162,7 @@
 | [Wine](https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW) | [Clive](https://open.spotify.com/artist/0LJrjizc2pgyDOy9FRgLsI) | [Wine](https://open.spotify.com/album/7eQpq5QztpKzA25D3EKgEt) | 3:36 | 2024-05-10 | 2024-07-27 |
 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 | 2024-08-17 |
 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 | 2024-05-10 |  |
-| [Yawa Go Dey](https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Omenka](https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6) | [Yawa Go Dey](https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5) | 2:42 | 2024-10-04 |  |
+| [Yawa Go Dey](https://open.spotify.com/track/79ZzuGUmWNmsVEvuLBuX2N) | [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1), [Omenka](https://open.spotify.com/artist/0zvOyfZ2vw7OAXK0bEYDs6) | [Yawa Go Dey](https://open.spotify.com/album/6CY5NFYRFy1tk91tqlkhb5) | 2:42 | 2024-10-04 | 2024-12-07 |
 | [Your Place](https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa) | [Stella Sena](https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6) | [Your Place](https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7) | 2:28 | 2024-07-12 |  |
 | [YSL](https://open.spotify.com/track/3DklWVkyKx5gRW1d3Khq6R) | [Odartei](https://open.spotify.com/artist/2IBRGdRZQJzvoeQMTdRoxN) | [cool.](https://open.spotify.com/album/4IbKmVyXzY4bTDkkBcA6KG) | 3:05 | 2024-05-10 |  |
 

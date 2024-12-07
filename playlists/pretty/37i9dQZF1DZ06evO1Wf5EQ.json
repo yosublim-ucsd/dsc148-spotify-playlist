@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 622,
+  "num_followers": 623,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAABEALXXLispEmcDmc2QdRGO",
+  "snapshot_id": "Z1DtAAAAAAAl7fpFge0QMbdOw/dvU8wZ",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 63248,
-      "name": "Quinn Persiste",
-      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
         "url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9"
       },
@@ -84,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 127615,
-      "name": "Beth's Story",
-      "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
+      "duration_ms": 74046,
+      "name": "Methuen Home For Children 1957",
+      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
     },
     {
       "added_at": null,
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 74046,
-      "name": "Methuen Home For Children 1957",
-      "url": "https://open.spotify.com/track/0oavd02JI7eQqJLUz6ymdB"
+      "duration_ms": 127615,
+      "name": "Beth's Story",
+      "url": "https://open.spotify.com/track/2hMmh9DiAcBjSw59vmYkTo"
     },
     {
       "added_at": null,

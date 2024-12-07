@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25788,
+  "num_followers": 25792,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhkjQ9KqoyKVWVGW6ZhV7wdBuVhCNV",
+  "snapshot_id": "AABhln2yRItDg7CUr7TigRIhEwcrRW42",
   "tracks": [
     {
       "added_at": "2024-12-05 16:22:17",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/2o8GwlRdZ6z8UjhJD98TOp"
     },
     {
+      "added_at": "2024-12-06 13:19:17",
+      "album": {
+        "name": "Want To Stay",
+        "url": "https://open.spotify.com/album/3W7OJN6a1mMIofCep0Nbta"
+      },
+      "artists": [
+        {
+          "name": "Arett",
+          "url": "https://open.spotify.com/artist/1AxoF40MBv67yZjQE3Dguc"
+        }
+      ],
+      "duration_ms": 162882,
+      "name": "Want To Stay",
+      "url": "https://open.spotify.com/track/0Sm6SCxnQvTQx0NzbglTvf"
+    },
+    {
       "added_at": "2024-12-05 16:22:17",
       "album": {
         "name": "Fallen Ones (Tensteps Remix)",
@@ -297,6 +313,90 @@
       "url": "https://open.spotify.com/track/7vioSGoda7BoJsbVPnOs6P"
     },
     {
+      "added_at": "2024-12-06 12:53:27",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1SfjWyUgxs7rpnwEIcg6qh"
+      },
+      "artists": [
+        {
+          "name": "SupaNova",
+          "url": "https://open.spotify.com/artist/3ekpjwM03VgeRPdURV43um"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/2nqUzziXDrcgZ3EUoyq6wF"
+    },
+    {
+      "added_at": "2024-12-06 12:53:27",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7Ezr2dMWdHyaTcIwOGnpRy"
+      },
+      "artists": [
+        {
+          "name": "KTTK",
+          "url": "https://open.spotify.com/artist/6twl7VzHH1aK1FFkOgaIyJ"
+        }
+      ],
+      "duration_ms": 170482,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/7D37CTpEsDo4s61RPO49IT"
+    },
+    {
+      "added_at": "2024-12-06 12:53:27",
+      "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/0IWJd40fzKoCytrpCSrycK"
+      },
+      "artists": [
+        {
+          "name": "Grey Vision",
+          "url": "https://open.spotify.com/artist/7l3gRojjhIGpFq6y8iws3n"
+        }
+      ],
+      "duration_ms": 153322,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7f3W3DI1879hQBgpXIixWt"
+    },
+    {
+      "added_at": "2024-12-06 12:53:27",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/1gKoDV7nJ0M2DVwLxaMABf"
+      },
+      "artists": [
+        {
+          "name": "Seb Todd",
+          "url": "https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv"
+        },
+        {
+          "name": "Amalia Strigas",
+          "url": "https://open.spotify.com/artist/5UkYsLOWi12iQWWpTKtzIq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/2B2A5SEmDiJZvga5i8encQ"
+    },
+    {
+      "added_at": "2024-12-06 12:53:27",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/53QJ0A5c9x6UYzJTLMjKMX"
+      },
+      "artists": [
+        {
+          "name": "Bertus..",
+          "url": "https://open.spotify.com/artist/47Ly4DhMvBZFudv2Cuwxrt"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/14BKsRuxo83aApqlnyCV8l"
+    },
+    {
       "added_at": "2024-12-05 16:22:17",
       "album": {
         "name": "In The Afterglow",
@@ -336,7 +436,7 @@
           "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
         }
       ],
-      "duration_ms": 234952,
+      "duration_ms": 193243,
       "name": "Crossfire - Brooks Remix",
       "url": "https://open.spotify.com/track/78xxLaqXAOyB6My5eyN9C6"
     },

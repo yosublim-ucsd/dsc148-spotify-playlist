@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-424 songs - 1 day 0 hr 42 min
+425 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Apple of My Eye](https://open.spotify.com/track/76bzTMnzA5GY007uUcC6rb) | [N.I.K](https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l), [Alvian](https://open.spotify.com/artist/3BTDxFVCNkEpVkB2B8cEdr) | [Apple of My Eye](https://open.spotify.com/album/3M5JKVdMXbOF1pZwlwAtUt) | 2:04 | 2024-10-24 | 2024-12-06 |
 | [Arpeggio \(Revisited\)](https://open.spotify.com/track/4fCNc4jXpxvGv5ZVa45fCV) | [Friska Viljor](https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul) | [Arpeggio \(Revisited\)](https://open.spotify.com/album/1xIjkcyQwjfw9zjPoCLGTD) | 5:36 | 2024-12-05 |  |
 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 | 2024-10-24 | 2024-12-06 |
+| [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 | 2024-12-06 |  |
 | [Atmosphere](https://open.spotify.com/track/442HltvzhREoVIVY9aeGaG) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [Atmosphere](https://open.spotify.com/album/3AuSK6otpAfrrB1JgDOaKJ) | 3:35 | 2024-11-07 | 2024-12-06 |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-12 | 2024-11-15 |
 | [Away It Goes](https://open.spotify.com/track/3nLCGZPS7WBxMR8GEAtMjj) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Away It Goes](https://open.spotify.com/album/3U1XSkVwVd7hTH6hKWGqCH) | 3:36 | 2024-10-31 |  |

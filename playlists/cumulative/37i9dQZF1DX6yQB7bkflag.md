@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: ROSÉ
 
-1,125 songs - 2 day 17 hr 30 min
+1,126 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,6 +908,7 @@
 | [Step](https://open.spotify.com/track/4eecTuBlb0nM4DIVTmjWPa) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [STEP](https://open.spotify.com/album/7ouKhEyy9jcnDeg9KNnXe9) | 2:55 | 2024-06-13 | 2024-07-05 |
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-04 | 2024-08-09 |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-18 | 2024-03-15 |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-05 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/1Ad4anaX6hJyfZvVDkrKQg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONSTER Pre\-Release Single \[Stuck In The Middle\]](https://open.spotify.com/album/7anlDz5EpVJ4aXmWvaSbzM) | 4:06 | 2024-02-01 | 2024-03-01 |
 | [Suara Hati Seorang Kekasih](https://open.spotify.com/track/5X9OuU8BRgCBNJyxIIFBVG) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Suara Hati Seorang Kekasih](https://open.spotify.com/album/4XjssIpkx3c7PLt0zOh3uT) | 4:10 | 2024-10-18 | 2024-12-06 |
 | [Suka Suka](https://open.spotify.com/track/4s1z0MIFrozmXeTVYDphCS) | [Afan](https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD) | [Suka Suka](https://open.spotify.com/album/6bU6ck19NWigeii1i5JkGB) | 2:57 | 2024-07-25 | 2024-08-09 |

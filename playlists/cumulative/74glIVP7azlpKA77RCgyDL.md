@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jinjer.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: SpiritWorld.
 
-857 songs - 2 day 5 hr 59 min
+863 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,10 +296,12 @@
 | [Gaping Wounds of Earth](https://open.spotify.com/track/6ByaglD7LytHznZXw8v5ic) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Gaping Wounds of Earth](https://open.spotify.com/album/5rZPCnjwemvz1b0qfGfZrB) | 2:43 | 2023-08-18 | 2024-02-03 |
 | [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-20 | 2024-02-03 |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-16 | 2023-07-15 |
+| [Generation No Surrender](https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Generation No Surrender](https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg) | 2:47 | 2024-12-06 |  |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-03 | 2023-07-15 |
 | [GETMONEY](https://open.spotify.com/track/2k3eHeXxtdkzuTSqt4fizQ) | [Crush Your Soul](https://open.spotify.com/artist/5cPuAhAKfhw715sOdA37Xo) | [Crush Your Soul](https://open.spotify.com/album/1gJ9aiByVppSxqqnDMIBRw) | 1:40 | 2024-02-09 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-12 | 2024-02-03 |
 | [Ghost Ride](https://open.spotify.com/track/6erjczeLxFxCOrSpJ98Zij) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Light as a Feather](https://open.spotify.com/album/5tBdfLoUvMkjpIKvPGRvfx) | 4:10 | 2023-09-15 | 2024-02-03 |
+| [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 | 2024-12-06 |  |
 | [Give Me The Painkiller](https://open.spotify.com/track/29W2lycHz4sExfoA11Yiph) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Give Me The Painkiller](https://open.spotify.com/album/5rzdkiqUZ7hmK2G8Em2sAh) | 2:44 | 2024-07-12 |  |
 | [Give Them Death](https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Give Them Death](https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ) | 3:37 | 2024-07-19 |  |
 | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2R1jLZ4CV3nh9pT5GIJkDs) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Glacial Domination \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4Rq0ZN8Thuzx1HkRyXyJjh) | 3:53 | 2023-04-13 | 2024-02-03 |
@@ -361,6 +363,8 @@
 | [Imposing Will](https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Imposing Will](https://open.spotify.com/album/2z0nYg2homkOgcdpCteFCt) | 1:22 | 2024-06-18 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/6Gyfnh212BLrBpIwjnXYIh) | [Whores](https://open.spotify.com/artist/1tK28YnQJ6edBujubs7FXo) | [Imposter Syndrome](https://open.spotify.com/album/4l0JAsTXAZyERJR2h7O6z6) | 4:04 | 2022-03-04 | 2023-07-15 |
 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 | 2024-08-16 |  |
+| [In Place of your Halo](https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [In Place of your Halo](https://open.spotify.com/album/79oAGmxTtCVqbUCLgXnhb3) | 3:43 | 2024-12-06 |  |
+| [In The Grey](https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz) | [Shadows Fall](https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0) | [In The Grey](https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0) | 3:38 | 2024-12-06 |  |
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-04-19 |  |
 | [In the Void](https://open.spotify.com/track/5AsHysrBAAPMusL0WUHsCl) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [Johannes Persson](https://open.spotify.com/artist/3xV1nzks756iynRSEAN2ux), [Final Light](https://open.spotify.com/artist/4Uiua0tWypGcttzUkddFMH) | [In the Void](https://open.spotify.com/album/5aiIy9BVEoDh7AdP3PoDbf) | 8:58 | 2022-04-29 | 2023-07-15 |
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 | 2023-07-15 |
@@ -824,6 +828,7 @@
 | [We Share Blood \(Not Love\)](https://open.spotify.com/track/5GaBRiiXjAGvhfiVCs1U5W) | [Splitknuckle](https://open.spotify.com/artist/4IEv1LeXgymlFLG41BS4Kk), [Pest Control](https://open.spotify.com/artist/06NrwSBss5Imv1Se0Hlv5Y) | [Breathing Through The Wound](https://open.spotify.com/album/4N1QBT0JUgvZLEHQ5foSqQ) | 6:22 | 2024-01-12 |  |
 | [We Won't Sleep](https://open.spotify.com/track/4JQHxicFrjTMTfI6UQwtfw) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [We Won't Sleep](https://open.spotify.com/album/1YxPve8eDSgqlXqyDaOTz7) | 3:33 | 2024-05-17 |  |
 | [Welcome to the Industry \- From Fretless \- The Wrath of Riffson](https://open.spotify.com/track/7tQJYcSnoUfDQnHbMjpp0q) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Welcome to the Industry \(From Fretless \- The Wrath of Riffson\)](https://open.spotify.com/album/0VBT2ouqnWfL43FPwH7NeZ) | 4:36 | 2024-11-08 |  |
+| [Western Stars & The Apocalypse](https://open.spotify.com/track/5CTkWuK9HHKyDH4JA0mF0M) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Western Stars & The Apocalypse](https://open.spotify.com/album/3oTJZdCNnsC39NSaGKddcB) | 2:14 | 2024-12-06 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2023-07-15 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2023-07-15 |
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |
@@ -863,6 +868,7 @@
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 | 2023-07-15 |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 | 2023-07-15 |
 | [Истина](https://open.spotify.com/track/2vKRArTlpWvplOjsVX7zjG) | [Рожь](https://open.spotify.com/artist/6H4aSq8C0uNkxUKDsC2t0j) | [Всё](https://open.spotify.com/album/3WxKplxyqg68yCQHtNucAo) | 9:59 | 2023-01-06 | 2024-02-03 |
+| [いとをかしMyType](https://open.spotify.com/track/2FWQeQtJToIZdZWuaivtJd) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ぶっちぎり東京](https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq) | 3:07 | 2024-12-06 |  |
 | [お先に失礼します。](https://open.spotify.com/track/1bTZoQX1G6GmADCY0xwBbO) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [お先に失礼します。](https://open.spotify.com/album/0l4QylgmJ4qS6UfyMbMnlf) | 3:09 | 2023-01-13 | 2024-02-03 |
 | [知恵](https://open.spotify.com/track/5fJKzNZbsGbeA8w8yKPGaS) | [moreru](https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4) | [山田花子](https://open.spotify.com/album/6p4e0G8qlZMvSpcpviffAw) | 3:26 | 2022-04-01 | 2023-07-15 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -631,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Colcha de Retalhos",
+        "url": "https://open.spotify.com/album/1zxXwcFnIjK1HluvULyVCl"
+      },
+      "artists": [
+        {
+          "name": "Isabella Taviani",
+          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
+        },
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211923,
+      "name": "Colcha de Retalhos",
+      "url": "https://open.spotify.com/track/06CeNSWlSAs4yi7tSngPp4"
+    },
+    {
+      "album": {
         "name": "Vocacional Shalom 2023",
         "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
       },
@@ -650,6 +672,28 @@
       "duration_ms": 238430,
       "name": "Com Tua M\u00e3o",
       "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
+    },
+    {
+      "album": {
+        "name": "Com Tua M\u00e3o",
+        "url": "https://open.spotify.com/album/5TSwbyM7ySxL5dw24cjwQm"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255914,
+      "name": "Com Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/2GTmkLdTSFj54cESYICauO"
     },
     {
       "album": {
@@ -2647,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o D\u00e1 Mais Pra Voltar",
+        "url": "https://open.spotify.com/album/4pOwCB0CU6pk8AiL8Nx4jR"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203916,
+      "name": "N\u00e3o D\u00e1 Mais Pra Voltar",
+      "url": "https://open.spotify.com/track/2nsBKyjWMVaN0RKbjDuf29"
+    },
+    {
+      "album": {
         "name": "N\u00e3o H\u00e1 Deus Maior",
         "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
       },
@@ -3188,7 +3254,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 319556,
       "name": "Romaria - Ao Vivo",
       "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
@@ -3756,7 +3822,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 251956,
       "name": "Viva a M\u00e3e de Deus e Nossa",
       "url": "https://open.spotify.com/track/3Tm1zXUqSPuGHdM3DFvBZz"
@@ -3836,7 +3902,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 159155,
       "name": "\u00c9 Lindo Ser Cat\u00f3lico",
       "url": "https://open.spotify.com/track/3SfjEP1A8HF7oXpH61K6Re"

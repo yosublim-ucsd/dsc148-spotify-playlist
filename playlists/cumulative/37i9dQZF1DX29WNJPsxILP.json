@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Rum, Racks & Roses",
+        "url": "https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu"
+      },
+      "artists": [
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Dooriyaan",
+      "url": "https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T"
+    },
+    {
+      "album": {
         "name": "Mtv Hustle 03 Represent Episode 1",
         "url": "https://open.spotify.com/album/3Tlu6jzZC14qM7ywCYA1Hq"
       },
@@ -1138,6 +1160,28 @@
       "duration_ms": 213793,
       "name": "Goat Dekho",
       "url": "https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM"
+    },
+    {
+      "album": {
+        "name": "Khel Kood",
+        "url": "https://open.spotify.com/album/2HQHTg4QiREEkkHAMnHxNa"
+      },
+      "artists": [
+        {
+          "name": "Smoke",
+          "url": "https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy"
+        },
+        {
+          "name": "Rebel 7",
+          "url": "https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141184,
+      "name": "Gorilla (with Rebel 7)",
+      "url": "https://open.spotify.com/track/7MBbENrJlmxDL8gVyNsw7o"
     },
     {
       "album": {
@@ -3730,7 +3774,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141510,
       "name": "We Here",
       "url": "https://open.spotify.com/track/1Xafs2vf5iaTYEZlUeceDl"

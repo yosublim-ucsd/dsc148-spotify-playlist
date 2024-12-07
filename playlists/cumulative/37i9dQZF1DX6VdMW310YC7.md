@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,703 songs - 4 day 20 hr 34 min
+1,704 songs - 4 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,7 +748,7 @@
 | [In Bloom](https://open.spotify.com/track/4e4sTRiHGEj7LgFhXn0quG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [In Bloom](https://open.spotify.com/album/4vLvJf1lvLmvJ8mXFG9jV6) | 3:48 | 2021-01-08 | 2021-03-10 |
 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 | 2022-09-23 | 2023-08-05 |
 | [In the Morning](https://open.spotify.com/track/01wpPOPqQ3XyS6hBN00HfK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 4:06 | 2020-05-18 | 2020-07-03 |
-| [In Your Eyes](https://open.spotify.com/track/2m8wQDC4VXAFJ5XkV7ktSB) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [RYTERBAND](https://open.spotify.com/artist/61Mh2TdtNylCeUzkVNjbuP) | [In Your Eyes](https://open.spotify.com/album/3THzL4WD6gDchf2jAwpXNj) | 3:38 | 2024-11-29 |  |
+| [In Your Eyes](https://open.spotify.com/track/2m8wQDC4VXAFJ5XkV7ktSB) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [RYTERBAND](https://open.spotify.com/artist/61Mh2TdtNylCeUzkVNjbuP) | [In Your Eyes](https://open.spotify.com/album/3THzL4WD6gDchf2jAwpXNj) | 3:38 | 2024-11-29 | 2024-12-07 |
 | [Inbox Riddim](https://open.spotify.com/track/3jIR5X0bLmBVYjelItipJb) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/1K59wmdQhuMiDmgx3y25Yl) | 4:16 | 2020-05-18 | 2020-10-09 |
 | [Indefinitely](https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Indefinitely](https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0) | 2:09 | 2024-08-02 | 2024-08-31 |
 | [Indian Summer \- Kasbo Remix](https://open.spotify.com/track/2hFD70XI1S5HeGxasMvgbY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Kindred Spirits \(Remixes\)](https://open.spotify.com/album/6dJAqemnQqc33N9uEzV9vX) | 4:16 | 2020-03-23 | 2020-10-09 |
@@ -1183,6 +1183,7 @@
 | [Pleasing](https://open.spotify.com/track/1U9mj5NtcD32HpFdObkP4b) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Stu Pender](https://open.spotify.com/artist/5xuTvhpHtNikqlW5NaMLxb) | [Star\-Crossed](https://open.spotify.com/album/2EoiG8SnGZCVIi5isBBRbN) | 6:08 | 2021-11-12 | 2022-07-21 |
 | [Plectar](https://open.spotify.com/track/4KndhRUQVCFh339T7jYCZv) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:56 | 2020-02-29\* | 2020-03-16 |
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
+| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 |  |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Alkolirykoz",
-  "num_followers": 21647,
+  "num_followers": 21671,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lULwAAAABdwk0PRjnZb5P5egK6Lc+f",
+  "snapshot_id": "Z1J4zwAAAADxd3BVBUv/LUw8eRy8CP2C",
   "tracks": [
     {
       "added_at": "2024-11-29 05:42:07",
@@ -53,6 +53,22 @@
       "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
     },
     {
+      "added_at": "2024-12-06 04:08:47",
+      "album": {
+        "name": "Solo Es Una",
+        "url": "https://open.spotify.com/album/5ubZOVJtvooyXre0ApgzK8"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 210189,
+      "name": "Solo Es Una",
+      "url": "https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf"
+    },
+    {
       "added_at": "2024-11-29 05:42:07",
       "album": {
         "name": "24/7",
@@ -77,20 +93,20 @@
       "url": "https://open.spotify.com/track/1fNhNyGGQ9d5pkhc8dvqZD"
     },
     {
-      "added_at": "2024-11-29 05:42:07",
+      "added_at": "2024-12-06 04:08:47",
       "album": {
-        "name": "Le dec\u00edan que no pod\u00eda",
-        "url": "https://open.spotify.com/album/78PzqEJVrRaKmjHoXdOHdv"
+        "name": "Obra Negra",
+        "url": "https://open.spotify.com/album/6jNFIJ3FmR2tZybX4VOZbq"
       },
       "artists": [
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Le dec\u00edan que no pod\u00eda",
-      "url": "https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl"
+      "duration_ms": 185973,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H"
     },
     {
       "added_at": "2024-11-29 05:42:07",
@@ -139,6 +155,22 @@
     {
       "added_at": "2024-11-29 05:42:07",
       "album": {
+        "name": "Le dec\u00edan que no pod\u00eda",
+        "url": "https://open.spotify.com/album/78PzqEJVrRaKmjHoXdOHdv"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Le dec\u00edan que no pod\u00eda",
+      "url": "https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl"
+    },
+    {
+      "added_at": "2024-11-29 05:42:07",
+      "album": {
         "name": "Que Zumbe Mi Voz",
         "url": "https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw"
       },
@@ -163,30 +195,6 @@
       "duration_ms": 280500,
       "name": "Que Zumbe Mi Voz",
       "url": "https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6"
-    },
-    {
-      "added_at": "2024-11-29 05:42:07",
-      "album": {
-        "name": "Juntas y Revueltas",
-        "url": "https://open.spotify.com/album/0tho8q03ovJdFZZ1n72JQO"
-      },
-      "artists": [
-        {
-          "name": "Lianna",
-          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
-        },
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Juntas y Revueltas",
-      "url": "https://open.spotify.com/track/6fUunh7NpHXcOcpUmmPlOO"
     },
     {
       "added_at": "2024-11-29 05:42:07",
@@ -335,22 +343,6 @@
       "duration_ms": 204146,
       "name": "M\u00e1s que reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
-    {
-      "added_at": "2024-11-29 05:42:07",
-      "album": {
-        "name": "LUZ",
-        "url": "https://open.spotify.com/album/1SB2kEI4gLhi16NPgX3PhK"
-      },
-      "artists": [
-        {
-          "name": "Flako Gallego",
-          "url": "https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ"
-        }
-      ],
-      "duration_ms": 140683,
-      "name": "\u2060Twitter",
-      "url": "https://open.spotify.com/track/4CiMqATzgykKJKZqvRbXrY"
     },
     {
       "added_at": "2024-11-29 05:42:07",

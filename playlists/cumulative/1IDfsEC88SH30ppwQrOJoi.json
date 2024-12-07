@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "Dance To The Music",
+        "url": "https://open.spotify.com/album/3bXK4kL42vtz7rWNsUlp3V"
+      },
+      "artists": [
+        {
+          "name": "Revival House Project",
+          "url": "https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk"
+        },
+        {
+          "name": "Nate James",
+          "url": "https://open.spotify.com/artist/5jFfjaWSqgM14E9Ot6qZwG"
+        },
+        {
+          "name": "GeO Gospel Choir",
+          "url": "https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239603,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4IwhI0NTE99pfT1w0BSieo"
+    },
+    {
+      "album": {
         "name": "All The Girls",
         "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
       },

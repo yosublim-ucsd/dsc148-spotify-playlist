@@ -1,13 +1,73 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44237,
+  "num_followers": 44239,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZwbdlV36fgWD2y4bnhJz1NibWZtPe",
+  "snapshot_id": "AAAZxd+wDLbx/T7XE7ea82NYCrwx9cTM",
   "tracks": [
+    {
+      "added_at": "2024-12-06 16:33:32",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ"
+    },
+    {
+      "added_at": "2024-12-06 16:32:56",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "T A N E",
+          "url": "https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
+    },
+    {
+      "added_at": "2024-12-06 16:32:45",
+      "album": {
+        "name": "Let Go Of Control (feat. Akacia)",
+        "url": "https://open.spotify.com/album/0DZRRSm5BDh3e2xmX1DXXH"
+      },
+      "artists": [
+        {
+          "name": "WHOiSEE",
+          "url": "https://open.spotify.com/artist/7pA2OyYV0LxwdOvzJJe7CH"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "Let Go Of Control (feat. Akacia)",
+      "url": "https://open.spotify.com/track/3uIoz3lra0sZooWzWJupWL"
+    },
     {
       "added_at": "2024-11-22 15:12:29",
       "album": {

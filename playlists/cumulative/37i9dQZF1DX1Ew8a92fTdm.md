@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-303 songs - 7 hr 49 min
+305 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Captain Adventure](https://open.spotify.com/track/7MpoAKqBEqzUYlCUKseSZq) | [Candy Pirates](https://open.spotify.com/artist/5t0D8K9ZJUzi0tNnuwZTjn) | [Captain Adventure](https://open.spotify.com/album/73UN2PPCs3a0JbPFbN1XTO) | 1:34 | 2022-10-07 |  |
 | [Charlies Lullaby](https://open.spotify.com/track/1z1Rc9QEs8BZoE889WdaIv) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Charlies Lullaby](https://open.spotify.com/album/7s41COd3IkV0akH9fGqXkL) | 1:47 | 2023-06-02 |  |
 | [Chasing Kites](https://open.spotify.com/track/1X8ucKC1ovxSm7NNbcalct) | [James Wilson](https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem) | [Chasing Kites](https://open.spotify.com/album/50gL0q0kQ6OXxcvvDCKh9t) | 1:19 | 2024-08-30 |  |
+| [Cherish and Love](https://open.spotify.com/track/1lZ6WTatHRc78EUDkgPY5c) | [Joy Garden](https://open.spotify.com/artist/5QqUHhXF2a6Axz340GBIbR) | [Cherish and Love](https://open.spotify.com/album/7lf5vd2khkgKSJgKlgB9aU) | 2:02 | 2024-12-06 |  |
 | [Cielito Lindo](https://open.spotify.com/track/633k2PmrV5MMNXAKcOmPpq) | [Hakima Feré](https://open.spotify.com/artist/265CoPrCR8buOOIW2YLWRf) | [Cielito Lindo](https://open.spotify.com/album/5F7kxYBfQJqQAjmDLMVwmn) | 1:29 | 2022-02-10 | 2024-04-04 |
 | [Close Together](https://open.spotify.com/track/4bXwpLhOCnHZScpOPmOI7X) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Close Together](https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY) | 1:14 | 2022-02-10 |  |
 | [Cloud Castles](https://open.spotify.com/track/6Fq1ceTEqN9eMDq7QNPMld) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [Cloud Castles](https://open.spotify.com/album/4sprVQ6qKOBMFMjljbb1Or) | 2:08 | 2022-02-10 | 2024-04-04 |
@@ -210,6 +211,7 @@
 | [Rays Of Gold](https://open.spotify.com/track/5D3nKIruSosb7av4hmPRXG) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Rays Of Gold](https://open.spotify.com/album/06UGINjc5mq0owiuXzGxjX) | 1:36 | 2024-07-12 |  |
 | [Rest Your Head on My Shoulder](https://open.spotify.com/track/6dj1sdJpygoCS6ELlLF6QV) | [Teddy Yawns](https://open.spotify.com/artist/6wWETmvBDGKmiNBypzSLdL) | [Rest Your Head on My Shoulder](https://open.spotify.com/album/4scvDHqPNK8Jk8VL4YloHA) | 1:25 | 2024-07-19 |  |
 | [Rock a Bye Baby](https://open.spotify.com/track/4powvsAQFZwXa6s0mTUPlY) | [Elliot Adasik](https://open.spotify.com/artist/0ygQ1CuZpZqv6dsdnIl3wL) | [Rock a Bye Baby](https://open.spotify.com/album/5TimNfsYRU63DIITnRaTce) | 1:31 | 2022-02-10 | 2023-08-25 |
+| [Rock\-A\-Bye Baby](https://open.spotify.com/track/4BRnj7nwYAkD2jx3lupmNK) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [Rock\-A\-Bye Baby](https://open.spotify.com/album/3Kr9mjpBixPEPz7mJzwNBt) | 1:51 | 2024-12-06 |  |
 | [Rocked To Sleep](https://open.spotify.com/track/6okwjrB1kbzg5QZTlqZJBt) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Rocked To Sleep](https://open.spotify.com/album/70eO9VJajBOY9szfxrRpNw) | 2:12 | 2024-04-03 |  |
 | [Row Row Row Your Boat](https://open.spotify.com/track/6NESHnIoEs22LDboDnWuZb) | [Ella's Musicbox](https://open.spotify.com/artist/4KEu9b2csKG5x3MtzavPR8) | [Open The Box](https://open.spotify.com/album/2jloYI1ZDhvvgzHE9lXy1T) | 1:14 | 2022-02-10 | 2022-09-23 |
 | [Sandman Little Sandman](https://open.spotify.com/track/6F18znjIquQxFEiXl8U7Sm) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Sandman Little Sandman](https://open.spotify.com/album/7JOK7rzv6m2tjwGXAgXjTo) | 1:27 | 2024-06-20 |  |
@@ -255,7 +257,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi) | [Box the Music](https://open.spotify.com/artist/46P9q5Ebet7HTKGpqyysV8) | [Sweet Dreams](https://open.spotify.com/album/0lD7lhZoXu7OPcH6hozqIw) | 1:45 | 2023-04-20 |  |
 | [Sweet Dreams Now, My Darling](https://open.spotify.com/track/4QiAPJf6uYHwNjkQpFfCfJ) | [Orla Rowe](https://open.spotify.com/artist/7cdmcpXO3r2VJ2uZTzFFBC) | [Sweet Dreams My Darling](https://open.spotify.com/album/5bGojAvVq5shVrL0FokbC2) | 1:33 | 2023-01-20 |  |
 | [Sweet Dreams, Little One](https://open.spotify.com/track/0u18AOGSFgDWE05VrVj2rC) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Sweet Dreams, Little One](https://open.spotify.com/album/2cRiQi3CYqxk3Gs5IA8y2j) | 1:36 | 2024-07-19 |  |
-| [Teddy Toddler](https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [Teddy Toddler](https://open.spotify.com/album/3KSh6T3Lk7LWhuaecGZAUp) | 1:18 | 2022-02-10 |  |
+| [Teddy Toddler](https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds) | [Eli Demir](https://open.spotify.com/artist/51Nt493ykLjC5PvLbGmP9N) | [Teddy Toddler](https://open.spotify.com/album/3KSh6T3Lk7LWhuaecGZAUp) | 1:18 | 2022-02-10 | 2024-12-07 |
 | [Teddys Dream](https://open.spotify.com/track/4yAXm981wdQVYAynH6zMZD) | [Jana Smith](https://open.spotify.com/artist/5FzBu7hUNL3F2cA92hqfBp) | [Teddys Dream](https://open.spotify.com/album/3DY60qm4d2xbrS8c3wrZzA) | 1:19 | 2024-05-31 |  |
 | [Teeny Tiny Fortress](https://open.spotify.com/track/1sYRJMBcaS5TIfelrS4MXE) | [Laila Walton](https://open.spotify.com/artist/6JuIEojmY6muknH6pXp4ZR) | [Teeny Tiny Fortress](https://open.spotify.com/album/3IMKliBe95wlMROqgquHC3) | 1:27 | 2022-10-07 | 2024-07-19 |
 | [Ten Green Bottles](https://open.spotify.com/track/253pJVE3sYCzpEWZqteYZh) | [Mamie Botello](https://open.spotify.com/artist/0DIxPs7iNFy6DEvl86W9Yo) | [Sailor Went To Sea](https://open.spotify.com/album/4pHl7jAk6iXfpnkCRIScw6) | 0:46 | 2022-02-10 | 2022-04-23 |

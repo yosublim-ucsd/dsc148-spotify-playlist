@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Felipe Amorim, NATTAN, Pedro Sampaio\n",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: DENNIS, LUDMILLA, Felipe Amorim\n",
   "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183461,
       "name": "2 Descaradinhos - Ao Vivo",
       "url": "https://open.spotify.com/track/4fIPjhzrwNrPJ1IYTSXNzE"
@@ -3435,6 +3435,32 @@
     },
     {
       "album": {
+        "name": "Jogadora Cara",
+        "url": "https://open.spotify.com/album/14RHyHpG3BjFDbJAGOVNOv"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128388,
+      "name": "Jogadora Cara",
+      "url": "https://open.spotify.com/track/6ZYqH6a64AgVtB8THlUyHB"
+    },
+    {
+      "album": {
         "name": "JOIA RARA",
         "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
       },
@@ -3802,6 +3828,28 @@
       "duration_ms": 667622,
       "name": "Lud Session #4: Morrer de Viver / Saudade Daquilo / T\u00f4 Querendo Mais / Sem Filtro / Embrasa",
       "url": "https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL"
+    },
+    {
+      "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152078,
+      "name": "Lugar Perfeito",
+      "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
     },
     {
       "album": {
@@ -4304,7 +4352,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 245538,
       "name": "Medleys Dos Medleys - O Barraco Dela L\u00e1 / Eu Vou Pro Baile Eu Vou Pro Bega / Ela N\u00e3o Presta",
       "url": "https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno"
@@ -4474,6 +4522,28 @@
       "duration_ms": 112518,
       "name": "Mina Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
+    },
+    {
+      "album": {
+        "name": "MF em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170496,
+      "name": "Monogamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/20ar34rCdVHdtvmbuHVxgu"
     },
     {
       "album": {
@@ -5910,7 +5980,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 170537,
       "name": "Ponto Fraco",
       "url": "https://open.spotify.com/track/1feSbfSjYHYMTts889lzXh"

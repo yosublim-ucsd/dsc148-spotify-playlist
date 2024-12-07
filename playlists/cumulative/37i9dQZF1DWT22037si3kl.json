@@ -305,6 +305,32 @@
     },
     {
       "album": {
+        "name": "A Vida De Um G\u00e2ngster",
+        "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
+      },
+      "artists": [
+        {
+          "name": "DEGE",
+          "url": "https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Melt77",
+          "url": "https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230015,
+      "name": "Afli\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7"
+    },
+    {
+      "album": {
         "name": "Afronta III",
         "url": "https://open.spotify.com/album/6kY1etv0G7GWQkr1F09uZi"
       },
@@ -662,7 +688,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"

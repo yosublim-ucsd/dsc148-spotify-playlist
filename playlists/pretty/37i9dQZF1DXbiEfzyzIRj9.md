@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Big Animal Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,917 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,918 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 26 | [Wave Dub \- DJ Honesty Remix Version 3 Short Edit](https://open.spotify.com/track/1VH4yZmkTmIL36UQ1vdJf4) | [Satoshi Tomiie](https://open.spotify.com/artist/3TrAOZvW0MzZeKZRFnU7Ul), [Dj Honesty](https://open.spotify.com/artist/4pKB4sDsrn5NZ5zcPGpMmC) | [Wave Dub \(DJ Honesty Remix Version 3 Short Edit\)](https://open.spotify.com/album/093LkNNL8LEN4JUpZTwf4Q) | 3:34 |
 | 27 | [you know](https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [you know](https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0) | 4:11 |
 | 28 | [Warp Zone](https://open.spotify.com/track/5jMcMH8IRnbSlsE45kTBtM) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ally McMahon](https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8) | [Touch EP](https://open.spotify.com/album/3lqkDHyp7h9vMnO4JY0m3s) | 5:04 |
-| 29 | [Beautiful Dreamer](https://open.spotify.com/track/1nYMpVz0F648oa478EkeTa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [YOCO](https://open.spotify.com/artist/3PX8WXlyHfoNCcL6hG1aXY) | [Beautiful Dreamer](https://open.spotify.com/album/6JCKjA1XMBdAjpfAJqMEkO) | 3:55 |
+| 29 | [Beautiful Dreamer](https://open.spotify.com/track/1nYMpVz0F648oa478EkeTa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [YOCO](https://open.spotify.com/artist/7h60H9IO1yhF2D1v9tFxzV) | [Beautiful Dreamer](https://open.spotify.com/album/6JCKjA1XMBdAjpfAJqMEkO) | 3:55 |
 | 30 | [chicci \(feat\. warai\_motoko\)](https://open.spotify.com/track/2ceZhSOFuxYUzYmkw8oEC6) | [Rave Racers](https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug), [warai\_motoko](https://open.spotify.com/artist/1yGTG9yRlG0luuy9NArvbK) | [ENGINE BLOW2](https://open.spotify.com/album/65G2sHWIck92GOSKxAukpR) | 5:33 |
 | 31 | [All Dancing Under The Same Sky \- Edit](https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [All Dancing Under The Same Sky](https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR) | 3:04 |
 | 32 | [New Life](https://open.spotify.com/track/4LIeLyR3HrHpGtmpFh1pBj) | [simo not simon](https://open.spotify.com/artist/2oeb6httHhu1IyWkArK3sw), [Bauhouse](https://open.spotify.com/artist/3W0ymz5go3eaOIclFYWyzz), [Club Souda](https://open.spotify.com/artist/7229rrohfPLPdeON8RgaOB) | [New Life](https://open.spotify.com/album/7sYeedr8piBWWGS4IR8Dho) | 4:43 |

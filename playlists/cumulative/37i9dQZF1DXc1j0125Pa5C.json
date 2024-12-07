@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 275266,
       "name": "Chegamos Ao Fim / Al\u00e9m do Meu Querer / Fim da Tristeza - Ao Vivo",
       "url": "https://open.spotify.com/track/0AGCb8UOErEkIWxmqx07E1"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 297974,
       "name": "Dependente / Pirata e Tesouro / Fala - Ao Vivo",
       "url": "https://open.spotify.com/track/2Jas2bguK5dKHQBfJ88xUt"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 298602,
       "name": "Em Busca da Minha Sorte / Vai Valer - Ao Vivo",
       "url": "https://open.spotify.com/track/4uGdM1nTvm0dMyWgNMmqij"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 320892,
       "name": "Fala / Preliminares / Na Cama - Ao Vivo",
       "url": "https://open.spotify.com/track/3T3VjKjSTvvVltqasjHFG9"
@@ -1739,6 +1739,32 @@
     },
     {
       "album": {
+        "name": "Encontrin 3 - Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5n56XBIA3ugmCxEkxDZkc9"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        },
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281162,
+      "name": "Marra de Dur\u00e3o / N\u00e3o Quero Despedida / Mande Um Sinal - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UNvh6Y8RQMv6vCpYPcfxq"
+    },
+    {
+      "album": {
         "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR"
       },
@@ -1758,6 +1784,28 @@
       "duration_ms": 401025,
       "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu"
+    },
+    {
+      "album": {
+        "name": "Me Redimir / Insens\u00edvel / Flashback",
+        "url": "https://open.spotify.com/album/5oBxkJivFrIUyKdfA7nvHf"
+      },
+      "artists": [
+        {
+          "name": "Davizinho",
+          "url": "https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R"
+        },
+        {
+          "name": "Chininha",
+          "url": "https://open.spotify.com/artist/3lI032ULhqFakqCue9srcR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299648,
+      "name": "Me Redimir / Insens\u00edvel / Flashback",
+      "url": "https://open.spotify.com/track/69nsPVKxqsyNDlzsusStaF"
     },
     {
       "album": {
@@ -1930,6 +1978,24 @@
       "duration_ms": 549529,
       "name": "Momentos / N\u00e3o Foi a Toa / Antes de Dizer Adeus / Mundo de Oz / Tempo de Aprender - Ao Vivo",
       "url": "https://open.spotify.com/track/3o69MeC6BXFpXL3sWyPqzI"
+    },
+    {
+      "album": {
+        "name": "Sub\u00farbio no Engenh\u00e3o, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6o0sGGKfzenEWvr4TbMQec"
+      },
+      "artists": [
+        {
+          "name": "Tiee",
+          "url": "https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197145,
+      "name": "Morango Do Nordeste / Me Leva Junto Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7I14J59DcyEysnTLmvaUzM"
     },
     {
       "album": {
@@ -2116,6 +2182,42 @@
       "duration_ms": 270265,
       "name": "N\u00e3o T\u00e3o Menos Semelhante / Para\u00edso - Ao Vivo",
       "url": "https://open.spotify.com/track/64xgFv1Zp4gH0NtCAC3fbq"
+    },
+    {
+      "album": {
+        "name": "Pagode do BS 2, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KyGDBU9dTXJz5VPfasIkt"
+      },
+      "artists": [
+        {
+          "name": "Binho Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561644,
+      "name": "Olha o Que o Amor Me Faz / Eu Te Uso e Sumo / Melhor Eu Ir / Mega Star / Sinais / Um S\u00f3 Sentimento / O Amor \u00c9 Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xvnPlz8dLjsTayOCcj7U9"
+    },
+    {
+      "album": {
+        "name": "Pagode do Diferent\u00e3o 2 - Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12KWOwopp0UJd69XGNB6U9"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296539,
+      "name": "Onze e Pouquinho/ Pouco A Pouco / O Choro \u00c9 Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/24clrHldsEYvZcBfAYYJUP"
     },
     {
       "album": {
@@ -2730,7 +2832,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 236682,
       "name": "Que Dure para Sempre / Sempre Ser\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ewto95q2LCw0JTkTTWPfj"

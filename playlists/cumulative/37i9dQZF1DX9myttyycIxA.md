@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Horsegirl
+> Underground indie rock gems\. Cover: mary in the junkyard
 
-1,417 songs - 3 day 9 hr 15 min
+1,424 songs - 3 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Aftershook](https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Aftershook](https://open.spotify.com/album/3RLvrBRUVl4tDh3EqGR3Ro) | 3:25 | 2022-09-02 | 2022-10-26 |
 | [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2022-10-21 | 2023-05-20 |
 | [Air Guitar](https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42) | 3:03 | 2022-11-17 | 2023-03-25 |
+| [Alarm](https://open.spotify.com/track/387Yye5NR4C6T1Lyh4ELPw) | [Million Dollar Weekend](https://open.spotify.com/artist/4BiR9m24DaTiyFkYZIRmqn) | [Alarm](https://open.spotify.com/album/1mxfgBx20OopIeDFLq6xdG) | 3:11 | 2024-12-06 |  |
 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 | 2021-11-19 | 2022-07-13 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-04-29 | 2022-05-18 |
 | [Alive on the Outside](https://open.spotify.com/track/01MxXqlzKMpHy734AGKGxj) | [Lean](https://open.spotify.com/artist/167WV6cgZZKO6Mog8MomA0) | [Alive on the Outside](https://open.spotify.com/album/2li1Q7N8NnJ4X9Ju4bKYbq) | 3:36 | 2022-05-13 | 2022-07-09 |
@@ -123,6 +124,7 @@
 | [Be Your Lover](https://open.spotify.com/track/0qUD09SxHXsAzxHgbLhkD7) | [Yumi And The Weather](https://open.spotify.com/artist/23HlNyyzzIg06ROx6tBsIS) | [It's All In My Head](https://open.spotify.com/album/0esfLX0K6SHuJwYWP7AhDS) | 3:05 | 2022-09-23 | 2022-12-15 |
 | [Beach Coma \- Spotify Singles](https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Beach Coma \- Spotify Singles](https://open.spotify.com/album/18BvE652GjG0fEMgDJ4LCU) | 3:40 | 2021-11-12 | 2022-04-29 |
 | [beach house](https://open.spotify.com/track/2328jc95SrmfZPaf95M7i1) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine \(deluxe edition\)](https://open.spotify.com/album/0iT0luHBNd77yShh5cpLaD) | 3:17 | 2024-11-08 |  |
+| [bear walk](https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california / bear walk](https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy) | 3:33 | 2024-12-06 |  |
 | [Bearings](https://open.spotify.com/track/4w1haGG3nk0tCBrqadOH6m) | [blue diner.](https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E) | [Bearings](https://open.spotify.com/album/2dmmyuh3kpwrPzTjbdHqhy) | 4:06 | 2024-04-05 | 2024-08-10 |
 | [Beauty School](https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beauty School](https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw) | 4:02 | 2024-08-23 | 2024-10-12 |
 | [beautysleep](https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [swanlike \(loosies 2020\-2023\)](https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ) | 2:09 | 2024-06-21 |  |
@@ -662,6 +664,7 @@
 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 | 2024-07-26 |  |
 | [I've Wasted So Much Time](https://open.spotify.com/track/2FNL28i0Q3RkwSYKK1aC42) | [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Deep Cuts \(2011\-2014\)](https://open.spotify.com/album/7BYdha593w1BAdWGBhmtVA) | 2:44 | 2022-05-13 | 2022-10-01 |
 | [I\-90 Bridge](https://open.spotify.com/track/3hzwcc7r60iu5LxwnBgB3F) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [I\-90 Bridge](https://open.spotify.com/album/32eLWJP5fC26HGO3awNioD) | 4:53 | 2024-01-26 | 2024-03-16 |
+| [Ice in Mouth](https://open.spotify.com/track/70amEi41PZi2d5gfhipKJ8) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [Ice in Mouth](https://open.spotify.com/album/5HdHEystIYx07OKX4ciWqn) | 4:19 | 2024-12-06 |  |
 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 | 2024-04-05 | 2024-11-09 |
 | [Idaho](https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Idaho](https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd) | 4:05 | 2021-03-05 | 2022-06-19 |
 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-09-10 | 2022-03-22 |
@@ -790,6 +793,7 @@
 | [Love Song](https://open.spotify.com/track/0SOUQwfAlpvurIBdPurgrd) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Love Song](https://open.spotify.com/album/0qiKuGeaGlsWoPtrFcwiDc) | 3:11 | 2023-09-15 | 2024-02-17 |
 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 | 2023-03-06 | 2023-06-16 |
 | [Love Song for the Haters](https://open.spotify.com/track/5PNmLOkhsm69IfOdHknhmR) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Love Song for the Haters](https://open.spotify.com/album/7bU1jffvaKgQ7QKtzoph3Q) | 4:38 | 2021-03-05 | 2022-04-29 |
+| [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2024-12-06 |  |
 | [Love's Changing](https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Love's Changing](https://open.spotify.com/album/3YLGKAVQGU3HoHTTGuAU7a) | 4:30 | 2024-08-30 |  |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-04-29 | 2022-05-17 |
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2024-10-25 |  |
@@ -1034,6 +1038,7 @@
 | [SALTWATER SKY](https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [SALTWATER SKY](https://open.spotify.com/album/3FkuX79QDbX1Zkt2kMsIO7) | 2:16 | 2022-09-16 | 2023-03-04 |
 | [Same Thing Every Day](https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Same Thing Every Day](https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl) | 3:14 | 2023-05-19 | 2023-06-16 |
 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 | 2022-01-28 | 2022-04-27 |
+| [Sandcastle Molds](https://open.spotify.com/track/0Jr21WWAdomoLGmDbds9v2) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Sandcastle Molds](https://open.spotify.com/album/3eZcliPovnaww1ahgJ1gnN) | 3:18 | 2024-12-06 |  |
 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 | 2022-09-16 | 2023-01-21 |
 | [Sarah](https://open.spotify.com/track/0OTntrfDQ2psVFMG2KLFmb) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Sarah](https://open.spotify.com/album/25y9cf7JzZekEAolqtMbhi) | 2:42 | 2023-06-30 | 2023-08-12 |
 | [Satan](https://open.spotify.com/track/42G1tGNkv09Oe4i30Xqxbx) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5pryPQr48Emi38L8bGqsN6) | 3:16 | 2022-03-04 | 2022-04-29 |
@@ -1344,6 +1349,7 @@
 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 | 2024-08-19 |  |
 | [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 | 2022-04-29 | 2022-05-20 |
 | [Water](https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Water / Connecticut](https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD) | 3:02 | 2024-02-09 | 2024-03-16 |
+| [Water Water](https://open.spotify.com/track/4zWJW5Lq7xlgXt5nWELvrf) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX) | [Water Water / The Drain](https://open.spotify.com/album/0HcfuylTwocANaRW2I9Fre) | 2:28 | 2024-12-06 |  |
 | [Way Out](https://open.spotify.com/track/08Gw7Yl7peYu7zbXrMKohF) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [Way Out](https://open.spotify.com/album/1vNIYW0sdDd29V8AZcUtNH) | 3:38 | 2023-06-15 | 2023-12-16 |
 | [Wayward Snout](https://open.spotify.com/track/7k0CdO1tkRl6cOOY1jTNjv) | [Golden Drugs](https://open.spotify.com/artist/3SksbhrCqqxKiF18wkdvUg) | [In the Midnight Sun or Stubbornly Persistent Illusion](https://open.spotify.com/album/1H39dbMuHXly4Y8LYE8Z30) | 10:20 | 2022-04-29 | 2022-05-19 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-11 | 2023-04-01 |
@@ -1355,6 +1361,7 @@
 | [What It's Like](https://open.spotify.com/track/0XWVa5zjDjpvkZZ2sgA3CT) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [What It's Like](https://open.spotify.com/album/5YaKeYVnTIMh7keLN0i729) | 3:03 | 2022-04-29 | 2022-07-09 |
 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 | 2022-04-29 | 2022-09-03 |
 | [What You Do To Me](https://open.spotify.com/track/755fpw1IGAFIZ0uqjMfTvc) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Some Days](https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2) | 4:14 | 2021-04-30 | 2022-03-14 |
+| [What You Want Me To Say](https://open.spotify.com/track/3iK2mw9vvvInORkd5Vq9jh) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [What You Want Me To Say](https://open.spotify.com/album/4T1AVvZ04npfNvPTSaFQN5) | 4:06 | 2024-12-06 |  |
 | [What's Enough pt.2](https://open.spotify.com/track/38lANCGNjZV7zBfkjrqrO3) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Cirque Du Freak](https://open.spotify.com/album/101uHmfIKOnIIY4SAsRwKt) | 3:02 | 2021-08-27 | 2022-03-27 |
 | [What's Up](https://open.spotify.com/track/2gd56EvH2vsrQdJlHwDmbT) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Hurt Is Boring](https://open.spotify.com/album/3TaUQwagOJ34h8ky2avuaD) | 2:21 | 2021-05-14 | 2022-04-24 |
 | [Whatever](https://open.spotify.com/track/0rDhtLSvHyMZaAQp1uJ9KN) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Whatever](https://open.spotify.com/album/4J6mL4NwZAu14IeJjiRG2E) | 4:13 | 2024-03-15 | 2024-07-19 |

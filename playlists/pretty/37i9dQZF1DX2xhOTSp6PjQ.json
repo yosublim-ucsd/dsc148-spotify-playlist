@@ -1,13 +1,29 @@
 {
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=E4K0jnN2SaO_uYljBpxttQ\">Khuzani</a>",
-  "num_followers": 156613,
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=2i2vs-pVTA6Ml5TKzPimnQ\">Inkos'yamagcokama</a>",
+  "num_followers": 156974,
   "original_name": "Bhinca Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zz+tYAAAAABG9+H+VNrP4cn9jjaO53eG",
+  "snapshot_id": "Z1LLVgAAAABqA8c28T7cIA4bnNjibqnQ",
   "tracks": [
+    {
+      "added_at": "2024-12-06 10:00:54",
+      "album": {
+        "name": "SILENT TREATMENT",
+        "url": "https://open.spotify.com/album/74adsdahGKpJXVlKB6Wxlh"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "duration_ms": 247797,
+      "name": "SILENT TREATMENT",
+      "url": "https://open.spotify.com/track/4vmG60pBtnvREzkx9vcN0j"
+    },
     {
       "added_at": "2024-11-14 23:47:16",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 271305,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1AXW0WnNUceegJHGl3HWlJ"
-    },
-    {
-      "added_at": "2024-11-14 23:47:16",
-      "album": {
-        "name": "Angidlali Nezingane",
-        "url": "https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s"
-      },
-      "artists": [
-        {
-          "name": "Khuzani",
-          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
-        }
-      ],
-      "duration_ms": 240316,
-      "name": "Imali Yento Yami",
-      "url": "https://open.spotify.com/track/1RdESnfu29G7qrT3GTNK3K"
     },
     {
       "added_at": "2024-11-14 23:47:16",
@@ -137,20 +137,24 @@
       "url": "https://open.spotify.com/track/79r4mAwHBAB1x5QnImlUM6"
     },
     {
-      "added_at": "2024-11-21 22:00:00",
+      "added_at": "2024-12-06 10:00:54",
       "album": {
-        "name": "Ngisuka Kude",
-        "url": "https://open.spotify.com/album/4ntoI7S1Dg7TskEavofeLY"
+        "name": "Uzosala (feat. Fistola IneCut)",
+        "url": "https://open.spotify.com/album/44Xc65ZnHILXvu66fdMXJr"
       },
       "artists": [
         {
-          "name": "Yanda TrapSkandi",
-          "url": "https://open.spotify.com/artist/3ggaNKZl3a5iXXfdfsTp6Y"
+          "name": "Nue_Sam",
+          "url": "https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY"
+        },
+        {
+          "name": "Fistola Inecut",
+          "url": "https://open.spotify.com/artist/7pEx1QNIpPgHEEuSBhxLDI"
         }
       ],
-      "duration_ms": 209867,
-      "name": "Ngisuka Kude",
-      "url": "https://open.spotify.com/track/3AFt2XwmzzTKcOq4r4aTCS"
+      "duration_ms": 232800,
+      "name": "Uzosala (feat. Fistola IneCut)",
+      "url": "https://open.spotify.com/track/6Puf51bfPEXvf8LoIZwUDN"
     },
     {
       "added_at": "2024-11-14 23:47:16",
@@ -187,6 +191,22 @@
       "duration_ms": 279823,
       "name": "Hit after Hit",
       "url": "https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd"
+    },
+    {
+      "added_at": "2024-11-14 23:47:16",
+      "album": {
+        "name": "Angidlali Nezingane",
+        "url": "https://open.spotify.com/album/7FKPvAqAJcGxuDvyOfcV0s"
+      },
+      "artists": [
+        {
+          "name": "Khuzani",
+          "url": "https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs"
+        }
+      ],
+      "duration_ms": 240316,
+      "name": "Imali Yento Yami",
+      "url": "https://open.spotify.com/track/1RdESnfu29G7qrT3GTNK3K"
     },
     {
       "added_at": "2024-11-14 23:47:16",
@@ -443,22 +463,6 @@
     {
       "added_at": "2024-11-14 23:47:16",
       "album": {
-        "name": "iPolotiki",
-        "url": "https://open.spotify.com/album/7fVwjMqcNty3YMad1n9BIg"
-      },
-      "artists": [
-        {
-          "name": "Phuzekhemisi",
-          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
-        }
-      ],
-      "duration_ms": 274892,
-      "name": "Phumani Ematarven",
-      "url": "https://open.spotify.com/track/78eZeVX1CsiqZ3aD10HjhT"
-    },
-    {
-      "added_at": "2024-11-14 23:47:16",
-      "album": {
         "name": "Wawungekho EP",
         "url": "https://open.spotify.com/album/0Zjplas4HjDHnrkCrvuHDe"
       },
@@ -503,30 +507,6 @@
     {
       "added_at": "2024-11-14 23:47:16",
       "album": {
-        "name": "2 Years To Come",
-        "url": "https://open.spotify.com/album/3HILaSxpcNnLwicAy2i5bR"
-      },
-      "artists": [
-        {
-          "name": "Skhenqe",
-          "url": "https://open.spotify.com/artist/65Nafm0E6oELvsjXu7hMge"
-        },
-        {
-          "name": "Mzukulu",
-          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
-        },
-        {
-          "name": "Sne Ntuli",
-          "url": "https://open.spotify.com/artist/7a3R5VMZYPhutTAMipMBAc"
-        }
-      ],
-      "duration_ms": 270236,
-      "name": "Amahlalakhona",
-      "url": "https://open.spotify.com/track/3bCUpPcOOX0v29J2vc1t1L"
-    },
-    {
-      "added_at": "2024-11-14 23:47:16",
-      "album": {
         "name": "Ngingohlakaniphile",
         "url": "https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 208927,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV"
+    },
+    {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "Ngisuka Kude",
+        "url": "https://open.spotify.com/album/4ntoI7S1Dg7TskEavofeLY"
+      },
+      "artists": [
+        {
+          "name": "Yanda TrapSkandi",
+          "url": "https://open.spotify.com/artist/3ggaNKZl3a5iXXfdfsTp6Y"
+        }
+      ],
+      "duration_ms": 209867,
+      "name": "Ngisuka Kude",
+      "url": "https://open.spotify.com/track/3AFt2XwmzzTKcOq4r4aTCS"
     },
     {
       "added_at": "2024-11-14 23:47:16",
@@ -631,6 +627,22 @@
       "duration_ms": 266519,
       "name": "iKhaya Lakithi",
       "url": "https://open.spotify.com/track/3LN2byEuqn8MnltdLeIQcA"
+    },
+    {
+      "added_at": "2024-11-14 23:47:16",
+      "album": {
+        "name": "iPolotiki",
+        "url": "https://open.spotify.com/album/7fVwjMqcNty3YMad1n9BIg"
+      },
+      "artists": [
+        {
+          "name": "Phuzekhemisi",
+          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
+        }
+      ],
+      "duration_ms": 274892,
+      "name": "Phumani Ematarven",
+      "url": "https://open.spotify.com/track/78eZeVX1CsiqZ3aD10HjhT"
     },
     {
       "added_at": "2024-11-14 23:47:16",
@@ -955,30 +967,6 @@
       "duration_ms": 296052,
       "name": "Angsakhoni",
       "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
-    },
-    {
-      "added_at": "2024-11-14 23:47:16",
-      "album": {
-        "name": "Amagama",
-        "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
-      },
-      "artists": [
-        {
-          "name": "Intabayasedubai",
-          "url": "https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK"
-        },
-        {
-          "name": "Malome Vector",
-          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
-        },
-        {
-          "name": "Wave Rhyder",
-          "url": "https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Nguye",
-      "url": "https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH"
     },
     {
       "added_at": "2024-11-14 23:47:16",

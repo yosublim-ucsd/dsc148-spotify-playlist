@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhiBNyQaYMS.md) - [plain]
 
 > Top of this years RADAR class\. Cover: BINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,092 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,366 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

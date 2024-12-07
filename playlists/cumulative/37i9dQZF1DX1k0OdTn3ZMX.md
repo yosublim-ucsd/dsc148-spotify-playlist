@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Bloodywood.
+> nü\-metal revival is happening here and now with Tetrarch.
 
-230 songs - 13 hr 5 min
+233 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 | 2023-09-13 | 2023-09-23 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-20 |  |
 | [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 | 2024-01-19 | 2024-08-10 |
-| [Kraken Down](https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be) | [FiveByFive](https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW) | [Phuck Around Phind Out](https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1) | 3:23 | 2024-04-19 |  |
+| [Kraken Down](https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be) | [FiveByFive](https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW) | [Phuck Around Phind Out](https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1) | 3:23 | 2024-04-19 | 2024-12-07 |
 | [Last dAntz](https://open.spotify.com/track/2kXTWjuZgttmobEIVhuyto) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Last dAntz](https://open.spotify.com/album/0iZ9tCFBxudVzuY5HUwzAv) | 3:52 | 2024-04-12 | 2024-05-25 |
 | [Learning How To Be Human](https://open.spotify.com/track/4ZOREvpqSJGmD61YAMNoJU) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/5CUMwKLT0Ic6pRNCxtlWHS) | 3:14 | 2024-04-05 | 2024-07-27 |
 | [Lights Out](https://open.spotify.com/track/5eJQLFJsYTIJ6g1mcEPQql) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Riot Music](https://open.spotify.com/album/22nPVkqtpPnQMXb9R2QUJ5) | 3:21 | 2023-09-13 | 2024-03-09 |
@@ -149,6 +149,7 @@
 | [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 | 2024-01-26 | 2024-04-19 |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
 | [Paralyzed](https://open.spotify.com/track/1NSgXmZrP7qhCNl2fB57HB) | [Soulbound](https://open.spotify.com/artist/77iKiudWCr75l34XsQAVpl) | [obsYdian](https://open.spotify.com/album/77oFf0SWQ9HDxpPbLjJXXb) | 3:12 | 2024-07-26 | 2024-11-23 |
+| [Parasite](https://open.spotify.com/track/5ES2h7mbW1EmT65Sl1uShP) | [Shark Eyes](https://open.spotify.com/artist/1QDuWNS0ISWmg8TxRDqZwB) | [Parasite](https://open.spotify.com/album/2RJ1a6ahIkKfObmJztZ8TH) | 2:38 | 2024-12-06 |  |
 | [Permanence in Sleep](https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Permanence in Sleep](https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM) | 3:36 | 2024-08-30 | 2024-11-30 |
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-09-30 |
 | [plastic](https://open.spotify.com/track/4i2PsRhDtXbxelmxT5CIlU) | [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [plastic](https://open.spotify.com/album/3VdXEoYTcxD5wqzPqESOWU) | 3:58 | 2024-10-04 | 2024-11-23 |
@@ -163,7 +164,7 @@
 | [READY ROCK](https://open.spotify.com/track/6j2OrgBeuEa8NdVHXk78FS) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [READY ROCK](https://open.spotify.com/album/17a1MLeP2CGHvkPRuBQRLs) | 2:46 | 2024-02-16 | 2024-03-09 |
 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 | 2023-09-13 | 2024-10-05 |
 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 | 2024-06-28 |  |
-| [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-02-02 |  |
+| [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-02-02 | 2024-12-07 |
 | [Rockstar](https://open.spotify.com/track/7dq9owG0R2pznVhh2oLmXy) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Rockstar](https://open.spotify.com/album/2MNWFQngS2qlOBWU6T9AZp) | 2:55 | 2024-09-27 |  |
 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-02 | 2024-08-31 |
 | [Saviourself](https://open.spotify.com/track/2V7dPhw5Ui4SpQ80USGIFL) | [BUTTERFLY SCISSORS](https://open.spotify.com/artist/3M9AoSedl5prEHAvhWeQiD), [Kala](https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq) | [Saviourself](https://open.spotify.com/album/2mzZt1rYEWLCKPgo8tp1ck) | 2:50 | 2023-09-22 | 2023-09-30 |
@@ -184,12 +185,13 @@
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 |  |
 | [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 | 2023-10-07 |
 | [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 | 2023-11-18 |
+| [Step Back](https://open.spotify.com/track/3g6VoOQjAOwRsnSd4N7iC9) | [Stay Lost](https://open.spotify.com/artist/5OIMHiAXjUaBM9V8VpPdup) | [Step Back](https://open.spotify.com/album/746RawvDho6HKng0MymUJl) | 2:46 | 2024-12-06 |  |
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 | 2024-09-21 |
 | [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
 | [T.I.T.P.](https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [T.I.T.P.](https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r) | 2:55 | 2024-08-09 | 2024-08-24 |
 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 |  |
-| [Take](https://open.spotify.com/track/1xUhwqW7W6uEi1oGCCfYv7) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen \(Deluxe\)](https://open.spotify.com/album/3HVtNvI8sdXbQ8yltLVAYo) | 3:11 | 2024-09-06 |  |
+| [Take](https://open.spotify.com/track/1xUhwqW7W6uEi1oGCCfYv7) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen \(Deluxe\)](https://open.spotify.com/album/3HVtNvI8sdXbQ8yltLVAYo) | 3:11 | 2024-09-06 | 2024-12-07 |
 | [Takers](https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU) | [Discrepancies](https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19) | [Takers](https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j) | 3:16 | 2024-06-14 | 2024-06-22 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [Tell Us How It Ends](https://open.spotify.com/track/7lNQosc51yAoM8q36i6BiS) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Tell Us How It Ends](https://open.spotify.com/album/41rL2jGHIxIfloMkxOJMIz) | 2:31 | 2024-09-13 |  |
@@ -235,6 +237,7 @@
 | [Worship The Internet](https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Worship The Internet](https://open.spotify.com/album/2vt3z8PJEoKIWdwV1YtqSB) | 3:40 | 2023-09-22 | 2024-01-20 |
 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 | 2023-12-15 | 2024-04-13 |
 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-01 | 2024-09-21 |
+| [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 | 2024-12-06 |  |
 | [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 | 2024-01-27 |
 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 | 2024-02-16 | 2024-04-19 |
 | [твоя система буде зруйнована](https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [твоя система буде зруйнована](https://open.spotify.com/album/0CSpi5vbJgxPR1zeeOFGT9) | 3:10 | 2024-02-16 | 2024-03-23 |

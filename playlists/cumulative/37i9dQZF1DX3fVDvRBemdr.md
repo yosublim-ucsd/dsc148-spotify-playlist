@@ -4,7 +4,7 @@
 
 > De nieuwste Hollandse hits\. Cover: Donnie, Robert van Hemert & Trobi
 
-185 songs - 9 hr 2 min
+186 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Maandag](https://open.spotify.com/track/1ZmCl5Ip9moo86hdqufgU0) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Maandag](https://open.spotify.com/album/2hYNOJpCCEbuKLLOxOE7RW) | 2:44 | 2024-06-27 | 2024-11-22 |
 | [Mama Maria](https://open.spotify.com/track/2A5QPm7ALhM9qyJsV3pDNd) | [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Mama Maria](https://open.spotify.com/album/42CariIauGPeywBsQAHQcm) | 2:53 | 2024-06-13 | 2024-07-19 |
 | [Marijke](https://open.spotify.com/track/5XvA3Vpo4353ZxFLlYUney) | [Dennis van Dam](https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz) | [Marijke](https://open.spotify.com/album/1IkKGgufJmNZKcrCuGPVCt) | 2:58 | 2024-10-10 |  |
-| [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk) | 2:46 | 2024-07-18 |  |
+| [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk) | 2:46 | 2024-07-18 | 2024-12-07 |
 | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/track/5j9LzSPY6lNn0HCT5eLEZK) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Met Tranen In Je Ogen Ben Je Blind](https://open.spotify.com/album/11F42g72XVoQijUSnQ4tiB) | 3:02 | 2024-09-19 |  |
 | [Mexico](https://open.spotify.com/track/6wZ5Uq4nvLeCdk55aDpiae) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Mexico](https://open.spotify.com/album/5XrvscEzaCTKeKXXpVlogo) | 3:26 | 2024-07-25 | 2024-10-19 |
 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 | 2024-07-11 |  |
@@ -138,6 +138,7 @@
 | [Paradijs](https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Paradijs](https://open.spotify.com/album/0kee02X9PL2hkCo50lcXh7) | 2:39 | 2024-06-13 | 2024-09-20 |
 | [Polonaise](https://open.spotify.com/track/21UV7LsN7h8yZ2P1x04LSz) | [Marco de Hollander](https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir) | [Polonaise](https://open.spotify.com/album/5SibaxZth6lE0XlLw1lgz8) | 2:34 | 2024-10-24 | 2024-11-22 |
 | [Que Sera Sera](https://open.spotify.com/track/40gYeIhatKeszARNvMAGvX) | [Dennis Jones](https://open.spotify.com/artist/1yX3XZMzhkLPR66FrbG5o2) | [Que Sera Sera](https://open.spotify.com/album/3s7qJcee0OnLeeZrKD3907) | 3:35 | 2024-06-20 | 2024-08-30 |
+| [Samen Met Jou](https://open.spotify.com/track/6o2UAH25pOQPyqCrirQyMi) | [Ron Tas](https://open.spotify.com/artist/7yY8Me5jIOeTmOdswNeaDl) | [Samen Met Jou](https://open.spotify.com/album/2qUbHG3ZCZSJmVQPGpp7ob) | 3:18 | 2024-12-06 |  |
 | [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 | 2024-11-19 |  |
 | [Sangria](https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Sangria](https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H) | 2:36 | 2024-08-01 |  |
 | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/track/09cswrDjJqKzNxomjftD5S) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Schaam Je Voor Je Tranen Niet](https://open.spotify.com/album/2GGEHhgUhPQVupVNjfD1FH) | 2:57 | 2024-06-13 | 2024-08-30 |
@@ -151,7 +152,7 @@
 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 | 2024-07-18 |  |
 | [Tequila](https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Tequila](https://open.spotify.com/album/7rE6SLNWzMIeBKuitiBe1n) | 2:20 | 2024-06-13 | 2024-09-13 |
 | [Tot Aan De Morgen](https://open.spotify.com/track/38DKhsqtqPXgUTBKN65wTy) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Tot Aan De Morgen](https://open.spotify.com/album/1GyGAa4Pdhvyqs3tCnTENG) | 3:05 | 2024-06-13 | 2024-08-30 |
-| [Tot In De Laatste Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Tot In De Laatste Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 | 2024-11-28 |  |
+| [Tot In De Laatste Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [Wendy](https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR) | [Tot In De Laatste Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 | 2024-11-28 |  |
 | [Tranen van verdriet](https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe) | [Aukje Fijn](https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG) | [Tranen van verdriet](https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq) | 3:12 | 2024-10-18 | 2024-11-29 |
 | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI) | 2:59 | 2024-06-13 | 2024-10-04 |
 | [Van Brabant naar Bordeaux](https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Van Brabant naar Bordeaux](https://open.spotify.com/album/3tAR71Sp3TMaRyksREFpl6) | 3:02 | 2024-06-13 | 2024-07-12 |

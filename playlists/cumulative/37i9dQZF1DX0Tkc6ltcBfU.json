@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south: Rod Wave",
+  "description": "The hottest out the south: BigXthaPlug",
   "name": "No Cap",
   "tracks": [
     {
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "4AM at Coffee Zone (Florida Avengers)",
       "url": "https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180238,
       "name": "Back to the Topic",
       "url": "https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB"
@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/7bEsA9QL79CqmMpFADe8LU"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98133,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/5Ryyh301NTp03Ays0ovWbS"
+    },
+    {
+      "album": {
         "name": "Campaign",
         "url": "https://open.spotify.com/album/0TKHlddjauRFC1dWKaeXkb"
       },
@@ -5192,6 +5210,24 @@
       "duration_ms": 145203,
       "name": "Can\u2019t Go To Jail (feat. Sett, YTB Fatt)",
       "url": "https://open.spotify.com/track/092AkJoxUPmg2OH5TyjGKn"
+    },
+    {
+      "album": {
+        "name": "Car Freestyle",
+        "url": "https://open.spotify.com/album/0n7dBc0RDAXxZbt1BsvAlj"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Car Freestyle",
+      "url": "https://open.spotify.com/track/3JtCLj8WAT99mZJSMPff6A"
     },
     {
       "album": {
@@ -5690,10 +5726,28 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 100587,
       "name": "Cheeto",
       "url": "https://open.spotify.com/track/49fCZX9I7ZPxyMh6oj6zGI"
+    },
+    {
+      "album": {
+        "name": "Zootieee Wrld",
+        "url": "https://open.spotify.com/album/3NAuqgEVJGqlTHadJ5hD7g"
+      },
+      "artists": [
+        {
+          "name": "El Snappo",
+          "url": "https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125610,
+      "name": "Chicken",
+      "url": "https://open.spotify.com/track/24l2RK2FJolUEnEb1dXDOY"
     },
     {
       "album": {
@@ -6756,7 +6810,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 122855,
       "name": "Crazy Bout Me",
       "url": "https://open.spotify.com/track/5ZWOnARwK6B46d2xJQOveR"
@@ -7256,7 +7310,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 131274,
       "name": "delusional",
       "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
@@ -7686,7 +7740,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141754,
       "name": "Different Color Stones",
       "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"
@@ -7846,6 +7900,24 @@
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
+    },
+    {
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/3oLR9OrpINJUQT4UcKBp7a"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "Dlow Curry",
+      "url": "https://open.spotify.com/track/3PwNJhkvRAbRJfTq3alFIP"
     },
     {
       "album": {
@@ -16042,7 +16114,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183604,
       "name": "Killa Season",
       "url": "https://open.spotify.com/track/3dEPpPJ5Foe1g50GSKb84f"
@@ -17802,7 +17874,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 97354,
       "name": "LUIGI",
       "url": "https://open.spotify.com/track/3slG0jtlLfJYMBgWHSUghI"
@@ -22321,6 +22393,24 @@
     },
     {
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141031,
+      "name": "overseas",
+      "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
+    },
+    {
+      "album": {
         "name": "overseas",
         "url": "https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U"
       },
@@ -22708,6 +22798,24 @@
       "duration_ms": 153020,
       "name": "Party Girl Anthem",
       "url": "https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0"
+    },
+    {
+      "album": {
+        "name": "Pass Me a Dub",
+        "url": "https://open.spotify.com/album/27zLU9QuMGGARRYgH4zypY"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137344,
+      "name": "Pass Me a Dub",
+      "url": "https://open.spotify.com/track/05DwY4vk0mL3PLIUBrxI05"
     },
     {
       "album": {
@@ -25716,7 +25824,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 219640,
       "name": "Save Myself (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4f5faIX9BLvUAjS0EX3z6I"
@@ -27882,6 +27990,24 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
+        "name": "I Just Got A Lot On My Shoulders",
+        "url": "https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226378,
+      "name": "Stealing Out The Trap",
+      "url": "https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy"
     },
     {
       "album": {
@@ -30555,6 +30681,24 @@
     },
     {
       "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152186,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai"
+    },
+    {
+      "album": {
         "name": "Tough Decisions PT. 2",
         "url": "https://open.spotify.com/album/5hezBFj8yAv3mu8hhu2kx2"
       },
@@ -31916,7 +32060,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196740,
       "name": "Wade in The Water",
       "url": "https://open.spotify.com/track/1XVXMTNmNG6jyM34hmoes3"

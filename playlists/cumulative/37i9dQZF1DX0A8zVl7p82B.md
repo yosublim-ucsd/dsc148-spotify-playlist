@@ -2,9 +2,9 @@
 
 ### [Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DX0A8zVl7p82B)
 
-> All the best in new and classic Christmas Pop! Cover: Ariana Grande
+> All the best in new and classic Christmas Pop! Cover: Sabrina Carpenter
 
-272 songs - 14 hr 58 min
+274 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/6p16ZgLXSyzefwUSFTZfeE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/album/0v0EbtrOnYKhIW1AUY7t2q) | 3:51 | 2021-12-24 | 2022-07-29 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 | 2021-12-24 | 2022-11-12 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-12-24 | 2022-10-26 |
+| [Christmas Magic](https://open.spotify.com/track/0w8ZIZZKew8iWefjNlTfnF) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Christmas Magic](https://open.spotify.com/album/3XuJwiCfSfXzbgKBh93BGJ) | 3:24 | 2024-12-06 |  |
 | [Christmas the Whole Year Round](https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Christmas the Whole Year Round](https://open.spotify.com/album/637asSTw4aLXrTD4ZLHSMV) | 2:59 | 2021-12-24 |  |
 | [Christmas the Whole Year Round](https://open.spotify.com/track/7vSeyFV11gbIMDYzsN18Nu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Christmas the Whole Year Round](https://open.spotify.com/album/7fcezr1c3mi45pst3hfJad) | 2:59 | 2021-12-24 | 2022-07-29 |
 | [Christmas Time](https://open.spotify.com/track/7LoFMtL7hxP9tr5HYyyUrJ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Christmas EP](https://open.spotify.com/album/5SoYlyWC6QYTJgZ4FR3OV0) | 4:03 | 2021-12-24 | 2022-10-26 |
@@ -252,6 +253,7 @@
 | [This Christmas](https://open.spotify.com/track/69ICDnEzZqopqoQ7LG2e2u) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [This Christmas](https://open.spotify.com/album/1NWj1i8hK3e08JDDrKkVLL) | 2:27 | 2022-11-11 | 2024-11-13 |
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-24 | 2022-10-26 |
 | [Under The Mistletoe](https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Under The Mistletoe](https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U) | 3:45 | 2021-12-24 | 2022-10-26 |
+| [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-12-06 |  |
 | [Underneath the Mistletoe](https://open.spotify.com/track/6HFKeEGEJGI0rIyg2r0iLo) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:50 | 2021-12-24 | 2022-10-26 |
 | [Underneath the Mistletoe](https://open.spotify.com/track/7bTxH0EbMwhJ0ISY0M2Yce) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas](https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq) | 3:50 | 2021-12-24 | 2022-07-29 |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2021-12-24 |  |

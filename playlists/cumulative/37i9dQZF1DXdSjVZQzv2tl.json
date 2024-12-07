@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Fetiche (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3pBXedrZTsRkC8e48zB4B2"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141293,
+      "name": "Fetiche - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pWxJlc5mZI69h4iu1rbRA"
+    },
+    {
+      "album": {
         "name": "Falando de Amor, Vol. 1",
         "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
@@ -2280,7 +2302,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 158713,
       "name": "Fivela Com Fivela - Ao Vivo",
       "url": "https://open.spotify.com/track/73SIgqXr3oRzzWbX1muX3I"
@@ -3298,6 +3320,28 @@
       "duration_ms": 148900,
       "name": "M\u00e9dia Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
+    },
+    {
+      "album": {
+        "name": "Nada Com Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161866,
+      "name": "Nada Com Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/37QloSdzrjx2xCH0m65800"
     },
     {
       "album": {
@@ -5188,7 +5232,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 164240,
       "name": "Vazou Na Braquiara - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZtgnRr4uKMOoCzP4vnQDl"

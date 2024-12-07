@@ -2,9 +2,9 @@
 
 ### [Down South Classics](https://open.spotify.com/playlist/37i9dQZF1DWYok9l1JL7GM)
 
-> The south got something to say\. Cover: Lil Wayne
+> The south got something to say\. Cover: Gucci Mane
 
-163 songs - 11 hr 43 min
+164 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Foolish \- 2008 Remastered](https://open.spotify.com/track/2J0wJkr8OrE9Sm5gQIqQJQ) | [Shawty Lo](https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS) | [Foolish \(2008 Remastered\)](https://open.spotify.com/album/23FEZOZgfV3TvkVW0kVbvj) | 4:09 | 2023-02-07 | 2023-03-04 |
 | [Freek\-A\-Leek](https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Still Writing In My Diary: 2nd Entry](https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68) | 3:55 | 2021-03-09 |  |
 | [Front, Back & Side to Side](https://open.spotify.com/track/0z4Ryh7Qg9jKOQXzkUZLVK) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Super Tight](https://open.spotify.com/album/4rjGyhPnaKV5hfwFNiHtQA) | 5:13 | 2021-08-27 | 2024-09-14 |
-| [Fuck Tha World](https://open.spotify.com/track/7e7YCETIA8xoF9IlWR64Xz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:46 | 2024-11-08 |  |
+| [Fuck Tha World](https://open.spotify.com/track/7e7YCETIA8xoF9IlWR64Xz) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:46 | 2024-11-08 | 2024-12-07 |
 | [Game Over](https://open.spotify.com/track/79lmvU7Qmc8QpXilbSk37z) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [U Gotta Feel Me](https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5) | 3:52 | 2021-08-27 | 2022-07-29 |
 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 | 2021-04-02 |  |
 | [Get Throwed](https://open.spotify.com/track/1BLz7nBzRElSPfg3ndJkHz) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill](https://open.spotify.com/album/5wLh7wfNzSjV0hEtVTwNUw) | 3:53 | 2021-04-02 | 2022-07-29 |
@@ -83,7 +83,7 @@
 | [Laffy Taffy](https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ) | [D4L](https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz) | [Down for Life](https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp) | 3:44 | 2021-03-09 |  |
 | [Lean Wit It, Rock Wit It](https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm) | [Dem Franchize Boyz](https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq), [Peanut](https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP), [Charlay](https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz) | [On Top Of Our Game](https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA) | 3:49 | 2022-02-28 |  |
 | [Left, Right, Left](https://open.spotify.com/track/0vk5b6kj3QISHg4fpRPi6n) | [Drama](https://open.spotify.com/artist/1DMUoszTJYruOq4wfJPLSB) | [Causin' Drama](https://open.spotify.com/album/6gdAZNn7yFmg8FzTwY3q5r) | 3:37 | 2021-08-27 | 2022-07-29 |
-| [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 | 2021-03-09 | 2022-03-01 |
+| [Lemonade](https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:06 | 2021-03-09 |  |
 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 | 2022-02-28 |  |
 | [Like A Pimp](https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6) | [David Banner](https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO), [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Mississippi: The Album](https://open.spotify.com/album/6wTmI6YwP14KXnDC35VTT7) | 4:14 | 2021-03-09 |  |
 | [Look Back At Me](https://open.spotify.com/track/4Q91K9yFyccseq4xtD1FYK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Still Da Baddest](https://open.spotify.com/album/4vWbJou14Qw9ykxT9IsdBo) | 4:13 | 2023-03-03 | 2023-04-09 |
@@ -144,7 +144,7 @@
 | [Sunshine \(feat\. Lea\)](https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS), [Lea](https://open.spotify.com/artist/4tAhhPPEWcszcMjhYROUvx) | [U Gotta Feel Me](https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5) | 3:45 | 2021-03-09 |  |
 | [SupaFreak](https://open.spotify.com/track/3LBCnV4LZ9GNNrga7EH6Gy) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [TM:103 Hustlerz Ambition \(Deluxe\)](https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf) | 4:25 | 2023-05-12 |  |
 | [Swag Surfin'](https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP) | [F.L.Y\. \(Fast Life Yungstaz\)](https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr) | [Jamboree](https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp) | 4:09 | 2021-03-09 | 2022-03-01 |
-| [Tha Block Is Hot](https://open.spotify.com/track/6wCbHb0QEEdka3ymfImn4l) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:12 | 2021-08-27 |  |
+| [Tha Block Is Hot](https://open.spotify.com/track/6wCbHb0QEEdka3ymfImn4l) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Block Is Hot](https://open.spotify.com/album/75s3OxagI6DX8OKLKymPLN) | 4:12 | 2021-08-27 | 2024-12-07 |
 | [The Game Belongs to Me](https://open.spotify.com/track/0qQsv7dumXALW1SRbOKHOo) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 5:14 | 2022-02-28 | 2022-07-18 |
 | [The Way We Ball](https://open.spotify.com/track/5FEBritagmW6iAy5wL5uXg) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Undaground Legend \(Explicit\)](https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm) | 4:43 | 2021-08-27 | 2022-07-29 |
 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 | 2023-09-01 |  |
@@ -157,6 +157,7 @@
 | [Vica Versa](https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr) | [Pastor Troy](https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY) | [Face Off](https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU) | 4:23 | 2021-03-09 | 2022-07-29 |
 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 | 2022-02-28 | 2024-10-31 |
 | [Wanna Be A Baller](https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo) | [Lil' Troy](https://open.spotify.com/artist/12mkoe71zJDWs4j0rCeXGR) | [Sittin' Fat Down South](https://open.spotify.com/album/2czjXveZPf9X2dutQGlh2r) | 5:55 | 2023-01-06 |  |
+| [Wasted \(feat\. Plies\)](https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:09 | 2024-12-06 |  |
 | [We On Fire](https://open.spotify.com/track/7q5YMVbbbsEQATnv0tVctx) | [Hot Boys](https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN) | [Guerrilla Warfare](https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb) | 4:11 | 2024-07-07 | 2024-08-10 |
 | [We Takin' Over](https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We The Best](https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf) | 4:23 | 2023-12-01 | 2024-04-19 |
 | [We Takin' Over](https://open.spotify.com/track/6YdzlsQcyXoWjAykR0rjj3) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We The Best](https://open.spotify.com/album/3kh9dhan1rQm2QOrISk4SK) | 4:23 | 2022-02-28 | 2023-12-23 |

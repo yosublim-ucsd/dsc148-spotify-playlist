@@ -2469,6 +2469,32 @@
     },
     {
       "album": {
+        "name": "Brave (ATB\u2019s Anthem Remix)",
+        "url": "https://open.spotify.com/album/0r7K8ZjnKBTIaLYv4AGsS9"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Christian Burns",
+          "url": "https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY"
+        },
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Brave - ATB's Anthem Remix",
+      "url": "https://open.spotify.com/track/30b4CrDUIbCWnhEum49icQ"
+    },
+    {
+      "album": {
         "name": "Braveheart",
         "url": "https://open.spotify.com/album/3sG3XDhfNxZ0UQliYwTIYE"
       },
@@ -9604,7 +9630,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 178755,
       "name": "Indicode",
       "url": "https://open.spotify.com/track/046DfKv38smyvegrVw8CRG"
@@ -10238,7 +10264,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 216956,
       "name": "Killer Zone",
       "url": "https://open.spotify.com/track/17yDqFqMZpy3fpDH67GKbD"
@@ -15815,6 +15841,32 @@
     },
     {
       "album": {
+        "name": "Rule the World",
+        "url": "https://open.spotify.com/album/3N0uGCbg8muyC5hHbl1NOi"
+      },
+      "artists": [
+        {
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
+        },
+        {
+          "name": "P.O.U",
+          "url": "https://open.spotify.com/artist/04vxVTBTwAFFbMFl1cvcZs"
+        },
+        {
+          "name": "Jamie Lee Harrison",
+          "url": "https://open.spotify.com/artist/7oREWyPlq9Cmova78N4rgQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209516,
+      "name": "Rule the World",
+      "url": "https://open.spotify.com/track/40CYx4lfcMUF1TgYCm55MO"
+    },
+    {
+      "album": {
         "name": "Run & Hide",
         "url": "https://open.spotify.com/album/5yGEKyr9VIbc3NgwtZaSUL"
       },
@@ -16855,6 +16907,24 @@
     },
     {
       "album": {
+        "name": "Anjunabeats Rising 19",
+        "url": "https://open.spotify.com/album/0337IHXI3lfI3MxhUCH4fx"
+      },
+      "artists": [
+        {
+          "name": "Station To Station",
+          "url": "https://open.spotify.com/artist/6YUztya8vaKK65TvwR03bR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197920,
+      "name": "SKR",
+      "url": "https://open.spotify.com/track/1g76I7BLX6Qu7mBSdTOmRc"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/0sg3xcua3C94UM2QjK3Pr2"
       },
@@ -17260,6 +17330,24 @@
       "duration_ms": 194904,
       "name": "Space Mission",
       "url": "https://open.spotify.com/track/0O7VvrRlagTEEFDd73Kuwt"
+    },
+    {
+      "album": {
+        "name": "Space Sex",
+        "url": "https://open.spotify.com/album/0wm591dEtajVodLwglXA7y"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Space Sex",
+      "url": "https://open.spotify.com/track/48hXCDksdPdft60PBMoHMt"
     },
     {
       "album": {
@@ -19424,7 +19512,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 210434,
       "name": "The Wave (is Coming) (York Back To The Roots Mix)",
       "url": "https://open.spotify.com/track/1EHa4jVUQri79NcoFeuzZG"
@@ -19604,6 +19692,32 @@
     {
       "album": {
         "name": "Tidal",
+        "url": "https://open.spotify.com/album/7BjOp0EwGizivvkqcDlZU8"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210425,
+      "name": "Tidal",
+      "url": "https://open.spotify.com/track/1GuzDwcXYhFBIhVWkFKDPT"
+    },
+    {
+      "album": {
+        "name": "Tidal",
         "url": "https://open.spotify.com/album/1VDJTays2jtJVsuUVcu4Mh"
       },
       "artists": [
@@ -19618,7 +19732,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 231702,
       "name": "Tidal",
       "url": "https://open.spotify.com/track/0WutQwXrfvPljSMC5XJXd1"
@@ -19702,6 +19816,28 @@
       "duration_ms": 295741,
       "name": "Time",
       "url": "https://open.spotify.com/track/1yFexL3PgnFKXtDF29Hmax"
+    },
+    {
+      "album": {
+        "name": "Time (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/1ouoD5u22wTsCsII6pTlV2"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168107,
+      "name": "Time (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/5QaLH46RKpOPru82IPFaxj"
     },
     {
       "album": {
@@ -19842,6 +19978,28 @@
       "duration_ms": 222727,
       "name": "To The Stars (A Dreamstate Anthem)",
       "url": "https://open.spotify.com/track/4dlXQpecT7DNVqhy4G8ZID"
+    },
+    {
+      "album": {
+        "name": "Toca's Miracle",
+        "url": "https://open.spotify.com/album/19SdYXhuWPBITA4lILSj85"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145634,
+      "name": "Toca's Miracle",
+      "url": "https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ"
     },
     {
       "album": {
@@ -20988,6 +21146,28 @@
       "duration_ms": 197161,
       "name": "WARRIOR",
       "url": "https://open.spotify.com/track/61MFpHrM3gL5VsL451XJUR"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/43F3e13lXhuggBb03fuf5c"
+      },
+      "artists": [
+        {
+          "name": "The Space Brothers",
+          "url": "https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5"
+        },
+        {
+          "name": "Sue McLaren",
+          "url": "https://open.spotify.com/artist/7AzAtQ0LFRXazvHMDx620D"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199356,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/4tDBRO3QgtJ1bYbNBCsaoM"
     },
     {
       "album": {

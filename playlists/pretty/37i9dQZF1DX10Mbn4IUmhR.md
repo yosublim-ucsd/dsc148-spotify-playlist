@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ?si=ZAwYSFR8TlOhrz9Pv7blwQ">OneRepublic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,459 likes - 61 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,458 likes - 61 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

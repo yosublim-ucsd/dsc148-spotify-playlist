@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: The 046
 
-1,010 songs - 1 day 22 hr 58 min
+1,011 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BIG BALLER BARS 3](https://open.spotify.com/track/25eWgXkoj3mDpVdqBJ40u5) | [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [Revenge SZN 2](https://open.spotify.com/album/6KqexBaC7d9wX9DsqKJJ3A) | 3:40 | 2022-06-30 | 2022-10-28 |
 | [BIG BOP](https://open.spotify.com/track/47BDGmZwPcI77hvIq0YquL) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P) | [BIG BOP](https://open.spotify.com/album/7zD5a8hZ03r6cRSN3bVymJ) | 2:16 | 2022-03-21 | 2022-08-26 |
 | [Big Hoofa](https://open.spotify.com/track/51zUnfBUxOsnGNzrQ1ZW4z) | [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [Big Hoofa](https://open.spotify.com/album/6WQ5Ikyp9wYaMSPiigsFhW) | 2:40 | 2024-05-03 |  |
+| [BIG STEPPA](https://open.spotify.com/track/48hIglpsCh2rLyEScUgB2c) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi), [666SWISH](https://open.spotify.com/artist/4pClZ8jAntDTIQ8zno5lCC) | [BIG STEPPA](https://open.spotify.com/album/3EwgQdP0ZDbgUQrLp5Swdk) | 1:33 | 2024-12-05 |  |
 | [Big Swish](https://open.spotify.com/track/1nFoESb6X0tnPE5k5LsjSJ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Big Swish](https://open.spotify.com/album/6CSH4EtK7Lkby5G7pvKgPj) | 1:23 | 2022-12-01 | 2023-06-16 |
 | [Big Talk](https://open.spotify.com/track/7mzg0TkH5kdDyZFUAZCuEQ) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04), [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [Big Talk](https://open.spotify.com/album/0k0bEbEtysJhG5BL7jYEUc) | 2:22 | 2023-08-31 | 2023-11-17 |
 | [BigBag](https://open.spotify.com/track/0RBxEXzaKvC3ZQIQV5WftZ) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [BigBag](https://open.spotify.com/album/7ralSpCQ95a2tiw6TOeS4N) | 2:17 | 2023-06-22 | 2023-10-27 |

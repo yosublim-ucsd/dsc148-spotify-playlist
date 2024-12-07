@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "family party",
+        "url": "https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139185,
+      "name": "family party",
+      "url": "https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF"
+    },
+    {
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 186533,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
@@ -3034,7 +3052,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 285333,
       "name": "I Wish I Had",
       "url": "https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31"
@@ -3558,6 +3576,24 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181448,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
     },
     {
       "album": {
@@ -4629,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Rust.",
+        "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Rust.",
+      "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
+    },
+    {
+      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/5RY9gGqXK3VWiaIom2axfN"
       },
@@ -4734,6 +4788,24 @@
       "duration_ms": 192053,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F"
+    },
+    {
+      "album": {
+        "name": "All Means, No End",
+        "url": "https://open.spotify.com/album/0EMbsSxadV2BHa8h5A0OMp"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269047,
+      "name": "Season of Charade",
+      "url": "https://open.spotify.com/track/1bJz530WfKn3KmMq0aRIfX"
     },
     {
       "album": {
@@ -5030,7 +5102,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"

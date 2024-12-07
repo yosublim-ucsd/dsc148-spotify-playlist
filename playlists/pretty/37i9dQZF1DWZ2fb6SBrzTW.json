@@ -1,15 +1,15 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 40231,
+  "num_followers": 40363,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0l/bAAAAAAnFnuF+uNgwANtayEnQNAr",
+  "snapshot_id": "Z1KT3QAAAABTMwHpGa+tK//I2A4kk8Vp",
   "tracks": [
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Awuke",
         "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Kese (Dance)",
         "url": "https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "HAUSAPIANO (Remix)",
         "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
@@ -105,7 +105,31 @@
       "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+        "url": "https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE"
+      },
+      "artists": [
+        {
+          "name": "Ayanfe",
+          "url": "https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "DJ Latitude",
+          "url": "https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+      "url": "https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
@@ -125,7 +149,7 @@
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
@@ -153,7 +177,7 @@
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Sooner",
         "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
@@ -169,7 +193,63 @@
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Hi Hi",
+        "url": "https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 135941,
+      "name": "Hi Hi",
+      "url": "https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "OMOBANKE",
+        "url": "https://open.spotify.com/album/7dU4V0V0pKO5AYaoNivnhT"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "OMOBANKE",
+      "url": "https://open.spotify.com/track/1eAgCRZdZwmfv6GNhJvB8p"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
@@ -197,7 +277,7 @@
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Marhaba X We Must",
         "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
@@ -213,43 +293,7 @@
       "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "OMOBANKE",
-        "url": "https://open.spotify.com/album/7dU4V0V0pKO5AYaoNivnhT"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "OMOBANKE",
-      "url": "https://open.spotify.com/track/1eAgCRZdZwmfv6GNhJvB8p"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "KANTE (feat. Fave)",
-      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Free Service",
         "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
@@ -265,7 +309,27 @@
       "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Alhaji",
+        "url": "https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        },
+        {
+          "name": "Iliya Entertainment Music",
+          "url": "https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Alhaji",
+      "url": "https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Pawon Boy Vol.1",
         "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Orobo",
         "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
@@ -353,7 +417,23 @@
       "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Ms Spender",
+        "url": "https://open.spotify.com/album/67xLcdLseC4qphYx865KeB"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        }
+      ],
+      "duration_ms": 114957,
+      "name": "Ms Spender",
+      "url": "https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Double",
         "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
@@ -369,7 +449,7 @@
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
@@ -385,7 +465,7 @@
       "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
@@ -425,23 +505,7 @@
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Ms Spender",
-        "url": "https://open.spotify.com/album/67xLcdLseC4qphYx865KeB"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Winter",
-          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
-        }
-      ],
-      "duration_ms": 114957,
-      "name": "Ms Spender",
-      "url": "https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
@@ -457,7 +521,23 @@
       "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Feel Am",
+        "url": "https://open.spotify.com/album/3VmyWLePyLxyzDn4C8mUBi"
+      },
+      "artists": [
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/505HMXR6geya6f1891Hy1A"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -473,7 +553,7 @@
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
@@ -497,27 +577,7 @@
       "url": "https://open.spotify.com/track/5bKxwhNieD3qoGmwkoM4Vk"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Twe Twe",
-        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Twe Twe",
-      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "yawa",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
@@ -533,7 +593,7 @@
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
@@ -549,7 +609,7 @@
       "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
@@ -569,7 +629,27 @@
       "url": "https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Twe Twe",
+        "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 143111,
+      "name": "Twe Twe",
+      "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
@@ -593,27 +673,7 @@
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
@@ -633,7 +693,7 @@
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
@@ -653,7 +713,27 @@
       "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Kowope",
         "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
@@ -677,7 +757,7 @@
       "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "DUMP ON DEM",
         "url": "https://open.spotify.com/album/1B3wcDQgN2pYHW7CvAAxGb"
@@ -693,7 +773,7 @@
       "url": "https://open.spotify.com/track/53GfbGxZHusSTZhiyC9QYY"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Finish Me (AEIOU)",
         "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
@@ -709,7 +789,7 @@
       "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
@@ -725,7 +805,7 @@
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Rodo",
         "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
@@ -741,7 +821,7 @@
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
@@ -765,27 +845,7 @@
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "wande's bop (feat. SPINALL)",
-      "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "4x4 (feat.Tyler ICU)",
         "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
@@ -813,7 +873,7 @@
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Kautaka (Remix)",
         "url": "https://open.spotify.com/album/5RKJcCAVGDoTFAf0B9pSb5"
@@ -857,7 +917,27 @@
       "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "wande's bop (feat. SPINALL)",
+      "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Aquafina",
         "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
@@ -873,7 +953,7 @@
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Pullover",
         "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
@@ -893,7 +973,7 @@
       "url": "https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
@@ -909,7 +989,7 @@
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Komasava (Comment \u00c7a Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
         "url": "https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs"
@@ -937,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
@@ -953,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
@@ -969,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
         "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
@@ -997,7 +1077,27 @@
       "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
+      "album": {
+        "name": "Shalaye",
+        "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145017,
+      "name": "Shalaye",
+      "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
+    },
+    {
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
@@ -1021,27 +1121,7 @@
       "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Shalaye",
-        "url": "https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145017,
-      "name": "Shalaye",
-      "url": "https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
@@ -1057,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
@@ -1081,7 +1161,7 @@
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
@@ -1101,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
@@ -1117,7 +1197,7 @@
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
-      "added_at": "2024-11-29 08:46:36",
+      "added_at": "2024-12-06 06:04:13",
       "album": {
         "name": "Zormizor (Asabone)",
         "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
@@ -1131,78 +1211,6 @@
       "duration_ms": 184615,
       "name": "Zormizor (Asabone)",
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Walking Dead",
-        "url": "https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 150863,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Otilo (Izz Gone)",
-        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Otilo (Izz Gone)",
-      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     }
   ],
   "unique_name": "Keep Fit Club ",

@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s pop punk, it\u2019s the best. Celebrating 30 years of Hopeless Records.",
-  "num_followers": 43691,
+  "num_followers": 43690,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAbIUzVuyTjgnJG/1O/tCFIwSxiVHDb",
+  "snapshot_id": "AAAbNEdOCFJsJaWmHMoDirpiiRshw9Op",
   "tracks": [
     {
       "added_at": "2024-08-29 18:03:30",
@@ -189,6 +189,42 @@
       "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
     },
     {
+      "added_at": "2024-12-06 20:06:37",
+      "album": {
+        "name": "Dear Maria, Count Me In",
+        "url": "https://open.spotify.com/album/5Sr94Gr4KsxF3OzDsZzrMk"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 186698,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/6P60HWHnUA9qIoVeUSYomn"
+    },
+    {
+      "added_at": "2024-01-09 23:09:09",
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR"
+    },
+    {
       "added_at": "2024-06-28 22:20:53",
       "album": {
         "name": "Unholy Confessions",
@@ -225,6 +261,42 @@
       "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
+      "added_at": "2024-12-06 20:06:24",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1vg43S8b4EltQvhaJ57auy"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 225452,
+      "name": "December",
+      "url": "https://open.spotify.com/track/7hvFFiFYBAj4Pj6NxaLlp2"
+    },
+    {
+      "added_at": "2023-12-01 18:35:43",
+      "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "December",
+      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
+    },
+    {
       "added_at": "2024-06-28 22:16:33",
       "album": {
         "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
@@ -259,6 +331,42 @@
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
+    },
+    {
+      "added_at": "2024-12-06 20:04:54",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/1ArTXYvqw4nxORwB0pMjIc"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "duration_ms": 196143,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4MfUrcygPNxILi20jxWRVz"
+    },
+    {
+      "added_at": "2024-12-06 20:04:59",
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
     },
     {
       "added_at": "2024-08-15 15:38:12",
@@ -469,22 +577,6 @@
       "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
     },
     {
-      "added_at": "2023-12-01 18:35:43",
-      "album": {
-        "name": "Life's Not Out To Get You",
-        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "December",
-      "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
-    },
-    {
       "added_at": "2024-03-22 18:00:26",
       "album": {
         "name": "Miracle",
@@ -579,22 +671,6 @@
       "duration_ms": 177750,
       "name": "Blue Eyed Boy",
       "url": "https://open.spotify.com/track/3SRcU6n6IQCwvl1mKOvaaR"
-    },
-    {
-      "added_at": "2024-01-09 23:09:09",
-      "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR"
     },
     {
       "added_at": "2024-01-09 23:09:19",

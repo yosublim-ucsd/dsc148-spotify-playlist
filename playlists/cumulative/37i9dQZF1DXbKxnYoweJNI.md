@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: BSB
 
-1,232 songs - 2 day 23 hr 37 min
+1,233 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,7 +1053,7 @@
 | [算什麼](https://open.spotify.com/track/1SCQ9bcQZybxx9pqOxGW0s) | [屁孩 Ryan](https://open.spotify.com/artist/5Uru7pLzT6nfOmJfTyZsAu), [蝶香 Rebaecca](https://open.spotify.com/artist/7aIVlg7HfkPsnMQdfHVt6y) | [算什麼](https://open.spotify.com/album/3mX5UtJk7QDBoJxkm4MF8T) | 2:30 | 2024-08-22 | 2024-09-13 |
 | [管不住](https://open.spotify.com/track/2MNg40P2DgSMCCRWgITQk5) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS), [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo), [周西西](https://open.spotify.com/artist/6S7K4jvzLerRttyEfrW5wC) | [管不住](https://open.spotify.com/album/1uHFnS6Y8N7iRJBoyddbm1) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [籠裡](https://open.spotify.com/track/6OjZY9xeZfHhAeNLaZtBAB) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg) | [籠裡](https://open.spotify.com/album/25v3yMbEuIjmE9o7OJRBhe) | 3:40 | 2024-07-04 | 2024-07-19 |
-| [紅霞劇場](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩紅](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 | 2024-11-28 |  |
+| [紅霞劇場The Sunset Playhouse](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩紅Crimson](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 | 2024-11-28 |  |
 | [累累](https://open.spotify.com/track/5u7nTFYOiowljp5UGphYTR) | [YILE LIN 林以樂](https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ) | [素顏的樣子](https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4) | 4:21 | 2024-09-12 | 2024-09-27 |
 | [結冰水](https://open.spotify.com/track/1RHX5ccrmRaeBWl82kPU7J) | [方立維 ALI](https://open.spotify.com/artist/5oiYskVLYnZXoPDYJU3NHc), [Barry Chen](https://open.spotify.com/artist/1mL3Ui7SZf6nF6fsyOjs4F) | [結冰水](https://open.spotify.com/album/2g8ZkQhb14hYwkQk39Y0eA) | 2:44 | 2024-10-17 | 2024-10-25 |
 | [給我SIAM \(GET LOST!\)](https://open.spotify.com/track/2XkcQgSa4RecUcXAV1vv0a) | [Deliciious](https://open.spotify.com/artist/75Rf39N3uKbhTpTtTeDnVh) | [給我SIAM \(GET LOST!\)](https://open.spotify.com/album/6P6GpoRYK5eoEmVeZ4TM0K) | 2:03 | 2024-09-26 | 2024-10-04 |
@@ -1170,6 +1170,7 @@
 | [達芙妮](https://open.spotify.com/track/2zOJBADVy33GxOMe20xZje) | [茗伃](https://open.spotify.com/artist/54MncF1J40g0ADDCLn0X6Y) | [達芙妮](https://open.spotify.com/album/6ueiZ54RPsoWHIJpD0Dzfl) | 2:54 | 2024-07-18 | 2024-07-27 |
 | [遛遛](https://open.spotify.com/track/5QZUjFWX8wuCjo0GDB9p7l) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD) | [遛遛](https://open.spotify.com/album/1w9OG6Iv3VmSLutJ5tEhVe) | 4:01 | 2024-11-07 |  |
 | [適合告別的天氣](https://open.spotify.com/track/5nTPPzELkVlhPABLdm7GVb) | [山繆](https://open.spotify.com/artist/4U9Wxn7LuCbteYVmwsW93c) | [適合告別的天氣](https://open.spotify.com/album/0NWE49oqd8yDQoe2kLiVpN) | 3:00 | 2024-11-28 |  |
+| [遺言](https://open.spotify.com/track/1g31ft2x5l2MavckNteL0v) | [賴奕泓](https://open.spotify.com/artist/4n0pWvKeByJ8apOVaU2K39) | [遺言](https://open.spotify.com/album/48RAXy0Y4zeLzQDFaEwGDY) | 4:03 | 2024-12-05 |  |
 | [還有我來告訴你沒錯](https://open.spotify.com/track/6VbNT5yuSJ2pILkiyFqnpm) | [EMI CHEOW](https://open.spotify.com/artist/2Aq7MZEBSyd9EPADwqHurs), [Leonjunjay](https://open.spotify.com/artist/5JuaaXZvIfe9X6nYe9d88f) | [還有我來告訴你沒錯](https://open.spotify.com/album/7xddsheezvH8RyX3YMxHtL) | 3:32 | 2024-10-17 | 2024-10-25 |
 | [還能再看到幾次滿月](https://open.spotify.com/track/1KlMrB24N1ox90urr5wJh6) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [還能再看到幾次滿月](https://open.spotify.com/album/4z5vzidxEb1cIZ27rmxnV1) | 5:48 | 2024-09-26 | 2024-10-18 |
 | [那个女孩](https://open.spotify.com/track/2R68eYReSkedb3MBtq1pUF) | [寶石Gem](https://open.spotify.com/artist/0p0KwawjbChNZh3O0L3z8i) | [那个女孩](https://open.spotify.com/album/2rbdzIKN0blrx6n9hPzYfa) | 5:04 | 2024-12-05 |  |

@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-206 songs - 12 hr 12 min
+207 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Algo Más / Azúcar Amargo](https://open.spotify.com/track/1OHDQiWQQaQHtJboLbrgti) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Algo Más / Azúcar Amargo](https://open.spotify.com/album/0O2WIytgYKQdMmIfi0cQFm) | 3:53 | 2024-05-03 | 2024-05-11 |
 | [Amigos](https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Amigos](https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN) | 3:58 | 2024-05-03 | 2024-08-13 |
 | [Amigos Con Derecho](https://open.spotify.com/track/1jjQ1k1jvxdXUaxoK75RV8) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 4:27 | 2023-05-05 |  |
-| [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 | 2024-11-15 |  |
+| [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 | 2024-11-15 | 2024-12-07 |
 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 | 2023-08-25 |  |
 | [Amor De Adolescentes](https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color De Tu Corazón](https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv) | 3:10 | 2023-05-05 | 2024-04-19 |
 | [Aquellos Tiempos](https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Aquellos Tiempos](https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV) | 2:13 | 2023-11-14 | 2024-07-13 |
@@ -69,6 +69,7 @@
 | [Fuerte No Soy](https://open.spotify.com/track/03iuCunPkJmx6b7P3V0Mfq) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Fuerte No Soy](https://open.spotify.com/album/0otGOAVyYMS2WeiRwLwr2j) | 4:39 | 2024-04-19 | 2024-05-04 |
 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 | 2023-05-05 | 2024-04-19 |
 | [HOLA PERDIDA](https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA](https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl) | 2:46 | 2024-01-05 |  |
+| [Hoy](https://open.spotify.com/track/6a0FNGCFye7YPJc02S6vDF) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Hoy](https://open.spotify.com/album/7h6O8lvTXdxyGMuC8990Ca) | 3:07 | 2024-12-06 |  |
 | [Hoy Me Embriagaré](https://open.spotify.com/track/7jDnlfXxpWqa2X1ADq0Lce) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Hoy Me Embriagaré](https://open.spotify.com/album/1JeEfXt5Waf4yPusnQFdrH) | 2:20 | 2024-03-08 | 2024-03-23 |
 | [Hoy Te Vi](https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [Melodia Kallejera](https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 3:38 | 2024-07-09 |  |
 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 | 2023-05-05 |  |

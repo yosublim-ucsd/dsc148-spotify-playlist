@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 154936,
       "name": "4 foot 2",
       "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 195708,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196577,
       "name": "Backseat Driver",
       "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "family party",
+        "url": "https://open.spotify.com/album/6W5VZbgjiI0SyoL9p3GKD0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Atwater",
+          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139185,
+      "name": "family party",
+      "url": "https://open.spotify.com/track/4WXhsnnPXl3EtRElw9G4EF"
+    },
+    {
+      "album": {
         "name": "Felt Too Good!",
         "url": "https://open.spotify.com/album/4dxyVZMH7oFr3OjpHef5l4"
       },
@@ -1687,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "I've Got My Love To Keep Me Warm",
+        "url": "https://open.spotify.com/album/2yIvEmLBwHV9LdAlymmYAE"
+      },
+      "artists": [
+        {
+          "name": "Breagh Isabel",
+          "url": "https://open.spotify.com/artist/5nm8xNDJvPX3ncbw3TSaXs"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/3rkkJbatXiIM5mdeO9kw6z"
+    },
+    {
+      "album": {
         "name": "If I Ain't Got You (feat. Queen Charlotte's Global Orchestra) [Orchestral - from Queen Charlotte: A Bridgerton Story [Covers from the Netflix Series]]",
         "url": "https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE"
       },
@@ -1724,6 +1760,24 @@
       "duration_ms": 216000,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/758ub6jq4Asxf5XPGHZ5bY"
+    },
+    {
+      "album": {
+        "name": "If I Had A Boat",
+        "url": "https://open.spotify.com/album/6rXAQdtTmfB5hmDz7tw2se"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186326,
+      "name": "If I Had A Boat",
+      "url": "https://open.spotify.com/track/24GbPSzYcU0AWxXvlDssl7"
     },
     {
       "album": {
@@ -2753,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Room 121",
+        "url": "https://open.spotify.com/album/743EBbIMpKkFb6nX5gtLYH"
+      },
+      "artists": [
+        {
+          "name": "AVIV",
+          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "Room 121",
+      "url": "https://open.spotify.com/track/3nHqU4WpBUZwJJiPUQVnUq"
+    },
+    {
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -2851,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "snow globe on an alien's desk",
+        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "snow globe on an alien's desk",
+      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
+    },
+    {
+      "album": {
         "name": "So Many Ways To Say I Love You",
         "url": "https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr"
       },
@@ -2880,7 +2970,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 195125,
       "name": "Some Kinda Nerve",
       "url": "https://open.spotify.com/track/4fD2XwoZJLyeGJD07ctWyW"
@@ -3100,7 +3190,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193137,
       "name": "Takes Me Back Home",
       "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
@@ -3194,6 +3284,24 @@
       "duration_ms": 226440,
       "name": "That's What I Love",
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+    },
+    {
+      "album": {
+        "name": "The Alchemist",
+        "url": "https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212021,
+      "name": "The Alchemist",
+      "url": "https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS"
     },
     {
       "album": {
@@ -3313,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+    },
+    {
+      "album": {
         "name": "To Whoever Has You Next",
         "url": "https://open.spotify.com/album/2m79RYJzEIhDWiPclcRle7"
       },
@@ -3396,7 +3522,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 238939,
       "name": "Turn the Lights Back On",
       "url": "https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw"
@@ -3486,7 +3612,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"

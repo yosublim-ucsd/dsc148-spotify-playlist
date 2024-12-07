@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,631 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,103 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [Prie Pour Moi](https://open.spotify.com/track/24crm1CmCOg633efjOSduY) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Prie Pour Moi](https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup) | 2:31 |
 | 4 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 |
 | 5 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 |
-| 6 | [Médusa](https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR) | [Tengaishy](https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Médusa](https://open.spotify.com/album/7JGiaywe8xuqIObJ44hETc) | 2:43 |
+| 6 | [Médusa](https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR) | [Tengaïshy](https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Médusa](https://open.spotify.com/album/7JGiaywe8xuqIObJ44hETc) | 2:43 |
 | 7 | [Cocoa Butter](https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [Cocoa Butter](https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ) | 1:53 |
 | 8 | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/track/08Awv5MoR9qQNdCWrGi7I2) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [BABY OKU \(feat\. Fiokee\)](https://open.spotify.com/album/6fDuf1pTmoj8nNtD0Tu3xq) | 2:52 |
 | 9 | [Technique \(feat\. Gaz Mawete\)](https://open.spotify.com/track/0HBGEZBlXljDGIvV36jC16) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Technique \(feat\. Gaz Mawete\)](https://open.spotify.com/album/2wHhwKN1nWM0gT0BnDAukv) | 2:37 |

@@ -5837,6 +5837,24 @@
     },
     {
       "album": {
+        "name": "The Raining Tacos Saga",
+        "url": "https://open.spotify.com/album/3mEi6JvyJcLoPsOrPgIVyC"
+      },
+      "artists": [
+        {
+          "name": "Parry Gripp",
+          "url": "https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104623,
+      "name": "It's Raining Tacos Again",
+      "url": "https://open.spotify.com/track/2gBSQCNsDZYwlsiZGvQXtT"
+    },
+    {
+      "album": {
         "name": "It's Stariana!",
         "url": "https://open.spotify.com/album/5yhIJn35x1qpZVTdg4Mv4Q"
       },
@@ -6418,6 +6436,32 @@
       "duration_ms": 231613,
       "name": "Letter C",
       "url": "https://open.spotify.com/track/3pDeU1HQaufmpKckaPS6Jd"
+    },
+    {
+      "album": {
+        "name": "Nick Jr. Mix It Up! Vol. 18: Lil' Boots Big Dreams (The Remixes)",
+        "url": "https://open.spotify.com/album/3551EFkORjacPC6SHavSKg"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Blaze and the Monster Machines",
+          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
+        },
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129623,
+      "name": "Let\u2019s Blaze - Remix",
+      "url": "https://open.spotify.com/track/2IABpRQ8tLS97mvp03FfOD"
     },
     {
       "album": {

@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Bassface",
+        "url": "https://open.spotify.com/album/7FSbvBgjJqcNQkXHfYuypY"
+      },
+      "artists": [
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392999,
+      "name": "Bassface",
+      "url": "https://open.spotify.com/track/5h170ZVp5hvSUfeUliPVGD"
+    },
+    {
+      "album": {
         "name": "Bastille",
         "url": "https://open.spotify.com/album/2ViBovzskyq1LgVh8pkKtl"
       },
@@ -34962,7 +34980,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 215988,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE"

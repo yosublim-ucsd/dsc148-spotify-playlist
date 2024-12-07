@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Fantastic Negrito
 
-423 songs - 1 day 4 hr 26 min
+424 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [If Only We Could](https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc) | [Clarence Spady](https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU) | [If Only We Could](https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL) | 3:08 | 2022-01-21 | 2023-08-26 |
 | [If You Love to Be Right](https://open.spotify.com/track/3RoRYcIHXzmsRoqP8S9qKQ) | [Andy Kahrs](https://open.spotify.com/artist/6FvylUNtOpotZOfJMa2udu) | [Together](https://open.spotify.com/album/5DuhMteI48gsbdQEkt4VOu) | 3:58 | 2022-03-04 | 2024-03-30 |
 | [In Blood](https://open.spotify.com/track/4R9G9PKBSiBN9vo0d1bBvX) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Blood on My Hands](https://open.spotify.com/album/10dbGQiopAbLHmxglr90rl) | 4:05 | 2022-06-24 | 2024-04-19 |
-| [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 |  |
+| [In Blood](https://open.spotify.com/track/6nNCEcTFxYSaQVKLRrYCb9) | [Emanuel Casablanca](https://open.spotify.com/artist/1FtqiVssCdvoJX1oqvOX0p), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [In Blood](https://open.spotify.com/album/6VfAGvpMdmt8ciFE7pRA1Z) | 4:05 | 2022-06-24 | 2024-12-07 |
 | [In My Soul](https://open.spotify.com/track/4DO9pPMq8PFhWFo4IVVveA) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [In My Soul](https://open.spotify.com/album/7K3JyQeEB3L6lmNYTkmQDr) | 4:47 | 2023-02-24 | 2023-03-18 |
 | [In The Water](https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN), [Steve Knight](https://open.spotify.com/artist/6k6k3dePFZZJDOBRg4IxFS) | [In The Water](https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK) | 4:09 | 2021-08-20 | 2023-05-06 |
 | [Internet Cowboys](https://open.spotify.com/track/0Q9T0EmJqzr0zc02fZopUx) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Internet Cowboys](https://open.spotify.com/album/5GkHtJyAuPkBpANfyDOx3i) | 4:04 | 2024-04-26 | 2024-06-08 |
@@ -415,6 +415,7 @@
 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 3:27 | 2022-03-18 | 2024-05-04 |
 | [Wild Love](https://open.spotify.com/track/6ZLLEQPZ5RfwKQUG5ebPKB) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild Love](https://open.spotify.com/album/0cExTBqPKBwY4o3Ubv4C6u) | 4:23 | 2023-11-17 | 2024-01-20 |
 | [Wild Women Don't Have the Blues](https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Wild Women Don't Have the Blues](https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx) | 3:38 | 2021-07-02 | 2022-07-02 |
+| [Woke Up And Smelled The Coffee](https://open.spotify.com/track/5PYR64ezPkh2ihfXrKnSlz) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165), [The Painkillers](https://open.spotify.com/artist/0VLrBA5VA6WfgcoRGQE73V) | [Woke Up And Smelled The Coffee](https://open.spotify.com/album/1ClLyZpNVhJP9G3VOZIQ7G) | 3:05 | 2024-12-06 |  |
 | [Woman Like You](https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 4:19 | 2020-12-14 | 2022-02-26 |
 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 | 2023-07-21 |  |
 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 | 2024-08-09 |  |

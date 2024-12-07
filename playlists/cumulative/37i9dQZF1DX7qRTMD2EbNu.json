@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 196154,
       "name": "Can't Complain",
       "url": "https://open.spotify.com/track/2ORUrWWJCkVXNSAfcYJNnM"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 190654,
       "name": "Flow Proper",
       "url": "https://open.spotify.com/track/3aXdWV0LWeVlG6rvn0tsMu"
@@ -5051,6 +5051,28 @@
     },
     {
       "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/1ZeBM3YvOTSbaa3QnBl8ys"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130250,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/4gh9uUGWk1lndZ9A2DuXei"
+    },
+    {
+      "album": {
         "name": "Ghana (Remix)",
         "url": "https://open.spotify.com/album/7kckPDQIjbWJnaQhx2v6r4"
       },
@@ -5526,6 +5548,24 @@
       "duration_ms": 160000,
       "name": "Green Means Go",
       "url": "https://open.spotify.com/track/3GSr6iTdh5lLjVyC67qCMk"
+    },
+    {
+      "album": {
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/0OiEbUGg5kepKCT4CAVpmW"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193629,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/0nWYAK1qFKvHbgxrFTk9K2"
     },
     {
       "album": {
@@ -9351,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "Ohene",
+        "url": "https://open.spotify.com/album/2N60XjOoQFUpBFM6EuyyPB"
+      },
+      "artists": [
+        {
+          "name": "Serious Klein",
+          "url": "https://open.spotify.com/artist/118HlFjDgUCku033j3YD81"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170063,
+      "name": "Ohene",
+      "url": "https://open.spotify.com/track/6IpiQrPyZbFL2T1IO6SLB1"
+    },
+    {
+      "album": {
         "name": "Okafuo",
         "url": "https://open.spotify.com/album/06rql6cMd4dXYOR2NIUKoe"
       },
@@ -9362,7 +9420,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 178909,
       "name": "Okafuo",
       "url": "https://open.spotify.com/track/19AnJ2sd3UXoFIKDNa1fIF"

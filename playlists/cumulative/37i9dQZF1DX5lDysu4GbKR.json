@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Relax to these acoustic soul songs. Cover: Destin Conrad",
+  "description": "Relax to these acoustic soul songs. Cover: Olivia Dean",
   "name": "Acoustic Soul",
   "tracks": [
     {
@@ -248,6 +248,24 @@
       "duration_ms": 254550,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu"
+    },
+    {
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY"
     },
     {
       "album": {
@@ -3109,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "Oh God / Really Tired (feat. Mereba)",
+        "url": "https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267320,
+      "name": "Oh God (feat. Mereba)",
+      "url": "https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0"
+    },
+    {
+      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn"
       },
@@ -3643,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Agnus",
+        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136918,
+      "name": "scrabble",
+      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
+    },
+    {
+      "album": {
         "name": "Self Sabotage (Acoustic)",
         "url": "https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x"
       },
@@ -3872,6 +3934,24 @@
       "duration_ms": 217066,
       "name": "Speak Now",
       "url": "https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr"
+    },
+    {
+      "album": {
+        "name": "Spell It Out (Demo)",
+        "url": "https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186785,
+      "name": "Spell It Out - Demo",
+      "url": "https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI"
     },
     {
       "album": {
@@ -4554,7 +4634,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 172500,
       "name": "Weather Woman",
       "url": "https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM"

@@ -2,7 +2,7 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> Country hits that will have you singing every word\. Cover: Waylon Wyatt
+> Country hits that will have you singing every word\. Cover: Thomas Rhett
 
 407 songs - 22 hr 9 min
 

@@ -2,7 +2,7 @@
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Anycia
+> Real Rap\. All Pressure\. Cover: Megan Thee Stallion
 
 676 songs - 1 day 4 hr 58 min
 

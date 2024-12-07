@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Peter Xan",
+  "description": "A new wave of rock music. Cover: Witch Post",
   "name": "shockwave",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 239799,
       "name": "behind those tears",
       "url": "https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV"
@@ -740,6 +740,24 @@
       "duration_ms": 180368,
       "name": "Bigger Than Anything Ever",
       "url": "https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO"
+    },
+    {
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0Y0a1PZ4S3XGSQqZVNFo5R"
+      },
+      "artists": [
+        {
+          "name": "Makeshift Art Bar",
+          "url": "https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Birthday Party",
+      "url": "https://open.spotify.com/track/1izOkBHkWXSgOKz4ijDKBl"
     },
     {
       "album": {
@@ -898,7 +916,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183529,
       "name": "Body In Your Basement",
       "url": "https://open.spotify.com/track/54wMMdzLQ9FieLP3zoyKIV"
@@ -1211,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Champ",
+        "url": "https://open.spotify.com/album/6xXDeJXNDUSWzNTNNXqp61"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz"
+    },
+    {
+      "album": {
         "name": "Chew",
         "url": "https://open.spotify.com/album/7vSeanXi9dHntVCVQmQioq"
       },
@@ -1229,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/64YtY1wkONIB0usw75FR6o"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168551,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
+    },
+    {
+      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/3Q4tguHJX2uv4gwDLUMTHq"
       },
@@ -1244,6 +1298,24 @@
       "duration_ms": 241000,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2oDWs9FrL8N8gw9OjgcLLF"
+    },
+    {
+      "album": {
+        "name": "CHUNKS",
+        "url": "https://open.spotify.com/album/2tQEhPnSgXspePYq4eNhQ5"
+      },
+      "artists": [
+        {
+          "name": "MOULD",
+          "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "CHUNKS",
+      "url": "https://open.spotify.com/track/6uBuSsnkhwnIwBnzGadzkX"
     },
     {
       "album": {
@@ -1388,7 +1460,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 184736,
       "name": "Cool",
       "url": "https://open.spotify.com/track/61c8JdniIlDW7tJZGoZoMe"
@@ -1766,7 +1838,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202711,
       "name": "Demons",
       "url": "https://open.spotify.com/track/342Y1xCB1oSNuh2BdWbCN6"
@@ -1910,7 +1982,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 153093,
       "name": "DIRTY MOUTH",
       "url": "https://open.spotify.com/track/2r2hIrRNneDYSDtVGEpxve"
@@ -1986,6 +2058,24 @@
       "duration_ms": 202466,
       "name": "Do It So Good",
       "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
+    },
+    {
+      "album": {
+        "name": "Do you want my number?",
+        "url": "https://open.spotify.com/album/1J4HqDL0jW2DvuPNWOfIq0"
+      },
+      "artists": [
+        {
+          "name": "Shefu",
+          "url": "https://open.spotify.com/artist/3GkhyPSAxK1VCCxgQcBqg9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193168,
+      "name": "Do you want my number?",
+      "url": "https://open.spotify.com/track/2QeEMoghUCBvIr1dQZ9hQX"
     },
     {
       "album": {
@@ -2465,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "Fool Out of Me",
+        "url": "https://open.spotify.com/album/4YPRvjN8ECwi6e0KK3vedu"
+      },
+      "artists": [
+        {
+          "name": "Queen Bitch",
+          "url": "https://open.spotify.com/artist/6s02q1DQMb0of0tBTxgeZj"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183450,
+      "name": "Fool Out of Me",
+      "url": "https://open.spotify.com/track/2SlaOTHJY57D3YPuBOpDgH"
+    },
+    {
+      "album": {
         "name": "For The Weekend",
         "url": "https://open.spotify.com/album/3p9w4qM9HmdRiSQ9lEt5fl"
       },
@@ -2556,7 +2664,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202229,
       "name": "Freakout Handshake",
       "url": "https://open.spotify.com/track/7Iqp6TlGRWErSTngOtKg9y"
@@ -3040,6 +3148,24 @@
       "duration_ms": 307200,
       "name": "Grief In Phantasia",
       "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
+    },
+    {
+      "album": {
+        "name": "Grinning William",
+        "url": "https://open.spotify.com/album/50XtQHylcHvePeTUYOIlBA"
+      },
+      "artists": [
+        {
+          "name": "Blood Wizard",
+          "url": "https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163677,
+      "name": "Grinning William",
+      "url": "https://open.spotify.com/track/6s55DkhxntRC9G4CXfSzgK"
     },
     {
       "album": {
@@ -4012,7 +4138,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 164516,
       "name": "kill all of u",
       "url": "https://open.spotify.com/track/3gxdROUxVaDaj9c1MXdOzI"
@@ -5013,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "MURDER",
+        "url": "https://open.spotify.com/album/2GuQlMTTDVRa71Knxe9qyO"
+      },
+      "artists": [
+        {
+          "name": "BUBZ",
+          "url": "https://open.spotify.com/artist/7IwYtE3A3mRe432XcR9C1p"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "MURDER",
+      "url": "https://open.spotify.com/track/4eQhBK1EkRzUZAxvgqkQ7z"
+    },
+    {
+      "album": {
         "name": "My Drummer's Girlfriend",
         "url": "https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj"
       },
@@ -5395,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "Pale Blue Dot",
+        "url": "https://open.spotify.com/album/3tVElDerwUvbvNskj6mXWU"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Varey",
+          "url": "https://open.spotify.com/artist/1P7CehS5wt5UNQjTsgMhRS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188388,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/4JKSUh154aRg65VbGztvvQ"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne"
       },
@@ -5698,7 +5860,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 278000,
       "name": "PULLING AT THREADS",
       "url": "https://open.spotify.com/track/1mWdHu7rVIxFXwSrByeMIL"
@@ -6952,7 +7114,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 279697,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp"
@@ -7222,7 +7384,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 205000,
       "name": "The Space You Take Up",
       "url": "https://open.spotify.com/track/3f2cilaLq2ILYnJyBwAYdz"
@@ -7334,7 +7496,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 227750,
       "name": "TIMEPIECE",
       "url": "https://open.spotify.com/track/3iO5is79RNo5V8ESIqblcj"
@@ -7539,6 +7701,24 @@
     },
     {
       "album": {
+        "name": "Valuable Customer",
+        "url": "https://open.spotify.com/album/0CLIyZazbeZ8FUBC8CbtXo"
+      },
+      "artists": [
+        {
+          "name": "The New Cut",
+          "url": "https://open.spotify.com/artist/5S5fjngXUQ6ZTBJJL1djIf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161674,
+      "name": "Valuable Customer",
+      "url": "https://open.spotify.com/track/3WkRLd9pgbCvuKQ6Nv9Znn"
+    },
+    {
+      "album": {
         "name": "Violent Undertones",
         "url": "https://open.spotify.com/album/1fdovsqNoIf0ks7pwY59wL"
       },
@@ -7662,6 +7842,24 @@
       "duration_ms": 242576,
       "name": "Waiting for Something",
       "url": "https://open.spotify.com/track/4WiTO0yNWAmDM1IFhobDYa"
+    },
+    {
+      "album": {
+        "name": "Wanna Be A Doll",
+        "url": "https://open.spotify.com/album/5eEewGcL8AGpa7b1daD1FK"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166912,
+      "name": "Wanna Be A Doll",
+      "url": "https://open.spotify.com/track/7ET28C0jaXWkHaBVUXHbt8"
     },
     {
       "album": {
@@ -7964,7 +8162,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 164918,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1lhC9yec2WzL63yZyDlAtq"
@@ -8112,6 +8310,24 @@
       "duration_ms": 192107,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/4Q9iqf0cw04PfSqfszILdh"
+    },
+    {
+      "album": {
+        "name": "Wolves & Madmen",
+        "url": "https://open.spotify.com/album/1dtCfgJyJ19dhYWVhh0V1c"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Wells",
+          "url": "https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Wolves & Madmen",
+      "url": "https://open.spotify.com/track/3QWxOMiO1opeuuGV9HhEju"
     },
     {
       "album": {

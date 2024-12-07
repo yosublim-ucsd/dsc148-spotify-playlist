@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Relax to these acoustic soul songs\. Cover: Destin Conrad
+> Relax to these acoustic soul songs\. Cover: Olivia Dean
 
-252 songs - 14 hr 58 min
+256 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anything For You \(The Duet\)](https://open.spotify.com/track/5hKc7qeLC9QqdBlE0qJ26Y) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Anything For You \(The Duet\)](https://open.spotify.com/album/50xsXEJN39581OqrEo4DEU) | 4:16 | 2023-10-12 | 2023-11-10 |
 | [Anything For You \- The Duet](https://open.spotify.com/track/4Y6kb79j6Dw8Sy99JSBtzO) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Anything For You \(The Duet\)](https://open.spotify.com/album/0SehtJ2CGMhcBrEZTE5HLH) | 4:16 | 2021-12-09 | 2023-11-04 |
 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/1UQdvPrkLvzvU4ktYCRHCu) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [For Real\. \(Acoustic\)](https://open.spotify.com/album/24RKf3d0OpuUoJtWj4hgmT) | 4:14 | 2021-12-09 | 2023-04-09 |
+| [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 | 2024-12-06 |  |
 | [Baby](https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Baby](https://open.spotify.com/album/7qnpbQkt7O7CVy7cgu1g6k) | 1:51 | 2021-12-09 | 2022-07-29 |
 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 | 2022-06-16 | 2023-11-10 |
 | [Baby Come Home](https://open.spotify.com/track/5dCbFy9uDWZ2l0J1JmBLT5) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Baby Come Home](https://open.spotify.com/album/2GUwYv4BUonWFyTotWy5o3) | 3:08 | 2021-12-09 | 2023-08-31 |
@@ -172,6 +173,7 @@
 | [Not Serious \- Acoustic](https://open.spotify.com/track/3O8EzNsk4t0Yo3WnEEOk8H) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Not Serious \(Acoustic\)](https://open.spotify.com/album/2fI8fCbbgVog7nvXDN8lEu) | 3:18 | 2023-08-30 |  |
 | [Not Us \(Remastered\)](https://open.spotify.com/track/5xULnCD8MSvny4p1wpB1uc) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Not Us \(Remastered\)](https://open.spotify.com/album/17UO9NFRDG17WPCmfWJJIu) | 2:28 | 2024-02-08 | 2024-02-21 |
 | [Nothing On You \- Piano Version](https://open.spotify.com/track/1ZyKvHxpgMg7r76sjpTma0) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Nothing On You \(Piano Version\)](https://open.spotify.com/album/0BKtm5NcZZKVkYrJgbOiRn) | 4:03 | 2021-12-09 | 2023-04-09 |
+| [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 | 2024-12-06 |  |
 | [Open Letter](https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [Open Letter](https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn) | 2:58 | 2024-10-19 |  |
 | [Our Girls](https://open.spotify.com/track/4Mhq8MtZkV2x5XYmdL1dkK) | [Sunday Rose](https://open.spotify.com/artist/0on2Bi1asBv63WyzwbSQvE) | [Our Girls](https://open.spotify.com/album/7dn6togtkX2z12MMWCD8EQ) | 3:00 | 2021-12-09 | 2023-09-29 |
 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-25 |  |
@@ -201,6 +203,7 @@
 | [Save You](https://open.spotify.com/track/4gGjys9urpojUMJboFI9xk) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:43 | 2021-12-09 | 2023-08-31 |
 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 | 2021-12-09 | 2023-04-09 |
 | [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 | 2024-01-25 | 2024-08-10 |
+| [scrabble](https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3), [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Agnus](https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF) | 2:16 | 2024-12-06 |  |
 | [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 | 2023-09-28 |  |
 | [Seven Times \- Live](https://open.spotify.com/track/7xvnFLLcemBrNCtkmCNQlt) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 3:29 | 2021-12-09 | 2024-02-09 |
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
@@ -213,6 +216,7 @@
 | [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 | 2023-01-12 |  |
 | [Southern Comfort](https://open.spotify.com/track/44KX6krxJOPMNDBalsklXs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/73z5oOi2581XQ9UVF5d4hM) | 3:41 | 2024-02-01 | 2024-04-19 |
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 | 2024-02-09 |
+| [Spell It Out \- Demo](https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Spell It Out \(Demo\)](https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU) | 3:06 | 2024-12-06 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw) | 3:18 | 2022-12-15 | 2023-04-09 |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 | 2022-12-25 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-09 |  |
@@ -249,7 +253,7 @@
 | [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 | 2024-03-21 |  |
 | [WAVER \(Till it All Makes Sense\)](https://open.spotify.com/track/1xfNozfur1x0R12FzSeEIl) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 5:04 | 2022-11-03 |  |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-12-09 |  |
-| [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 | 2024-11-15 |  |
+| [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 | 2024-11-15 | 2024-12-07 |
 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 | 2021-12-09 | 2024-02-09 |
 | [What You Did \(feat\. Ella Mai\) \- Acoustic](https://open.spotify.com/track/5KEze8FT62AJCly8UnBcq2) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [What You Did \(feat\. Ella Mai\) \[Acoustic\]](https://open.spotify.com/album/1pqagkRkaqCXdZ2cOHS5NH) | 3:27 | 2021-12-09 | 2022-05-06 |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-02-09 |  |

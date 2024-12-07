@@ -466,7 +466,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 129072,
       "name": "Bungecord Christmas",
       "url": "https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 158241,
       "name": "Night Shifts At Christmas",
       "url": "https://open.spotify.com/track/2igDCdkPxsG876uqueSr9F"
@@ -1535,6 +1535,28 @@
     },
     {
       "album": {
+        "name": "Merry Christmas Lil Mama: The Gift That Keeps On Giving",
+        "url": "https://open.spotify.com/album/2w78Cx36U8NynXOR6GFB03"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244608,
+      "name": "Snowed In",
+      "url": "https://open.spotify.com/track/7dFfjLVeVoWR2xArhHuh3v"
+    },
+    {
+      "album": {
         "name": "The Return of East Atlanta Santa",
         "url": "https://open.spotify.com/album/4MoVPs5mVFmZ4N6RmNTFWB"
       },
@@ -1732,6 +1754,24 @@
       "duration_ms": 233400,
       "name": "Why'd You Leave Me On Christmas",
       "url": "https://open.spotify.com/track/0HAJpzhta0QljXSpzSQKmm"
+    },
+    {
+      "album": {
+        "name": "X-Mas Bag",
+        "url": "https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141272,
+      "name": "X-Mas Bag",
+      "url": "https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed"
     },
     {
       "album": {

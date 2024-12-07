@@ -897,6 +897,32 @@
     },
     {
       "album": {
+        "name": "AZAROSOG",
+        "url": "https://open.spotify.com/album/2YeKV1ibuIz9JhF9Yg89w4"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "En Hebreo",
+      "url": "https://open.spotify.com/track/6DbrJIfX7SW0orI2htf0eB"
+    },
+    {
+      "album": {
         "name": "En Mi Piel",
         "url": "https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3"
       },
@@ -1256,7 +1282,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 174065,
       "name": "Garantias",
       "url": "https://open.spotify.com/track/0iKJTCvE5Nuuambux6LXmr"

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/4akxMu1ZtYGIAd6NV405Hc"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185069,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/2gCZKqKEAtRZjTJGzHIf01"
+    },
+    {
+      "album": {
         "name": "Give Love on Christmas Day",
         "url": "https://open.spotify.com/album/1qtJJViXBqI5gcl4LYsFtf"
       },
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Like It's Christmas (Fireplace Version)",
+        "url": "https://open.spotify.com/album/7LSc45bpP6hCPjDujCvwm7"
+      },
+      "artists": [
+        {
+          "name": "Noel Newman",
+          "url": "https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Like It's Christmas (Fireplace Version)",
+      "url": "https://open.spotify.com/track/67ss5ZP5lT8Tk1aTT3sfgj"
+    },
+    {
+      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/1O50FuubuNIaddheLayCvT"
       },
@@ -1154,6 +1190,24 @@
       "duration_ms": 144000,
       "name": "Sussex Carol - Cosy Fireplace",
       "url": "https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz"
+    },
+    {
+      "album": {
+        "name": "That Christmas Feeling",
+        "url": "https://open.spotify.com/album/4NKIVOWRXBKTpFJaBZpAhX"
+      },
+      "artists": [
+        {
+          "name": "Alistair Corby",
+          "url": "https://open.spotify.com/artist/2AOoX147NTTg0AmU9MmyVE"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119376,
+      "name": "That Christmas Feeling",
+      "url": "https://open.spotify.com/track/0UMt7MtTwUdRHfJgWzs5yw"
     },
     {
       "album": {

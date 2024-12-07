@@ -1,32 +1,28 @@
 {
-  "description": "The best indie dance tracks of the moment \ud83e\udd1d with DJ Koze & Damon Albarn",
-  "num_followers": 876207,
+  "description": "The best indie dance tracks of the moment \ud83c\udf3b with Zimmer90",
+  "num_followers": 876228,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z04X9wAAAABDF8Hce5mFYyMwUYODtv3/",
+  "snapshot_id": "Z1M6+AAAAADIppv5pHqRKnRmvl7vHflK",
   "tracks": [
     {
-      "added_at": "2024-11-29 06:43:52",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8"
       },
       "artists": [
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 264176,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+      "duration_ms": 170557,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -47,30 +43,6 @@
       "duration_ms": 239863,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Going On",
-        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "MC DT",
-          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Going On",
-      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -109,24 +81,60 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-11-29 06:43:52",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "The Middle (feat. Allysha Joy)",
-        "url": "https://open.spotify.com/album/4W6GgPe4RjOyjFrmXXoab4"
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/00AeOVTjPfLZ6KegBHsvaj"
       },
       "artists": [
         {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Allysha Joy",
-          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 270129,
-      "name": "The Middle (feat. Allysha Joy)",
-      "url": "https://open.spotify.com/track/4lul80zA0KV1aNeNov5fWb"
+      "duration_ms": 185576,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/1cKjXJVvNSSDeZgI8fgOI0"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Going On",
+        "url": "https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Going On",
+      "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "its all good",
+        "url": "https://open.spotify.com/album/0ysYJqP60Gqgv6tS2V8GUX"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        }
+      ],
+      "duration_ms": 140536,
+      "name": "thebaddest",
+      "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -169,6 +177,82 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
+      "added_at": "2024-12-06 17:57:12",
+      "album": {
+        "name": "Day Starter / Affection",
+        "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Day Starter",
+      "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
+    },
+    {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Marmite (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/3yZ0BSzvv9KyII56iZ909x"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 240302,
+      "name": "Marmite - Fcukers Remix",
+      "url": "https://open.spotify.com/track/37ebkeBtuT4Am3qb98HHOL"
+    },
+    {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "The Middle (feat. Allysha Joy)",
+        "url": "https://open.spotify.com/album/4W6GgPe4RjOyjFrmXXoab4"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "duration_ms": 270129,
+      "name": "The Middle (feat. Allysha Joy)",
+      "url": "https://open.spotify.com/track/4lul80zA0KV1aNeNov5fWb"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Let's Go Back",
@@ -185,36 +269,28 @@
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
-      "added_at": "2024-12-02 20:26:31",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Any Signs of Love",
-        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
+        "name": "Into The Blue (feat. kamille) [Baltra Remix]",
+        "url": "https://open.spotify.com/album/7J8FvSHjwhRxeQVk0aMaly"
       },
       "artists": [
         {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 362261,
-      "name": "Any Signs of Love",
-      "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
-    },
-    {
-      "added_at": "2024-11-29 06:43:52",
-      "album": {
-        "name": "ma\u00f1ana s\u00e9",
-        "url": "https://open.spotify.com/album/0uzjqBVgiKeBEWM2Dn8GT4"
-      },
-      "artists": [
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        },
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
         }
       ],
-      "duration_ms": 217581,
-      "name": "ma\u00f1ana s\u00e9",
-      "url": "https://open.spotify.com/track/7pRXIIW2oV7ezYzt8tBa5r"
+      "duration_ms": 182922,
+      "name": "Into The Blue (feat. kamille) [Baltra Remix]",
+      "url": "https://open.spotify.com/track/3CcFc8SXjQMuT66rxwc2Az"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -247,6 +323,42 @@
       "duration_ms": 240094,
       "name": "choke enough",
       "url": "https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "it's our time down here",
+        "url": "https://open.spotify.com/album/1E7Hp5EHFAYM48KK6BACv3"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "it's our time down here",
+      "url": "https://open.spotify.com/track/2kOd3mKWHoho6FaocQk718"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "found",
+        "url": "https://open.spotify.com/album/5LMte7IKVvSiPUa7QcKckq"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "found",
+      "url": "https://open.spotify.com/track/5JH6fXDF7AMWMyRPj20q1P"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -329,6 +441,58 @@
       "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "DANCER",
+        "url": "https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "duration_ms": 225390,
+      "name": "DANCER",
+      "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
+    },
+    {
+      "added_at": "2024-12-02 20:26:31",
+      "album": {
+        "name": "Any Signs of Love",
+        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 362261,
+      "name": "Any Signs of Love",
+      "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
+    },
+    {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "ma\u00f1ana s\u00e9",
+        "url": "https://open.spotify.com/album/0uzjqBVgiKeBEWM2Dn8GT4"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 217581,
+      "name": "ma\u00f1ana s\u00e9",
+      "url": "https://open.spotify.com/track/7pRXIIW2oV7ezYzt8tBa5r"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Stunt Like This",
@@ -347,6 +511,22 @@
       "duration_ms": 166774,
       "name": "Stunt Like This",
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Minha Vida - Hope",
+        "url": "https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "In Love We Know Ourselves",
+      "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -419,6 +599,22 @@
       "duration_ms": 142608,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/2lV2cMkuW3GXrTsiWQTLYD"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/0spQnHysbmv3eYXjVGIjw7"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 212059,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/6q3CHqrpj1xhACjwolpLWs"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -559,22 +755,6 @@
       "duration_ms": 192845,
       "name": "Mutations - Empress Of Remix",
       "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "BOOTS",
-        "url": "https://open.spotify.com/album/0h2VDVB4yE4JTdTKeUL7Bu"
-      },
-      "artists": [
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 199375,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1025,42 +1205,6 @@
       "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/7Mj4PdkDSp4beWH8gANGHJ"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "RebMoe",
-          "url": "https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM"
-        }
-      ],
-      "duration_ms": 148205,
-      "name": "Died At The Party",
-      "url": "https://open.spotify.com/track/1CDwotYnigEU6QuoyJUSJ0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Waste of Time",
-        "url": "https://open.spotify.com/album/3Zbz5gmLEQq5weAJ1HZfns"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 210232,
-      "name": "Waste of Time",
-      "url": "https://open.spotify.com/track/6yj74on8CdNfq76fpIGCPF"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Honey",
@@ -1075,26 +1219,6 @@
       "duration_ms": 191065,
       "name": "Got to Change",
       "url": "https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA"
-    },
-    {
-      "added_at": "2024-11-01 04:45:51",
-      "album": {
-        "name": "Hey Baby (salute Remix)",
-        "url": "https://open.spotify.com/album/6TejDHnQGR3yqYsrWDCn27"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        },
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Hey Baby (salute remix - radio edit)",
-      "url": "https://open.spotify.com/track/3Wt9BeTK8SlTG7c3KEBJN5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1393,26 +1517,6 @@
       "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Us Two",
-        "url": "https://open.spotify.com/album/53KeCWH79dIEetwOjFcupt"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 252676,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN"
-    },
-    {
       "added_at": "2024-06-24 13:06:02",
       "album": {
         "name": "Vhs",
@@ -1533,62 +1637,6 @@
       "url": "https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Life at Full Speed",
-        "url": "https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 221030,
-      "name": "Life at Full Speed",
-      "url": "https://open.spotify.com/track/29pC8YWSnfFq6x9mOXsafF"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/3vqjyD50i2FGxdwshFiXV5"
-      },
-      "artists": [
-        {
-          "name": "Solsta",
-          "url": "https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A"
-        },
-        {
-          "name": "Amraks",
-          "url": "https://open.spotify.com/artist/45QSSn5J9uRnJqyCRxTBxw"
-        },
-        {
-          "name": "Jewel Owusu",
-          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
-        }
-      ],
-      "duration_ms": 167442,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/4pkSzjnEYghi9kc9BNwuJu"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Buffalo",
-        "url": "https://open.spotify.com/album/7exagwGrvAsKbvdAW1AUmf"
-      },
-      "artists": [
-        {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
-        }
-      ],
-      "duration_ms": 244321,
-      "name": "All Time High",
-      "url": "https://open.spotify.com/track/7Hm2K19xtnZ4FW7n2Zv5Uh"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "do you really love him?",
@@ -1607,22 +1655,6 @@
       "duration_ms": 186277,
       "name": "do you really love him?",
       "url": "https://open.spotify.com/track/2V8qIMYUEvvYcqezOwfKIL"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Show You",
-        "url": "https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL"
-      },
-      "artists": [
-        {
-          "name": "Tornado Club",
-          "url": "https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Show You",
-      "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
     },
     {
       "added_at": "2024-07-12 14:19:02",
@@ -1675,38 +1707,6 @@
       "duration_ms": 215000,
       "name": "Chasing a Comfort",
       "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Infinite Health",
-        "url": "https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Totem",
-      "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Mixed Signals EP",
-        "url": "https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Sun In Your Eyes",
-      "url": "https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3"
     },
     {
       "added_at": "2024-07-26 04:00:00",

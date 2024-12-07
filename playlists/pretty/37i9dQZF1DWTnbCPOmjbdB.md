@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,450 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,472 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 23 | [Odpowiedź](https://open.spotify.com/track/1pR4TjI4X95ciHO5hqtk8f) | [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [WOLF HOUSE](https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt) | [Odpowiedź](https://open.spotify.com/album/5LC0YN5v8PyAXq2Oj1xwbX) | 2:27 |
 | 24 | [Nie trzeba mi nic](https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6) | [Anna Iwanek](https://open.spotify.com/artist/6nDN2jmwSvfjDqtzhUhhmS) | [Nie trzeba mi nic](https://open.spotify.com/album/2vdEJg7gNZUzQ6b6W6YQ6e) | 2:13 |
 | 25 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 |
-| 26 | [Pali się](https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Pali się](https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h) | 2:14 |
+| 26 | [Pali się](https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Pali się](https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h) | 2:20 |
 | 27 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 |
 | 28 | [Cyrk](https://open.spotify.com/track/1e8Lx51hxlh88uaA3IumUR) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Cyrk](https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf) | 3:06 |
 | 29 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |

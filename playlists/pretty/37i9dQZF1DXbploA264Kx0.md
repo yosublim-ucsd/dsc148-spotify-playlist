@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: DEW
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,474 likes - 61 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,473 likes - 61 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 36 | [Paradise..\. How Far?](https://open.spotify.com/track/1gKnFeolxWkGBHDXk2XZLG) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Real Love Is...](https://open.spotify.com/album/1HuMI9YQymF8NWBn2D8BdK) | 4:27 |
 | 37 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 |
 | 38 | [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 |
-| 39 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHIU PI](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 |
+| 39 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHOVBE](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 |
 | 40 | [Half\-Full](https://open.spotify.com/track/47QbWmH6sjwcsXi4lNSwoW) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [25](https://open.spotify.com/album/0zsJoOnTe5HvEmhkfOs16o) | 4:29 |
 | 41 | [敦化南路](https://open.spotify.com/track/3VMlI9cU27pmhchnP2Uajr) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [安泰: The Revisit Version](https://open.spotify.com/album/4ZivdHbzFrI7y411aRSyl5) | 3:49 |
 | 42 | [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 |

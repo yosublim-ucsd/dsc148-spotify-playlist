@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "The many fruits of Caribbean culture under one tree. Cover: Cover: <a href=\"spotify:artist:0uAUrmEQbwcDFzg0v7VicO\">Lila Ik\u00e9</a> and <a href=\"spotify:artist:2P5sC9cVZDToPxyomzF1UH\">Joey Bada$$</a> ",
+  "description": "The many fruits of Caribbean culture under one tree. Cover: <a href=\"spotify:artist:7kpAW7boBJFRFCMydZpjUd\">SadBoi</a> ",
   "name": "Fever",
   "tracks": [
     {
@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Blanco",
+        "url": "https://open.spotify.com/album/5wipl5SX7zjoFaPsGSsYUX"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173002,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/2NE0I2CXMjtpdkYcKBApkw"
+    },
+    {
+      "album": {
         "name": "Saga Boy",
         "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
       },
@@ -238,6 +256,24 @@
       "duration_ms": 170763,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/16ibXHvBc5Ahikg0qhcuVi"
+    },
+    {
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/6NIBh5SS38CVXUw0BrZNXN"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101694,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/1S5NReadPAI7o5G9mUfunZ"
     },
     {
       "album": {
@@ -361,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Dating Szn",
+        "url": "https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175698,
+      "name": "Dating Szn",
+      "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
+    },
+    {
+      "album": {
         "name": "TRILOGY",
         "url": "https://open.spotify.com/album/3ugvJpAgveYhXpghHfqlG4"
       },
@@ -379,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Occupied Mind",
+        "url": "https://open.spotify.com/album/5SFodcpgUUpbA72YvNIHwy"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182219,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OxtPaZlS9hx5jm4DNtbLZ"
+    },
+    {
+      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -390,7 +462,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 140893,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/6TNkWGEciE227dch2XmOld"
@@ -464,6 +536,28 @@
       "duration_ms": 132545,
       "name": "Doggie",
       "url": "https://open.spotify.com/track/6pbpXYOabN87yOAj1CoiI2"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Fall",
+        "url": "https://open.spotify.com/album/5lx3ED9JTWw0pmdPOMObuH"
+      },
+      "artists": [
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        },
+        {
+          "name": "Droptop Records",
+          "url": "https://open.spotify.com/artist/1xsWbdVn1gyHsHnDYTBAYG"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165015,
+      "name": "Don\u2019t Fall",
+      "url": "https://open.spotify.com/track/2x8Zx2aoa0Uc5VDMcbm5AU"
     },
     {
       "album": {
@@ -630,10 +724,54 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 160000,
       "name": "Good Like Jesus",
       "url": "https://open.spotify.com/track/06HHRkb1vkskeKJZq4nNpB"
+    },
+    {
+      "album": {
+        "name": "HAAD (Fiesta)",
+        "url": "https://open.spotify.com/album/2QaV6m42lhAnOd0HGD4NuH"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "HAAD (Fiesta)",
+      "url": "https://open.spotify.com/track/1zcwjTCMxqV7fi6wSdYM40"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C"
     },
     {
       "album": {
@@ -696,7 +834,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218181,
       "name": "Higher Life - Remix",
       "url": "https://open.spotify.com/track/4gbo7YNqeKPM2UnVTTCD5u"
@@ -726,6 +864,28 @@
       "duration_ms": 169581,
       "name": "Hit & Run (feat. Masicka & Di Genius)",
       "url": "https://open.spotify.com/track/0ZozwNxlrIRfBAhAibtM4M"
+    },
+    {
+      "album": {
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
       "album": {
@@ -887,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/5XZKQUo3IgjjqC0hG9R6xd"
+      },
+      "artists": [
+        {
+          "name": "NIGY BOY",
+          "url": "https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137427,
+      "name": "Judgement",
+      "url": "https://open.spotify.com/track/1o6TzHkNsPqogIAwMGtoV7"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -910,6 +1088,50 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
+    },
+    {
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/6PfnVo94DilxyB9XgVIvNe"
+      },
+      "artists": [
+        {
+          "name": "450",
+          "url": "https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL"
+        },
+        {
+          "name": "Weekday",
+          "url": "https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160300,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/1Qvo0zEU8S0xvbi3CCcZbk"
     },
     {
       "album": {
@@ -1209,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes",
+        "url": "https://open.spotify.com/album/0CHcleLL9nuyElanBqucCX"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144757,
+      "name": "Nursery Rhymes",
+      "url": "https://open.spotify.com/track/0l7DsApSOJ4G7vPzFXMszj"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr"
       },
@@ -1271,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128156,
+      "name": "PDF",
+      "url": "https://open.spotify.com/track/63fzTn3xge4fU2BsUdfCDQ"
+    },
+    {
+      "album": {
         "name": "Pressure (Remix)",
         "url": "https://open.spotify.com/album/7xgScJJaVrUCy477wMTfKt"
       },
@@ -1290,6 +1548,32 @@
       "duration_ms": 238576,
       "name": "Pressure (Remix)",
       "url": "https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs"
+    },
+    {
+      "album": {
+        "name": "Protocol",
+        "url": "https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+        },
+        {
+          "name": "1stClass",
+          "url": "https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199836,
+      "name": "Protocol",
+      "url": "https://open.spotify.com/track/0o5lWtD85zCURUU1bXj7mQ"
     },
     {
       "album": {
@@ -1355,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Rich N Richer (Raw)",
+        "url": "https://open.spotify.com/album/4ah18uKOA9IrEF4P9ykKFU"
+      },
+      "artists": [
+        {
+          "name": "Pablo YG",
+          "url": "https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207868,
+      "name": "Rich N Richer - Raw",
+      "url": "https://open.spotify.com/track/4sW8m27NH2o0PlctCResMv"
+    },
+    {
+      "album": {
         "name": "Love Island Riddim",
         "url": "https://open.spotify.com/album/58IbHZt2rtKDyrV9uHkFCq"
       },
@@ -1370,6 +1672,24 @@
       "duration_ms": 209856,
       "name": "Rose Petal",
       "url": "https://open.spotify.com/track/1mtNAKbARp4CXxmrqvg2DU"
+    },
+    {
+      "album": {
+        "name": "Rum Behavior",
+        "url": "https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155919,
+      "name": "Rum Behavior",
+      "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
     },
     {
       "album": {
@@ -1392,6 +1712,28 @@
       "duration_ms": 212270,
       "name": "SEE IT YAH",
       "url": "https://open.spotify.com/track/0VakktQEioPjhfIlOIDRQi"
+    },
+    {
+      "album": {
+        "name": "Shake It To The Max (FLY)",
+        "url": "https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Shake It To The Max (FLY)",
+      "url": "https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq"
     },
     {
       "album": {
@@ -1650,10 +1992,32 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Talibans II - Bonus Track",
+      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
     },
     {
       "album": {
@@ -1697,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "That's It!",
+        "url": "https://open.spotify.com/album/5U53x1O71bLFj0eAqdL1XS"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "UnoTheActivist",
+          "url": "https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185364,
+      "name": "That's It!",
+      "url": "https://open.spotify.com/track/7vdU0x5zgy6as4gfJfallS"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4MlNS3ebhAToBfk8KrgeIg"
       },
@@ -1720,6 +2106,28 @@
       "duration_ms": 139248,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6gx8SHpGPlFeHpPBl7FiMx"
+    },
+    {
+      "album": {
+        "name": "Tun Di Ada Way",
+        "url": "https://open.spotify.com/album/4pXA95FW7Rzo9UEdsEBvSw"
+      },
+      "artists": [
+        {
+          "name": "IWaata",
+          "url": "https://open.spotify.com/artist/2xtVXoJRIMnX1UAmOCrHrB"
+        },
+        {
+          "name": "DethWrld",
+          "url": "https://open.spotify.com/artist/5CKjN61fO5PS1OxO2besVu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155221,
+      "name": "Tun Di Ada Way",
+      "url": "https://open.spotify.com/track/24TFLvaGCWr9dLaEQHjmhy"
     },
     {
       "album": {
@@ -1760,6 +2168,24 @@
       "duration_ms": 217959,
       "name": "Tyrant",
       "url": "https://open.spotify.com/track/7IZFzhwYUxUVhCsrnEReqi"
+    },
+    {
+      "album": {
+        "name": "UnFck You",
+        "url": "https://open.spotify.com/album/5OKm4MYpe25NJFpMfM7kGj"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160768,
+      "name": "UnFck You",
+      "url": "https://open.spotify.com/track/21sgVzSx0qQIpKnUEOUt0j"
     },
     {
       "album": {
@@ -1954,6 +2380,24 @@
       "duration_ms": 167741,
       "name": "Wild n Rich",
       "url": "https://open.spotify.com/track/2ZLcrPOWX3wTnj2h4NdEWx"
+    },
+    {
+      "album": {
+        "name": "Wild Out",
+        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Wild Out",
+      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
     },
     {
       "album": {

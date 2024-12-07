@@ -1,12 +1,12 @@
 {
   "description": "Beyond titles, beyond genre. Cover: Tom Misch",
-  "num_followers": 204501,
+  "num_followers": 204511,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAADOQWK1ox/qqrMFGHtJDiR2",
+  "snapshot_id": "Z1MMnwAAAADiLzwYoqNs5r+Wdvs3WLeq",
   "tracks": [
     {
       "added_at": "2024-12-06 00:00:00",
@@ -679,6 +679,22 @@
       "duration_ms": 205363,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0QVeYbIchvBmCRnBGGuWoD"
+    },
+    {
+      "added_at": "2024-12-06 14:39:27",
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
     },
     {
       "added_at": "2024-12-06 00:00:00",

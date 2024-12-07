@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 194342,
       "name": "Can U Dig That?",
       "url": "https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 284616,
       "name": "DISRUPTIVE",
       "url": "https://open.spotify.com/track/1Ym2xT23p7t1tjTLB38f3Q"
@@ -3682,6 +3682,24 @@
       "duration_ms": 155750,
       "name": "Doin' Right",
       "url": "https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a"
+    },
+    {
+      "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
     },
     {
       "album": {
@@ -12188,7 +12206,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 242222,
       "name": "SILVERSTONE SUMMERTIMES III.",
       "url": "https://open.spotify.com/track/4nSIagdYwtuni95rRopyty"
@@ -15622,6 +15640,28 @@
       "duration_ms": 223349,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/4gu103x5nz3NpN6lRKSeWC"
+    },
+    {
+      "album": {
+        "name": "The Auditorium Vol. 1",
+        "url": "https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227403,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/09H9NP2iQtdS9opcX0xgtv"
     },
     {
       "album": {

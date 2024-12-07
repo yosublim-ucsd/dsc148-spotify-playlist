@@ -1,12 +1,12 @@
 {
   "description": "DEADBEATS &amp; BROWNIES - Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62803,
+  "num_followers": 62802,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAXN9XjQl3g1Qt79ic+PznYqgS1ysIm",
+  "snapshot_id": "AAAXOAx3w8xn1/G++GuY4dzEd/vmfB+E",
   "tracks": [
     {
       "added_at": "2024-11-28 16:56:02",
@@ -467,6 +467,26 @@
       "duration_ms": 273006,
       "name": "EIN SCH\u00d6NER PLATZ",
       "url": "https://open.spotify.com/track/153FJ3SVsJBZfaX3LORoNk"
+    },
+    {
+      "added_at": "2024-12-06 03:33:22",
+      "album": {
+        "name": "GOOD 4 U",
+        "url": "https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 160896,
+      "name": "GOOD 4 U",
+      "url": "https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc"
     }
   ],
   "unique_name": "Zeds Dead's Deadbeats",

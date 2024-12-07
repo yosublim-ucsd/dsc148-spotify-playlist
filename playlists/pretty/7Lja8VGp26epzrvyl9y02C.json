@@ -1,13 +1,29 @@
 {
   "description": "Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.",
-  "num_followers": 53807,
+  "num_followers": 53806,
   "original_name": "PlayStation Year In Music",
   "owner": {
     "name": "PlayStation\u00ae\ufe0f",
     "url": "https://open.spotify.com/user/playstation_music"
   },
-  "snapshot_id": "AAACwbsne5qnsV486es9/7z5ymHH6olU",
+  "snapshot_id": "AAACw/AmYQzBIGDn6NMbB7nAHPcylFGv",
   "tracks": [
+    {
+      "added_at": "2024-05-14 18:56:35",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
     {
       "added_at": "2024-11-27 16:39:52",
       "album": {
@@ -45,22 +61,6 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-05-14 18:56:35",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
       "added_at": "2024-11-27 16:43:41",
       "album": {
         "name": "Last Lap",
@@ -91,6 +91,30 @@
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "added_at": "2024-12-06 17:01:34",
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 217526,
+      "name": "Lace It (with Eminem & benny blanco)",
+      "url": "https://open.spotify.com/track/256G9Lq6n91EIzkRxCrdjO"
     },
     {
       "added_at": "2024-11-27 16:44:02",

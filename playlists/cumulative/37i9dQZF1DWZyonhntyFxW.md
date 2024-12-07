@@ -4,7 +4,7 @@
 
 > الخطة ملوك من اللفه انا استاهل منكوا الصقفة\. غلاف: مهاب
 
-369 songs - 18 hr 15 min
+370 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Share3 El 100](https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Share3 El 100](https://open.spotify.com/album/0Me0fSxdj5G3vFSDtlgAZC) | 2:13 | 2023-02-23 | 2023-06-16 |
 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 | 2024-04-23 | 2024-06-14 |
 | [Shhh](https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:59 | 2022-05-10 | 2022-06-15 |
-| [SHHHH](https://open.spotify.com/track/5jMqDJwBXQHR1V13q3YKme) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 1:40 | 2024-09-04 |  |
+| [SHHHH](https://open.spotify.com/track/5jMqDJwBXQHR1V13q3YKme) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 1:40 | 2024-09-04 | 2024-12-07 |
 | [SHOGHLA](https://open.spotify.com/track/1KHa1gCcw1OV9GVSt1guUo) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TALATINI](https://open.spotify.com/album/3XXEwsNnwu51uUm1wokMcv) | 3:01 | 2024-09-05 |  |
 | [SKIN](https://open.spotify.com/track/4EwSe0EnXry3Zh3cyFfHWn) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:34 | 2023-01-25 | 2023-06-19 |
 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 | 2024-04-13 |  |
@@ -325,6 +325,7 @@
 | [YAQOUT](https://open.spotify.com/track/07zl7KBSjr84gwAPsquB9g) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [YAQOUT](https://open.spotify.com/album/3uzJNAGmkzCiF3UOVxSAF8) | 3:20 | 2024-08-12 | 2024-09-05 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 | 2023-12-30 |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |
+| [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 | 2024-12-06 |  |
 | [احنا كده](https://open.spotify.com/track/3cpL15cLhwR2EPjj3MNCRa) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 3:23 | 2022-10-10 | 2022-11-17 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 | 2022-12-27 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-10 | 2022-11-09 |

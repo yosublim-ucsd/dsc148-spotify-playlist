@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Just some chill guys;  Art by L E S E D I",
+  "description": "Holdin' it down for the westside. Cover: Roddy Ricch",
   "name": "Westside Story",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 156038,
       "name": "83 Questions",
       "url": "https://open.spotify.com/track/5OHFSwJoD9jtjfeWBAypr4"
@@ -1457,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "Stucc In The Hole",
+        "url": "https://open.spotify.com/album/4XeQjdXx5QHBQtYztSniaL"
+      },
+      "artists": [
+        {
+          "name": "Siete7x",
+          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149129,
+      "name": "Auntie Baby",
+      "url": "https://open.spotify.com/track/1MDLwX3yrl50Jzz6r86GZD"
+    },
+    {
+      "album": {
         "name": "Ay Caramba",
         "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
       },
@@ -1856,6 +1878,32 @@
       "duration_ms": 193656,
       "name": "Barely Miss",
       "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
+    },
+    {
+      "album": {
+        "name": "BBL (feat. Rob49)",
+        "url": "https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146470,
+      "name": "BBL (feat. Rob49)",
+      "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
     },
     {
       "album": {
@@ -2288,6 +2336,28 @@
       "duration_ms": 241587,
       "name": "Big Subwoofer - Single Version",
       "url": "https://open.spotify.com/track/3U84GeKG4tUHhimhie1aDK"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Life",
+        "url": "https://open.spotify.com/album/2TXd69tah0li3nZkwIhPYP"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260487,
+      "name": "Bigger Than Life",
+      "url": "https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e"
     },
     {
       "album": {
@@ -8294,7 +8364,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
@@ -8378,7 +8448,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189642,
       "name": "Gotta Know",
       "url": "https://open.spotify.com/track/1sTWITmo9fuVzGjJRgcJh8"
@@ -8794,6 +8864,24 @@
       "duration_ms": 303385,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/1H3iFlT3jKjcD92ut8LnHT"
+    },
+    {
+      "album": {
+        "name": "Headtaps",
+        "url": "https://open.spotify.com/album/1c2lTIf8jPyLzxOQUwPTiy"
+      },
+      "artists": [
+        {
+          "name": "YoungThreat",
+          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143381,
+      "name": "Headtaps",
+      "url": "https://open.spotify.com/track/2tlxZzhYi5SF9OcRWoK18K"
     },
     {
       "album": {
@@ -9604,7 +9692,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183829,
       "name": "I Don't Feel Alive",
       "url": "https://open.spotify.com/track/4n9LAQpRB06djcwYXjNuZy"
@@ -11955,6 +12043,28 @@
     },
     {
       "album": {
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
+    },
+    {
+      "album": {
         "name": "Superghetto (Deluxe)",
         "url": "https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP"
       },
@@ -12112,6 +12222,24 @@
       "duration_ms": 214228,
       "name": "LOVE MAKE",
       "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
+    },
+    {
+      "album": {
+        "name": "Love Yo Weapons",
+        "url": "https://open.spotify.com/album/1QdXGwQUfs53NDHM08Dtyb"
+      },
+      "artists": [
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166608,
+      "name": "Love Yo Weapons",
+      "url": "https://open.spotify.com/track/1xGAvLWjyg2L71Qq9ZowIP"
     },
     {
       "album": {
@@ -14173,6 +14301,28 @@
     },
     {
       "album": {
+        "name": "THE UNDISPUTED TRUTH",
+        "url": "https://open.spotify.com/album/1LRO8obtUq6M3WuNPRd7ze"
+      },
+      "artists": [
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195702,
+      "name": "Not The 1",
+      "url": "https://open.spotify.com/track/3NQa7p1rtQeeGsWGydzOlg"
+    },
+    {
+      "album": {
         "name": "Not The Same God As Mine",
         "url": "https://open.spotify.com/album/6FOe6OxItoBp8M9uQKO6ke"
       },
@@ -15036,7 +15186,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 159600,
       "name": "Outta Da Blue (feat. Dr. Dre & Alus)",
       "url": "https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl"
@@ -15370,6 +15520,28 @@
       "duration_ms": 135888,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6VlyGntFkztRrLlMBDxLRj"
+    },
+    {
+      "album": {
+        "name": "peaceful\u00b2",
+        "url": "https://open.spotify.com/album/1O2Pd8wtUdLH64PNKns00i"
+      },
+      "artists": [
+        {
+          "name": "seiji oda",
+          "url": "https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197091,
+      "name": "peaceful\u00b2",
+      "url": "https://open.spotify.com/track/1UeCwaeVgNW3pfIreE007K"
     },
     {
       "album": {
@@ -17623,6 +17795,24 @@
     },
     {
       "album": {
+        "name": "I'll Get Over It",
+        "url": "https://open.spotify.com/album/0ENMF6rjyX4fyFmo3RxfXj"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158453,
+      "name": "Sick N Tied",
+      "url": "https://open.spotify.com/track/3KrH0ie8p2l5ArQKJFCYTT"
+    },
+    {
+      "album": {
         "name": "Sign Language",
         "url": "https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig"
       },
@@ -17817,6 +18007,24 @@
     },
     {
       "album": {
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138450,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -17862,6 +18070,24 @@
       "duration_ms": 124750,
       "name": "Slide Musik",
       "url": "https://open.spotify.com/track/5hr71colytQOfXomHBG1Eo"
+    },
+    {
+      "album": {
+        "name": "Gangsta Boogie",
+        "url": "https://open.spotify.com/album/4v5YarN571B3a0UFhunwtL"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141034,
+      "name": "Slip & Slide",
+      "url": "https://open.spotify.com/track/4egKGPkNQKNIv5SWRsDkHW"
     },
     {
       "album": {
@@ -18506,6 +18732,24 @@
       "duration_ms": 182391,
       "name": "STAY SAFE",
       "url": "https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n"
+    },
+    {
+      "album": {
+        "name": "THE UNDISPUTED TRUTH",
+        "url": "https://open.spotify.com/album/1LRO8obtUq6M3WuNPRd7ze"
+      },
+      "artists": [
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "Stella Got Her Groove Back",
+      "url": "https://open.spotify.com/track/1nrQMPFpCTakklTWFJ5Dka"
     },
     {
       "album": {

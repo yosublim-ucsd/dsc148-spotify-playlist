@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 89335,
+  "num_followers": 89345,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
     },
     {
+      "added_at": "2023-05-19 14:21:26",
+      "album": {
+        "name": "Sad Girl Mixtape",
+        "url": "https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 213874,
+      "name": "September Rain",
+      "url": "https://open.spotify.com/track/7F1h4bQ0WZ7NSCPlfIfxLp"
+    },
+    {
       "added_at": "2022-08-16 22:06:35",
       "album": {
         "name": "die sometime, it's good for u",
@@ -823,30 +839,6 @@
       "duration_ms": 168653,
       "name": "problems",
       "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "MY BRAIN AFTER THERAPY",
-        "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Extra Large Holiday Card",
-          "url": "https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe"
-        }
-      ],
-      "duration_ms": 141352,
-      "name": "AFTER THERAPY (feat. Hot Mulligan)",
-      "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
     }
   ],
   "unique_name": "dear diary",

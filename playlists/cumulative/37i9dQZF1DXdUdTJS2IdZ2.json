@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Benjamin Kheng",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: hongjoin",
   "name": "Rising 65",
   "tracks": [
     {
@@ -3803,6 +3803,32 @@
     },
     {
       "album": {
+        "name": "53LUDOPE",
+        "url": "https://open.spotify.com/album/6ubCV8DSpZhYQKagW8kANN"
+      },
+      "artists": [
+        {
+          "name": "Akeem Jahat",
+          "url": "https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl"
+        },
+        {
+          "name": "Hullera",
+          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
+        },
+        {
+          "name": "Ryb3na",
+          "url": "https://open.spotify.com/artist/5ckHfUko5v3YU5DgbBCwj9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226540,
+      "name": "MULA DARI BAWAH KOLONG FLAT",
+      "url": "https://open.spotify.com/track/6ZrYs2rF2JP9aM0X2S0HjQ"
+    },
+    {
+      "album": {
         "name": "My Dream",
         "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
       },
@@ -4048,6 +4074,32 @@
       "duration_ms": 268190,
       "name": "Not Linear",
       "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
+    },
+    {
+      "album": {
+        "name": "NOTHING",
+        "url": "https://open.spotify.com/album/2UPvcnlxz0GPUaqajwfVIY"
+      },
+      "artists": [
+        {
+          "name": "Mark Bonafide",
+          "url": "https://open.spotify.com/artist/5H9ZgwXcTFdubyzrUcCjus"
+        },
+        {
+          "name": "Don Aaron",
+          "url": "https://open.spotify.com/artist/7yZk3ndNXj6yeOxxafjEFU"
+        },
+        {
+          "name": "St Midnight",
+          "url": "https://open.spotify.com/artist/0BNgrXB1tXFeCUgf2ZErNc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/5bORWyktNWa6ciOA7qfC7E"
     },
     {
       "album": {
@@ -5005,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/55WL3DhdAUycGh9ufcbnv5"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/6JVPcPcr4dSQWhIp9Marbb"
+    },
+    {
+      "album": {
         "name": "Separate Ways",
         "url": "https://open.spotify.com/album/3ngkRH3t74hMdz5xPTF3Rz"
       },
@@ -5078,6 +5148,28 @@
       "duration_ms": 172146,
       "name": "shared",
       "url": "https://open.spotify.com/track/5YoEvI2NvWxfrk0bTbgJLI"
+    },
+    {
+      "album": {
+        "name": "Hanyu Pinyin Mixtape",
+        "url": "https://open.spotify.com/album/0Vre1RQmYsv6wU9yras7Fl"
+      },
+      "artists": [
+        {
+          "name": "ShiGGa Shay",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        },
+        {
+          "name": "\u674e\u4f73\u9686",
+          "url": "https://open.spotify.com/artist/2QK3cWfiTfJ8mpefEGeJwm"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Shawty \u66c9\u5f97\u4e0d (feat. \u674e\u4f73\u9686 JelloRio)",
+      "url": "https://open.spotify.com/track/1pFlI8j6KaeJph5rCsxtj9"
     },
     {
       "album": {
@@ -5763,6 +5855,46 @@
     },
     {
       "album": {
+        "name": "The Pains of Being Pure at Heart (with Nosedive)",
+        "url": "https://open.spotify.com/album/4RxQqHFKSQQIO9sZ2sE6o9"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        },
+        {
+          "name": "Nosedive",
+          "url": "https://open.spotify.com/artist/6RiuHjfKaX83exKcgG4X4Y"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "The Pains of Being Pure at Heart (with Nosedive)",
+      "url": "https://open.spotify.com/track/3b47lJ9r09oOfgGHvVxyaI"
+    },
+    {
+      "album": {
+        "name": "The Sun Will Cry",
+        "url": "https://open.spotify.com/album/1gxcOXXdPP7W8vafVmJhIX"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199014,
+      "name": "The Sun Will Cry",
+      "url": "https://open.spotify.com/track/2qxVwFicRzUA71ftfrQUfY"
+    },
+    {
+      "album": {
         "name": "Push&Pull",
         "url": "https://open.spotify.com/album/0WzcMeriAjLqUAMGdT0YGH"
       },
@@ -6261,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "wait for you",
+        "url": "https://open.spotify.com/album/2TypPrprJlOqGBNROF5Drr"
+      },
+      "artists": [
+        {
+          "name": "emmarae",
+          "url": "https://open.spotify.com/artist/1eF3L2mTZO8nLUihnoA3Lb"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "wait for you",
+      "url": "https://open.spotify.com/track/4L6WxW8cyT5hYvhsi1MqJd"
+    },
+    {
+      "album": {
         "name": "RUNWAY HEARTBEATS",
         "url": "https://open.spotify.com/album/74hSmMk72AVe1Un09Giu19"
       },
@@ -6302,6 +6452,28 @@
       "duration_ms": 164383,
       "name": "wanted you",
       "url": "https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi"
+    },
+    {
+      "album": {
+        "name": "Watered Down",
+        "url": "https://open.spotify.com/album/0pnGCfRoKcVcJBup3b1NDF"
+      },
+      "artists": [
+        {
+          "name": "tomo blu",
+          "url": "https://open.spotify.com/artist/08GWtWyVzoVRGch0CLGxaV"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245863,
+      "name": "Watered Down",
+      "url": "https://open.spotify.com/track/0ZEbDoWkk7rD9tnmXw64U4"
     },
     {
       "album": {
@@ -6748,6 +6920,24 @@
       "duration_ms": 211994,
       "name": "\u4e0d\u503c\u5f97",
       "url": "https://open.spotify.com/track/4Lb8HOI2614TcSbc0Le6hv"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u80fd\u4e0d\u662f\u4f60",
+        "url": "https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6"
+      },
+      "artists": [
+        {
+          "name": "Jarrell \u9ec4\u4fca\u878d",
+          "url": "https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262083,
+      "name": "\u4e0d\u80fd\u4e0d\u662f\u4f60",
+      "url": "https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx"
     },
     {
       "album": {
@@ -7403,6 +7593,28 @@
     },
     {
       "album": {
+        "name": "\u6e23\u7537\u592a\u7d2f",
+        "url": "https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM"
+      },
+      "artists": [
+        {
+          "name": "Laurence Larson",
+          "url": "https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw"
+        },
+        {
+          "name": "Yokez",
+          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "\u6e23\u7537\u592a\u7d2f",
+      "url": "https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv"
+    },
+    {
+      "album": {
         "name": "\u7231\u60c5\u7684\u540d\u5b57",
         "url": "https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3"
       },
@@ -7614,6 +7826,24 @@
       "duration_ms": 202846,
       "name": "\u83ab\u6bd4\u4e4c\u65af",
       "url": "https://open.spotify.com/track/42MDucwZAG3OEgPoDapcXk"
+    },
+    {
+      "album": {
+        "name": "\u843d\u82b1\u5982\u96e8 (\u65b0\u4f20\u5a92\u620f\u5267\u300a\u5c0f\u5a18\u60f9\u4e4b\u7fe1\u7fe0\u5c71\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/6st8aeddyDxftxA8tWXZhc"
+      },
+      "artists": [
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "\u843d\u82b1\u5982\u96e8 (\u65b0\u4f20\u5a92\u620f\u5267\u300a\u5c0f\u5a18\u60f9\u4e4b\u7fe1\u7fe0\u5c71\u300b\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/0yej2N8lQ1HQMgzSzkRilc"
     },
     {
       "album": {

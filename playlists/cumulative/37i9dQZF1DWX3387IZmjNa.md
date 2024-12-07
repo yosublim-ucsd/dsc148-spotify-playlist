@@ -2,7 +2,7 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Hunxho
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Loe Shimmy
 
 636 songs - 1 day 8 hr 5 min
 

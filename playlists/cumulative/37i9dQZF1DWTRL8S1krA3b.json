@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-28",
-  "description": "This year's new country holiday songs! Cover: Dan + Shay",
+  "description": "This year's new country holiday songs! Cover: Megan Moroney",
   "name": "New Country Christmas",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 190766,
       "name": "'Tis The Season",
       "url": "https://open.spotify.com/track/2GYGyoycqE3cvyYep05SLn"
+    },
+    {
+      "album": {
+        "name": "26th of December",
+        "url": "https://open.spotify.com/album/3ardUtfG8umopgs0K8JS2i"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277226,
+      "name": "26th of December",
+      "url": "https://open.spotify.com/track/0FmCDqosfKRaDhwRoHsmxW"
     },
     {
       "album": {
@@ -540,6 +558,24 @@
       "duration_ms": 180126,
       "name": "Christmas By Myself",
       "url": "https://open.spotify.com/track/40UBf4GUXj80nfB91hCp5N"
+    },
+    {
+      "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/6eHrIiFD1UtMHQciiPQHs0"
+      },
+      "artists": [
+        {
+          "name": "Clayton Johnson",
+          "url": "https://open.spotify.com/artist/4cybx8xQKafXgZFGGHdJN9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/5yNS0YQCnh9fUFsyK1nczq"
     },
     {
       "album": {
@@ -1414,6 +1450,24 @@
     {
       "album": {
         "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/1DqbP2dxdlrIDG3vvzeEyR"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/62Tnt9QPOOOnQs8PhNgp4d"
+    },
+    {
+      "album": {
+        "name": "Home for Christmas",
         "url": "https://open.spotify.com/album/5RbkIPZ28JsOBwhi46Ur9g"
       },
       "artists": [
@@ -1876,6 +1930,24 @@
       "duration_ms": 201699,
       "name": "Just Takes Two (To Make It Christmas)",
       "url": "https://open.spotify.com/track/6HwrjfBjnbyfgKRDzX3jdk"
+    },
+    {
+      "album": {
+        "name": "Homesick For The Holidays",
+        "url": "https://open.spotify.com/album/579d5n23nFLVIJY5a7JP1D"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275089,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7CUcT0glaMVgtBAtUE4i1y"
     },
     {
       "album": {
@@ -2637,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Koe Wetzel Presents... Wetzel's Wonderland Chapter 2",
+        "url": "https://open.spotify.com/album/5GmCyt6pFMtFKkqHHIuYUz"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6"
+    },
+    {
+      "album": {
         "name": "Run Run Rudolph (Mason\u2019s Version)",
         "url": "https://open.spotify.com/album/6WfS0QdvRckuv4bUPRulk1"
       },
@@ -3226,6 +3316,28 @@
       "duration_ms": 207469,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2F74xhEmEJ8fEXdpVlZQph"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/273Jdhdf38P1OD4laaSpEY"
+      },
+      "artists": [
+        {
+          "name": "Sandy Kelly",
+          "url": "https://open.spotify.com/artist/1oa3oxPuZiBshVJURL6U30"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5Yz3PK6opQbQXkhu8hyaVb"
     },
     {
       "album": {

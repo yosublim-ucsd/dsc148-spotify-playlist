@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 103680,
+  "num_followers": 103686,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAACrEWSnTvhjzC8SgEZvcRO4",
+  "snapshot_id": "Z1DtAAAAAAAq3M7UkL0+/YKQCJoD2gsA",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tremendo Trio! (Remastered 2024)",
+        "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 346144,
+      "name": "Nadie Se Salva de la Rumba - Remastered 2024",
+      "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viva la Reina de la Salsa",
         "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tremendo Trio! (Remastered 2024)",
-        "url": "https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        }
-      ],
-      "duration_ms": 346144,
-      "name": "Nadie Se Salva de la Rumba - Remastered 2024",
-      "url": "https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM"
     },
     {
       "added_at": null,

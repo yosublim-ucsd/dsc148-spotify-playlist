@@ -8783,6 +8783,32 @@
     },
     {
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6wban43aPX7A26oJ4Rf4zj"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470400,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2V9xkTwbPIsQnv0bScwlt2"
+    },
+    {
+      "album": {
         "name": "M\u00e1s De Ti (En Vivo)",
         "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
       },
@@ -9256,7 +9282,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 275057,
       "name": "No Me Averg\u00fcenzo",
       "url": "https://open.spotify.com/track/3DIxROb3rax8yTeetjGxMg"

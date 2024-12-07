@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 227540,
+  "num_followers": 227596,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Few and Far Between",
         "url": "https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "I Know Why",
-      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
+      },
+      "artists": [
+        {
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "I Know Why",
+      "url": "https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/1qO1e2RuxLTOODoAofQmVK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 142586,
       "name": "For My Family",
       "url": "https://open.spotify.com/track/7Dj01umonxmUOIHKdusZi7"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "In This Defiance",
-        "url": "https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR"
-      },
-      "artists": [
-        {
-          "name": "Strife",
-          "url": "https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD"
-        }
-      ],
-      "duration_ms": 147186,
-      "name": "Blistered",
-      "url": "https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X"
     }
   ],
   "unique_name": "Classic Hardcore",

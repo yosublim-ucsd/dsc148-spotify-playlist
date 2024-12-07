@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Disney Guitar: Winter Songs",
+        "url": "https://open.spotify.com/album/5mfmSSVrt4BOZScMKLROKd"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123538,
+      "name": "Love Is an Open Door",
+      "url": "https://open.spotify.com/track/4ME94ohG4VQa2EoekCNShL"
+    },
+    {
+      "album": {
         "name": "Disney Princess Piano",
         "url": "https://open.spotify.com/album/2rMzWCO0R028IyDSr5qUHN"
       },

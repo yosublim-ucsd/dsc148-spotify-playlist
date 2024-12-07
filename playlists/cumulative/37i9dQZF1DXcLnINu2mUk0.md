@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Satiro, Deedz B
 
-668 songs - 1 day 11 hr 35 min
+669 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 | 2024-08-15 | 2024-08-22 |
 | [Ela II](https://open.spotify.com/track/3D5ulglBc566Qa1pblHWfp) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [Levi](https://open.spotify.com/artist/1a2WVG4nD7kKFtYDnBmJGO), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Ela II](https://open.spotify.com/album/7lc22nFGTXwuxafuBNhdDm) | 4:15 | 2023-11-10 | 2023-12-09 |
 | [Ela Me Xita](https://open.spotify.com/track/6ywCZJUitftSMmnOtASFvf) | [Celso Baía](https://open.spotify.com/artist/0qbwa4N5og0uYMtK3ePiMq), [Bruno Soares](https://open.spotify.com/artist/2WStXxWyKuZ9FJpTtCZYYX) | [Ela Me Xita](https://open.spotify.com/album/17zA6qrmj5RH5Ub4NRxcsV) | 4:11 | 2022-07-07 | 2022-08-05 |
-| [EMOCIONAL](https://open.spotify.com/track/6wNWDCOqV54brjtVkhhiLJ) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [IMPERFEITO V2](https://open.spotify.com/album/6NgA8Fr1W0cR14kILNOFeR) | 2:25 | 2024-11-22 |  |
+| [EMOCIONAL](https://open.spotify.com/track/6wNWDCOqV54brjtVkhhiLJ) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [IMPERFEITO V2](https://open.spotify.com/album/6NgA8Fr1W0cR14kILNOFeR) | 2:25 | 2024-11-22 | 2024-12-07 |
 | [Encandeia](https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv) | [Encandeia](https://open.spotify.com/album/07OqndgTNxflsvwnZFoPV8) | 3:46 | 2024-03-22 | 2024-04-19 |
 | [Enganada](https://open.spotify.com/track/4syj8Nofc0O0BJ1EtOKCaT) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Enganada](https://open.spotify.com/album/2S3QLFmlbKPgooo0wialtq) | 2:52 | 2022-07-07 | 2022-07-21 |
 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 | 2023-04-13 | 2023-05-12 |
@@ -483,7 +483,7 @@
 | [Por Aqui](https://open.spotify.com/track/6Pre7MaAvhrV8VgiwTX7KP) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Por Aqui](https://open.spotify.com/album/6GvAx2uva7eI6ir7KOp1CJ) | 2:19 | 2023-09-14 | 2023-12-09 |
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-07 |  |
 | [Por Ti](https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU) | [Máry M](https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns) | [Por Ti](https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi) | 2:41 | 2023-03-03 | 2023-03-31 |
-| [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 |  |
+| [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 | 2024-12-07 |
 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 | 2024-06-06 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 | 2023-11-11 |
 | [PRADA](https://open.spotify.com/track/2NlZ0iCKnLrZLxN6nTqxiI) | [Lonny B](https://open.spotify.com/artist/3xlBiTJH6m8cHyOl8gpE4m) | [PRADA](https://open.spotify.com/album/2HH3mTK5tiXuHlmwg9qtUx) | 3:29 | 2024-03-08 | 2024-03-29 |
@@ -616,7 +616,8 @@
 | [Tou Leve](https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s) | [Patrox](https://open.spotify.com/artist/4nUg6x87RtYrsbsiHOhBgy) | [Tou Leve](https://open.spotify.com/album/7ADO9SCOdrefjh2EB2f8od) | 3:02 | 2024-03-15 | 2024-04-13 |
 | [TOU NA MESMA](https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [TOU NA MESMA](https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg) | 3:25 | 2024-04-18 | 2024-05-04 |
 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 | 2022-12-23 | 2023-01-21 |
-| [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 | 2024-02-16 | 2024-10-04 |
+| [Triste \(Pensas Em Mim\)](https://open.spotify.com/track/2Ym9McKj9QGLjoe0MFaCzm) | [RAISSA](https://open.spotify.com/artist/44zte6km7DPWrgPJqOLu0m) | [Triste \(Pensas Em Mim\)](https://open.spotify.com/album/4NWM9iVA8OfQd9WI6oR0DK) | 3:18 | 2024-12-06 |  |
+| [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 | 2024-02-16 |  |
 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 | 2022-07-07 |  |
 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 | 2023-04-13 | 2023-06-30 |
 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 | 2023-09-28 | 2024-02-02 |

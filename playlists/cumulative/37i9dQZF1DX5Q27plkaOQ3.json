@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a>. Cover: INFEKT",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Stoned Level & MUERTE",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 173333,
       "name": "Aint No Thang",
       "url": "https://open.spotify.com/track/2Dcv2l9LuvSHiptPLvnKlL"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Ape Shit",
       "url": "https://open.spotify.com/track/18iIaFPwTlRhDWTcCWpwel"
@@ -1029,6 +1029,32 @@
     },
     {
       "album": {
+        "name": "Back to Back (THRASHA Remix)",
+        "url": "https://open.spotify.com/album/72C5k52QVaPsLgw4qJAueR"
+      },
+      "artists": [
+        {
+          "name": "Ecraze",
+          "url": "https://open.spotify.com/artist/2DyMQQF5Qlbxr9VSbr3lXt"
+        },
+        {
+          "name": "DYNO",
+          "url": "https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq"
+        },
+        {
+          "name": "THRASHA",
+          "url": "https://open.spotify.com/artist/2qodVnM1uDBBaheASg67jc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Back to Back - THRASHA Remix",
+      "url": "https://open.spotify.com/track/79RNBMHAPJPDJyY5pZQ964"
+    },
+    {
+      "album": {
         "name": "Backbreaker",
         "url": "https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh"
       },
@@ -1140,6 +1166,24 @@
       "duration_ms": 273333,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    {
+      "album": {
+        "name": "Badman Sound / Badman Sound VIP",
+        "url": "https://open.spotify.com/album/26yh9Ff05IdzIFHJ3I5LZQ"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Badman Sound - VIP",
+      "url": "https://open.spotify.com/track/7ljcfgmhZ9OqkB9j2hamjs"
     },
     {
       "album": {
@@ -1550,7 +1594,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176145,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/37soHIEtd2aminmS9w6CcF"
@@ -1960,6 +2004,28 @@
       "duration_ms": 210857,
       "name": "Brace For Impact",
       "url": "https://open.spotify.com/track/0JbcUVu5mlSJBkRLuVPYW2"
+    },
+    {
+      "album": {
+        "name": "Brain Busta",
+        "url": "https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Brain Busta",
+      "url": "https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK"
     },
     {
       "album": {
@@ -2426,7 +2492,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Caffeine Induced Psychosis",
       "url": "https://open.spotify.com/track/0zQxgmvnWOFOgWVyt3OOoh"
@@ -2612,7 +2678,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 205241,
       "name": "Catch a Case",
       "url": "https://open.spotify.com/track/5yavMLBj32GENOlqNvJGgy"
@@ -3662,7 +3728,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 216998,
       "name": "Death Wish (with Micah Martin)",
       "url": "https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h"
@@ -3960,7 +4026,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 235099,
       "name": "Desperate",
       "url": "https://open.spotify.com/track/4DJSjJkCIwAaMuvQKp6KJV"
@@ -4018,6 +4084,24 @@
       "duration_ms": 162455,
       "name": "Destruction",
       "url": "https://open.spotify.com/track/3Ru4nrWZo8oGS1f2wvWw1U"
+    },
+    {
+      "album": {
+        "name": "DEVIL",
+        "url": "https://open.spotify.com/album/0bavsd0o722pLRNEwd47v0"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/3ZotZNd6EIjff0TvXR1J2P"
     },
     {
       "album": {
@@ -4142,7 +4226,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 164714,
       "name": "Dinosaurs From Outer Space",
       "url": "https://open.spotify.com/track/2WiYG2Dgfqft21PBbF4Lxm"
@@ -4422,7 +4506,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
@@ -4680,7 +4764,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 149000,
       "name": "Drop It Low",
       "url": "https://open.spotify.com/track/3sxdOhtGBk3IJdn4rh9HqL"
@@ -4706,7 +4790,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 242823,
       "name": "Drop That",
       "url": "https://open.spotify.com/track/62Oto2BhdCETRMbzQLc3hD"
@@ -4884,7 +4968,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 216000,
       "name": "EAT SLEEP RAGE",
       "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
@@ -5672,7 +5756,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 181846,
       "name": "FEEL THIS",
       "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
@@ -6138,7 +6222,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185357,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/2tSi83cOo4S6XRuAhoNSMK"
@@ -6480,7 +6564,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 254488,
       "name": "Ganja Tape",
       "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
@@ -6760,7 +6844,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147310,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6"
@@ -6918,7 +7002,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Gutter",
       "url": "https://open.spotify.com/track/0MwLwN2dFTMOZUZ0msjXOv"
@@ -7038,7 +7122,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 193718,
       "name": "Hammer Time",
       "url": "https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE"
@@ -7240,7 +7324,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 260000,
       "name": "Heavy Bass Design Vol. 3 - Sample Pack Demo",
       "url": "https://open.spotify.com/track/1oYuQU9DXJ8ucOdmfBzzMF"
@@ -7530,6 +7614,24 @@
       "duration_ms": 321480,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
+    },
+    {
+      "album": {
+        "name": "Distortion Theory",
+        "url": "https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208035,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H"
     },
     {
       "album": {
@@ -8536,7 +8638,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 250825,
       "name": "J\u014dnin",
       "url": "https://open.spotify.com/track/0BpXVRjOn4F33ivyqkw9bf"
@@ -8956,7 +9058,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 150857,
       "name": "LET ME GO",
       "url": "https://open.spotify.com/track/4aUnltWb3sOlx6ME7R9AOQ"
@@ -9266,6 +9368,28 @@
       "duration_ms": 214795,
       "name": "LOST IN YOU",
       "url": "https://open.spotify.com/track/4TMtydweRFufJuukwDH48j"
+    },
+    {
+      "album": {
+        "name": "LOUD PACK",
+        "url": "https://open.spotify.com/album/5gUUKOr7E26tC0mEjIGwm3"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "LOUD PACK",
+      "url": "https://open.spotify.com/track/1aSM6LyVWAg1OQxguwfkiN"
     },
     {
       "album": {
@@ -9624,7 +9748,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 218400,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1YV5MOe4jrcwMOrKhxd8vH"
@@ -10158,6 +10282,24 @@
       "duration_ms": 228800,
       "name": "Name Drop",
       "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
+    },
+    {
+      "album": {
+        "name": "NU-TYPE vol. 1",
+        "url": "https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "NANOBLADE",
+      "url": "https://open.spotify.com/track/0jLBkTFgx4zzXFIprJhto1"
     },
     {
       "album": {
@@ -11676,7 +11818,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 199800,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/20LiZB9uHLbrs54tpad3qO"
@@ -12118,7 +12260,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 148000,
       "name": "Pushing On",
       "url": "https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp"
@@ -12977,6 +13119,24 @@
     },
     {
       "album": {
+        "name": "ROGUE",
+        "url": "https://open.spotify.com/album/0FTslpahKWwG9xYC2bR0N8"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "ROGUE",
+      "url": "https://open.spotify.com/track/5mKxRmYRDvCFeTtfcS3Syc"
+    },
+    {
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/1EDg0tuikwPpOpIfqOTWDc"
       },
@@ -13494,7 +13654,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 218482,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/62aa8Kzjpu51dmKCJiwP8I"
@@ -14082,7 +14242,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 188667,
       "name": "Slaughter",
       "url": "https://open.spotify.com/track/3vQnA7IY2a12sXXJKuCZu2"
@@ -15724,7 +15884,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 241600,
       "name": "The Death of Peace of Mind",
       "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
@@ -16174,7 +16334,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 296571,
       "name": "Third Eye Vision",
       "url": "https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb"
@@ -17249,6 +17409,24 @@
     },
     {
       "album": {
+        "name": "Warrior EP",
+        "url": "https://open.spotify.com/album/5I7NpgaLW9WcgvUUvZeQSf"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/5uHPyFEWZOFGFY7EMvhFxc"
+    },
+    {
+      "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/2frjhKXWiR4CVeowMBHCF5"
       },
@@ -17326,7 +17504,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 254487,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/7hVpOq9UfCGz1dMw2BnVqX"
@@ -17374,7 +17552,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
@@ -17518,7 +17696,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-05",
+      "date_removed": null,
       "duration_ms": 188689,
       "name": "Whoa Fire!",
       "url": "https://open.spotify.com/track/1m3PihD00HUc3eNeabNCEg"

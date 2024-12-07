@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 559078,
+  "num_followers": 559158,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
-        }
-      ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Drivin Me Insane",
         "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 195724,
       "name": "Drivin Me Insane",
       "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Opera Haus",
-        "url": "https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts"
-      },
-      "artists": [
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Opera Haus",
-      "url": "https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 349014,
       "name": "Flame",
       "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Opera Haus",
+        "url": "https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts"
+      },
+      "artists": [
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Opera Haus",
+      "url": "https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Key To Happiness",
-        "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
-      },
-      "artists": [
-        {
-          "name": "Blastoyz",
-          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
-        },
-        {
-          "name": "All In One",
-          "url": "https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx"
-        },
-        {
-          "name": "Dantra",
-          "url": "https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG"
-        }
-      ],
-      "duration_ms": 355862,
-      "name": "Key To Happiness",
-      "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "I Want Your Soul",
         "url": "https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 401167,
       "name": "Boss La Rosh",
       "url": "https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Key To Happiness",
+        "url": "https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw"
+      },
+      "artists": [
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "All In One",
+          "url": "https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx"
+        },
+        {
+          "name": "Dantra",
+          "url": "https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG"
+        }
+      ],
+      "duration_ms": 355862,
+      "name": "Key To Happiness",
+      "url": "https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Antiwar (Noface Remix)",
         "url": "https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 496551,
       "name": "Antiwar - NoFace Remix",
       "url": "https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
+      },
+      "artists": [
+        {
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 149617,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
-      },
-      "artists": [
-        {
-          "name": "Synthatic",
-          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1563,26 +1563,26 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Lights On",
-        "url": "https://open.spotify.com/album/1LEo1BgOu006DGD7bXW6gx"
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/3DhPzL19TNQPuwdDeodmbB"
       },
       "artists": [
         {
-          "name": "Suicide Toast",
-          "url": "https://open.spotify.com/artist/28BYI4pXNMVIoBc5oNnQV7"
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
         },
         {
-          "name": "Mausio",
-          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+          "name": "Joicey",
+          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
         },
         {
-          "name": "Dodobeatz",
-          "url": "https://open.spotify.com/artist/52dpNnsxLJ9ldbf0cWWbx6"
+          "name": "Lil Umali",
+          "url": "https://open.spotify.com/artist/4j2Vv9jy5vVGyO18W42lmQ"
         }
       ],
-      "duration_ms": 181276,
-      "name": "Lights On",
-      "url": "https://open.spotify.com/track/39FiLxdIcBO5oZaH87Rax7"
+      "duration_ms": 275142,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/39hp7lSe0QPktFxKkWBI2B"
     }
   ],
   "unique_name": "Psytrance Supernova",

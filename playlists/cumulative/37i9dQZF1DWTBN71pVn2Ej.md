@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Present \(pictured\), Split Chain, Footballhead, Ivory Daze and more.
+> The shape of noise to come with AIRTIGHT \(pictured\), Split Chain, Footballhead, Ivory Daze and more.
 
-748 songs - 1 day 18 hr 42 min
+751 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Cottonmouth](https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 3:58 | 2022-09-30 | 2023-02-10 |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 | 2024-12-04 |
-| [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-10-14 |  |
+| [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-10-14 | 2024-12-07 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-10 | 2023-05-04 |
 | [Creature](https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Creature](https://open.spotify.com/album/2mQj1BmUj9HVQwDlEUTXWe) | 3:23 | 2023-05-12 | 2024-02-10 |
 | [Crosshairs](https://open.spotify.com/track/2qp36gR2mPAssQ2dKHdzO2) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Crosshairs](https://open.spotify.com/album/6ODSZq6jJ3oNoTJfuiPFAi) | 2:58 | 2022-11-04 | 2023-04-01 |
@@ -252,6 +252,7 @@
 | [Feel Good](https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7) | [Nature Trip](https://open.spotify.com/artist/6pgJjdomiwN8ryoe9Ukqgg) | [Feel Good](https://open.spotify.com/album/14lddxFbU85X0qQCReRlW5) | 3:42 | 2023-08-31 | 2023-11-11 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2021-12-16 | 2022-03-04 |
 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 | 2022-10-28 | 2023-01-28 |
+| [First Dream](https://open.spotify.com/track/629n7q18V9TA28T9BbgB9c) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [End of the Nail](https://open.spotify.com/album/2jI5obOMH5PFlFPbN2AE5u) | 4:06 | 2024-12-06 |  |
 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 | 2023-03-24 | 2024-03-02 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-07 | 2023-04-22 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/3jm9aU4VMaweWv0Z8qigRO) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Flowers for Handcuffs](https://open.spotify.com/album/7EAnHOl4iSzdrU9CJ7sW4n) | 2:53 | 2023-03-17 | 2023-04-09 |
@@ -288,6 +289,7 @@
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2022-11-18 | 2022-12-16 |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
 | [Godzilla](https://open.spotify.com/track/6X3XvthYOhT8SHIJpY7sKw) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [Godzilla](https://open.spotify.com/album/0xodabdosMvBKkBtTLfmuK) | 3:52 | 2022-09-22 | 2023-02-22 |
+| [Gone](https://open.spotify.com/track/6hYcT2ckTNAOe0FIxyI8IC) | [Deer Fang](https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV) | [Gone](https://open.spotify.com/album/3AcmkbkqRahgdNTW7ktlpj) | 3:31 | 2024-12-06 |  |
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-22 | 2023-10-28 |
 | [Goodbye](https://open.spotify.com/track/4vSnZR2POAHKIbE7B362Wd) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH \(Deluxe Edition\)](https://open.spotify.com/album/4JbHzfL3iwGrbYVOClW0n9) | 4:20 | 2022-12-09 | 2023-03-03 |
 | [Got It Made](https://open.spotify.com/track/3W6bXivdg6fd9ikAgf2OhV) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Wasteland](https://open.spotify.com/album/07mZ6oncw878QflCLVHf9I) | 3:33 | 2024-08-02 | 2024-10-26 |
@@ -313,6 +315,7 @@
 | [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 | 2024-08-23 | 2024-10-05 |
 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 | 2023-08-26 |
 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 | 2024-06-14 | 2024-09-21 |
+| [Head & Spine](https://open.spotify.com/track/1k9Eb95llEWewWSLjqwYsD) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Head & Spine](https://open.spotify.com/album/6WSv8U4e0iDs0vJOYobqb8) | 3:08 | 2024-12-06 |  |
 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-03-24 | 2023-06-10 |
 | [Headrush](https://open.spotify.com/track/2Zh1j3SxCa96zs35uyYbHd) | [Daze](https://open.spotify.com/artist/570hYppifPXSy1q9odRQwy) | [Headrush](https://open.spotify.com/album/1DCfcotrOWKjPt9XWM1CgN) | 3:20 | 2024-06-07 | 2024-07-16 |
 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 | 2023-12-14 | 2024-01-13 |
@@ -435,7 +438,7 @@
 | [Melatonin \(10mg\)](https://open.spotify.com/track/3i9jPeo5xnb1dvcPFcSteS) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Melatonin \(10mg\)](https://open.spotify.com/album/6YhWzBCmPGwn9Wg9yyJS2y) | 1:59 | 2024-07-08 | 2024-11-05 |
 | [Merchant](https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo) | [Gloam](https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah) | [Gloam](https://open.spotify.com/album/05Zv2lf7NeOMVVM2GKzkQn) | 4:57 | 2023-07-06 | 2024-03-16 |
 | [Message Like a Bomb](https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX) | [Message Like a Bomb](https://open.spotify.com/album/0mRYDMAOJtEGtAkeU7ScNb) | 3:15 | 2023-07-28 | 2023-10-14 |
-| [Messy Star](https://open.spotify.com/track/66fOyR2G0kf8hH9NMTbIBQ) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Messy Star](https://open.spotify.com/album/5Nvg3nWTsNopeBLNSI2t6m) | 3:21 | 2024-09-13 |  |
+| [Messy Star](https://open.spotify.com/track/66fOyR2G0kf8hH9NMTbIBQ) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Messy Star](https://open.spotify.com/album/5Nvg3nWTsNopeBLNSI2t6m) | 3:21 | 2024-09-13 | 2024-12-07 |
 | [Metamorphosis](https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Metamorphosis](https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE) | 3:23 | 2024-06-21 | 2024-08-17 |
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-09 | 2023-05-20 |
 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 | 2022-05-12 | 2022-09-07 |
@@ -720,7 +723,7 @@
 | [Wall of Silence](https://open.spotify.com/track/2WwLEcSoYJjhTTS7eqUb08) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Wall of Silence](https://open.spotify.com/album/4UBTTNZuO58gEW8EQvrM18) | 3:14 | 2021-12-16 | 2022-03-22 |
 | [Walls](https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Walls](https://open.spotify.com/album/5O4Lzcjk9GDqMm59roa3x7) | 3:04 | 2021-12-16 | 2022-04-01 |
 | [Waltzer](https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Waltzer](https://open.spotify.com/album/5egh75SfDBdTyu1OIfzhF8) | 3:59 | 2022-09-06 | 2022-12-03 |
-| [WANTED2TRY](https://open.spotify.com/track/0wlYzdGwdh9DraRmZHIu75) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [SUNKEN SKIN](https://open.spotify.com/album/4PVDwNZlTOHqwmY1cqjx2B) | 2:29 | 2024-10-21 |  |
+| [WANTED2TRY](https://open.spotify.com/track/0wlYzdGwdh9DraRmZHIu75) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [SUNKEN SKIN](https://open.spotify.com/album/4PVDwNZlTOHqwmY1cqjx2B) | 2:29 | 2024-10-21 | 2024-12-07 |
 | [WANTED2TRY](https://open.spotify.com/track/3PkZUROe0fvRdwIPggdgEu) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [WANTED2TRY](https://open.spotify.com/album/4BnfYUTEvlRSWYJFY9JoUW) | 2:29 | 2024-04-19 | 2024-06-01 |
 | [War](https://open.spotify.com/track/5Z4ZQwGzEU30zc4uu6sFeL) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [War](https://open.spotify.com/album/4sQ5Crc6JhRAIGsBUFVu1p) | 2:58 | 2023-08-21 | 2023-11-11 |
 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 | 2022-09-06 | 2022-10-01 |

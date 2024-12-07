@@ -21825,6 +21825,24 @@
     },
     {
       "album": {
+        "name": "Returning Home",
+        "url": "https://open.spotify.com/album/273naH3CicGBwVjxxKO8lP"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187041,
+      "name": "Returning Home",
+      "url": "https://open.spotify.com/track/5KVFLNcGq5JH0TPfRLLmZZ"
+    },
+    {
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
       },
@@ -24502,6 +24520,24 @@
       "duration_ms": 155226,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/2CAazxXgxJXG4hfC8ucXs3"
+    },
+    {
+      "album": {
+        "name": "Sophora",
+        "url": "https://open.spotify.com/album/2yq6056SXyDdp3ZaZeAIax"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149898,
+      "name": "Sophora",
+      "url": "https://open.spotify.com/track/0EzjOg5zbh96I89QBobXCE"
     },
     {
       "album": {
@@ -28956,7 +28992,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
@@ -29064,7 +29100,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 124658,
       "name": "Velvet Head",
       "url": "https://open.spotify.com/track/3qOUT5Azls5nmfgjE4aBHz"
@@ -30612,7 +30648,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 122022,
       "name": "Winter Warmth",
       "url": "https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR"

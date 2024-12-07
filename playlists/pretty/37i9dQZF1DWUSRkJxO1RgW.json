@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 294130,
+  "num_followers": 294155,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Himno De Mi Corazon",
-        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 304746,
-      "name": "Himno De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Ciudad De Pobres Corazones",
         "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 328800,
       "name": "Ciudad De Pobres Corazones",
       "url": "https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Himno De Mi Corazon",
+        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 304746,
+      "name": "Himno De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2kIhana7Cw57qXztsUb7NN"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Don Cornelio y La Zona",
-        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
+        "name": "20 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
       },
       "artists": [
         {
-          "name": "Don Cornelio Y La Zona",
-          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
+          "name": "Roque Narvaja (F)",
+          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Ella Vendr\u00e1 - Remastered",
-      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+      "duration_ms": 258146,
+      "name": "Menta y lim\u00f3n",
+      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "20 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
+        "name": "Don Cornelio y La Zona",
+        "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
       "artists": [
         {
-          "name": "Roque Narvaja (F)",
-          "url": "https://open.spotify.com/artist/3zDNMwCfVORx1xwo6DGBlp"
+          "name": "Don Cornelio Y La Zona",
+          "url": "https://open.spotify.com/artist/1wELOF6Lb5TckxS5EiiQZe"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Menta y lim\u00f3n",
-      "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+      "duration_ms": 251173,
+      "name": "Ella Vendr\u00e1 - Remastered",
+      "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
     },
     {
       "added_at": "2024-06-12 23:29:42",

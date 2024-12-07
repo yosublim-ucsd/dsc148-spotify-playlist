@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,978 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,987 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 25 | [Québec Blues](https://open.spotify.com/track/4Vg1Z2UnNbdtdw90HTYU8h) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Qu'est\-ce qu'on dit ?!](https://open.spotify.com/album/1ln0oXM1LM545l3fC5xG6j) | 2:38 |
 | 26 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 |
 | 27 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
-| 28 | [Encore](https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Encore](https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u) | 3:46 |
+| 28 | [Encore](https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Encore](https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u) | 3:43 |
 | 29 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 |
 | 30 | [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 |
 | 31 | [Gagner ma cause](https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy) | [Clément Jacques](https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM) | [Gagner ma cause](https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj) | 2:46 |

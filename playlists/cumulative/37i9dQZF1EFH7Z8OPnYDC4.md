@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-335 songs - 19 hr 39 min
+336 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [My Heart Stood Still](https://open.spotify.com/track/6ZYmUVMVi9PMSmyTrKv7gV) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 3:26 | 2024-07-26 |  |
 | [My Lord And Master](https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:11 | 2024-07-26 |  |
 | [My Man Is On The Make \- Harpies In Sheep's Clothing](https://open.spotify.com/track/1a2NHVSL4sp4nJcnFMbEyH) | [Ben Selvin & His Orchestra](https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6) | [Women With Attitude](https://open.spotify.com/album/4P91Hu1uk3OzKeRrD7bXd5) | 2:32 | 2024-07-26 |  |
+| [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 | 2024-12-06 |  |
 | [My Romance](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2024-07-26 |  |
 | [No More Waiting](https://open.spotify.com/track/1pUgkSBwZTRMIOLe6RqK0U) | [Inga Swenson](https://open.spotify.com/artist/7EqGzM2cJA1e2tZhH7lsY5), [John Cullum](https://open.spotify.com/artist/1odplm0E6R5DQDgfdPqfL5) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 4:51 | 2024-07-26 |  |
 | [No Place but Home](https://open.spotify.com/track/0LoFIYFIUq1O69LF12YJPQ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Celebrates Rodgers & Hart](https://open.spotify.com/album/08pUGyS4rVWwbskaXdANx8) | 3:29 | 2024-07-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Rish NK
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,931 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,317 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 2 | [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 |
 | 3 | [SAMBAR](https://open.spotify.com/track/4fGVuqgcERFN92zNeUbvAp) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [SAMBAR](https://open.spotify.com/album/2hmXetO6cB2A8UtYctz1ul) | 3:44 |
 | 4 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 |
-| 5 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 |
+| 5 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 |
 | 6 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 |
 | 7 | [Ballaatha Jaathi](https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW) | 3:50 |
 | 8 | [SAVUSAI](https://open.spotify.com/track/2vJ3ADBUlFDbdCd1H25PFI) | [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [SAVUSAI](https://open.spotify.com/album/78tCWLcTUSpSjCo15K2r2G) | 2:40 |

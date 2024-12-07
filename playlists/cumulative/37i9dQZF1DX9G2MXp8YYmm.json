@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Synth City",
+        "url": "https://open.spotify.com/album/60jlFQE1KtA3e3WU09ustD"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fu Swag",
+          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140267,
+      "name": "Kopmuyorum Senden",
+      "url": "https://open.spotify.com/track/2y6Lti0dDLXPtaQCnGnsFK"
+    },
+    {
+      "album": {
         "name": "K\u00d6RK\u00dcT\u00dcK",
         "url": "https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E"
       },
@@ -2146,7 +2164,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176863,
       "name": "Olmaz Senden",
       "url": "https://open.spotify.com/track/3uhGsSTBXOncVptR9nEOvJ"

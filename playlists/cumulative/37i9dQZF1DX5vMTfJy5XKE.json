@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Ed Sheeran",
+  "description": "'Tis the season! All new holiday releases. Cover: Kesha",
   "name": "New Music Holiday",
   "tracks": [
     {
@@ -930,6 +930,24 @@
       "duration_ms": 196222,
       "name": "Another Christmas",
       "url": "https://open.spotify.com/track/1Og6LRjGIWWb3kQIT7POsI"
+    },
+    {
+      "album": {
+        "name": "Another Christmas Missing You",
+        "url": "https://open.spotify.com/album/5YX91o3heoyxCAMXJjfctn"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Another Christmas Missing You",
+      "url": "https://open.spotify.com/track/6AVP5Mpylgt73BShQ32ziZ"
     },
     {
       "album": {
@@ -3419,6 +3437,46 @@
     },
     {
       "album": {
+        "name": "Santa Don't Let Him",
+        "url": "https://open.spotify.com/album/6NcDxpf3TSrcSkTSldvgTD"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181248,
+      "name": "Christmas'n With Me",
+      "url": "https://open.spotify.com/track/13oGzUftY5owUkes5sW1b8"
+    },
+    {
+      "album": {
+        "name": "Christmastime Is Finally Here",
+        "url": "https://open.spotify.com/album/3jCJq21fBnhPscuMcEr9No"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235496,
+      "name": "Christmastime Is Finally Here",
+      "url": "https://open.spotify.com/track/2kRBUCUida9agDIMOgRRyW"
+    },
+    {
+      "album": {
         "name": "Closer To Christmas",
         "url": "https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv"
       },
@@ -3719,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "\u00c4 Suburban Christmas",
+        "url": "https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144250,
+      "name": "December 24",
+      "url": "https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT"
+    },
+    {
+      "album": {
         "name": "December 25th",
         "url": "https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6"
       },
@@ -3966,6 +4042,28 @@
       "duration_ms": 192245,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+    },
+    {
+      "album": {
+        "name": "Do You Hear What I Hear?",
+        "url": "https://open.spotify.com/album/3X0LDbJES3VNrZBWw47p8Z"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/0nxApG0gArzMjH6pAH9N5Y"
     },
     {
       "album": {
@@ -4550,6 +4648,24 @@
       "duration_ms": 122320,
       "name": "Feliz Navidad (with The Simpsons)",
       "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
+    },
+    {
+      "album": {
+        "name": "Filthy Richmas",
+        "url": "https://open.spotify.com/album/2UMstdR09qKI8u24HPqEIg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Filthy Richmas",
+      "url": "https://open.spotify.com/track/6qibTIUB2HSzCgSq0WvUac"
     },
     {
       "album": {
@@ -6089,6 +6205,32 @@
     },
     {
       "album": {
+        "name": "Holiday Seasoning (Deluxe)",
+        "url": "https://open.spotify.com/album/4n9CrSpZoazxPO2OnGyvib"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183695,
+      "name": "Holiday (with Jonas Brothers & LL COOL J)",
+      "url": "https://open.spotify.com/track/3mIFf7GhQcHH7EB3myFwvd"
+    },
+    {
+      "album": {
         "name": "Holiday Seasoning",
         "url": "https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy"
       },
@@ -6104,7 +6246,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 183695,
       "name": "Holiday (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/5tsAOJprlHSVMhuw2bCnqS"
@@ -7965,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "Joy To The World (Spanglish Version)",
+        "url": "https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146841,
+      "name": "Joy To The World - Spanglish Version",
+      "url": "https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf"
+    },
+    {
+      "album": {
         "name": "Joy To The World - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv"
       },
@@ -9561,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "MERRY NOTHIN",
+        "url": "https://open.spotify.com/album/4Pe2r1TRzCXb1G25mLH9qX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "MERRY NOTHIN",
+      "url": "https://open.spotify.com/track/1FygQV7J1qMznsbBDxiyP2"
+    },
+    {
+      "album": {
         "name": "XMAS 01",
         "url": "https://open.spotify.com/album/3StuIrKZYryr4ZICoWRqqc"
       },
@@ -9692,6 +9870,24 @@
       "duration_ms": 179826,
       "name": "Miss You At Christmas",
       "url": "https://open.spotify.com/track/4scGEPn9eR5VrjWOglAOLl"
+    },
+    {
+      "album": {
+        "name": "Miss You Most (At Christmas Time)",
+        "url": "https://open.spotify.com/album/2RbtxIz5Ile8cN7upjTbOh"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Divas de Cindy Shea",
+          "url": "https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258383,
+      "name": "Miss You Most (At Christmas Time)",
+      "url": "https://open.spotify.com/track/4NH8tphmfPIzGoxTOasPM0"
     },
     {
       "album": {
@@ -12269,6 +12465,24 @@
     },
     {
       "album": {
+        "name": "snow globe on an alien's desk",
+        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "snow globe on an alien's desk",
+      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
+    },
+    {
+      "album": {
         "name": "Snow in LA",
         "url": "https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5"
       },
@@ -12596,6 +12810,24 @@
       "duration_ms": 249520,
       "name": "That's What I Want for Christmas",
       "url": "https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx"
+    },
+    {
+      "album": {
+        "name": "The 25th / It Ain't Christmas",
+        "url": "https://open.spotify.com/album/7aePbtnhQT0Bl8YBKtWkPU"
+      },
+      "artists": [
+        {
+          "name": "Grace Davies",
+          "url": "https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196877,
+      "name": "The 25th",
+      "url": "https://open.spotify.com/track/4BWv5uDxlBwtxIbEChGAto"
     },
     {
       "album": {
@@ -14627,6 +14859,28 @@
     },
     {
       "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
+    },
+    {
+      "album": {
         "name": "Who's Gonna Hear Their Wish?",
         "url": "https://open.spotify.com/album/0NzKtF2UU3ZKSKVjo2BBIN"
       },
@@ -14700,6 +14954,28 @@
       "duration_ms": 180573,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
+    },
+    {
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/3hvIyMMzOl7NKrkgARo0lo"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        },
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6dLmrgErJkvh6XAUGXQzHk"
     },
     {
       "album": {
@@ -15239,6 +15515,24 @@
     },
     {
       "album": {
+        "name": "Xmas",
+        "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "Xmas",
+      "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"
+    },
+    {
+      "album": {
         "name": "Y.O.U.",
         "url": "https://open.spotify.com/album/46VPqFxTaK23d612rJ0pyA"
       },
@@ -15380,7 +15674,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 201053,
       "name": "You\u2019ll Be There (with Justin Timberlake)",
       "url": "https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW"

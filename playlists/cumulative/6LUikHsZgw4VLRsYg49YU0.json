@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "\u300c\u30c0\u30f3\u30c0\u30c0\u30f3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53"
+      },
+      "artists": [
+        {
+          "name": "Kensuke Ushio",
+          "url": "https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213720,
+      "name": "seiko",
+      "url": "https://open.spotify.com/track/4PRuNmpzFsulsyaIOPw3wE"
+    },
+    {
+      "album": {
         "name": "Shouted Serenade",
         "url": "https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB"
       },

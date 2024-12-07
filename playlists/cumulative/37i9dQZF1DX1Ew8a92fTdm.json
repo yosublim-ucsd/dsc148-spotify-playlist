@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Cherish and Love",
+        "url": "https://open.spotify.com/album/7lf5vd2khkgKSJgKlgB9aU"
+      },
+      "artists": [
+        {
+          "name": "Joy Garden",
+          "url": "https://open.spotify.com/artist/5QqUHhXF2a6Axz340GBIbR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122233,
+      "name": "Cherish and Love",
+      "url": "https://open.spotify.com/track/1lZ6WTatHRc78EUDkgPY5c"
+    },
+    {
+      "album": {
         "name": "Cielito Lindo",
         "url": "https://open.spotify.com/album/5F7kxYBfQJqQAjmDLMVwmn"
       },
@@ -3641,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Rock-A-Bye Baby",
+        "url": "https://open.spotify.com/album/3Kr9mjpBixPEPz7mJzwNBt"
+      },
+      "artists": [
+        {
+          "name": "Mischa Frey",
+          "url": "https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111782,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/4BRnj7nwYAkD2jx3lupmNK"
+    },
+    {
+      "album": {
         "name": "Rocked To Sleep",
         "url": "https://open.spotify.com/album/70eO9VJajBOY9szfxrRpNw"
       },
@@ -4462,7 +4498,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 78750,
       "name": "Teddy Toddler",
       "url": "https://open.spotify.com/track/5n2NlCI1zRcvPHTmiKSgds"

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6577,
+  "num_followers": 6580,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -627,38 +627,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Dix mille matins",
-        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
-      },
-      "artists": [
-        {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
-        }
-      ],
-      "duration_ms": 296026,
-      "name": "La d\u00e9sise",
-      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "le nord",
-        "url": "https://open.spotify.com/album/30DZk7D0TRMIzQwnqY4pnD"
-      },
-      "artists": [
-        {
-          "name": "NAYRA",
-          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "le nord",
-      "url": "https://open.spotify.com/track/16toumA1T6rm3E568YM0Jx"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "QUI A VOL\u00c9 LE SOLEIL ?",
         "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
       },
@@ -679,6 +647,38 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "le nord",
+        "url": "https://open.spotify.com/album/30DZk7D0TRMIzQwnqY4pnD"
+      },
+      "artists": [
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "le nord",
+      "url": "https://open.spotify.com/track/16toumA1T6rm3E568YM0Jx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Dix mille matins",
+        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
+      },
+      "artists": [
+        {
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+        }
+      ],
+      "duration_ms": 296026,
+      "name": "La d\u00e9sise",
+      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "MAELSTR\u00d6M",
         "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 108948,
       "name": "TRISTE & C\u00c9L\u00c8BRE",
       "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Ton ami",
+        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Ton ami",
+      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -727,26 +747,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Ton ami",
-        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Ton ami",
-      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Grafignes",
         "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 190906,
       "name": "D\u00e9potoir",
       "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Jaune (Version originale remasteris\u00e9e)",
-        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Ferland",
-          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Le petit roi",
-      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -795,6 +779,22 @@
       "duration_ms": 150160,
       "name": "OH LAla!!",
       "url": "https://open.spotify.com/track/4v07LupvD9RJHUAWFCSME2"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jaune (Version originale remasteris\u00e9e)",
+        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Le petit roi",
+      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "La nuit s'ach\u00e8ve",
         "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 190506,
       "name": "Onze",
       "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Les cent prochaines ann\u00e9es",
-        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
-      },
-      "artists": [
-        {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Les cent prochaines ann\u00e9es",
-      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Les cent prochaines ann\u00e9es",
+        "url": "https://open.spotify.com/album/5JBSwebRBEegZYRIN2CW0b"
+      },
+      "artists": [
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Les cent prochaines ann\u00e9es",
+      "url": "https://open.spotify.com/track/0nzQAppzk0Xe8lTVCrBuky"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Anyway, Mommy Love",
         "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 191603,
       "name": "Anyway, Mommy Love",
       "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Etienne Dufresne fait des efforts",
+        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "J'fais des efforts",
+      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Etienne Dufresne fait des efforts",
-        "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "J'fais des efforts",
-      "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -1295,6 +1295,22 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Comme Avant",
+        "url": "https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 146752,
+      "name": "Comme Avant",
+      "url": "https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1315,22 +1331,6 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Comme Avant",
-        "url": "https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 146752,
-      "name": "Comme Avant",
-      "url": "https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "D\u00e9sol\u00e9 mouvement geste",
-        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
-      },
-      "artists": [
-        {
-          "name": "Navet Confit",
-          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
-        },
-        {
-          "name": "Douance",
-          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Il a plu il a neig\u00e9",
-      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 223454,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "D\u00e9sol\u00e9 mouvement geste",
+        "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
+      },
+      "artists": [
+        {
+          "name": "Navet Confit",
+          "url": "https://open.spotify.com/artist/6aZpCVbPUYikMx9HJV897D"
+        },
+        {
+          "name": "Douance",
+          "url": "https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Il a plu il a neig\u00e9",
+      "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
     },
     {
       "added_at": "2024-06-19 20:38:05",

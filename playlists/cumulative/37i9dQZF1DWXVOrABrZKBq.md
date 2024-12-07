@@ -4,10 +4,11 @@
 
 > Le rap francophone est en forme\. Photo: Gazo
 
-213 songs - 10 hr 59 min
+214 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [02:00](https://open.spotify.com/track/62L3acprR92NoRib0zWigG) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 3:17 | 2024-12-06 |  |
 | [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2024-01-05 | 2024-11-30 |
 | [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 | 2023-12-08 | 2024-09-14 |
 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 | 2023-03-03 | 2024-03-02 |
@@ -163,7 +164,7 @@
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-08-12 |
 | [PORT D'ARME](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2024-06-29 |
 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-10-04 |  |
-| [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-14 |  |
+| [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-14 | 2024-12-07 |
 | [Prime](https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Prime](https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP) | 2:58 | 2024-01-19 |  |
 | [Prières](https://open.spotify.com/track/4nlYmuRB9wvkCQhHtXQNZE) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Minuit moins une](https://open.spotify.com/album/6NBbOvfN1QA9M9tkrZGn56) | 3:32 | 2024-11-15 |  |
 | [PROBATION](https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [PROBATION](https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ) | 3:39 | 2024-11-15 |  |

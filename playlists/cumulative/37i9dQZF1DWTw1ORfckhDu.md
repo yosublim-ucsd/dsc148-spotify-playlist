@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Isaac Sene ja Turisti.
 
-753 songs - 1 day 11 hr 48 min
+754 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -755,6 +755,7 @@
 | [Ysikuudest Ikuisuuteen](https://open.spotify.com/track/3kHKtMLZZCGMGLHXgkDmEI) | [SMC Lähiörotat](https://open.spotify.com/artist/2Aqq0gyr7lRZ8vmPlW4MhB) | [Ysikuudest Ikuisuuteen](https://open.spotify.com/album/0AMIYyldCicCs2PAPoYZJw) | 4:50 | 2024-01-11 | 2024-01-26 |
 | [YUP](https://open.spotify.com/track/32OrTPlNYIh6josA37kA4z) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [YUP](https://open.spotify.com/album/11Lrdmk5AG4sBjUYf9u2Gg) | 2:28 | 2024-05-23 | 2024-07-02 |
 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 | 2024-09-12 | 2024-10-18 |
+| [ÄITI TEKI SOTILAAN](https://open.spotify.com/track/75cczqNjHeOF36UfN08fYJ) | [AJ WASGOOD](https://open.spotify.com/artist/06LJVynv5eFtTRMpI5oWlp), [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [ÄITI TEKI SOTILAAN](https://open.spotify.com/album/5eXA2pJN9LDDfB2vghNXs0) | 3:00 | 2024-12-06 |  |
 | [Älä Lopeta](https://open.spotify.com/track/4jEKDWQ8dVGLhr1ryA9cbl) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Älä Lopeta](https://open.spotify.com/album/5DVOfAcvIHmnDtAcFgsw6b) | 2:23 | 2024-06-06 | 2024-07-05 |
 | [Älä vertaa](https://open.spotify.com/track/7I2FrbhGSm6kfJODl4DmEI) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [HAHAHA](https://open.spotify.com/album/4gUv1xxbN4TLePfKk0tea1) | 2:10 | 2024-02-01 | 2024-03-01 |
 | [Älä vihaa mua](https://open.spotify.com/track/0PGTUDrfpzx8bzY4tHYBx0) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Älä vihaa mua](https://open.spotify.com/album/4s5geeRpjBxi4gTnQ97Y9h) | 2:24 | 2024-01-18 | 2024-02-02 |

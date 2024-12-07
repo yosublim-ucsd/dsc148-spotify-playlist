@@ -1,13 +1,133 @@
 {
-  "description": "searows and a cinnamon scented candle burning \ud83d\udd6f\ufe0f\ud83c\udf42",
-  "num_followers": 127796,
+  "description": "\u2728 meet the army, the navy \ud83e\uddda\u200d\u2640\ufe0f",
+  "num_followers": 127899,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAAkOTbK+EXwiFpItiuHLXHc",
+  "snapshot_id": "Z1MRDgAAAADIrrjTS50/eZEyQATClyEB",
   "tracks": [
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 229996,
+      "name": "Rascal",
+      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "Why Are You So Uptight?",
+        "url": "https://open.spotify.com/album/2VcKtGcz6o6xWz299XLIf9"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Why Are You So Uptight?",
+      "url": "https://open.spotify.com/track/4wtHmhdPXF2klIR87Xb6ZO"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        },
+        {
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
+        },
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "Aaron",
+      "url": "https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "What's In My Head",
+        "url": "https://open.spotify.com/album/5LVcjAuHykusjEr2vETHCT"
+      },
+      "artists": [
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "duration_ms": 167587,
+      "name": "What's In My Head",
+      "url": "https://open.spotify.com/track/3Gogu2TwHL7dO3xK0dMgjW"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -27,18 +147,66 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Fable",
-        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+      "duration_ms": 250198,
+      "name": "not a lot, just forever",
+      "url": "https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "You Are The Morning",
+      "url": "https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/4rWuYMzcwyGAxLHgmyhqL0"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/7tSFr6uaox7BhhDgxViWH8"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "boundless & true",
+        "url": "https://open.spotify.com/album/69AcJYuoVwJzoq86dnA08r"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 196392,
+      "name": "dandelion dream",
+      "url": "https://open.spotify.com/track/0JtEIgORtcboJBcbTDbwk1"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -73,6 +241,22 @@
       "url": "https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa"
     },
     {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "this is my california / bear walk",
+        "url": "https://open.spotify.com/album/5yoqiFg0uwj2yDSM962Kpy"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "bear walk",
+      "url": "https://open.spotify.com/track/2xUZROCCn0xZY6jJXTuUwe"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "ellipsis",
@@ -89,20 +273,20 @@
       "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-12-06 14:58:22",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 250198,
-      "name": "not a lot, just forever",
-      "url": "https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK"
+      "duration_ms": 243600,
+      "name": "So Much Wine",
+      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -155,22 +339,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "SABLE,",
-        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200589,
-      "name": "THINGS BEHIND THINGS BEHIND THINGS",
-      "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL"
       },
@@ -183,22 +351,6 @@
       "duration_ms": 217618,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "the way that i am",
-        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 177149,
-      "name": "the way that i am",
-      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -343,6 +495,22 @@
       "duration_ms": 262160,
       "name": "I'm Not Ready To Go",
       "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
+    {
+      "added_at": "2024-12-06 14:58:22",
+      "album": {
+        "name": "Mama It's Christmas",
+        "url": "https://open.spotify.com/album/0lHb6RiD6yEo6vRTUXoCyK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/5K4fsJlllxsXTIO3oYRwM1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -623,6 +791,22 @@
       "duration_ms": 176475,
       "name": "Dig Myself Out",
       "url": "https://open.spotify.com/track/70JmaiNir097KCH7yInIC1"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "the way that i am",
+        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 177149,
+      "name": "the way that i am",
+      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
     },
     {
       "added_at": "2024-10-25 04:00:00",

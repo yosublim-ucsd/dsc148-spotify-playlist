@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-252 songs - 14 hr 26 min
+253 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Hoppas du mår bra](https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Hoppas du mår bra](https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4) | 3:16 | 2024-06-27 |  |
 | [Hummin' a Melody](https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik) | [Isaac And The Soul Company](https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld) | [Hummin' a Melody](https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7) | 2:47 | 2024-06-27 | 2024-08-09 |
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 |  |
+| [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 |  |
 | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz), [Frida Andersson](https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR) | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 | 2024-06-27 | 2024-08-23 |
 | [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-21 |
@@ -164,7 +165,7 @@
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 |  |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 |  |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 |  |
-| [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 |  |
+| [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2024-12-07 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |
 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 | 2024-10-10 |  |
 | [Out Of Love](https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Out Of Love](https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW) | 3:23 | 2024-06-27 | 2024-08-23 |

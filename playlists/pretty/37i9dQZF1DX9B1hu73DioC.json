@@ -1,6 +1,6 @@
 {
   "description": "put it on and let it play. cover: jessica pratt ",
-  "num_followers": 840621,
+  "num_followers": 840625,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
     },
     {
+      "added_at": "2024-11-25 23:20:40",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
+    },
+    {
       "added_at": "2024-10-31 22:25:15",
       "album": {
         "name": "Ali",
@@ -821,22 +837,6 @@
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
     },
     {
-      "added_at": "2024-11-25 23:20:40",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc"
-    },
-    {
       "added_at": "2024-10-31 22:25:15",
       "album": {
         "name": "Only God Was Above Us",
@@ -851,22 +851,6 @@
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Foxglove",
+        "url": "https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "Santa Catalina",
         "url": "https://open.spotify.com/album/6wv8zT8vG5EICl083UHoVm"
       },
@@ -949,38 +949,6 @@
       "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
     },
     {
-      "added_at": "2024-11-15 17:05:11",
-      "album": {
-        "name": "BLUEBERRY",
-        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
-      },
-      "artists": [
-        {
-          "name": "NOT THE TWOS",
-          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "BLUEBERRY",
-      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
-    },
-    {
       "added_at": "2024-10-31 22:25:15",
       "album": {
         "name": "Bikini",
@@ -999,6 +967,38 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-11-15 17:05:11",
+      "album": {
+        "name": "BLUEBERRY",
+        "url": "https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77"
+      },
+      "artists": [
+        {
+          "name": "NOT THE TWOS",
+          "url": "https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "BLUEBERRY",
+      "url": "https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 246706,
       "name": "Tonight (feat. Ezra Koenig)",
       "url": "https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Just A Western",
-        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 269473,
-      "name": "Just A Western",
-      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "added_at": "2024-11-15 17:08:45",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
+        "name": "I Can\u2019t Even Cry",
+        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 221771,
+      "name": "I Can\u2019t Even Cry",
+      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
         "name": "COYOTE",
         "url": "https://open.spotify.com/album/7c60QdnpXI2efwnUaIzQSu"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 275440,
       "name": "seems like time moves forever.",
       "url": "https://open.spotify.com/track/7C2uY2KCfOW3PzCCfWDERA"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "I Can\u2019t Even Cry",
-        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 221771,
-      "name": "I Can\u2019t Even Cry",
-      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1427,34 +1427,22 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Songs From A Thousand Frames Of Mind",
-        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 207778,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
-    },
-    {
-      "added_at": "2024-11-15 17:08:45",
-      "album": {
-        "name": "Wah!!!",
-        "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
-      },
-      "artists": [
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        },
         {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 300570,
-      "name": "Kids Go Down (\u5b69\u5b50\u4eec\u7684\u65f6\u5149)",
-      "url": "https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9"
+      "duration_ms": 182426,
+      "name": "My Day Off",
+      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1477,40 +1465,36 @@
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
     },
     {
-      "added_at": "2024-10-31 22:25:15",
+      "added_at": "2024-11-15 17:08:45",
       "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
+        "name": "Wah!!!",
+        "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
       },
       "artists": [
         {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
         }
       ],
-      "duration_ms": 182426,
-      "name": "My Day Off",
-      "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
+      "duration_ms": 300570,
+      "name": "Kids Go Down (\u5b69\u5b50\u4eec\u7684\u65f6\u5149)",
+      "url": "https://open.spotify.com/track/4tSnOJt0gQai61lN8wo5b9"
     },
     {
-      "added_at": "2024-11-15 17:05:11",
+      "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT"
+        "name": "Songs From A Thousand Frames Of Mind",
+        "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
       },
       "artists": [
         {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
         }
       ],
-      "duration_ms": 271777,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
+      "duration_ms": 207778,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1545,6 +1529,22 @@
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     },
     {
+      "added_at": "2024-11-15 17:05:11",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 271777,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
+    },
+    {
       "added_at": "2024-10-31 22:25:15",
       "album": {
         "name": "Bubblegum",
@@ -1559,38 +1559,6 @@
       "duration_ms": 139493,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "stay late",
-        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "stay late",
-      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
-    },
-    {
-      "added_at": "2024-10-31 22:25:15",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 205609,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
     },
     {
       "added_at": "2024-10-31 22:25:15",
@@ -1623,6 +1591,38 @@
       "duration_ms": 185245,
       "name": "Someone I Could Love",
       "url": "https://open.spotify.com/track/7J5wBntCsBRCFdLXYuYlDq"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "stay late",
+        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "duration_ms": 173283,
+      "name": "stay late",
+      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
+    },
+    {
+      "added_at": "2024-10-31 22:25:15",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv"
     },
     {
       "added_at": "2024-11-15 17:08:45",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-10-31 22:25:15",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+        "name": "Mika's Laundry",
+        "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
       "artists": [
         {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
         }
       ],
-      "duration_ms": 182761,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/6OS3VD7oJgqhEKTEkkRB94"
     }
   ],
   "unique_name": "Indie Chillout",

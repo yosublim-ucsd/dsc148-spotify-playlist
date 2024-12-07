@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 162121,
+  "num_followers": 162284,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0UHnwAAAACmvcdpTAhe31LlMAGQFRqj",
+  "snapshot_id": "Z1KE0AAAAABwck+pzAnq+cXmFJIq4BYj",
   "tracks": [
     {
       "added_at": "2024-08-26 15:15:02",
@@ -55,6 +55,22 @@
       "duration_ms": 164747,
       "name": "Hello Miss Johnson",
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Old Devil Moon",
+        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
     },
     {
       "added_at": "2024-08-26 15:15:02",
@@ -883,22 +899,6 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "Lover (take me to the moon) - demo",
-        "url": "https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx"
-      },
-      "artists": [
-        {
-          "name": "Madylin Gilbert",
-          "url": "https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2"
-        }
-      ],
-      "duration_ms": 121269,
-      "name": "Lover (take me to the moon) - demo",
-      "url": "https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG"
     },
     {
       "added_at": "2024-08-26 15:15:02",

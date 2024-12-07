@@ -346,7 +346,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 167076,
       "name": "7AM",
       "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
@@ -5294,7 +5294,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 171130,
       "name": "DRAMA",
       "url": "https://open.spotify.com/track/2sMalV6A0ojBHRk4kyRfh1"
@@ -5975,6 +5975,28 @@
     },
     {
       "album": {
+        "name": "F.O.D.A.",
+        "url": "https://open.spotify.com/album/59sB3VoWUs2eiajW2OngYm"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179954,
+      "name": "F.O.D.A.",
+      "url": "https://open.spotify.com/track/6FVPAow3AMU32R3uV2XCen"
+    },
+    {
+      "album": {
         "name": "f:)da-se",
         "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
       },
@@ -6092,6 +6114,28 @@
       "duration_ms": 150142,
       "name": "Falta De Aten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4KPZyTXOMkBxCo2e4KXbDf"
+    },
+    {
+      "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201559,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ"
     },
     {
       "album": {
@@ -7842,7 +7886,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202549,
       "name": "INFAME",
       "url": "https://open.spotify.com/track/6FD7avr6vhI091SEWyzFNq"
@@ -10779,6 +10823,32 @@
     },
     {
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Francci",
+          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234820,
+      "name": "NECTAR",
+      "url": "https://open.spotify.com/track/0SsWDp8RTI6hNAGcukBbr8"
+    },
+    {
+      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -11172,6 +11242,24 @@
       "duration_ms": 167076,
       "name": "Nu",
       "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
+    },
+    {
+      "album": {
+        "name": "Numa Ilha",
+        "url": "https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249096,
+      "name": "Numa Ilha",
+      "url": "https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm"
     },
     {
       "album": {
@@ -12213,6 +12301,28 @@
     },
     {
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "passarela",
+      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
+    },
+    {
+      "album": {
         "name": "Passarinho",
         "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
       },
@@ -12392,6 +12502,24 @@
       "duration_ms": 158829,
       "name": "Pegada de Vil\u00e3",
       "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
+    },
+    {
+      "album": {
+        "name": "PELADA",
+        "url": "https://open.spotify.com/album/30GHyT6rNAdJaxSBt9SVBW"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170916,
+      "name": "PELADA",
+      "url": "https://open.spotify.com/track/6JnC4KkOlc5r476dUzx5TA"
     },
     {
       "album": {
@@ -16400,7 +16528,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 234730,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/7mdNECcDlMZLUr8RATkS9Z"
@@ -17592,7 +17720,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 175000,
       "name": "Tudo Pra Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/2lDhKzEXHU14HRRAKja3ba"

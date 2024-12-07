@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,712 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,739 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 36 | [Manasara Sollu](https://open.spotify.com/track/5dmLyxAc4JnJ3L6gt3q9ZP) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Manasara Sollu](https://open.spotify.com/album/4SPE8chJmSFveu1QoBUjto) | 4:22 |
 | 37 | [Nenjinile Rebirth](https://open.spotify.com/track/0pM7PCxuclmb1qsjTqt6WX) | [Chris G.](https://open.spotify.com/artist/0UuXsNfPKHnsxqO6ReEUS3), [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Nenjinile Rebirth](https://open.spotify.com/album/5ofUC9Rbhk7rknQbDp4GIG) | 3:35 |
 | 38 | [Ennavaley](https://open.spotify.com/track/1pM9kwOy7CnjRNVzOHJ2kf) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2), [Thila Laxshman](https://open.spotify.com/artist/4hOt4NszxtYXKVTh14rLEO), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Saint\(TFC\)](https://open.spotify.com/artist/1Im8ga1cR4Ms4dCEUjtvhx) | [Saran Z Ennavaley](https://open.spotify.com/album/552jEYJblo3g8rZ6zGVIhI) | 4:03 |
-| 39 | [Kathali](https://open.spotify.com/track/1rMuC0v08MocBqVhDaIfwy) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:25 |
+| 39 | [Kathali](https://open.spotify.com/track/1rMuC0v08MocBqVhDaIfwy) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Havoc Naven](https://open.spotify.com/artist/5ZWUML76b3ZPdKdYXm0cNf) | [Best Of Havoc Brothers](https://open.spotify.com/album/666d9PNXmiyefgWdJpZbgG) | 4:25 |
 | 40 | [Rasaathi Nenja \- Madras Gig Season 2](https://open.spotify.com/track/0H1Uhrit1CxZzGBgsAz4at) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF) | [Rasaathi Nenja \(Madras Gig Season 2\)](https://open.spotify.com/album/4aE7Hi754nkUABnmettoac) | 4:47 |
 | 41 | [Thottu Vidum Thooram](https://open.spotify.com/track/50JJ12Cb2eJmKBJjlfGWze) | [Raj Thillaiyampalam](https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak), [Aishwarya Yogarajh](https://open.spotify.com/artist/3TZfjkHHgQWsXYT5o9PYdZ) | [Thottu Vidum Thooram](https://open.spotify.com/album/4qdpasJoDy0nrh0oSYBbah) | 3:41 |
 | 42 | [Neeye](https://open.spotify.com/track/4sbR5eyctZyWWrN6JAPOHR) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Neeye](https://open.spotify.com/album/35cyKG8a4BvAGsW617H9w3) | 5:07 |

@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-269 songs - 15 hr 58 min
+270 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-03-15 |  |
 | [Phir Se Ud Chala](https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 4:28 | 2022-03-09 | 2023-01-11 |
 | [Phisal Jaa Tu](https://open.spotify.com/track/7ltVdvJOYUMhasCmdVcU3Y) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Haseen Dillruba](https://open.spotify.com/album/73mS0flubEOCa6KXDknjeb) | 4:01 | 2022-03-09 | 2023-02-21 |
+| [Pikley Pom \- From "Baby John"](https://open.spotify.com/track/5eTCN6GWyenGbAFWLQJ9rg) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Riya Seepana](https://open.spotify.com/artist/2FgKyhjNkjAWQFJGsHOMSz), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Pikley Pom \(From "Baby John"\)](https://open.spotify.com/album/09KDHrCckIHVfa9PJiQcmN) | 4:44 | 2024-12-06 |  |
 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 | 2022-03-09 |  |
 | [Radha](https://open.spotify.com/track/5yYgGkyYJmmSwRp3caFplJ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 5:01 | 2023-05-30 | 2024-02-29 |
 | [Rang Lageya \(Chill Flip\)](https://open.spotify.com/track/7JeDLMQALzOJVz4ANxnxly) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Rang Lageya \(Chill Flip\) \- Single](https://open.spotify.com/album/0Vd3CgIWDZgWv0sBxreDqQ) | 1:42 | 2023-03-20 | 2023-07-14 |

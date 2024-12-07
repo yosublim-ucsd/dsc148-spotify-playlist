@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Chill Chicos.
 
-266 songs - 13 hr 51 min
+267 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 | 2024-06-27 |  |
 | [NO SALES DE MI CABEZA](https://open.spotify.com/track/0ZsuvAQXU2SaBWjzMUPp1c) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [LE CHILL 2](https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9) | 2:52 | 2024-12-05 |  |
 | [NO SÉ DE AMOR](https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [NO SÉ DE AMOR](https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb) | 3:04 | 2024-10-24 |  |
-| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
+| [No Te Voy a Besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No Te Voy a Besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-12-07 |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-11-07 |  |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-19 | 2024-10-18 |
 | [Nuevo Romántico](https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t) | [Malva](https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN) | [Contenido Sensible](https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm) | 2:38 | 2024-10-17 |  |
@@ -196,6 +196,7 @@
 | [números rojos](https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [sangre y sal](https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x) | 2:51 | 2024-06-27 |  |
 | [Pa Ti](https://open.spotify.com/track/2RI6t2wnifhfIyeSKXupio) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Pa ti](https://open.spotify.com/album/3uoCt9ywjzKWfwMP4qNeTn) | 2:11 | 2024-07-25 | 2024-08-16 |
 | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/track/1KdYHwejtPz6uAJjGTAfUp) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Palabras BLA BLA BLA \- remix](https://open.spotify.com/album/16jPgS4BMWZ8psnbHALBTG) | 1:19 | 2024-08-15 | 2024-08-23 |
+| [Palmas Y Desamores](https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT) | [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [Palmas Y Desamores](https://open.spotify.com/album/47otbrTZ0A3Bv5aLkV35P6) | 2:42 | 2024-12-05 |  |
 | [Para Mi](https://open.spotify.com/track/7aZN8LGvTUPcAUxDEXJZjp) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Para Mi](https://open.spotify.com/album/4GG83B0DS1omtsvaldRDjI) | 2:16 | 2024-06-27 | 2024-07-19 |
 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 | 2024-10-10 |  |
 | [PASARELA](https://open.spotify.com/track/6wXP0oiJk3gZXGfFNrKQaz) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [PASARELA](https://open.spotify.com/album/31TBz22wU0tj6LmyeeAuti) | 2:44 | 2024-07-04 | 2024-08-09 |

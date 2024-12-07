@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/3SqXo3XcVunYmwUTNRIlUv"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167572,
+      "name": "A Little Too Real",
+      "url": "https://open.spotify.com/track/49OPnSiQqtCF8Yz7YdOhGD"
+    },
+    {
+      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/3PfnihjOdjLPvx4lr9D5vM"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 149852,
       "name": "ABOUT YOU",
       "url": "https://open.spotify.com/track/0r0QzIYzJiOveIUWnRGXjU"
@@ -2953,7 +2971,7 @@
         },
         {
           "name": "Lex Luger",
-          "url": "https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM"
+          "url": "https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K"
         }
       ],
       "date_added": "2024-12-06",
@@ -4052,6 +4070,24 @@
       "duration_ms": 188229,
       "name": "Aron",
       "url": "https://open.spotify.com/track/5cPOlyk6Z2XkcuP1adzqSz"
+    },
+    {
+      "album": {
+        "name": "Arpeggio (Revisited)",
+        "url": "https://open.spotify.com/album/1xIjkcyQwjfw9zjPoCLGTD"
+      },
+      "artists": [
+        {
+          "name": "Friska Viljor",
+          "url": "https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336163,
+      "name": "Arpeggio (Revisited)",
+      "url": "https://open.spotify.com/track/4fCNc4jXpxvGv5ZVa45fCV"
     },
     {
       "album": {
@@ -11580,7 +11616,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 181335,
       "name": "Coma Party",
       "url": "https://open.spotify.com/track/12x2GnHVcOGJFIOV8ZJE3P"
@@ -17236,7 +17272,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -21241,6 +21277,24 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170557,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
+    },
+    {
+      "album": {
         "name": "Follow me Down",
         "url": "https://open.spotify.com/album/2km7aAl2W1iIGdh53RJJte"
       },
@@ -21270,7 +21324,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 179678,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/59aNlb5D19i1GJarfrE68e"
@@ -29226,7 +29280,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 222791,
       "name": "H\u00e1t\u00ed\u00f0 f\u00e6rist n\u00e6r",
       "url": "https://open.spotify.com/track/0E7r3cGwavp5v1qqe2RWfW"
@@ -32458,7 +32512,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 160120,
       "name": "Into the Heart",
       "url": "https://open.spotify.com/track/2xJ9CFYXHuLmmmEgYP714X"
@@ -32874,6 +32928,24 @@
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
+        "name": "You Should Get Some Sleep",
+        "url": "https://open.spotify.com/album/130lQALlgahUFxY0W8ATfp"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190327,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/3PZMAG4JCykS5HZMMZugju"
     },
     {
       "album": {
@@ -43532,6 +43604,24 @@
       "duration_ms": 161801,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
+    },
+    {
+      "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/5Phsy4wbNbfbRCUVpbyYcY"
+      },
+      "artists": [
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Next to you",
+      "url": "https://open.spotify.com/track/0cT4AriTAEW9cG1eTTURoc"
     },
     {
       "album": {
@@ -54609,6 +54699,32 @@
     },
     {
       "album": {
+        "name": "skies",
+        "url": "https://open.spotify.com/album/4eeWYDakQV5Q5fniiUVz7f"
+      },
+      "artists": [
+        {
+          "name": "Sunset L\u00f8ver",
+          "url": "https://open.spotify.com/artist/2Kqd0HtbetMIZUvWAmYCyw"
+        },
+        {
+          "name": "Ondi Vil",
+          "url": "https://open.spotify.com/artist/4ZguwlmrdElUZaO36dRTbn"
+        },
+        {
+          "name": "Nineteen95",
+          "url": "https://open.spotify.com/artist/5Te5N2LAUaxSogUGkzJ003"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127062,
+      "name": "skies",
+      "url": "https://open.spotify.com/track/4T8tIL7oJihaHtu994PNqB"
+    },
+    {
+      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -57889,6 +58005,28 @@
     },
     {
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "album": {
         "name": "STRAY / SAD OCTOBER",
         "url": "https://open.spotify.com/album/1RQRIpDcdE828hNQ8bpQsT"
       },
@@ -58570,6 +58708,24 @@
       "duration_ms": 177773,
       "name": "Sunburnt Shoulders",
       "url": "https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC"
+    },
+    {
+      "album": {
+        "name": "Vicious Creature",
+        "url": "https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258661,
+      "name": "Sunday Best",
+      "url": "https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g"
     },
     {
       "album": {
@@ -69144,6 +69300,24 @@
       "duration_ms": 144024,
       "name": "With You",
       "url": "https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb"
+    },
+    {
+      "album": {
+        "name": "Withered lights",
+        "url": "https://open.spotify.com/album/21WlL4kGtVnnP6Vk2Z1XRl"
+      },
+      "artists": [
+        {
+          "name": "Linnea Awad",
+          "url": "https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Withered lights",
+      "url": "https://open.spotify.com/track/4aZyHJdrrktgYPS7R991Ed"
     },
     {
       "album": {

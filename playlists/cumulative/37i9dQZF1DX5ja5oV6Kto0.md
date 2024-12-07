@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 95ANTNY
 
-783 songs - 1 day 14 hr 23 min
+784 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-06-17 |
 | [BAD B](https://open.spotify.com/track/63YCwa2ES06NPy2XAVaZ2j) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 2:46 | 2023-07-14 | 2023-07-18 |
 | [Bad B](https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 2:53 | 2023-07-14 | 2024-03-01 |
+| [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 | 2024-12-06 |  |
 | [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 | 2024-09-27 |  |
 | [Bad S.L.U.T](https://open.spotify.com/track/1kMTXy8EzI5ajckswMQ5C1) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh) | [Bad S.L.U.T](https://open.spotify.com/album/6DuWhnSyE8YAWbA8L7Qjtj) | 1:39 | 2022-08-18 | 2022-08-26 |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2022-10-29 |
@@ -434,7 +435,7 @@
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-09 | 2024-04-19 |
 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:21 | 2023-04-27 | 2023-06-17 |
 | [Main List](https://open.spotify.com/track/06no0FzEycGa7BmffmwmOx) | [Narlti](https://open.spotify.com/artist/7rYY2q5oMyLy42LFSPCZQU) | [99Baby](https://open.spotify.com/album/7z9YRto2887sMhdoB1IlNL) | 2:46 | 2022-01-13 | 2022-02-04 |
-| [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 | 2024-11-08 |  |
+| [Make Me Move](https://open.spotify.com/track/0oP0QY4hep9CCwZJ9jRwZd) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Down In The Dirt](https://open.spotify.com/album/1VHJw1hxKnCopNKcK2M8z0) | 1:00 | 2024-11-08 | 2024-12-07 |
 | [Malibu](https://open.spotify.com/track/2FcbCjgVYR26a9Vm7siZaW) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Malibu](https://open.spotify.com/album/2Y2uUeq16FvGvIlijx1nhs) | 2:46 | 2022-08-18 | 2022-11-04 |
 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 | 2022-12-08 | 2023-11-24 |
 | [Manifest](https://open.spotify.com/track/2F4S19rQrzXz8xpbgqGPkW) | [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Manifest](https://open.spotify.com/album/2QZMYNVmwu8W31WJBiTTuv) | 2:08 | 2024-03-08 | 2024-08-09 |

@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Baby You Look So Blue",
+        "url": "https://open.spotify.com/album/4f8ao5VimpctPce8fEPdYh"
+      },
+      "artists": [
+        {
+          "name": "Arjun Nala",
+          "url": "https://open.spotify.com/artist/7LHYP9N7N2q60laZB9DMjx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205318,
+      "name": "Baby You Look So Blue",
+      "url": "https://open.spotify.com/track/1VYiT5pwbyLfqWDOfvw8Jc"
+    },
+    {
+      "album": {
         "name": "East Side Story Volume 5",
         "url": "https://open.spotify.com/album/3uu9QZuucFOoU9ttMO4Kxl"
       },
@@ -48813,6 +48831,28 @@
     },
     {
       "album": {
+        "name": "New Tricks",
+        "url": "https://open.spotify.com/album/42TJt1UugrqYIXoySg2qhr"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        },
+        {
+          "name": "Steve Ray Ladson",
+          "url": "https://open.spotify.com/artist/2CokAz18TsHK3OTTJFFmNQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "New Tricks",
+      "url": "https://open.spotify.com/track/4EDBOU7PcHAVCRgshBv0LR"
+    },
+    {
+      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/3H0B6xpapKMcFeLSMu3p9W"
       },
@@ -55199,6 +55239,24 @@
     },
     {
       "album": {
+        "name": "POV",
+        "url": "https://open.spotify.com/album/1dXrlLvdZFbclWTgtcQqe2"
+      },
+      "artists": [
+        {
+          "name": "Rio Sterling",
+          "url": "https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202246,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/4XZ2D50if4hV85t1bnbOzB"
+    },
+    {
+      "album": {
         "name": "You've Come a Long Way Baby",
         "url": "https://open.spotify.com/album/2ELLu16F9TTREQuU4OuAnN"
       },
@@ -61539,6 +61597,24 @@
     },
     {
       "album": {
+        "name": "Show & Tell",
+        "url": "https://open.spotify.com/album/3AbYu4Fn5NLjC0Qsodzaeu"
+      },
+      "artists": [
+        {
+          "name": "Fencer",
+          "url": "https://open.spotify.com/artist/27lqKE6Ddo4SeCKBoVlMSu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176918,
+      "name": "Show & Tell",
+      "url": "https://open.spotify.com/track/2K6EneSlSAijHc850wZIVT"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/413I3mYIaTTK77clzYge2o"
       },
@@ -63406,6 +63482,24 @@
       "duration_ms": 161625,
       "name": "Someone's In The Room",
       "url": "https://open.spotify.com/track/5B2ZFJW0oQtgwx985KLcnv"
+    },
+    {
+      "album": {
+        "name": "somethin sweet",
+        "url": "https://open.spotify.com/album/6F518HPERyXSC1Dd3Ha5W0"
+      },
+      "artists": [
+        {
+          "name": "MUNNYCAT",
+          "url": "https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133961,
+      "name": "somethin sweet",
+      "url": "https://open.spotify.com/track/0fF4tq5KE7S7QS2sxUIzxb"
     },
     {
       "album": {
@@ -68516,7 +68610,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 211206,
       "name": "Tell That to a Heart",
       "url": "https://open.spotify.com/track/0uEg78fi0MPdimE66H8EAk"

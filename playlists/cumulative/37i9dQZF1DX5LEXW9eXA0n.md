@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Baek Ji Young\(백지영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Baek Z Young\(백지영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,360 songs - 3 day 16 hr 0 min
+1,361 songs - 3 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Drawing Our Moments](https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 4:33 | 2021-12-20 | 2022-07-08 |
 | [Dream](https://open.spotify.com/track/2Mbq7v42FvbLJewOfCw7hv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [Dream](https://open.spotify.com/album/6mub9pdrLa8fCqzWP4kk64) | 3:08 | 2022-09-05 | 2022-10-13 |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2021-12-20 | 2022-07-08 |
-| [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-08-10 |  |
+| [Dream](https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Welcome to Samdal\-ri \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/6zQirDfbwXQbtdPJta5Xx3) | 3:58 | 2024-08-10 | 2024-12-07 |
 | [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 | 2023-04-08 | 2023-08-25 |
 | [Dreamin'](https://open.spotify.com/track/4F9IH5h9NkhJ9H4e1zWw10) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1t4uYvNMGHu5wIGlXrY0O8) | 3:19 | 2022-03-24 | 2022-04-20 |
 | [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-12 |  |
@@ -1159,6 +1159,7 @@
 | [Turn](https://open.spotify.com/track/2YJvif30ElLKoi5ccJ9ZEE) | [simaron](https://open.spotify.com/artist/6h24lCuHJ3kk71eeCMxFpB) | [TURN](https://open.spotify.com/album/2LpsHc7oFPbPndYw89bRW5) | 3:50 | 2024-11-06 |  |
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-29 | 2022-06-09 |
 | [Two Letters](https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be My Reason](https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn) | 3:33 | 2021-12-23 | 2022-06-19 |
+| [Two of us](https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [BREWING LOVE, Pt\. 10 \(Original Soundtrack\)](https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ) | 4:22 | 2024-12-06 |  |
 | [Two people](https://open.spotify.com/track/3t7q2RhPmsGeZ1XbYkPBJP) | [Gemstone](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Two people](https://open.spotify.com/album/2AMdl8gdA5yUFVzHU01t7l) | 4:29 | 2023-02-14 | 2023-03-28 |
 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 | 2021-12-20 | 2022-07-07 |
 | [U](https://open.spotify.com/track/5GpjDEuBecJskwBdyti6KU) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Songs I'll Never Sing For You Volume.1](https://open.spotify.com/album/69PXgnmyr9q4isx0cKcWBj) | 3:19 | 2022-12-27 | 2023-02-25 |

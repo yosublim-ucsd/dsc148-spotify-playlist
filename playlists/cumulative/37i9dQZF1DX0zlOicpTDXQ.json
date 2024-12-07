@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-18",
-  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Pentatonix in Meet Me Next Christmas ",
+  "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas",
   "name": "Netflix Holidays Official Playlist",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 141549,
       "name": "A Mouse and a Kingdom",
       "url": "https://open.spotify.com/track/7FDGKgY1LALDcBqgcuFpbD"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153099,
+      "name": "A Nonsense Christmas",
+      "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
     },
     {
       "album": {
@@ -594,6 +612,24 @@
       "duration_ms": 101429,
       "name": "Grandpa Me Nie' (Asew Jingle Jangle Remix) [feat. Mic Flammez]",
       "url": "https://open.spotify.com/track/0u9w8hguVdkPHkzlnwV9eh"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226713,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
     },
     {
       "album": {

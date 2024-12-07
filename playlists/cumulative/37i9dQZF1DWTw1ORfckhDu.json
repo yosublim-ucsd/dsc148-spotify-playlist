@@ -15183,6 +15183,28 @@
     },
     {
       "album": {
+        "name": "\u00c4ITI TEKI SOTILAAN",
+        "url": "https://open.spotify.com/album/5eXA2pJN9LDDfB2vghNXs0"
+      },
+      "artists": [
+        {
+          "name": "AJ WASGOOD",
+          "url": "https://open.spotify.com/artist/06LJVynv5eFtTRMpI5oWlp"
+        },
+        {
+          "name": "Dilemma",
+          "url": "https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180896,
+      "name": "\u00c4ITI TEKI SOTILAAN",
+      "url": "https://open.spotify.com/track/75cczqNjHeOF36UfN08fYJ"
+    },
+    {
+      "album": {
         "name": "\u00c4l\u00e4 Lopeta",
         "url": "https://open.spotify.com/album/5DVOfAcvIHmnDtAcFgsw6b"
       },

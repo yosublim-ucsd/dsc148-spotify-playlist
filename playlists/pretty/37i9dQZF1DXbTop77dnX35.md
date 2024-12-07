@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,267 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,810 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 |
 | 2 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
-| 3 | [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 |
+| 3 | [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 |
 | 4 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 |
 | 5 | [5am in OJO Freestyle](https://open.spotify.com/track/4czmIR4NZXlwq8LABaetrc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [5am in OJO Freestyle](https://open.spotify.com/album/3v4zTqtzlr0fcDiHT4SSI6) | 2:43 |
 | 6 | [Hi Hi](https://open.spotify.com/track/7udshzJFOOChc3pUehXDbf) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Hi Hi](https://open.spotify.com/album/6gmqGq8zHgE0ym1OImsxqt) | 2:15 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 48 | [Chim](https://open.spotify.com/track/1K0UjqKaL892YP3aBGyyje) | [S\-Model](https://open.spotify.com/artist/6Qjql8WeoaCfeFh5mBiNai) | [Chim](https://open.spotify.com/album/2NxKlFa43QDtdXVCEZMv7m) | 3:19 |
 | 49 | [Metaphor \(with KOJO BLAK\)](https://open.spotify.com/track/4ok0u5ekGUhG6ROQOEmR4g) | [Ibee Melody](https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Metaphor \(with KOJO BLAK\)](https://open.spotify.com/album/0yx6QeyIlrBUJhO0Xn30nt) | 2:42 |
 | 50 | [Soyaya](https://open.spotify.com/track/31tu8K6dYDuDPkMbbQjKep) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Soyaya](https://open.spotify.com/album/4LHdySYwMi0RB92r2TQjXL) | 3:20 |
-| 51 | [Lock up](https://open.spotify.com/track/14BJoVwLeSAzGloeJvxmpO) | [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Oubaitori](https://open.spotify.com/album/7f6nYSePQDik8sPXKmakLU) | 2:54 |
+| 51 | [LOCK UP](https://open.spotify.com/track/14BJoVwLeSAzGloeJvxmpO) | [Saqi NFG](https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Oubaitori](https://open.spotify.com/album/7f6nYSePQDik8sPXKmakLU) | 2:54 |
 
 Snapshot ID: `Z1I+vAAAAADcrZZ09yYufP+a4dekpqmp`

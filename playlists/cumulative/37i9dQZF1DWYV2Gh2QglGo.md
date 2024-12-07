@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Brett Kissel
 
-175 songs - 9 hr 34 min
+176 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [LIFE OUT HERE](https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [LIFE OUT HERE](https://open.spotify.com/album/1WJ2s8BhfaDWbZLCUDv07b) | 2:44 | 2024-10-18 |  |
 | [Lightning in July \(Prairie Fire\)](https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas / Lightning in July \(Prairie Fire\)](https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ) | 4:02 | 2024-08-09 | 2024-09-14 |
 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 | 2024-09-06 | 2024-11-02 |
-| [Lonely Dirt Road](https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Lonely Dirt Road](https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y) | 4:06 | 2024-10-11 |  |
+| [Lonely Dirt Road](https://open.spotify.com/track/6uBXlvLz3g0WHI5n2qIz7u) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Lonely Dirt Road](https://open.spotify.com/album/1PYzr3qMS5lvI1MY3waU9y) | 4:06 | 2024-10-11 | 2024-12-07 |
 | [Lonesome](https://open.spotify.com/track/1LGO73QwShLdT3iCxKIRrP) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz), [Trey Hensley](https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa) | [Lonesome](https://open.spotify.com/album/2fWGkbYkFIxHIYHZqIvjvh) | 3:50 | 2024-06-28 | 2024-07-06 |
 | [Love and Hate](https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37) | [Annika Catharina](https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW) | [Love and Hate](https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ) | 2:47 | 2024-10-18 |  |
 | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/track/5lyFwxY9ouyqFZY61NIRDO) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU), [Dan Swinimer](https://open.spotify.com/artist/22QKKYErEVOVHDcwCz72eo) | [Love Me Or Leave Me \(Day Or Night Mix\)](https://open.spotify.com/album/09Ag9gMUEX7PVKTagED3za) | 3:43 | 2024-09-27 | 2024-11-23 |
@@ -118,6 +118,7 @@
 | [OVER](https://open.spotify.com/track/6g9btCQhBFWNgOIJTTrRIh) | [Taylor Jensen](https://open.spotify.com/artist/71qpTPNujRocmQhpi5hcvF) | [OVER](https://open.spotify.com/album/0Zd8c1svsgoMCRmsudp0QS) | 3:09 | 2024-11-01 | 2024-11-16 |
 | [Over Getting Over You](https://open.spotify.com/track/3N0jQs5Bip1GVWDaPEgllV) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [All Night Longer](https://open.spotify.com/album/0X9fkLvLhiBjbMigGPw3qw) | 2:50 | 2024-06-28 | 2024-09-14 |
 | [Pink Collar](https://open.spotify.com/track/6JB3Sbopc83XEUrDAONUSh) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Pink Collar](https://open.spotify.com/album/2TYlIzR4WVAojASFTiMaaR) | 3:12 | 2024-06-28 | 2024-09-14 |
+| [Place Of Peace](https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [From A Man's Perspective](https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj) | 2:45 | 2024-12-06 |  |
 | [Poor Man's Grave](https://open.spotify.com/track/7BVi2gsuSNx574bLhdeKMX) | [Chase Coulee](https://open.spotify.com/artist/6J10zJMqAyTH0fQNCCo2No) | [Found Myself Here](https://open.spotify.com/album/1IKaAdWjMIhkv7e4qht4qs) | 2:59 | 2024-06-28 | 2024-07-06 |
 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/53lv0crKsP5DzRj42Ob65x) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Terri Clark: Take Two](https://open.spotify.com/album/5T3rAvru0i4Zt08lmYLy0v) | 3:15 | 2024-06-28 |  |
 | [Pretty](https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC) | [Dayna Reid](https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR) | [She's Me \(Deluxe\)](https://open.spotify.com/album/4I31RC6Z6X5NJme5LG6jny) | 2:41 | 2024-11-01 |  |

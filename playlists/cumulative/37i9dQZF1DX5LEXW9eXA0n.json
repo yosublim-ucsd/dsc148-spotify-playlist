@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Baek Ji Young(\ubc31\uc9c0\uc601)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Baek Z Young(\ubc31\uc9c0\uc601)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -4784,7 +4784,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 238693,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5DIooJbJaNbxidKBMbk2ts"
@@ -21308,6 +21308,24 @@
       "duration_ms": 213226,
       "name": "Two Letters",
       "url": "https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs"
+    },
+    {
+      "album": {
+        "name": "BREWING LOVE, Pt. 10 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1S1DUzgYYBUBXlprX2pKYQ"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262786,
+      "name": "Two of us",
+      "url": "https://open.spotify.com/track/6iEN1jW4u0QjcBsg3AV6R1"
     },
     {
       "album": {

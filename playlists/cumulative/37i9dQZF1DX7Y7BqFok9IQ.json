@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Ancient Heart",
+        "url": "https://open.spotify.com/album/5SgcE7rpDVcQ5lCszvTNmg"
+      },
+      "artists": [
+        {
+          "name": "Beware Of Darkness",
+          "url": "https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252709,
+      "name": "Ancient Heart",
+      "url": "https://open.spotify.com/track/3GdXvrRtFZPwUqUtQx6unf"
+    },
+    {
+      "album": {
         "name": "WAYS",
         "url": "https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m"
       },
@@ -2356,6 +2374,24 @@
       "duration_ms": 212760,
       "name": "Hurricane Coming",
       "url": "https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt"
+    },
+    {
+      "album": {
+        "name": "I Gotta Stop Letting You Let Me Down",
+        "url": "https://open.spotify.com/album/3tbUSmHhH2pqePByepxvP0"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293640,
+      "name": "I Gotta Stop Letting You Let Me Down",
+      "url": "https://open.spotify.com/track/5gkAlecczArRBlzatrPXBZ"
     },
     {
       "album": {
@@ -5114,7 +5150,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 200450,
       "name": "Tastes Like Heaven",
       "url": "https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7"
@@ -6146,7 +6182,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 201899,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz"

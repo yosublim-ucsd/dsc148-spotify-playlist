@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve / Foto: Luthuly
+> Novidades e hits do pop nacional pra te deixar mais leve / Foto: Vitor Kley
 
-750 songs - 1 day 13 hr 25 min
+751 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 | 2023-12-15 |  |
 | [De Mansinho](https://open.spotify.com/track/0pNZN7o0JWq9EXoPCutAHn) | [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [De Mansinho](https://open.spotify.com/album/1yHV7x9atniGlkPzf6ttOJ) | 3:10 | 2022-05-13 | 2022-06-15 |
 | [De Novo](https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [De Novo](https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY) | 2:41 | 2024-07-05 |  |
+| [De Novo](https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [De Novo](https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj) | 2:45 | 2024-12-06 |  |
 | [De Onde Eu Venho](https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [De Onde Eu Venho](https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U) | 2:23 | 2023-06-23 | 2023-08-26 |
 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 | 2022-05-13 | 2023-01-28 |
 | [de todos os amores](https://open.spotify.com/track/2xbo7GlHQeIru03zX7hkUm) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [De Todos Os Amores](https://open.spotify.com/album/0QxORntbL8fr74GGSMIrU8) | 3:59 | 2022-05-13 | 2022-10-15 |
@@ -522,7 +523,7 @@
 | [Pra Ser Nós Dois](https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ) | [Pra Ser Nós Dois](https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz) | 3:14 | 2023-01-20 | 2023-07-22 |
 | [Pra Te Conquistar](https://open.spotify.com/track/7vocZ3kbuEbt9ry3Gnic7E) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Pra Te Conquistar](https://open.spotify.com/album/03Pg25mTyw4O9HmKnph5ro) | 2:48 | 2022-05-13 | 2022-06-15 |
 | [Praia do Rosa](https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Praia do Rosa](https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT) | 2:35 | 2024-02-09 | 2024-09-28 |
-| [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 | 2024-07-19 |  |
+| [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 | 2024-07-19 | 2024-12-07 |
 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 | 2023-08-18 | 2023-11-18 |
 | [Primeira Vez](https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar \(Deluxe\)](https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS) | 2:08 | 2023-12-15 | 2024-03-09 |
 | [Primeiro Amor](https://open.spotify.com/track/4DvAHoaxXenN8wyRltfzKr) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Primeiro Amor](https://open.spotify.com/album/4nEufgs4WMvfuYcKCxZ4oH) | 2:58 | 2023-03-11 | 2023-03-18 |

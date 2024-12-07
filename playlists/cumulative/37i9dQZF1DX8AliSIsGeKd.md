@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Anna Ullrich
 
-4,587 songs - 16 day 10 hr 20 min
+4,588 songs - 16 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Bass Into the Future](https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Bass Into the Future](https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H) | 2:41 | 2023-08-03 | 2023-08-18 |
 | [Bassdrone](https://open.spotify.com/track/4aDka7ievJt25DW8qIBlaX) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Bassdrone](https://open.spotify.com/album/3W9lfBloMg9AsSfVkMXx7d) | 4:44 | 2023-05-11 | 2023-06-02 |
 | [Bassdrone \- Teenage Mutants Remix](https://open.spotify.com/track/7aJ4qldtxcDsr09FuasUwO) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y), [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Bassdrone \(Teenage Mutants Remix\)](https://open.spotify.com/album/2C9SX0laiP8Vc72Gjpsl41) | 4:08 | 2024-06-27 | 2024-07-19 |
+| [Bassface](https://open.spotify.com/track/5h170ZVp5hvSUfeUliPVGD) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Bassface](https://open.spotify.com/album/7FSbvBgjJqcNQkXHfYuypY) | 6:32 | 2024-12-06 |  |
 | [Bastille](https://open.spotify.com/track/29hXbH6qQM47eExSJfCG4e) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Bastille](https://open.spotify.com/album/2ViBovzskyq1LgVh8pkKtl) | 4:58 | 2022-10-20 | 2022-11-11 |
 | [Bazaar](https://open.spotify.com/track/0JMlBK0uZJuAL3LQrume6p) | [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW) | [Bazaar](https://open.spotify.com/album/1MMy362gQT5wFe7D1wjzgH) | 6:02 | 2023-12-01 | 2023-12-22 |
 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 | 2023-06-16 | 2023-07-07 |
@@ -1769,7 +1770,7 @@
 | [High Places](https://open.spotify.com/track/3KfDSBOaumGB0Oqzcz9ora) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Circles EP](https://open.spotify.com/album/7z9Lzvmgfayv3gIdRlANdw) | 4:20 | 2023-08-25 | 2023-09-15 |
 | [High Street \- Edit](https://open.spotify.com/track/6JYWF4EtFjhwpo4rtRBlTF) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [High Street](https://open.spotify.com/album/1DrCbrC5FRwKaflQW3nhIU) | 4:33 | 2023-04-20 | 2023-05-12 |
 | [High Voltage \- Alex Stein Remix](https://open.spotify.com/track/0YrYceugWIFjMvl9iKEffE) | [Tomas Otero](https://open.spotify.com/artist/0W82YncGEFtIHzKnUKe9Ue), [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [High Voltage \(Alex Stein Remix\)](https://open.spotify.com/album/77Sa8vRVAohisGiJxjPM5x) | 4:51 | 2022-12-01 | 2022-12-16 |
-| [Higher](https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Higher EP](https://open.spotify.com/album/2QAH4GkKQQlTzfmjFx5bzm) | 3:35 | 2024-11-14 |  |
+| [Higher](https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Higher EP](https://open.spotify.com/album/2QAH4GkKQQlTzfmjFx5bzm) | 3:35 | 2024-11-14 | 2024-12-07 |
 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 | 2023-08-31 | 2023-09-15 |
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-07-20 | 2023-08-11 |
 | [Higher](https://open.spotify.com/track/2TuZF5WP5KK3f8KupYYYu9) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [Higher](https://open.spotify.com/album/5gHHcTXeyxGVcPkIRxw1wF) | 3:23 | 2024-08-08 | 2024-08-23 |

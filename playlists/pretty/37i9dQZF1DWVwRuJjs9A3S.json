@@ -1,13 +1,29 @@
 {
   "description": "All the highlights from the world of indie! Cover: Timoth\u00e9e Chalamet",
-  "num_followers": 39377,
+  "num_followers": 39382,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1IwcAAAAACEllTDN1G1FVkbQloxGJlI",
+  "snapshot_id": "Z1LAAgAAAAAuSMmfbBfsreIORJFav9/I",
   "tracks": [
+    {
+      "added_at": "2024-12-06 09:12:34",
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
+    },
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {

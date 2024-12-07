@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Zenesoul from Brampton, ON.",
+  "description": "This is R&B in Canada. Elevate your aura with Roy Woods from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 93600,
       "name": "'24 Bonnie & Clyde",
       "url": "https://open.spotify.com/track/798uZghEa0UK1b7hWtrl3C"
@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "All You",
+        "url": "https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162923,
+      "name": "All You",
+      "url": "https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH (Bonus Version)",
         "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
       },
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 209326,
       "name": "Bach in Town",
       "url": "https://open.spotify.com/track/4snrlQfRoPlsXzvMNEixMB"
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 170400,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 114199,
       "name": "DO IT!",
       "url": "https://open.spotify.com/track/6DgY9CfYAZTXDZPDOPUDsR"
@@ -6799,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "FEVR DRM",
+        "url": "https://open.spotify.com/album/0VsHt96ktuSMszOJZhu5uK"
+      },
+      "artists": [
+        {
+          "name": "ZYHIER",
+          "url": "https://open.spotify.com/artist/7aRx9clAABUWVcYgkJS2Xz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106920,
+      "name": "FEVR DRM",
+      "url": "https://open.spotify.com/track/0F4OM8zzyDrur2dcR2W1BK"
+    },
+    {
+      "album": {
         "name": "A Rose By Any Other Name",
         "url": "https://open.spotify.com/album/1dgW86xRay7w9ooE91AJyE"
       },
@@ -7690,6 +7726,24 @@
       "duration_ms": 132172,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/2z4QiyjKuIFXnRne4AVrCi"
+    },
+    {
+      "album": {
+        "name": "Gold Filigree",
+        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
     },
     {
       "album": {
@@ -8632,7 +8686,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 169455,
       "name": "Hold Still",
       "url": "https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj"
@@ -8824,7 +8878,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 171168,
       "name": "Hope U Find",
       "url": "https://open.spotify.com/track/5vS2MTI8r3DcjSfz4U3A8e"
@@ -8842,7 +8896,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 162578,
       "name": "Hot",
       "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
@@ -8926,7 +8980,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 198760,
       "name": "How to Love Me",
       "url": "https://open.spotify.com/track/0i5INy2hNr2OYUB4aEgycN"
@@ -12213,6 +12267,28 @@
     },
     {
       "album": {
+        "name": "Magic Gurl (feat. Lekan)",
+        "url": "https://open.spotify.com/album/0XkbSe7ojMuYEcjLOTVC2v"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        },
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "Magic Gurl (feat. Lekan)",
+      "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
+    },
+    {
+      "album": {
         "name": "Makaveli",
         "url": "https://open.spotify.com/album/00gBmKMQctzkcT0AEDLaBH"
       },
@@ -12380,7 +12456,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 169830,
       "name": "Me Against My Vices",
       "url": "https://open.spotify.com/track/4Uu9hWGagXuIM98FgmjXbr"
@@ -16855,6 +16931,28 @@
     },
     {
       "album": {
+        "name": "IN LOVING MEMORY+",
+        "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Rhyan Douglas",
+          "url": "https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298710,
+      "name": "RHYAN'S HYMN",
+      "url": "https://open.spotify.com/track/4xaD8rHYk3Fe51NH9HdDen"
+    },
+    {
+      "album": {
         "name": "Just for Now",
         "url": "https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy"
       },
@@ -17054,6 +17152,28 @@
       "duration_ms": 148720,
       "name": "Rounds",
       "url": "https://open.spotify.com/track/0MpBG76Vk6k9zUvEi2lAzf"
+    },
+    {
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
       "album": {
@@ -17513,6 +17633,24 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3Qw6z2h2rLCRAPklWtAgbX"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284249,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/6ZxMaPdhCQOpwnp6HJwaME"
+    },
+    {
+      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L"
       },
@@ -17782,6 +17920,24 @@
       "duration_ms": 215960,
       "name": "She Said",
       "url": "https://open.spotify.com/track/3CR4lqVVx9F96vkd7QAEmJ"
+    },
+    {
+      "album": {
+        "name": "she want prada",
+        "url": "https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "she want prada",
+      "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
     },
     {
       "album": {
@@ -18515,6 +18671,24 @@
     },
     {
       "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118813,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce"
       },
@@ -18794,6 +18968,24 @@
       "duration_ms": 228357,
       "name": "Sorted",
       "url": "https://open.spotify.com/track/7rzI77KjJsJc4f0JS0HWZU"
+    },
+    {
+      "album": {
+        "name": "SOS / No More Streetivities",
+        "url": "https://open.spotify.com/album/1sIibXLlnjglJS0HpvIzsu"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149464,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6kH6Curp0l0N9ysbvsTx25"
     },
     {
       "album": {
@@ -19600,7 +19792,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 192595,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"

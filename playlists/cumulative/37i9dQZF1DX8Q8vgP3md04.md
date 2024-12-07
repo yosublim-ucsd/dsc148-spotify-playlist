@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-117 songs - 8 hr 44 min
+118 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 | 2018-10-04 | 2022-12-13 |
 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 | 2020-07-21 |  |
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 | 2023-06-24 |
-| [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 | 2024-04-19 | 2024-10-05 |
+| [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 | 2024-04-19 |  |
 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 |  |
 | [Chaw Tilina](https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Chaw Tilina](https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ) | 3:31 | 2023-03-17 |  |
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 | 2023-03-18 |
@@ -44,7 +44,7 @@
 | [DEJARME LLEVAR](https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [DEJARME LLEVAR](https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A) | 2:53 | 2023-03-17 |  |
 | [Desnaan Jedheeraa/ Des Blognal](https://open.spotify.com/track/5U2Q9ASY20xyZv1LbVCI9k) | [Yamlu Molla](https://open.spotify.com/artist/0UphqXsRfB4p1OFCSO0w0z), [Kurkuraa Bonie Ko](https://open.spotify.com/artist/1ZdYdbWLgazeYfd9jUkGpZ) | [Desnaan Jedheeraa/ Des Blognal](https://open.spotify.com/album/3g7wtD9LihHxT174iXs1Gt) | 2:26 | 2024-03-08 |  |
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 | 2022-07-29 |
-| [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 |  |
+| [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2024-12-07 |
 | [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 | 2018-10-04 | 2024-04-19 |
 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 | 2023-09-15 |
 | [Endet Lichal](https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 5:29 | 2018-10-04 |  |
@@ -70,12 +70,13 @@
 | [Jegna](https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98) | [Mastewal Eyayu](https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP) | [Jegna](https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ) | 6:02 | 2022-12-12 |  |
 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 | 2022-11-17 | 2024-10-26 |
 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 | 2018-10-04 | 2023-03-18 |
+| [Kessan](https://open.spotify.com/track/3GuHUWNwjeuD5yY19P2D7s) | [Adinew AB](https://open.spotify.com/artist/36XEOmpmWIgsLRwqgnAbnN) | [Kessan](https://open.spotify.com/album/5z1M0ZPTg9DjssknXAAeWc) | 6:35 | 2024-12-06 |  |
 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 | 2020-07-21 |  |
 | [Kochegn](https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Kochegn](https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO) | 4:10 | 2023-06-23 |  |
 | [Konjo Bager](https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB) | [Dawit Mellesse](https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V) | [Andiken](https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf) | 6:13 | 2018-10-04 |  |
 | [Lageba New](https://open.spotify.com/track/3dUwM1SPDO9WtawRzN1otb) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1cLOZ7hjPx1d5qWUK1ImXY) | 3:37 | 2020-06-05 | 2024-04-19 |
 | [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 | 2020-06-05 |  |
-| [Lambang Cinta](https://open.spotify.com/track/6NR2ym3cncgTXZRgMEadEX) | [Richado](https://open.spotify.com/artist/7CekyK8qNxqe1vxMsnoXpJ), [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Lambang Cinta](https://open.spotify.com/album/3GAZG0wCgrnV3zUYTMgScm) | 4:48 | 2023-03-17 |  |
+| [Lambang Cinta](https://open.spotify.com/track/6NR2ym3cncgTXZRgMEadEX) | [Richado](https://open.spotify.com/artist/7CekyK8qNxqe1vxMsnoXpJ), [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Lambang Cinta](https://open.spotify.com/album/3GAZG0wCgrnV3zUYTMgScm) | 4:48 | 2023-03-17 | 2024-12-07 |
 | [Lijay](https://open.spotify.com/track/1H8X1BVWxWlGopjmqEhle5) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/6Q5i8LyFcC7rxILCKqXZ3N) | 5:24 | 2020-05-15 | 2022-11-13 |
 | [Lijay](https://open.spotify.com/track/38F1nH0CSPLuWYJXa2GWzl) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [To Know Without Knowing](https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX) | 5:24 | 2020-05-15 | 2023-03-18 |
 | [Lijay](https://open.spotify.com/track/57BxU4uqdbl6TITWtnQDMw) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Black Jesus Experience](https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4) | [Lijay](https://open.spotify.com/album/2z3hyHFNHnQ3h9R36uUvzO) | 5:24 | 2020-05-15 | 2022-07-29 |

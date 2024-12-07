@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Lil Durk",
+  "description": "The Midwest is always on time. Cover: Bfb Da Packman",
   "name": "CST",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 153648,
       "name": "3333",
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
@@ -974,6 +974,28 @@
       "duration_ms": 112631,
       "name": "Ain't Bout Nun",
       "url": "https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f"
+    },
+    {
+      "album": {
+        "name": "King Reap (Deluxe)",
+        "url": "https://open.spotify.com/album/7I3oNrlA4wWamfJ9c8pMVX"
+      },
+      "artists": [
+        {
+          "name": "Lil king",
+          "url": "https://open.spotify.com/artist/0CzagEF5LurOMRf4aUqBBe"
+        },
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Ain't Mean To Hurt You (feat. STAR BANDZ)",
+      "url": "https://open.spotify.com/track/0cRqGfbUc10jRmiarFkcF4"
     },
     {
       "album": {
@@ -1737,6 +1759,28 @@
     },
     {
       "album": {
+        "name": "Back innat Mode again",
+        "url": "https://open.spotify.com/album/4xK4yj1AxuFhdlNlUIRbWk"
+      },
+      "artists": [
+        {
+          "name": "Screwly G",
+          "url": "https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/2w5peIwh0YMNMyY6Ud2tKw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "Back innat Mode again",
+      "url": "https://open.spotify.com/track/5EXLc69ubIkjLnDUXyUoWW"
+    },
+    {
+      "album": {
         "name": "Back On Tour",
         "url": "https://open.spotify.com/album/030Cdfyj29mBrXPcw3VKNO"
       },
@@ -1848,6 +1892,24 @@
       "duration_ms": 125269,
       "name": "Backdoor",
       "url": "https://open.spotify.com/track/699kkSUZd5MljUFnaA18iD"
+    },
+    {
+      "album": {
+        "name": "Bad Bitty",
+        "url": "https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102342,
+      "name": "Bad Bitty",
+      "url": "https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6"
     },
     {
       "album": {
@@ -2004,6 +2066,24 @@
       "duration_ms": 171232,
       "name": "Balcony Thoughts",
       "url": "https://open.spotify.com/track/5rhfgRGnNViweOWqmQxAsa"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150888,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/7EBy2V93Ykyvfc5CMApTGc"
     },
     {
       "album": {
@@ -3432,7 +3512,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180064,
       "name": "Celebrate (with Offset)",
       "url": "https://open.spotify.com/track/1PJH81OEIhWwT6WKTpKRlv"
@@ -4458,6 +4538,24 @@
       "duration_ms": 195457,
       "name": "Dead N****s (feat. Polo G & G Herbo)",
       "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
+    },
+    {
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
     },
     {
       "album": {
@@ -6952,6 +7050,28 @@
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "album": {
+        "name": "Childhood Trauma",
+        "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "GooD KarMa (feat. G Herbo) (Remix)",
+      "url": "https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu"
     },
     {
       "album": {
@@ -9457,6 +9577,32 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR LIFESTYLE 2",
+        "url": "https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI"
+      },
+      "artists": [
+        {
+          "name": "DaeMoney",
+          "url": "https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127442,
+      "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
+      "url": "https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK"
+    },
+    {
+      "album": {
         "name": "JAPANESE DENIM (feat. Veeze & LUCKI)",
         "url": "https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ"
       },
@@ -10825,6 +10971,32 @@
     },
     {
       "album": {
+        "name": "The Coldest (Deluxe)",
+        "url": "https://open.spotify.com/album/2QeSLxCXPtRWzIyd7oTdM2"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Mama (with Rob49 & Tay B)",
+      "url": "https://open.spotify.com/track/1sIRRFYEMykQhzlSI9HTjL"
+    },
+    {
+      "album": {
         "name": "The X Tape (Deluxe)",
         "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
       },
@@ -11597,6 +11769,28 @@
     },
     {
       "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278237,
+      "name": "Ms. Joyce (feat. Bun B)",
+      "url": "https://open.spotify.com/track/4jE3URQqlnh2t4OwPqeiRC"
+    },
+    {
+      "album": {
         "name": "MURDAMAN! (feat. Chief Keef)",
         "url": "https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO"
       },
@@ -12026,7 +12220,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 75071,
       "name": "No Deals",
       "url": "https://open.spotify.com/track/6U8cLElq0IZkwNu3qmdTxZ"
@@ -13766,6 +13960,24 @@
       "duration_ms": 194047,
       "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
       "url": "https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv"
+    },
+    {
+      "album": {
+        "name": "Pouring Wok",
+        "url": "https://open.spotify.com/album/4KIdi7Rt9WZXIerAOPQFsC"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Pouring Wok",
+      "url": "https://open.spotify.com/track/3fTlzKjRSxF1p6eUwHiZur"
     },
     {
       "album": {
@@ -15850,7 +16062,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 138015,
       "name": "Show You How to Ball (feat. Babyfxce E)",
       "url": "https://open.spotify.com/track/4dTTxsUdupznSkpmeSdQGB"
@@ -16330,6 +16542,24 @@
       "duration_ms": 217914,
       "name": "Smurk Carter",
       "url": "https://open.spotify.com/track/3DFkDKoILOZ3an5oJzKDNZ"
+    },
+    {
+      "album": {
+        "name": "Spill Season",
+        "url": "https://open.spotify.com/album/39OSr5E0LZPPz9Ewo67LwY"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "Snakes in the Grass",
+      "url": "https://open.spotify.com/track/0wApQ5yW33fZsdXiQv0I9P"
     },
     {
       "album": {
@@ -17855,6 +18085,24 @@
     },
     {
       "album": {
+        "name": "Well Dude Here's My Thing",
+        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146986,
+      "name": "The Cup",
+      "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
+    },
+    {
+      "album": {
         "name": "SACRED HEART 2 (+)",
         "url": "https://open.spotify.com/album/2le3361n1oUDDdZBKcxzdU"
       },
@@ -18720,6 +18968,24 @@
       "duration_ms": 180133,
       "name": "Took My Breath Away (feat. Skye Morales)",
       "url": "https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g"
+    },
+    {
+      "album": {
+        "name": "Til Memories",
+        "url": "https://open.spotify.com/album/3O5yQhCUJg44CMhzKNBKUr"
+      },
+      "artists": [
+        {
+          "name": "Jontae",
+          "url": "https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Toxic Love Story",
+      "url": "https://open.spotify.com/track/1tz002DvmXTUhJfdPBWNsE"
     },
     {
       "album": {

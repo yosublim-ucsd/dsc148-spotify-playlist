@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Nayt
 
-207 songs - 10 hr 50 min
+208 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [FACTS](https://open.spotify.com/track/4ZqFq28LRJTj8Z82EoLibg) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [FACTS](https://open.spotify.com/album/3bETgmv7jeiL9ztdKumkUf) | 2:03 | 2024-02-22 | 2024-03-01 |
 | [FANGORIA \(feat\. Kid Yugi\)](https://open.spotify.com/track/2X2MteIqOjRSozQACNDtEo) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 2:28 | 2023-04-06 | 2023-04-28 |
 | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [FANTASMI \(feat\. Geolier & Marracash\)](https://open.spotify.com/album/4SyvX5syFVUmPvC8yS9KPw) | 3:19 | 2022-04-15 |  |
+| [Fare presto](https://open.spotify.com/track/5eUqIQCxlZ20Xa02G6NH2Z) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:28 | 2024-12-06 |  |
 | [Federico](https://open.spotify.com/track/6QuHvSa8ZOA3nZsuFaHbXS) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:11 | 2022-04-15 | 2022-06-10 |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-29 |  |
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |

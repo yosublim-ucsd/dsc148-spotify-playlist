@@ -4,7 +4,7 @@
 
 > ¡Celebramos a las mujeres mexicanas a todo volumen!  Belinda, Kenia OS y Danna en portada 💚
 
-1,273 songs - 2 day 21 hr 42 min
+1,274 songs - 2 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,7 @@
 | [Pajarillo Jilguero \(Tradicional de Guerrero\) \[En Vivo\]](https://open.spotify.com/track/5SwQYWjCDMBkw1d6QECmVX) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [10 Años](https://open.spotify.com/album/7gS4Uv3KJJ4FxM5v78sFeN) | 4:33 | 2022-10-05 | 2022-11-03 |
 | [Pajarito](https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Pajarito](https://open.spotify.com/album/24g6fF66JD00LheckA50yw) | 3:29 | 2023-10-04 | 2023-11-09 |
 | [Palabras Precisas](https://open.spotify.com/track/5eqqX65VfPpA2L9IwIBPmy) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Palabras Precisas](https://open.spotify.com/album/5DlzKjQTOFRBcUiva6RNVU) | 3:45 | 2023-06-07 | 2023-07-06 |
-| [palacio <3](https://open.spotify.com/track/2wjiSHFtEkWC8GDwubcSIx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:36 | 2024-12-04 |  |
+| [palacio <3](https://open.spotify.com/track/2wjiSHFtEkWC8GDwubcSIx) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:36 | 2024-12-04 | 2024-12-07 |
 | [Palacios](https://open.spotify.com/track/6aC7WNLBCjASrgjos0YA34) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Palacios](https://open.spotify.com/album/5eHxHwEs1Y3AEdRapgEsfi) | 2:32 | 2024-10-02 | 2024-11-07 |
 | [Paloma Negra](https://open.spotify.com/track/0anotjq0eIK4DsolmSaofp) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Homenaje a una Grande](https://open.spotify.com/album/22B1O50wYuPXDH1vnWAa2Q) | 3:16 | 2023-08-02 | 2023-09-07 |
 | [Palíndromo](https://open.spotify.com/track/1nCidg1Hrskh7gL9Wz5Uj0) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Palíndromo](https://open.spotify.com/album/4H0lTGq5KsU1U8kYGLPl3t) | 2:36 | 2024-09-04 | 2024-10-03 |
@@ -1123,6 +1123,7 @@
 | [Tengo Frio](https://open.spotify.com/track/7u3nPDxu42fE3gU9mCcTFn) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Lotofire](https://open.spotify.com/album/2AXy4lErcjSGoIHdElTGCV) | 4:46 | 2024-07-03 | 2024-08-08 |
 | [Tengo Mal Gusto](https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Tengo Mal Gusto](https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK) | 2:28 | 2024-10-02 | 2024-11-07 |
 | [tengo prisa](https://open.spotify.com/track/1EMTzKOhPxjKaL7h6uEL8J) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [tengo prisa](https://open.spotify.com/album/4BVmJML0goOCQMlONKfwtT) | 2:21 | 2023-09-06 | 2023-10-05 |
+| [Tenochtitlán](https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:13 | 2024-12-06 |  |
 | [Tenías Que Avisar](https://open.spotify.com/track/1sk6pQToLuNIzMMwxBFWc6) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [Lucas Beguerie](https://open.spotify.com/artist/3v7EPGIjdVJkMmG9G18lkv) | [Tenías Que Avisar](https://open.spotify.com/album/0BAdYn0KEPppe83QpiSzIZ) | 2:33 | 2022-09-07 | 2022-10-06 |
 | [The Boy from Southern Mississippi](https://open.spotify.com/track/5Lnpa7Fodx16xFjBSt8KV9) | [Sage Skylight](https://open.spotify.com/artist/4UoBKLCKLtDWlumVaI9epc) | [The Harpy Queen](https://open.spotify.com/album/1F6JJ6QjADcWA3nVo2JbBa) | 3:32 | 2022-11-02 | 2022-12-01 |
 | [The Problem Is You](https://open.spotify.com/track/2zA6s6CYiwXzd90ssl4fba) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Black](https://open.spotify.com/album/6pDCHNsoKPspTcVaJsnidX) | 3:33 | 2022-08-03 | 2022-09-09 |

@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Cansei De Chorar Seu Nome",
+        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        },
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224938,
+      "name": "Cansei De Chorar Seu Nome",
+      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "album": {
         "name": "Carinho",
         "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
       },
@@ -1100,7 +1126,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 330901,
       "name": "Licor",
       "url": "https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr"
@@ -1236,6 +1262,28 @@
       "duration_ms": 231402,
       "name": "Me Faz Sentir",
       "url": "https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh"
+    },
+    {
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Me Namora",
+      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
     },
     {
       "album": {
@@ -2074,7 +2122,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 294693,
       "name": "Renascer",
       "url": "https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm"

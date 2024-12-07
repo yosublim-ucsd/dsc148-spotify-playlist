@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 157528,
+  "num_followers": 157557,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAABpH1eSwLlgNvvwz6qmIzCz",
+  "snapshot_id": "Z1DtAAAAAAALxFU+XKcumNX1zAg/qsgc",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 75711,
-      "name": "Old Times - Remastered 2024",
-      "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 490006,
-      "name": "Born Under A Bad Sign - Remastered 2024",
-      "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
+      "duration_ms": 75711,
+      "name": "Old Times - Remastered 2024",
+      "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
     },
     {
       "added_at": null,

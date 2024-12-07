@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment \ud83e\udd1d with DJ Koze & Damon Albarn",
+  "description": "The best indie dance tracks of the moment \ud83c\udf3b with Zimmer90",
   "name": "metropolis",
   "tracks": [
     {
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 244321,
       "name": "All Time High",
       "url": "https://open.spotify.com/track/7Hm2K19xtnZ4FW7n2Zv5Uh"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 199375,
       "name": "BOOTS",
       "url": "https://open.spotify.com/track/4bucHejFAjKuMAQ4bU8fqg"
@@ -6181,6 +6181,28 @@
     },
     {
       "album": {
+        "name": "DANCER",
+        "url": "https://open.spotify.com/album/6LhQnJpChveHTCsvuARF8s"
+      },
+      "artists": [
+        {
+          "name": "POOLCLVB",
+          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
+        },
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225390,
+      "name": "DANCER",
+      "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
+    },
+    {
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an"
       },
@@ -6378,6 +6400,24 @@
       "duration_ms": 198258,
       "name": "Day Dreams - Mona Yim Remix",
       "url": "https://open.spotify.com/track/66WUdzZp9QD96YlIu4QcTa"
+    },
+    {
+      "album": {
+        "name": "Day Starter / Affection",
+        "url": "https://open.spotify.com/album/71T9iwrkVndtgjJPtTJbkR"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Day Starter",
+      "url": "https://open.spotify.com/track/2Fq880m3Pp53xhzmSMeteS"
     },
     {
       "album": {
@@ -6792,7 +6832,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 148205,
       "name": "Died At The Party",
       "url": "https://open.spotify.com/track/1CDwotYnigEU6QuoyJUSJ0"
@@ -6912,7 +6952,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 167442,
       "name": "Divine",
       "url": "https://open.spotify.com/track/4pkSzjnEYghi9kc9BNwuJu"
@@ -7342,6 +7382,24 @@
       "duration_ms": 183762,
       "name": "Don't Look At The DJ",
       "url": "https://open.spotify.com/track/07He9LsytcAKRFJlPFhpG9"
+    },
+    {
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/00AeOVTjPfLZ6KegBHsvaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185576,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/1cKjXJVvNSSDeZgI8fgOI0"
     },
     {
       "album": {
@@ -9953,6 +10011,24 @@
     },
     {
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170557,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
+    },
+    {
+      "album": {
         "name": "For Granted",
         "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
@@ -10144,6 +10220,24 @@
       "duration_ms": 192389,
       "name": "Forza",
       "url": "https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb"
+    },
+    {
+      "album": {
+        "name": "found",
+        "url": "https://open.spotify.com/album/5LMte7IKVvSiPUa7QcKckq"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "found",
+      "url": "https://open.spotify.com/track/5JH6fXDF7AMWMyRPj20q1P"
     },
     {
       "album": {
@@ -12154,7 +12248,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 215111,
       "name": "Hey Baby (salute remix - radio edit)",
       "url": "https://open.spotify.com/track/3Wt9BeTK8SlTG7c3KEBJN5"
@@ -14281,6 +14375,24 @@
     },
     {
       "album": {
+        "name": "Minha Vida - Hope",
+        "url": "https://open.spotify.com/album/1e8s9etJoiLcpjtVyTos4V"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197813,
+      "name": "In Love We Know Ourselves",
+      "url": "https://open.spotify.com/track/44WuGH7v0DkjwUIcroKxl1"
+    },
+    {
+      "album": {
         "name": "In My Arms",
         "url": "https://open.spotify.com/album/0fHWRhAXuIpwXPm7HQwHDb"
       },
@@ -14681,6 +14793,32 @@
     },
     {
       "album": {
+        "name": "Into The Blue (feat. kamille) [Baltra Remix]",
+        "url": "https://open.spotify.com/album/7J8FvSHjwhRxeQVk0aMaly"
+      },
+      "artists": [
+        {
+          "name": "Will Sass",
+          "url": "https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc"
+        },
+        {
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        },
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182922,
+      "name": "Into The Blue (feat. kamille) [Baltra Remix]",
+      "url": "https://open.spotify.com/track/3CcFc8SXjQMuT66rxwc2Az"
+    },
+    {
+      "album": {
         "name": "Into You",
         "url": "https://open.spotify.com/album/2EhuFctQwCpZiQj8mTu8xU"
       },
@@ -14940,6 +15078,28 @@
       "duration_ms": 186275,
       "name": "It's Ok (It's Not Ok)",
       "url": "https://open.spotify.com/track/5I1pqWYuCCNZxmqCO2gGuu"
+    },
+    {
+      "album": {
+        "name": "it's our time down here",
+        "url": "https://open.spotify.com/album/1E7Hp5EHFAYM48KK6BACv3"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Elphi",
+          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150468,
+      "name": "it's our time down here",
+      "url": "https://open.spotify.com/track/2kOd3mKWHoho6FaocQk718"
     },
     {
       "album": {
@@ -16272,7 +16432,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 221030,
       "name": "Life at Full Speed",
       "url": "https://open.spotify.com/track/29pC8YWSnfFq6x9mOXsafF"
@@ -18180,6 +18340,28 @@
       "duration_ms": 291721,
       "name": "Mango Feedback",
       "url": "https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9"
+    },
+    {
+      "album": {
+        "name": "Marmite (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/3yZ0BSzvv9KyII56iZ909x"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240302,
+      "name": "Marmite - Fcukers Remix",
+      "url": "https://open.spotify.com/track/37ebkeBtuT4Am3qb98HHOL"
     },
     {
       "album": {
@@ -24660,7 +24842,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 231349,
       "name": "Show You",
       "url": "https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf"
@@ -26564,7 +26746,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 200186,
       "name": "Sun In Your Eyes",
       "url": "https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3"
@@ -27328,6 +27510,24 @@
       "duration_ms": 187375,
       "name": "Thank You/Rebel and a Cause - from ech0",
       "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+    },
+    {
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/0spQnHysbmv3eYXjVGIjw7"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212059,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/6q3CHqrpj1xhACjwolpLWs"
     },
     {
       "album": {
@@ -28112,6 +28312,24 @@
       "duration_ms": 266106,
       "name": "The Witching Hour",
       "url": "https://open.spotify.com/track/0wCAUFC6yyUh5Eax8uTLwk"
+    },
+    {
+      "album": {
+        "name": "its all good",
+        "url": "https://open.spotify.com/album/0ysYJqP60Gqgv6tS2V8GUX"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140536,
+      "name": "thebaddest",
+      "url": "https://open.spotify.com/track/4CvN2WpixbxFHenJYFIRPo"
     },
     {
       "album": {
@@ -28900,7 +29118,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 252676,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN"
@@ -29042,7 +29260,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 223440,
       "name": "Totem",
       "url": "https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop"
@@ -30356,7 +30574,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 210232,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/6yj74on8CdNfq76fpIGCPF"

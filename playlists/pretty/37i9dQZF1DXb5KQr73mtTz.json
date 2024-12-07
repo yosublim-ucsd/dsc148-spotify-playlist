@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17903,
+  "num_followers": 17913,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "In your heart",
         "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 221720,
       "name": "In your heart",
       "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Spring days pass",
-      "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 219133,
       "name": "Dear you (Romance 101 X LeeHi)",
       "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "Jeongnyeon: The Star is Born, Pt. 3 : Spring days pass (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 201320,
+      "name": "Spring days pass",
+      "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 287741,
       "name": "I say \"I love you\" again",
       "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "\uaf43",
-        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 258872,
-      "name": "\uc81c\ubc1c",
-      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "long to be the garden",
         "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 192466,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "\uaf43",
+        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 258872,
+      "name": "\uc81c\ubc1c",
+      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
         "name": "Can I Not ?",
         "url": "https://open.spotify.com/album/2oS4HX7sFBamp0sTlR9S2R"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "something",
-        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
-      },
-      "artists": [
-        {
-          "name": "Joob A",
-          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "something",
-      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "Try (Journey Epilogue)",
         "url": "https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 216026,
       "name": "Try (Journey Epilogue)",
       "url": "https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "something",
+      "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "We Were There",
-        "url": "https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv"
-      },
-      "artists": [
-        {
-          "name": "DAREDAA",
-          "url": "https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6"
-        }
-      ],
-      "duration_ms": 223227,
-      "name": "We Were There",
-      "url": "https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
         "name": "Judgement",
         "url": "https://open.spotify.com/album/4WY3C8BcaHKYV2EkRwtXJn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 261780,
       "name": "Judgement",
       "url": "https://open.spotify.com/track/0h2wpEhVr4J2BRHSlwjW9O"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
+        "name": "We Were There",
+        "url": "https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv"
+      },
+      "artists": [
+        {
+          "name": "DAREDAA",
+          "url": "https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6"
+        }
+      ],
+      "duration_ms": 223227,
+      "name": "We Were There",
+      "url": "https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

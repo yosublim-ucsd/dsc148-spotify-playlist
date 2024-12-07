@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mar\u00eda Morgade",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Plastilina",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 226800,
       "name": "Algo Nuevo",
       "url": "https://open.spotify.com/track/5inx7jLc2w5ypAEp2zir2L"
@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "MARCA DE NACIMIENTO",
+        "url": "https://open.spotify.com/album/0tog7otr5xCQFNyoOx5beR"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200244,
+      "name": "cuchillos que brillan",
+      "url": "https://open.spotify.com/track/1l2jceM2Y772rKL24CYCM8"
+    },
+    {
+      "album": {
         "name": "Cuentos de Hadas",
         "url": "https://open.spotify.com/album/42YdWleChKhMQoMJI7st48"
       },
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 171272,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ"
@@ -2798,6 +2816,24 @@
       "duration_ms": 143744,
       "name": "Hechizao",
       "url": "https://open.spotify.com/track/5pm2qaWB2aeoa5B2kFjQXg"
+    },
+    {
+      "album": {
+        "name": "igual o mejor",
+        "url": "https://open.spotify.com/album/2AgaXT4zgEuHg93TXrA8Zc"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215530,
+      "name": "igual o mejor",
+      "url": "https://open.spotify.com/track/4fJ9CNXe3uEIZfQEcc5ZOE"
     },
     {
       "album": {
@@ -3278,6 +3314,28 @@
       "duration_ms": 285517,
       "name": "LO QUE DIGA HOY",
       "url": "https://open.spotify.com/track/7FkFhyOgUqQPt6wlv07zt0"
+    },
+    {
+      "album": {
+        "name": "Lo que nos queda",
+        "url": "https://open.spotify.com/album/7yWm9dEsqhR6CJ7j5TAVbV"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        },
+        {
+          "name": "martin allende",
+          "url": "https://open.spotify.com/artist/2jKATrLpgygKpgHv4nAweQ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226261,
+      "name": "Lo que nos queda",
+      "url": "https://open.spotify.com/track/0J7wanexG2VHYWzLpTGkz3"
     },
     {
       "album": {
@@ -4876,7 +4934,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180923,
       "name": "PUCHITO",
       "url": "https://open.spotify.com/track/1zVln8wy82xdPRQelAQ6zf"
@@ -5574,7 +5632,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 150037,
       "name": "tir\u00e9",
       "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
@@ -5800,6 +5858,28 @@
       "duration_ms": 175669,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/3mTDQM9PlZ3PJvROVjgwzq"
+    },
+    {
+      "album": {
+        "name": "Tu soledad y la m\u00eda",
+        "url": "https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Tu soledad y la m\u00eda",
+      "url": "https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq"
     },
     {
       "album": {

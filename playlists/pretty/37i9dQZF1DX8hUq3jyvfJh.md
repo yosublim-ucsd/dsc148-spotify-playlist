@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,945 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,006 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 |
 | 29 | [Espero Que Seja Feliz](https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Espero Que Seja Feliz](https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt) | 3:13 |
 | 30 | [Cacau](https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:21 |
-| 31 | [só dessa vez](https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [CÉU DA BOCA, a parte I](https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN) | 2:54 |
-| 32 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 31 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
+| 32 | [só dessa vez](https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [CÉU DA BOCA, a parte I](https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN) | 2:54 |
 | 33 | [Foi Tudo em Vão](https://open.spotify.com/track/6SCwnNfu4ERv8W8YNC2oLN) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Foi Tudo em Vão](https://open.spotify.com/album/5ZRELK5Ptbo891dgmLEFZy) | 2:34 |
 | 34 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
 | 35 | [A Otária](https://open.spotify.com/track/3JzBmsPw4ekdtU6Z7W2Ctt) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [A Otária](https://open.spotify.com/album/2rYIzuNh3IQbf8xQBmuZAr) | 2:51 |

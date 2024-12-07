@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-345 songs - 16 hr 56 min
+346 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [loveseasons](https://open.spotify.com/track/47VYljDi6KJM3PPKTo7yQr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [loveseasons](https://open.spotify.com/album/1i6h5nVrl2t3aVYCut5mgw) | 1:59 | 2024-11-22 |  |
 | [Lunar](https://open.spotify.com/track/75XyOPZx7izKlAx3t7Z9eH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8), [Estoric](https://open.spotify.com/artist/6N4Dpg7qAykAxA95NaYKLX), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Lunar](https://open.spotify.com/album/40w2cyLw0AFHejLi6BqqWr) | 2:06 | 2024-11-08 |  |
-| [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 |  |
+| [Lunar Glow in the Lagoon](https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv) | [Julien Daïan](https://open.spotify.com/artist/1sbU4PhV0rilFBoBUcGMqa) | [Suppose It Is Butter](https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ) | 6:28 | 2024-11-22 | 2024-12-07 |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 | 2024-11-21 |
 | [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-08-23 |  |
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
@@ -263,6 +263,7 @@
 | [Saturnine](https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Saturnine](https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK) | 4:53 | 2023-08-22 | 2024-11-23 |
 | [Saucisses](https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Saucisses](https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0) | 2:27 | 2023-08-22 | 2024-12-05 |
 | [Sensia](https://open.spotify.com/track/5putLwZVDKvE7q0DRm0diB) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Sensia](https://open.spotify.com/album/7K8s4ba6y6Pq5RPAMBklU4) | 2:50 | 2024-11-15 |  |
+| [Show Me Your Style](https://open.spotify.com/track/0glLQ2TjhPQ1QEts10butk) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Show Me Your Style](https://open.spotify.com/album/6oAAs5EAm1X6CTrL3LDyKE) | 2:01 | 2024-12-06 |  |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2024-03-20 | 2024-06-05 |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-08-22 | 2024-04-19 |
 | [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 | 2024-02-21 | 2024-08-25 |

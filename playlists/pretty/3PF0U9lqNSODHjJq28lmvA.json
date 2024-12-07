@@ -6,319 +6,271 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD7NGyHAhHuUnkKHeyyz7Ye+EcO2xG",
+  "snapshot_id": "AAAD8V6VSM7q+h6nzCcE+FvpMuZb3Rro",
   "tracks": [
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "A Lifetime in Pain",
-        "url": "https://open.spotify.com/album/4Ygkqq6yVjeA7Jpmj1NwqM"
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/0f4o5OFqlNz3EqX36zv6c5"
       },
       "artists": [
         {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+          "name": "MADDY MAY",
+          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
         }
       ],
-      "duration_ms": 188335,
-      "name": "A Lifetime in Pain",
-      "url": "https://open.spotify.com/track/688wANrgJUQihI33I12pmU"
+      "duration_ms": 172317,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3qizmLdqqq4uODMQLQrOYz"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "No Shelter (From The Rain)",
-        "url": "https://open.spotify.com/album/2LLZ6Oik0tCrnjZ2Q22vyH"
+        "name": "Back Alley Art",
+        "url": "https://open.spotify.com/album/4HwKgTOUKGmLVFDgQFGcPm"
       },
       "artists": [
         {
-          "name": "Trainman Blues",
-          "url": "https://open.spotify.com/artist/4EtygfoYbLDpe9eKy25sUH"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "No Shelter (From The Rain)",
-      "url": "https://open.spotify.com/track/23unfXqWKBLYU5dNyZAAMD"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "Lot Hjerte Ditt dra",
-        "url": "https://open.spotify.com/album/1HMZCJdQC7Ctxf9VLH8z2k"
-      },
-      "artists": [
-        {
-          "name": "Thosebricks",
-          "url": "https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj"
+          "name": "TmmyX",
+          "url": "https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK"
         },
         {
-          "name": "Skjevik",
-          "url": "https://open.spotify.com/artist/62MIIbNPmuJGIOWR4XQ7em"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Lot Hjerte Ditt dra",
-      "url": "https://open.spotify.com/track/2zQIukVEKopPXDt4Iddxea"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "N\u00e4ralivetupplevelsen/Varf\u00f6r",
-        "url": "https://open.spotify.com/album/2e7KPP2Sh4BqmmlBjEnhbF"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rnarna",
-          "url": "https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y"
-        }
-      ],
-      "duration_ms": 180331,
-      "name": "N\u00e4ralivetupplevelsen",
-      "url": "https://open.spotify.com/track/7HZTE9iWLtZ7zLwkdiErnG"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "Menade f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/3XUogjd33m92RKAEpiAAS4"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rns Band",
-          "url": "https://open.spotify.com/artist/5vshbshO7DybuIWIq86rUG"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Menade f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/3m6bG9kpVLZTlcVYajgrdK"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "Mitt Liv",
-        "url": "https://open.spotify.com/album/1VkVir842K6hcQCFjJdq3q"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hemlin",
-          "url": "https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt"
-        }
-      ],
-      "duration_ms": 198623,
-      "name": "Mitt liv",
-      "url": "https://open.spotify.com/track/2OQim8eOoNFt2V6vflz1Iy"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "Passa",
-        "url": "https://open.spotify.com/album/0LsWiOoGROXvzFS3RilhLF"
-      },
-      "artists": [
-        {
-          "name": "Mazar",
-          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Passa",
-      "url": "https://open.spotify.com/track/2XEiJiYKYo4Qa3BoahFLbB"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/1qdXqSEcDhJK0QPcwUBBkT"
-      },
-      "artists": [
-        {
-          "name": "Maklo & Peter",
-          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
-        }
-      ],
-      "duration_ms": 181035,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0UXY7P2ThkbB4nLDB9YDLV"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "A.K.W",
-        "url": "https://open.spotify.com/album/3tLqMjKJsekO0rhrKRw876"
-      },
-      "artists": [
-        {
-          "name": "Landsv\u00e4g 76",
-          "url": "https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1"
-        }
-      ],
-      "duration_ms": 216443,
-      "name": "A.K.W",
-      "url": "https://open.spotify.com/track/3dEi6TiJoZQehVyZFrrTqR"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "real love",
-        "url": "https://open.spotify.com/album/5Y13BqoCyXGolNwNi5oHpN"
-      },
-      "artists": [
-        {
-          "name": "BRAVO",
-          "url": "https://open.spotify.com/artist/4frFc8oT9qzlTtoHiACIwy"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "real love",
-      "url": "https://open.spotify.com/track/1GEY022Fl3SMLXEvwZ1v2K"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "There Will Be Oceans",
-        "url": "https://open.spotify.com/album/4hGhAc31KMPfBJOHe9v8vz"
-      },
-      "artists": [
-        {
-          "name": "Drever",
-          "url": "https://open.spotify.com/artist/5dwBfmm7dTk3NiEBLZ3vaJ"
-        }
-      ],
-      "duration_ms": 266598,
-      "name": "There Will Be Oceans",
-      "url": "https://open.spotify.com/track/6oSzzOGhTwVIBJQRgZobJv"
-    },
-    {
-      "added_at": "2024-11-29 15:11:09",
-      "album": {
-        "name": "tenukepit (Live at Rytmikorjaamo, 24/5/2024)",
-        "url": "https://open.spotify.com/album/2AmXEXgmGBbjhmU8poPigW"
-      },
-      "artists": [
-        {
-          "name": "1Tipe",
-          "url": "https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7"
+          "name": "Chris Rivers",
+          "url": "https://open.spotify.com/artist/4TCqgEIWd5RsCKItJqt8PL"
         },
         {
-          "name": "Kvartetti",
-          "url": "https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi"
+          "name": "nikmoody",
+          "url": "https://open.spotify.com/artist/3xJPID7HT7YaFXtDZPhfIC"
         }
       ],
-      "duration_ms": 158417,
-      "name": "tenukepit - Live at Rytmikorjaamo, 24/5/2024",
-      "url": "https://open.spotify.com/track/4IsUkvAkbMD1s5duvxE1It"
+      "duration_ms": 139534,
+      "name": "Back Alley Art",
+      "url": "https://open.spotify.com/track/7ovEpUZXLbWnV8gqtoafya"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "baby blue",
-        "url": "https://open.spotify.com/album/6Atyfmfis9Lphy3RW39FzI"
+        "name": "Aire En Perspectiva",
+        "url": "https://open.spotify.com/album/7vOpNYNQArpp57nKDlKaQU"
       },
       "artists": [
         {
-          "name": "the diamondbacks",
-          "url": "https://open.spotify.com/artist/6SPdbDQWjOtcFMmTh9sQkN"
+          "name": "El Cantaitor",
+          "url": "https://open.spotify.com/artist/4nJHolL2iizfZUo6PhbOo0"
+        },
+        {
+          "name": "M\u00e1",
+          "url": "https://open.spotify.com/artist/3KPau62ZVJLDhiFtzwRABv"
         }
       ],
-      "duration_ms": 192367,
-      "name": "baby blue",
-      "url": "https://open.spotify.com/track/75lWNZgm1yRmLY4hvHYeuW"
+      "duration_ms": 128450,
+      "name": "Aire En Perspectiva",
+      "url": "https://open.spotify.com/track/32buKY7l3NZViuwy6AEIRa"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Luciavisa / Den signade dag",
-        "url": "https://open.spotify.com/album/0RRp1xw4XlRHHf3bP51HDR"
+        "name": "Jag Kan Undra",
+        "url": "https://open.spotify.com/album/1wYW3b220mVXioJCEK7EMK"
       },
       "artists": [
         {
-          "name": "TON\u00c5",
-          "url": "https://open.spotify.com/artist/02phQfSig5Csyp242kM3RI"
+          "name": "Mik\u00e4el",
+          "url": "https://open.spotify.com/artist/531Lk2RKOoToHcmoPdeLLd"
         }
       ],
-      "duration_ms": 230808,
-      "name": "Luciavisa",
-      "url": "https://open.spotify.com/track/7ES0WiM2jSbstCFa1SvGpi"
+      "duration_ms": 212800,
+      "name": "Jag Kan Undra",
+      "url": "https://open.spotify.com/track/0kHKShvUx6ybgWqXY4q6dx"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/3zIGPXKoVkntflYcl5IzTP"
+        "name": "H\u00f6g Frekvens",
+        "url": "https://open.spotify.com/album/6uYTrsUOOYBOwuZNDLiXFd"
       },
       "artists": [
         {
-          "name": "Pretty Smile",
-          "url": "https://open.spotify.com/artist/6rhtmUtQrmLCTbJQt6nK7C"
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/59UfURXqVmhzy5FZkFJFRg"
+        },
+        {
+          "name": "Vaiken",
+          "url": "https://open.spotify.com/artist/2ldZCADuSqTdJsYMT4VLjn"
+        },
+        {
+          "name": "V\u00e4stermalmsligan",
+          "url": "https://open.spotify.com/artist/0TgEeBPqfe7ujdZ5yK1V6R"
         }
       ],
-      "duration_ms": 180924,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2jo3QJDR7CBTzsvZGSgRW8"
+      "duration_ms": 169600,
+      "name": "H\u00f6g Frekvens",
+      "url": "https://open.spotify.com/track/7DDSJVoDkSe0w8oAMg7EIO"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Perfect display of love",
-        "url": "https://open.spotify.com/album/6vdLOxlkzttoh5iYslxy83"
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/5ra3Dw2FpXDY2QxEm8rgKc"
       },
       "artists": [
         {
-          "name": "Portraits & Tales",
-          "url": "https://open.spotify.com/artist/7se2ygBpDjPSbQ0plY9mI1"
+          "name": "Odessa K",
+          "url": "https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7"
         }
       ],
-      "duration_ms": 229180,
-      "name": "Perfect display of love",
-      "url": "https://open.spotify.com/track/3OaT6MApTDWCIj2e2M8dcZ"
+      "duration_ms": 208280,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3ma9X0f5i7ugYOcMqxhy6v"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Closer To The Edge",
-        "url": "https://open.spotify.com/album/1LuXxIRUQbCSA31KHQPpPC"
+        "name": "Don't Wait Up",
+        "url": "https://open.spotify.com/album/47XGzR9ihkAzhsGQPEU0ws"
       },
       "artists": [
         {
-          "name": "Hadidi Nouri",
-          "url": "https://open.spotify.com/artist/1dEWwolQzveMvU8kQ9MWnd"
+          "name": "THEFIRSTBOURNE.",
+          "url": "https://open.spotify.com/artist/4lhxJG3mRdgz1GYjvHXBhd"
         }
       ],
-      "duration_ms": 178581,
-      "name": "Respond Time",
-      "url": "https://open.spotify.com/track/4gH3M88N2y7N1TEcKkXjd4"
+      "duration_ms": 222431,
+      "name": "Don't Wait Up",
+      "url": "https://open.spotify.com/track/59V9sInxwR968NUPwqTqUq"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Like A Stone",
-        "url": "https://open.spotify.com/album/0Lzcie1A7gGdIX8BeE6cwi"
+        "name": "Cage",
+        "url": "https://open.spotify.com/album/3SpKxqcYtoqZ3PVEU6IGXb"
       },
       "artists": [
         {
-          "name": "Alf Hill",
-          "url": "https://open.spotify.com/artist/1rV7jt56jKFcW76hvEuPlH"
+          "name": "Marionette",
+          "url": "https://open.spotify.com/artist/2vvpK4sY1sBxlsdaLPvXZ4"
         }
       ],
-      "duration_ms": 218969,
-      "name": "Like A Stone",
-      "url": "https://open.spotify.com/track/1P4c9CnFBbiuw0oWFdRond"
+      "duration_ms": 200000,
+      "name": "Cage",
+      "url": "https://open.spotify.com/track/5CMP5hUSA4OFDYLWz8zvw1"
     },
     {
-      "added_at": "2024-11-29 15:11:09",
+      "added_at": "2024-12-07 02:01:43",
       "album": {
-        "name": "Desert - upgraded",
-        "url": "https://open.spotify.com/album/29trPtjgm7PDrHOpdcZzGf"
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/5THpi4GmTTGaXnCaXk0jOY"
       },
       "artists": [
         {
-          "name": "Doktor Stent",
-          "url": "https://open.spotify.com/artist/1JDVkP9NmrGJm0OgQtNxGF"
+          "name": "LOMMI",
+          "url": "https://open.spotify.com/artist/33J5hTWqIi9Yxr8ddzPWnh"
         }
       ],
-      "duration_ms": 232228,
-      "name": "Love me",
-      "url": "https://open.spotify.com/track/4Gpm8Ri68AW1nimzYlGaWj"
+      "duration_ms": 259420,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/61aTnmVhVyZXzr8bnIOzie"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "If Not You",
+        "url": "https://open.spotify.com/album/2bHIkTG6PSYrpVeiEaKOoI"
+      },
+      "artists": [
+        {
+          "name": "Melinda",
+          "url": "https://open.spotify.com/artist/0HnP2qhrcSNH3Ks8b0kPCF"
+        },
+        {
+          "name": "Magnus B\u00e4cklund",
+          "url": "https://open.spotify.com/artist/5lDRHWIcnl76SBeXJBInNl"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "If Not You",
+      "url": "https://open.spotify.com/track/0l9ZtErThWAupmvdyDi4WM"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/40CYKOWhgUByQEEdU4Zv87"
+      },
+      "artists": [
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/5Q2jQISS0fpfPLHj4IKBsj"
+        }
+      ],
+      "duration_ms": 125964,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6oZGDyr5zznuKbYQLR8yf3"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/0zZFX72wyBJGJ4GpKIWsMX"
+      },
+      "artists": [
+        {
+          "name": "Magne H\u00e5heim",
+          "url": "https://open.spotify.com/artist/5I0UTc9IHeSImz2XxhoxZF"
+        }
+      ],
+      "duration_ms": 203510,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/0Aw4tvBRE71nq36uE24tdh"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "Minnesota",
+        "url": "https://open.spotify.com/album/4a6rjUXz066QsvmvEUGIEd"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nlandet",
+          "url": "https://open.spotify.com/artist/7jXQOHmBRhYmqLmnSHsrSV"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Minnesota",
+      "url": "https://open.spotify.com/track/6ADHwvnrgGvr5j7M7n1y9n"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "The Ones in Charge",
+        "url": "https://open.spotify.com/album/5i0s8y13uyBClgK7y4SBco"
+      },
+      "artists": [
+        {
+          "name": "Sound Interface Device",
+          "url": "https://open.spotify.com/artist/2EiEOoh9IlTvUTLtb3z7xo"
+        }
+      ],
+      "duration_ms": 334812,
+      "name": "The Ones in Charge - Alternative Mix",
+      "url": "https://open.spotify.com/track/31gILS0PIz7mdpR8baYoxm"
+    },
+    {
+      "added_at": "2024-12-07 02:01:43",
+      "album": {
+        "name": "Vicious Habits",
+        "url": "https://open.spotify.com/album/0XUo9UTf0nTjm1veHU4dMU"
+      },
+      "artists": [
+        {
+          "name": "Margaux's Star Chart",
+          "url": "https://open.spotify.com/artist/1hgcE7ouQS3rl1nzquncLf"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Home Care Sadist",
+      "url": "https://open.spotify.com/track/7gy2M0NOB5LFVMn3stw5uL"
     }
   ],
   "unique_name": "Independent Music Friday",

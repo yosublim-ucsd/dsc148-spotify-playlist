@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Zoe Ko",
+  "description": "Dark, hard hitting pop. Cover: Ellise",
   "name": "SALT",
   "tracks": [
     {
@@ -3302,6 +3302,24 @@
       "duration_ms": 152492,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd"
+    },
+    {
+      "album": {
+        "name": "dead2me",
+        "url": "https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "dead2me",
+      "url": "https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb"
     },
     {
       "album": {
@@ -8463,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "MASTERMIND",
+        "url": "https://open.spotify.com/album/3IRv0jwNnAbEzSUZPvfv2M"
+      },
+      "artists": [
+        {
+          "name": "EMM",
+          "url": "https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180169,
+      "name": "MASTERMIND",
+      "url": "https://open.spotify.com/track/689AAIH7FSHYwTG2HujHSU"
+    },
+    {
+      "album": {
         "name": "Masterpiece",
         "url": "https://open.spotify.com/album/1fO1r3rTHIcF1s6pG8EGZs"
       },
@@ -10950,6 +10986,24 @@
       "duration_ms": 165687,
       "name": "Riots",
       "url": "https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL"
     },
     {
       "album": {
@@ -15018,6 +15072,24 @@
       "duration_ms": 184961,
       "name": "Yes No Okay",
       "url": "https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7"
+    },
+    {
+      "album": {
+        "name": "You are what you fear in me.",
+        "url": "https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "You are what you fear in me.",
+      "url": "https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR"
     },
     {
       "album": {

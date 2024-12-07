@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Les Votives in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,599 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,676 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monster](https://open.spotify.com/track/2Imf5A0uAWGe8P1Rf8ZIK3) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [Monster](https://open.spotify.com/album/0iJrCqDHPcq8Y88qQEWpmi) | 2:18 |
 | 2 | [Eraserhead](https://open.spotify.com/track/2ZuwigNV0Yw9yshkr0wtDQ) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Isobel](https://open.spotify.com/album/2mYgFhon7a8Px1LMx7jwhr) | 3:30 |
-| 3 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 |
+| 3 | [Senza paura](https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Senza paura](https://open.spotify.com/album/6sGXPl6dJGW8MDOhzcqiG0) | 3:10 |
 | 4 | [Da Solo](https://open.spotify.com/track/12VJ148Eh5UjrTuFau79B8) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Da Solo](https://open.spotify.com/album/0DtDZPYvODVD6of7IQS5y7) | 2:50 |
-| 5 | [Rampicanti](https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Rampicanti](https://open.spotify.com/album/0l8Yd9IeNKED3u1axpA3rE) | 2:44 |
-| 6 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
-| 7 | [Come sbagliare di meno](https://open.spotify.com/track/42lOfUFZyMM2tOknHWnR5B) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Come sbagliare di meno](https://open.spotify.com/album/1BOczgJCqmQVGc1pTXhRHa) | 2:22 |
-| 8 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 |
-| 9 | [Vorrei Vedere Voi](https://open.spotify.com/track/6O3NUDSpf5T5VHIMeQpVgB) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Terra Bruciata](https://open.spotify.com/album/109klVvYVIMzcwEgicHuBZ) | 3:30 |
-| 10 | [Senza paura](https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Senza paura](https://open.spotify.com/album/6sGXPl6dJGW8MDOhzcqiG0) | 3:10 |
-| 11 | [Venere](https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Venere](https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP) | 3:39 |
-| 12 | [Be Like A Spider \- She Said](https://open.spotify.com/track/5MfsyPzZkcWHKTiPMSw1b5) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [TO ALL THE LOST SOULS](https://open.spotify.com/album/1rtS4ZXUT58JHbA3ekCEFS) | 6:06 |
-| 13 | [LA FINE](https://open.spotify.com/track/4Ku4hyAVPbS1uDuISpcIvr) | [PITONI](https://open.spotify.com/artist/47FmploiTJhA9BABtpnpAI) | [/ PITONI](https://open.spotify.com/album/58eEaLxYIII0tCljXTaZu5) | 2:34 |
-| 14 | [Far tremare il corpo](https://open.spotify.com/track/6LKLQQWwZgUGEcfhm6qMZ9) | [Chivàla](https://open.spotify.com/artist/2aG1EHtNL5uPbCVPEuzTJH) | [Far tremare il corpo](https://open.spotify.com/album/6MKZrpg6YXvSCANmb9NuuD) | 2:52 |
-| 15 | [Sul Globo d'argento](https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej) | [Neoprimitivi](https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne) | [Sul Globo d'argento](https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv) | 20:59 |
-| 16 | [El Me Moro](https://open.spotify.com/track/7sKmVmMOpQYwjORN8PgkGE) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [El Me Moro](https://open.spotify.com/album/1XDROOAgLBPOzYabr2l8b9) | 4:51 |
-| 17 | [Brucia](https://open.spotify.com/track/43HCIcHLLc6VnoAlrb0P12) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:40 |
-| 18 | [Not a Song for U](https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL) | [Hardcore Tamburo](https://open.spotify.com/artist/7LQPw5C8KFKcwO9g6XWCBH) | [Not a Song for U](https://open.spotify.com/album/5DrQcWGXrSFuuJaO78DVn8) | 4:26 |
-| 19 | [Pioggia](https://open.spotify.com/track/7hIlk0CmZ9drnekRgMtbAs) | [Fuorimano](https://open.spotify.com/artist/7FtBMIiu6p16oE3I6ULjcM) | [Rimasti Indietro](https://open.spotify.com/album/6HciTag3REapbsxYXczSmK) | 1:56 |
-| 20 | [Almeno Per Oggi](https://open.spotify.com/track/2ONMi8O0SHUejht1Hjh7JA) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Almeno Per Oggi](https://open.spotify.com/album/4LdIIWnRQIae3C15vupd7Z) | 2:27 |
-| 21 | [Laguna Beach](https://open.spotify.com/track/1kKioXBMQSxAzq8T79i3ko) | [Heaven or Las Vegas](https://open.spotify.com/artist/5ozL9iHS3LgG1tH7FfErqQ) | [Laguna Beach](https://open.spotify.com/album/0wKva0yRd5Lu0hbJdJRBGQ) | 2:58 |
-| 22 | [Pianura paura](https://open.spotify.com/track/6ciFPpC0ZI8RS5vHp5DJmI) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Mazapé](https://open.spotify.com/album/1LXoWjDdXuW0fyncoFpZg8) | 3:24 |
+| 5 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 |
+| 6 | [LA FINE](https://open.spotify.com/track/4Ku4hyAVPbS1uDuISpcIvr) | [PITONI](https://open.spotify.com/artist/47FmploiTJhA9BABtpnpAI) | [/ PITONI](https://open.spotify.com/album/58eEaLxYIII0tCljXTaZu5) | 2:34 |
+| 7 | [Rampicanti](https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Rampicanti](https://open.spotify.com/album/0l8Yd9IeNKED3u1axpA3rE) | 2:44 |
+| 8 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
+| 9 | [Pioggia](https://open.spotify.com/track/7hIlk0CmZ9drnekRgMtbAs) | [Fuorimano](https://open.spotify.com/artist/7FtBMIiu6p16oE3I6ULjcM) | [Rimasti Indietro](https://open.spotify.com/album/6HciTag3REapbsxYXczSmK) | 1:56 |
+| 10 | [Come sbagliare di meno](https://open.spotify.com/track/42lOfUFZyMM2tOknHWnR5B) | [Renàra](https://open.spotify.com/artist/2RJIwXtGg34ECvKxTzYuNF) | [Come sbagliare di meno](https://open.spotify.com/album/1BOczgJCqmQVGc1pTXhRHa) | 2:22 |
+| 11 | [my baby!](https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [my baby!](https://open.spotify.com/album/4bUidnmyokkkKhHJRlYalD) | 2:57 |
+| 12 | [Vorrei Vedere Voi](https://open.spotify.com/track/6O3NUDSpf5T5VHIMeQpVgB) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Terra Bruciata](https://open.spotify.com/album/109klVvYVIMzcwEgicHuBZ) | 3:30 |
+| 13 | [Pianura paura](https://open.spotify.com/track/6ciFPpC0ZI8RS5vHp5DJmI) | [Lo Straniero](https://open.spotify.com/artist/0m2ZFwd9Gh7wI0NpqzIkBD) | [Mazapé](https://open.spotify.com/album/1LXoWjDdXuW0fyncoFpZg8) | 3:24 |
+| 14 | [Venere](https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Venere](https://open.spotify.com/album/7eCTsM1ZpUo8PRbkJ6jAjP) | 3:39 |
+| 15 | [Be Like A Spider \- She Said](https://open.spotify.com/track/5MfsyPzZkcWHKTiPMSw1b5) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [TO ALL THE LOST SOULS](https://open.spotify.com/album/1rtS4ZXUT58JHbA3ekCEFS) | 6:06 |
+| 16 | [Far tremare il corpo](https://open.spotify.com/track/6LKLQQWwZgUGEcfhm6qMZ9) | [Chivàla](https://open.spotify.com/artist/2aG1EHtNL5uPbCVPEuzTJH) | [Far tremare il corpo](https://open.spotify.com/album/6MKZrpg6YXvSCANmb9NuuD) | 2:52 |
+| 17 | [Sul Globo d'argento](https://open.spotify.com/track/2DZn7It464Zfd41i3CRdej) | [Neoprimitivi](https://open.spotify.com/artist/1eINmKeKX8dfPPD0hQCXne) | [Sul Globo d'argento](https://open.spotify.com/album/6X3uJpJpmD5mrwfK85kWsv) | 20:59 |
+| 18 | [El Me Moro](https://open.spotify.com/track/7sKmVmMOpQYwjORN8PgkGE) | [Elli de Mon](https://open.spotify.com/artist/5cKkMwUUJG4ikwRpeynbhm) | [El Me Moro](https://open.spotify.com/album/1XDROOAgLBPOzYabr2l8b9) | 4:51 |
+| 19 | [Brucia](https://open.spotify.com/track/43HCIcHLLc6VnoAlrb0P12) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Hotel esistenza](https://open.spotify.com/album/1Vwliljh15ZM7gv0PdLZCE) | 3:40 |
+| 20 | [Not a Song for U](https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL) | [Hardcore Tamburo](https://open.spotify.com/artist/7LQPw5C8KFKcwO9g6XWCBH) | [Not a Song for U](https://open.spotify.com/album/5DrQcWGXrSFuuJaO78DVn8) | 4:26 |
+| 21 | [Almeno Per Oggi](https://open.spotify.com/track/2ONMi8O0SHUejht1Hjh7JA) | [Colla](https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6) | [Almeno Per Oggi](https://open.spotify.com/album/4LdIIWnRQIae3C15vupd7Z) | 2:27 |
+| 22 | [Laguna Beach](https://open.spotify.com/track/1kKioXBMQSxAzq8T79i3ko) | [Heaven or Las Vegas](https://open.spotify.com/artist/5ozL9iHS3LgG1tH7FfErqQ) | [Laguna Beach](https://open.spotify.com/album/0wKva0yRd5Lu0hbJdJRBGQ) | 2:58 |
 | 23 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
 | 24 | [Son of the Rambling Dawn](https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo) | [Mondaze](https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ) | [Son of the Rambling Dawn](https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW) | 3:38 |
 | 25 | [My circle](https://open.spotify.com/track/2Tydf7VLsxxdIyxxr4QFIc) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [My circle](https://open.spotify.com/album/1FcaTgxPh2ikU1IhAFizKE) | 2:40 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [non mi guardavi nemmeno](https://open.spotify.com/track/3DqwilpSwz1ElbRhFvUIBe) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [non mi guardavi nemmeno](https://open.spotify.com/album/0eT6RoM3l688rLKFfMd5Z9) | 3:18 |
 | 95 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 |
 
-Snapshot ID: `Z1IwrAAAAACI/G2NDYxVNPdWyUoZayxq`
+Snapshot ID: `Z1LbGAAAAAClT/bFyxDYRrVSlPrjWxFW`

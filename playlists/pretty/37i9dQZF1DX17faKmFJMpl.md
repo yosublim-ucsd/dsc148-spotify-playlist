@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,042 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 56 | [Windbag Three Brothers and Spinner Park](https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ) | [Ill Skillz](https://open.spotify.com/artist/76P0BTmaa59BFCNoOuAVfW) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 3:57 |
 | 57 | [Be Free \(feat\. Verbal Jint, Sean2Slow\)](https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [We Are Music](https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ) | 4:19 |
 | 58 | [이 구역에 미친놈은 나야 \(feat\. Geegooin & New Champ\)](https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua), [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 3:51 |
-| 59 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
-| 60 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
+| 59 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
+| 60 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
 | 61 | [박교주 전성시대](https://open.spotify.com/track/471yf20erR95AOOzVeGcZU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [Another Level](https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h) | 2:46 |
 | 62 | [Around Us](https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy) | [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:36 |
 | 63 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |

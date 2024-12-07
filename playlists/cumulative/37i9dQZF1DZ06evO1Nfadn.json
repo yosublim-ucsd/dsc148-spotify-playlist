@@ -1798,10 +1798,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 145972,
       "name": "Que Sacrificio",
       "url": "https://open.spotify.com/track/0H4sY34re8cnzGfwKQboiE"
+    },
+    {
+      "album": {
+        "name": "La Estrella De Los Bailes",
+        "url": "https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "Que Sacrificio",
+      "url": "https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj"
     },
     {
       "album": {

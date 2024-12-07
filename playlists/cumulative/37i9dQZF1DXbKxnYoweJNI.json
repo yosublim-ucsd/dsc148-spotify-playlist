@@ -19999,7 +19999,7 @@
     },
     {
       "album": {
-        "name": "\u7329\u7d05",
+        "name": "\u7329\u7d05Crimson",
         "url": "https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y"
       },
       "artists": [
@@ -20012,7 +20012,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216152,
-      "name": "\u7d05\u971e\u5287\u5834",
+      "name": "\u7d05\u971e\u5287\u5834The Sunset Playhouse",
       "url": "https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ"
     },
     {
@@ -22218,6 +22218,24 @@
       "duration_ms": 180618,
       "name": "\u9069\u5408\u544a\u5225\u7684\u5929\u6c23",
       "url": "https://open.spotify.com/track/5nTPPzELkVlhPABLdm7GVb"
+    },
+    {
+      "album": {
+        "name": "\u907a\u8a00",
+        "url": "https://open.spotify.com/album/48RAXy0Y4zeLzQDFaEwGDY"
+      },
+      "artists": [
+        {
+          "name": "\u8cf4\u5955\u6cd3",
+          "url": "https://open.spotify.com/artist/4n0pWvKeByJ8apOVaU2K39"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243582,
+      "name": "\u907a\u8a00",
+      "url": "https://open.spotify.com/track/1g31ft2x5l2MavckNteL0v"
     },
     {
       "album": {

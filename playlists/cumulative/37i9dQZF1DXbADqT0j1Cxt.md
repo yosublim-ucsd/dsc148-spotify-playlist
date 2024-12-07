@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-686 songs - 20 hr 52 min
+690 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Douceur](https://open.spotify.com/track/7coUTLWmwsrqGRZWOzl7Y3) | [Liv Isglans](https://open.spotify.com/artist/6fYU0RQ2ZOvofVWtAWvMqU) | [Douceur](https://open.spotify.com/album/48WZeVMoxKNVakvkc8vH6v) | 2:39 | 2024-05-24 |  |
 | [Down By The Bay](https://open.spotify.com/track/742c6pq3nrmbAVBfIs5rrT) | [Polyák Lazar](https://open.spotify.com/artist/04qxCyQREKAuS2k9LAQbEZ) | [Humpty Dumpty](https://open.spotify.com/album/660aCDME0MSiTTcWIayRxs) | 1:21 | 2021-10-07 | 2022-12-10 |
 | [Down By The Bay](https://open.spotify.com/track/33vHl033oQ8m50wbAEc5jg) | [Ruby Barnes](https://open.spotify.com/artist/2kzymRA8IJ9cGwKYvRLiI8) | [Down By The Bay](https://open.spotify.com/album/27Gvpy7UBRrrSbDL1AYuEL) | 1:43 | 2021-10-07 | 2023-04-09 |
+| [Dream A Little Dream](https://open.spotify.com/track/2qPwfefFQBMgzPsnAXtPV5) | [Hugo Beauchamp](https://open.spotify.com/artist/3QG279a9CdSRX7ktPF3RGA) | [Dream A Little Dream](https://open.spotify.com/album/3oby7ZywgBCMfRRyMSkCLy) | 2:09 | 2024-12-06 |  |
 | [Dream Time](https://open.spotify.com/track/4ZRCedGgRihP3QkJuqDMOW) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Dream Time](https://open.spotify.com/album/5L1AFKWXBh2dZ8NHoNL2Jg) | 2:20 | 2024-01-05 |  |
 | [Dreambear](https://open.spotify.com/track/6JKkegxsYmFJ2HbjLxwz9O) | [Alicja Pawlowska](https://open.spotify.com/artist/3sZRepzXEVWUR0vTDpmBBn) | [Dreambear](https://open.spotify.com/album/4dyt7Kgu09MWKs303sGCWH) | 2:04 | 2024-06-28 |  |
 | [Dreamland](https://open.spotify.com/track/13GKdhfHesxaGXTOS6y1Ui) | [Poppy Penguin](https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3) | [Dreamland](https://open.spotify.com/album/1T9Z7uWLpBdOA54sAlKhfP) | 1:39 | 2023-04-07 |  |
@@ -391,6 +392,7 @@
 | [My Everything](https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk) | [All About The Children](https://open.spotify.com/artist/29eOaIXJHKqBfBBkAEumXL) | [My Everything](https://open.spotify.com/album/3bEFPyW24a1KCII6zsT3d7) | 2:12 | 2024-08-30 |  |
 | [My Favorite Pyjamas](https://open.spotify.com/track/7gtjmbBppWQoqoc7nDJrXp) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [My Favorite Pyjamas](https://open.spotify.com/album/4v5aywFJcku60kgiokyfuo) | 1:30 | 2021-10-07 |  |
 | [My First Tooth](https://open.spotify.com/track/5GrcAAUOcEozkmvXfQI8Jd) | [Clarabelle Marshall](https://open.spotify.com/artist/1AJtkn0K0xhNCYjOVqd9ho) | [My First Tooth](https://open.spotify.com/album/24VYOK10FCAtj1eJYIM69Q) | 1:45 | 2022-11-25 |  |
+| [My Grandfather's Clock](https://open.spotify.com/track/3mfbqsYUdIqGIPzKjmOEQC) | [Blake Burns](https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC) | [My Grandfather's Clock](https://open.spotify.com/album/0blYuyqsulapquVkfpheqi) | 1:49 | 2024-12-06 |  |
 | [My Great\-Great\-Great Grandfather](https://open.spotify.com/track/0s5sRfIRGstws2SF4nEhSL) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [My Great\-Great\-Great Grandfather](https://open.spotify.com/album/7u69zaMN7vtMzebdVxP2QC) | 2:09 | 2022-04-19 | 2023-03-18 |
 | [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-06-22 |  |
 | [My Little Angel](https://open.spotify.com/track/7q2niOhFitCLwzgYM1arxn) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [My Little Angel](https://open.spotify.com/album/4uuolQ8meACNGcHA8l5QgM) | 3:02 | 2021-10-07 | 2022-10-29 |
@@ -426,6 +428,7 @@
 | [Oh! Susanna](https://open.spotify.com/track/4BTJpnBQdOVcILo8LdPAdj) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:18 | 2021-10-07 | 2022-09-03 |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3FbKnCRNzHwIudovtaKa7x) | [Lenox Martin](https://open.spotify.com/artist/472Cau4ZzDrfQR8Xwm4arw) | [You Are My Sunshine](https://open.spotify.com/album/30rgKeVh7lKTgCv2HNP0fC) | 3:04 | 2021-10-07 | 2022-09-03 |
 | [On Top of Old Smoky](https://open.spotify.com/track/2kKcw9T4NMzvntvegmS2N6) | [Leon Marcus](https://open.spotify.com/artist/2vZ0kN1eFvshSzRWBwd3jf) | [Go Tell It on the Mountain](https://open.spotify.com/album/0N74Q2xMw7rhxwjolOLCrE) | 2:21 | 2021-10-07 | 2022-10-29 |
+| [Once I Caught a Fish Alive](https://open.spotify.com/track/0Sy396JCnARH9rvfnSro8S) | [Victoria Kane](https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ) | [Once I Caught a Fish Alive](https://open.spotify.com/album/0HOJb5dC9GkMVN5r1enXAP) | 1:59 | 2024-12-06 |  |
 | [Once Upon A Star](https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Once Upon A Star](https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S) | 1:43 | 2023-02-24 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-06-15 |  |
 | [One More, Mommy!](https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC) | [Gabriella Chiado](https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH) | [One More, Mommy!](https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05) | 1:58 | 2023-10-20 | 2024-05-04 |
@@ -453,6 +456,7 @@
 | [Playing With Leaves](https://open.spotify.com/track/0swfhyV723N4nOZDegevHF) | [Philip Berg](https://open.spotify.com/artist/5SuoJwXJbEpgRJLfqOWTQ3) | [Playing With Leaves](https://open.spotify.com/album/2WgU0TvMznsZyZjSllsiJc) | 1:47 | 2024-09-30 |  |
 | [Polly Put The Kettle On](https://open.spotify.com/track/6Z45xZxsNmlU2D1uGzGFQh) | [Måns Reitz](https://open.spotify.com/artist/73sS3enUEIPrcrsTHMck08) | [Polly Put The Kettle On](https://open.spotify.com/album/4FPhGGuPiguMo1tPoqhqye) | 1:28 | 2024-05-03 |  |
 | [Polly Wolly Doodle](https://open.spotify.com/track/2DiFgIeLFDnS3y8Q0zw2LV) | [Luana Dias Araujo](https://open.spotify.com/artist/7s8KvVp5I0zZ48PSCxjwVF) | [Polly Wolly Doodle](https://open.spotify.com/album/5hufQfj3W5nMwpmmQjG8t6) | 1:54 | 2021-10-07 | 2024-03-29 |
+| [Polly Wolly Doodle](https://open.spotify.com/track/6k3zfD44SLtPDPqysgTYd9) | [Vera Oppenheim](https://open.spotify.com/artist/6sMDWyPzUsjydb64jvhGvT) | [Polly Wolly Doodle](https://open.spotify.com/album/6qYgS9txCqExvzBCsZsJRh) | 1:34 | 2024-12-06 |  |
 | [Poppy Puppy](https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [Poppy Puppy](https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs) | 1:29 | 2024-01-05 |  |
 | [Precious Dreamer](https://open.spotify.com/track/2SKo6awCXFRPIZD9cdahJr) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Precious Dreamer](https://open.spotify.com/album/0hc26eDSgvRlEAOYmSEzma) | 2:02 | 2023-12-08 |  |
 | [Princess Slumber](https://open.spotify.com/track/0h7okODqU0eBJTi9z1R5An) | [Lea Augustsson](https://open.spotify.com/artist/1vnsfcP0pbF43YhYn5Cbxg) | [Princess Slumber](https://open.spotify.com/album/4tctHWs2ustkvdGCnTcUjq) | 1:56 | 2024-04-19 |  |
@@ -523,7 +527,7 @@
 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 | 2023-12-08 |  |
 | [Snart skal du sove](https://open.spotify.com/track/6ZiA9pkMVVxpCw8m1LciW9) | [Solveig Green](https://open.spotify.com/artist/7CjEbkZgG613pA83cnudnK) | [Snart skal du sove](https://open.spotify.com/album/3Gz3JKTXcHNYjopzM5YhKu) | 1:54 | 2021-10-07 | 2024-05-24 |
 | [Snoozie](https://open.spotify.com/track/7ugyZzpdaba3UIvfwKK3qT) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Tiny Toddler](https://open.spotify.com/album/0eULh7p9fHZOiRy9vJZFwj) | 1:59 | 2023-02-24 |  |
-| [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-10-07 |  |
+| [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-10-07 | 2024-12-07 |
 | [Snuggle Time](https://open.spotify.com/track/0kHZ9XUe9ewCb7GUZjArlP) | [Milly Fitzpatrick](https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9) | [Snuggle Time](https://open.spotify.com/album/3dcidxtZPen1iiUPHT8KzY) | 1:44 | 2022-05-13 |  |
 | [Soft Bear](https://open.spotify.com/track/2sMgvy0fQhWcil0wY0V7AJ) | [Tiny Teddy](https://open.spotify.com/artist/6xHwRw7frAzIq7IsUApKyt) | [Sleep Sleep](https://open.spotify.com/album/5Ge9qAlN0C1YzQ71yQhAtO) | 1:54 | 2021-10-07 | 2024-05-24 |
 | [Soft Little Shoes](https://open.spotify.com/track/29eCoO5NSOk6ITzCe46u8R) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [Soft Little Shoes](https://open.spotify.com/album/2GCuoOVyOKVMFFqRU4WM7A) | 2:26 | 2024-08-09 |  |

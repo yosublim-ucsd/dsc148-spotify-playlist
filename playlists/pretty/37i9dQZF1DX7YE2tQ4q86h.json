@@ -1,13 +1,61 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Lady Gaga",
-  "num_followers": 194374,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Rebecca Black",
+  "num_followers": 194432,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lOmAAAAADoQdhmFdJwPUaz4hZSXnXB",
+  "snapshot_id": "Z1KFfwAAAAAkvXl5bJ7upA/CUjdZB2Mn",
   "tracks": [
+    {
+      "added_at": "2024-12-06 04:59:38",
+      "album": {
+        "name": "Sugar Water Cyanide",
+        "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 174296,
+      "name": "Sugar Water Cyanide",
+      "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
+    },
+    {
+      "added_at": "2024-12-06 04:59:38",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/3IjmE1mPSh09HyJXUtElAN"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 255309,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA"
+    },
+    {
+      "added_at": "2024-11-29 05:17:58",
+      "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -25,20 +73,36 @@
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
-      "added_at": "2024-11-29 05:17:58",
+      "added_at": "2024-12-06 05:02:55",
       "album": {
-        "name": "DELUSIONAL",
-        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
         }
       ],
-      "duration_ms": 195859,
-      "name": "DELUSIONAL",
-      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+      "duration_ms": 158769,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL"
+    },
+    {
+      "added_at": "2024-12-06 04:59:38",
+      "album": {
+        "name": "DECLINED/BLUFFIN",
+        "url": "https://open.spotify.com/album/2fAAtw2DJlLcSh0tgbjPQ6"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 162729,
+      "name": "DECLINED",
+      "url": "https://open.spotify.com/track/52PgmgbZ209UwjRAajDRuV"
     },
     {
       "added_at": "2024-11-25 20:15:43",
@@ -61,6 +125,22 @@
       "url": "https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z"
     },
     {
+      "added_at": "2024-11-29 05:06:57",
+      "album": {
+        "name": "Masochist",
+        "url": "https://open.spotify.com/album/4Z0RGrL0lS2TgN4vnpJjAH"
+      },
+      "artists": [
+        {
+          "name": "XTINA GG",
+          "url": "https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril"
+        }
+      ],
+      "duration_ms": 128720,
+      "name": "Masochist",
+      "url": "https://open.spotify.com/track/0sfFiT4uaEhtcVzxx14h6a"
+    },
+    {
       "added_at": "2024-11-11 18:07:18",
       "album": {
         "name": "Supernova Love",
@@ -81,20 +161,52 @@
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
-      "added_at": "2024-11-29 05:06:57",
+      "added_at": "2024-12-06 04:59:38",
       "album": {
-        "name": "Masochist",
-        "url": "https://open.spotify.com/album/4Z0RGrL0lS2TgN4vnpJjAH"
+        "name": "Uh Uh (Outside)",
+        "url": "https://open.spotify.com/album/3ElOgRYBG6fZDjubmlr1ca"
       },
       "artists": [
         {
-          "name": "XTINA GG",
-          "url": "https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril"
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
         }
       ],
-      "duration_ms": 128720,
-      "name": "Masochist",
-      "url": "https://open.spotify.com/track/0sfFiT4uaEhtcVzxx14h6a"
+      "duration_ms": 189556,
+      "name": "Uh Uh (Outside)",
+      "url": "https://open.spotify.com/track/5nT60m44V8pI8fxYW8F5XH"
+    },
+    {
+      "added_at": "2024-12-06 04:59:38",
+      "album": {
+        "name": "Leash (Babygirl Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Leash (Babygirl Original Soundtrack)",
+      "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
+    {
+      "added_at": "2024-11-25 20:15:43",
+      "album": {
+        "name": "I Can't Quit",
+        "url": "https://open.spotify.com/album/33wwTPX7FZ7OoSBjORbQHj"
+      },
+      "artists": [
+        {
+          "name": "Mel 4Ever",
+          "url": "https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "I Can't Quit",
+      "url": "https://open.spotify.com/track/0Irj6PuEEGzi7JGJvAhdZ8"
     },
     {
       "added_at": "2024-11-25 20:15:43",
@@ -127,38 +239,6 @@
       "duration_ms": 187127,
       "name": "Record Deal",
       "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
-    },
-    {
-      "added_at": "2024-11-25 20:15:43",
-      "album": {
-        "name": "I Can't Quit",
-        "url": "https://open.spotify.com/album/33wwTPX7FZ7OoSBjORbQHj"
-      },
-      "artists": [
-        {
-          "name": "Mel 4Ever",
-          "url": "https://open.spotify.com/artist/7e34iWed5vSXh7wAoejlOJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "I Can't Quit",
-      "url": "https://open.spotify.com/track/0Irj6PuEEGzi7JGJvAhdZ8"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Wet & Wild",
-        "url": "https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Wet & Wild",
-      "url": "https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -215,34 +295,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "about dancing",
-        "url": "https://open.spotify.com/album/3w7vFCsg2T4ft0HjvoDTdy"
-      },
-      "artists": [
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "DJ Marky",
-          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
-        }
-      ],
-      "duration_ms": 157028,
-      "name": "yoyo",
-      "url": "https://open.spotify.com/track/6DNVY8fSGfbK28aO0qhIbG"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Holiday Road - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
       },
@@ -255,22 +307,6 @@
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "TRUST!",
-        "url": "https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "TRUST!",
-      "url": "https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -303,6 +339,22 @@
       "duration_ms": 216588,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
+    },
+    {
+      "added_at": "2024-12-06 04:59:38",
+      "album": {
+        "name": "Amour",
+        "url": "https://open.spotify.com/album/05U0IswNO4kXVYPJuhA4wR"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "Give Me Luv",
+      "url": "https://open.spotify.com/track/5pzhHXU7365ByottrJtOZ7"
     },
     {
       "added_at": "2024-10-18 04:00:00",

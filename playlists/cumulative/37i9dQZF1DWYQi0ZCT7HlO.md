@@ -4,7 +4,7 @@
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-74 songs - 3 hr 12 min
+77 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Do They Know It's Christmas \- Fireplace Version](https://open.spotify.com/track/3J0pRoDOCYQPrCfOAyaJl9) | [Tony Deans](https://open.spotify.com/artist/3d7m26R3bBUoThTdRLqfDC) | [Do They Know It's Christmas](https://open.spotify.com/album/5JZ987EnoYnRKNQwSfXTGG) | 3:43 | 2023-11-21 |  |
 | [Do You Hear What I Hear \- Fireplace](https://open.spotify.com/track/7tlBeryJIvr9ZjpWmfFGUV) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Do You Hear What I Hear](https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf) | 3:18 | 2023-11-21 |  |
 | [Do You Want To Build A Snowman \- By The Fire](https://open.spotify.com/track/7txqEbOCcacXqRl2fruzmD) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [Christmas By The Fire](https://open.spotify.com/album/1k256NIUtEGBKOUCdNSHVJ) | 3:05 | 2023-11-21 |  |
+| [Feliz Navidad](https://open.spotify.com/track/2gCZKqKEAtRZjTJGzHIf01) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Feliz Navidad](https://open.spotify.com/album/4akxMu1ZtYGIAd6NV405Hc) | 3:05 | 2024-12-06 |  |
 | [Give Love on Christmas Day](https://open.spotify.com/track/5Un2fvHZqhPpmUnwilx5jS) | [Doreen Koch](https://open.spotify.com/artist/1xpWsGfQSWaSKdzRUhFyoY) | [Give Love on Christmas Day](https://open.spotify.com/album/1qtJJViXBqI5gcl4LYsFtf) | 2:55 | 2023-11-21 |  |
 | [Go Tell it on the Mountain \(Fireside\)](https://open.spotify.com/track/5sLlO2yezDpmxwGzou9wPP) | [N Piccolina](https://open.spotify.com/artist/47ZGaS4IcMwkIutwnhNJjC) | [Go Tell it on the Mountain \(Fireside\)](https://open.spotify.com/album/1JaFyNm2oLE1XF4vH0Oium) | 2:15 | 2024-11-18 |  |
 | [God Rest Ye Merry Gentlemen \- Homely](https://open.spotify.com/track/2HXXd1Cnss5c9ijD6G3Wb6) | [Andrew Billings](https://open.spotify.com/artist/1dmdQP2zEvRaMQiEaQFfJc) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/7qtC23aPGJhSzyLXXelxgo) | 3:06 | 2023-11-21 |  |
@@ -51,6 +52,7 @@
 | [Joy To the World \(Fireside\)](https://open.spotify.com/track/1W74Qnoa3kp4uTTlIcTTPL) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Joy To the World \(Fireside\)](https://open.spotify.com/album/1Y8vgvwHus0sIg4lIwnKHo) | 2:26 | 2024-11-18 |  |
 | [Joy To The World \- Fireside](https://open.spotify.com/track/6AUh5lLePBqI26f5LdyIXe) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Fireside Joy Of Christmas](https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi) | 1:37 | 2023-11-21 |  |
 | [Last Christmas](https://open.spotify.com/track/4SxcGw9pdhCbkUMsRf78UQ) | [Marika Miklos](https://open.spotify.com/artist/40ojVTGr5E5WA9QeAZp6wm) | [Last Christmas](https://open.spotify.com/album/2Vvv0jgfoOC7QV18Hv1z0g) | 2:46 | 2023-11-21 |  |
+| [Like It's Christmas \(Fireplace Version\)](https://open.spotify.com/track/67ss5ZP5lT8Tk1aTT3sfgj) | [Noel Newman](https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF) | [Like It's Christmas \(Fireplace Version\)](https://open.spotify.com/album/7LSc45bpP6hCPjDujCvwm7) | 3:42 | 2024-12-06 |  |
 | [Little Drummer Boy \- Fireplace](https://open.spotify.com/track/36ipoN00BRMvCOEUwU5rVt) | [Rhett Week](https://open.spotify.com/artist/03HqLsJ07z6JYJtzDtgDiZ) | [Little Drummer Boy](https://open.spotify.com/album/1O50FuubuNIaddheLayCvT) | 2:44 | 2023-11-21 |  |
 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 | 2023-11-21 |  |
 | [Marys Boychild](https://open.spotify.com/track/0osb0FU1iezygPXT4FgBbo) | [Danny Silberman](https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa) | [Cosy Fireplace](https://open.spotify.com/album/62bH34ytSHlN9oi69WAfpu) | 3:14 | 2023-11-21 |  |
@@ -72,6 +74,7 @@
 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 | 2023-11-21 |  |
 | [Star Of The East \- Fireside Christmas](https://open.spotify.com/track/6v5fFhkc1abGAwEWVciEPb) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 1:51 | 2023-11-21 |  |
 | [Sussex Carol \- Cosy Fireplace](https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:24 | 2023-11-21 |  |
+| [That Christmas Feeling](https://open.spotify.com/track/0UMt7MtTwUdRHfJgWzs5yw) | [Alistair Corby](https://open.spotify.com/artist/2AOoX147NTTg0AmU9MmyVE) | [That Christmas Feeling](https://open.spotify.com/album/4NKIVOWRXBKTpFJaBZpAhX) | 1:59 | 2024-12-06 |  |
 | [The Christmas Song](https://open.spotify.com/track/4s7RK1po6cVNGfT5cI9IJo) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Deck The Halls](https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ) | 3:14 | 2023-11-21 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/5uNziYyvu46DW5m8TcSm75) | [Sarah Danielsson](https://open.spotify.com/artist/3hapMtWQiO3mf7w0zUEOyS) | [The Christmas Waltz](https://open.spotify.com/album/09cGcbg3g2ly5My8RxRBst) | 2:57 | 2023-11-21 |  |
 | [The Coventry Carol \- Cosy Fireplace](https://open.spotify.com/track/0hjOSIrhAaj4X5z5p1qLRh) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary \(Cosy Fireplace version\)](https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca) | 2:13 | 2023-11-21 |  |

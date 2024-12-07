@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 166533,
       "name": "Met Het Vliegtuig Naar Spanje",
       "url": "https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC"
@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Samen Met Jou",
+        "url": "https://open.spotify.com/album/2qUbHG3ZCZSJmVQPGpp7ob"
+      },
+      "artists": [
+        {
+          "name": "Ron Tas",
+          "url": "https://open.spotify.com/artist/7yY8Me5jIOeTmOdswNeaDl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198405,
+      "name": "Samen Met Jou",
+      "url": "https://open.spotify.com/track/6o2UAH25pOQPyqCrirQyMi"
+    },
+    {
+      "album": {
         "name": "Samen Niet Alleen",
         "url": "https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n"
       },
@@ -2700,8 +2718,8 @@
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "Wendy",
+          "url": "https://open.spotify.com/artist/60MqrvbaYDybtfVD9J0HrR"
         }
       ],
       "date_added": "2024-11-28",

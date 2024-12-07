@@ -6351,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "Straight Outta Heaven",
+        "url": "https://open.spotify.com/album/5fdgjpST2SXh4WCDmYGr36"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185340,
+      "name": "Straight Outta Heaven",
+      "url": "https://open.spotify.com/track/0T3mL97rtfvJq89UtWwVUC"
+    },
+    {
+      "album": {
         "name": "Subtle Games (Remix)",
         "url": "https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R"
       },

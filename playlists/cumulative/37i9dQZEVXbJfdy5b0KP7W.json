@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -7274,6 +7274,28 @@
       "duration_ms": 264560,
       "name": "La Duda",
       "url": "https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs"
+    },
+    {
+      "album": {
+        "name": "La Encontr\u00e9",
+        "url": "https://open.spotify.com/album/4fCRAPp6w5e8PwjkyMppTJ"
+      },
+      "artists": [
+        {
+          "name": "Vallejo Music",
+          "url": "https://open.spotify.com/artist/5UeVyAUyyC0ZFvN9cdzfnj"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "La Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6mIJuOxHpvciCIr6ISVkKO"
     },
     {
       "album": {
@@ -13814,7 +13836,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 240179,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
@@ -16942,7 +16964,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147598,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"

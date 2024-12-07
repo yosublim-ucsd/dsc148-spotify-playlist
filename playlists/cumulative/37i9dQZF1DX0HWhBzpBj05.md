@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-181 songs - 10 hr 8 min
+183 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Silver Bells](https://open.spotify.com/track/745vzVj6vhA5LqfqOfqBci) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:16 | 2022-12-05 |  |
 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 | 2021-12-20 |  |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-12-01 | 2024-10-19 |
+| [Snow Globe](https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Snow Globe](https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj) | 3:21 | 2024-12-06 |  |
 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2022-12-05 |  |
 | [Step Into Christmas](https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 4:32 | 2022-10-23 | 2022-11-13 |
 | [Step Into Christmas](https://open.spotify.com/track/2uEiuFTudAg6mYwuLWTfZh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)](https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE) | 4:32 | 2021-12-20 |  |
@@ -163,6 +164,7 @@
 | [Under The Mistletoe \- Bonus Track](https://open.spotify.com/track/2CYnG4UCBBEKIiux3S0jBU) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:45 | 2021-12-20 | 2022-12-06 |
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2021-12-20 |  |
 | [Waltz Of The Flowers](https://open.spotify.com/track/71puJ5SVGNpKvK1sq0TMQ9) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 2:00 | 2021-12-20 | 2023-10-21 |
+| [We Need a Little Christmas](https://open.spotify.com/track/7uyIOiGyIpOR6OGz8UHBuq) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Christmas Eve With Johnny Mathis](https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP) | 1:55 | 2024-12-06 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/1zhUjGWlA6kJfIC9PYMjBJ) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance \(Deluxe Edition\)](https://open.spotify.com/album/4KCW2gVyGEUjBTOFLRgByk) | 3:49 | 2021-12-20 | 2022-07-29 |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 3:49 | 2021-12-20 | 2022-12-06 |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/7ymP6bi2ufhArxKbxUkGkf) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/4ZomfR8jSbQYmozJ3PFRSW) | 3:49 | 2022-10-23 | 2022-11-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap. Cover: ericdoa",
+  "description": "A little bit of pop, a little bit of rap. Cover: iann dior",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -6426,7 +6426,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155302,
       "name": "Like That (feat. Armani White)",
       "url": "https://open.spotify.com/track/669ftUGKrpw9aWYqg6EaGB"
@@ -9627,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151698,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK"
+    },
+    {
+      "album": {
         "name": "Seen It All",
         "url": "https://open.spotify.com/album/3AoGIwd7pMu3mio3YiVjhQ"
       },
@@ -10894,6 +10912,24 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135356,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP"
     },
     {
       "album": {

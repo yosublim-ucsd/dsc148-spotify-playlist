@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Snow Globe",
+        "url": "https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201768,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M"
+    },
+    {
+      "album": {
         "name": "Mono Singles",
         "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
       },
@@ -2960,6 +2978,24 @@
       "duration_ms": 120960,
       "name": "Waltz Of The Flowers",
       "url": "https://open.spotify.com/track/71puJ5SVGNpKvK1sq0TMQ9"
+    },
+    {
+      "album": {
+        "name": "Christmas Eve With Johnny Mathis",
+        "url": "https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115146,
+      "name": "We Need a Little Christmas",
+      "url": "https://open.spotify.com/track/7uyIOiGyIpOR6OGz8UHBuq"
     },
     {
       "album": {

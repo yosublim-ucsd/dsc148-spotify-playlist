@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 81242,
+  "num_followers": 81262,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 334586,
       "name": "My Lullaby for You",
       "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
+        "name": "acts of rebellion",
+        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 360987,
+      "name": "they told us it was hard, but they were wrong.",
+      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
         "name": "Bromance #1 - Single",
         "url": "https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 311272,
       "name": "Let the Beat Control Your Body",
       "url": "https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
-        "name": "acts of rebellion",
-        "url": "https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 360987,
-      "name": "they told us it was hard, but they were wrong.",
-      "url": "https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Fuck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Fuck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
-    },
-    {
-      "added_at": "2024-10-24 17:18:17",
-      "album": {
         "name": "Dance Vault Mixes - Where Love Lives",
         "url": "https://open.spotify.com/album/0bmvAevl0AD5xaLHHjjHHP"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-10-24 17:18:17",
       "album": {
-        "name": "Some Nights",
-        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+        "name": "Fuck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
       },
       "artists": [
         {
-          "name": "Class Fools",
-          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
         }
       ],
-      "duration_ms": 168188,
-      "name": "Some Nights",
-      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+      "duration_ms": 174677,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2024-10-24 17:18:17",
@@ -1543,6 +1527,22 @@
       "duration_ms": 293200,
       "name": "Never Sleep",
       "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
+    },
+    {
+      "added_at": "2024-10-24 17:18:17",
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
     },
     {
       "added_at": "2024-10-24 17:18:17",

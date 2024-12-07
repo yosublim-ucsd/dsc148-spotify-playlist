@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-721 songs - 1 day 15 hr 4 min
+722 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-04-14 | 2023-02-04 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-12-09 | 2023-06-17 |
 | [Dark Horse](https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:35 | 2022-09-09 | 2022-09-17 |
-| [darling, he lied](https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [darling, he lied](https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v) | 2:37 | 2024-10-04 |  |
+| [darling, he lied](https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [darling, he lied](https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v) | 2:37 | 2024-10-04 | 2024-12-07 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-11-17 |  |
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2022-07-08 | 2022-11-19 |
 | [Dazed & Confused](https://open.spotify.com/track/2pyjbGTpJCPjMYwCbdymiF) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dazed & Confused](https://open.spotify.com/album/4FFdoMdORifF6Qt3ymDMB8) | 3:09 | 2022-04-14 | 2022-05-03 |
@@ -514,6 +514,7 @@
 | [queen st](https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [queen st](https://open.spotify.com/album/1Zw3TjtEff6LALfHLqOKRe) | 2:10 | 2022-04-14 | 2022-04-21 |
 | [Rainy Day but Tuned](https://open.spotify.com/track/5d1597VPvFNUwipnSKGChs) | [Sloani](https://open.spotify.com/artist/19PwAhjMyP5pk3Dlra6wI5) | [can you see the cat](https://open.spotify.com/album/1wXO0d3Uj6tmGgELBmqrrX) | 2:10 | 2022-04-14 | 2022-04-21 |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2023-08-03 |  |
+| [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2024-12-06 |  |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-14 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Red Wine Supernova](https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn) | 3:12 | 2023-08-04 | 2023-08-24 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2022-12-09 |  |

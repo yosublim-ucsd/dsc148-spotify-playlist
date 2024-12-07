@@ -4,7 +4,7 @@
 
 > The best voices in R&B\. Cover: Summer Walker
 
-389 songs - 20 hr 28 min
+390 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Stay Out of It](https://open.spotify.com/track/1PNjp7pcqumAOhOcOJOEy0) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:24 | 2024-03-19 | 2024-04-26 |
 | [Still The Same](https://open.spotify.com/track/1ALggh912tizrjndhRLY63) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Still The Same](https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4) | 3:14 | 2024-09-19 |  |
 | [Storm](https://open.spotify.com/track/0Eu04DI103YBXJSodU4WLv) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:39 | 2024-04-25 | 2024-11-15 |
+| [Straight Outta Heaven](https://open.spotify.com/track/0T3mL97rtfvJq89UtWwVUC) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Straight Outta Heaven](https://open.spotify.com/album/5fdgjpST2SXh4WCDmYGr36) | 3:05 | 2024-12-06 |  |
 | [Subtle Games \- Remix](https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs), [jjad](https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Subtle Games \(Remix\)](https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R) | 2:34 | 2023-05-24 | 2023-08-19 |
 | [Suite Life \(Familiar\) \- Bonus Track](https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 2:34 | 2023-07-21 | 2023-11-02 |
 | [Suite Life \(Familiar\) \[Feat\. Bellah\] \- Bonus Track](https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [3 of Us](https://open.spotify.com/album/3K4ezkdiUh18fKYTLNF5at) | 2:34 | 2023-10-27 | 2023-11-24 |

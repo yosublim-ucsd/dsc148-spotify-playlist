@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Artur Sikorski",
+  "description": "nasze brzmienie \u2728 Cover: Paula Biskup",
   "name": "gen z ",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 147067,
       "name": "Brunetka",
       "url": "https://open.spotify.com/track/7LDtaQfgKJIQc7zlwBoTEv"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 177196,
       "name": "ja ciebie bardziej",
       "url": "https://open.spotify.com/track/6xe7KUDXZ4f4Urq4yIBwCa"
@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "W Domu EP",
+        "url": "https://open.spotify.com/album/3A9JbJcyw7ZLklN2BHkRCJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234715,
+      "name": "Na Si\u0142\u0119",
+      "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
+    },
+    {
+      "album": {
         "name": "Na W\u0142asno\u015b\u0107",
         "url": "https://open.spotify.com/album/1tmru1Wuy4hIkGs0IuRnoL"
       },
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 150361,
       "name": "NIE ZNASZ JEJ - Acoustic",
       "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
@@ -3224,6 +3242,28 @@
       "duration_ms": 236600,
       "name": "Pami\u0119tasz?",
       "url": "https://open.spotify.com/track/7Hl9kN1XUyYy6GF3PDuszJ"
+    },
+    {
+      "album": {
+        "name": "Pastelowe Kredki",
+        "url": "https://open.spotify.com/album/6vp7j3Iug4KbRTPF4VagsN"
+      },
+      "artists": [
+        {
+          "name": "Slavic DAMA",
+          "url": "https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz"
+        },
+        {
+          "name": "Mikolaj Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Pastelowe Kredki",
+      "url": "https://open.spotify.com/track/3KQOxCDBSeg6Bid2qYsQw3"
     },
     {
       "album": {
@@ -4207,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106300,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv"
+    },
+    {
+      "album": {
         "name": "Trudne Sprawy",
         "url": "https://open.spotify.com/album/4uRovYXvNxkOJ1PDp1c6ND"
       },
@@ -4392,6 +4450,24 @@
       "duration_ms": 153024,
       "name": "Wi\u0119cej",
       "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
+    },
+    {
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/4s70qBQDzfGfvWmKnOxIxV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174166,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3IOQ1Mlfs0Jcw0I4jksFlU"
     },
     {
       "album": {

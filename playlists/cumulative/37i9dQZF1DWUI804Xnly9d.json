@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Hum do kabhi",
+        "url": "https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9"
+      },
+      "artists": [
+        {
+          "name": "Somnathan",
+          "url": "https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201827,
+      "name": "Hum do kabhi",
+      "url": "https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2"
+    },
+    {
+      "album": {
         "name": "Mulaqat",
         "url": "https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v"
       },
@@ -5396,7 +5414,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 205200,
       "name": "Mann Tou Jaanay Na",
       "url": "https://open.spotify.com/track/1BHrUB3Gr81oKcGaTCtMq2"

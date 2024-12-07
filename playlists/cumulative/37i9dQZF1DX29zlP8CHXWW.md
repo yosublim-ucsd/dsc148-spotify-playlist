@@ -4,7 +4,7 @@
 
 > Songs to prepare your heart for the <a href="https://www.passion2024.com/"> Passion 2025 </a> conference.
 
-111 songs - 10 hr 14 min
+112 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 | 2022-12-10 | 2023-12-06 |
 | [Come Now](https://open.spotify.com/track/6Wu3T16SBZ0r5ekumlmJr3) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Basic Faith](https://open.spotify.com/album/0Jo3ugiIh8DU5OHgsiXXpe) | 3:35 | 2024-12-04 |  |
 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 | 2024-12-04 |  |
+| [Come To Jesus](https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe) | 3:48 | 2024-12-06 |  |
 | [Cry Out \- Live From Passion 2024](https://open.spotify.com/track/2ZPPsWvJuPQD1pxWC4RNz5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:13 | 2024-12-04 |  |
 | [Fall Like Rain \- Live From Passion 2023](https://open.spotify.com/track/6YiUx9yyiJCjdMuxP5lkzR) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 8:36 | 2023-12-05 | 2024-12-05 |
 | [Fall Like Rain \- Live From Passion 2024](https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:55 | 2024-12-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 90092,
+  "num_followers": 90112,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "She Keeps Calling",
-        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "She Keeps Calling",
-      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Ben L'Oncle Soul",
@@ -475,6 +459,22 @@
       "duration_ms": 222466,
       "name": "Soulman - New English Version",
       "url": "https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "She Keeps Calling",
+        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "She Keeps Calling",
+      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
       "artists": [
         {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 240360,
-      "name": "Spiritual Thang",
-      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
         }
       ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+      "duration_ms": 240360,
+      "name": "Spiritual Thang",
+      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
+      "added_at": "2024-10-25 08:08:52",
+      "album": {
+        "name": "Heal U / Out My Hair",
+        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 178019,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Beautiful Pain",
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
-      "added_at": "2024-10-25 08:08:52",
-      "album": {
-        "name": "Heal U / Out My Hair",
-        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 178019,
-      "name": "Out My Hair",
-      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Look At Me",
@@ -735,6 +735,22 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -759,22 +775,6 @@
       "duration_ms": 240538,
       "name": "Remember (feat. Samara Joy, Robert Glasper)",
       "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 299386,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
-    },
-    {
       "added_at": "2024-10-25 08:08:52",
       "album": {
         "name": "Fire",
@@ -859,6 +843,22 @@
       "duration_ms": 223856,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Walk With the Father",
-        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Walk With the Father",
-      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "A Love Story",
@@ -1007,6 +991,22 @@
       "duration_ms": 244840,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Walk With the Father",
+        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Walk With the Father",
+      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1119,6 +1119,62 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "Rothstein",
+          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
+        }
+      ],
+      "duration_ms": 117927,
+      "name": "Home Improvement",
+      "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
+    },
+    {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Whatcha Done Now (feat. Kenyon Dixon)",
+        "url": "https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 228684,
+      "name": "Whatcha Done Now (feat. Kenyon Dixon)",
+      "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
@@ -1147,62 +1203,6 @@
       "duration_ms": 181399,
       "name": "Can't Explain This Love",
       "url": "https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Whatcha Done Now (feat. Kenyon Dixon)",
-        "url": "https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 228684,
-      "name": "Whatcha Done Now (feat. Kenyon Dixon)",
-      "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7hwvmVx9NHOAmRHFgWZpe4"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        },
-        {
-          "name": "Rothstein",
-          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
-        }
-      ],
-      "duration_ms": 117927,
-      "name": "Home Improvement",
-      "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-03-08 13:51:25",

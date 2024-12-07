@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Come To Jesus",
+        "url": "https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe"
+      },
+      "artists": [
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228208,
+      "name": "Come To Jesus",
+      "url": "https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH"
+    },
+    {
+      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },

@@ -1,13 +1,37 @@
 {
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/34tueLJCJdZWicSpnlh1T2?si=dWB08xPgQvqfKuydRaCaCA\">Skatle</a> & <a href=\"https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ?si=DQ02J-l_Rm-MZMHoKG5N8A\">GVNT</a>",
-  "num_followers": 95759,
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry?si=Fzq1yaAJSvu3LhlCiIVZ7w\">Sonwabile</a> ",
+  "num_followers": 95841,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0jn4AAAAACYgmspe7YvrTLVr0XJEUIp",
+  "snapshot_id": "Z1LL8gAAAAA+ljN3v9piAbmaSg/QFGm6",
   "tracks": [
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "Iphi",
+        "url": "https://open.spotify.com/album/1bMf2JsG6oF62MWPMIIlTM"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        }
+      ],
+      "duration_ms": 161270,
+      "name": "Sonka (feat. KindlyNxsh & K.Keed)",
+      "url": "https://open.spotify.com/track/0koEIgbiKWqOIcRULjMShj"
+    },
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
@@ -87,6 +111,26 @@
       "duration_ms": 220327,
       "name": "Eish Chief - Remix",
       "url": "https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4"
+    },
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/0pJ0x2FoR19jgfqu6TaUTo"
+      },
+      "artists": [
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        }
+      ],
+      "duration_ms": 156442,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/3eXZYQACH34Rs319fgg5t4"
     },
     {
       "added_at": "2024-11-21 22:00:00",
@@ -169,6 +213,30 @@
       "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
     },
     {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "NFH: The Mixtape",
+        "url": "https://open.spotify.com/album/2ykeThsBr2GJjdoGNmwjbx"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Win Win (feat. KindlyNxsh & Frank Casino)",
+      "url": "https://open.spotify.com/track/4x7THs0jwHJTjhbyFVRSuq"
+    },
+    {
       "added_at": "2024-11-21 22:00:00",
       "album": {
         "name": "Mongameli",
@@ -187,6 +255,26 @@
       "duration_ms": 236307,
       "name": "Mongameli",
       "url": "https://open.spotify.com/track/3e5Rmoa90ZCwWptHfC6yPs"
+    },
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "Iphi",
+        "url": "https://open.spotify.com/album/1bMf2JsG6oF62MWPMIIlTM"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Abekho",
+      "url": "https://open.spotify.com/track/5vFPf6w2Cg3H42opIDSWfT"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -225,22 +313,6 @@
       "url": "https://open.spotify.com/track/7wb5FuOqOswDqHl4U4T8bQ"
     },
     {
-      "added_at": "2024-11-21 22:00:00",
-      "album": {
-        "name": "The New Era 2",
-        "url": "https://open.spotify.com/album/3UC7aTzlumWW0g9Byn9lT5"
-      },
-      "artists": [
-        {
-          "name": "Bizzcuit",
-          "url": "https://open.spotify.com/artist/0gPadd5VkZQLJuM40Czzd4"
-        }
-      ],
-      "duration_ms": 160163,
-      "name": "Imali Engakanani",
-      "url": "https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv"
-    },
-    {
       "added_at": "2024-11-15 00:09:17",
       "album": {
         "name": "All Doggs Go To Heaven",
@@ -255,6 +327,30 @@
       "duration_ms": 158808,
       "name": "Klipa",
       "url": "https://open.spotify.com/track/7HNIksvHGztXtjLPGLxzE6"
+    },
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "Wavy Hittaz",
+        "url": "https://open.spotify.com/album/4c3ZZXaAviiZqMBc18sPvt"
+      },
+      "artists": [
+        {
+          "name": "Breeze Zulu Bass King",
+          "url": "https://open.spotify.com/artist/6iZAD8LOEDd5fluTDkIU4q"
+        },
+        {
+          "name": "808RSA",
+          "url": "https://open.spotify.com/artist/5sIbt07rSAUcgbNWjSZOSz"
+        },
+        {
+          "name": "Lord Script",
+          "url": "https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Wavy Hittaz",
+      "url": "https://open.spotify.com/track/37Dd2VIXekIBi5Xh68lhBn"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -275,6 +371,22 @@
       "duration_ms": 237410,
       "name": "Real Is Rare (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr"
+    },
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "DIAL 058",
+        "url": "https://open.spotify.com/album/25mPjwGMZweBdlOkciJyEx"
+      },
+      "artists": [
+        {
+          "name": "Nino Fresko",
+          "url": "https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "MAPARA",
+      "url": "https://open.spotify.com/track/73HNc2P8l7xxbnbu7nzUGc"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -343,6 +455,22 @@
       "duration_ms": 185936,
       "name": "King Size",
       "url": "https://open.spotify.com/track/0plm8nXZK5HxbCRqLRo0yE"
+    },
+    {
+      "added_at": "2024-12-06 10:03:30",
+      "album": {
+        "name": "33 Y?EARS AHEAD OF TIME",
+        "url": "https://open.spotify.com/album/68S9rU9xGPvuYm2Z7wHBUi"
+      },
+      "artists": [
+        {
+          "name": "YoungstaCPT",
+          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
+        }
+      ],
+      "duration_ms": 205764,
+      "name": "OULIK",
+      "url": "https://open.spotify.com/track/4HtPtwXvgfk0Rg0ZMWNgoS"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -469,6 +597,22 @@
       "url": "https://open.spotify.com/track/3Q8SuoukDpBMdxfNeOOZGY"
     },
     {
+      "added_at": "2024-11-21 22:00:00",
+      "album": {
+        "name": "The New Era 2",
+        "url": "https://open.spotify.com/album/3UC7aTzlumWW0g9Byn9lT5"
+      },
+      "artists": [
+        {
+          "name": "Bizzcuit",
+          "url": "https://open.spotify.com/artist/0gPadd5VkZQLJuM40Czzd4"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Imali Engakanani",
+      "url": "https://open.spotify.com/track/6NR9niVSJKsUdDAnlYxxNv"
+    },
+    {
       "added_at": "2024-11-15 00:09:17",
       "album": {
         "name": "Telly",
@@ -503,26 +647,6 @@
       "duration_ms": 115572,
       "name": "Swag Through pain",
       "url": "https://open.spotify.com/track/2G34Ip33U7PUMFWtstWVlN"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "The Extra Mile",
-        "url": "https://open.spotify.com/album/1o0brmNMTHSXEwV7FbL2Fj"
-      },
-      "artists": [
-        {
-          "name": "Roiii",
-          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
-        },
-        {
-          "name": "Boity",
-          "url": "https://open.spotify.com/artist/1m1TdFQCnKHcfVlO17avCF"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "\u2060In my bag",
-      "url": "https://open.spotify.com/track/0dieUVHbMM1VspcV3tSjEV"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -611,34 +735,6 @@
       "duration_ms": 164000,
       "name": "Where's My Confidence?",
       "url": "https://open.spotify.com/track/58NToThQzeNZP4Slx0HoOY"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "Becoming: The Chosen One",
-        "url": "https://open.spotify.com/album/1k1NNLgKGKcCVkdgSE6nWN"
-      },
-      "artists": [
-        {
-          "name": "Teejay Mokoena",
-          "url": "https://open.spotify.com/artist/6V8GQVZuFWQiJexS7Kd1rU"
-        },
-        {
-          "name": "Flash Ikumkani",
-          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
-        },
-        {
-          "name": "Letso. M",
-          "url": "https://open.spotify.com/artist/1xkFRsYQ3jTtfFbR9Q6LTg"
-        },
-        {
-          "name": "D.O.XRSA",
-          "url": "https://open.spotify.com/artist/5HBzYSvU8mqP5c77uVCIpr"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/0Q8D9sgjFqAbkYogCGHYkO"
     },
     {
       "added_at": "2024-11-15 00:09:17",
@@ -987,22 +1083,6 @@
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
-        "name": "SOULLESS",
-        "url": "https://open.spotify.com/album/0gsirrJcV3wOGm79FzHapK"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 217056,
-      "name": "SOULLESS",
-      "url": "https://open.spotify.com/track/57sUoOeMObVoDOyyalnpUh"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
         "name": "Mfana kaMakhulu",
         "url": "https://open.spotify.com/album/4HshJlejrlM0iS7vft5wA1"
       },
@@ -1127,38 +1207,6 @@
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
-        "name": "Perspective: BLACK",
-        "url": "https://open.spotify.com/album/12D5keYs0QO1oSQ49JskBh"
-      },
-      "artists": [
-        {
-          "name": "Z\u0101dok",
-          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
-        },
-        {
-          "name": "Yanga Chief",
-          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
-        },
-        {
-          "name": "Lesole Monghxdi",
-          "url": "https://open.spotify.com/artist/0WiIw2iRT4Li9ccvj38dWY"
-        },
-        {
-          "name": "Khuli Chana",
-          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "SANGENA (feat. Yanga Chief, Lesole Monghxdi, Khuli Chana & Mthunzi)",
-      "url": "https://open.spotify.com/track/2Dl1LskvQrLItLhBj4RphX"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
         "name": "Gimmicks",
         "url": "https://open.spotify.com/album/47nkzfmTbe6E85ovpeBTZd"
       },
@@ -1275,30 +1323,6 @@
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/7drmsf41QcVBBiIJj8gIoA"
-      },
-      "artists": [
-        {
-          "name": "Frank Casino",
-          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
-        },
-        {
-          "name": "30 Turo",
-          "url": "https://open.spotify.com/artist/1I6TkI7q2q9lzSimz6T2Db"
-        },
-        {
-          "name": "Ney",
-          "url": "https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL"
-        }
-      ],
-      "duration_ms": 207467,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/6JamoJiQgVMeHCcU6bJGt9"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
         "name": "W.G.T.B.H",
         "url": "https://open.spotify.com/album/7rRbm4KRBmMqWdkjuqb1T4"
       },
@@ -1399,22 +1423,6 @@
     {
       "added_at": "2024-11-15 00:09:17",
       "album": {
-        "name": "Wanita",
-        "url": "https://open.spotify.com/album/6HBJLpS8hJyAxhv5gx0b83"
-      },
-      "artists": [
-        {
-          "name": "Linda Kim",
-          "url": "https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul"
-        }
-      ],
-      "duration_ms": 137420,
-      "name": "Wanita",
-      "url": "https://open.spotify.com/track/6awKlZneJTsXjwABSl1L4W"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
         "name": "Classified: Music from the Original Series",
         "url": "https://open.spotify.com/album/0bgRR2yxWDSXtKIdpBbO1W"
       },
@@ -1475,22 +1483,6 @@
       "duration_ms": 74302,
       "name": "Ingozi Freestyle",
       "url": "https://open.spotify.com/track/6j7OCM9b1OXonvozfrZG5k"
-    },
-    {
-      "added_at": "2024-11-15 00:09:17",
-      "album": {
-        "name": "alright",
-        "url": "https://open.spotify.com/album/3lUsPF1vPsEJywzxIEqnXg"
-      },
-      "artists": [
-        {
-          "name": "Amarii",
-          "url": "https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY"
-        }
-      ],
-      "duration_ms": 123240,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/6RdtukXOMMxjjIsMkZUWln"
     },
     {
       "added_at": "2024-11-15 00:09:17",

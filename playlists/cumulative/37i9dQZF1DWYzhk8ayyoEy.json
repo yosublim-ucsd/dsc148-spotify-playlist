@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
@@ -684,6 +684,24 @@
       "duration_ms": 174125,
       "name": "Give You Love (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/1sERYSzi32APhDRjLAAm7r"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162728,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/2ARGyDTsorNJG3vclTCzwq"
     },
     {
       "album": {

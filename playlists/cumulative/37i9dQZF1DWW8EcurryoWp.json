@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Boy Racer",
+        "url": "https://open.spotify.com/album/5TXEsw0Amvt0fdQgyyocQU"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219591,
+      "name": "Boy Racer",
+      "url": "https://open.spotify.com/track/4qnoNv96JSCMtKJq1Mrpfe"
+    },
+    {
+      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -308,6 +326,24 @@
       "duration_ms": 146375,
       "name": "Bring Heaven",
       "url": "https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp"
+    },
+    {
+      "album": {
+        "name": "Call In A Minute",
+        "url": "https://open.spotify.com/album/7IJ170Evsc2KYVWH0Z58CJ"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179392,
+      "name": "Call In A Minute",
+      "url": "https://open.spotify.com/track/4PeH1pAYSSTLEZeJlktNAb"
     },
     {
       "album": {
@@ -1566,7 +1602,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 211020,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT"
@@ -1952,7 +1988,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 241546,
       "name": "You Say You Won't",
       "url": "https://open.spotify.com/track/3UlUAEdJiku8r0E0YEEvjY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Rusherking & KHEA",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: KHEA & Sebastian Yatra.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "CIUDAD DE PAPEL",
+        "url": "https://open.spotify.com/album/4VaQYHH2pdK5Wou2kfWHFQ"
+      },
+      "artists": [
+        {
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125944,
+      "name": "CIUDAD DE PAPEL",
+      "url": "https://open.spotify.com/track/3SOCd6DbOjtmTP5xpDXWcp"
+    },
+    {
+      "album": {
         "name": "Destinologia",
         "url": "https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C"
       },
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 149130,
       "name": "Cuarto Rojo",
       "url": "https://open.spotify.com/track/2WdL6vIYlpHqBA7eXzV9n0"
@@ -2208,6 +2226,24 @@
       "duration_ms": 206146,
       "name": "El Bolero",
       "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+    },
+    {
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "album": {
@@ -3636,7 +3672,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
@@ -4473,6 +4509,28 @@
     },
     {
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126307,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "album": {
         "name": "Mi Cuarto",
         "url": "https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P"
       },
@@ -5050,7 +5108,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 166246,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n"
@@ -5072,6 +5130,24 @@
       "duration_ms": 171360,
       "name": "No Lo Pienses M\u00e1s",
       "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
+    },
+    {
+      "album": {
+        "name": "No Me Gusta",
+        "url": "https://open.spotify.com/album/0nHUmc55WNTfoPTcfZHJBc"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204674,
+      "name": "No Me Gusta",
+      "url": "https://open.spotify.com/track/3ZpXPV1BA7nFrIxgkbIxMg"
     },
     {
       "album": {
@@ -5276,6 +5352,24 @@
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h"
     },
     {
       "album": {
@@ -5802,7 +5896,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 157250,
       "name": "PERFUME",
       "url": "https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx"
@@ -5908,6 +6002,24 @@
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
+    },
+    {
+      "album": {
+        "name": "POV: llega el verano y suena as\u00ed",
+        "url": "https://open.spotify.com/album/7MMVNY9mKDWH8NbTMjvxk7"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "POV: llega el verano y suena as\u00ed",
+      "url": "https://open.spotify.com/track/093E6bjXAh2E2QKXupWcTh"
     },
     {
       "album": {
@@ -6812,7 +6924,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 165545,
       "name": "Somos 3",
       "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
@@ -7082,6 +7194,28 @@
       "duration_ms": 235500,
       "name": "Te So\u00f1aba",
       "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
+    },
+    {
+      "album": {
+        "name": "TE VAS",
+        "url": "https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167332,
+      "name": "TE VAS",
+      "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
     },
     {
       "album": {
@@ -8094,7 +8228,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 163480,
       "name": "\u00c1ngeles Griegos",
       "url": "https://open.spotify.com/track/0xwaiLpPfgojSOw1tCISE2"

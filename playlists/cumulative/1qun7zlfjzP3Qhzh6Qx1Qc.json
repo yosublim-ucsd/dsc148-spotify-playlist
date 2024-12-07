@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 221640,
       "name": "A Real Man",
       "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 165835,
       "name": "Boys Back Home",
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
@@ -800,6 +800,24 @@
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
+    },
+    {
+      "album": {
+        "name": "Can't Hold Me Down",
+        "url": "https://open.spotify.com/album/7ioK2ZwDQF6pvH3E7VpSJn"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "Can't Hold Me Down",
+      "url": "https://open.spotify.com/track/1sGKLpzG59d2aoXT8V2CDw"
     },
     {
       "album": {
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -1748,6 +1766,24 @@
       "duration_ms": 217560,
       "name": "Gettin' Older",
       "url": "https://open.spotify.com/track/4x3oHY9XeuQ6TB3X0wK1gL"
+    },
+    {
+      "album": {
+        "name": "Live from NPR's Tiny Desk",
+        "url": "https://open.spotify.com/album/7gsxS3lw5VEo6IXD6YDHPx"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "ghost in my guitar - Live from NPR's Tiny Desk",
+      "url": "https://open.spotify.com/track/0MJ89PKzQbEnH2HFfiKLMF"
     },
     {
       "album": {
@@ -2423,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "If I Had A Boat",
+        "url": "https://open.spotify.com/album/6rXAQdtTmfB5hmDz7tw2se"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186326,
+      "name": "If I Had A Boat",
+      "url": "https://open.spotify.com/track/24GbPSzYcU0AWxXvlDssl7"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -2676,7 +2730,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 226546,
       "name": "Little Foot Big Foot (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85"
@@ -2820,7 +2874,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 187017,
       "name": "Man on the Moon",
       "url": "https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc"
@@ -3171,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "ONCE (WEDDING VERSION)",
+        "url": "https://open.spotify.com/album/3pPRLwSGyMMVG0twSYmYMc"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194654,
+      "name": "ONCE - WEDDING VERSION",
+      "url": "https://open.spotify.com/track/3S8tOlOeJfhWcRdP24JN7d"
+    },
+    {
+      "album": {
         "name": "One Of Us (feat. Chase Matthew)",
         "url": "https://open.spotify.com/album/48kqyu0dIZ3YJcolHX7RvW"
       },
@@ -3265,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "From A Man's Perspective",
+        "url": "https://open.spotify.com/album/2Q05oCwAlB5dtUyRb2xybj"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Place Of Peace",
+      "url": "https://open.spotify.com/track/1ZNz9Fopnb6Y8MYPgBVTkc"
+    },
+    {
+      "album": {
         "name": "Play Something Country (with Lainey Wilson)",
         "url": "https://open.spotify.com/album/3X3yUZB4Mj01slhTurM4tJ"
       },
@@ -3338,6 +3428,24 @@
       "duration_ms": 186000,
       "name": "Quit You",
       "url": "https://open.spotify.com/track/1DPkLVuWJKqbUafPFOU7fZ"
+    },
+    {
+      "album": {
+        "name": "Quit You (Acoustic)",
+        "url": "https://open.spotify.com/album/20RMMsRUVctI8KKl5YlCRW"
+      },
+      "artists": [
+        {
+          "name": "Karley Scott Collins",
+          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199937,
+      "name": "Quit You - Acoustic",
+      "url": "https://open.spotify.com/track/5hXE9SlLHCJNqBlaVNIxXW"
     },
     {
       "album": {
@@ -3522,6 +3630,24 @@
       "duration_ms": 155200,
       "name": "Rouler",
       "url": "https://open.spotify.com/track/4FKSdcyZldfRBTnlOjYpvH"
+    },
+    {
+      "album": {
+        "name": "Koe Wetzel Presents... Wetzel's Wonderland Chapter 2",
+        "url": "https://open.spotify.com/album/5GmCyt6pFMtFKkqHHIuYUz"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196904,
+      "name": "Run Run Rudolph",
+      "url": "https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6"
     },
     {
       "album": {
@@ -4230,7 +4356,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
@@ -4986,7 +5112,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 224280,
       "name": "you look like you love me (feat. Riley Green)",
       "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"

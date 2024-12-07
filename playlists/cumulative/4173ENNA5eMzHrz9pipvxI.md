@@ -2,7 +2,7 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KSHMR
 
 1,590 songs - 3 day 3 hr 58 min
 
@@ -450,7 +450,7 @@
 | [Falling Into Space](https://open.spotify.com/track/6Pw6050rVSbborPpRkxOS0) | [Matisso](https://open.spotify.com/artist/3QbWPIt27dS6iv4RrzTyDV) | [Falling Into Space](https://open.spotify.com/album/7HQWSqjJQHVLIipyTdL8Y2) | 2:42 | 2023-01-26 | 2023-02-10 |
 | [Falling Into You](https://open.spotify.com/track/1OHDrloZphdqOuX7hYQ3oP) | [Lucas Butler](https://open.spotify.com/artist/50rD5iXXJY35zmuYs2POjk), [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh) | [Falling Into You](https://open.spotify.com/album/7fKHT41a28Xjt24VuQXLAV) | 3:12 | 2022-09-30 | 2022-10-14 |
 | [Famous](https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous](https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW) | 2:51 | 2024-11-07 | 2024-12-06 |
-| [Famous \(Dub Mix\)](https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/2IWbrSOviY76oxfLKxHiOa), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous \(Dub Mix\)](https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl) | 2:42 | 2024-11-22 |  |
+| [Famous \(Dub Mix\)](https://open.spotify.com/track/5ACqGK918L5qScb3HLHNYS) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/7iJYMHJo0DricxqurDXAYR), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous \(Dub Mix\)](https://open.spotify.com/album/0HKOwW0Fxci3cde41yBZzl) | 2:42 | 2024-11-22 |  |
 | [Favorite Mistakes](https://open.spotify.com/track/4nTa22B8sDDzurR1Dm5yz7) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes](https://open.spotify.com/album/7Mghoh9CfuqNWifDzfWmF7) | 2:35 | 2024-08-08 | 2024-08-24 |
 | [Favorite Mistakes \(feat\. Victoria Nadine\) \[HEDEGAARD VIP Mix\]](https://open.spotify.com/track/0gp2hkkvVhBwoQjGh4Nocr) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Favorite Mistakes \(feat\. Victoria Nadine\) \[VIP Mixes\]](https://open.spotify.com/album/444YUwwt9hYZTrpt8TpgqA) | 2:30 | 2024-09-19 | 2024-10-04 |
 | [Feed Your Soul](https://open.spotify.com/track/1P8pPTpvVgp3nklyUtBcex) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [Danny Leax](https://open.spotify.com/artist/7LhadozhnDqlnrs6thTnIu) | [Feed Your Soul](https://open.spotify.com/album/3ElqoKKwmgAWA2uhp25JM5) | 2:35 | 2023-04-06 | 2023-04-22 |

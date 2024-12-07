@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Skepta
 
-1,378 songs - 2 day 21 hr 51 min
+1,379 songs - 2 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2024-09-12 | 2024-10-11 |
 | [Alone](https://open.spotify.com/track/3fULF5CQpgCGpnUeLmRvTL) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [British Trap Royalty](https://open.spotify.com/album/2pDNZoSBEv4fdNFCBCFUOB) | 4:14 | 2024-07-19 | 2024-10-05 |
 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 | 2022-02-25 | 2022-03-18 |
-| [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/1oGPT4W7J2vjzIZIXL0sQM) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-06 |  |
+| [Alpha Omega](https://open.spotify.com/track/6WcsZsPAs9r1ELQtoYAxX3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Alpha Omega](https://open.spotify.com/album/55UwlccXgK8NKQG7drpCR3) | 2:27 | 2024-12-06 |  |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 | 2023-09-15 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-02-25 | 2022-05-20 |
 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 | 2023-05-26 | 2023-09-19 |
@@ -295,7 +295,7 @@
 | [Deadly \(feat\. Victony\)](https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Deadly \(feat\. Victony\)](https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL) | 3:01 | 2023-12-15 | 2024-02-23 |
 | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/track/4suhf2w4OqkuuwVAeRhk4I) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Deal Or No Deal \(feat\. Mabel\)](https://open.spotify.com/album/19fnNOXXg6bPm8TzgQyLwn) | 3:01 | 2022-06-24 | 2022-08-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-20 | 2023-05-26 |
-| [Deep Down](https://open.spotify.com/track/3kvSHwLQzT8LIobAuPfYkq) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Every Choice Has An Invoice](https://open.spotify.com/album/71ml0doaKPxvbb76Zvse56) | 2:19 | 2024-11-29 |  |
+| [Deep Down](https://open.spotify.com/track/3kvSHwLQzT8LIobAuPfYkq) | [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj) | [Every Choice Has An Invoice](https://open.spotify.com/album/71ml0doaKPxvbb76Zvse56) | 2:19 | 2024-11-29 | 2024-12-07 |
 | [Deep in the Water](https://open.spotify.com/track/2dshtwEGNpyrE0x69wUiHj) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Deep in the Water](https://open.spotify.com/album/3N00K5i1IFjap5SqfxGIPF) | 2:50 | 2024-03-15 | 2024-04-26 |
 | [DEH DEH](https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [DEH DEH](https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w) | 3:09 | 2022-10-23 | 2022-11-25 |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-31 | 2023-09-15 |
@@ -660,6 +660,7 @@
 | [Knock Knock](https://open.spotify.com/track/4EmzSqaqpv663TP3VvqCa9) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Knock Knock](https://open.spotify.com/album/4QrN6qO8WQQ9Y5HBV4GcbG) | 3:00 | 2022-02-25 | 2022-04-22 |
 | [Know Your Power](https://open.spotify.com/track/0qgQEj9UQD2BJQjxU12ki1) | [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Know Your Power](https://open.spotify.com/album/7bdG4FoL3d5VxoDbtybGEH) | 3:26 | 2024-12-06 |  |
 | [Koko Krazy](https://open.spotify.com/track/4R3B9DLaisZbDJgPSaBc0p) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Koko Krazy](https://open.spotify.com/album/2cfo6qB9xYVv8j9QyZrwMN) | 2:40 | 2024-04-25 | 2024-06-01 |
+| [KONGOLESE SOUS BBL](https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:44 | 2024-12-06 |  |
 | [Kop That Shit](https://open.spotify.com/track/0CLjza4QVBvks2DS5TCGpm) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy) | [Scousematic 2](https://open.spotify.com/album/1bKZSglRWgHBxpW3NAkJ4S) | 3:42 | 2024-03-17 | 2024-04-06 |
 | [Kop That Shit \- Remix](https://open.spotify.com/track/4qYJXpNF9LZqawy9JjEiVm) | [Aystar](https://open.spotify.com/artist/4HpnjNnqIjwItltmZJliMy), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Kop That Shit \(Remix\)](https://open.spotify.com/album/3ssxgR4LGUGxhQ7Q7YFV1Z) | 3:43 | 2024-04-05 | 2024-05-11 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-07-28 | 2022-12-10 |

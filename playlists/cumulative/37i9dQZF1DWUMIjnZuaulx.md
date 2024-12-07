@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Jordin Sparks and Maverick City Music
 
-609 songs - 2 day 4 hr 15 min
+610 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Hide & Seek](https://open.spotify.com/track/6VLRKeSYItHdv6zWYzBEiZ) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Hide & Seek](https://open.spotify.com/album/4Yp3ikslVQzUzLhl9RmBiG) | 4:54 | 2024-04-26 |  |
 | [Hold On](https://open.spotify.com/track/4UZDdmrCg7jOwQJiMnN36S) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Hold On](https://open.spotify.com/album/4fU9ITUXYd3QqGq1PrqwAa) | 6:02 | 2024-04-12 | 2024-06-01 |
 | [Hold On \- Live/Radio Edit](https://open.spotify.com/track/0aZegYIt9mnXiF6RaPQRa1) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hold On \(Live/Radio Edit\)](https://open.spotify.com/album/6jMmDumblqSTLXGRRbSuAg) | 3:52 | 2023-11-03 | 2024-01-13 |
+| [Hold On 2 Your Faith \(feat\. Damita & Tasha Page\-Lockhart\)](https://open.spotify.com/track/5iYDOdfENd1e77SjBQxVbF) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I), [Damita](https://open.spotify.com/artist/5nTFisYoiNTWOivN573vsg), [Tasha Page\-Lockhart](https://open.spotify.com/artist/5zZQLaa0QywvY1HZdOAR3w) | [Hold On 2 Your Faith \(feat\. Damita & Tasha Page\-Lockhart\)](https://open.spotify.com/album/6mKQxLoCgTx2Vj6F215n9e) | 3:28 | 2024-12-06 |  |
 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 | 2022-02-18 | 2022-04-16 |
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2022-02-18 | 2022-03-18 |
 | [Holy \(feat\. Kierra Sheard\)](https://open.spotify.com/track/5Y8u05OJbsmSP2DEHRkMQF) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Faith City Music](https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Holy \(feat\. Kierra Sheard\)](https://open.spotify.com/album/5ShfffOBimI889XubmYbby) | 7:01 | 2022-10-21 | 2022-11-05 |
@@ -361,7 +362,7 @@
 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 | 2023-06-30 | 2023-09-02 |
 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 | 2023-09-15 | 2024-05-04 |
 | [Needs](https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Needs](https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi) | 3:27 | 2023-09-08 | 2023-10-07 |
-| [Never Be the Same](https://open.spotify.com/track/0bvf9gsH7z0nfiI1J2yav8) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Never Be the Same](https://open.spotify.com/album/6RZj2LbPznyiLoxqkV85O5) | 3:54 | 2024-03-01 |  |
+| [Never Be the Same](https://open.spotify.com/track/0bvf9gsH7z0nfiI1J2yav8) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Never Be the Same](https://open.spotify.com/album/6RZj2LbPznyiLoxqkV85O5) | 3:54 | 2024-03-01 | 2024-12-07 |
 | [Never Deny You](https://open.spotify.com/track/3M27JviHxxcEQzzlGpghSr) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Never Deny You](https://open.spotify.com/album/0QBwXIF4MPfb5LVAsYQ8yv) | 2:46 | 2024-05-24 |  |
 | [Never Find](https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Never Find](https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK) | 4:00 | 2024-08-23 |  |
 | [Never Let Me Down \- Radio Edit](https://open.spotify.com/track/0vlEquyZ5kmN7BRAEd1prT) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Never Let Me Down \(Radio Edit\)](https://open.spotify.com/album/3gbha6N9JuiaXLB29z4AeN) | 4:09 | 2022-02-18 | 2022-07-16 |

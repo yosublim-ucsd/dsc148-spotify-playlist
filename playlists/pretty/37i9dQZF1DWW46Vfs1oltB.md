@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Garion\(가리온\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,916 likes - 101 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,853 likes - 101 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 79 | [PITAPA \(Feat\. pH\-1, JUNNY\)](https://open.spotify.com/track/1riVuC1J7WRgJhG5WrtXI4) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [2 Kids On The Block \- Part.3](https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR) | 3:26 |
 | 80 | [House With Garage \(Feat\. Raphael, Boo Hyun Seok\)](https://open.spotify.com/track/6NgmVdpnr75NO626IqY9EG) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Raphael](https://open.spotify.com/artist/5ZmB3eXx6oDmzicmFdcqmr), [Boo Hyun Seok](https://open.spotify.com/artist/2o4BX85LnnLCsiNL8nPJYW) | [HERON](https://open.spotify.com/album/6jAV88prHJITjKOHelr59c) | 3:28 |
 | 81 | [KrOWN\_Simon Dominic](https://open.spotify.com/track/3Gi9wz0A1aM0AOLYBEoASw) | [AOMG](https://open.spotify.com/artist/2bWTeElstVp9PUGLyIU8Uk) | [KrOWN audio liner](https://open.spotify.com/album/4PeZZanfBretefNw6BAbvn) | 0:01 |
-| 82 | [Doggie Hola](https://open.spotify.com/track/3fmwCYXRaI7yndoRuvT4Yk) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [Doggie Hola](https://open.spotify.com/album/30x5hMLLbs4D6pEQ2SChHs) | 2:43 |
+| 82 | [Doggie Hola](https://open.spotify.com/track/3fmwCYXRaI7yndoRuvT4Yk) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [Doggie Hola](https://open.spotify.com/album/30x5hMLLbs4D6pEQ2SChHs) | 2:42 |
 | 83 | [Without You \(feat\. leatherblack6\)](https://open.spotify.com/track/6JP4WzVgsO2lQxfj3kXHFd) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [leatherblack6](https://open.spotify.com/artist/5DWrbMGNEwAph2DvD6IwaJ) | [Without You \(feat\. leatherblack6\)](https://open.spotify.com/album/4K1zs1AJpTXYmSBlLBOwr6) | 3:04 |
 | 84 | [불 \(火\) \(feat\. CHANGMO\)](https://open.spotify.com/track/6W8ix5lgMymT9nPxj2HxQq) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [AKUMA](https://open.spotify.com/album/3Xp9QIWmntxMRoMYfIDBss) | 2:34 |
 | 85 | [Bet \(Feat\. CAMO\)](https://open.spotify.com/track/5kmqKugdIBrgJ94CaQKGAS) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [＋＋](https://open.spotify.com/album/75mI9XL2hcFycqDi1E76Ok) | 2:57 |

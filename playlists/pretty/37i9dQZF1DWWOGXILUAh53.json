@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Martin Garrix & Jex",
-  "num_followers": 210447,
+  "num_followers": 212481,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAADKJhAagIcd1DnLD4VaDlC9",
+  "snapshot_id": "Z1KE0AAAAADrzZQK2mvOt9U7/B06qBdl",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -29,6 +29,42 @@
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Body Talk (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 132017,
+      "name": "Body Talk (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 170208,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
+    },
+    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
@@ -47,6 +83,34 @@
       "duration_ms": 194560,
       "name": "ALL MY LOVE - PNAU x Coldplay",
       "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Forever Young (feat. Alphaville & Ava Max) [CYRIL Remix]",
+        "url": "https://open.spotify.com/album/1CKpz0mOYS9dmIk05djEGw"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Forever Young (feat. Alphaville & Ava Max) - CYRIL Remix",
+      "url": "https://open.spotify.com/track/7MivXlOJSElWcNPSRWMpkc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -125,6 +189,22 @@
       "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN"
+    },
+    {
       "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Walk With Me",
@@ -143,6 +223,26 @@
       "duration_ms": 152535,
       "name": "Walk With Me - Edit",
       "url": "https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU"
+    },
+    {
+      "added_at": "2024-11-25 17:29:13",
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -255,26 +355,6 @@
       "duration_ms": 163012,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/7ieXRAw83EVCel0W3VUuLw"
-    },
-    {
-      "added_at": "2024-11-25 17:29:13",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2024-11-25 18:28:19",
@@ -753,30 +833,6 @@
       "url": "https://open.spotify.com/track/2IM0P7cVIcgg68SnlKDHAJ"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Still Into You",
@@ -1151,58 +1207,6 @@
       "duration_ms": 166125,
       "name": "It's ok I'm ok - Ian Asher remix",
       "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
-    },
-    {
-      "added_at": "2024-10-14 10:37:56",
-      "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/4kg9VSmmu62QtWXhClDiWW"
-      },
-      "artists": [
-        {
-          "name": "NOISY",
-          "url": "https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F"
-        }
-      ],
-      "duration_ms": 174023,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/3PaumJ7eWzHvFAcYA4whkc"
-    },
-    {
-      "added_at": "2024-10-14 10:37:56",
-      "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-10-14 10:37:56",
-      "album": {
-        "name": "SUNNYD",
-        "url": "https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 126674,
-      "name": "SUNNYD",
-      "url": "https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa"
     },
     {
       "added_at": "2024-10-14 10:37:56",

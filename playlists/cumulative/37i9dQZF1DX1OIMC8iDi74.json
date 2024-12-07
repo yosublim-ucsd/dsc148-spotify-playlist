@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: TroyBoi",
+  "description": "The best of electronic trap. Cover: Viperactive",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Bout To Break",
+        "url": "https://open.spotify.com/album/1L0BuVdCVXHlzR8zpfd9DS"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bout To Break",
+      "url": "https://open.spotify.com/track/4bNrncBCRWlfSn3qCJGwGE"
+    },
+    {
+      "album": {
         "name": "Brain Tickler",
         "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
       },
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 141686,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/3CKQqdPsOP8uwmv2X4vBgi"
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
@@ -7189,6 +7207,28 @@
     },
     {
       "album": {
+        "name": "MONEY COUNT",
+        "url": "https://open.spotify.com/album/0VF6mFQLk9YHlm4LYCM4tA"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "MONEY COUNT",
+      "url": "https://open.spotify.com/track/6S7fnId2yjrAe5kswGxfOs"
+    },
+    {
+      "album": {
         "name": "Monzo",
         "url": "https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS"
       },
@@ -7348,7 +7388,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 184285,
       "name": "MOVELIKE",
       "url": "https://open.spotify.com/track/3d1R6afv937p8cqBVPSoka"
@@ -9053,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "SAINT VITUS",
+        "url": "https://open.spotify.com/album/56c3nHUYtlUzxIOgyhUtaU"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177935,
+      "name": "SAINT VITUS",
+      "url": "https://open.spotify.com/track/0er5nt6WASDSnqAN27HF3u"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
       },
@@ -9710,7 +9768,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 176800,
       "name": "So What",
       "url": "https://open.spotify.com/track/1ZrEy4fu5wiHOmNf1tN2HP"
@@ -10320,6 +10378,28 @@
       "duration_ms": 185142,
       "name": "Tear Me Down",
       "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2"
+      },
+      "artists": [
+        {
+          "name": "Know Good",
+          "url": "https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx"
+        },
+        {
+          "name": "JEANLOUIS",
+          "url": "https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75"
     },
     {
       "album": {

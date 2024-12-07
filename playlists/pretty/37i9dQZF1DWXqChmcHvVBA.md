@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Kenia OS & La Joaqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,154 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,274 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PM](https://open.spotify.com/track/0cXtHvWV2tOJxEmKA2Rl3m) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [PM](https://open.spotify.com/album/1oaUu5wbx9ERrHnHDFoIdc) | 3:09 |
-| 2 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:16 |
-| 3 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 |
-| 4 | [C PEGÓ](https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [C PEGÓ](https://open.spotify.com/album/43Y21ZkWMQo93MSFIZXBsz) | 2:19 |
+| 1 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:16 |
+| 2 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 |
+| 3 | [C PEGÓ](https://open.spotify.com/track/2byHacxKl365e5VfwTVUr0) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [C PEGÓ](https://open.spotify.com/album/43Y21ZkWMQo93MSFIZXBsz) | 2:19 |
+| 4 | [Novio Nuevo](https://open.spotify.com/track/2TXpCd4yjHOhreHEMEmI96) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [Novio Nuevo](https://open.spotify.com/album/1u7dEnTmEQBoDJ3L6HwuWs) | 3:12 |
 | 5 | [Totona](https://open.spotify.com/track/55NV9nn3Cnasa6FGoWVZ5o) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Totona](https://open.spotify.com/album/4JxXUonSBvJlJPj0oqMjVj) | 2:11 |
 | 6 | [Session en el Barrio \#14](https://open.spotify.com/track/2VNFNR1iQEpDJ3ZWphNioQ) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Session en el Barrio \#14](https://open.spotify.com/album/4VQDBXozvaFuSleyT9G36T) | 2:51 |
 | 7 | [Que Explote](https://open.spotify.com/track/78lhT9AhhHv53wYiR9JOrQ) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Que Explote](https://open.spotify.com/album/2ikm0etD5vqrXUnu8vtTNx) | 2:43 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 98 | [Al Sopi](https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Al Sopi](https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU) | 2:49 |
 | 99 | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Una Foto Remix \(feat\. Emilia\)](https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw) | 4:03 |
 
-Snapshot ID: `Z0oFeAAAAADIW7WwtdUS2nk801ngCeD4`
+Snapshot ID: `Z1NJkwAAAABoxxBS5MAHg6oYXtcBh5Tj`

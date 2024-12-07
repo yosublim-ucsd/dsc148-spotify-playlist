@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Do You Hear What I Hear?",
+        "url": "https://open.spotify.com/album/3X0LDbJES3VNrZBWw47p8Z"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/0nxApG0gArzMjH6pAH9N5Y"
+    },
+    {
+      "album": {
         "name": "Dominick the Donkey and Other Hits",
         "url": "https://open.spotify.com/album/3QfPlnKLvD9IQwVJhcp4Rj"
       },
@@ -783,6 +805,32 @@
     },
     {
       "album": {
+        "name": "Holiday Seasoning (Deluxe)",
+        "url": "https://open.spotify.com/album/4n9CrSpZoazxPO2OnGyvib"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183695,
+      "name": "Holiday (with Jonas Brothers & LL COOL J)",
+      "url": "https://open.spotify.com/track/3mIFf7GhQcHH7EB3myFwvd"
+    },
+    {
+      "album": {
         "name": "I Saw Mommy Kissing Santa Claus",
         "url": "https://open.spotify.com/album/6EHcJgbGZLQraX73KAldPX"
       },
@@ -870,6 +918,24 @@
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
+    },
+    {
+      "album": {
+        "name": "A Very Trainor Christmas",
+        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "I'll Be Home",
+      "url": "https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A"
     },
     {
       "album": {
@@ -1147,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/1qf65cYlsoY4AcGXW5a2k6"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208747,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/3oef7EIlHHOXYIM1OMQAaH"
+    },
+    {
+      "album": {
         "name": "The Christmas Album",
         "url": "https://open.spotify.com/album/4wTX7tba8lEyX0Zph3Eckn"
       },
@@ -1206,7 +1294,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 123600,
       "name": "Merry Christmas (I Don't Want to Fight Tonight)",
       "url": "https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI"
@@ -1537,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/3yAHCdy8s77OpoBvVY9EJp"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4jHl6jgzZOnS4nGamPZ1Uk"
+    },
+    {
+      "album": {
         "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
         "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
       },
@@ -1584,7 +1690,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 203097,
       "name": "Santa For Someone",
       "url": "https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp"
@@ -1974,6 +2080,24 @@
       "duration_ms": 263946,
       "name": "Twelve Days Of Christmas",
       "url": "https://open.spotify.com/track/72BraAeVGy3b1fg9GHs7sI"
+    },
+    {
+      "album": {
+        "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+        "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Under the Tree (from \u201cThat Christmas\u201d)",
+      "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
     },
     {
       "album": {

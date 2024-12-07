@@ -2917,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/1gKoDV7nJ0M2DVwLxaMABf"
+      },
+      "artists": [
+        {
+          "name": "Seb Todd",
+          "url": "https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv"
+        },
+        {
+          "name": "Amalia Strigas",
+          "url": "https://open.spotify.com/artist/5UkYsLOWi12iQWWpTKtzIq"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/2B2A5SEmDiJZvga5i8encQ"
+    },
+    {
+      "album": {
         "name": "Colors Turn To Gray",
         "url": "https://open.spotify.com/album/7eeQglTd7txhtQgheYNdip"
       },
@@ -3360,6 +3382,24 @@
       "duration_ms": 186726,
       "name": "Dance Tonight - Radio Edit",
       "url": "https://open.spotify.com/track/4HVBbVh5Waf5T0OBs6wJb1"
+    },
+    {
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/7ItE3iY20BiVqtoKv134W3"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/3IxkoQ8Teh17TIAFjMoLj5"
     },
     {
       "album": {
@@ -4813,7 +4853,7 @@
         },
         {
           "name": "Thando",
-          "url": "https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX"
+          "url": "https://open.spotify.com/artist/7iJYMHJo0DricxqurDXAYR"
         },
         {
           "name": "JusSke",

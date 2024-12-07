@@ -1,12 +1,12 @@
 {
   "description": "Spread some cheer with this list of new and old seasonal favorites. Cover: Brenda Lee",
-  "num_followers": 338753,
+  "num_followers": 339134,
   "original_name": "Happy Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzJppgAAAADdm8ttre0tr+C3E/Vkz0Fe",
+  "snapshot_id": "Z1KL+QAAAABqzC44bP2sTJIATQHHDLxW",
   "tracks": [
     {
       "added_at": "2024-08-30 15:45:26",
@@ -203,6 +203,22 @@
       "duration_ms": 177773,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/0Ar318cfljZEyc6nLN8CxG"
+    },
+    {
+      "added_at": "2024-12-06 05:30:33",
+      "album": {
+        "name": "Snow Globe",
+        "url": "https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201768,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M"
     },
     {
       "added_at": "2024-08-30 15:45:26",
@@ -493,6 +509,22 @@
       "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
     },
     {
+      "added_at": "2024-12-06 05:30:33",
+      "album": {
+        "name": "Christmas Eve With Johnny Mathis",
+        "url": "https://open.spotify.com/album/51b0GIhPK2EekvzycY4YpP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 115146,
+      "name": "We Need a Little Christmas",
+      "url": "https://open.spotify.com/track/7uyIOiGyIpOR6OGz8UHBuq"
+    },
+    {
       "added_at": "2024-08-30 15:45:26",
       "album": {
         "name": "A Very Backstreet Christmas",
@@ -655,26 +687,6 @@
       "duration_ms": 217680,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1"
-    },
-    {
-      "added_at": "2024-08-30 15:45:26",
-      "album": {
-        "name": "Merry Christmas (with Percy Faith & His Orchestra)",
-        "url": "https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Sleigh Ride (with Percy Faith & His Orchestra)",
-      "url": "https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2"
     },
     {
       "added_at": "2024-08-30 15:45:26",
@@ -923,6 +935,26 @@
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
+    },
+    {
+      "added_at": "2024-08-30 15:45:26",
+      "album": {
+        "name": "Merry Christmas (with Percy Faith & His Orchestra)",
+        "url": "https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Sleigh Ride (with Percy Faith & His Orchestra)",
+      "url": "https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2"
     },
     {
       "added_at": "2024-08-30 15:45:26",

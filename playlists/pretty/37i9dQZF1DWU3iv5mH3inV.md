@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,732 likes - 70 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,848 likes - 70 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 51 | [Despues](https://open.spotify.com/track/3CzVFSdCqTLXvbmYzxJplq) | [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk), [BooBassKing](https://open.spotify.com/artist/2WuQfqks1V0QGsx7VIHnaF) | [Despues](https://open.spotify.com/album/6ySEcib8c88ZJ9NkQNyJub) | 2:43 |
 | 52 | [Otra Vez](https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [Otra Vez](https://open.spotify.com/album/5aIzvD5lifAtyfsn2GqJAP) | 1:54 |
 | 53 | [Descontrol](https://open.spotify.com/track/1746C7akVEAcYsPkZCzUWn) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Alcapone](https://open.spotify.com/artist/0KtMsNmF4prNnvuVZgHFWf) | [Descontrol](https://open.spotify.com/album/2PVtZAal74dkPKkU5rsCI3) | 2:29 |
-| 54 | [Sosua](https://open.spotify.com/track/6g2BJC2jQbxSGYRrh0mKlQ) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Sosua](https://open.spotify.com/album/5rqYJCXre4ea49XKgZDGge) | 2:23 |
+| 54 | [Sosua](https://open.spotify.com/track/6g2BJC2jQbxSGYRrh0mKlQ) | [Wander Love](https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd), [Puyalo Pantera](https://open.spotify.com/artist/56Vf51QqEpxdVYlTxJm22l) | [Sosua](https://open.spotify.com/album/5rqYJCXre4ea49XKgZDGge) | 2:23 |
 | 55 | [Se Puede Repetí](https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Se Puede Repetí](https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q) | 2:04 |
 | 56 | [Profundo](https://open.spotify.com/track/68YEcQFqHgROlFUCdQa1kE) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Profundo](https://open.spotify.com/album/1Z3xO7kzGnHycnNolKbDf3) | 2:01 |
 | 57 | [Pelota](https://open.spotify.com/track/1119zLl9XZ26Z1uNkdp16h) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Pelota](https://open.spotify.com/album/6wsVhac1Z69KPs1b3cELu8) | 1:51 |

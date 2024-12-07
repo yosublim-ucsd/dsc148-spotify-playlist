@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6649,
+  "num_followers": 6658,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Cherry Pink",
-        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Cherry Pink",
-      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/0ph7K6mRDo0bzD7KngJq3i"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212013,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2VxF5wUA8u0wOUD9hnN65W"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Cherry Pink",
+        "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Cherry Pink",
+      "url": "https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -847,58 +847,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
-      },
-      "artists": [
-        {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Be with me",
-      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 182031,
-      "name": "CAPTAIN",
-      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "AI (Feat. Loco)",
-        "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "AI (Feat. Loco)",
-      "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Once In a Summer",
         "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
@@ -919,6 +867,58 @@
       "duration_ms": 200973,
       "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 182031,
+      "name": "CAPTAIN",
+      "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Be with me",
+      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "AI (Feat. Loco)",
+        "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "AI (Feat. Loco)",
+      "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/4KdgbFmE2xn5be7sUMzFDe"
+        "name": "LOVE or TAKE",
+        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
       "artists": [
         {
-          "name": "Mew",
-          "url": "https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 191440,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/2pqlJF13zbO268SNONERS4"
+      "duration_ms": 170906,
+      "name": "Sing-a-song",
+      "url": "https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y"
     },
     {
       "added_at": "2024-11-06 07:05:36",

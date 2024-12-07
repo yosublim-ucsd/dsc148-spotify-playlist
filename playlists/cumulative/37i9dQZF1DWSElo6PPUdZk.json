@@ -259,6 +259,32 @@
     },
     {
       "album": {
+        "name": "Babul",
+        "url": "https://open.spotify.com/album/18CM5e5toairZKnviHUVWC"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Ranjha Rajan",
+          "url": "https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N"
+        },
+        {
+          "name": "Piyush Chhabra",
+          "url": "https://open.spotify.com/artist/7cErzZIv8GyIE1SQwGRCOO"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325161,
+      "name": "Babul",
+      "url": "https://open.spotify.com/track/6b7Nn2mkfXeS4Ij0PjySu4"
+    },
+    {
+      "album": {
         "name": "Magical",
         "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
       },
@@ -1340,7 +1366,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 152268,
       "name": "Jind Mahi",
       "url": "https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX"
@@ -1518,7 +1544,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 144000,
       "name": "Kan Akhiyaan",
       "url": "https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE"
@@ -2318,6 +2344,32 @@
       "duration_ms": 146052,
       "name": "Nakhro",
       "url": "https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B"
+    },
+    {
+      "album": {
+        "name": "Naseeb",
+        "url": "https://open.spotify.com/album/3Hb8QXpntJtNbsMRJ1wEwh"
+      },
+      "artists": [
+        {
+          "name": "Sana Panesar",
+          "url": "https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115616,
+      "name": "Naseeb",
+      "url": "https://open.spotify.com/track/5JgMsHeJypXp3Ixgkhdz1U"
     },
     {
       "album": {

@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Guardian",
+        "url": "https://open.spotify.com/album/7L9oQ17vTnO8y4ARVSJQog"
+      },
+      "artists": [
+        {
+          "name": "Budung",
+          "url": "https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234924,
+      "name": "Acacia",
+      "url": "https://open.spotify.com/track/6yGfsG9w4hOH3mU2CVS6mH"
+    },
+    {
+      "album": {
         "name": "Acacia",
         "url": "https://open.spotify.com/album/46O3IGuI0uokRu4VE7mjte"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193610,
       "name": "City of Freedom",
       "url": "https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6"
@@ -4545,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Fragile love",
+        "url": "https://open.spotify.com/album/33is9sij3MsUKoelVLn6ms"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199105,
+      "name": "Fragile love",
+      "url": "https://open.spotify.com/track/3tYoHH7boUjXbmjNOiFdoy"
+    },
+    {
+      "album": {
         "name": "BETWEEN US",
         "url": "https://open.spotify.com/album/4ifUv7P3yDnid3OL9hYy89"
       },
@@ -4658,7 +4694,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 199938,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF"
@@ -7228,7 +7264,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 234466,
       "name": "Late Night Walk",
       "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
@@ -14010,6 +14046,24 @@
       "duration_ms": 252448,
       "name": "We must break up now",
       "url": "https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw"
+    },
+    {
+      "album": {
+        "name": "we never turn cold",
+        "url": "https://open.spotify.com/album/3wLTFVHKMCZ3ml0yk6MAA5"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295429,
+      "name": "we never turn cold",
+      "url": "https://open.spotify.com/track/2r6ekmLOmuVbL0Dj1axg8T"
     },
     {
       "album": {

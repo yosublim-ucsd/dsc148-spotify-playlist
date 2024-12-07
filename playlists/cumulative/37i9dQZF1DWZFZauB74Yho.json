@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 179920,
       "name": "A Little Home To Go To",
       "url": "https://open.spotify.com/track/0OTFoBGamyDGDcCV92ScNz"
@@ -60,10 +60,28 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 207000,
       "name": "Aced",
       "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
+    },
+    {
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/1NycwSBolos16A8Qdq3d90"
+      },
+      "artists": [
+        {
+          "name": "Sam Eplin",
+          "url": "https://open.spotify.com/artist/1v0BhkicxgshZuhzy3mR7V"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285188,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/7d76nJZffw67TqW6YqLXuF"
     },
     {
       "album": {
@@ -250,7 +268,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 193301,
       "name": "Banks of the Brandywine",
       "url": "https://open.spotify.com/track/22vjLNPKIcugJUv3umqMoD"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 248364,
       "name": "BBQ Chips",
       "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 236000,
       "name": "Between the Two of Us",
       "url": "https://open.spotify.com/track/4pS7ad7B02becjE3TjNjSJ"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 285160,
       "name": "Blade of the King's Tongue",
       "url": "https://open.spotify.com/track/2TpE2ATWlNo9lykPoThv3p"
@@ -498,7 +516,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 278046,
       "name": "Blue Mountain",
       "url": "https://open.spotify.com/track/6sTnr8GTB2mTwWtzaM871N"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 407870,
       "name": "Can't Get Home - Live",
       "url": "https://open.spotify.com/track/5iJFJzlb1ZoIXLGgHwEULJ"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 213750,
       "name": "Charleston Girl",
       "url": "https://open.spotify.com/track/02QXKeOD4kgrAKeyz4EqRo"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155885,
       "name": "Chasing Old Memories Down",
       "url": "https://open.spotify.com/track/0q4OEzgi9LvYwrjueRrMGg"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 230232,
       "name": "City of Glass",
       "url": "https://open.spotify.com/track/31uSwisckZZqibnMW58yNF"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 236500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3Qvdl8h86LqXh9qFjKrvBB"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 188294,
       "name": "Coming Home To You",
       "url": "https://open.spotify.com/track/3l3RlgKAMPWEvoLsWGQDNQ"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 251047,
       "name": "Concrete and Steel",
       "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 135230,
       "name": "Darlin Corey",
       "url": "https://open.spotify.com/track/2UFcexUGAYwuuskfg7HUcn"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 233039,
       "name": "Down to the River",
       "url": "https://open.spotify.com/track/4Y9glUL5VxLnEUhzzLwXAb"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 317586,
       "name": "Fatal Romance",
       "url": "https://open.spotify.com/track/42OWS1YLUhCdtQK2KC74yG"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 215753,
       "name": "For the Record",
       "url": "https://open.spotify.com/track/1LGxK8CpgXwUFEBNIDKwiX"
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185933,
       "name": "Good Morning (In Heaven)",
       "url": "https://open.spotify.com/track/4MZodY8Eei5MGkOkitalIr"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 226226,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6C56x4HZbAYTIEShKSTsIg"
@@ -1734,7 +1752,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 319337,
       "name": "Grass is Greener",
       "url": "https://open.spotify.com/track/0ygU1M7Q3IQD7AS3xDWWET"
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 314760,
       "name": "Here I Go",
       "url": "https://open.spotify.com/track/2pVAW2Q1me86zD9IQqAMfp"
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 265862,
       "name": "Hey Mama",
       "url": "https://open.spotify.com/track/6HriPzZvnKWnC1OiNGCASp"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 148960,
       "name": "Hidden Road",
       "url": "https://open.spotify.com/track/246LMzpYVylsS5ndNwXvdp"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 205693,
       "name": "Holdin' On, Holdin\u2019 Out",
       "url": "https://open.spotify.com/track/7Ll9iAtguHDUp3c0aWiv4r"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 351173,
       "name": "Hummingbird (feat. Allison de Groot & Tatiana Hargreaves)",
       "url": "https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV"
@@ -2228,7 +2246,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189760,
       "name": "I Know What You Mean",
       "url": "https://open.spotify.com/track/6XEwT02uieShVEMwnEXReU"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 237360,
       "name": "I Will Not Go Down (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/2eQxXfDk7F06iYIfOeERil"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 197093,
       "name": "I Wish I Had One More",
       "url": "https://open.spotify.com/track/5b1kQfCpFbTfc2qQpQx58D"
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 208703,
       "name": "If Something Should Happen",
       "url": "https://open.spotify.com/track/0SR3I3ZNPYwGfPkDFVQwoU"
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 187533,
       "name": "If You Dare",
       "url": "https://open.spotify.com/track/5y5itGivdrqVfe0RoZi4rM"
@@ -2398,7 +2416,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 287687,
       "name": "Ijams",
       "url": "https://open.spotify.com/track/1yzsTkjClmlyCl8HMGID5P"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 295528,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 254316,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 152586,
       "name": "Kentucky When You Called",
       "url": "https://open.spotify.com/track/7j2dXq1QzmQcU9gnioN78o"
@@ -2688,10 +2706,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 165576,
       "name": "Leadfoot",
       "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/7MJ0eD85VLrmoCCtnJ1KeN"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Leave It to Jesus",
+      "url": "https://open.spotify.com/track/4jx1L5vbibM1NHWdJNTUtI"
     },
     {
       "album": {
@@ -2811,6 +2847,28 @@
     },
     {
       "album": {
+        "name": "Little Birdie",
+        "url": "https://open.spotify.com/album/0dyzjmSjAA53fnZ4FOqJma"
+      },
+      "artists": [
+        {
+          "name": "Ray Cardwell",
+          "url": "https://open.spotify.com/artist/6kLYTAITVUIX4V7VZhlo2V"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164271,
+      "name": "Little Birdie",
+      "url": "https://open.spotify.com/track/49VHQmQGEeWIZ1dAVaSDGu"
+    },
+    {
+      "album": {
         "name": "Little Ones",
         "url": "https://open.spotify.com/album/3s4ILC1Jmbcxe7oWs89BCN"
       },
@@ -2822,10 +2880,28 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 195129,
       "name": "Little Ones",
       "url": "https://open.spotify.com/track/5lwckjUabBCHUQ2OrlBGsu"
+    },
+    {
+      "album": {
+        "name": "Lo, How a Rose E'er Blooming",
+        "url": "https://open.spotify.com/album/5IzsTo7WDIkgsjJbPio2Bu"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Thomists",
+          "url": "https://open.spotify.com/artist/4Rlk8O5gNWhHumN1jKUb19"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Lo, How a Rose E'er Blooming",
+      "url": "https://open.spotify.com/track/4TmqCAAP2I21pwv4h8lWSV"
     },
     {
       "album": {
@@ -2934,7 +3010,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 198913,
       "name": "Luxury Liner",
       "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
@@ -2956,7 +3032,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 155928,
       "name": "M-E-X-I-C-O (Feat. Billy Strings)",
       "url": "https://open.spotify.com/track/1AvMXzHYdIdJfZwpjZQCdN"
@@ -2974,7 +3050,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 302746,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
@@ -3018,6 +3094,24 @@
       "duration_ms": 210597,
       "name": "Mandolin Spring",
       "url": "https://open.spotify.com/track/2P63JDVaKXwLyD5OoDPxrI"
+    },
+    {
+      "album": {
+        "name": "Marry Jane",
+        "url": "https://open.spotify.com/album/7G0BjpkTSipUxuYUL3vwSJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145932,
+      "name": "Marry Jane",
+      "url": "https://open.spotify.com/track/1uClRHXNyVe6rW8oRhZFEK"
     },
     {
       "album": {
@@ -3072,7 +3166,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 203150,
       "name": "Modern Day Jezebel - Live",
       "url": "https://open.spotify.com/track/0XhxRteepJf9AHDPH6X1Rv"
@@ -3130,6 +3224,40 @@
       "duration_ms": 375652,
       "name": "Never Look Back",
       "url": "https://open.spotify.com/track/1EV8fkZEG6Mq6M4LW1Icxy"
+    },
+    {
+      "album": {
+        "name": "Nine Pound Hammer",
+        "url": "https://open.spotify.com/album/53MzEtFiIBTl6EF2F5wCiB"
+      },
+      "artists": [
+        {
+          "name": "String Loaded Bluegrass Band",
+          "url": "https://open.spotify.com/artist/5WlyMIx13DcBPvdiGnXy6d"
+        },
+        {
+          "name": "Jim Leduc",
+          "url": "https://open.spotify.com/artist/1GIB1SxPbBWvCDSGyLh7Ks"
+        },
+        {
+          "name": "Ian Stuart",
+          "url": "https://open.spotify.com/artist/76eBrwLDn5BiblX1SM4z2Z"
+        },
+        {
+          "name": "Shannon Morrell",
+          "url": "https://open.spotify.com/artist/3TlXllROs2uCSVfMk4Hza1"
+        },
+        {
+          "name": "Randy Armitage",
+          "url": "https://open.spotify.com/artist/3mjbjeEe1vXztcIrOh8SB6"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/4Uhi1nxlMauaenHUie7u0u"
     },
     {
       "album": {
@@ -3282,7 +3410,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 261903,
       "name": "Oldsmobile",
       "url": "https://open.spotify.com/track/2Hy7TP76C9V3ie4ArFu7np"
@@ -3406,7 +3534,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 214598,
       "name": "Out of Control Raging Fire",
       "url": "https://open.spotify.com/track/6FMmdFTRAW45fJR8sWtQOw"
@@ -3450,7 +3578,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
@@ -3508,7 +3636,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 227631,
       "name": "Pigtails and Sugarcane",
       "url": "https://open.spotify.com/track/5vlIOrHkAsaYqSku5c7T6f"
@@ -3602,7 +3730,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 205346,
       "name": "Preachin' Silas",
       "url": "https://open.spotify.com/track/0ETxjdmxLlBTsFzkRhtRIZ"
@@ -3676,7 +3804,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 191530,
       "name": "Put No Walls Around Your Garden",
       "url": "https://open.spotify.com/track/1nzBZ1pGMDj1hNWlnN3Stj"
@@ -3694,7 +3822,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 217846,
       "name": "Put the Bottle Down",
       "url": "https://open.spotify.com/track/2uu4Is5D2M1wqDnj2zy1hZ"
@@ -3720,7 +3848,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
@@ -3792,7 +3920,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 177313,
       "name": "Rain And Snow",
       "url": "https://open.spotify.com/track/5iJoRMKPmYcbgaSTT2M5hE"
@@ -3810,7 +3938,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 207386,
       "name": "Ramblin' kind",
       "url": "https://open.spotify.com/track/1VvffbIbMD23glYdfadEYo"
@@ -3868,7 +3996,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 185932,
       "name": "Richest Man Alive - Live AF Version",
       "url": "https://open.spotify.com/track/62ZjiB03JIgFizq44VF5j6"
@@ -3977,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Songs Inspired by Witness",
+        "url": "https://open.spotify.com/album/2bok5mkr6vuQCvS6T3J8T8"
+      },
+      "artists": [
+        {
+          "name": "March to August",
+          "url": "https://open.spotify.com/artist/0A9AeCCTh7dq8rdsGsw2v9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207044,
+      "name": "Running Booze",
+      "url": "https://open.spotify.com/track/3UViJFZyaULcjvvQPs7lIl"
+    },
+    {
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI"
       },
@@ -4006,7 +4152,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 191173,
       "name": "Saint Anne's Nanigo",
       "url": "https://open.spotify.com/track/5vkZKZOYgN3jnt2GW1KG7a"
@@ -4194,7 +4340,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 182961,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5phyocQUvFInRtHBHZLl8F"
@@ -4216,7 +4362,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 119535,
       "name": "Smoky Mountain DNA",
       "url": "https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5"
@@ -4260,7 +4406,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 197019,
       "name": "Southern Pines",
       "url": "https://open.spotify.com/track/3xq4R4ji2VvzueStNzPcUm"
@@ -4282,7 +4428,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 180464,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/6TA2JwXz8q0oZoteNgrbar"
@@ -4388,10 +4534,28 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 160568,
       "name": "Streets of Chicago",
       "url": "https://open.spotify.com/track/2TH5REnRlQ2yUF6H6ifwRG"
+    },
+    {
+      "album": {
+        "name": "Sue",
+        "url": "https://open.spotify.com/album/1PleTU8x0K1kFftrJ3eaiq"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170115,
+      "name": "Sue",
+      "url": "https://open.spotify.com/track/1PrDTDViIYtl7gice8fjxN"
     },
     {
       "album": {
@@ -4414,7 +4578,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
@@ -4450,7 +4614,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 140000,
       "name": "Tennessee Hound Dog",
       "url": "https://open.spotify.com/track/3CqcTeCtBPLazFandOSy9b"
@@ -4534,7 +4698,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 227000,
       "name": "The Drifter",
       "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
@@ -4630,7 +4794,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 202102,
       "name": "The Log Train",
       "url": "https://open.spotify.com/track/5m7UEuDepc6fILBeoBJ6Dx"
@@ -4772,7 +4936,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
@@ -4830,7 +4994,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 221266,
       "name": "Til You Come Home",
       "url": "https://open.spotify.com/track/6RGIvF4CeuoR4lEJbgHiig"
@@ -4848,10 +5012,32 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 166665,
       "name": "Time's Winding Up",
       "url": "https://open.spotify.com/track/0JLrfElWRBmwFnoi0zznDL"
+    },
+    {
+      "album": {
+        "name": "Tombstone Territory",
+        "url": "https://open.spotify.com/album/69IYyJ1dBCD1Y0UMperxXK"
+      },
+      "artists": [
+        {
+          "name": "High Horse",
+          "url": "https://open.spotify.com/artist/0zH641V9myT89mx8JBn3O5"
+        },
+        {
+          "name": "Jacob Jolliff",
+          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430240,
+      "name": "Tombstone Territory",
+      "url": "https://open.spotify.com/track/2XEqVIiZMQG89nW31cKECP"
     },
     {
       "album": {
@@ -4906,7 +5092,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 118016,
       "name": "Too Much of Everything",
       "url": "https://open.spotify.com/track/3CfFlJPW2VwFyDN6C6SnBK"
@@ -5030,7 +5216,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 249140,
       "name": "Trying to Live the Dream",
       "url": "https://open.spotify.com/track/0LYQO6KzcfMITlNs4E6prW"
@@ -5084,7 +5270,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 163253,
       "name": "Uncertain Times",
       "url": "https://open.spotify.com/track/08x0AYzvLufpYzZJy2383R"
@@ -5120,7 +5306,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 290345,
       "name": "Valley Flower",
       "url": "https://open.spotify.com/track/23w4l3oAw9kMY2ZQiE4xpI"
@@ -5204,7 +5390,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 383146,
       "name": "Walls",
       "url": "https://open.spotify.com/track/0qebJlwvkPNyAxYR52zNgs"
@@ -5258,7 +5444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 186720,
       "name": "Welcome to Virginia",
       "url": "https://open.spotify.com/track/7xCuLpCP4CtxABSR18FyYG"
@@ -5298,7 +5484,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 182000,
       "name": "What if You're Wrong",
       "url": "https://open.spotify.com/track/7hPE0sK2Z5FzHwy7El4MSO"
@@ -5334,7 +5520,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 228916,
       "name": "What's Gonna Become of Me",
       "url": "https://open.spotify.com/track/3gdOwcqtYHUyw1FuU0hIxG"
@@ -5442,7 +5628,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 204133,
       "name": "Willow Lane",
       "url": "https://open.spotify.com/track/47SV1QiSmsztYUZfYPeNYB"
@@ -5538,7 +5724,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 159489,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/0AzTNdNAlYHIQq7864bJKV"

@@ -4,7 +4,7 @@
 
 > Suena HOLA de Salastkbron, con lo nuevo y lo viejo del reggaetón 🇦🇷
 
-270 songs - 12 hr 58 min
+272 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [El Freno](https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [El Freno](https://open.spotify.com/album/6mvuFU08OZXKTNT7C17ALE) | 2:25 | 2022-05-24 | 2023-01-10 |
 | [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 | 2022-12-10 |
 | [Ella Dice](https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Ella Dice](https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS) | 2:41 | 2022-05-24 | 2022-06-04 |
+| [EN BUSCA DE LA GLORIA](https://open.spotify.com/track/610sC4En9n1hbAQBsjrjYo) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [EN BUSCA DE LA GLORIA](https://open.spotify.com/album/06hCSR9rnAFX2o3lYPYu7z) | 2:23 | 2024-12-06 |  |
 | [En la Oscuridad](https://open.spotify.com/track/4OrAAeefsDOdUSfE87C6WR) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 2:53 | 2022-05-24 |  |
 | [En Movimiento](https://open.spotify.com/track/4S0D75BdWkyrnpEAUJfNfN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:50 | 2024-11-15 |  |
 | [Enchuladita](https://open.spotify.com/track/1yr5jqX0NuFvXn27ttb2Hz) | [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Enchuladita](https://open.spotify.com/album/638ziIBdtwAWjdy3p3arn2) | 2:50 | 2022-08-05 | 2022-08-13 |
@@ -242,6 +243,7 @@
 | [TAZA TAZA](https://open.spotify.com/track/6IJYQVYMKo0BX3unxcszSn) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [TAZA TAZA](https://open.spotify.com/album/6W3BGeXevLnWTBXndzF8IS) | 2:38 | 2022-06-03 | 2023-04-01 |
 | [Te Fuiste](https://open.spotify.com/track/0gzxvbpJN3s5sisn8ltdXh) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Fuiste](https://open.spotify.com/album/0vlPIHR6RESTULn9N3L1hl) | 2:54 | 2022-05-24 | 2022-08-06 |
 | [Te Necesito](https://open.spotify.com/track/1iYCHzSdZPPoyWuRAJET0l) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito](https://open.spotify.com/album/0aTJrqOxUoEpXr4EEyX9Tx) | 3:17 | 2024-11-15 |  |
+| [Te Quise Tanto \(feat\. Reboll333\)](https://open.spotify.com/track/0ulWwGUbQJyuwWkUxmyQGX) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Te Quise Tanto \(feat\. Reboll333\)](https://open.spotify.com/album/6NH0jyxniSAdsoOcEiuKyk) | 3:34 | 2024-12-06 |  |
 | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/track/40Aub8V5gwK9SofYNrMdaN) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Randy](https://open.spotify.com/artist/1Qote9MpqMZluWzYGifZUg) | [Te Sigo \(feat\. Randy\)](https://open.spotify.com/album/0YJEcuyXp99hO7TFGwkATX) | 3:13 | 2022-05-24 |  |
 | [Ticket](https://open.spotify.com/track/3e5ozHUqx0GE5sfbX71Ybp) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT), [Tomm](https://open.spotify.com/artist/6E8xEoc2l0qAsP3uHKD2JP) | [Ticket](https://open.spotify.com/album/66jwnO9mtooyEDXv6kOxXb) | 2:09 | 2023-12-15 |  |
 | [Tik Tak](https://open.spotify.com/track/3wKRV3wHzA0XbJfAk7Hm7p) | [DJ MÄMI](https://open.spotify.com/artist/1K6cDuo2mI7CvYIxrRNeOP) | [Tik Tak](https://open.spotify.com/album/3HyrbSuhYsHDH2Ds0OZmDQ) | 2:59 | 2022-06-17 | 2022-07-23 |

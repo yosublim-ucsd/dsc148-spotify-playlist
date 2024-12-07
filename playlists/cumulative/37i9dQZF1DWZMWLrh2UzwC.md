@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: ROSÉ
 
-13,571 songs - 30 day 23 hr 30 min
+13,575 songs - 30 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1711,6 +1711,7 @@
 | [C'mon \(feat\. Aminé\)](https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK) | [JINI](https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [An Iron Hand In A Velvet Glove](https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL) | 3:13 | 2023-10-12 | 2023-10-20 |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-04-28 | 2022-05-06 |
 | [Cabaret](https://open.spotify.com/track/5mIxcihNFVo4oz0v0F9y69) | [Maverick Blues](https://open.spotify.com/artist/1fT6O9C08FXPLrrvHmdUXC) | [Cabaret](https://open.spotify.com/album/3MeIIBGvnci4bZKRuOf3p6) | 2:57 | 2024-08-08 | 2024-08-16 |
+| [CACACA](https://open.spotify.com/track/7Hmp5cIfG5ZzJxRjelM2aB) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO), [Bella Astillah](https://open.spotify.com/artist/3MPMcG7cDVBwFnEEzAQcKk) | [CACACA](https://open.spotify.com/album/03vDoMGgAVkjlwbqUy1oWP) | 2:38 | 2024-12-06 |  |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-05-30 | 2024-06-07 |
 | [caffeine](https://open.spotify.com/track/1oE0STQy16PzQgEKWybJEf) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [caffeine](https://open.spotify.com/album/7pnjfVet3HMZz2kTEqM8MO) | 3:21 | 2023-07-13 | 2023-07-21 |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-15 | 2022-09-23 |
@@ -7753,6 +7754,7 @@
 | [Nirvana](https://open.spotify.com/track/0B2Ox309UPBFIpa87Wpa2N) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Nirvana](https://open.spotify.com/album/5vlnjPKl74RRBj6aD9aspg) | 2:46 | 2023-08-03 | 2023-08-11 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2022-12-02 |
 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 | 2024-08-01 | 2024-08-09 |
+| [Nirvana Blues](https://open.spotify.com/track/0GkFv2SgVRf07F5HL3ABj4) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [YIN REMIX](https://open.spotify.com/album/4OoLKAbROfeGkBDi6iA87e) | 4:13 | 2024-12-05 |  |
 | [Nirvana Girl](https://open.spotify.com/track/4iyUlZK4DRn2OLdKlFmdvD) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Yeeun](https://open.spotify.com/artist/3wFlJuksXb9EslcGiIXjBs) | [Nirvana Girl](https://open.spotify.com/album/4CA7sk7PixZzeeOzuyDmY0) | 3:34 | 2022-09-15 | 2022-09-23 |
 | [NITRO](https://open.spotify.com/track/0QtaaIaZRBGazjLBBuZrZ4) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [THE ANSWER](https://open.spotify.com/album/4qdkyjBC2173KTRaCzDUxJ) | 3:29 | 2022-10-13 | 2022-10-21 |
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-06-30 | 2022-07-08 |
@@ -9898,6 +9900,7 @@
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2021-12-23 | 2021-12-31 |
 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 | 2022-04-28 | 2022-05-06 |
 | [SLASH](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-25 | 2024-08-02 |
+| [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-05 |  |
 | [SLAY](https://open.spotify.com/track/32Ao6xLLir3dPOhQGvqgSB) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ALL MY GIRLS](https://open.spotify.com/album/2yjigHf9lgspW2K5y99Qr0) | 3:40 | 2023-08-17 | 2023-08-25 |
 | [Sleep](https://open.spotify.com/track/76JrGQqPhi5WnVjuvNGMtK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Sleep](https://open.spotify.com/album/6iap0f96nMrJ30TDGVz8Uz) | 2:26 | 2023-11-23 | 2023-12-01 |
 | [Sleep Crying](https://open.spotify.com/track/4yxRUP0PKgYHYKzzypQvm0) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Sleep Crying](https://open.spotify.com/album/1JkSJUTh5tgcJInjayUmmb) | 3:20 | 2022-08-25 | 2022-09-02 |
@@ -10396,6 +10399,7 @@
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-07 | 2022-07-15 |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-04 | 2024-01-12 |
 | [strangers again](https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [strangers again](https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG) | 2:25 | 2024-08-15 | 2024-08-23 |
+| [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-06 |  |
 | [Strawberry](https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [Strawberry](https://open.spotify.com/album/6Svok47SrVCMuGxIeV0m3M) | 2:33 | 2022-02-17 | 2022-02-25 |
 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 | 2022-08-04 | 2022-08-12 |
 | [Strawberry Dream \(feat\. Yedira\)](https://open.spotify.com/track/5o3SRTjoEyJ6p6XfAUyiXm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [Strawberry Dream](https://open.spotify.com/album/5OgI9RmkZz5DjKFf2W9Umc) | 2:40 | 2024-03-14 | 2024-03-22 |

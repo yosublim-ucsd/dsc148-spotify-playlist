@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-460 songs - 1 day 1 hr 53 min
+461 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Hold On](https://open.spotify.com/track/3fzr0WQGh0sJEYflCVjyXH) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 2:59 | 2023-11-24 | 2024-02-06 |
 | [Honge Hum Kabhi](https://open.spotify.com/track/0yPRCt5GkA3A0yt3NGygXB) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Honge Hum Kabhi](https://open.spotify.com/album/4LFuytxIeNuE2huZ8NZ4gG) | 3:43 | 2024-04-29 | 2024-06-11 |
 | [Hum \(Reprise\)](https://open.spotify.com/track/2v9Sln7HcVBqUNc0zXvtbE) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 4:28 | 2023-08-04 | 2024-02-10 |
+| [Hum do kabhi](https://open.spotify.com/track/1MUPtJOk8iAPcPTS2KcmU2) | [Somnathan](https://open.spotify.com/artist/3K4ygWBl8SBDTyxCNgNgom) | [Hum do kabhi](https://open.spotify.com/album/0i07X1bVxUbW11DAakvXz9) | 3:21 | 2024-12-06 |  |
 | [Hum Dono](https://open.spotify.com/track/4IALofMkaEpltIkhpvo0sz) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 3:41 | 2023-11-28 | 2024-04-01 |
 | [Hum Yun Chale](https://open.spotify.com/track/37NYkKo9phEN8iWLiesBvK) | [MANN CHAUHAN](https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF), [Dev S Chauhan](https://open.spotify.com/artist/62dn6lr4zmXJY8vVMFm58S) | [Hum Yun Chale](https://open.spotify.com/album/0CFjV3EBk6xQ3kAySqwh1z) | 3:46 | 2024-10-24 |  |
 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 | 2023-06-23 | 2024-02-10 |
@@ -268,7 +269,7 @@
 | [Malang Sajna \- Jamming Version](https://open.spotify.com/track/5emwpQvSRKbYlIcUziCZN9) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:04 | 2024-04-26 |  |
 | [Mangoge Na ?](https://open.spotify.com/track/4Mpj5odhILzZEMylxorNOs) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [Mangoge Na ?](https://open.spotify.com/album/1ynBnifQXmEeDrKTbIi9w7) | 3:07 | 2024-04-12 |  |
 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 | 2023-09-27 | 2024-06-06 |
-| [Mann Tou Jaanay Na](https://open.spotify.com/track/1BHrUB3Gr81oKcGaTCtMq2) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8), [Nivedita Bhargava](https://open.spotify.com/artist/4CDYuIl8Pz3WwHkUcr9AiB) | [Mann Tou Jaanay Na](https://open.spotify.com/album/3jL45Im5JON57pxveyF0yi) | 3:25 | 2024-10-11 |  |
+| [Mann Tou Jaanay Na](https://open.spotify.com/track/1BHrUB3Gr81oKcGaTCtMq2) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8), [Nivedita Bhargava](https://open.spotify.com/artist/4CDYuIl8Pz3WwHkUcr9AiB) | [Mann Tou Jaanay Na](https://open.spotify.com/album/3jL45Im5JON57pxveyF0yi) | 3:25 | 2024-10-11 | 2024-12-07 |
 | [Mannat](https://open.spotify.com/track/0VyhMA8lGSmapWgH86UkGs) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0), [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP) | [Mannat](https://open.spotify.com/album/0u0DkhdY7VxcdVMcHvPg3T) | 3:22 | 2024-11-18 |  |
 | [Manzoor Hai \(Acoustic\)](https://open.spotify.com/track/3d5g0GTGnb3BjHz5zzLJic) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Manzoor Hai \(Acoustic\)](https://open.spotify.com/album/4BsWJq2U1Wo0H9OlDzNlOI) | 3:58 | 2024-06-05 | 2024-09-07 |
 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 | 2023-08-09 | 2023-09-22 |

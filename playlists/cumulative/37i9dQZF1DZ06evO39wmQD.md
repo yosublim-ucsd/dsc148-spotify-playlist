@@ -4,13 +4,14 @@
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 41 min
+36 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Cautionary Tale](https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 1:08 | 2024-01-13 |  |
 | [Apex Predator](https://open.spotify.com/track/7pfQ5U5XO54dlwzKcb47sf) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:07 | 2024-01-13 |  |
-| [Beyond \(End Credit Version\) \- From "Vaiana 2"](https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Vaiana 2"\]](https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b) | 3:16 | 2024-11-09 |  |
+| [Beyond \(End Credit Version\) \- From "Moana 2"](https://open.spotify.com/track/3fzqWttckvSJS7KPGPiWAg) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Moana 2"\]](https://open.spotify.com/album/6uCyNThgUieE9elUSd4SuP) | 3:16 | 2024-12-07 |  |
+| [Beyond \(End Credit Version\) \- From "Vaiana 2"](https://open.spotify.com/track/5uWxvYWgZPqtlowVViHixH) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Beyond \(End Credit Version\) \[From "Vaiana 2"\]](https://open.spotify.com/album/5NzymxSmwBmqdSsPDQYR6b) | 3:16 | 2024-11-09 | 2024-12-07 |
 | [Born for This](https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:47 | 2023-06-10 |  |
 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/09002VzEaxqBuwzdY2KQv2) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 2:49 | 2024-11-24 |  |
 | [Feels Like Home](https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Feels Like Home](https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh) | 3:32 | 2023-05-02 |  |

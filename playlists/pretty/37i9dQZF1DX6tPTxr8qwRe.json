@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Zoe Ko",
-  "num_followers": 421267,
+  "description": "Dark, hard hitting pop. Cover: Ellise",
+  "num_followers": 421327,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Y8agAAAAA7f4p6xl0de5+nZ49Hju4W",
+  "snapshot_id": "Z1KGIAAAAABV9xbxc/IamsXNpaAdyRgF",
   "tracks": [
+    {
+      "added_at": "2024-12-06 05:05:36",
+      "album": {
+        "name": "dead2me",
+        "url": "https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "dead2me",
+      "url": "https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb"
+    },
+    {
+      "added_at": "2024-12-06 05:05:36",
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/6iBJlls04uyqgjkHU1UPNA"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/3J98fBUewnbrGuIZFT2MrL"
+    },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/1aHFl2Phf6PRMj1Mt1065m"
     },
     {
+      "added_at": "2024-12-06 05:05:36",
+      "album": {
+        "name": "You are what you fear in me.",
+        "url": "https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "You are what you fear in me.",
+      "url": "https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Flame (from the Netflix Series \"Jentry Chau vs the Underworld\")",
@@ -119,6 +167,22 @@
       "duration_ms": 188571,
       "name": "crocodile tears",
       "url": "https://open.spotify.com/track/71q2aFtpjsH4CG5Xbcc0jJ"
+    },
+    {
+      "added_at": "2024-12-06 05:05:36",
+      "album": {
+        "name": "MASTERMIND",
+        "url": "https://open.spotify.com/album/3IRv0jwNnAbEzSUZPvfv2M"
+      },
+      "artists": [
+        {
+          "name": "EMM",
+          "url": "https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo"
+        }
+      ],
+      "duration_ms": 180169,
+      "name": "MASTERMIND",
+      "url": "https://open.spotify.com/track/689AAIH7FSHYwTG2HujHSU"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 599104,
+  "num_followers": 599080,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAAtGDH2L0Be1s+ksytx821A",
+  "snapshot_id": "Z1KHBAAAAADyXSqARhf6G12uOp0bxQEK",
   "tracks": [
     {
       "added_at": "2024-08-23 16:09:24",
@@ -45,6 +45,38 @@
       "url": "https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ"
     },
     {
+      "added_at": "2024-08-23 16:09:24",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-12-06 05:09:24",
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 251768,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
+    },
+    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "last night's mascara",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
+      "added_at": "2024-12-06 05:09:24",
+      "album": {
+        "name": "Back To Then",
+        "url": "https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Back To Then",
+      "url": "https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm"
+    },
+    {
       "added_at": "2024-09-06 13:21:10",
       "album": {
         "name": "Songs my friends might wanna dance to",
@@ -75,22 +123,6 @@
       "duration_ms": 205840,
       "name": "I can`t make you love me",
       "url": "https://open.spotify.com/track/2i2SrAq9CVlwmKH4nbKP2P"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -239,6 +271,22 @@
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
+    },
+    {
+      "added_at": "2024-12-06 05:09:24",
+      "album": {
+        "name": "everywhere i go, there i am",
+        "url": "https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "memory lane",
+      "url": "https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz"
     },
     {
       "added_at": "2024-08-23 16:09:24",
@@ -403,22 +451,6 @@
     {
       "added_at": "2024-08-23 16:09:24",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "No Strings Attached",
-      "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -431,22 +463,6 @@
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
-        "name": "Happy World",
-        "url": "https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 179993,
-      "name": "Happy World",
-      "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
     },
     {
       "added_at": "2024-08-23 16:09:24",
@@ -543,22 +559,6 @@
       "duration_ms": 184166,
       "name": "Love You When You\u2019re Gone",
       "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/13iFjYadDQpqOgMeKo3R4d"
-      },
-      "artists": [
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "maybe she was the one",
-      "url": "https://open.spotify.com/track/5vCj5yC2xLp39AEWAjvXZg"
     },
     {
       "added_at": "2024-08-23 16:09:24",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0+bgAAAAAAvzKKOahWzwm313ApFcugQ",
+  "snapshot_id": "Z1DtAAAAAAB5WJrawhvG1H1Eu7nKVxWj",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
+      "duration_ms": 190266,
+      "name": "Savanna",
+      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Savanna",
-      "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228853,
-      "name": "So So Soon",
-      "url": "https://open.spotify.com/track/4BTFkZkQTYAM6xf4uAGpA9"
+      "duration_ms": 211253,
+      "name": "The Old School Way",
+      "url": "https://open.spotify.com/track/5F4VAqLivojMqr9mn9ORBk"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Cerebra",
-      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Soon Is Now? the Songs of the Smiths",
         "url": "https://open.spotify.com/album/3p01b3ewF4WNRjE7uBXycI"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 256773,
       "name": "How Soon Is Now?",
       "url": "https://open.spotify.com/track/7uTonF04lKwInBrzr2Bfpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 272066,
+      "name": "Cerebra",
+      "url": "https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD"
     },
     {
       "added_at": null,

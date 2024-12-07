@@ -3071,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163796,
+      "name": "Glo-Fi (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
+    },
+    {
+      "album": {
         "name": "Go Low",
         "url": "https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X"
       },
@@ -5383,6 +5405,24 @@
     },
     {
       "album": {
+        "name": "SOS / No More Streetivities",
+        "url": "https://open.spotify.com/album/1sIibXLlnjglJS0HpvIzsu"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127660,
+      "name": "No More Streetivities",
+      "url": "https://open.spotify.com/track/2ztJfRLLDZIwStkGRFkKXD"
+    },
+    {
+      "album": {
         "name": "No Piano",
         "url": "https://open.spotify.com/album/06p3p5ijx358wL4vMkK8re"
       },
@@ -5562,7 +5602,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 122186,
       "name": "Ouchies",
       "url": "https://open.spotify.com/track/18EGw1StZNDftpUcX8PM74"
@@ -6516,7 +6556,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 189728,
       "name": "ROOM IS ON FIRE (feat. AG Club)",
       "url": "https://open.spotify.com/track/1LgfBZnwX0IDLNrVbMZbzV"
@@ -6819,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "she want prada",
+        "url": "https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "she want prada",
+      "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
+    },
+    {
+      "album": {
         "name": "Shen Yeng Anthem",
         "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
@@ -6928,7 +6986,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
@@ -7102,6 +7160,28 @@
       "duration_ms": 154038,
       "name": "So Mi Like It",
       "url": "https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU"
+    },
+    {
+      "album": {
+        "name": "Soft Spot",
+        "url": "https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250248,
+      "name": "Soft Spot - 955 remix",
+      "url": "https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS"
     },
     {
       "album": {
@@ -7586,7 +7666,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-07",
       "duration_ms": 170093,
       "name": "Taken",
       "url": "https://open.spotify.com/track/0luRXW2hbGTMJ7QZgr5Tap"

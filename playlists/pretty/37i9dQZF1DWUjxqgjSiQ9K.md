@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,954 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,032 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Libre \- Versión Español](https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Libre \(Versión Español\)](https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm) | 4:19 |
-| 2 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
-| 3 | [No Me Avergüenzo](https://open.spotify.com/track/3DIxROb3rax8yTeetjGxMg) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj) | [No Me Avergüenzo](https://open.spotify.com/album/3YIlrzmzBejp0V5nSgytMh) | 4:35 |
+| 2 | [Más](https://open.spotify.com/track/2V9xkTwbPIsQnv0bScwlt2) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Más](https://open.spotify.com/album/6wban43aPX7A26oJ4Rf4zj) | 7:50 |
+| 3 | [Exaltado](https://open.spotify.com/track/5eE8NCgnG5b8vm7NudlsRw) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Eric Phillips](https://open.spotify.com/artist/6ERgDCzMTgsRuQ6nJzVeOY) | [Exaltado](https://open.spotify.com/album/4nHCUq5Utbw744mlJWEsyr) | 11:44 |
 | 4 | [SIMPLICIDAD](https://open.spotify.com/track/0mN5nfmdkmVjslbzLfsfkJ) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [PARÉNTESIS](https://open.spotify.com/album/1T4TZDs7wcFvaHXv6hJVTv) | 2:53 |
 | 5 | [RESPIRA](https://open.spotify.com/track/4R85uGZlT9AOnIjPp1DXHu) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [RESPIRA](https://open.spotify.com/album/1iDWguvn5b95GaVdkgppkY) | 2:20 |
 | 6 | [No Soy El Mismo](https://open.spotify.com/track/43Cn4CVlpTBOseALvTsjUY) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [No Soy El Mismo \(Lado C\)](https://open.spotify.com/album/08chYpaWTSopN4t0AR3elu) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Yeshua](https://open.spotify.com/track/5rkKRSgIXnbSG08vhALLxE) | [Amara Rodes](https://open.spotify.com/artist/41iUVjv0FJlo5wlyhmG7Uq), [Agustin Rodes](https://open.spotify.com/artist/5nVZrbP8yLBMAf2nEt4hQU), [Jony Losada](https://open.spotify.com/artist/7tLRxSmyYKHtaop8PtawRz) | [Yeshua](https://open.spotify.com/album/6J0WDj6gZjFLtCfuK4ZNj9) | 3:41 |
 | 100 | [Es Con Tus Fuerzas](https://open.spotify.com/track/6DNl0jMpEvYsWAaKZZWkV2) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [Es Con Tus Fuerzas](https://open.spotify.com/album/1wsJWGmpZhoPKFvBfpwzg1) | 3:52 |
 
-Snapshot ID: `Z0CB0wAAAAAeyndE0fCGWsPiK/Ka9zs3`
+Snapshot ID: `Z1K0OQAAAAAnwTLAPPAHu2tdkj+HmN8/`
