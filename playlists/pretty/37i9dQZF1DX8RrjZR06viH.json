@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92976,
+  "num_followers": 92966,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 194275,
-      "name": "Dance All Over Me",
-      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "forever on my mind",
         "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173812,
       "name": "forever on my mind",
       "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 194275,
+      "name": "Dance All Over Me",
+      "url": "https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "A Potion For Love",
+        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "A Potion For Love",
+      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
         "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 195929,
       "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
       "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "A Potion For Love",
-        "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "A Potion For Love",
-      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Milk and honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
       "artists": [
         {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 210807,
-      "name": "Milk and honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Milk and honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "Milk and honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 209078,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Hellig",
-        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
+        "name": "Lykke te",
+        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
       },
       "artists": [
         {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 219672,
-      "name": "Hellig",
-      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+      "duration_ms": 164893,
+      "name": "Lykke te",
+      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Lykke te",
-        "url": "https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS"
+        "name": "Hellig",
+        "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
       "artists": [
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Lykke te",
-      "url": "https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z"
+      "duration_ms": 219672,
+      "name": "Hellig",
+      "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "wildflower",
-        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
+        "name": "ok",
+        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
       },
       "artists": [
         {
-          "name": "leoleo",
-          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 174692,
-      "name": "wildflower",
-      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
+      "duration_ms": 149573,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Kor e du?",
-        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
-      },
-      "artists": [
-        {
-          "name": "Sondre Justad",
-          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
-        }
-      ],
-      "duration_ms": 200798,
-      "name": "Kor e du?",
-      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Learning as I go",
         "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
@@ -851,6 +835,38 @@
       "duration_ms": 167280,
       "name": "Learning as I go",
       "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "wildflower",
+        "url": "https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw"
+      },
+      "artists": [
+        {
+          "name": "leoleo",
+          "url": "https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh"
+        }
+      ],
+      "duration_ms": 174692,
+      "name": "wildflower",
+      "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Kor e du?",
+        "url": "https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf"
+      },
+      "artists": [
+        {
+          "name": "Sondre Justad",
+          "url": "https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67"
+        }
+      ],
+      "duration_ms": 200798,
+      "name": "Kor e du?",
+      "url": "https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -871,8 +887,8 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "ok",
-        "url": "https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov"
+        "name": "Mamma sa det ordne se for snille piker",
+        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
       },
       "artists": [
         {
@@ -880,25 +896,9 @@
           "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 149573,
-      "name": "ok",
-      "url": "https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Oh Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
-      },
-      "artists": [
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Oh Love - Acoustic",
-      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
+      "duration_ms": 205655,
+      "name": "Mamma sa det ordne se for snille piker",
+      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -915,6 +915,22 @@
       "duration_ms": 197529,
       "name": "P\u00e5 bes\u00f8k",
       "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Oh Love (Acoustic)",
+        "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
+      },
+      "artists": [
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Oh Love - Acoustic",
+      "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 190405,
       "name": "Finaste s\u00e5 finns",
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Mamma sa det ordne se for snille piker",
-        "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "Mamma sa det ordne se for snille piker",
-      "url": "https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Over Deg",
         "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 147093,
       "name": "Over Deg",
       "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192213,
       "name": "Synd synd synd",
       "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 236210,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Ti tusen",
         "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
       },
       "artists": [
         {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
     },
     {
       "added_at": "2024-11-28 23:00:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADljMmdLGFjcP2YaVvFFATM",
+  "snapshot_id": "Z1I+gAAAAABbr3MjeJLNGTWNrchgoC3f",
   "tracks": [
     {
       "added_at": null,
@@ -167,30 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Smell, Vol. 2",
-        "url": "https://open.spotify.com/album/26ouQTcNSfICijYqfsD7XV"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "O Adotado",
-          "url": "https://open.spotify.com/artist/1EsZEQYqVGP7k7AhYkTEBa"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Dandara",
-      "url": "https://open.spotify.com/track/4hQ89MHMnig1FeXSCf2G1g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasicas pra Sair na M\u00e3o, Vol. 1",
         "url": "https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 242000,
       "name": "Vale Nada",
       "url": "https://open.spotify.com/track/1CdB68W63KpoNn3f5228Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Smell, Vol. 2",
+        "url": "https://open.spotify.com/album/26ouQTcNSfICijYqfsD7XV"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "O Adotado",
+          "url": "https://open.spotify.com/artist/1EsZEQYqVGP7k7AhYkTEBa"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Dandara",
+      "url": "https://open.spotify.com/track/4hQ89MHMnig1FeXSCf2G1g"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Tu e Meu Som",
+        "url": "https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 167337,
+      "name": "Entre Tu e Meu Som",
+      "url": "https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Tu e Meu Som",
-        "url": "https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 167337,
-      "name": "Entre Tu e Meu Som",
-      "url": "https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bivolt",
         "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
@@ -375,26 +375,6 @@
       "duration_ms": 188571,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/7oB9m389ePdiZSg0b2sO74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 204302,
-      "name": "Eu & Tu!",
-      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
     },
     {
       "added_at": null,
@@ -435,6 +415,34 @@
       "duration_ms": 360000,
       "name": "L\u00e1 na Quebrada",
       "url": "https://open.spotify.com/track/30rKkDORVEkgrUTPKMoqfK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "duration_ms": 137450,
+      "name": "Raspa Placa",
+      "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
     },
     {
       "added_at": null,
@@ -483,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olha pra Mim",
+        "url": "https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 231363,
+      "name": "Olha pra Mim",
+      "url": "https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
       },
@@ -492,41 +516,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 137450,
-      "name": "Raspa Placa",
-      "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ELAS",
-        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 160079,
-      "name": "Fa\u00e7o Valer",
-      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
+      "duration_ms": 204302,
+      "name": "Eu & Tu!",
+      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
     },
     {
       "added_at": null,
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olha pra Mim",
-        "url": "https://open.spotify.com/album/5kMOd6mjawcIVx33mQpkOl"
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
       },
       "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 231363,
-      "name": "Olha pra Mim",
-      "url": "https://open.spotify.com/track/5sR1xWyEayjOvtbHING1Pp"
+      "duration_ms": 160079,
+      "name": "Fa\u00e7o Valer",
+      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
     },
     {
       "added_at": null,
@@ -675,6 +675,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 194688,
+      "name": "Localiza",
+      "url": "https://open.spotify.com/track/1PrpGOiuLHEnZHTcWM32kL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "T\u00f4 Tranquila",
+      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copy",
         "url": "https://open.spotify.com/album/0aabe3MkHEfOH89G3AA7rX"
       },
@@ -711,46 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "T\u00f4 Tranquila",
-      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 194688,
-      "name": "Localiza",
-      "url": "https://open.spotify.com/track/1PrpGOiuLHEnZHTcWM32kL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bivolt",
         "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
@@ -767,46 +767,6 @@
       "duration_ms": 221176,
       "name": "Nome e Sobrenome",
       "url": "https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Papo Reto",
-        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 131093,
-      "name": "Malandrinha",
-      "url": "https://open.spotify.com/track/6xoqFcFzy4GV5U84j5g2uI"
     },
     {
       "added_at": null,
@@ -831,6 +791,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 131093,
+      "name": "Malandrinha",
+      "url": "https://open.spotify.com/track/6xoqFcFzy4GV5U84j5g2uI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bivolt",
         "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 219348,
       "name": "Tipo Giroflex",
       "url": "https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Essa Onda",
+      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
     },
     {
       "added_at": null,
@@ -895,26 +915,6 @@
       "duration_ms": 164809,
       "name": "Ela Joga",
       "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 188437,
-      "name": "Essa Onda",
-      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
     },
     {
       "added_at": null,

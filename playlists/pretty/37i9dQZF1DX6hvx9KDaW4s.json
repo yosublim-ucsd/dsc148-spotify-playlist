@@ -1,6 +1,6 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 573658,
+  "num_followers": 573645,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2024-07-19 11:51:28",
       "album": {
-        "name": "Prelude to Ecstasy",
-        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 176483,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
+      "duration_ms": 190230,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
     },
     {
       "added_at": "2024-02-06 14:45:41",
@@ -463,22 +467,18 @@
     {
       "added_at": "2024-07-19 11:51:28",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr"
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
         }
       ],
-      "duration_ms": 190230,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
+      "duration_ms": 176483,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
     },
     {
       "added_at": "2024-07-19 11:51:28",

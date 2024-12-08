@@ -4,14 +4,14 @@
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Chloe Qisha
 
-101 songs - 5 hr 10 min
+102 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10/10](https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [10/10](https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX) | 2:52 | 2024-12-04 |  |
 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 | 2024-12-04 |  |
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-12-04 |  |
-| [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-12-04 |  |
+| [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-12-04 | 2024-12-08 |
 | [ALL NIGHT](https://open.spotify.com/track/7JUNheFeoB0wTzBcq9BvF8) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [QUEEN DEGENERATE](https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g) | 2:56 | 2023-11-29 | 2024-12-05 |
 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 | 2024-12-04 |  |
 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 | 2024-12-04 |  |
@@ -65,6 +65,7 @@
 | [Kite](https://open.spotify.com/track/41FeK6ujXWI509FfrRJ72L) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 2:45 | 2024-12-04 |  |
 | [Landslide](https://open.spotify.com/track/7tTiA7pLQxG48C6Q38wON4) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Is that all there is?](https://open.spotify.com/album/3WA9g8iYSTJQm2FuBM75p3) | 2:59 | 2023-11-29 | 2024-12-05 |
 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 | 2024-12-04 |  |
+| [Less of You](https://open.spotify.com/track/0F1h8fzKjaBOOdQS8eXpLU) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:13 | 2024-12-04 |  |
 | [Little Girl Gone](https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP) | 3:08 | 2023-11-29 | 2024-12-05 |
 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 | 2023-11-29 | 2024-12-05 |
 | [Love Language](https://open.spotify.com/track/6zHJ0wJT8MWEpVJADAwxN9) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/7pGwBisCaQygmhmC1UADsC) | 3:28 | 2023-11-29 | 2024-12-05 |

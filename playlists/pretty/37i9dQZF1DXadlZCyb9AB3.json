@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 186360,
+  "num_followers": 186445,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
-      },
-      "artists": [
-        {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "These Monsters Are Real",
         "url": "https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164248,
       "name": "Me & Her",
       "url": "https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+      },
+      "artists": [
+        {
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Clutch",
-        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 190091,
-      "name": "The Clutch",
-      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Such Friends Are Dangerous",
         "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 188226,
       "name": "Watchmaker",
       "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Look Blue Go Purple Compilation",
-        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
-      },
-      "artists": [
-        {
-          "name": "Look Blue Go Purple",
-          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "I Don't Want You Anyway",
-      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Update Your Brain",
         "url": "https://open.spotify.com/album/4yZJcVLLLqowccHbHg59ZD"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 194000,
       "name": "Let Go of the Past",
       "url": "https://open.spotify.com/track/1g3VugPUuNEtEvxpftReBJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Look Blue Go Purple Compilation",
+        "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
+      },
+      "artists": [
+        {
+          "name": "Look Blue Go Purple",
+          "url": "https://open.spotify.com/artist/1Yy0i6C3R2ubzz9CRM4JDv"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "I Don't Want You Anyway",
+      "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Warm, In Your Coat",
-        "url": "https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG"
-      },
-      "artists": [
-        {
-          "name": "Romeo Void",
-          "url": "https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Wrap It Up",
-      "url": "https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Cold Cold Hearts",
         "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 124800,
       "name": "Any Resemblance...",
       "url": "https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Warm, In Your Coat",
+        "url": "https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG"
+      },
+      "artists": [
+        {
+          "name": "Romeo Void",
+          "url": "https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Wrap It Up",
+      "url": "https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1455,6 +1455,22 @@
       "duration_ms": 147160,
       "name": "Half Girl Half Rant",
       "url": "https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Cold Cold Hearts",
+        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
+      },
+      "artists": [
+        {
+          "name": "Cold Cold Hearts",
+          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Cute Boy Discount",
+      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1535,22 +1551,6 @@
       "duration_ms": 190160,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Cold Cold Hearts",
-        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
-      },
-      "artists": [
-        {
-          "name": "Cold Cold Hearts",
-          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Cute Boy Discount",
-      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-10-07 20:36:39",

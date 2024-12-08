@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Anxious
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,974 likes - 115 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,993 likes - 115 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 5 | [Sooner](https://open.spotify.com/track/1nQXg98rEPCdHcETJGd2bb) | [red sun](https://open.spotify.com/artist/2EBOAZfR66SwpO9mGKsaul) | [Unnecessary Riffness](https://open.spotify.com/album/0AAOsOHACFnYGxKyqfKPKd) | 2:15 |
 | 6 | [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 |
 | 7 | [S2L](https://open.spotify.com/track/5tYLtTRxtITNZ4QIUWQVI5) | [Grave Secrets](https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo) | [S2L](https://open.spotify.com/album/3qiGxtR72UMbFBI1nzlKUi) | 2:18 |
-| 8 | [Trail Of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 |
+| 8 | [Trail of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 |
 | 9 | [Therapy](https://open.spotify.com/track/5BiNez5R2lvM7YfS4TkgIS) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [Grow The Fuck Up](https://open.spotify.com/album/1IHuSNjZ7vHKpW1WQNxrkW) | 2:12 |
 | 10 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 |
 | 11 | [Parting Gift \(feat\. Brendan Kelly\)](https://open.spotify.com/track/0rjhfek5AvNObnLaiIemtf) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1), [Brendan Kelly](https://open.spotify.com/artist/0ZptpOIyZ9tKh94WgwOuZT), [The Lawrence Arms](https://open.spotify.com/artist/0aQ8Ow9YAkGxr5bbehjkcS) | [Parting Gift \(feat\. Brendan Kelly\)](https://open.spotify.com/album/21oQ2Ww0ilZePzq2jY2boP) | 2:54 |

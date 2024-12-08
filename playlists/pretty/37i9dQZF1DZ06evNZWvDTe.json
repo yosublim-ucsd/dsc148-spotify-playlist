@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11634,
+  "num_followers": 11640,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACQeV2C4zyuLWvu/FDcIud6",
+  "snapshot_id": "Z1I+gAAAAACNExnbANXTwhwKBB/6tacA",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "June July + Pharasee",
         "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 220000,
       "name": "June July",
       "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": null,
@@ -599,42 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 247462,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happy Day",
-        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 216546,
       "name": "Anointing",
       "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 247462,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
       "artists": [
         {
@@ -684,13 +684,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+      "duration_ms": 212932,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 248713,
-      "name": "Saa Okodie No (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oofeets",
         "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 226666,
       "name": "Oofeets",
       "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Bad / Different Place",
         "url": "https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 229320,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 100362,
-      "name": "CONFETTI",
-      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 100362,
+      "name": "CONFETTI",
+      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
     }
   ],
   "unique_name": "This Is Sarkodie",

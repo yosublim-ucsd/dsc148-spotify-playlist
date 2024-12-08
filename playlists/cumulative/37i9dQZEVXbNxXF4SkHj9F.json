@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154050,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1789,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -1804,7 +1844,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -1880,7 +1920,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/4b2fMv44GAYpsDSK4ihbsI"
@@ -3286,7 +3326,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4334,6 +4374,24 @@
       "duration_ms": 196079,
       "name": "BYE BYE",
       "url": "https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141141,
+      "name": "call it the end",
+      "url": "https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN"
     },
     {
       "album": {
@@ -6115,6 +6173,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214950,
+      "name": "dance all night",
+      "url": "https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn"
+    },
+    {
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -7640,6 +7716,24 @@
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
       "album": {
@@ -10069,6 +10163,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
+    },
+    {
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -12036,7 +12148,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 235333,
       "name": "Home",
       "url": "https://open.spotify.com/track/2PlsVMcOn6ujc2UEYs2Yat"
@@ -17174,7 +17286,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -18358,7 +18470,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 188320,
       "name": "My Name is Malguem",
       "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
@@ -19669,6 +19781,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184006,
+      "name": "not the same",
+      "url": "https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM"
+    },
+    {
+      "album": {
         "name": "Show Me The Money 10 Final",
         "url": "https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio"
       },
@@ -19746,10 +19876,28 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
     },
     {
       "album": {
@@ -25505,6 +25653,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
+    },
+    {
+      "album": {
         "name": "Stay Alive (Prod. SUGA of BTS)",
         "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
       },
@@ -26466,7 +26632,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 174146,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
@@ -27716,7 +27882,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 129468,
       "name": "Tick-Tack",
       "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
@@ -28079,6 +28245,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236248,
+      "name": "too bad for us",
+      "url": "https://open.spotify.com/track/3tDF6qjNrabjnb23RB2rpa"
+    },
+    {
+      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -28204,6 +28388,24 @@
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "album": {
@@ -28452,6 +28654,24 @@
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/3OB2kHbwZESIxMSIrv7xit"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167748,
+      "name": "two years",
+      "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
     },
     {
       "album": {
@@ -29258,7 +29478,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 235053,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl"
@@ -30061,6 +30281,28 @@
     },
     {
       "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
@@ -30108,7 +30350,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 177953,
       "name": "Who (Beautiful Mind Remix)",
       "url": "https://open.spotify.com/track/2isRbZIIU4PqPrECffn7QO"
@@ -30126,7 +30368,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 188498,
       "name": "Who (Funky Remix)",
       "url": "https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9"
@@ -30144,7 +30386,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 170887,
       "name": "Who (Instrumental)",
       "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"

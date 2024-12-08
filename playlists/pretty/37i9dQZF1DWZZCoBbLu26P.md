@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,244 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,259 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 39 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
 | 40 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 |
 | 41 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
-| 42 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
-| 43 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [Courtney](https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn), [Alaska](https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
+| 42 | [American Apparel Ad Girls](https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS) | [Courtney](https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn), [Alaska](https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [American Apparel Ad Girls](https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM) | 3:48 |
+| 43 | [Burn Rubber](https://open.spotify.com/track/09d9ySiqQ6YX5Usnj8nba0) | [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Burn Rubber](https://open.spotify.com/album/1mrUyBb7BnWUtHCZuBbYS5) | 2:53 |
 | 44 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 45 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
 | 46 | [My Pussy Is Like a Peach](https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd) | [Choriza May](https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j) | [My Pussy Is Like a Peach](https://open.spotify.com/album/2UF5W1roL28m982inA5g3w) | 3:52 |

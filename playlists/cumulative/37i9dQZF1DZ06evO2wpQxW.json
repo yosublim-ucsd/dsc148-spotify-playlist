@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "El Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/5eUwdcecpVQDKqAzNr9Ycf"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155154,
+      "name": "Los Principios Un Tesoro",
+      "url": "https://open.spotify.com/track/3CwK8gcr1zTadTToABKoIX"
+    },
+    {
+      "album": {
         "name": "Las Culebras",
         "url": "https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte"
       },

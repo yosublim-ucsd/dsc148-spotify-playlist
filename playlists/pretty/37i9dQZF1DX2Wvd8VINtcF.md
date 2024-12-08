@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week: Tom Misch & Loyle Carner
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,867 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,857 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

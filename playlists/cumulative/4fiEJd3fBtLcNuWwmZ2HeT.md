@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-260 songs - 14 hr 53 min
+262 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2022-11-25 |  |
 | [Hatsukoisou \- Selfcover](https://open.spotify.com/track/10FzsPAEgBULrpWLyEoOzO) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [Hatsukoisou \(Selfcover\)](https://open.spotify.com/album/3an0xFEBWz03yNv8tON518) | 2:51 | 2024-07-29 |  |
+| [Haunted Dance](https://open.spotify.com/track/6NuW5D8GFwVAVgc7Z3Wlv2) | [Mr\. Asyu](https://open.spotify.com/artist/1RJXUJYZGrX9fGK92SjecX) | [Tone Sphere Ultra Service](https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz) | 3:32 | 2024-12-08 |  |
 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 | 2024-03-11 |  |
 | [HELP!!](https://open.spotify.com/track/2sb0MPuym9pDaru5M2DHsU) | [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [HELP!!](https://open.spotify.com/album/3iIHNCs8dWlSSqXRzM00IB) | 3:07 | 2024-04-08 |  |
 | [hikikomori rock](https://open.spotify.com/track/5XO5F5m9ji7Rpz6qvy57JO) | [Haze](https://open.spotify.com/artist/6v19P1N5sEhOnyVK6zasl1) | [hikikomori rock](https://open.spotify.com/album/63CfE3uTFJxSsnw9tkf2ct) | 3:00 | 2023-01-02 |  |
@@ -103,7 +104,7 @@
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |
 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 | 2023-02-25 |  |
 | [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Moe Moe](https://open.spotify.com/album/4cQMG9J5WiIDMYaWf5axzy) | 3:09 | 2022-10-29 |  |
-| [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 |  |
+| [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 | 2024-12-08 |
 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 | 2024-11-18 |  |
 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [Tadano Kaede](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 | 2024-12-03 |  |
 | [Only Wonder](https://open.spotify.com/track/66gqGFhqcoEjiCcp02rsir) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Frederhythm](https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S) | 4:43 | 2023-12-24 |  |
@@ -153,6 +154,7 @@
 | [VORACITY](https://open.spotify.com/track/61jz3LFcAXLKU0i2JFXaSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」](https://open.spotify.com/album/45VfXu64lsMhLEgzwOcNkZ) | 3:52 | 2023-03-28 |  |
 | [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2023-08-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 | 2021-08-04 |  |
+| [WHEELER\-DEALER](https://open.spotify.com/track/2UlgPL6t8KjTwcozqVsXuK) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [WHEELER\-DEALER](https://open.spotify.com/album/5v2fdO3vboOeuBCZU5VA68) | 4:31 | 2024-12-07 |  |
 | [Wild Side \(From "Beastars"\)](https://open.spotify.com/track/2OppMWpVJYpd7aRFabrknT) | [MrLopez2112](https://open.spotify.com/artist/4r0pewWwxxqoq4KVrj897v) | [Wild Side \(From "Beastars"\)](https://open.spotify.com/album/7Fb3tJESZBCCA7bBWU2YQ1) | 2:43 | 2021-07-06 |  |
 | [You will never forget me](https://open.spotify.com/track/452ASKVqm4i7fvHevyBgF3) | [Awa Dobuno](https://open.spotify.com/artist/4s9gPwB69I2H9rEwKgrWoZ) | [You will never forget me](https://open.spotify.com/album/7L8TFycwRIW9yGYsiC065k) | 3:54 | 2024-06-08 |  |
 | [You're Not Special](https://open.spotify.com/track/2assykTcw0YvTyZD7XSGMd) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:29 | 2023-08-27 |  |

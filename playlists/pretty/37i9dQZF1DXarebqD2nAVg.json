@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454416,
+  "num_followers": 454447,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Memories & Notes",
-        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
-        }
-      ],
-      "duration_ms": 113357,
-      "name": "Memories & Notes",
-      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Smooth Fields",
         "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 170434,
       "name": "Smooth Fields",
       "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Memories & Notes",
+        "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ"
+        }
+      ],
+      "duration_ms": 113357,
+      "name": "Memories & Notes",
+      "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
-      },
-      "artists": [
-        {
-          "name": "A Space for Rent",
-          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
-        }
-      ],
-      "duration_ms": 120615,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/36U3xFcObfIZcpo6AhLbSw"
       },
@@ -239,22 +223,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Watching Walls",
-        "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
       "artists": [
         {
-          "name": "Sleepermane",
-          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
-        },
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+          "name": "A Space for Rent",
+          "url": "https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX"
         }
       ],
-      "duration_ms": 131432,
-      "name": "Watching Walls",
-      "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
+      "duration_ms": 120615,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -291,6 +271,26 @@
       "duration_ms": 140762,
       "name": "reflections in water",
       "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Watching Walls",
+        "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 131432,
+      "name": "Watching Walls",
+      "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Fonnes",
-        "url": "https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB"
-      },
-      "artists": [
-        {
-          "name": "J Mariou",
-          "url": "https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW"
-        }
-      ],
-      "duration_ms": 134030,
-      "name": "Fonnes",
-      "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "polaris",
         "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Fonnes",
+        "url": "https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB"
+      },
+      "artists": [
+        {
+          "name": "J Mariou",
+          "url": "https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW"
+        }
+      ],
+      "duration_ms": 134030,
+      "name": "Fonnes",
+      "url": "https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "nothing to lose",
-        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "nothing to lose",
-      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/3BFZtTltMCgeJcszVWkFKU"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 160000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "nothing to lose",
+        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "nothing to lose",
+      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "falling behind",
-        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 137812,
-      "name": "falling behind",
-      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "21st Trail",
         "url": "https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 107027,
       "name": "Hydra",
       "url": "https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "falling behind",
+        "url": "https://open.spotify.com/album/78Xt50bJ6SeWBoXjL8wpGK"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "falling behind",
+      "url": "https://open.spotify.com/track/01IdQkdBqnyp4mhCDRGx5D"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Stay In Bed",
-        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
-      },
-      "artists": [
-        {
-          "name": "Zap Strap",
-          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
-        }
-      ],
-      "duration_ms": 124821,
-      "name": "Stay In Bed",
-      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 163533,
       "name": "Now, I See",
       "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Stay In Bed",
+        "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
+      },
+      "artists": [
+        {
+          "name": "Zap Strap",
+          "url": "https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN"
+        }
+      ],
+      "duration_ms": 124821,
+      "name": "Stay In Bed",
+      "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
-      },
-      "artists": [
-        {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "dream surfer",
         "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 144892,
       "name": "dream surfer",
       "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
-      },
-      "artists": [
-        {
-          "name": "Lunar Lo-Fi",
-          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 72583,
       "name": "making her smile",
       "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1bkB4UOzzy9Oh4xoeSiLVv"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lo-Fi",
+          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/76EMECk9SY0jUT8HtZr2x0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
-      },
-      "artists": [
-        {
-          "name": "Twindex",
-          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
-        },
-        {
-          "name": "lov sum",
-          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
-        }
-      ],
-      "duration_ms": 115862,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "another time",
         "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
       },
@@ -1163,18 +1143,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "time to float",
-        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
       },
       "artists": [
         {
-          "name": "mutedvibes",
-          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
         }
       ],
-      "duration_ms": 201290,
-      "name": "time to float",
-      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1199,22 +1183,34 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Last Dream",
-        "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
+        "name": "time to float",
+        "url": "https://open.spotify.com/album/4WkiWXk2E03LJwAoWt24pR"
       },
       "artists": [
         {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Last Dream",
-      "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
+      "duration_ms": 201290,
+      "name": "time to float",
+      "url": "https://open.spotify.com/track/7mfmhIDEKJTYTJ0cbKDYrq"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/0j7ZoAjp1CfTImC03OUkhK"
+      },
+      "artists": [
+        {
+          "name": "Wolly",
+          "url": "https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD"
+        }
+      ],
+      "duration_ms": 96774,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/426xhmypzoXoCJT7ihMVjX"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/0j7ZoAjp1CfTImC03OUkhK"
+        "name": "Last Dream",
+        "url": "https://open.spotify.com/album/1vdtftHbxBqtGT1vvl0nIl"
       },
       "artists": [
         {
-          "name": "Wolly",
-          "url": "https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD"
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
         }
       ],
-      "duration_ms": 96774,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/426xhmypzoXoCJT7ihMVjX"
+      "duration_ms": 134400,
+      "name": "Last Dream",
+      "url": "https://open.spotify.com/track/5SBOxgMvsWuWyZQPjXEqAA"
     },
     {
       "added_at": "2024-09-03 08:14:22",

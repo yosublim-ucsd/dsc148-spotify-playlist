@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,362 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,366 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 36 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 |
 | 37 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 38 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
-| 39 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
-| 40 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |
+| 39 | [CLASSIC](https://open.spotify.com/track/4hwkUETISUnFz5WkiU1DKt) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [New Classic](https://open.spotify.com/album/3eng3l5kQyWj9SKt3Fokyv) | 3:14 |
+| 40 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
 | 41 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
 | 42 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 43 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 69 | [I SEE U](https://open.spotify.com/track/01t1knKwlmGgNQbV9qhBKB) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [I SEE U](https://open.spotify.com/album/2B7fhEyxHqxx3d98Jau60i) | 2:32 |
 | 70 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |
 | 71 | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/track/2FWvKhxJsTA6wfuAF3k0Lo) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [CATWALK \(feat\. Rico Nasty\) \(prod\. GOLDBUUDA\)](https://open.spotify.com/album/2IlTlE29pgIKh74Jv63YGq) | 2:19 |
-| 72 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
+| 72 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
 | 73 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 |
-| 74 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
+| 74 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
 | 75 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 |
 | 76 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
 | 77 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 |

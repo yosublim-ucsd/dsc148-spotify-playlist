@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,519 likes - 96 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,550 likes - 96 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 54 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 |
 | 55 | [Arctic Tundra \(feat\. Juice WRLD\)](https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 4:29 |
 | 56 | [Heart Don't Lie](https://open.spotify.com/track/1KfvQMgFLxTcZ79X0WzgZV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Heart Don't Lie](https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev) | 2:32 |
-| 57 | [Let It Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let It Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
+| 57 | [Let it Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let it Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 58 | [Go To Yo Head](https://open.spotify.com/track/6YuLM78i7TGwIXusqcArT0) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Go To Yo Head](https://open.spotify.com/album/5gqOpv8aPdbeQhq9SV6lwc) | 2:11 |
 | 59 | [Mr\. Fantastic](https://open.spotify.com/track/6fJBbbh5zAGePQAE5agieW) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mr\. Fantastic](https://open.spotify.com/album/6XV9Qs5p4AtqmEFHYQpg3m) | 2:50 |
 | 60 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |

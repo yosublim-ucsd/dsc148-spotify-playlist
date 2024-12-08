@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 71215,
+  "num_followers": 71229,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAC2so4yC1k44IcdSUvQ0NTk",
+  "snapshot_id": "Z1I+gAAAAADDBQpS5glihksUCNkFsEBc",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 257493,
-      "name": "The Messenjah",
-      "url": "https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe"
+      "duration_ms": 186453,
+      "name": "They Don't Like It",
+      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
     },
     {
       "added_at": null,
@@ -459,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
       "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 186453,
-      "name": "They Don't Like It",
-      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
+      "duration_ms": 257493,
+      "name": "The Messenjah",
+      "url": "https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe"
     },
     {
       "added_at": null,

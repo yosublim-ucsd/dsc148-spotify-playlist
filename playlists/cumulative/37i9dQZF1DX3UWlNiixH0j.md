@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 君島大空 Ohzora Kimishima
 
-2,014 songs - 5 day 5 hr 28 min
+2,015 songs - 5 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Field of Flowers](https://open.spotify.com/track/1KAEFpUZkkGQKvhFTTen4p) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Calla](https://open.spotify.com/album/5JW6kKPUEf6vLLNoC6jg8z) | 4:09 | 2023-11-09 | 2024-01-10 |
 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-02-01 | 2024-02-07 |
 | [Final Girl](https://open.spotify.com/track/7wpVsVWTKPUpgvaRQNrOVa) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/1Biax0BCWarMhtWhdsgAfm) | 3:30 | 2024-01-30 | 2024-02-04 |
+| [Fine Love](https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fine Love](https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh) | 4:45 | 2024-12-04 |  |
 | [FIVE](https://open.spotify.com/track/1zn0JzlJ9NtW96a3ZCsTfV) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:30 | 2023-03-23 | 2023-04-19 |
 | [Fizzy Life](https://open.spotify.com/track/4EEBytoxlhXDV5jSbtcjQw) | [Nelko](https://open.spotify.com/artist/3Glq3QEL1BjWbCjIokyytB) | [Fizzy Life](https://open.spotify.com/album/2HpURTHrZRV0BZtYEjOEZi) | 3:59 | 2023-08-30 | 2023-09-06 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-01-12 | 2024-04-24 |
@@ -1526,7 +1527,7 @@
 | [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-18 | 2023-06-28 |
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-03-19 | 2024-04-24 |
 | [ドライブ論争](https://open.spotify.com/track/54d1tRwYn66RD0H1BCDatC) | [ミジンコ論争](https://open.spotify.com/artist/1FYEo2saNM2qIbQC0pVfSJ) | [ドライブ論争](https://open.spotify.com/album/0yGsTF9plbmUSXcLjMN9ud) | 4:04 | 2024-02-13 | 2024-02-21 |
-| [ドラゴンなんだって](https://open.spotify.com/track/1GzJ0cBkWSKDLKzmtWZxs5) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [ドラゴンなんだって](https://open.spotify.com/album/2S1izJUhNvRO2KKXcqlG4p) | 3:16 | 2024-12-04 |  |
+| [ドラゴンなんだって](https://open.spotify.com/track/1GzJ0cBkWSKDLKzmtWZxs5) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [ドラゴンなんだって](https://open.spotify.com/album/2S1izJUhNvRO2KKXcqlG4p) | 3:16 | 2024-12-04 | 2024-12-08 |
 | [ドラマにならない](https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u) | [kako](https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk) | [愛すべき誰](https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB) | 2:54 | 2024-06-11 | 2024-06-19 |
 | [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-03-08 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-06 |

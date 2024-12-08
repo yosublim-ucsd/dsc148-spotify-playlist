@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 136791,
+  "num_followers": 136818,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 166368,
-      "name": "NIGHTS LIKE THIS PT 2",
-      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 166368,
+      "name": "NIGHTS LIKE THIS PT 2",
+      "url": "https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 181602,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -807,22 +791,38 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "Money Baby (feat. Awich)",
-        "url": "https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV"
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
       "artists": [
         {
-          "name": "KEIJU",
-          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 180300,
-      "name": "Money Baby (feat. Awich)",
-      "url": "https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu"
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -847,22 +847,22 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "name": "Money Baby (feat. Awich)",
+        "url": "https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+      "duration_ms": 180300,
+      "name": "Money Baby (feat. Awich)",
+      "url": "https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 211618,
       "name": "Burn it (feat. DEAN)",
       "url": "https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "Check",
+        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "MEME",
-        "url": "https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "MEME",
-      "url": "https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "MEME",
+        "url": "https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "MEME",
+      "url": "https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "\u559c\u5287",
-        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "\u559c\u5287",
-      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "2DK",
-        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+        "name": "\u559c\u5287",
+        "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 196343,
-      "name": "2DK",
-      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
+      "duration_ms": 230666,
+      "name": "\u559c\u5287",
+      "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 214187,
       "name": "Dance on the World",
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "Poeira Cosmica",
-        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Poeira Cosmica",
-      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
         "name": "\u660e\u308b\u3044\u90e8\u5c4b",
         "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
       },
@@ -1631,38 +1611,22 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "Poeira Cosmica",
+        "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         },
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2024-12-03 15:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
+      "duration_ms": 253482,
+      "name": "Poeira Cosmica",
+      "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1687,6 +1651,26 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
         "name": "FULLCOLOR",
         "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 255408,
       "name": "Burning Friday Night",
       "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
+    },
+    {
+      "added_at": "2024-12-03 15:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
     },
     {
       "added_at": "2024-12-03 15:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2024-12-03 15:00:00",
       "album": {
-        "name": "JAGUAR II : Deluxe",
-        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+        "name": "F64",
+        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 149195,
-      "name": "1900's",
-      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
+      "duration_ms": 204893,
+      "name": "F64",
+      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

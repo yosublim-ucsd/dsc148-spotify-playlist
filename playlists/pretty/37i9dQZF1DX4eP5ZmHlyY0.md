@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: Number\_i
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,404 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,400 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 19 | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/album/2T8j6iR7DYVhSnZdy74RN3) | 3:46 |
 | 20 | [UNBREAKABLE](https://open.spotify.com/track/6ADm4DCsnNeNfd2rFQO2iW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [UNBREAKABLE](https://open.spotify.com/album/6CyJ71Q6qKEPmpaIOGEJVu) | 2:51 |
 | 21 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
-| 22 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
-| 23 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
+| 22 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 |
+| 23 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
 | 24 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 |
 | 25 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
-| 26 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 |
-| 27 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
+| 26 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
+| 27 | [Birthday](https://open.spotify.com/track/7251TzfUfdUfvTiEm0VrjQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Birthday](https://open.spotify.com/album/4lgToZ6PFbsj6PpN1qfKGa) | 2:44 |
 | 28 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |
 | 29 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 |
 | 30 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 32 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 |
 | 33 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 |
 | 34 | [Sweetest Tune](https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Sweetest Tune](https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc) | 3:25 |
-| 35 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 |
-| 36 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 |
+| 35 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 |
+| 36 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 |
 | 37 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 |
 | 38 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 |
 | 39 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |

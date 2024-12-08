@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 599790,
+  "num_followers": 599886,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Agent Zed",
-          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "King Of My Castle",
-      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Agent Zed",
+          "url": "https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "King Of My Castle",
+      "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -1143,26 +1127,18 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Abenteuerland",
-        "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "SDP",
-          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
-        },
-        {
-          "name": "Phil The Beat",
-          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 179087,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1191,6 +1167,30 @@
       "duration_ms": 130660,
       "name": "JUNGE BALLER",
       "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "Abenteuerland",
+        "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "duration_ms": 179087,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Erinner mich",
         "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
         "name": "Zelten auf Kies",
         "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2024-11-18 11:35:06",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-11-18 11:35:06",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2024-11-18 11:35:06",
+      "album": {
         "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
         "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 178614,
       "name": "S&M (With Chacel) - HYPERTECHNO Edit",
       "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
-    },
-    {
-      "added_at": "2024-11-18 11:35:06",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2024-11-18 11:35:06",

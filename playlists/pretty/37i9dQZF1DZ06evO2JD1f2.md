@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,018 likes - 53 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,021 likes - 53 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 44 | [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Selfpaid Savage](https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo) | [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b) | 2:52 |
 | 45 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 |
 | 46 | [All 100s](https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:11 |
-| 47 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
-| 48 | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 2:32 |
+| 47 | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 2:32 |
+| 48 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 |
 | 49 | [Capitol 1](https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:21 |
 | 50 | [Break Check](https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:45 |
-| 51 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 |
-| 52 | [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 |
+| 51 | [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 |
+| 52 | [Blood](https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:34 |
 | 53 | [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 |
 
-Snapshot ID: `Z1DtAAAAAAAFPmruig57j9/7S3lEK64Y`
+Snapshot ID: `Z1I+gAAAAAAqmUJgDzE0vANYhvu6r056`

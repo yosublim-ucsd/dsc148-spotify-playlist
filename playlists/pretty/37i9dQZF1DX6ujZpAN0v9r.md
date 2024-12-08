@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,111 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,306 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 48 | [Taste of Cindy](https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 1:42 |
 | 49 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
 | 50 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
-| 51 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
-| 52 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 51 | [Sunshine Smile](https://open.spotify.com/track/0wgHxBwNQJM1ZFuszBh4RH) | [Adorable](https://open.spotify.com/artist/6xKL0fuDG1P7nivQtPY2fv) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:05 |
+| 52 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
 | 53 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 54 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
 | 55 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |

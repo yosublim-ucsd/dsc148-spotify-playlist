@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,977 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 38 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
 | 39 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 40 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
-| 41 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
-| 42 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
-| 43 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 |
+| 41 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 |
+| 42 | [On Christ the Solid Rock](https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE) | [Vinesong](https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6) | [Our God Reigns](https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya) | 2:58 |
+| 43 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 44 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 |
 | 45 | [Lord Reign in Me](https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8) | [Watershed Worship](https://open.spotify.com/artist/6ylTf1eWq7u2VNgnY3bj9w) | [Audience of One](https://open.spotify.com/album/7lloLTbXisV6ZJjheZLQDZ) | 1:56 |
-| 46 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 |
-| 47 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
+| 46 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
+| 47 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 |
 | 48 | [Majority](https://open.spotify.com/track/29YFxm0ePejDJSUhSz7NyX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Majority](https://open.spotify.com/album/7AfoR2ubwnYDyWKID7rkHD) | 3:21 |
-| 49 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
-| 50 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 |
+| 49 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 |
+| 50 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
 
 Snapshot ID: `Z0lOggAAAAAw9+k24FuWjzvqvbHoWIBp`

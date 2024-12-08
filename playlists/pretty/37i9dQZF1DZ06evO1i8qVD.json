@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 34528,
+  "num_followers": 34540,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACjyEQY5Th/LpEmv0ygD/Tu",
+  "snapshot_id": "Z1I+gAAAAACFD7l6dInaTOpqrrisH0/j",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Jam On A Monday Morning",
+      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
       },
@@ -495,34 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Jam On A Monday Morning",
-      "url": "https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DJ Play My Blues",
-        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
-      },
-      "artists": [
+        },
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 282493,
-      "name": "Just Teasin'",
-      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+      "duration_ms": 224280,
+      "name": "One Day Away (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
       "added_at": null,
@@ -543,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 224280,
-      "name": "One Day Away (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Where The Blues Begins (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 255600,
       "name": "I Go By Feel",
       "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Where The Blues Begins (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
     },
     {
       "added_at": null,

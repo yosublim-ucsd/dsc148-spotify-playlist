@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Jacob Alon",
-  "num_followers": 91398,
+  "num_followers": 91422,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "MADRA",
-        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 203037,
-      "name": "Sickly Sweet",
-      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+        "name": "MADRA",
+        "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 203037,
+      "name": "Sickly Sweet",
+      "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -523,6 +507,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Wall Of Eyes",
         "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 314440,
       "name": "Read The Room",
       "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 254742,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 254742,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Clouds In The Sky They Will Always Be There For Me",
         "url": "https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 204880,
       "name": "God Of Everything Else",
       "url": "https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Empty And Silent (feat. King Krule)",
+        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 367954,
+      "name": "Empty And Silent (feat. King Krule)",
+      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Untangling",
         "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
       },
@@ -703,22 +723,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Empty And Silent (feat. King Krule)",
-        "url": "https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0"
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 367954,
-      "name": "Empty And Silent (feat. King Krule)",
-      "url": "https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk"
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -735,22 +751,6 @@
       "duration_ms": 196200,
       "name": "You Don't Even Need It",
       "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "The Silence That Remains",
+        "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "duration_ms": 342796,
+      "name": "The Silence That Remains",
+      "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "The Silence That Remains",
-        "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
-      },
-      "artists": [
-        {
-          "name": "The Horrors",
-          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
-        }
-      ],
-      "duration_ms": 342796,
-      "name": "The Silence That Remains",
-      "url": "https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Bodies Laughing",
-        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Bodies Laughing",
-      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Rafters",
-        "url": "https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov"
+        "name": "Bodies Laughing",
+        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
       },
       "artists": [
         {
-          "name": "Antony Szmierek",
-          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 187686,
-      "name": "Rafters",
-      "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
+      "duration_ms": 297866,
+      "name": "Bodies Laughing",
+      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+        "name": "Rafters",
+        "url": "https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov"
       },
       "artists": [
         {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
         }
       ],
-      "duration_ms": 245120,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
+      "duration_ms": 187686,
+      "name": "Rafters",
+      "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -963,6 +947,22 @@
       "duration_ms": 298000,
       "name": "this is my california",
       "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Antarctica",
         "url": "https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 161640,
       "name": "Can't Pretend To Know",
       "url": "https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1195,6 +1195,54 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Love Heart Cheat Code",
+        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "U R MINE",
+        "url": "https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 191286,
+      "name": "U R MINE",
+      "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3"
       },
@@ -1227,38 +1275,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "U R MINE",
-        "url": "https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 191286,
-      "name": "U R MINE",
-      "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Yummy",
         "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
       },
@@ -1271,6 +1287,38 @@
       "duration_ms": 258493,
       "name": "Way Over Your Head",
       "url": "https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "He Will Follow You With His Eyes",
+      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1307,38 +1355,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "He Will Follow You With His Eyes",
-      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "All Hell",
-        "url": "https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 259491,
-      "name": "Long Throes",
-      "url": "https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Light Sleeper",
         "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218312,
       "name": "Release Myself",
       "url": "https://open.spotify.com/track/2KXFFgeqNkSWnOKy0eMAuB"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "All Hell",
+        "url": "https://open.spotify.com/album/0OC1Dw26zaarFA1HItWV4c"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 259491,
+      "name": "Long Throes",
+      "url": "https://open.spotify.com/track/0fYRy3tTccPQx3IPKEBydD"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1483,38 +1483,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Bus",
-        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 203992,
-      "name": "Bus",
-      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "St. Charles Square",
-        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "White Whale",
         "url": "https://open.spotify.com/album/258egaEnfTB5i4d6o2jE9I"
       },
@@ -1527,6 +1495,22 @@
       "duration_ms": 398163,
       "name": "White Whale",
       "url": "https://open.spotify.com/track/6CEIjm87xA5unfYc5Us3Le"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Bus",
+        "url": "https://open.spotify.com/album/6FK77NipcZYmaVIsSep1cU"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 203992,
+      "name": "Bus",
+      "url": "https://open.spotify.com/track/0PapPJvQmfN96mB69yN9la"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Dr. Dog",
-        "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
+        "name": "St. Charles Square",
+        "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
       "artists": [
         {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 270927,
-      "name": "Lost Ones",
-      "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
+      "duration_ms": 235325,
+      "name": "St. Charles Square",
+      "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1595,34 +1579,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Under the Weight",
-        "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
+        "name": "Dr. Dog",
+        "url": "https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl"
       },
       "artists": [
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
         }
       ],
-      "duration_ms": 193213,
-      "name": "Under the Weight",
-      "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "A Good Time Pushed",
-        "url": "https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2"
-      },
-      "artists": [
-        {
-          "name": "Kim Deal",
-          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
-        }
-      ],
-      "duration_ms": 207958,
-      "name": "A Good Time Pushed",
-      "url": "https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC"
+      "duration_ms": 270927,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1639,6 +1607,38 @@
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Under the Weight",
+        "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Under the Weight",
+      "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
     }
   ],
   "unique_name": "The Listening Post",

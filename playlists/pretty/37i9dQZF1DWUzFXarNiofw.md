@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,531 likes - 262 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,621 likes - 262 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 3 | [Just Another Love Song](https://open.spotify.com/track/4RWXbqQEQ4SCVNkRDvj4YL) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Just Another Love Song](https://open.spotify.com/album/7iu6Gx344ZuKaLMOtIfsyK) | 3:27 |
 | 4 | [she want prada](https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [she want prada](https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm) | 3:10 |
 | 5 | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/album/0XkbSe7ojMuYEcjLOTVC2v) | 2:58 |
-| 6 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
+| 6 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 7 | [Solo](https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 1:58 |
 | 8 | [Straight Up](https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Straight Up](https://open.spotify.com/album/4OGLkwfhVSh6jhFN3agdmB) | 3:15 |
 | 9 | [Never Settle](https://open.spotify.com/track/0MkatHvXEf1PcGswnZsi0F) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [MOMENTUM](https://open.spotify.com/album/1g5uTp5FUKQjYYj69TlPvi) | 1:36 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 22 | [WANDERING](https://open.spotify.com/track/2Mm4baSBkhU5Yi04SO6sBK) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [WANDERING](https://open.spotify.com/album/0pyy2SJxRSZpfDgShEAFrW) | 2:19 |
 | 23 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 |
 | 24 | [Dollar \- A COLORS SHOW](https://open.spotify.com/track/0jMSZtSikKIovVEbss39FL) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Dollar \- A COLORS SHOW](https://open.spotify.com/album/23oxJhgHeo6hUsj574RfOk) | 3:30 |
-| 25 | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/track/6ke6lBHa6yJFmKb708qh7g) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/album/1cw8y14qNcKACN3sjWHqF5) | 3:59 |
+| 25 | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/track/6ke6lBHa6yJFmKb708qh7g) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv), [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [YOU \(feat\. Eli Derby\)](https://open.spotify.com/album/1cw8y14qNcKACN3sjWHqF5) | 4:03 |
 | 26 | [Addicting](https://open.spotify.com/track/4A5X9UxxIzSU3ajhrJtER8) | [Kalenbree](https://open.spotify.com/artist/7hu8hEXPfDyrrVhlqt8Hyq) | [Addicting](https://open.spotify.com/album/4TlMjQDtPW0xDzmjckFRcY) | 1:56 |
 | 27 | [The Audacity](https://open.spotify.com/track/6N6bQtlfJwA5sxwzqPJL87) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [On The Bus \(Deluxe Edition\)](https://open.spotify.com/album/7ctG1ukyyTPH59UTjOFPVc) | 1:50 |
 | 28 | [Wait](https://open.spotify.com/track/5ZbteiG9A7q7UoJkGzHELN) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Wait](https://open.spotify.com/album/3774MZeLWsIH70hjja8VTG) | 2:26 |

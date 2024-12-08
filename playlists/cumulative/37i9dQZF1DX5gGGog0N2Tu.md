@@ -4,7 +4,7 @@
 
 > 🎀  𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼, 𝓰𝓲𝓻𝓵𝓼 𝓳𝓾𝓼𝓽 𝓰𝓸𝓽𝓽𝓪 𝓱𝓪𝓿𝓮 𝓯𝓾𝓷 💅
 
-261 songs - 13 hr 31 min
+262 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 | 2024-07-26 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-06 |  |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2024-06-27 | 2024-07-09 |
-| [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-06-27 |  |
+| [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-06-27 | 2024-12-08 |
 | [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:13 | 2024-07-24 |  |
 | [360](https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [360](https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6) | 2:13 | 2024-06-27 | 2024-07-11 |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-07-26 |  |
@@ -244,6 +244,7 @@
 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 | 2024-07-25 |  |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-06-27 | 2024-07-27 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-27 | 2024-07-25 |
+| [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-07-26 |  |
 | [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 | 2024-07-26 |  |
 | [TT LE GIRLZ \(feat\. Niky Savage\)](https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:24 | 2024-08-20 |  |

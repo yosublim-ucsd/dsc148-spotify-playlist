@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Fuerza Regida, Jorsshh & the hottest corridos in the U.S.",
-  "num_followers": 282545,
+  "num_followers": 282653,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "PAJUELAZO",
-      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "PAJUELAZO",
+      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+        "name": "Vision De Tunel",
+        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+      "duration_ms": 172890,
+      "name": "Vision De Tunel",
+      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Vision De Tunel",
-        "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 172890,
-      "name": "Vision De Tunel",
-      "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2024-12-06 05:00:00",

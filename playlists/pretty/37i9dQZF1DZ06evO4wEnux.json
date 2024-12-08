@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 850,
+  "num_followers": 852,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAACsTL2kuZxQwBhV4vr/Cvp",
+  "snapshot_id": "Z1I+gAAAAADGEdG6QPpimKYGSVZq4wd4",
   "tracks": [
     {
       "added_at": null,
@@ -228,70 +228,6 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 200881,
-      "name": "Lost Little Boys",
-      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 210547,
-      "name": "Cat Stevens",
-      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
       "duration_ms": 242733,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
@@ -327,6 +263,70 @@
       "duration_ms": 194919,
       "name": "An Island",
       "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 200881,
+      "name": "Lost Little Boys",
+      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 210547,
+      "name": "Cat Stevens",
+      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Canada.",
-  "num_followers": 33139,
+  "num_followers": 33138,
   "original_name": "Top Songs - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LuZooAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lue8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-12-06 12:49:50",
@@ -187,10 +187,14 @@
     {
       "added_at": "2024-12-06 12:49:50",
       "album": {
-        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Stromae",
           "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
@@ -198,15 +202,11 @@
         {
           "name": "Pomme",
           "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         }
       ],
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
       "added_at": "2024-12-06 12:49:50",
@@ -603,8 +603,8 @@
     {
       "added_at": "2024-12-06 12:49:50",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "Under The Mistletoe",
+        "url": "https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH"
       },
       "artists": [
         {
@@ -614,7 +614,7 @@
       ],
       "duration_ms": 182946,
       "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
     },
     {
       "added_at": "2024-12-06 12:49:50",

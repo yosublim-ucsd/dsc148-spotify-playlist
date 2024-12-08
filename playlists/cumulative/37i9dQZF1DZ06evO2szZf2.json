@@ -1557,6 +1557,32 @@
     },
     {
       "album": {
+        "name": "Sim ou N\u00e3o",
+        "url": "https://open.spotify.com/album/3Tos7AqFcXHHFgD9j1Yanz"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121593,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/09j37F2o25MfX106K8xoMm"
+    },
+    {
+      "album": {
         "name": "PA\u00b4 LAS JOYAS",
         "url": "https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO"
       },
@@ -3196,7 +3222,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 121600,
       "name": "\u00c9 S\u00f3 Pirocad\u00e3o - Brega Funk Remix",
       "url": "https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4"

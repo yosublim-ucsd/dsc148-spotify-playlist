@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Inspiring the explorer in everyone\. Cover: National Parks USA, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,102 likes - 72 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,131 likes - 72 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

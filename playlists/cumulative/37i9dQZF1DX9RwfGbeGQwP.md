@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,498 songs - 2 day 8 hr 23 min
+1,499 songs - 2 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,7 @@
 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 | 2022-01-27 | 2022-05-20 |
 | [Inside Time](https://open.spotify.com/track/6SkGbqgn8bi7HmijsKqvik) | [fakename](https://open.spotify.com/artist/0BUWlzdVAow3whRDUIQOV9) | [Inside Time](https://open.spotify.com/album/3J1CZJxth6KUV94yEGJ0Xq) | 2:07 | 2022-11-25 | 2023-09-29 |
 | [Intangible](https://open.spotify.com/track/1zolBVsZLjNy5dBgDv0CCD) | [Southern Structure](https://open.spotify.com/artist/5JJ1xxpb11qLyqR1BktdIk) | [Intangible](https://open.spotify.com/album/0M0pz2DCYdCCOUmZGBPEfV) | 2:27 | 2022-01-27 | 2022-04-08 |
-| [intercept](https://open.spotify.com/track/66Ead1pk9zDdqTe3xJ7ABB) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [intercept](https://open.spotify.com/album/5oZsKhidnTfL7IBjnTqGlH) | 2:58 | 2024-11-14 |  |
+| [intercept](https://open.spotify.com/track/66Ead1pk9zDdqTe3xJ7ABB) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [intercept](https://open.spotify.com/album/5oZsKhidnTfL7IBjnTqGlH) | 2:58 | 2024-11-14 | 2024-12-08 |
 | [Into the Crystal Air](https://open.spotify.com/track/4X9huTWFlmFKciZKOgjawF) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Into the Crystal Air](https://open.spotify.com/album/44cHMcE2OOf7tvSRiIl4zP) | 2:03 | 2024-05-13 |  |
 | [Into The Deep](https://open.spotify.com/track/48XQa6SedIMMrLgaayGF1P) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Into The Deep](https://open.spotify.com/album/5aiWXOc1LV3K8r0mLyw5Fy) | 2:16 | 2022-10-08 | 2024-05-14 |
 | [Invisible](https://open.spotify.com/track/1VH8n20orFuTgBnapyxEg3) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Invisible](https://open.spotify.com/album/0unze2zqVBOHoC0KsfNDRV) | 1:56 | 2022-12-23 |  |
@@ -874,7 +874,7 @@
 | [Nanny's Lullaby](https://open.spotify.com/track/6vxZvCHuexWyAj0VdJsGnS) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Nanny's Lullaby](https://open.spotify.com/album/0EJDO54exCA6ix4hhzxhoV) | 2:23 | 2022-09-30 | 2023-04-21 |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2022-12-09 | 2023-09-29 |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-04 |  |
-| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 | 2024-12-07 |
+| [natten](https://open.spotify.com/track/328jz9mv74DFbfzLQHU0BJ) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [natten EP](https://open.spotify.com/album/4BNeqht3X7y0yeNo9tE45h) | 2:27 | 2023-01-13 |  |
 | [Nattsudd](https://open.spotify.com/track/6HMT16Rk6JTTQ2LuYLHVRb) | [Overklig](https://open.spotify.com/artist/44GjBAdTaRpLUjQi7wJMa2) | [Nattsudd](https://open.spotify.com/album/1oJoXscf6fpPQKbzDJe2OT) | 2:36 | 2022-01-27 | 2022-07-08 |
 | [NEAR](https://open.spotify.com/track/72u6WlUdYIx62Z33Xvh7A4) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 1:35 | 2022-01-27 | 2022-06-10 |
 | [Necklace \- Coffe Ambience](https://open.spotify.com/track/6UbEwbpoVMUDNG94ART8qm) | [Azurenity](https://open.spotify.com/artist/670tCQfj3LeVsUqb2SY4Rs) | [Necklace](https://open.spotify.com/album/5Bl50pCXxV6cRISd7uNcFu) | 2:34 | 2022-05-27 |  |
@@ -1238,7 +1238,7 @@
 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 | 2022-09-02 | 2023-01-20 |
 | [Stumbles](https://open.spotify.com/track/6SYNj1IwlExnuGnpbCfOUZ) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Stumbles](https://open.spotify.com/album/2u98fLwBQfGhOysO60dls5) | 1:44 | 2022-01-27 | 2022-04-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-01-27 | 2022-09-03 |
-| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 |  |
+| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 | 2024-12-08 |
 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-21 |  |
 | [sugar n' spice](https://open.spotify.com/track/1OMlffcymhMMXX2jYft3Ox) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [grind house](https://open.spotify.com/album/2P5wpnFllJIwWKfdA2Aywa) | 3:00 | 2022-09-02 | 2023-03-09 |
 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 | 2022-10-08 | 2023-09-22 |
@@ -1297,6 +1297,7 @@
 | [Take a Chill Pill](https://open.spotify.com/track/2v6zGZ3SlbQqYXRDl7mj0s) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:27 | 2022-07-01 | 2023-09-05 |
 | [take a walk](https://open.spotify.com/track/1tEkmNYcOPEhPvSMJDXAWN) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [take a walk](https://open.spotify.com/album/4Z3cjqh8F8mQKnaDnDDKKq) | 2:26 | 2023-09-08 |  |
 | [take five](https://open.spotify.com/track/6cEbLX3p88YPsGrOuZNrWk) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [take five](https://open.spotify.com/album/2XiwPNXXIPLo5uK5fmUB0m) | 1:51 | 2023-04-20 | 2023-09-29 |
+| [take it back](https://open.spotify.com/track/3WNpPSLZ9Hmm2Wpaoad95v) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [take it back](https://open.spotify.com/album/0vtBzeR0BTiSnCSr39bopp) | 2:15 | 2024-12-06 |  |
 | [Take It Easy](https://open.spotify.com/track/2eyJQMPDcWlC5CmZsodlSD) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5), [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg) | [Jazz Raw City](https://open.spotify.com/album/7mLcA5ad6cCyk9eXbhKYFB) | 2:52 | 2022-07-22 | 2022-12-10 |
 | [Take It Home](https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [Take It Home](https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu) | 2:12 | 2023-10-13 | 2024-05-14 |
 | [Take the Back Roads](https://open.spotify.com/track/0F0xZC5P82Ov3hdFdZwi7M) | [Sidezz](https://open.spotify.com/artist/130OLOykvWZS3fkhSq1GrR) | [Take the Back Roads](https://open.spotify.com/album/20dzRKRbeTMZ0121L6Xn50) | 2:27 | 2022-01-27 | 2022-10-15 |

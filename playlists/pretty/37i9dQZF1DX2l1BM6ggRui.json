@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6658,
+  "num_followers": 6664,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "When the door opens (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.5",
         "url": "https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+        "name": "Room Vol.1",
+        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
       "artists": [
         {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+      "duration_ms": 221760,
+      "name": "Reference",
+      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -407,22 +423,6 @@
       "duration_ms": 210772,
       "name": "Thursday Night (feat.Beenzino)",
       "url": "https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "Room Vol.1",
-        "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Reference",
-      "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
     },
     {
       "added_at": "2024-11-06 07:05:36",

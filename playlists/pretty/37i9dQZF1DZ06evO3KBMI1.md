@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,921 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,924 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 30 | [ビタースウィート](https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:30 |
 | 31 | [Fight For Liberty（album ver.）](https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:15 |
 | 32 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
-| 33 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
-| 34 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 |
+| 33 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 |
+| 34 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
 | 35 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 |
 | 36 | [echoOZ](https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:38 |
-| 37 | [えくぼ](https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:03 |
-| 38 | [白昼夢](https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 |
+| 37 | [白昼夢](https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 |
+| 38 | [WINGS ever](https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH](https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr) | 3:28 |
 | 39 | [DECIDED \(album ver.\)](https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:41 |
-| 40 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
+| 40 | [えくぼ](https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:03 |
 | 41 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 |
 | 42 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
-| 43 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
-| 44 | [AS ONE](https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:49 |
-| 45 | [Fight For Liberty](https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Fight For Liberty / Wizard CLUB](https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1) | 4:13 |
-| 46 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 |
-| 47 | [Q.E.D.](https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:42 |
-| 48 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
-| 49 | [MEMORIES of the End](https://open.spotify.com/track/7BufPyttMh9TPjaYkGX32b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MEMORIES of the End](https://open.spotify.com/album/4npsDu2zpZ7irPVrBXxrOm) | 6:20 |
-| 50 | [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 |
+| 43 | [Fight For Liberty](https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Fight For Liberty / Wizard CLUB](https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1) | 4:13 |
+| 44 | [浮世CROSSING](https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PROGLUTION](https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q) | 4:32 |
+| 45 | [AS ONE](https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:49 |
+| 46 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
+| 47 | [First Sight](https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:22 |
+| 48 | [Q.E.D.](https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 3:42 |
+| 49 | [僕の言葉ではない これは僕達の言葉](https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [僕の言葉ではない これは僕達の言葉 \(Extra Edition\)](https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC) | 4:18 |
+| 50 | [MEMORIES of the End](https://open.spotify.com/track/7BufPyttMh9TPjaYkGX32b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MEMORIES of the End](https://open.spotify.com/album/4npsDu2zpZ7irPVrBXxrOm) | 6:20 |
 
-Snapshot ID: `Z1DtAAAAAADFSl15EG7Pc9PfAGPISvQ7`
+Snapshot ID: `Z1I+gAAAAAAdZCnHqhM8CCKUZ/dCJgx8`

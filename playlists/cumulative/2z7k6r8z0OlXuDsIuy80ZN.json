@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "haz lo que quieras conmigo",
+        "url": "https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208603,
+      "name": "haz lo que quieras conmigo",
+      "url": "https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9"
+    },
+    {
+      "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -3483,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Muy Tarde",
+        "url": "https://open.spotify.com/album/4LT7f6yiU4lbVP9SdFjGUS"
+      },
+      "artists": [
+        {
+          "name": "Hilario",
+          "url": "https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193977,
+      "name": "Muy Tarde",
+      "url": "https://open.spotify.com/track/4bqM5zrlaj9IwJBgNh7uOf"
+    },
+    {
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
@@ -4610,7 +4646,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -4694,6 +4730,24 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {

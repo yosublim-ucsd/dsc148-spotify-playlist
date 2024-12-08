@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,041 likes - 68 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,528 likes - 68 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

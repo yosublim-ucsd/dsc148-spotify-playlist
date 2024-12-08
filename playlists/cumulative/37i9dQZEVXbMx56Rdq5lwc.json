@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -12016,7 +12038,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -14392,7 +14414,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183414,
       "name": "Jis",
       "url": "https://open.spotify.com/track/5WvEHyZk6m9ij0ajvvqXCa"
@@ -17509,6 +17531,32 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -17528,7 +17576,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -23364,6 +23412,28 @@
       "duration_ms": 139000,
       "name": "Pilnatis (Ajajai)",
       "url": "https://open.spotify.com/track/23iXlw3PYKxuOfrAqkvudK"
+    },
+    {
+      "album": {
+        "name": "Pilnatis (Remixes)",
+        "url": "https://open.spotify.com/album/6m7G1443obNUWchp7ECiT1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Lukas Goss",
+          "url": "https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147421,
+      "name": "Pilnatis (Lukas Goss Remix)",
+      "url": "https://open.spotify.com/track/4QVr4Yswj7XH5dozHAlnXa"
     },
     {
       "album": {

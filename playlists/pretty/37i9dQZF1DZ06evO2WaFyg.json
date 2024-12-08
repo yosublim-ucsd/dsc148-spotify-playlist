@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 244916,
+  "num_followers": 244975,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAABt8lW0vqEWZ6DnILqZpXqN",
+  "snapshot_id": "Z1I+gAAAAAArNCNtXzAyZ/FYgmbReoE5",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dope Boy",
-        "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        }
-      ],
-      "duration_ms": 92133,
-      "name": "Dope Boy (with Nigo)",
-      "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -603,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "Dope Boy",
+        "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
       },
       "artists": [
         {
@@ -612,17 +592,13 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+      "duration_ms": 92133,
+      "name": "Dope Boy (with Nigo)",
+      "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
     },
     {
       "added_at": null,
@@ -667,6 +643,30 @@
       "duration_ms": 190133,
       "name": "My wrist (with Young Thug)",
       "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 314423,
-      "name": "Skyfall (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 314423,
+      "name": "Skyfall (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Mannequin Challenge (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barter 6",
         "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Mannequin Challenge (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
     },
     {
       "added_at": null,

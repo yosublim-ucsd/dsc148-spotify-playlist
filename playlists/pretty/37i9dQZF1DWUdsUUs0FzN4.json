@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18923,
+  "num_followers": 18921,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Podemos Repetirlo",
+        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Podemos Repetirlo",
+      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Metele",
         "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Podemos Repetirlo",
-        "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 211707,
-      "name": "Podemos Repetirlo",
-      "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
         }
       ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
       "artists": [
         {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1807,42 +1807,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
-        "url": "https://open.spotify.com/album/43x0a0LF23uvXHtyUJ9QzP"
-      },
-      "artists": [
-        {
-          "name": "Leinvd",
-          "url": "https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "El Gudi",
-          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
-        },
-        {
-          "name": "Andre Noriega",
-          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
-        },
-        {
-          "name": "Jey F",
-          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
-        },
-        {
-          "name": "Ovi\u00f1a",
-          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
-      "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Vergazo",
         "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
       },
@@ -1887,6 +1851,42 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
+        "url": "https://open.spotify.com/album/43x0a0LF23uvXHtyUJ9QzP"
+      },
+      "artists": [
+        {
+          "name": "Leinvd",
+          "url": "https://open.spotify.com/artist/1nmtdRQWYAh0AzIBvKJykk"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "El Gudi",
+          "url": "https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB"
+        },
+        {
+          "name": "Andre Noriega",
+          "url": "https://open.spotify.com/artist/4IQ2uSe2L9smq76Jz048Si"
+        },
+        {
+          "name": "Jey F",
+          "url": "https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr"
+        },
+        {
+          "name": "Ovi\u00f1a",
+          "url": "https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
+      "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "A Mover Ese Booty",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -1903,26 +1903,6 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Rompe La Discoteca",
-        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        },
-        {
-          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
-          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Rompe La Discoteca",
-      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1951,6 +1931,26 @@
       "duration_ms": 228657,
       "name": "POLVO ROSA (feat. Snow Tha Product)",
       "url": "https://open.spotify.com/track/2YYYxYVLMidrTkSGuYWD2Q"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Rompe La Discoteca",
+        "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
+      },
+      "artists": [
+        {
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
+        },
+        {
+          "name": "Kale \u201cLa Evoluci\u00f3n\u201d",
+          "url": "https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Rompe La Discoteca",
+      "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2191,6 +2191,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Combiaton",
+        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Drewther",
+          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
+        },
+        {
+          "name": "Casper Mx",
+          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
+        }
+      ],
+      "duration_ms": 139218,
+      "name": "Combiaton",
+      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "SUPER ESTRELLAS",
         "url": "https://open.spotify.com/album/09qxG7QLNUM8SHYXX878Xe"
       },
@@ -2215,26 +2235,6 @@
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Combiaton",
-        "url": "https://open.spotify.com/album/1q3zeAg3m4ccvrAhZz7mqt"
-      },
-      "artists": [
-        {
-          "name": "Dj Drewther",
-          "url": "https://open.spotify.com/artist/2k0GqjU0ypOK1ishkR8Ppx"
-        },
-        {
-          "name": "Casper Mx",
-          "url": "https://open.spotify.com/artist/0QjuV8gi45r33s5vwgIyIn"
-        }
-      ],
-      "duration_ms": 139218,
-      "name": "Combiaton",
-      "url": "https://open.spotify.com/track/1h3It2uHrJAShvEzTRjP70"
     },
     {
       "added_at": "2024-08-30 06:00:00",

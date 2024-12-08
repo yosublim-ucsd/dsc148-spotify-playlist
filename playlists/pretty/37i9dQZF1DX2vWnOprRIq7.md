@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Gianna Sotera & martin allende.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,501 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,509 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 4 | [Arde](https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh) | [dinastia](https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Arde](https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX) | 2:59 |
 | 5 | [Acá \- Remix](https://open.spotify.com/track/7AfsC17s5xSUoWkljJ0scG) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [Acá \(Remix\)](https://open.spotify.com/album/1zMQd1JzQi0S9abTU7FYa2) | 3:37 |
 | 6 | [Snobs](https://open.spotify.com/track/7bp6TPhLJx0SXrdTA8tDyf) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Snobs](https://open.spotify.com/album/1xKo8vFagzsXGfOkaS0Q9s) | 3:33 |
-| 7 | [Bocado a Bocado](https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP), [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP) | [Bocado a Bocado](https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9) | 3:07 |
+| 7 | [Bocado a Bocado](https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP), [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP) | [Bocado a Bocado](https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9) | 3:10 |
 | 8 | [Tan besh](https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Tan besh](https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34) | 2:51 |
 | 9 | [Frecuencias](https://open.spotify.com/track/5tugFkaIU3eMiFyNDXpiAY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:50 |
 | 10 | [Voces](https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy) | [Julais](https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF), [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Voces](https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5) | 3:12 |

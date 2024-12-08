@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,565 likes - 25 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,567 likes - 25 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 18 | [雛鳥 \- Vocalized Version](https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:15 |
 | 19 | [彼の者の名は… \- Vocalized Version](https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 6:12 |
 | 20 | [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 |
-| 21 | [Theme of the Linked Horizon](https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 8:57 |
+| 21 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 |
 | 22 | [風が吹いた日 \- Piano Solo Version](https://open.spotify.com/track/6huaX3NTgDSVAYJOjOJNn5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 2:46 |
-| 23 | [花が散る世界 \- Vocalized Version](https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 4:37 |
+| 23 | [Theme of the Linked Horizon](https://open.spotify.com/track/0Qit1wQs5mvD86LqnsBlGg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 8:57 |
 | 24 | [来訪者 \- Long Version](https://open.spotify.com/track/4tKj8h6sJQ4fK4HtT9Qu2Y) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 4:30 |
 | 25 | [純愛\(ハートマーク\) 十字砲火 \- Long Version](https://open.spotify.com/track/46XjX7wpNSn1RTWTVQDitD) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:26 |
 
-Snapshot ID: `Z1DtAAAAAACB2UE7yflm/fbf5G1tBZB3`
+Snapshot ID: `Z1I+gAAAAAB+Rpjmdjqb6LejnwHt9hCy`

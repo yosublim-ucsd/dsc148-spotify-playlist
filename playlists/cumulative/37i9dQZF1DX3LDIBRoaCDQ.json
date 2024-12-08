@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
@@ -866,6 +866,24 @@
       "duration_ms": 354320,
       "name": "Gloria: In Excelsis Deo",
       "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+    },
+    {
+      "album": {
+        "name": "A Collection of Pop Classics",
+        "url": "https://open.spotify.com/album/1Ojre9LKo2kR0FMb6VVSe3"
+      },
+      "artists": [
+        {
+          "name": "Reagan Youth",
+          "url": "https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82106,
+      "name": "Go Nowhere",
+      "url": "https://open.spotify.com/track/28CzlFHHxBf68YfOPqm8O2"
     },
     {
       "album": {

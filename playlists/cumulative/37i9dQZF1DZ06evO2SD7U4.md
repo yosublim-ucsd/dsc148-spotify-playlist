@@ -4,7 +4,7 @@
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 20 min
+74 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Devolución No Hay](https://open.spotify.com/track/6smeq4t3U8burLBZoMrTLT) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 1:13 | 2024-03-21 | 2024-03-23 |
 | [Domingo, Mi Vida](https://open.spotify.com/track/7gkibpWBSlSKnsR2mo0K1v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 4:13 | 2023-01-14 |  |
 | [Dulce Amor](https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Busca Amor](https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7) | 3:00 | 2023-01-14 |  |
-| [El Charrockandroll \- En Vivo](https://open.spotify.com/track/0v9ahSG7zLYCBEQfTQUA3a) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 2:42 | 2024-07-23 |  |
+| [El Charrockandroll \- En Vivo](https://open.spotify.com/track/0v9ahSG7zLYCBEQfTQUA3a) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 2:42 | 2024-07-23 | 2024-12-08 |
 | [El Chin Pun Cuaz](https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:33 | 2023-01-14 |  |
 | [El Fua](https://open.spotify.com/track/6knv5TFNGAmKVUR6GhJge7) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 3:51 | 2023-01-14 | 2024-10-31 |
 | [El Guacarock Del Santo \- En Vivo](https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 3:37 | 2023-01-14 |  |
@@ -54,6 +54,7 @@
 | [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 | 2024-12-03 |
 | [La Taza De Café](https://open.spotify.com/track/2TkaeVAbduLh9wcd2gfKob) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:26 | 2024-07-04 | 2024-07-05 |
 | [La Valona de la Conquista](https://open.spotify.com/track/4HDDb63OphLhe87KxZ61SS) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 6:10 | 2023-01-21 | 2024-06-04 |
+| [La Valona de la Conquista](https://open.spotify.com/track/4f54pNca6BKqgNcHmIPweY) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Rock En Español \- Lo Mejor De Botellita De Jerez](https://open.spotify.com/album/70fvCgWSkOQRABSSJP6xAg) | 6:16 | 2024-12-08 |  |
 | [Laberinto de la Soledad](https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:14 | 2023-01-14 |  |
 | [Luna Misteriosa](https://open.spotify.com/track/2vcXBSX5oVbBm8V76aQkVL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 5:59 | 2023-06-18 |  |
 | [Luna Misteriosa](https://open.spotify.com/track/2uz8It2DbphVc1spMb8ctA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 6:05 | 2023-01-14 | 2023-06-19 |

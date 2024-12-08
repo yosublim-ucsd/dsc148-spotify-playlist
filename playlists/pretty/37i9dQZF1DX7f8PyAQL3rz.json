@@ -1,6 +1,6 @@
 {
   "description": "se ela t\u00e1 com uma amiga no pi\u00e3o, j\u00e1 sabe",
-  "num_followers": 1402602,
+  "num_followers": 1402603,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,30 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Acima De Mim S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -495,30 +519,6 @@
       "duration_ms": 140322,
       "name": "Novo Balan\u00e7o",
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Acima De Mim S\u00f3 Deus",
-      "url": "https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -563,42 +563,6 @@
       "duration_ms": 136695,
       "name": "Mist\u00e9rios",
       "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 135165,
-      "name": "N\u00e3o Temos Medo",
-      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
-        "name": "Problemas de um Milion\u00e1rio",
-        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Problemas de um Milion\u00e1rio",
-      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -667,6 +631,42 @@
       "duration_ms": 624000,
       "name": "Set Dj Gm 6.0",
       "url": "https://open.spotify.com/track/4WXVqLSRHF4ypdiBngbcqU"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 135165,
+      "name": "N\u00e3o Temos Medo",
+      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
+        "name": "Problemas de um Milion\u00e1rio",
+        "url": "https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Problemas de um Milion\u00e1rio",
+      "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 197903,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -847,26 +863,6 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
-        "name": "Filho da Noite",
-        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Filho da Noite",
-      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
@@ -899,18 +895,22 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         }
       ],
-      "duration_ms": 197903,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -1567,6 +1567,58 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
+        "name": "Rotina Maluca",
+        "url": "https://open.spotify.com/album/7eX1z4Y5Tq2hIN6CLUKcdz"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 150209,
+      "name": "Rotina Maluca",
+      "url": "https://open.spotify.com/track/3XmvImic98fx2CEVCdWk5w"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
+        "name": "2024",
+        "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 160399,
+      "name": "2024",
+      "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
         "name": "Set Chris Beats Zn 01",
         "url": "https://open.spotify.com/album/260RhfGsjYowEsGQGFAWos"
       },
@@ -1603,34 +1655,6 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
-        "name": "2024",
-        "url": "https://open.spotify.com/album/6CNjfS2dgmIIzqM4knWvNl"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 160399,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/0ycjYQkQ7lJpZf47BEiDLx"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -1659,30 +1683,6 @@
       "duration_ms": 200039,
       "name": "Ela joga no 7",
       "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
-        "name": "Rotina Maluca",
-        "url": "https://open.spotify.com/album/7eX1z4Y5Tq2hIN6CLUKcdz"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 150209,
-      "name": "Rotina Maluca",
-      "url": "https://open.spotify.com/track/3XmvImic98fx2CEVCdWk5w"
     },
     {
       "added_at": "2024-12-06 14:51:52",

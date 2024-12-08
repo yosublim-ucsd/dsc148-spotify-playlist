@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 
 > Editor's picks of Rising 65 this year\. Cover: Soph T.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 | 34 | [what am i gonna do](https://open.spotify.com/track/2b22WnbcVOUe5eMII5Dh4H) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [what am i gonna do](https://open.spotify.com/album/67KnJc6MNCg6Xtrk7ZaQH3) | 3:18 |
 | 35 | [you're the shit](https://open.spotify.com/track/4uDrAWobYZ1AHEF6BXeSTu) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [you're the shit](https://open.spotify.com/album/7C3sR41tnoJc2V5H9S27UZ) | 2:34 |
 | 36 | [endless shine](https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [endless shine](https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D) | 3:01 |
-| 37 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 |
+| 37 | [what would it take?](https://open.spotify.com/track/3T9l0r98QH8BPVsqDvCH1f) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 4:10 |
 | 38 | [莫名的想你](https://open.spotify.com/track/11nQNM8Dz2Hw6aD59Sn3SR) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [BLUE\-HOO! \(Deluxe\)](https://open.spotify.com/album/7IyzEmX7Wpibs1WrudybFJ) | 3:17 |
 | 39 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 |
 | 40 | [Hold On Tight](https://open.spotify.com/track/7713P9K50HWKmb1qEWXiGT) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Hold On Tight](https://open.spotify.com/album/5TmvZOkGXtMJCBGzxL7ZlD) | 3:08 |

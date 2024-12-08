@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAB7inw4k76hEEeIVX+mlzEs",
+  "snapshot_id": "Z1I+gAAAAAB3gDgTZFvItf59SbCBFaYU",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos Y Damitas",
         "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 154338,
       "name": "Lujos Y Damitas",
       "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 110256,
-      "name": "RZR Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Faramaya",
         "url": "https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 144303,
       "name": "Sin Faramaya",
       "url": "https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 110256,
+      "name": "RZR Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo de Mis Ojos",
         "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212672,
       "name": "El Brillo de Mis Ojos",
       "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maserati (En Vivo)",
-        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
+        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
+        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
       },
       "artists": [
         {
@@ -836,13 +836,29 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 162474,
-      "name": "El Maserati - En Vivo",
-      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
+      "duration_ms": 134184,
+      "name": "Ac\u00e1 Por Tijuana - En Vivo",
+      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 164992,
+      "name": "Tiempo Duros",
+      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
     },
     {
       "added_at": null,
@@ -867,24 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 164992,
-      "name": "Tiempo Duros",
-      "url": "https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
-        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
+        "name": "El Maserati (En Vivo)",
+        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 134184,
-      "name": "Ac\u00e1 Por Tijuana - En Vivo",
-      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+      "duration_ms": 162474,
+      "name": "El Maserati - En Vivo",
+      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,

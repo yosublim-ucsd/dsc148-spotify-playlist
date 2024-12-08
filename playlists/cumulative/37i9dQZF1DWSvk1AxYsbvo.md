@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-188 songs - 11 hr 7 min
+189 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Falling](https://open.spotify.com/track/6qk7gfVgnuiKPaJ5b9SYvn) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Falling](https://open.spotify.com/album/1uZqQnLLnJ0w9KCHPM7XuZ) | 4:25 | 2022-05-03 | 2024-10-28 |
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-07-08 | 2024-04-19 |
 | [Falling In Love 너를 보네](https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:28 | 2022-05-03 | 2022-07-29 |
+| [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 | 2024-12-05 |  |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-29 | 2023-07-08 |
 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 |  |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-03 | 2023-07-08 |
@@ -89,7 +90,7 @@
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2024-12-06 |
 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 | 2022-05-03 | 2023-07-08 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 |  |
-| [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-12-05 |  |
+| [Like a tree](https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx) | [YE ON](https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci) | [Like a tree](https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW) | 4:55 | 2024-12-05 | 2024-12-08 |
 | [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 | 2022-08-09 | 2024-11-24 |
 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely Night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 | 2022-05-03 | 2024-08-25 |
 | [Love Is You](https://open.spotify.com/track/1QfqYSsC1sQaGtBu1AWZu7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 4:06 | 2022-05-03 | 2022-07-29 |

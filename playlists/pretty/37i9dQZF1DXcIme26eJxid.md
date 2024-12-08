@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq\_kGzYYw">Onyeka Onwenu </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,924 likes - 40 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,954 likes - 40 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 34 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
 | 35 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 36 | [Greetings](https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:13 |
-| 37 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
-| 38 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
-| 39 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
-| 40 | [Akula Owu Onyeara](https://open.spotify.com/track/5mpjIvDq4cgQFyZviKwSRP) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973\-77 \(Soundway Records\)](https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj) | 7:28 |
+| 37 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 |
+| 38 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
+| 39 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
+| 40 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
 
 Snapshot ID: `Zqti6AAAAACH3wCgCKzvutG8v9O29VLM`

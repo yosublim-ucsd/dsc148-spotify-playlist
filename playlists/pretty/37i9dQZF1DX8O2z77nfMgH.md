@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,517 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,571 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 11 | [Amapola](https://open.spotify.com/track/43558Td2trz7O0chZYohEE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Amapola](https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr) | 3:00 |
 | 12 | [Mi Refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
 | 13 | [3D](https://open.spotify.com/track/5HtYVhthYMAs9QxLSjG4pQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [3D](https://open.spotify.com/album/0tlRno64qEC6paxXI6NnZY) | 2:45 |
-| 14 | [El Tierno](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 |
+| 14 | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 |
 | 15 | [OTROS LUGARES](https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [UGH / OTROS LUGARES](https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU) | 3:21 |
 | 16 | [Ohnana \- AfroSalto Remix](https://open.spotify.com/track/2NIiv6C5i9PCS6nf3rDWwA) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [AfroSalto](https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3) | [Ohnana \(AfroSalto Remix\)](https://open.spotify.com/album/0SVINwfQL7PIOdb2dKw4zi) | 2:34 |
 | 17 | [aeropuerto](https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [aeropuerto](https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb) | 3:34 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 68 | [REELS](https://open.spotify.com/track/4pPY1c6CNVCYfM3hMKId1w) | [Jay Elite](https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj), [Ateriko](https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC), [El Rey Mufa](https://open.spotify.com/artist/6vaZf2NpQmlyW2FdWWQ9Xm) | [REELS](https://open.spotify.com/album/4PkacKHTHoMgDmazsR1Tcz) | 2:00 |
 | 69 | [FRESA](https://open.spotify.com/track/5uk7mzylzJGoA0HE7WPa2u) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [FRESA](https://open.spotify.com/album/5qeulqTTwhlwpUpcLHyUTD) | 2:23 |
 | 70 | [normal](https://open.spotify.com/track/1Lj6SO2JrE5ecw1PbQ7svB) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [normal](https://open.spotify.com/album/6zTHWX8kMRhwxxO9EiByr8) | 2:13 |
-| 71 | [Abeja Reina](https://open.spotify.com/track/1IfjYBlCjQcpvWddRvl5BX) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Cien Años de Soledad](https://open.spotify.com/album/7HeWwPZ9ouviJNS3fDK2Bi) | 1:51 |
+| 71 | [Abeja Reina](https://open.spotify.com/track/1IfjYBlCjQcpvWddRvl5BX) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Cien Años](https://open.spotify.com/album/7HeWwPZ9ouviJNS3fDK2Bi) | 1:51 |
 | 72 | [Rocksito](https://open.spotify.com/track/7vLmGBLN2kzkg0bREq4E77) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Rocksito](https://open.spotify.com/album/1rcLl6cQVYSOaZcmytYbMw) | 3:31 |
 | 73 | [Lv los Botines](https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Lv los Botines](https://open.spotify.com/album/60BDPAz8rAQuqH4HKfDTMD) | 2:46 |
 | 74 | [OH MAMA](https://open.spotify.com/track/4REKuXiu7bBDSGJYgjP7fn) | [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [FIVE7](https://open.spotify.com/artist/0tZkM9CaXRdzEgHWBwm02a), [BONUCHI](https://open.spotify.com/artist/1946vEFs3B1Dq9B7tZc8bw), [Bvlgarich](https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R) | [OH MAMA](https://open.spotify.com/album/47SIgHk6bU2i6xFQGSat9O) | 5:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,951 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,121 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 58 | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/track/2zoZOVdfrwY359yrP8dhkD) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Close To Me \(feat\. Bnxn\)](https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq) | 2:36 |
 | 59 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 60 | [POE](https://open.spotify.com/track/32HYphoaaPlTaR7KzOXhp1) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [POE](https://open.spotify.com/album/12XbzXvoXaflAPQnoNUsCX) | 3:26 |
-| 61 | [Okay](https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Okay](https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB) | 2:32 |
-| 62 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
+| 61 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
+| 62 | [Okay](https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Okay](https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB) | 2:32 |
 | 63 | [Le contrat](https://open.spotify.com/track/3WJ8cQFEBFBUbU1yl3lVMA) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:51 |
 | 64 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
 | 65 | [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 67 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 68 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 |
 | 69 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
-| 70 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
+| 70 | [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 |
 
 Snapshot ID: `Z1LQsAAAAACyqIfAQeaT/FB3dd8OceOA`

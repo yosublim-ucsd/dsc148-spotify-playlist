@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,070 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,069 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 43 | [Bigger Than I Thought \- Live](https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 7:12 |
 | 44 | [Salvation Belongs To You \- Live From Passion 2024](https://open.spotify.com/track/21YqSmQdOvrToR08TFYwJc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:16 |
 | 45 | [Worthy Of Your Name \- Live](https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 7:00 |
-| 46 | [God Of Wonders \- Live](https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Chris Tomlin Collection](https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT) | 4:38 |
-| 47 | [Great Are You Lord \- Live](https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 8:46 |
-| 48 | [The Stand \- Live](https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 6:08 |
+| 46 | [Great Are You Lord \- Live](https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 8:46 |
+| 47 | [The Stand \- Live](https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 6:08 |
+| 48 | [God Of Wonders \- Live](https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Chris Tomlin Collection](https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT) | 4:38 |
 | 49 | [Gratitude \- Live From Passion 2023](https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 6:18 |
-| 50 | [Maranatha \- Live From Passion 2022](https://open.spotify.com/track/3RDqUUxb4z2LcoCYtktBHL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 8:23 |
+| 50 | [All My Hope \- Live](https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 4:37 |
 
-Snapshot ID: `Z1DtAAAAAADCR+OtJ+Bd7Npl5dv7gFEa`
+Snapshot ID: `Z1I+gAAAAACZKja3QdSq55pvT++JqxWl`

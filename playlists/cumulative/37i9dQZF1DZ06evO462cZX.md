@@ -4,7 +4,7 @@
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 2 min
+57 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [PINK](https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [PINK](https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo) | 3:41 | 2024-08-08 |  |
 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 | 2024-08-08 |  |
 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 | 2024-08-08 |  |
+| [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 | 2024-12-08 |  |
 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 | 2024-08-08 |  |
 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 | 2024-08-31 |  |
 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 | 2024-08-08 | 2024-10-16 |

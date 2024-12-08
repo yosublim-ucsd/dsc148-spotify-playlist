@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 225490,
+  "num_followers": 225557,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -467,30 +467,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 219768,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/0XDch3owENNks3bapuFjAs"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 149528,
       "name": "Hey Hey - Jack Back Remix",
       "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 219768,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Only I",
-        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 228028,
-      "name": "Only I",
-      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 249749,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 249749,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 222857,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1019,6 +999,26 @@
       "duration_ms": 395500,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "added_at": "2024-11-22 00:00:00",

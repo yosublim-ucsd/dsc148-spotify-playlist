@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205400,
+      "name": "It Serve You Right To Suffer - The Avener Rework",
+      "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
+    },
+    {
+      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 212120,
       "name": "It Serves Me Right",
       "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
@@ -1228,28 +1250,6 @@
       "duration_ms": 208732,
       "name": "It Serves Me Right to Suffer - Remastered",
       "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
-    },
-    {
-      "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        }
-      ],
-      "date_added": "2022-08-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205400,
-      "name": "It Serves You Right To Suffer - The Avener Rework",
-      "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
     },
     {
       "album": {
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 212266,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"

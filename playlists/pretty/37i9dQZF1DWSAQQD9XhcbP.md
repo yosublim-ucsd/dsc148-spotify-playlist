@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,922 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,169 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 44 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
 | 45 | [Blue Christmas](https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Blue Christmas](https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO) | 3:49 |
 | 46 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 |
-| 47 | [Christmas Brought Me You](https://open.spotify.com/track/1PoFnbwxstUxyoSKpIhbVX) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Christmas Brought Me You](https://open.spotify.com/album/3N8av3i7ESQRwZBL0qc9j5) | 4:24 |
+| 47 | [Christmas Brought Me You](https://open.spotify.com/track/1PoFnbwxstUxyoSKpIhbVX) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Lance Conrad](https://open.spotify.com/artist/2gq2WGi1vnLJX3dOd2IMca) | [Christmas Brought Me You](https://open.spotify.com/album/3N8av3i7ESQRwZBL0qc9j5) | 4:24 |
 | 48 | [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 |
 | 49 | [Christmas Time Is Here](https://open.spotify.com/track/1mnpw3ZChfpjGoK0WjgJLB) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 3:28 |
 | 50 | [The First Noel](https://open.spotify.com/track/7AI7NTvw4BlVnQBSfLDD1q) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [The First Noel](https://open.spotify.com/album/7iZnMSmamUsrqZqYKBVPBW) | 3:33 |

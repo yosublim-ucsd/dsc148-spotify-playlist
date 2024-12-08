@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những bài hát Fresh Finds Vietnam hay nhất năm 2024\. Ảnh bìa: Sweet Liquor
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,943 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 37 | [Khóc Vì Điều Từng Cười](https://open.spotify.com/track/0dlUNd61X7X1lnEVAbppNO) | [Luke D](https://open.spotify.com/artist/6Q8rdOp4MwNFF18K75sMzZ) | [Khóc Vì Điều Từng Cười](https://open.spotify.com/album/15cutTOwB6UDlcdXCTX58j) | 4:48 |
 | 38 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
 | 39 | [feral](https://open.spotify.com/track/4B0PGbE1tWZh3ngQ7uftsx) | [Hoāng](https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf) | [feral](https://open.spotify.com/album/07lAqxTsQ3hmA7A1tk4hQZ) | 2:36 |
-| 40 | [Nhìn Theo Bóng Em](https://open.spotify.com/track/4Ubn9ARbrtXVIb1Wr2vLFY) | [Tony Hoàng Anh](https://open.spotify.com/artist/055tKHSCudU5z9QjDbxUox), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [The Dø](https://open.spotify.com/artist/32RntR1i4WuepdmjwMo95b) | [Nhìn Theo Bóng Em](https://open.spotify.com/album/5DYlLNfA49JCtGrzOYlk8z) | 3:30 |
+| 40 | [Nhìn Theo Bóng Em](https://open.spotify.com/track/4Ubn9ARbrtXVIb1Wr2vLFY) | [Tony Hoàng Anh](https://open.spotify.com/artist/2NoLQ6oeL50pvn5BE1lk7v), [Đức Duy](https://open.spotify.com/artist/3MZmokiIjkEBQ6uAb0NRDo), [The Dø](https://open.spotify.com/artist/32RntR1i4WuepdmjwMo95b) | [Nhìn Theo Bóng Em](https://open.spotify.com/album/5DYlLNfA49JCtGrzOYlk8z) | 3:30 |
 | 41 | [Tham Phú Phụ Hồ](https://open.spotify.com/track/6NtEd604XMclP26Uqi2RFs) | [Kejo](https://open.spotify.com/artist/0Qbywcgl7wfMVk6WmW2LUh), [Yuri](https://open.spotify.com/artist/0JXBRH2BmhaJ1RsRpizhm5) | [Tham Phú Phụ Hồ](https://open.spotify.com/album/1mGtH2htDQJV7l213KNME9) | 2:18 |
 | 42 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 |
 | 43 | [Gió](https://open.spotify.com/track/1GgySLIYZ6JMi3M9q0hK7D) | [Jank](https://open.spotify.com/artist/04iRGluzxLz3aZmKTjOvBp) | [Gió](https://open.spotify.com/album/3VeSsUYwi60FAOmFwDMay5) | 4:33 |

@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 120902,
+  "num_followers": 120930,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
+        "name": "Homenaje a Nuestra Kumbia",
+        "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Portugal",
+          "url": "https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
         "name": "Hasta Que Duela la Cabeza",
         "url": "https://open.spotify.com/album/1bbiTYC8vWdhGCXRMpaDGG"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 160867,
       "name": "Hasta Que Duela la Cabeza",
       "url": "https://open.spotify.com/track/6DmuJ7Wl9TrBquH5MH1DF4"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "Homenaje a Nuestra Kumbia",
-        "url": "https://open.spotify.com/album/54h1Hyt6Z2LvQ6r1W4gfbW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Portugal",
-          "url": "https://open.spotify.com/artist/1kymA1IcM9xoorQ2u0rD1i"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/4un5KOE0xkfuDvgA8QaWWX"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "La Caballita",
-        "url": "https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp"
+        "name": "Mejor Que Nunca...Sola Hay Una...!",
+        "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
       "artists": [
         {
-          "name": "Los 5 de Oro",
-          "url": "https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0"
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
         }
       ],
-      "duration_ms": 218101,
-      "name": "La Caballita",
-      "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
+      "duration_ms": 243533,
+      "name": "Voy a Buscarme un Amor",
+      "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
     }
   ],
   "unique_name": "Cumbias de Oro",

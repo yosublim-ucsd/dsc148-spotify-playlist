@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 12 min
+129 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Floating \- feat\. Candy Crush Saga](https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Floating \(feat\. Candy Crush Saga\)](https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t) | 2:53 | 2024-09-22 |  |
 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 2:49 | 2023-05-02 | 2023-11-11 |
 | [For My Eternal, Oh Dream My Treasure](https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 2:49 | 2024-03-31 | 2024-04-02 |
+| [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 | 2024-12-08 |  |
 | [Fried for the Night](https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 3:10 | 2023-05-02 | 2024-02-03 |
 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 | 2024-02-02 |  |
 | [Gamble](https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 2:26 | 2023-05-02 | 2024-02-10 |

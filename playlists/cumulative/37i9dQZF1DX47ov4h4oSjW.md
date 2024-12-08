@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-160 songs - 7 hr 29 min
+161 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ice Dance](https://open.spotify.com/track/3jUTFbimuRWC1pnikGG3YP) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Piano 1 \(Extended\)](https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP) | 3:13 | 2023-03-12 |  |
 | [In a Bar in Buenos Aires](https://open.spotify.com/track/5C4t6U8yLBmG5xbUhJ205E) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In a Bar in Buenos Aires](https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ) | 2:46 | 2023-03-12 |  |
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2023-03-12 |  |
-| [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2023-03-12 |  |
+| [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 | 2023-03-12 | 2024-12-08 |
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2023-03-12 |  |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2023-01-26 |  |
 | [Kjæreste](https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Kjæreste](https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm) | 2:23 | 2023-03-12 |  |
@@ -125,6 +125,7 @@
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2023-01-26 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-01-26 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2023-01-26 |  |
+| [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2023-03-12 |  |
 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 | 2023-01-26 |  |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2023-01-26 | 2024-04-19 |
 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-26 | 2023-05-23 |

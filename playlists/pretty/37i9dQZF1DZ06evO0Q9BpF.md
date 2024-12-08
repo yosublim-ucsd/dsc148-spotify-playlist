@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,852 likes - 50 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,870 likes - 50 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 39 | [Cristo Te Amo](https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 5:59 |
 | 40 | [Eres Santo](https://open.spotify.com/track/4OpANv2p61Sse26MHscq6p) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/2xhmLlf28IZ58xDRTlpBxK) | 6:51 |
 | 41 | [Jesús, Eres el Centro](https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 8:07 |
-| 42 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
-| 43 | [Despierta Mi Corazón](https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 7:44 |
+| 42 | [Despierta Mi Corazón](https://open.spotify.com/track/7fgqsWioC0PvFZCbZvz4sY) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU) | 7:44 |
+| 43 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
 | 44 | [Me Decidí por Ti](https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 3:47 |
 | 45 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
-| 46 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
+| 46 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 |
 | 47 | [Danzando](https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV) | [Tu Amor No Tiene Fin](https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz) | 5:01 |
-| 48 | [Encuentro Glorioso](https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:49 |
+| 48 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 | 49 | [Adonai](https://open.spotify.com/track/1BZ37xfM1Dmg7oLJtchnV3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 5:51 |
-| 50 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 |
+| 50 | [Encuentro Glorioso](https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:49 |
 
-Snapshot ID: `Z1DtAAAAAADLRvWVmuuFi5352wUODVrT`
+Snapshot ID: `Z1I+gAAAAAANxsbe+/a6zgrSa5Qf+DRG`

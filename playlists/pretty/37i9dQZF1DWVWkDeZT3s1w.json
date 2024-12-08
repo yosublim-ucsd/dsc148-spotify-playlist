@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 106542,
+  "num_followers": 106583,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Tiempos Muertos",
         "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1091,26 +1091,6 @@
       "duration_ms": 184600,
       "name": "Hombre (One Shot) - Remix",
       "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1219,6 +1199,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Huerfano Emocional",
         "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
       },
@@ -1235,6 +1235,26 @@
       "duration_ms": 166261,
       "name": "Huerfano Emocional",
       "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1259,26 +1279,6 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1359,6 +1359,38 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Chismecito",
+        "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        },
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        },
+        {
+          "name": "Leyton Eme",
+          "url": "https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y"
+        },
+        {
+          "name": "La Negra MeXa",
+          "url": "https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Chismecito",
+      "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Pu\u00f1o en alto",
         "url": "https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo"
       },
@@ -1407,38 +1439,6 @@
       "duration_ms": 204669,
       "name": "Soy Pueblo",
       "url": "https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Chismecito",
-        "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        },
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        },
-        {
-          "name": "Leyton Eme",
-          "url": "https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y"
-        },
-        {
-          "name": "La Negra MeXa",
-          "url": "https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Chismecito",
-      "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
+      },
+      "artists": [
+        {
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Cuarto De Siglo",
         "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 244177,
       "name": "Cuarto De Siglo",
       "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "El Mundo en Abstinencia",
-        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
-      },
-      "artists": [
-        {
-          "name": "La Era de Gomes",
-          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
-        }
-      ],
-      "duration_ms": 145979,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Voy a Regresar (Escape Al Purgatorio)",
+        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
+      },
+      "artists": [
+        {
+          "name": "Zaque",
+          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
+        },
+        {
+          "name": "Doctor Destino",
+          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
+        }
+      ],
+      "duration_ms": 189910,
+      "name": "Voy a Regresar",
+      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "El rap es nuestra arma",
         "url": "https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 229761,
       "name": "El rap es nuestra arma",
       "url": "https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Voy a Regresar (Escape Al Purgatorio)",
-        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
-      },
-      "artists": [
-        {
-          "name": "Zaque",
-          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-        },
-        {
-          "name": "Doctor Destino",
-          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-        }
-      ],
-      "duration_ms": 189910,
-      "name": "Voy a Regresar",
-      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
     },
     {
       "added_at": "2024-09-06 06:00:00",

@@ -547,6 +547,32 @@
     },
     {
       "album": {
+        "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+        "url": "https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Georgia Ways (with Teddy Swims & Luke Bryan)",
+      "url": "https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },

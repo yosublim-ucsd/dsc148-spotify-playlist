@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,988 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,069 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,16 +83,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 73 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
 | 74 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
 | 75 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
-| 76 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
-| 77 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 76 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
+| 77 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
 | 78 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
 | 79 | [One Trip Pony](https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [One Trip Pony](https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3) | 3:40 |
 | 80 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 81 | [Summer's Fingers Sweetly Linger \(Everywhere On Every Side\)](https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [When The Roses Come Again](https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt) | 4:21 |
 | 82 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 83 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
-| 84 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
-| 85 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 84 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 85 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
 | 86 | [I Am The Man Thomas](https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8) | 2:39 |
 | 87 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 |
 | 88 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 |

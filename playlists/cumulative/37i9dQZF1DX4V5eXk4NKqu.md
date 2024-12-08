@@ -4,7 +4,7 @@
 
 > The best of Latin Indie today, featuring Judeline.
 
-361 songs - 20 hr 30 min
+362 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 | 2022-03-10 | 2023-02-09 |
 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-09-06 | 2022-11-18 |
 | [Highlight](https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:33 | 2022-09-06 | 2023-11-11 |
+| [Hora Dorada](https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5) | 3:14 | 2024-12-06 |  |
 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 | 2024-06-07 |  |
 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 | 2024-08-16 |  |
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2022-12-09 | 2023-11-11 |
@@ -165,7 +166,7 @@
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-12-02 | 2023-11-11 |
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 | 2024-03-31 |
 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 | 2022-03-10 | 2023-01-28 |
-| [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 |  |
+| [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-12-08 |
 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-10-13 | 2024-12-07 |
 | [Llevo](https://open.spotify.com/track/02gaYAEdeR6poHcBH1KUQF) | [Luke Martinez](https://open.spotify.com/artist/6DJuKgrzKuEw211ZIRxxzz) | [Saccharine](https://open.spotify.com/album/30I9MlPFuQjg71yzt19XcB) | 3:03 | 2022-03-10 | 2022-09-07 |
 | [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 | 2023-11-10 |  |

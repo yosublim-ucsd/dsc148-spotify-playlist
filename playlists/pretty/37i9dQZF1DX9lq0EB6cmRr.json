@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Sumi Jo, Danny Koo(\uc870\uc218\ubbf8, \ub300\ub2c8 \uad6c)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4412,
+  "num_followers": 4413,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
-        }
-      ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 56613,
       "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
       "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1431,30 +1431,18 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "Dream Quilter",
-        "url": "https://open.spotify.com/album/0sSgf9k492KRXE9uwzUwpj"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Paul Verlaine",
-          "url": "https://open.spotify.com/artist/7nZSFxwhYPg0lT15y8cx6F"
-        },
-        {
-          "name": "David DQ Lee",
-          "url": "https://open.spotify.com/artist/2TtSZl1TkC0DMgp1726W1C"
-        },
-        {
-          "name": "das freie orchester Berlin",
-          "url": "https://open.spotify.com/artist/5wuGtP9IxJx2EKUlAyYJcI"
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         }
       ],
-      "duration_ms": 301120,
-      "name": "Suite Bergamasque L. 75: 3. Clair de Lune",
-      "url": "https://open.spotify.com/track/0oEpFHMabWJrE4cagcJEvZ"
+      "duration_ms": 157946,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1479,18 +1467,30 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
+        "name": "Dream Quilter",
+        "url": "https://open.spotify.com/album/0sSgf9k492KRXE9uwzUwpj"
       },
       "artists": [
         {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paul Verlaine",
+          "url": "https://open.spotify.com/artist/7nZSFxwhYPg0lT15y8cx6F"
+        },
+        {
+          "name": "David DQ Lee",
+          "url": "https://open.spotify.com/artist/2TtSZl1TkC0DMgp1726W1C"
+        },
+        {
+          "name": "das freie orchester Berlin",
+          "url": "https://open.spotify.com/artist/5wuGtP9IxJx2EKUlAyYJcI"
         }
       ],
-      "duration_ms": 157946,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
+      "duration_ms": 301120,
+      "name": "Suite Bergamasque L. 75: 3. Clair de Lune",
+      "url": "https://open.spotify.com/track/0oEpFHMabWJrE4cagcJEvZ"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "Une Vie Full album",
-        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
       },
       "artists": [
         {
           "name": "Denis Sungho",
           "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        },
+        {
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1587,26 +1591,6 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "Deep Sleep Deep",
-        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
-      },
-      "artists": [
-        {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
-        },
-        {
-          "name": "Yeongene",
-          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "iMessage (feat. Yeongene)",
-      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
         "name": "Bartok Violin Concerto",
         "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
       },
@@ -1627,6 +1611,26 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
+        "name": "Deep Sleep Deep",
+        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Yeongene",
+          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "iMessage (feat. Yeongene)",
+      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
         "name": "Sound for Pets",
         "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
       },
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
       },
       "artists": [
         {
           "name": "Denis Sungho",
           "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        },
-        {
-          "name": "COAST82",
-          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
         }
       ],
-      "duration_ms": 279528,
-      "name": "Island baby",
-      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1679,6 +1679,34 @@
       "duration_ms": 191440,
       "name": "10.1 (strings)",
       "url": "https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
+        "name": "Aria D\u2019amore",
+        "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "MIN SEOK KIM",
+          "url": "https://open.spotify.com/artist/27BEj1cGrS6dhkNRcX0aWM"
+        },
+        {
+          "name": "Korea Coop Orchestra",
+          "url": "https://open.spotify.com/artist/1hz7jSaUzBkoK6jYLjoUcM"
+        },
+        {
+          "name": "Leonard Kwon",
+          "url": "https://open.spotify.com/artist/5BzVHE5992wU1q8YVgTTfc"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "La boh\u00e8me, SC 67, Act I: Che gelida manina",
+      "url": "https://open.spotify.com/track/6WMBG6aGd4oAJpyWadripc"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1711,34 +1739,6 @@
       "duration_ms": 207893,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
-        "name": "Aria D\u2019amore",
-        "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "MIN SEOK KIM",
-          "url": "https://open.spotify.com/artist/27BEj1cGrS6dhkNRcX0aWM"
-        },
-        {
-          "name": "Korea Coop Orchestra",
-          "url": "https://open.spotify.com/artist/1hz7jSaUzBkoK6jYLjoUcM"
-        },
-        {
-          "name": "Leonard Kwon",
-          "url": "https://open.spotify.com/artist/5BzVHE5992wU1q8YVgTTfc"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "La boh\u00e8me, SC 67, Act I: Che gelida manina",
-      "url": "https://open.spotify.com/track/6WMBG6aGd4oAJpyWadripc"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 600280,
+      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
+      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
         "name": "BACH",
         "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
@@ -1803,26 +1823,6 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
-        }
-      ],
-      "duration_ms": 600280,
-      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
-      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
@@ -1835,26 +1835,6 @@
       "duration_ms": 249240,
       "name": "Blossom of Flower",
       "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
-        }
-      ],
-      "duration_ms": 862200,
-      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
-      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1883,6 +1863,26 @@
       "duration_ms": 448413,
       "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
       "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2024-11-29 09:37:36",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2024-11-29 09:37:36",
       "album": {
+        "name": "REMINISCENCE: Schubert works for violin and piano",
+        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jinsu Park, Jeong Heum Yeon",
+          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
+        }
+      ],
+      "duration_ms": 507120,
+      "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
+      "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
+    },
+    {
+      "added_at": "2024-11-29 09:37:36",
+      "album": {
         "name": "White Night",
         "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
       },
@@ -1995,26 +2015,6 @@
       "duration_ms": 451346,
       "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
       "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
-    },
-    {
-      "added_at": "2024-11-29 09:37:36",
-      "album": {
-        "name": "REMINISCENCE: Schubert works for violin and piano",
-        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Jinsu Park, Jeong Heum Yeon",
-          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
-        }
-      ],
-      "duration_ms": 507120,
-      "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
-      "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
     },
     {
       "added_at": "2024-11-29 09:37:36",

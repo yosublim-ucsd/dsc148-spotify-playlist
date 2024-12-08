@@ -4,7 +4,7 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 50 min
+95 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-03 | 2024-07-24 |
 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2023-06-07 |  |
 | [Skechers \(feat\. Tyga\) \- Remix](https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Skechers \(feat\. Tyga\) \[Remix\]](https://open.spotify.com/album/4y9V5m70YgbZTYNZBsiXBM) | 2:43 | 2023-12-13 | 2024-07-15 |
+| [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-08 |  |
 | [soak city \(feat\. OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [soak city \(feat\. OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF) | 4:04 | 2023-09-15 |  |
 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 | 2023-06-07 |  |
 | [Spooky](https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Spooky](https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP) | 2:18 | 2024-11-08 |  |

@@ -4,7 +4,7 @@
 
 > TV on the Radio 4eva
 
-246 songs - 15 hr 35 min
+247 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-11-10 | 2024-02-02 |
 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 | 2023-01-11 |  |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2022-11-10 | 2024-04-19 |
+| [BYE BYE](https://open.spotify.com/track/3b34EvMAFHcdRBujeo9e6t) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [The Collective](https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x) | 4:14 | 2024-11-22 |  |
 | [California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [California Dream Girl](https://open.spotify.com/album/7Mu6gL29rc1hiFuVtYFvVs) | 3:00 | 2023-05-19 | 2023-07-14 |
 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 | 2022-11-10 | 2024-04-19 |
 | [Cassius](https://open.spotify.com/track/2UU4NqZQ3RK7pTSq6le2t3) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 3:49 | 2023-09-05 | 2024-12-03 |
@@ -187,7 +188,7 @@
 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 | 2023-04-14 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2022-11-10 |  |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-11-10 |  |
-| [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 | 2023-12-04 |  |
+| [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 | 2023-12-04 | 2024-12-08 |
 | [Renaissance Affair](https://open.spotify.com/track/6QHSwAv5JaEC0k6rwAtgPl) | [Shallowhalo](https://open.spotify.com/artist/302pglvxOK8fDRZTsNoAgq) | [Renaissance Affair](https://open.spotify.com/album/6pnc47rGy91mRg9zDNW1Ht) | 2:49 | 2023-04-14 | 2023-04-27 |
 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2022-11-10 |  |
 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2023-05-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,844 likes - 39 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,847 likes - 39 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 15 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS) | 2:00 |
 | 16 | [Mete Ficha](https://open.spotify.com/track/5qrjKcKr5Xgxw5dIVSrcZL) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Dr\. Ace](https://open.spotify.com/artist/1ViYB3Neu32Mi6vBZFjl1d) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:01 |
 | 17 | [E.P.A.M.](https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:21 |
-| 18 | [ÓPIO](https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 3:29 |
-| 19 | [14 Sem Vaselina](https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:22 |
+| 18 | [14 Sem Vaselina](https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:22 |
+| 19 | [ÓPIO](https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 3:29 |
 | 20 | [Faixa Rosa](https://open.spotify.com/track/63emOzAQmK9uZCXtCQjf8y) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Baby Perigosa](https://open.spotify.com/artist/7jegLlnaC9LdWEhxYJUvzH) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:50 |
 | 21 | [Eu Gosto](https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:20 |
 | 22 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 38 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 | 39 | [A Jogada Que É Foda](https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:28 |
 
-Snapshot ID: `Z1DtAAAAAACa6LxKyKvZyRHSGNS7HVYG`
+Snapshot ID: `Z1I+gAAAAABa5wmHFR25LeIx5p5J62zN`

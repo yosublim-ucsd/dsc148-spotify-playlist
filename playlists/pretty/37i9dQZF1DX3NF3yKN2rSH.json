@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53956,
+  "num_followers": 53971,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Tunnel Vision",
         "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 243914,
       "name": "Release - Live/Edit",
       "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2024-07-02 01:22:00",

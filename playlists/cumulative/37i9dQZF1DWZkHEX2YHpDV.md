@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Anxious
 
-1,328 songs - 2 day 22 hr 10 min
+1,330 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Alone with You](https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 4:25 | 2021-12-10 | 2022-07-09 |
 | [Alpha](https://open.spotify.com/track/5kBOZe7aazqtqoHufOROlZ) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Alpha](https://open.spotify.com/album/2lG8uGUsPxSrZcY4MRWlHz) | 3:45 | 2022-03-25 | 2022-04-19 |
 | [Already Dead](https://open.spotify.com/track/2SvNm1U3VWBS86RioI8iU5) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Already Dead](https://open.spotify.com/album/4i2BiYbdeGb7c8NA2XkmCa) | 2:39 | 2023-04-10 | 2023-04-12 |
-| [American Psycho](https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [American Psycho](https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA) | 3:05 | 2024-04-12 |  |
+| [American Psycho](https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [American Psycho](https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA) | 3:05 | 2024-04-12 | 2024-12-08 |
 | [Amnesia](https://open.spotify.com/track/0zu5YEA4jVLa36NtZHS6SO) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar \(Deluxe\)](https://open.spotify.com/album/3nfaRBKZML6L0cTin14obR) | 2:51 | 2021-12-10 | 2022-05-20 |
 | [Anastasia](https://open.spotify.com/track/2VejQRvDP3AqC2EGRkmusq) | [Glass Cactus](https://open.spotify.com/artist/2h6mHZgVdxvl9YfoVuUltu) | [Anastasia](https://open.spotify.com/album/4vNxiTmeU1Jx1SpViPHium) | 4:11 | 2022-02-04 | 2022-04-19 |
 | [Anchor](https://open.spotify.com/track/71BfzgAa8qWSNrPvhQimES) | [The New Pacific](https://open.spotify.com/artist/1w0KuxlsBqLjcLOC90BZ6i) | [Anchor](https://open.spotify.com/album/4r5SHxW8OOJVEapKyCrDxB) | 3:52 | 2022-03-25 | 2022-04-16 |
@@ -1077,6 +1077,7 @@
 | [Strange Love](https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 2:31 | 2021-12-10 | 2022-05-16 |
 | [Stranger](https://open.spotify.com/track/66aathctmCH7jJ2BbDg4Fm) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 4:42 | 2021-12-10 | 2022-06-23 |
 | [Street Lightning](https://open.spotify.com/track/4tfYUhn38U5TnorQsN7ZFT) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Street Lightning](https://open.spotify.com/album/4L3WzX5xdYbxnp8wvD9LJl) | 3:35 | 2021-12-10 | 2022-08-03 |
+| [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 | 2024-12-06 |  |
 | [Stuck In The Wake](https://open.spotify.com/track/5PaYtN6smm3be0Ip1pOK1Z) | [Another One Down!](https://open.spotify.com/artist/28qiA0MBepHKX8M6ROsQZL) | [Stuck In The Wake](https://open.spotify.com/album/4t2quzwG6LXvzIhLO1tjC0) | 3:27 | 2021-12-10 | 2022-05-12 |
 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 | 2024-08-12 | 2024-09-21 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-08-02 | 2023-11-11 |
@@ -1279,6 +1280,7 @@
 | [WHERE DID IT ALL GO WRONG](https://open.spotify.com/track/37TMee3XZ60teY32Ivk9s9) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [WHERE DID IT ALL GO WRONG](https://open.spotify.com/album/6Vdt0boVVqVHd7IWbZtXvx) | 2:59 | 2024-06-24 | 2024-09-09 |
 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 | 2024-12-06 |  |
 | [Where I Belong \(feat\. We The Kings\)](https://open.spotify.com/track/6XbmIuDxm4gWpVYoGg5DQX) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Where I Belong \(feat\. We The Kings\)](https://open.spotify.com/album/4m7sJnkRPKWdyNa87dxCER) | 3:10 | 2021-12-10 | 2022-07-05 |
+| [White Bikes](https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [White Bikes](https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz) | 4:25 | 2024-12-06 |  |
 | [White Flag](https://open.spotify.com/track/6GC9ktyFFHVaFA1qlE2zzi) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [White Flag](https://open.spotify.com/album/75bRcJa7F7hYj0fM5VXPnG) | 3:45 | 2021-12-10 | 2022-05-17 |
 | [White Flags](https://open.spotify.com/track/2ShEMgpHn13OMYfXH5uM50) | [I'm Geist](https://open.spotify.com/artist/3RBbPmeuOZUZK0xtR32fHy), [VITO](https://open.spotify.com/artist/5mjU2E6rpMs0FWPnm89eCm) | [White Flags](https://open.spotify.com/album/0ynYae3udBfklrmKixjk9k) | 2:38 | 2021-12-10 | 2022-07-13 |
 | [White Lies](https://open.spotify.com/track/0RD64cNQpnGwRcEj5QQ2BF) | [Conversation Piece](https://open.spotify.com/artist/3luOf9oYCfZYbAa42TMA3j) | [White Lies](https://open.spotify.com/album/6FU1NuMqeIWqoCFKdI6Usp) | 4:00 | 2022-02-04 | 2022-04-16 |
@@ -1306,7 +1308,7 @@
 | [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 | 2023-10-10 | 2024-04-13 |
 | [Wouldn't That Be Nice](https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Wouldn't That Be Nice](https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1) | 3:06 | 2022-05-20 | 2023-04-11 |
 | [WOW!](https://open.spotify.com/track/3B7PiImMLehZ18ZhZ6KAc3) | [promiser](https://open.spotify.com/artist/4OTKGQdkkR6iOn3BOzxps5) | [Clarity](https://open.spotify.com/album/6ECqLPoPb2sBwaJXLL1hRU) | 3:46 | 2022-02-04 | 2022-04-21 |
-| [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 | 2024-08-23 |  |
+| [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 | 2024-08-23 | 2024-12-08 |
 | [Write It Off](https://open.spotify.com/track/2NEZizbxzdZyHWtnuhXKym) | [Ryan Librada](https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7) | [Write It Off](https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9) | 2:29 | 2022-05-20 | 2022-05-21 |
 | [Wrong One](https://open.spotify.com/track/6zQqkXYG54BDVEYfFP33wX) | [A Better Hand](https://open.spotify.com/artist/47xNUgLIu6skUOgb8PEuEI) | [Wrong One](https://open.spotify.com/album/08TunwZX7r700eeKguWyF8) | 2:54 | 2021-12-10 | 2022-07-20 |
 | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/track/2igMBTs1a8cwHkwIXOmtBq) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Wyatt’s Song \(Your Name\)](https://open.spotify.com/album/7oQO6rAWUCj7lQ5W7p96wz) | 3:45 | 2022-06-24 | 2022-08-03 |

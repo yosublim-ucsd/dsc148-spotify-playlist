@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10305,
+  "num_followers": 10316,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACfLduaGa0oaKsC76ePIsp/",
+  "snapshot_id": "Z1I+gAAAAAAx9cHRAk5OlVLRkY5zpV+w",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 105760,
-      "name": "Comin' Thro' The Rye",
-      "url": "https://open.spotify.com/track/0L2v0KjmMxTMDFbtfLsZZi"
+      "duration_ms": 178333,
+      "name": "Castle Leoch",
+      "url": "https://open.spotify.com/track/3WvZJVAqJ0aWdEfFHquH1c"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
       "artists": [
         {
@@ -572,13 +572,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Clydene Jackson",
-          "url": "https://open.spotify.com/artist/49xjjFsaP1kBew3STRexp4"
+          "name": "Sophia Brown",
+          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Candles on the Tide (feat. Clydene Jackson)",
-      "url": "https://open.spotify.com/track/71UcjtnY2HMuoMi23FQnHd"
+      "duration_ms": 141720,
+      "name": "The Echo and the River",
+      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
       "artists": [
         {
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Sophia Brown",
-          "url": "https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj"
+          "name": "Clydene Jackson",
+          "url": "https://open.spotify.com/artist/49xjjFsaP1kBew3STRexp4"
         }
       ],
-      "duration_ms": 141720,
-      "name": "The Echo and the River",
-      "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
+      "duration_ms": 220400,
+      "name": "Candles on the Tide (feat. Clydene Jackson)",
+      "url": "https://open.spotify.com/track/71UcjtnY2HMuoMi23FQnHd"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209624,
-      "name": "Black Flags",
-      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 219293,
       "name": "War Is Inevitable",
       "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209624,
+      "name": "Black Flags",
+      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
     },
     {
       "added_at": null,

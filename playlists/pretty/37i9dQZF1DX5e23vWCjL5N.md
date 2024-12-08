@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Nayt
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,076 likes - 86 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,099 likes - 86 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 9 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 |
 | 10 | [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 |
 | 11 | [6 AM](https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:20 |
-| 12 | [Perdono](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 |
+| 12 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 |
 | 13 | [Nun è mai fernut](https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:47 |
 | 14 | [S.X.S.I.C.](https://open.spotify.com/track/3PDMXI7XWkuPOxZ1uNB5O7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 3:20 |
 | 15 | [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 |

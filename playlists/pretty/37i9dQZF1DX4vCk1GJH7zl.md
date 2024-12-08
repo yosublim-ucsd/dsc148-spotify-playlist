@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,342 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,286 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 56 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
 | 57 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 58 | [Outro Mundo, Outro Lugar](https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Outro Mundo, Outro Lugar](https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl) | 3:46 |
-| 59 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
-| 60 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
+| 59 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
+| 60 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
 | 61 | [Eu](https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D) | [Pato Fu](https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631), [Orquestra Ouro Preto](https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt) | [Rotorquestra de Liquidificafu](https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa) | 3:27 |
 | 62 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
 | 63 | [Espetacular](https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ) | [Márcio Greyck](https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4) | [Espetacular](https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc) | 4:33 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 71 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
 | 72 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 |
 | 73 | [Invisível](https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [De Maria](https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn) | [Invisível](https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf) | 3:32 |
-| 74 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 |
-| 75 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 |
+| 74 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 |
+| 75 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 |
 | 76 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 77 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |
 | 78 | [Across The Universe](https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi) | 3:42 |

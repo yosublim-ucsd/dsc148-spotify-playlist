@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2024</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2024 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,877 likes - 88 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,884 likes - 88 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 18 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
 | 19 | [Lark](https://open.spotify.com/track/4jS3v3fVxfOqmvLhIxcc4T) | [GRAY BY SILVER](https://open.spotify.com/artist/5EaSJyjzekYrgLJnJEKSrn) | [The Song of Ethnic](https://open.spotify.com/album/7spgeBUO5RVEFCew9hNrM7) | 5:10 |
 | 20 | [AYIYA](https://open.spotify.com/track/2hVyJecSaYPlQYJOnQhZvk) | [GRAY BY SILVER](https://open.spotify.com/artist/5EaSJyjzekYrgLJnJEKSrn) | [Eternal Gray](https://open.spotify.com/album/1TeN9WoT5C87c3PVqlyBys) | 9:58 |
-| 21 | [bae](https://open.spotify.com/track/0eIP6KmvkCFOS4k0sZCeb1) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [bae](https://open.spotify.com/album/4h8PU4nPbHoClikIyF89iT) | 4:27 |
-| 22 | [I LOVE YOU SO MUCH !](https://open.spotify.com/track/1dHZpRCujZ1I38gO1GVq7O) | [Gwak Tae Poong](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [I LOVE YOU SO MUCH !](https://open.spotify.com/album/09B2jMIMS8cMRklix1lLzX) | 3:21 |
+| 21 | [bae](https://open.spotify.com/track/0eIP6KmvkCFOS4k0sZCeb1) | [Gwak](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [bae](https://open.spotify.com/album/4h8PU4nPbHoClikIyF89iT) | 4:27 |
+| 22 | [I LOVE YOU SO MUCH !](https://open.spotify.com/track/1dHZpRCujZ1I38gO1GVq7O) | [Gwak](https://open.spotify.com/artist/6vldExtbOMiujc68gfMAcm) | [I LOVE YOU SO MUCH !](https://open.spotify.com/album/09B2jMIMS8cMRklix1lLzX) | 3:21 |
 | 23 | [Grand Opening](https://open.spotify.com/track/714lCxO9PGlW6kre3FlYj7) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD) | [Grand Opening](https://open.spotify.com/album/7Dhb63HotAOPXMW7QP6Uw4) | 3:29 |
 | 24 | [Mars Attack](https://open.spotify.com/track/4zeXwf6Bhcybow31plxlYK) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:35 |
 | 25 | [We know nothing](https://open.spotify.com/track/1XcC8h6iZsjXzBqSydzaZH) | [HeyMen](https://open.spotify.com/artist/6CIxoER4KddNrnocyShRhS) | [We know nothing](https://open.spotify.com/album/5EESOMDAT6kHoBaSqPmU5i) | 3:31 |

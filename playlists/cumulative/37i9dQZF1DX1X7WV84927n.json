@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 236187,
       "name": "Crush The Mirrors (feat. Chunk! No, Captain Chunk!)",
       "url": "https://open.spotify.com/track/1PoheUFbSwY776XkboYweZ"
@@ -6237,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "Generation No Surrender",
+        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167354,
+      "name": "Generation No Surrender",
+      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
+    },
+    {
+      "album": {
         "name": "GENESIS",
         "url": "https://open.spotify.com/album/0lauCMMmgQpzDyQxqhXLuH"
       },
@@ -8052,6 +8070,36 @@
       "duration_ms": 175733,
       "name": "I Am The Weapon",
       "url": "https://open.spotify.com/track/2zIyWLmiA8ka9Si6x1D4oW"
+    },
+    {
+      "album": {
+        "name": "I Can Breathe",
+        "url": "https://open.spotify.com/album/349epMWJ21ldeDLzH27NPh"
+      },
+      "artists": [
+        {
+          "name": "Gibson Band",
+          "url": "https://open.spotify.com/artist/3RcpwEmMSqD1EysycFp689"
+        },
+        {
+          "name": "Duff McKagan",
+          "url": "https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Cesar Gueikian",
+          "url": "https://open.spotify.com/artist/0oAV1TRT03wZlwmLzaRf60"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358602,
+      "name": "I Can Breathe",
+      "url": "https://open.spotify.com/track/0mJ1BPZNvivl82VoZWxdIN"
     },
     {
       "album": {
@@ -12740,7 +12788,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 212310,
       "name": "Paralyzed (feat. Attack Attack!)",
       "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"

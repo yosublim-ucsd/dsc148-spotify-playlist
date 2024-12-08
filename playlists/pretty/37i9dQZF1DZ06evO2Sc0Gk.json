@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19666,
+  "num_followers": 19668,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADKrEuFgeJO0oY0vqbeqcEq",
+  "snapshot_id": "Z1I+gAAAAABV+4jHWS3UlJciYeiQM5qp",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For My Head",
         "url": "https://open.spotify.com/album/2KWphjOXkBBrKcMA7YDHht"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 160012,
       "name": "For My Head",
       "url": "https://open.spotify.com/track/2MctqofDb7O3NA0gpsAu3U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
     },
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dpos D' Quarentena",
+        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 167875,
+      "name": "Tellin Me Something",
+      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 146249,
       "name": "Legalize",
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dpos D' Quarentena",
-        "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 167875,
-      "name": "Tellin Me Something",
-      "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
     },
     {
       "added_at": null,
@@ -699,30 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Life Is Eazi",
-      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -763,6 +739,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Life Is Eazi",
+      "url": "https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
       "artists": [
         {
@@ -800,13 +800,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,

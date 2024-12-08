@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 449793,
+  "num_followers": 449998,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,22 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Somewhere in Time (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+        "name": "You Won't Go Before You're Supposed To",
+        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 309640,
-      "name": "Wasted Years - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH"
+      "duration_ms": 164695,
+      "name": "Suffocate (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "You Won't Go Before You're Supposed To",
-        "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
       },
       "artists": [
         {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 164695,
-      "name": "Suffocate (feat. Poppy)",
-      "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
       "artists": [
         {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Heaven Let Them Die",
-        "url": "https://open.spotify.com/album/5pdSJTWNlQj6RJbYPgTFGZ"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "A Martyr Left Alive",
-      "url": "https://open.spotify.com/track/6ajfXivkRaEKfnDWBYnN2D"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "on the verge",
         "url": "https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 134400,
       "name": "on the verge",
       "url": "https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Heaven Let Them Die",
+        "url": "https://open.spotify.com/album/5pdSJTWNlQj6RJbYPgTFGZ"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "A Martyr Left Alive",
+      "url": "https://open.spotify.com/track/6ajfXivkRaEKfnDWBYnN2D"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Shadows Inside",
-        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
+        "name": "IF IT DOESN'T HURT",
+        "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
         }
       ],
-      "duration_ms": 236549,
-      "name": "Shadows Inside",
-      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
+      "duration_ms": 179225,
+      "name": "IF IT DOESN'T HURT",
+      "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "IF IT DOESN'T HURT",
-        "url": "https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo"
+        "name": "Shadows Inside",
+        "url": "https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 179225,
-      "name": "IF IT DOESN'T HURT",
-      "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
+      "duration_ms": 236549,
+      "name": "Shadows Inside",
+      "url": "https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Meliora (Redux)",
-        "url": "https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "A Man with a Plan",
         "url": "https://open.spotify.com/album/21oFR2AOxOiVXa99ZJCkhP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 179820,
       "name": "A Man with a Plan",
       "url": "https://open.spotify.com/track/0QW8MW9NKqmhqnaVDtXXw9"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Meliora (Redux)",
+        "url": "https://open.spotify.com/album/5HZKJCYNwSyMSo0oylwCHu"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/4AbGkIVQC5wLDPOFjdEjDu"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
+        "name": "Nonpoint",
+        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "That Day",
+      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
         "name": "Cannibal (feat. Anders Frid\u00e9n)",
         "url": "https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP"
       },
@@ -1751,24 +1767,8 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Nonpoint",
-        "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "That Day",
-      "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
+        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
       "artists": [
         {
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+      "duration_ms": 217847,
+      "name": "Burn MF",
+      "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Lux \u00c6terna",
-        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 205679,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 324426,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Lux \u00c6terna",
+        "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1915,8 +1915,8 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
-        "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
       },
       "artists": [
         {
@@ -1924,9 +1924,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 217847,
-      "name": "Burn MF",
-      "url": "https://open.spotify.com/track/1wF63HajppiUOdcAbp7YHh"
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1943,22 +1943,6 @@
       "duration_ms": 456320,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 231444,
       "name": "Amaranth",
       "url": "https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "Erase Me",
-        "url": "https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "The Black",
         "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 253863,
       "name": "Beyond the Pale",
       "url": "https://open.spotify.com/track/5oB8lvHx6Ww4QC02EBUjRc"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
     },
     {
       "added_at": "2024-11-15 06:03:00",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2024-11-15 06:03:00",
       "album": {
-        "name": "The End of All We Know",
-        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 251512,
-      "name": "The End of All We Know",
-      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
-    },
-    {
-      "added_at": "2024-11-15 06:03:00",
-      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 257142,
       "name": "Get That Done",
       "url": "https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk"
+    },
+    {
+      "added_at": "2024-11-15 06:03:00",
+      "album": {
+        "name": "The End of All We Know",
+        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 251512,
+      "name": "The End of All We Know",
+      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
     },
     {
       "added_at": "2024-11-15 06:03:00",

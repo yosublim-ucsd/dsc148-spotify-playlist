@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 116193,
+  "num_followers": 116201,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADQgmGLccy1XRgoxoZQX6WG",
+  "snapshot_id": "Z1I+gAAAAAAZq+Yw4r7iFZyy1AzksKx9",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 205803,
-      "name": "Clout (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 205803,
+      "name": "Clout (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 191466,
       "name": "DON'T YOU LIE",
       "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like Hell (feat. Offset)",
-        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 207108,
-      "name": "Hurts Like Hell (feat. Offset)",
-      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 168426,
       "name": "BROAD DAY (feat. Future)",
       "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurts Like Hell (feat. Offset)",
+        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 207108,
+      "name": "Hurts Like Hell (feat. Offset)",
+      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JEFFERY",
         "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
       },
@@ -863,46 +883,6 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Droptopwop",
-        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Met Gala (feat. Offset)",
-      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 204515,
       "name": "Lick",
       "url": "https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     },
     {
       "added_at": null,

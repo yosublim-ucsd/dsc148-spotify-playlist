@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 111399,
+  "num_followers": 111395,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Turuncu",
-        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Kumsalda",
-      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
-    },
-    {
-      "added_at": "2024-07-08 08:26:10",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 262246,
       "name": "A\u015fk",
       "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
+    },
+    {
+      "added_at": "2024-07-08 08:26:10",
+      "album": {
+        "name": "Turuncu",
+        "url": "https://open.spotify.com/album/1phjztIsbUr26BqjYWh2QO"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Kumsalda",
+      "url": "https://open.spotify.com/track/44P48IXl8neXU8K3YAKabd"
     },
     {
       "added_at": "2024-07-08 08:26:10",

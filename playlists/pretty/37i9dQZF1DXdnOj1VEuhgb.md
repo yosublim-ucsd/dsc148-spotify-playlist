@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ahiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,307 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,306 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [ZIGANA](https://open.spotify.com/track/6Z5MzcUqwedZP37qzWBYel) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ZIGANA](https://open.spotify.com/album/3l4VxSzMwJCJTf7Mqcxctj) | 2:05 |
 | 6 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 7 | [Benle misin?](https://open.spotify.com/track/7pKQW0fQpTWf6mtH6elbUY) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Benle misin?](https://open.spotify.com/album/6EojRsheBze5q2Y6yNeKNL) | 1:56 |
-| 8 | [MAHALLEM](https://open.spotify.com/track/67jYpqdyhaCKuhaHWNRxVa) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [€urosport](https://open.spotify.com/album/4x75dVCTyZwlV5caBhbWLD) | 3:28 |
+| 8 | [MAHALLEM](https://open.spotify.com/track/67jYpqdyhaCKuhaHWNRxVa) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2), [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [€urosport](https://open.spotify.com/album/4x75dVCTyZwlV5caBhbWLD) | 3:28 |
 | 9 | [Gıyabında](https://open.spotify.com/track/20D4qCsLFK3xGBuoXEuL2C) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Brumend](https://open.spotify.com/artist/3MNPjNqMCYHaxQYj8lf0ZP) | [Gıyabında](https://open.spotify.com/album/6GubQZ8EPm7UV3aBsVSmfW) | 4:09 |
 | 10 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 |
 | 11 | [spacetusu](https://open.spotify.com/track/04G66YxLhD9xLQJRzHHHpn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [taycan](https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ) | 5:18 |

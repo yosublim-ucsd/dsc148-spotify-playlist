@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 450695,
+  "num_followers": 450742,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1249,26 +1249,6 @@
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Hit The Wax",
-        "url": "https://open.spotify.com/album/5eSHQ0zrATkKijBQKzHMrS"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Hit The Wax",
-      "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "Backstage Baddies",
@@ -1307,6 +1287,26 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Hit The Wax",
+        "url": "https://open.spotify.com/album/5eSHQ0zrATkKijBQKzHMrS"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Hit The Wax",
+      "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1393,26 +1393,6 @@
       "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "64 Impala",
-        "url": "https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        },
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "64 Impala",
-      "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Enemy",
@@ -1431,6 +1411,26 @@
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "64 Impala",
+        "url": "https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "64 Impala",
+      "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1821,6 +1821,26 @@
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Consume It",
+        "url": "https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        },
+        {
+          "name": "Veste",
+          "url": "https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O"
+        }
+      ],
+      "duration_ms": 183979,
+      "name": "Consume It",
+      "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Look At Me",
@@ -1855,26 +1875,6 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Consume It",
-        "url": "https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07"
-      },
-      "artists": [
-        {
-          "name": "Where It's ATT",
-          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
-        },
-        {
-          "name": "Veste",
-          "url": "https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O"
-        }
-      ],
-      "duration_ms": 183979,
-      "name": "Consume It",
-      "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1917,6 +1917,22 @@
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Seduction",
@@ -1935,22 +1951,6 @@
       "duration_ms": 251355,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/4cga9ylIVzS6n0Hs1OGv1u"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1985,20 +1985,24 @@
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Sound Of House",
-        "url": "https://open.spotify.com/album/1QmtTqMYdMIGegxlOYprUI"
+        "name": "A Prayer",
+        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 154615,
-      "name": "The Sound Of House",
-      "url": "https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ"
+      "duration_ms": 210000,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2021,24 +2025,56 @@
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "A Prayer",
-        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
+        "name": "The Sound Of House",
+        "url": "https://open.spotify.com/album/1QmtTqMYdMIGegxlOYprUI"
       },
       "artists": [
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
         }
       ],
-      "duration_ms": 210000,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+      "duration_ms": 154615,
+      "name": "The Sound Of House",
+      "url": "https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ"
+    },
+    {
+      "added_at": "2024-08-16 14:00:00",
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/4Futqdz65JImRIxgili4sx"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "AUTOMATIC",
+        "url": "https://open.spotify.com/album/7xCjJcGKQkpZuwEP0svxQw"
+      },
+      "artists": [
+        {
+          "name": "Typo",
+          "url": "https://open.spotify.com/artist/0aUArZHfdqnFPj0ASdHAoa"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "AUTOMATIC",
+      "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2069,26 +2105,6 @@
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
-      "added_at": "2024-08-16 14:00:00",
-      "album": {
-        "name": "Magnificent",
-        "url": "https://open.spotify.com/album/4Futqdz65JImRIxgili4sx"
-      },
-      "artists": [
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        },
-        {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "In My Mind",
@@ -2103,42 +2119,6 @@
       "duration_ms": 189214,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "AUTOMATIC",
-        "url": "https://open.spotify.com/album/7xCjJcGKQkpZuwEP0svxQw"
-      },
-      "artists": [
-        {
-          "name": "Typo",
-          "url": "https://open.spotify.com/artist/0aUArZHfdqnFPj0ASdHAoa"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "AUTOMATIC",
-      "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
-    },
-    {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2159,6 +2139,26 @@
       "duration_ms": 217142,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2209,20 +2209,20 @@
       "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-06-28 14:01:45",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
       },
       "artists": [
         {
-          "name": "THYKIER",
-          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2239,6 +2239,22 @@
       "duration_ms": 183307,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/0ZdhBVJmb92MDYVh4bQ4nA"
+      },
+      "artists": [
+        {
+          "name": "THYKIER",
+          "url": "https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -2259,22 +2275,6 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2349,28 +2349,36 @@
       "url": "https://open.spotify.com/track/51RyFJOz0BbV979nxqDgvq"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-08-16 14:00:00",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/14ODkgiFnF1t2ob4e7ygUW"
+        "name": "Pump The Bass",
+        "url": "https://open.spotify.com/album/45K47FDDqFIcAQslA77hf4"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 200952,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9"
+      "duration_ms": 187031,
+      "name": "Pump The Bass",
+      "url": "https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nightcap",
+        "url": "https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Nightcap",
+      "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2403,22 +2411,6 @@
       "duration_ms": 139077,
       "name": "Underground Bass",
       "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Nightcap",
-        "url": "https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Nightcap",
-      "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
     }
   ],
   "unique_name": "Nasty Bits",

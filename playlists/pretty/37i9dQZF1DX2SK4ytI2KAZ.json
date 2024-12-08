@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1503007,
+  "num_followers": 1502975,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "Always, Everytime",
         "url": "https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+        "name": "Sorry I'm Late, I Didn't Want To Come",
+        "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+      "duration_ms": 199760,
+      "name": "Sorry I'm Late, I Didn't Want To Come",
+      "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -779,22 +795,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "Sorry I'm Late, I Didn't Want To Come",
-        "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "Sorry I'm Late, I Didn't Want To Come",
-      "url": "https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "desire",
-        "url": "https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "desire",
-      "url": "https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "desire",
+        "url": "https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "desire",
+      "url": "https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1091,54 +1091,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "I'm Not Afraid Of Music Anymore",
-        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Along For The Ride",
-      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -1159,6 +1111,22 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -1175,6 +1143,38 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "I'm Not Afraid Of Music Anymore",
+        "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 177071,
+      "name": "Along For The Ride",
+      "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Tell My Therapist I'm Fine",
+        "url": "https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "My Serotonin",
+      "url": "https://open.spotify.com/track/0KkCQEj9RMsgUfbVnOZzX8"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Tell My Therapist I'm Fine",
-        "url": "https://open.spotify.com/album/4bJrdorT0Jsg6IF3wNRF5w"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "My Serotonin",
-      "url": "https://open.spotify.com/track/0KkCQEj9RMsgUfbVnOZzX8"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1303,6 +1287,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222297,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222297,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "I Look Alive",
-        "url": "https://open.spotify.com/album/4i4HgvJHB3O2cLvAcKOBeY"
-      },
-      "artists": [
-        {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "I Look Alive",
-      "url": "https://open.spotify.com/track/5vdLIDyjCWDzUGx71q3nOa"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "I Look Alive",
+        "url": "https://open.spotify.com/album/4i4HgvJHB3O2cLvAcKOBeY"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "I Look Alive",
+      "url": "https://open.spotify.com/track/5vdLIDyjCWDzUGx71q3nOa"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Dead Club City (Deluxe)",
-        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Time :: Fate :: Karma :: God",
-      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -1791,6 +1775,38 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Talker",
+        "url": "https://open.spotify.com/album/1CPOzsnaDG487fMP34wKW3"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Higher Than Most",
+      "url": "https://open.spotify.com/track/3UfiB7OvlXL2RFmkQuqO5q"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Talker",
-        "url": "https://open.spotify.com/album/1CPOzsnaDG487fMP34wKW3"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
-      "duration_ms": 200613,
-      "name": "Higher Than Most",
-      "url": "https://open.spotify.com/track/3UfiB7OvlXL2RFmkQuqO5q"
+      "duration_ms": 226680,
+      "name": "What Now",
+      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1843,6 +1859,22 @@
       "duration_ms": 137404,
       "name": "hotline",
       "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "MONO",
+        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1867,54 +1899,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "stay late",
-        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
-      },
-      "artists": [
-        {
-          "name": "Clubhouse",
-          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "stay late",
-      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "MONO",
-        "url": "https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Punisher",
-      "url": "https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "What Now",
-      "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "run away girl",
-        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
+        "name": "stay late",
+        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
         }
       ],
-      "duration_ms": 230552,
-      "name": "run away girl",
-      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+      "duration_ms": 173283,
+      "name": "stay late",
+      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1959,6 +1943,22 @@
       "duration_ms": 203908,
       "name": "Ground Control",
       "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "run away girl",
+        "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 230552,
+      "name": "run away girl",
+      "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
     },
     {
       "added_at": "2024-10-18 18:01:14",

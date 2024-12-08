@@ -2435,6 +2435,32 @@
     },
     {
       "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203061,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP"
+    },
+    {
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
       },

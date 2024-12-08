@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,397 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,431 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 92 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
 | 93 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/59y1GvRkizGx5nAJpUbj4o) | 4:11 |
 | 94 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
-| 95 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
-| 96 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |
-| 97 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 |
-| 98 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
+| 95 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |
+| 96 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
+| 97 | [SuperLove](https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SuperLove](https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU) | 3:13 |
+| 98 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 |
 | 99 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 |
 | 100 | [Tom's Diner \(feat\. Britney Spears\)](https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp) | [Giorgio Moroder](https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Déjà vu](https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr) | 3:32 |
 

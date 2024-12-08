@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 
 > <a href="spotify:user:spotify:playlist:37i9dQZF1DWXQXM7agvwjO">.ORG</a>  presents Asian Indie songs we loved the most in 2024\. \#SpotifyWrapped Cover: Thee Marloes
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,806 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,824 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pnRTWkm9D7.md) - [plain]
 | 59 | [Maniac](https://open.spotify.com/track/7plWPKFiIFsLylrUGjQLK9) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [blank](https://open.spotify.com/album/0EJiS68X3eMoUx5bggiPLc) | 3:36 |
 | 60 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 |
 | 61 | [dance](https://open.spotify.com/track/2KyzGC7OrLRCTzUBgMneK0) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [South Penguin](https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p) | 3:13 |
-| 62 | [matters of the heart](https://open.spotify.com/track/3oxyNDng9iiFvEVY2oVNah) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 3:24 |
+| 62 | [matters of the heart](https://open.spotify.com/track/3oxyNDng9iiFvEVY2oVNah) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 3:24 |
 | 63 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 |
 | 64 | [Raining In Manila](https://open.spotify.com/track/21LiJ0I7bH4IzhMdft5x0t) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 4:51 |
 | 65 | [loose ends](https://open.spotify.com/track/41ebdHkSEAtXHiDEv4FION) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [loose ends](https://open.spotify.com/album/0jvScbCxaPwBztE5hufbUV) | 2:48 |

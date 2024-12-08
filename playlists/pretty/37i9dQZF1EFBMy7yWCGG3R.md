@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,174 likes - 253 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,175 likes - 254 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,7 +259,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 249 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
 | 250 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 251 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
-| 252 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
-| 253 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
+| 252 | [Dizzy](https://open.spotify.com/track/0GOkOTy7M5LuKm3XeUPLLF) | [The CEO's](https://open.spotify.com/artist/3Xw4srRxiDAhrg78Ey1dGR) | [CEO Baby](https://open.spotify.com/album/7MrLU3MwNH0Q9F7hGbDSGA) | 1:52 |
+| 253 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
+| 254 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbjctAAAAAAwxeJXgz6HxRFhEE6ofdNA`
+Snapshot ID: `AbjiQAAAAACQI9sGX9TGqEhxVU1szFIA`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 442616,
+  "num_followers": 442717,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACPlI7lm3izJfKI3r5LqIsz",
+  "snapshot_id": "Z1I+gAAAAABoP2pFtMiRCpQZqmt9g+yv",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 155292,
+      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 155292,
-      "name": "HOT WIND BLOWS (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 324189,
+      "name": "Mona Lisa (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hall Of Fame (Deluxe)",
         "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 235186,
       "name": "Beware",
       "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
-      },
-      "artists": [
-        {
-          "name": "Kevin Rudolf",
-          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 334363,
       "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
       "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
+      },
+      "artists": [
+        {
+          "name": "Kevin Rudolf",
+          "url": "https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
     },
     {
       "added_at": null,

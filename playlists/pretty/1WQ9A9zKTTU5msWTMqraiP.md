@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 251 songs - 17 hr 30 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 252 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,5 +259,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 249 | [Left to Rot](https://open.spotify.com/track/0QlbHPe8kBBGU89Z1TnMAc) | [Shores Of Lunacy](https://open.spotify.com/artist/6xXxjJWRStk7C6hteitGN1), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Left to Rot](https://open.spotify.com/album/6jZQmfa8l5K6ublDx0S5my) | 4:49 |
 | 250 | [Radiance](https://open.spotify.com/track/7mdh10Y5dQsa3O0sYMM4zv) | [Fire Keeper](https://open.spotify.com/artist/5fiapO3g8KTdvJAzQU8fzB), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Firekeeper](https://open.spotify.com/album/24uoKtYpdhurXvMI2uxnzu) | 4:20 |
 | 251 | [Immortalize](https://open.spotify.com/track/3pXpktbTqeYdZSswpxKmnx) | [Ruins of Perception](https://open.spotify.com/artist/2s5wWlq89QJWGwnpw0fLdI) | [Immortalize](https://open.spotify.com/album/32ZVSj5PM7VQSs0FvNYss2) | 6:11 |
+| 252 | [Whispers From The Depths](https://open.spotify.com/track/4OWHcUBxtqgzqzj1Ci4wav) | [Obey The Kraken](https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx) | [Whispers From The Depths](https://open.spotify.com/album/0wIDUDXkkGtPAjFqNH5qqU) | 3:16 |
 
-Snapshot ID: `AAABaA853uMHuLdDC1I4ZapiH6xfZRFd`
+Snapshot ID: `AAABaaopsOV7qTentY5YNlOiPjSFuOUx`

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-177 songs - 12 hr 17 min
+178 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Rakit \(OST 172 Days\)](https://open.spotify.com/track/3fpqUsMNqKg6sLPEkOPW2w) | [Nadzira Shafa](https://open.spotify.com/artist/3XzmTEQR3TMBJWJqE4Vtos) | [Rakit \(OST 172 Days\)](https://open.spotify.com/album/1Gca5YKBZFnKnhcaZYvzMM) | 4:38 | 2023-12-06 | 2024-02-01 |
 | [Resah Jadi Luka](https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL) | 4:50 | 2022-11-28 | 2024-04-19 |
 | [Risalah Hati](https://open.spotify.com/track/0cc9lgdfHqeS8t9BzbFFmj) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Bintang Lima](https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ) | 4:52 | 2022-11-28 | 2024-10-09 |
-| [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 | 2022-11-28 |  |
+| [Risalah Hati](https://open.spotify.com/track/5h51lTy1jYDDkYLALQrzX9) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Pupus / Risalah Hati](https://open.spotify.com/album/2Hjub1YpegaAmIf2TULKki) | 5:01 | 2022-11-28 | 2024-12-08 |
 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 | 2022-11-28 |  |
 | [Rumah Singgah](https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [ASHER](https://open.spotify.com/album/2HNKo2vMGhc9wON4NDfb04) | 4:06 | 2023-12-13 | 2024-04-19 |
 | [Rumah Singgah](https://open.spotify.com/track/3w75Uvn1cojNlBhQoxpVP3) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Rumah Singgah](https://open.spotify.com/album/1shpGa8sRQWZqn9n5jX53o) | 4:06 | 2022-11-28 | 2023-02-06 |
@@ -176,6 +176,7 @@
 | [Tentang Sahabat](https://open.spotify.com/track/1FXKs10YxTmwkqHWqfd6md) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW), [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Tentang Sahabat](https://open.spotify.com/album/3L5k73YkWSXL7xKH6Y3ehr) | 3:55 | 2023-06-23 | 2023-06-27 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-04-23 | 2024-09-03 |
 | [Terbangun Sendiri](https://open.spotify.com/track/7igeGZpejfxM7N8RL6xAvI) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Seperti Seharusnya](https://open.spotify.com/album/4zQgXju45dVJACZosujFtw) | 4:33 | 2023-07-06 | 2023-08-10 |
+| [Terlalu Cinta](https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Yang Terpilih](https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A) | 4:08 | 2024-11-22 |  |
 | [Ternyata Hanya Kamu](https://open.spotify.com/track/1Cm9rVxlCWgGqB3Y3kmJCh) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Ternyata Hanya Kamu](https://open.spotify.com/album/1H0CPGh2BWcQMJ2t8tbOgV) | 4:44 | 2022-11-28 | 2023-04-21 |
 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 | 2024-11-22 |  |
 | [Tertawan Hati](https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tertawan Hati](https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo) | 3:57 | 2023-09-28 | 2024-04-19 |

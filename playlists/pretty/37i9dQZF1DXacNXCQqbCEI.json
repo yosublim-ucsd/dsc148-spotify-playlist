@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354248,
+  "num_followers": 354264,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 221298,
-      "name": "Austral",
-      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Siesta",
         "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 199799,
       "name": "Frio Severo",
       "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "Austral",
+      "url": "https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Amanecer\u00e1 (Bial Hclap Remix)",
-        "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
       "artists": [
         {
-          "name": "Monta\u00f1era",
-          "url": "https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv"
-        },
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
         }
       ],
-      "duration_ms": 186818,
-      "name": "Amanecer\u00e1 - Bial Hclap Remix",
-      "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
+      "duration_ms": 179634,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

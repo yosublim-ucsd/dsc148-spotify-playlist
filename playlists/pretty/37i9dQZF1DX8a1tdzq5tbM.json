@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1630777,
+  "num_followers": 1631102,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 189388,
       "name": "Believer (feat. Wynter Gordon) - Radio Edit",
       "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
+      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1767,30 +1787,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Ned Shephard",
-          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
-        },
-        {
-          "name": "Sultan",
-          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
       },
@@ -1823,6 +1819,30 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Ned Shephard",
+          "url": "https://open.spotify.com/artist/7JgG0M8DYJUL02qyIwVkEr"
+        },
+        {
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/14OWrFlSp0Wj5RBuk4hC3b"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1923,26 +1943,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1963,38 +1963,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
       "artists": [
         {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         },
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
         }
       ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "presents Traffic Signs",
-        "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
-      },
-      "artists": [
-        {
-          "name": "Traffic Signs",
-          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
-        }
-      ],
-      "duration_ms": 384983,
-      "name": "The Big Fake",
-      "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2011,6 +1995,38 @@
       "duration_ms": 169093,
       "name": "Faded",
       "url": "https://open.spotify.com/track/2nJT8KecVBQmZxbfkgoAfz"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Strange Condition",
+        "url": "https://open.spotify.com/album/5uXCRUQ1S45rqqSBlYfy1C"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Strange Condition - Inpetto Radio Edit",
+      "url": "https://open.spotify.com/track/53gU1D9rFr0OkiJRxc4xYX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "presents Traffic Signs",
+        "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
+      },
+      "artists": [
+        {
+          "name": "Traffic Signs",
+          "url": "https://open.spotify.com/artist/2r0cOBq375zqYS7yu0vg92"
+        }
+      ],
+      "duration_ms": 384983,
+      "name": "The Big Fake",
+      "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2083,22 +2099,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Strange Condition",
-        "url": "https://open.spotify.com/album/5uXCRUQ1S45rqqSBlYfy1C"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Strange Condition - Inpetto Radio Edit",
-      "url": "https://open.spotify.com/track/53gU1D9rFr0OkiJRxc4xYX"
     },
     {
       "added_at": "2024-07-12 15:40:20",

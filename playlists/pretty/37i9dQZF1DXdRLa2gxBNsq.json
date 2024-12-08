@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 108998,
+  "num_followers": 109033,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
       "artists": [
         {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
         }
       ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
       "artists": [
         {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Palestina",
+        "url": "https://open.spotify.com/album/2fVWsPcVgJFh79c2MlJaWJ"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Palestina",
+      "url": "https://open.spotify.com/track/6pxqXxJcvdSIvCklih7u6A"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Palestina",
-        "url": "https://open.spotify.com/album/2fVWsPcVgJFh79c2MlJaWJ"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Palestina",
-      "url": "https://open.spotify.com/track/6pxqXxJcvdSIvCklih7u6A"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Coraz\u00f3n ardiendo",
+        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Coraz\u00f3n ardiendo",
+      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "A Cara de Perro",
         "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Coraz\u00f3n ardiendo",
-        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Coraz\u00f3n ardiendo",
-      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Anda y Que Te Den",
-        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 224172,
-      "name": "Anda y Que Te Den",
-      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 64999,
       "name": "Narco",
       "url": "https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Anda y Que Te Den",
+        "url": "https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 224172,
+      "name": "Anda y Que Te Den",
+      "url": "https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "El Infierno Es Demasiado Dulce",
         "url": "https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 170290,
       "name": "El Infierno Es Demasiado Dulce",
       "url": "https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
+      },
+      "artists": [
+        {
+          "name": "Salvate Si Puedes",
+          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "El Mundo Arder (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/3ESvrH1oACPDwKuTXMPXgH"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 162205,
       "name": "El Mundo Arder - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/2xLzcyPj970wUwExqxu4c2"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
-      },
-      "artists": [
-        {
-          "name": "Salvate Si Puedes",
-          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
     },
     {
       "added_at": "2024-12-05 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,023 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,261 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 35 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 36 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 37 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
-| 38 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
+| 38 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
 | 39 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
 | 40 | [All Your Pain](https://open.spotify.com/track/1G3YnLyBs329AAIohKXoLX) | [Nite](https://open.spotify.com/artist/2tXXoTykabsZNETr1Sr1zC) | [Have Mercy](https://open.spotify.com/album/5qt6OZwknTuEmEfLOJpkvL) | 4:00 |
-| 41 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 41 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
 | 42 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 | 43 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
 | 44 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 72 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 |
 | 73 | [Wild World](https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL) | [Love Is Colder Than Death](https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7) | [Teignmouth](https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc) | 4:21 |
 | 74 | [Rumours](https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS) | [The Beauty of Gemina](https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU) | [At the End of the Sea](https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S) | 3:55 |
-| 75 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
-| 76 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
+| 75 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
+| 76 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
 | 77 | [Fuse](https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Fuse](https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw) | 3:36 |
 | 78 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 79 | [Bella Donna](https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [Maria Dimension](https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG) | 4:07 |

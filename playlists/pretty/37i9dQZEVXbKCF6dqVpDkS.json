@@ -1,15 +1,67 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 917027,
+  "num_followers": 916995,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LuZooAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lue8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/2zhqn8LO2ce6NgyQlO3n1Q"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 185532,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2usgKLp2V6HTqOXh9rlETr"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -45,123 +97,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 63626,
-      "name": "Zie Ginds Komt De Stoomboot",
-      "url": "https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 42093,
-      "name": "Sinterklaas Kapoentje",
-      "url": "https://open.spotify.com/track/3r0TH3SP5bIRMgGpo1ZEjR"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 91160,
-      "name": "Hoor De Wind Waait Door De Bomen",
-      "url": "https://open.spotify.com/track/55Fdq7Gz3uCCEP7xtyikiq"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        },
-        {
-          "name": "Kinderliedjes Om Mee Te Zingen",
-          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
-        }
-      ],
-      "duration_ms": 93994,
-      "name": "Sinterklaasje kom maar binnen",
-      "url": "https://open.spotify.com/track/2va7hTvr8psGLxZoxkrTwd"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Terug In De Tijd",
         "url": "https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS"
@@ -177,7 +113,7 @@
       "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
@@ -197,139 +133,91 @@
       "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         },
         {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 70453,
-      "name": "Hoor Wie Klopt Daar Kinderen",
-      "url": "https://open.spotify.com/track/0ULIwF6El7CvS6fVslrD7c"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 47320,
-      "name": "Hij Komt, Hij Komt",
-      "url": "https://open.spotify.com/track/0t0oGLmuoBd5xqTLNkLlkX"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 36173,
-      "name": "Sinterklaasje Bonne Bonne Bonne",
-      "url": "https://open.spotify.com/track/6dWXUUnFdxvvpfqUrf7Myt"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 67333,
-      "name": "De Zak Van Sinterklaas",
-      "url": "https://open.spotify.com/track/4DywzzJMofsBLai1RO3oXb"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 40800,
-      "name": "Dag Sinterklaasje",
-      "url": "https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -345,263 +233,55 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 36026,
-      "name": "Sinterklaas Wie Kent Hem Niet",
-      "url": "https://open.spotify.com/track/0HDGca5yljtubIKv8sfAmz"
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes",
-        "url": "https://open.spotify.com/album/6THmjT9v5GlxEYM0v1eOAw"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        },
-        {
-          "name": "Kinderliedjes Om Mee Te Zingen",
-          "url": "https://open.spotify.com/artist/0KI6HIuDsZdmZ65lpnZHpt"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 72702,
-      "name": "Zie de maan schijnt door de bomen - Nederlands",
-      "url": "https://open.spotify.com/track/5CBv0yxnw9SMrNQD1rGZSE"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 89160,
-      "name": "Oh Kom Er Eens Kijken",
-      "url": "https://open.spotify.com/track/0i1G8lq7OoE2Dverts6OoC"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 88200,
-      "name": "Jongens, Heb Je 't Al Vernomen",
-      "url": "https://open.spotify.com/track/6HlytDgbNe2xJREe9XjKru"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 55453,
-      "name": "Wie Komt Er Alle Jaren",
-      "url": "https://open.spotify.com/track/4Xvq0McZanuNuROuA6IsQb"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes 2023 met Juf Roos",
-        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
-      },
-      "artists": [
-        {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
-        }
-      ],
-      "duration_ms": 49473,
-      "name": "Sinterklaasje Kom Maar Binnen",
-      "url": "https://open.spotify.com/track/5dJJiGqsskjq7OSwNgbHoI"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 52146,
-      "name": "Daar Wordt Aan De Deur Geklopt",
-      "url": "https://open.spotify.com/track/1ok5ni0Bt4SdX7bWckSemo"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 91933,
-      "name": "Zachtjes Gaan De Paardenvoetjes",
-      "url": "https://open.spotify.com/track/0ag6qgkabOCkXDyREM7K17"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 57146,
-      "name": "Sinterklaas Is Jarig",
-      "url": "https://open.spotify.com/track/4xwh0OgPHCFexcDzIVwx2Z"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes 2023 met Juf Roos",
-        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
-      },
-      "artists": [
-        {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
-        }
-      ],
-      "duration_ms": 55280,
-      "name": "Sinterklaas kapoentje",
-      "url": "https://open.spotify.com/track/1FDrCkCH1EU3k95q4NTMw2"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 88040,
-      "name": "Pepernotensamba",
-      "url": "https://open.spotify.com/track/1YDl0IczCuQwFoUjvWbZXI"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
-      },
-      "artists": [
-        {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
-        }
-      ],
-      "duration_ms": 57173,
-      "name": "Snelle Piet Ging Uit Fietsen",
-      "url": "https://open.spotify.com/track/7lgfaCuIBLt0MuwQLlTt8B"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
@@ -621,91 +301,87 @@
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes om mee te zingen",
-        "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
       },
       "artists": [
         {
-          "name": "Alles Kids",
-          "url": "https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd"
-        },
-        {
-          "name": "Sinterklaasliedjes Alles Kids",
-          "url": "https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 70186,
-      "name": "Hee, Zeg Piet, Wiedewiedewiet",
-      "url": "https://open.spotify.com/track/6ADDYhtzdIS8cZ9o4tGGh9"
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
-        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 69230,
-      "name": "De baard van Sinterklaas",
-      "url": "https://open.spotify.com/track/5jNJW37E96IgROig56mIEJ"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Sinterklaasliedjes 2023 met Juf Roos",
-        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
       "artists": [
         {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 75453,
-      "name": "Zie ginds komt de stoomboot",
-      "url": "https://open.spotify.com/track/1grKwGKpBGvX3yp889hXEV"
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Nieuwe Sinterklaas liedjes van Juf Roos 2024",
-        "url": "https://open.spotify.com/album/1w3S0CxxW0WZly50m0gD2H"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
       "artists": [
         {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 72537,
-      "name": "De Sint staat te zwaaien",
-      "url": "https://open.spotify.com/track/1yRXOPJ7qMlp2ZRuJ3tAbB"
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "MULALA",
         "url": "https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc"
@@ -721,103 +397,23 @@
       "url": "https://open.spotify.com/track/3ZEZUgpOUO4Po0eXtBt4oF"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 182066,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Sinterklaasliedjes 2023 met Juf Roos",
-        "url": "https://open.spotify.com/album/3tpRARBwc7u2Xb2Bsd5P9Q"
-      },
-      "artists": [
-        {
-          "name": "Juf Roos",
-          "url": "https://open.spotify.com/artist/0iPd49ijIfA2JCZSZ4QDPv"
-        }
-      ],
-      "duration_ms": 68052,
-      "name": "De Sint is in het land",
-      "url": "https://open.spotify.com/track/1Mrg3AtmOUHeHnum2bOzrM"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Mega Sint Hits",
-        "url": "https://open.spotify.com/album/1e2dHrupiMOpPNnvqn2UJ4"
-      },
-      "artists": [
-        {
-          "name": "Party Piet Pablo",
-          "url": "https://open.spotify.com/artist/1s3i7nR3SaBR77Oia1kbfW"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "De pieten sinterklaas move",
-      "url": "https://open.spotify.com/track/1rDip8Mu350sCDFWoOawWI"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Vaag (REMIX)",
         "url": "https://open.spotify.com/album/70Z3IiTGPIXykQLl93dyJl"
@@ -849,7 +445,39 @@
       "url": "https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/5o0osRx8kYJTOqlOSggr9Z"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -865,39 +493,75 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 151933,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Black Friday (pretty like the sun)",
+        "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 145599,
+      "name": "Black Friday (pretty like the sun)",
+      "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -913,20 +577,332 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2024-12-06 12:44:00",
+      "added_at": "2024-12-07 12:58:14",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "chille guy",
+        "url": "https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 100279,
+      "name": "chille guy",
+      "url": "https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Hitte In De Winternacht",
+        "url": "https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 190537,
+      "name": "Hitte In De Winternacht",
+      "url": "https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/3DM3gdHUikk1cg3drYg9Ww"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 145354,
+      "name": "PRETTY GIRLS",
+      "url": "https://open.spotify.com/track/4vW57jBzQQ8Q9MwUibzmir"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 164757,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "I Adore You (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "I Adore You (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Zoet, Zout, Zuur",
+        "url": "https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 180778,
+      "name": "Zoet, Zout, Zuur",
+      "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Orso",
+          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
+        },
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Gaan We Weg?",
+        "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 141775,
+      "name": "Gaan We Weg?",
+      "url": "https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "added_at": "2024-12-07 12:58:14",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

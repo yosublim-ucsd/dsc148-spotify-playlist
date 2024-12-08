@@ -1,12 +1,12 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 25033,
+  "num_followers": 25049,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
     "url": "https://open.spotify.com/user/playlists.germany"
   },
-  "snapshot_id": "AAABq8SVkKE7dCNWJRllHdEueGlE6glK",
+  "snapshot_id": "AAABs90sZybFcHPmVYfxwhqJtTNXnDtQ",
   "tracks": [
     {
       "added_at": "2023-08-29 04:45:45",
@@ -213,28 +213,28 @@
       "url": "https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw"
     },
     {
-      "added_at": "2023-01-21 04:52:48",
+      "added_at": "2024-12-07 03:56:35",
       "album": {
-        "name": "VI. Sea Ice Melting",
-        "url": "https://open.spotify.com/album/2ox1xwPlm4aPF3sRfHDeX3"
+        "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+        "url": "https://open.spotify.com/album/77OEhTZfHsYNyMfHBJoCof"
       },
       "artists": [
         {
-          "name": "Jacob Shea",
-          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
-          "name": "Eldbj\u00f8rg Hemsing",
-          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         },
         {
-          "name": "Arctic Philharmonic",
-          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
+          "name": "Michael Bosch",
+          "url": "https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s"
         }
       ],
-      "duration_ms": 224773,
-      "name": "The Arctic Suite: VI. Sea Ice Melting",
-      "url": "https://open.spotify.com/track/3ahaOgoTlAc9jJlkMsWeEG"
+      "duration_ms": 195960,
+      "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+      "url": "https://open.spotify.com/track/0cwDtnv4PUyNr6ppd05DcQ"
     },
     {
       "added_at": "2022-09-17 04:44:43",
@@ -293,6 +293,42 @@
       "url": "https://open.spotify.com/track/7HRiyA2SaZytKrpa72PGHh"
     },
     {
+      "added_at": "2024-12-07 03:56:35",
+      "album": {
+        "name": "The Prince of Egypt Suite",
+        "url": "https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gan-Ya Ben-Gur Akselrod",
+          "url": "https://open.spotify.com/artist/1teORouDCbrq9yYxreb2UF"
+        },
+        {
+          "name": "Rusanda Panfili",
+          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
+        },
+        {
+          "name": "Pedro Eustache",
+          "url": "https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "duration_ms": 106120,
+      "name": "The Prince of Egypt Suite: Part 1",
+      "url": "https://open.spotify.com/track/6VZthc7bvYQfxwL4llUns2"
+    },
+    {
       "added_at": "2022-11-19 04:49:08",
       "album": {
         "name": "The hills",
@@ -335,6 +371,30 @@
       "duration_ms": 192080,
       "name": "Adagio Variation (From Adagio in G Minor, Arr. for Violin and Piano by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/3F6X1sIi94oXy7uOlZjapb"
+    },
+    {
+      "added_at": "2023-01-21 04:52:48",
+      "album": {
+        "name": "VI. Sea Ice Melting",
+        "url": "https://open.spotify.com/album/2ox1xwPlm4aPF3sRfHDeX3"
+      },
+      "artists": [
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Arctic Philharmonic",
+          "url": "https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "The Arctic Suite: VI. Sea Ice Melting",
+      "url": "https://open.spotify.com/track/3ahaOgoTlAc9jJlkMsWeEG"
     },
     {
       "added_at": "2023-07-19 04:39:14",

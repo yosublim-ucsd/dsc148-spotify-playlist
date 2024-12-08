@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 171210,
       "name": "0-100",
       "url": "https://open.spotify.com/track/6m3x4gOuiAqUpCkkx29bmR"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-05",
+      "date_removed": null,
       "duration_ms": 184225,
       "name": "210",
       "url": "https://open.spotify.com/track/5AsNGwVP7bix0nae8y95kc"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 203557,
       "name": "Alli Mia Fora",
       "url": "https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y"
@@ -2924,6 +2924,24 @@
       "duration_ms": 146705,
       "name": "Anastima",
       "url": "https://open.spotify.com/track/2KQLXPaVQ1sqvhvTN2crqz"
+    },
+    {
+      "album": {
+        "name": "ANATOLI",
+        "url": "https://open.spotify.com/album/484j2WHPth2DvEu14aBcUX"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "ANATOLI",
+      "url": "https://open.spotify.com/track/1XaESunLfD5BmNNjSExrHq"
     },
     {
       "album": {
@@ -4011,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "Golden Corner",
+        "url": "https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Babilon",
+      "url": "https://open.spotify.com/track/62M1Eus2vfIGmtq6zJ1yHI"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/5dBHB7B9ShDEEfNcsEWT7k"
       },
@@ -4268,7 +4312,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 201428,
       "name": "Balkan Mafia",
       "url": "https://open.spotify.com/track/3MIneGmgoSoJC4p8F0NLvM"
@@ -4316,7 +4360,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 140097,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/6q6s3eYvPJvlLs0lRRDobn"
@@ -4514,6 +4558,24 @@
       "duration_ms": 153230,
       "name": "Barcode",
       "url": "https://open.spotify.com/track/42mmyfhNOjoLBdAYirszzB"
+    },
+    {
+      "album": {
+        "name": "BARRIO",
+        "url": "https://open.spotify.com/album/0zX0EJZgFC6IaaaiJjNZRK"
+      },
+      "artists": [
+        {
+          "name": "How",
+          "url": "https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116026,
+      "name": "BARRIO",
+      "url": "https://open.spotify.com/track/07VrXAgdXbNuyjhVVuGLU4"
     },
     {
       "album": {
@@ -5364,6 +5426,24 @@
       "duration_ms": 169024,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ed9EPhXWmcv5rh1izcUIL"
+    },
+    {
+      "album": {
+        "name": "BLICK",
+        "url": "https://open.spotify.com/album/7nHSZtgR01S2lAbMbhxJKQ"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94999,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/4JYT4c4OfnTHo3M1DiTtxV"
     },
     {
       "album": {
@@ -6333,6 +6413,32 @@
     },
     {
       "album": {
+        "name": "Golden Corner",
+        "url": "https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "C-HR",
+      "url": "https://open.spotify.com/track/2c1T336Kuvm1OzcNGGpxbm"
+    },
+    {
+      "album": {
         "name": "C4",
         "url": "https://open.spotify.com/album/1rgBlW5Gaki4SinOchfBZc"
       },
@@ -6668,7 +6774,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -9118,7 +9224,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -15561,6 +15667,32 @@
     },
     {
       "album": {
+        "name": "Golden Corner",
+        "url": "https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204283,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5Coa2Gs8CCXwfQQNoo1xCH"
+    },
+    {
+      "album": {
         "name": "High Class",
         "url": "https://open.spotify.com/album/6Jr2Jx3fp78mTxWsCLReCg"
       },
@@ -17080,7 +17212,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 206500,
       "name": "ISOS",
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
@@ -19704,7 +19836,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 180000,
       "name": "LALE",
       "url": "https://open.spotify.com/track/2LNf69ZnFFK6qKH9qW3GSK"
@@ -23162,7 +23294,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 182376,
       "name": "Mesanyxta",
       "url": "https://open.spotify.com/track/7k1NpTv7vNWaZbIU3UxGol"
@@ -26371,6 +26503,32 @@
     },
     {
       "album": {
+        "name": "Golden Corner",
+        "url": "https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Nyxta Mera",
+      "url": "https://open.spotify.com/track/4wmDmbRo8jTh3u7hCUkqHL"
+    },
+    {
+      "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
@@ -27182,6 +27340,32 @@
       "duration_ms": 145841,
       "name": "Oneiro",
       "url": "https://open.spotify.com/track/7k1eAeEvBo49rHcUwRuZbU"
+    },
+    {
+      "album": {
+        "name": "Opa Opa",
+        "url": "https://open.spotify.com/album/4PDT5IjazxJ3afvzvb2Ohc"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Opa Opa",
+      "url": "https://open.spotify.com/track/55iXmYKWEGVgsMRlZ0C3zk"
     },
     {
       "album": {
@@ -28482,7 +28666,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 187433,
       "name": "Pasok",
       "url": "https://open.spotify.com/track/5WuzHndVMAOgcunToFjp4U"
@@ -32693,6 +32877,36 @@
     },
     {
       "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/3jdpJeSi5PzDcKxS6Ap5hT"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/3J7shJ3xgZu1qCHl7vkczn"
+    },
+    {
+      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN"
       },
@@ -36036,7 +36250,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -37112,7 +37326,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 190129,
       "name": "Trap",
       "url": "https://open.spotify.com/track/4TzuhUQ81vpZAs5V3Yk0Wi"

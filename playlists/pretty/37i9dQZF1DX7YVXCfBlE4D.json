@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 586054,
+  "num_followers": 586127,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Loca Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
-      },
-      "artists": [
-        {
-          "name": "Los Jaibos",
-          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Loca Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Las Estrellas Del Fonografo RCA Victor",
         "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 193706,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Loca Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
+      },
+      "artists": [
+        {
+          "name": "Los Jaibos",
+          "url": "https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Loca Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Serie Inmortales - Daniel Santos Y Sus Amigos",
         "url": "https://open.spotify.com/album/62cmgS24ZBUW0xPUbACJpq"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 184586,
       "name": "Las Cuarenta",
       "url": "https://open.spotify.com/track/1RtKzarcBJ0M3SV2B2NgsI"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Frente a Frente de Tr\u00edos",
         "url": "https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 196533,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/2eK0oqBA9QMoV0nOavJTS3"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Boleros Bonitos",
-        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Rom\u00e1ntica de La Habana",
-          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Inolvidables",
         "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 171973,
       "name": "As de corazones",
       "url": "https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Boleros Bonitos",
+        "url": "https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Rom\u00e1ntica de La Habana",
+          "url": "https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
       },
       "artists": [
         {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1343,18 +1359,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
       },
       "artists": [
         {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
         }
       ],
-      "duration_ms": 153253,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -1411,34 +1411,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
       },
       "artists": [
         {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1471,6 +1455,38 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Pensamiento",
         "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 136000,
       "name": "Pensamiento",
       "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
         "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 192560,
       "name": "Dandole Sabor al Caldo",
       "url": "https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Se Que No Vendras",
         "url": "https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 137250,
       "name": "Se Que No Vendras",
       "url": "https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2024-07-11 00:56:29",

@@ -1,6 +1,6 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3383483,
+  "num_followers": 3383558,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 182306,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -807,18 +807,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "A Little Bit of Mambo",
-        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+        "name": "Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
       "artists": [
         {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (a Little Bit of...)",
-      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -839,22 +843,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
         }
       ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Colour By Numbers (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+        "name": "Colour By Numbers (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
       "artists": [
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Reflection (Deluxe)",
+        "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Worth It (feat. Kid Ink)",
+      "url": "https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -1223,22 +1243,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Reflection (Deluxe)",
-        "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
       "artists": [
         {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Worth It (feat. Kid Ink)",
-      "url": "https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO"
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1255,22 +1271,6 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
@@ -1535,18 +1551,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         }
       ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
+      "duration_ms": 169840,
+      "name": "You're The One That I Want - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        },
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "You're The One That I Want - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "D-12 World",
         "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Love Tracks",
-        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Love Tracks",
+        "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Still Writing In My Diary: 2nd Entry",
+        "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Freek-A-Leek",
+      "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "Nick Jonas X2",
         "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 222186,
       "name": "Jealous - Remix",
       "url": "https://open.spotify.com/track/5NQJnRpJHRaupdegphntQT"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
-        "name": "Still Writing In My Diary: 2nd Entry",
-        "url": "https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68"
-      },
-      "artists": [
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Freek-A-Leek",
-      "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -2411,22 +2427,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
-      },
-      "artists": [
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2024-07-02 21:25:40",

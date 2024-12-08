@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,065 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,090 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 29 | [Ruedas](https://open.spotify.com/track/2JyS7QHdJL7QkDJzXCcr1E) | [Fabricio](https://open.spotify.com/artist/1PUb6iCJrg0Vs5GBTw2Dkn) | [Multiplicación](https://open.spotify.com/album/30bcacyGVg5sIxPhNDWEM9) | 2:02 |
 | 30 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
 | 31 | [La Niña Bu \(Ring Dang Doo\)](https://open.spotify.com/track/2ctgZALPuTO2TkF5BVm0vS) | [Los Matematicos](https://open.spotify.com/artist/0nMp0OZyUyffgjioO9a4MK) | [Go\-Go en Rojo](https://open.spotify.com/album/5j8NJSGyjLcejTwyCN9d1P) | 2:22 |
-| 32 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |
-| 33 | [El Abuelo Ye Ye](https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:25 |
+| 32 | [El Abuelo Ye Ye](https://open.spotify.com/track/6uogSCjGO28KgyFQ4pKMOY) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:25 |
+| 33 | [Al Claro de Luna](https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY) | [Rafael Vázquez](https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd) | [Al Claro de Luna](https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl) | 1:51 |
 | 34 | [Yo No Fui](https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Corazón Loco](https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE) | 1:53 |
 | 35 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
 | 36 | [El Relojito](https://open.spotify.com/track/5UNHoCA1Dq0M8cMAd5k3Bx) | [Hermanas Navarro](https://open.spotify.com/artist/6zF0GiajmfWSejD6nmZ16o) | [Enlaces Hermanas Navarro y Andy Russell](https://open.spotify.com/album/18IOQIjI0rPJhnZcIStz8D) | 2:17 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 42 | [Aladino](https://open.spotify.com/track/4OLxeBUasU6JxtOFwN4wXH) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:56 |
 | 43 | [Tema Del Elefantito](https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:51 |
 | 44 | [Brebaje De Amor](https://open.spotify.com/track/4BGyvgaKgPahrgRNHmBCrM) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:18 |
-| 45 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
-| 46 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |
+| 45 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |
+| 46 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
 | 47 | [Cha Cha Cha Be Bop](https://open.spotify.com/track/39tj1h7QcC7S5VU9deXDAc) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:00 |
 | 48 | [Leyenda Mexicana](https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 1:57 |
 | 49 | [Jerusalén](https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU) | [Beto Diaz](https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:40 |

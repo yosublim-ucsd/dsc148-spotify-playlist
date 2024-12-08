@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 22460,
+  "num_followers": 22464,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJUcT9KWs+iIJyFdy9biI/iSG7OwQ9",
+  "snapshot_id": "AAAJUwO5rcoml9FG+NkvRBcHBSYt3KYc",
   "tracks": [
+    {
+      "added_at": "2024-12-07 21:58:08",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 177297,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e"
+    },
     {
       "added_at": "2024-11-18 14:07:05",
       "album": {

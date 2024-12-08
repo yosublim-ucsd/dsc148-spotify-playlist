@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,672 likes - 510 songs - 1 day 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,682 likes - 511 songs - 1 day 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -514,9 +514,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 504 | [Naked](https://open.spotify.com/track/4VSvjR5WAonJiPtf8uZx94) | [Sofia Morales](https://open.spotify.com/artist/4E5zwzJVeJ0wrHL3fVNtnD) | [Finest Tech House Music](https://open.spotify.com/album/3dU0d9LaFa8JUwvU3OUiZy) | 4:11 |
 | 505 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 506 | [Extra](https://open.spotify.com/track/0VQegnPupVm9mEwAMBhylj) | [Nick G](https://open.spotify.com/artist/34JaTpOGE15tJ1cJIfIsdD), [Young Truck](https://open.spotify.com/artist/6icQfbZCZWXEPOwpWrZixw) | [Extra](https://open.spotify.com/album/72wRKVCoeAFKnjUOzva2xL) | 2:53 |
-| 507 | [Feeling Myself](https://open.spotify.com/track/6sQX0TZHZqgmH7klY8Yhsm) | [Don Pareon](https://open.spotify.com/artist/2wbqbzaMDno0XiQGqZIUGp) | [Ghettogod](https://open.spotify.com/album/1oKIzcTFOozVAPfmCTcbcd) | 3:48 |
-| 508 | [A Pink Lady Strikes Back](https://open.spotify.com/track/7oC6aniTH48y5rG3QL49k1) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:42 |
-| 509 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
-| 510 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
+| 507 | [Dizzy](https://open.spotify.com/track/0GOkOTy7M5LuKm3XeUPLLF) | [The CEO's](https://open.spotify.com/artist/3Xw4srRxiDAhrg78Ey1dGR) | [CEO Baby](https://open.spotify.com/album/7MrLU3MwNH0Q9F7hGbDSGA) | 1:52 |
+| 508 | [Feeling Myself](https://open.spotify.com/track/6sQX0TZHZqgmH7klY8Yhsm) | [Don Pareon](https://open.spotify.com/artist/2wbqbzaMDno0XiQGqZIUGp) | [Ghettogod](https://open.spotify.com/album/1oKIzcTFOozVAPfmCTcbcd) | 3:48 |
+| 509 | [A Pink Lady Strikes Back](https://open.spotify.com/track/7oC6aniTH48y5rG3QL49k1) | [Nick Sena](https://open.spotify.com/artist/1X7NTimlJ4ViHqyF4pbJBL), [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [Grease: Rise of the Pink Ladies \(A Paramount+ Original Series Score\)](https://open.spotify.com/album/7vdKIcMpLX6vAUKeHGcQI9) | 1:42 |
+| 510 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
+| 511 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 
-Snapshot ID: `AbjctAAAAADNN9lgCVmsyjVbywn0IGrb`
+Snapshot ID: `AbjiSgAAAAAqzggCQsE4THTC3V45AArW`

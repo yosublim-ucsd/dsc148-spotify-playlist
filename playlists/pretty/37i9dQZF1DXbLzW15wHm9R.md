@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Wicked
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,080 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,095 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 18 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
 | 19 | [Death Of Me](https://open.spotify.com/track/6AZKGzo7w2FPZ3Y8T4XjfQ) | [Skye Riley](https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Smile 2: The Skye Riley EP](https://open.spotify.com/album/53i6qzqYuhIhcpVTVu0dW3) | 2:45 |
 | 20 | [Folie à Deux \- Music From The Motion Picture](https://open.spotify.com/track/4Twrnhrg6yIFCdor6yoFvW) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:44 |
-| 21 | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \(from the Netflix Film "UGLIES"\)](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 |
+| 21 | [The Top](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \(from the Netflix Film "UGLIES"\)](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 |
 | 22 | [Ruins](https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:17 |
 | 23 | [Grieved You \(performed by Naomi Scott\)](https://open.spotify.com/track/1LdPLr7csvYsy0U1H34lLK) | [Skye Riley](https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Grieved You \(performed by Naomi Scott\)](https://open.spotify.com/album/7ee3dR9X2YDUqSFAArn7Ks) | 2:39 |
 | 24 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 |

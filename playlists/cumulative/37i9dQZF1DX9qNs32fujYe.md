@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Machine Head
 
-977 songs - 2 day 23 hr 45 min
+978 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Pushing the Tides](https://open.spotify.com/track/2JIbpxyklwMF01YPqJG7uq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Pushing the Tides](https://open.spotify.com/album/4JK64E5sqKLT2appa0WxwO) | 3:29 | 2021-12-17 | 2022-04-21 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-25 |  |
 | [PvP](https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [PvP](https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5) | 2:59 | 2021-12-17 | 2023-01-28 |
+| [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 | 2024-11-22 |  |
 | [Race To The Sea \- History Edition](https://open.spotify.com/track/1yUi9pyAS9gIfJCMuYKx8K) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War To End All Wars \(History Edition\)](https://open.spotify.com/album/7ABEeYg2EyWQIQaFBs6wnY) | 3:55 | 2022-03-25 | 2022-04-21 |
 | [Raigeki 雷撃](https://open.spotify.com/track/0C2awQ4olwwSjkpEMmiNdU) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Raigeki](https://open.spotify.com/album/3Z46l5uMmAJdvEfSkiR30m) | 3:33 | 2024-06-21 | 2024-09-29 |
 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 | 2022-08-19 | 2023-03-11 |
@@ -650,7 +651,7 @@
 | [Raining Blood](https://open.spotify.com/track/4fiOTntQKr24p07FvQDHZE) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:15 | 2024-03-22 | 2024-04-19 |
 | [Raise Your Fists](https://open.spotify.com/track/1YTVSfVh9qsm9jJyFXtMiC) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Raise Your Fists](https://open.spotify.com/album/30BD84SoTx6qS8pnJwRGrJ) | 4:10 | 2021-12-17 | 2022-07-23 |
 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 | 2022-07-08 | 2024-04-19 |
-| [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2021-12-17 |  |
+| [Raise Your Horns](https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy) | 4:23 | 2021-12-17 | 2024-12-08 |
 | [Raise Your Horns](https://open.spotify.com/track/4qQHaZ2frLScRPi7todSz9) | [Van Canto](https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL) | [Raise Your Horns](https://open.spotify.com/album/1wRRAacioilsgRLpGRmVo6) | 4:25 | 2021-12-17 | 2022-07-28 |
 | [Rankarumpu](https://open.spotify.com/track/5Hvhu1kJEcP90itIQSbn5f) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Rankarumpu](https://open.spotify.com/album/6qHZPsB4nMMI602L2iJ4pK) | 2:43 | 2024-04-05 | 2024-09-13 |
 | [Raven's Flight](https://open.spotify.com/track/0Ov6o6FSQLOlllOm10ESwQ) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Berserker](https://open.spotify.com/album/0svoIboyRzqgRpvBDbJtUE) | 5:20 | 2021-12-17 | 2022-07-26 |

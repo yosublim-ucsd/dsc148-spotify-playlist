@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "S\u00edganme Tirando",
+        "url": "https://open.spotify.com/album/61faNqNSGMoB925CzdoonK"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118250,
+      "name": "Ya La Hice",
+      "url": "https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3"
+    },
+    {
+      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },

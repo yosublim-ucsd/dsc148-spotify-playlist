@@ -4,7 +4,7 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-318 songs - 18 hr 14 min
+319 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bodies](https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:04 | 2023-09-16 |  |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-17 | 2024-04-23 |
 | [Boredom \(feat\. Rex Orange County & Anna of the North\)](https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 5:20 | 2023-09-16 |  |
+| [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2024-09-06 |  |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2022-03-17 | 2023-09-16 |
 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 | 2021-10-26 | 2023-09-16 |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2021-10-26 | 2022-07-29 |
@@ -208,7 +209,7 @@
 | [Pack of Gum](https://open.spotify.com/track/0PACdf6vCQee3ICq02EWlf) | [Demo Taped](https://open.spotify.com/artist/5JMtXD9vPBIygW4cTcQ8x9) | [Pack of Gum](https://open.spotify.com/album/0FmUToQwyrtTkwGXnRa7su) | 4:24 | 2021-10-26 | 2024-04-23 |
 | [Palace/Curse \(feat\. Steve Lacy, feat\. Tyler, The Creator, feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 | 2021-10-26 | 2022-03-18 |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-07-28 | 2023-01-20 |
-| [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2023-09-16 |  |
+| [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 | 2023-09-16 | 2024-12-08 |
 | [peppermint](https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC) | 2:12 | 2021-10-26 | 2023-04-05 |
 | [peppermint](https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [peppermint](https://open.spotify.com/album/00xJmSdJgpfCZ3MFz4sZQQ) | 2:12 | 2023-01-19 | 2024-04-19 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2023-01-19 | 2023-09-16 |

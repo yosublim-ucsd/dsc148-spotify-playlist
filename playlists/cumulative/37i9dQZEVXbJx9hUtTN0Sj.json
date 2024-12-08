@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -1356,7 +1378,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -5470,7 +5492,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw"
@@ -5492,7 +5514,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 172000,
       "name": "Ensemble - feat. Charlotte Cardin",
       "url": "https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ"
@@ -7755,6 +7777,32 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4TGZTPJ50VXfqCIEwf6Bmm"
+    },
+    {
+      "album": {
         "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5"
       },
@@ -7804,7 +7852,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 101533,
       "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
@@ -7893,6 +7941,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Hellfire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1aFVWIGU2MUJXaRqcxEaBQ"
+    },
+    {
+      "album": {
         "name": "Hellfire (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
       },
@@ -7938,7 +8008,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
@@ -8281,6 +8351,32 @@
     },
     {
       "album": {
+        "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
+        "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "DJ DAVY FELIPE",
+          "url": "https://open.spotify.com/artist/3lcoMONMPxWP4WzYYK403m"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88615,
+      "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
+      "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG"
       },
@@ -8601,6 +8697,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161040,
+      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3p428gAKm9dBoMjBVOIvVu"
+    },
+    {
+      "album": {
         "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
       },
@@ -8646,7 +8764,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 161039,
       "name": "I Can't Hear It Now - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
@@ -9660,7 +9778,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 164072,
       "name": "J'a rencontr\u00e9 Saint Nicolas",
       "url": "https://open.spotify.com/track/64d996PIFw8js2yOhyu477"
@@ -13588,7 +13706,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 143184,
       "name": "NOW IT'S GONE",
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
@@ -15299,6 +15417,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
+    },
+    {
+      "album": {
         "name": "Remember Me (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
       },
@@ -15344,7 +15484,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 122053,
       "name": "Remember Me - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3NqW1FtYalkdAr7gz7Btwh"
@@ -15366,6 +15506,36 @@
       "duration_ms": 218266,
       "name": "Remonter le temps",
       "url": "https://open.spotify.com/track/7m7Tnbui4KRo5C51lhWigQ"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"
     },
     {
       "album": {
@@ -15422,7 +15592,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
@@ -16991,6 +17161,24 @@
     },
     {
       "album": {
+        "name": "Les plus belles rondes enfantines",
+        "url": "https://open.spotify.com/album/3d7ToxJtrmvKdTImuSFjD6"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/7c8cH61j0ec52VfMJsyGd2"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115133,
+      "name": "St. Nicolas patron des ecoliers",
+      "url": "https://open.spotify.com/track/5chi01mvUtvUO6t31zaznJ"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -17303,6 +17491,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0osQqNcvhl7pD6FtjOcT9T"
+    },
+    {
+      "album": {
         "name": "Sucker (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
       },
@@ -17348,7 +17558,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 224293,
       "name": "Sucker - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
@@ -18589,6 +18799,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "To Ashes and Blood (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1NzNNQuppVgVYrm2hvrPK2"
+    },
+    {
+      "album": {
         "name": "To Ashes and Blood (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
       },
@@ -18634,7 +18866,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 245626,
       "name": "To Ashes and Blood - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
@@ -20426,7 +20658,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -21476,7 +21708,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 185626,
       "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"

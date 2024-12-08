@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 95319,
+  "num_followers": 95408,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 165333,
       "name": "You Beat Me To The Punch",
       "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
-      },
-      "artists": [
-        {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Have You Seen Her",
-      "url": "https://open.spotify.com/track/01cQPNCptd662nikuY42zw"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Oh, How It Hurts",
         "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 179733,
       "name": "Oh, How It Hurts",
       "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+      },
+      "artists": [
+        {
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Have You Seen Her",
+      "url": "https://open.spotify.com/track/01cQPNCptd662nikuY42zw"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
       "artists": [
         {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
         }
       ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+      "duration_ms": 133693,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
       },
       "artists": [
         {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
         }
       ],
-      "duration_ms": 133693,
-      "name": "Strange Feeling",
-      "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Specialty Story",
-        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
-        },
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Nite Owl (A.K.A. Night Owl)",
-      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Specialty Story",
+        "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/1Q8hCl2Wae0lQ7K6RRjrck"
+        },
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Nite Owl (A.K.A. Night Owl)",
+      "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Sisters of Soul; the Sweeter Voices of Soul",
-        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
-      },
-      "artists": [
-        {
-          "name": "The Fuzz",
-          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Smash Hits Of '62",
         "url": "https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 143546,
       "name": "The One Who Really Loves You - Album Version / Mono",
       "url": "https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Sisters of Soul; the Sweeter Voices of Soul",
+        "url": "https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l"
+      },
+      "artists": [
+        {
+          "name": "The Fuzz",
+          "url": "https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy"
     },
     {
       "added_at": "2024-08-14 08:31:40",

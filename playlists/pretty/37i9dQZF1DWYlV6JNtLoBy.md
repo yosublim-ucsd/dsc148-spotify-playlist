@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,322 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,326 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 38 | [I Believe](https://open.spotify.com/track/0XyS7ARIsq2klBj13ovRku) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4oYqY36ZQDueqm535USQ2C) | 5:02 |
 | 39 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 |
 | 40 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 |
-| 41 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
-| 42 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 41 | [Lead On Good Shepherd](https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j) | [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Lead On Good Shepherd](https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO) | 3:23 |
+| 42 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
 | 43 | [Made For Heaven](https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:32 |
 | 44 | [My God Can](https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [My God Can](https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI) | 3:13 |
 | 45 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 |

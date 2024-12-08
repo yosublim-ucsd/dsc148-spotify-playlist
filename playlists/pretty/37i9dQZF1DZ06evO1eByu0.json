@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAlful0+Bp5WmOJQ8ec9wgg",
+  "snapshot_id": "Z1I+gAAAAACEJT/ePp98qb6xN8zQJ/5e",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 311515,
       "name": "Luz da Esperan\u00e7a",
       "url": "https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
     },
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -727,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Cantarei Desse Amor",
+      "url": "https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reverencia (En Vivo)",
         "url": "https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt"
       },
@@ -767,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Cantarei Desse Amor",
-      "url": "https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo S\u00e9 Quien Soy",
         "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivo Est\u00e1s",
-        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
-        }
-      ],
-      "duration_ms": 392026,
-      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
-      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Habr\u00e1 Victoria",
         "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 247376,
       "name": "Habr\u00e1 Victoria",
       "url": "https://open.spotify.com/track/1M8ItKWPgaCm0x2wvtdoCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivo Est\u00e1s",
+        "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "duration_ms": 392026,
+      "name": "Tu Presencia Es El Cielo (Your Presence is Heaven To Me) (feat. Israel Houghton)",
+      "url": "https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9"
     },
     {
       "added_at": null,
@@ -903,22 +923,6 @@
       "duration_ms": 160914,
       "name": "Samuel",
       "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia 3",
-        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 202524,
-      "name": "Pisa na Muralha",
-      "url": "https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ"
     }
   ],
   "unique_name": "This Is Aline Barros",

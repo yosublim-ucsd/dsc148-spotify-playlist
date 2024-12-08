@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Press Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,799 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,798 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

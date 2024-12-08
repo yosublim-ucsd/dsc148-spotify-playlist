@@ -4,7 +4,7 @@
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-116 songs - 6 hr 4 min
+117 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 | 2024-03-19 |  |
 | [Pela Luz dos Olhos Teus \- Bonus Track](https://open.spotify.com/track/4SpqtLElDsO6KGbd4ub96Z) | [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Miucha & Tom Jobim Vol\. 1](https://open.spotify.com/album/6nDfdonvws09w4XmuYCxJz) | 2:44 | 2023-05-03 | 2024-04-19 |
 | [Photograph](https://open.spotify.com/track/6HOtn3ccKCgz2vQkWFIYnp) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:08 | 2023-05-03 |  |
-| [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn) | 6:01 | 2024-03-19 |  |
+| [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn) | 6:01 | 2024-03-19 | 2024-12-08 |
 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/66nRcgioGhlcdlhUhUWpND) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Summer Samba! \- João Gilberto](https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc) | 6:01 | 2023-05-03 | 2024-04-19 |
 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 | 2023-05-03 |  |
 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 | 2024-03-19 |  |
@@ -122,6 +122,7 @@
 | [Água De Beber](https://open.spotify.com/track/6R0nUSoTN00Zi8WEVhAKSU) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 2:50 | 2023-05-03 | 2023-08-25 |
 | [Água de Beber](https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:18 | 2023-05-03 | 2024-04-19 |
 | [Água de Beber](https://open.spotify.com/track/1IkE3IsuP4HNU073wsE6T5) | [Quarteto Jobim\-Morelenbaum](https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL) | [Quarteto Jobim Morelenbaum](https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY) | 2:36 | 2023-05-03 |  |
+| [Águas De Março](https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Tom Jobim E Amigos](https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M) | 3:32 | 2024-07-08 |  |
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2023-05-03 | 2024-04-19 |
 | [Ê Lalá Lay\-Ê](https://open.spotify.com/track/7BQSe1LHaS5mDtUT91eHmW) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [O Piano de João Donato](https://open.spotify.com/album/2hGPFVqOzHV5ZB359SEfiW) | 3:20 | 2023-05-03 |  |
 

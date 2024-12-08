@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-78 songs - 3 hr 48 min
+79 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [En la lumbre \- En Vivo](https://open.spotify.com/track/3JFsYMe5JHHtJaKD4BmwhK) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [De Día A Noche](https://open.spotify.com/album/4FJBGA0XCukKbetJGkv8QG) | 3:33 | 2024-02-17 | 2024-08-31 |
 | [En La Movida](https://open.spotify.com/track/0k2LsqhxHcn559bNzbJ1gL) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:19 | 2024-01-29 | 2024-06-10 |
 | [Fruta Prohibida](https://open.spotify.com/track/39MVkJ39r1JoBUPVQnlTfa) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche Vol\. 3](https://open.spotify.com/album/6EW70R9qB26IFFg4vXjcx9) | 2:48 | 2024-01-29 | 2024-06-30 |
+| [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 | 2024-12-08 |  |
 | [Hasta Parece Que Fue Ayer](https://open.spotify.com/track/47dZfQB8ZIltg17pPQn7N7) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo Con Tololoche](https://open.spotify.com/album/0v89e4NRb1lFopHHsRq28E) | 3:27 | 2024-01-29 | 2024-08-30 |
 | [Hombre Nuevo](https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Hombre Nuevo](https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d) | 3:21 | 2024-01-29 |  |
 | [Jardin Verde \(feat\. Hijos de Garcia & Fuerza Regida\)](https://open.spotify.com/track/10Je5SzWya58a2eTc8hQa8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Hijos de Garcia](https://open.spotify.com/artist/2kxD3bWlLEPzkqvBJkuoAZ) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:14 | 2024-01-29 | 2024-04-29 |
@@ -84,7 +85,7 @@
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
 | [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 | 2024-11-19 |  |
 | [Voy A Llegar](https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Voy A Llegar](https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1) | 2:42 | 2024-11-25 |  |
-| [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 | 2024-01-29 |  |
+| [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 | 2024-01-29 | 2024-12-08 |
 | [Yoni El Maldito](https://open.spotify.com/track/5e8HhHGg48DqrQfjzDPchq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:01 | 2024-03-06 | 2024-06-06 |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

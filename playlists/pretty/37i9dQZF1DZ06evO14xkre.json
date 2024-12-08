@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 251839,
+  "num_followers": 251999,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAO/q9gQ/yAo0fq6eOk2Jrf",
+  "snapshot_id": "Z1I+gAAAAACBDvdQ/YWuTc73E2jr8vAE",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Pensamientos Intrusivos",
-      "url": "https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 202123,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 155406,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/0wzCQjc8JRa39ej1TFkAFt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 169654,
       "name": "\u00bfC\u00f3mo As\u00ed?",
       "url": "https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Dame Beso // Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Dame Beso // Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 172490,
-      "name": "Adicto",
-      "url": "https://open.spotify.com/track/70SJ1NcI81LRV1JGKadcBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 124651,
       "name": "honey baby (SPOILED!)",
       "url": "https://open.spotify.com/track/3rPaugbuZuIKJpVnF3b1RK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 172490,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/70SJ1NcI81LRV1JGKadcBB"
     },
     {
       "added_at": null,

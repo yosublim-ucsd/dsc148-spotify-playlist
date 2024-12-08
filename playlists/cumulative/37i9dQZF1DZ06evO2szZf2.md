@@ -4,7 +4,7 @@
 
 > This is Mc Dricka\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 12 min
+104 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Only Fan$](https://open.spotify.com/track/2WKciZdNlja4UfSoonkCaE) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL) | [INEFÁVEL](https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X) | 2:40 | 2024-06-11 | 2024-06-24 |
 | [Paga de Superado](https://open.spotify.com/track/6nxboFKvd1nCIK1juskjhW) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Dj luan pj](https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 1:58 | 2024-06-24 | 2024-08-14 |
 | [PANCADA](https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [PANCADA](https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o) | 2:15 | 2023-12-30 |  |
+| [Pantera](https://open.spotify.com/track/09j37F2o25MfX106K8xoMm) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh) | [Sim ou Não](https://open.spotify.com/album/3Tos7AqFcXHHFgD9j1Yanz) | 2:01 | 2024-12-08 |  |
 | [PA´ LAS JOYAS](https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [PA´ LAS JOYAS](https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO) | 2:44 | 2024-08-11 | 2024-10-04 |
 | [Pede Chamando de Amor](https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP) | [Shevchenko e Elloco](https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1), [MC Marley](https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Biel XCamoso](https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab) | [Pede Chamando de Amor](https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx) | 1:59 | 2023-12-30 |  |
 | [Pede que Eu Te Dou \(feat\. Mc Dricka\)](https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo) | [Biu do Piseiro](https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [A Pressão Mundial Continua](https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ) | 1:59 | 2023-12-30 |  |
@@ -110,6 +111,6 @@
 | [Vuco Vuco](https://open.spotify.com/track/3fkfnMA8nRuf6rDt7LlPJP) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Quarentena do Trator](https://open.spotify.com/album/5JIKChGTkrJIMvDHqSDXa2) | 2:13 | 2023-12-30 | 2024-04-14 |
 | [Vuco Vuco](https://open.spotify.com/track/66GXPHdBsFaBpUv6qCsumj) | [Dodô Pressão](https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Quarentena do Trator](https://open.spotify.com/album/7fM3cotqvLSIB9jaopm93D) | 2:13 | 2024-04-14 | 2024-08-01 |
 | [É Melhor Dois Enganados](https://open.spotify.com/track/7Iu71cj7nvB6k2fmpVO1Hp) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Caldeirão](https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK) | 2:05 | 2024-06-28 | 2024-07-08 |
-| [É Só Pirocadão \- Brega Funk Remix](https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4) | [O Brutto](https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV), [Tinho do Coque](https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt), [Pop Na Batida](https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [É Só Pirocadão \(Brega Funk Remix\)](https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02) | 2:01 | 2024-06-04 |  |
+| [É Só Pirocadão \- Brega Funk Remix](https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4) | [O Brutto](https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV), [Tinho do Coque](https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt), [Pop Na Batida](https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [É Só Pirocadão \(Brega Funk Remix\)](https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02) | 2:01 | 2024-06-04 | 2024-12-08 |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

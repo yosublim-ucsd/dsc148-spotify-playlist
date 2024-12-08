@@ -4,7 +4,7 @@
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 11 min
+60 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Free Them \(feat\. Teddy Swims\)](https://open.spotify.com/track/0kdIxHnIj3Tk9tcj1fOUaH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:12 | 2024-01-10 | 2024-07-10 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-15 | 2024-10-04 |
 | [Funeral](https://open.spotify.com/track/6BmqySE91w6AUWvIxDHtqc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB) | 3:54 | 2024-10-04 |  |
+| [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-08 |  |
 | [Goodbye's Been Good to You](https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:44 | 2024-01-10 |  |
 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 | 2024-04-29 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-28 |  |

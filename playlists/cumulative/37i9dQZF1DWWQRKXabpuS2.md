@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: نوال الكويتية
 
-377 songs - 1 day 2 hr 0 min
+378 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Majnoun](https://open.spotify.com/track/6MFZIxQGGiqbKMtJXalRsU) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Majnoun](https://open.spotify.com/album/7lEdeBd6afDZBOtzrAL811) | 3:33 | 2023-04-26 | 2023-04-28 |
 | [Manho Habibak](https://open.spotify.com/track/67WtP6ZDz6jnUMlS4cR5ih) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Tezzakar Al Nesyan Part 2](https://open.spotify.com/album/6Jyh9oJ155zJ6qSaLfvmRi) | 5:21 | 2024-01-04 | 2024-07-31 |
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-11-07 | 2023-04-05 |
+| [Mani Thak](https://open.spotify.com/track/0n0W88jb6L7vedbnWWoUtY) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Mani Thak](https://open.spotify.com/album/04Lz0wSYNkg0C5pDC1EVtK) | 3:23 | 2024-12-07 |  |
 | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr) | 2:20 | 2023-07-17 | 2024-02-10 |
 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 | 2023-07-01 | 2024-01-12 |
 | [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 | 2024-01-31 | 2024-09-14 |
@@ -206,7 +207,7 @@
 | [Mekanek](https://open.spotify.com/track/4DONds4xIXDJ2eLyzu2vd4) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Mekanek](https://open.spotify.com/album/6QVB5RNrvVl6vDXJgWA9Fi) | 3:49 | 2023-04-22 | 2023-04-24 |
 | [Men Jadak](https://open.spotify.com/track/0hjzEKv9FxKyb3YjQKt1EA) | [Mahmoud](https://open.spotify.com/artist/1i4PKo462Ma0SDEftSy7my) | [Men Jadak](https://open.spotify.com/album/4hbA5msjAqadBoxSjmZRho) | 4:00 | 2022-06-13 | 2023-01-10 |
 | [Men Twadaana](https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk) | [Marwan Fagi](https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH) | [Men Twadaana](https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ) | 7:51 | 2022-06-04 | 2023-01-10 |
-| [Methl Alwaraq](https://open.spotify.com/track/3z1TMHr7B2TfvGTbsSlUsB) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Methl Alwaraq](https://open.spotify.com/album/6iO98fd8Diozs5jDySZRuv) | 3:02 | 2024-02-27 |  |
+| [Methl Alwaraq](https://open.spotify.com/track/3z1TMHr7B2TfvGTbsSlUsB) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Methl Alwaraq](https://open.spotify.com/album/6iO98fd8Diozs5jDySZRuv) | 3:02 | 2024-02-27 | 2024-12-08 |
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-05-26 | 2023-12-30 |
 | [Min Ant](https://open.spotify.com/track/26PF0qiTHTJtriWMqc5sht) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Min Ant](https://open.spotify.com/album/5G64uDVMeCjIrzUFRlMlVa) | 4:54 | 2022-08-18 | 2023-02-25 |
 | [Min Taht](https://open.spotify.com/track/3bHSpc1Aq5K9NFYLeKAIPX) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:30 | 2022-02-04 | 2022-05-31 |
@@ -354,7 +355,7 @@
 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 | 2023-01-12 |
 | [عن حب](https://open.spotify.com/track/3QEJRUVij90qdzU1AObDZY) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [عن حب](https://open.spotify.com/album/2zLFbF01L9wYqm98OLTKZy) | 3:05 | 2022-10-11 | 2023-05-05 |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
-| [غيمة جنوبية](https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غيمة جنوبية](https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM) | 2:22 | 2024-04-03 |  |
+| [غيمة جنوبية](https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غيمة جنوبية](https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM) | 2:22 | 2024-04-03 | 2024-12-08 |
 | [فوق تحت](https://open.spotify.com/track/5rFL1zYLe4HXY7QR6WCSWZ) | [Faris Al Balad](https://open.spotify.com/artist/3HpHVn0w30wsHoLBxP5lNP) | [فوق تحت](https://open.spotify.com/album/3l25EQJ6dkSjMwl99fA460) | 2:29 | 2022-07-20 | 2022-07-27 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-11-06 | 2023-05-11 |
 | [قلب ناسيني](https://open.spotify.com/track/6Z4kadPlbhC6nE5MxP8C81) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [الأرض](https://open.spotify.com/album/3qtM8m7WDIl4lhrmKjCMTp) | 4:48 | 2023-09-30 | 2023-10-09 |

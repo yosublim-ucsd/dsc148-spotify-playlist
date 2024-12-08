@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 176838,
       "name": "1 MOMENTO (feat. ANNA)",
       "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/2l4NKSQbBA3sV0nxpNjSkj"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175200,
       "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 205354,
       "name": "ALTROVE",
       "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
@@ -2464,6 +2464,24 @@
       "duration_ms": 198236,
       "name": "Amare",
       "url": "https://open.spotify.com/track/7f0PsfE1Dbk7PPRVu6knrQ"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Amaro",
+      "url": "https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc"
     },
     {
       "album": {
@@ -3161,6 +3179,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -3176,7 +3216,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -4286,7 +4326,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183500,
       "name": "Beatrice (feat. Annalisa)",
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
@@ -4786,7 +4826,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5202,6 +5242,24 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "Bnb life",
+      "url": "https://open.spotify.com/track/4h2ZxFz4acPlkoom2BuBeC"
     },
     {
       "album": {
@@ -5912,6 +5970,24 @@
       "duration_ms": 190840,
       "name": "Buongiorno vita",
       "url": "https://open.spotify.com/track/14rcy4M0wqiPHiCaT8U1Ju"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/1xiCaiy7CFnymZvf80ZKBk"
     },
     {
       "album": {
@@ -7228,6 +7304,24 @@
       "duration_ms": 239186,
       "name": "Centro Di Gravit\u00e0 Permanente - Remastered",
       "url": "https://open.spotify.com/track/0TjBZWBfUQ1eeWuYMgchZG"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Cerchio",
+      "url": "https://open.spotify.com/track/4d4RyjCYqTnJeQMgft47ck"
     },
     {
       "album": {
@@ -8657,6 +8751,28 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
+    },
+    {
+      "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
       },
@@ -8954,7 +9070,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 232057,
       "name": "Come il pane",
       "url": "https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ"
@@ -11126,7 +11242,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -11832,7 +11948,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 179072,
       "name": "Donna",
       "url": "https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7"
@@ -12870,7 +12986,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 179545,
       "name": "Entro nel posto (feat. Tony Boy, Kid Yugi & Capo Plaza)",
       "url": "https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ"
@@ -13671,6 +13787,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Fare presto",
+      "url": "https://open.spotify.com/track/5eUqIQCxlZ20Xa02G6NH2Z"
+    },
+    {
+      "album": {
         "name": "CADERE VOLARE",
         "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
       },
@@ -14403,6 +14537,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Fino a domani",
+      "url": "https://open.spotify.com/track/3MApKZhLRdet7YsZ5Ywwma"
+    },
+    {
+      "album": {
         "name": "Fino a qui",
         "url": "https://open.spotify.com/album/0d5uLpu4Tkh54AjZgztd7L"
       },
@@ -14440,6 +14592,24 @@
       "duration_ms": 157168,
       "name": "Fino All'Alba",
       "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Fino all'alba",
+      "url": "https://open.spotify.com/track/4HgXFQJOvCbL9Kppk2vmOY"
     },
     {
       "album": {
@@ -16404,7 +16574,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 207346,
       "name": "Gotham (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"
@@ -17068,10 +17238,28 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 149091,
       "name": "HELLO KITTY (feat. Sillyelly)",
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91173,
+      "name": "Hello World",
+      "url": "https://open.spotify.com/track/50ZNspJj40Kgo3sUSwnRqU"
     },
     {
       "album": {
@@ -17284,7 +17472,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
@@ -17936,7 +18124,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 191999,
       "name": "I LOVE IT (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
@@ -18050,7 +18238,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/7BeZyW4hVjeCocSLwDrCME"
@@ -18733,6 +18921,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152904,
+      "name": "Il tempo cura",
+      "url": "https://open.spotify.com/track/6T0QOCB2vNIBHlw5OZiyah"
+    },
+    {
+      "album": {
         "name": "ALI",
         "url": "https://open.spotify.com/album/5wYCns6K6csMAkZhx3Ierm"
       },
@@ -18828,6 +19034,24 @@
       "duration_ms": 134271,
       "name": "Imputati (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/3ARfNckt7RhPitskCY5vQk"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179199,
+      "name": "In automatico",
+      "url": "https://open.spotify.com/track/0y25WRQSOEPfooF2n822BG"
     },
     {
       "album": {
@@ -19482,10 +19706,28 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 217213,
       "name": "Islanda",
       "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Islanda",
+      "url": "https://open.spotify.com/track/41lOxc6ARYZPXpKeMWcHsD"
     },
     {
       "album": {
@@ -20722,7 +20964,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 228378,
       "name": "L'ULTIMA POESIA (feat. Ultimo)",
       "url": "https://open.spotify.com/track/5oJVfPUHsD7A8bZtKVqgL2"
@@ -22258,7 +22500,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -22359,6 +22601,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59016,
+      "name": "Lavoro",
+      "url": "https://open.spotify.com/track/45WGeRSf4yZnljONvrNp7V"
+    },
+    {
+      "album": {
         "name": "NO REGULAR MUSIC",
         "url": "https://open.spotify.com/album/2KiDg7QmIS9i9mqA2UXBi2"
       },
@@ -22452,6 +22712,24 @@
       "duration_ms": 146285,
       "name": "Leanin'",
       "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148923,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/0oML5GDT7pEQHvcR9WvcOf"
     },
     {
       "album": {
@@ -23862,7 +24140,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -28301,6 +28579,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Nevica",
+      "url": "https://open.spotify.com/track/4NvS5pdDVE3O387xaAeoaI"
+    },
+    {
+      "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7"
       },
@@ -28600,6 +28896,28 @@
       "duration_ms": 157826,
       "name": "NLFP (feat. tha Supreme)",
       "url": "https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "Nn so se (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/1VhrzhdZxQybGPmGXZeVwI"
     },
     {
       "album": {
@@ -29100,6 +29418,32 @@
       "duration_ms": 228454,
       "name": "Non lo Sai",
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
+      "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
     },
     {
       "album": {
@@ -32353,6 +32697,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Per Non Sentire La Fine Del Mondo",
+      "url": "https://open.spotify.com/track/6s67ZfGsYCd0rsAKtLXCiC"
+    },
+    {
+      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -32368,7 +32730,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 179386,
       "name": "PER SEMPRE",
       "url": "https://open.spotify.com/track/1tIGa9fXqu3T3AikU5G8Ds"
@@ -32394,6 +32756,28 @@
       "duration_ms": 184848,
       "name": "PER SEMPRE (feat. Bresh)",
       "url": "https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Per te lascio il party (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5hvVUrV2RDNOLre6a5bGhF"
     },
     {
       "album": {
@@ -32450,6 +32834,28 @@
       "duration_ms": 179704,
       "name": "PERDONO (feat. Paky)",
       "url": "https://open.spotify.com/track/5ZvG3O1YIn0w5HB4WnUHDP"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195926,
+      "name": "Perdono (feat. Shiva)",
+      "url": "https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s"
     },
     {
       "album": {
@@ -33212,7 +33618,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 144992,
       "name": "Porto il Commerciale (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6MQYhSIrh9vwztmM6mwkzQ"
@@ -34755,6 +35161,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/6ph79Bpyk999ksR4fa93wW"
+    },
+    {
+      "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
@@ -35164,10 +35588,28 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 166330,
       "name": "Romantico Ma Muori",
       "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166373,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/0CCWIksRK4Q3um834dNG3a"
     },
     {
       "album": {
@@ -36455,6 +36897,24 @@
     },
     {
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Segnali di fumo",
+      "url": "https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu"
+    },
+    {
+      "album": {
         "name": "NOSTALGIA (export)",
         "url": "https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue"
       },
@@ -36762,7 +37222,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 167263,
       "name": "SESSO E SAMBA (feat. Gaia)",
       "url": "https://open.spotify.com/track/2ljA7TjCL9U0UO7P9alF0B"
@@ -37842,7 +38302,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
@@ -38852,6 +39312,24 @@
       "duration_ms": 230880,
       "name": "Stage Diving",
       "url": "https://open.spotify.com/track/1CUi4hO2FIvplvJff8Dv6d"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138358,
+      "name": "Stanza",
+      "url": "https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo"
     },
     {
       "album": {
@@ -40880,7 +41358,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175135,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH"
@@ -41192,6 +41670,24 @@
       "duration_ms": 230666,
       "name": "Torna a casa",
       "url": "https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179568,
+      "name": "Total black",
+      "url": "https://open.spotify.com/track/2hbgKf0dzTaNeNBibyQi4I"
     },
     {
       "album": {
@@ -41646,7 +42142,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 214285,
       "name": "Tu Me Quieres - Prod. by Higashi x Roberto Ferrante",
       "url": "https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g"
@@ -41962,6 +42458,24 @@
       "duration_ms": 212424,
       "name": "TUTTI HANNO PAURA (feat. Marco Mengoni)",
       "url": "https://open.spotify.com/track/09vGzfCHWgs5sh2EmihaNZ"
+    },
+    {
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Tutti i giorni",
+      "url": "https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA"
     },
     {
       "album": {
@@ -45002,6 +45516,24 @@
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
+    },
+    {
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/0rDIjhe1IQJhh3oPDxZJMg"
     },
     {
       "album": {

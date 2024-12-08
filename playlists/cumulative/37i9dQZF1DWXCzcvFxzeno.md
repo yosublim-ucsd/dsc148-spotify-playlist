@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
-206 songs - 15 hr 59 min
+207 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 | 2024-11-16 |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 |  |
-| [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
+| [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 | 2024-12-08 |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 |  |
@@ -113,6 +113,7 @@
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-02 | 2024-12-01 |
 | [Levada](https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm) | [Levada](https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y) | 5:16 | 2024-06-18 | 2024-09-21 |
+| [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 | 2024-12-06 |  |
 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 | 2024-08-06 |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |

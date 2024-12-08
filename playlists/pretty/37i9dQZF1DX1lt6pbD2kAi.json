@@ -1,6 +1,6 @@
 {
   "description": "Henrique & Juliano e os artistas mais ouvidos no Brasil em 2024.",
-  "num_followers": 134969,
+  "num_followers": 136263,
   "original_name": "Top Artistas Brasil 2024",
   "owner": {
     "name": "Spotify",
@@ -742,6 +742,10 @@
         {
           "name": "MC LUUKY",
           "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
         }
       ],
       "duration_ms": 195572,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 42973,
+  "num_followers": 42976,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAHBOEHgUgEFpF15DttTUnn",
+  "snapshot_id": "Z1I+gAAAAABNbv1Qbp28OOm44xLJt7DZ",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Standing in the Shower...Thinking",
-      "url": "https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa"
+      "duration_ms": 225240,
+      "name": "Had a Dad",
+      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 225240,
-      "name": "Had a Dad",
-      "url": "https://open.spotify.com/track/3HVS01vPf5NMGS7ACAyEXv"
+      "duration_ms": 185160,
+      "name": "Standing in the Shower...Thinking",
+      "url": "https://open.spotify.com/track/7DzT745Oi9NI016FEkjWNa"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 275333,
-      "name": "Slow Divers - Live",
-      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
+      "duration_ms": 467493,
+      "name": "Kettle Whistle",
+      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 467493,
-      "name": "Kettle Whistle",
-      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
     },
     {
       "added_at": null,

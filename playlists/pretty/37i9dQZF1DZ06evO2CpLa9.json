@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 557788,
+  "num_followers": 557841,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAKaWTUP+2UAN/wWxJjAKS+",
+  "snapshot_id": "Z1I+gAAAAADBZP0A62QuZaxKqt17LAf3",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Soy",
-        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "As\u00ed Soy",
-      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Seguir\u00e9",
         "url": "https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 232960,
       "name": "Yo Seguir\u00e9",
       "url": "https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Soy",
+        "url": "https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "As\u00ed Soy",
+      "url": "https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 257700,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/72buhyGyL6jEe9EWJLbxX3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 257700,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/72buhyGyL6jEe9EWJLbxX3"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+      "duration_ms": 193246,
+      "name": "Hambre",
+      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
     },
     {
       "added_at": null,
@@ -947,58 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 203835,
-      "name": "GTO",
-      "url": "https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Hambre",
-      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fotos y Recuerdos",
-        "url": "https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 198035,
-      "name": "Fotos y Recuerdos",
-      "url": "https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -1027,6 +975,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fotos y Recuerdos",
+        "url": "https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 198035,
+      "name": "Fotos y Recuerdos",
+      "url": "https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 203835,
+      "name": "GTO",
+      "url": "https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -1047,18 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 243428,
-      "name": "SANGRE X SANGRE",
-      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "added_at": null,
@@ -1091,22 +1095,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Metas",
-        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 219452,
-      "name": "No Te Metas",
-      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
+      "duration_ms": 243428,
+      "name": "SANGRE X SANGRE",
+      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
       "added_at": null,
@@ -1127,22 +1127,6 @@
       "duration_ms": 251803,
       "name": "Un D\u00eda Todo Se Termina (Remix)",
       "url": "https://open.spotify.com/track/5aXdE6AyjGce9lDyYmMQyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 199397,
-      "name": "K.A.R.M.A.",
-      "url": "https://open.spotify.com/track/7c0IyStm73PMyup1OQGEMy"
     },
     {
       "added_at": null,
@@ -1183,6 +1167,22 @@
       "duration_ms": 189250,
       "name": "Soy Mercenario",
       "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 199397,
+      "name": "K.A.R.M.A.",
+      "url": "https://open.spotify.com/track/7c0IyStm73PMyup1OQGEMy"
     },
     {
       "added_at": null,

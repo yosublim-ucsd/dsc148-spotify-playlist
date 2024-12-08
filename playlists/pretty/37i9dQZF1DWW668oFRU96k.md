@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dipha Barus
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,387 likes - 91 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,386 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 15 | [Heaven](https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Heaven](https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv) | 2:33 |
 | 16 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 |
 | 17 | [Honey Water](https://open.spotify.com/track/6UNPW2DYLu0j2PInw98KXo) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Honey Water](https://open.spotify.com/album/3DKQOnlXdHWQaX2Br1evcw) | 3:40 |
-| 18 | [All That I Want \(Matt Leger Remix\)](https://open.spotify.com/track/2qc17uDP4VXcfZdo1sFiWo) | [Kaz Benson](https://open.spotify.com/artist/0BPhMZyCplITVU1TCBthq5) | [All That I Want \(Matt Leger Remix\)](https://open.spotify.com/album/1MqYUnzAwHqgvHTUFGZerx) | 3:29 |
+| 18 | [All That I Want \- Matt Leger Remix](https://open.spotify.com/track/2qc17uDP4VXcfZdo1sFiWo) | [Kaz Benson](https://open.spotify.com/artist/0BPhMZyCplITVU1TCBthq5), [Matt Leger](https://open.spotify.com/artist/3wxxQcTnuIZrDDtP8admGi) | [All That I Want \(Matt Leger Remix\)](https://open.spotify.com/album/1MqYUnzAwHqgvHTUFGZerx) | 3:29 |
 | 19 | [Tokyo To Rio](https://open.spotify.com/track/0vLFoHL7RfspOfDsVwe4Qt) | [Alpharock](https://open.spotify.com/artist/629Fs7UJp6tWqOYZi8t8ET), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Tokyo To Rio](https://open.spotify.com/album/0Lzo5yZdsEC87h94SjMgHJ) | 2:06 |
 | 20 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 |
 | 21 | [Tell Me](https://open.spotify.com/track/5iIzqwGRSEs5LKojYvViss) | [Casst](https://open.spotify.com/artist/2qkR14urBUNWrXru4DehS1) | [Bright Heart](https://open.spotify.com/album/2RFNlRxqkT7fsExWggHkjr) | 3:08 |

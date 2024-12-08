@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Taylor Acorn",
-  "num_followers": 145321,
+  "num_followers": 145355,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Bitter Sweet Love",
         "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 165799,
       "name": "Bitter Sweet Love",
       "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "JUMP!",
-        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "JUMP!",
-      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "The Maine",
         "url": "https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 190392,
       "name": "blame",
       "url": "https://open.spotify.com/track/6KiqAya4ntBbCLyH7Rf2Sk"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Bleed",
-        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
-      },
-      "artists": [
-        {
-          "name": "Connor Kauffman",
-          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -1955,22 +1939,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Connor Kauffman",
+          "url": "https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe"
         }
       ],
-      "duration_ms": 214735,
-      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
-      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+      "duration_ms": 145454,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -1991,50 +1971,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+        "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+        "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "falling for robots & wishing i was one",
-        "url": "https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg"
-      },
-      "artists": [
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
         }
       ],
-      "duration_ms": 177691,
-      "name": "wish i was a robot",
-      "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
+      "duration_ms": 214735,
+      "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
+      "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2055,18 +2007,66 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "beat up car",
-        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 214555,
-      "name": "beat up car",
-      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "falling for robots & wishing i was one",
+        "url": "https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 177691,
+      "name": "wish i was a robot",
+      "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204147,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+        "name": "beat up car",
+        "url": "https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 204147,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
+      "duration_ms": 214555,
+      "name": "beat up car",
+      "url": "https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "VOICES",
-        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 163262,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Crazy Again",
         "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 197877,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 163262,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
     },
     {
       "added_at": "2024-10-11 16:49:21",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
+        "name": "LOVE U ANYWAY",
+        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "LOVE U ANYWAY",
+      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
         "name": "wear your heart out",
         "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
       },
@@ -2471,22 +2487,6 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
-        "name": "LOVE U ANYWAY",
-        "url": "https://open.spotify.com/album/5m8ob2qOWQ4eddgeolaXyf"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "LOVE U ANYWAY",
-      "url": "https://open.spotify.com/track/6lficC9CzeHGY7FnmJkZPx"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
         "name": "Survival in Motion",
         "url": "https://open.spotify.com/album/7MLciyYz4wb1vQkFdX9MEE"
       },
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2024-10-11 16:49:21",
       "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
+    },
+    {
+      "added_at": "2024-10-11 16:49:21",
+      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
-    },
-    {
-      "added_at": "2024-10-11 16:49:21",
-      "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
     },
     {
       "added_at": "2024-10-11 16:49:21",

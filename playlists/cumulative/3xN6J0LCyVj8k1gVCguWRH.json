@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 262906,
       "name": "7 Deadly Sins",
       "url": "https://open.spotify.com/track/0d9uu7Xi4ne8eXbozHQVZL"
@@ -9098,7 +9098,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 178175,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4SEqBuHS3qTU1udNSh02KL"
@@ -11906,7 +11906,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 182000,
       "name": "Caronte",
       "url": "https://open.spotify.com/track/6d4vF88ewb32uhgHNJGSGs"
@@ -14608,7 +14608,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 245111,
       "name": "Confiesale",
       "url": "https://open.spotify.com/track/3sJkuExSQtBF7e0wk2Os9B"
@@ -20796,7 +20796,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183683,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/0lRM1nECi5pj7sutFfoQw2"
@@ -21196,7 +21196,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 172800,
       "name": "Enjeva",
       "url": "https://open.spotify.com/track/5rzHkwu1ssBrZpWOKkKKsD"
@@ -21438,7 +21438,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 234146,
       "name": "ESCLAVO",
       "url": "https://open.spotify.com/track/5w5NzY9anGUwg5V1CWRMsz"
@@ -22578,6 +22578,24 @@
       "duration_ms": 143275,
       "name": "Falling in Love Staying in Love",
       "url": "https://open.spotify.com/track/42N78W3HCmg2nCg205tSPM"
+    },
+    {
+      "album": {
+        "name": "Falling Like Stars (2024 Remaster)",
+        "url": "https://open.spotify.com/album/3h19O9EUV9EVfBH4sqsnBx"
+      },
+      "artists": [
+        {
+          "name": "Bird",
+          "url": "https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "Falling Like Stars - 2024 Remaster",
+      "url": "https://open.spotify.com/track/1hn5CgQfYJPKhOMUgD1fNP"
     },
     {
       "album": {
@@ -51068,6 +51086,24 @@
     {
       "album": {
         "name": "Ojos Marrones (Cover)",
+        "url": "https://open.spotify.com/album/2z96nvJKPy3kxLBjWrdwLU"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198112,
+      "name": "Ojos Marrones - Cover",
+      "url": "https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI"
+    },
+    {
+      "album": {
+        "name": "Ojos Marrones (Cover)",
         "url": "https://open.spotify.com/album/7ymbeUggzWsyFzb0zWSSY0"
       },
       "artists": [
@@ -73144,7 +73180,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 222777,
       "name": "tunnel vision",
       "url": "https://open.spotify.com/track/7G3wRnaeSd0ZOVcEiza4dL"

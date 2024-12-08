@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6844,
+  "num_followers": 6847,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACa6LxKyKvZyRHSGNS7HVYG",
+  "snapshot_id": "Z1I+gAAAAABa5wmHFR25LeIx5p5J62zN",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,

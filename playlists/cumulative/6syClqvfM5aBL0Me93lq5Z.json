@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Color in Your Cheeks",
+      "url": "https://open.spotify.com/track/7MLJb6r8yWftfsGmR0Qbiy"
+    },
+    {
+      "album": {
         "name": "Feed the Machine",
         "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
       },

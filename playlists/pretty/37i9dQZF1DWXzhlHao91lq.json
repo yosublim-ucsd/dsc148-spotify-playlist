@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73178,
+  "num_followers": 73171,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-11-25 01:00:00",
       "album": {
-        "name": "Renee's Song",
-        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 130545,
-      "name": "Renee's Song",
-      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
-    },
-    {
-      "added_at": "2024-11-25 01:00:00",
-      "album": {
         "name": "We Were Here",
         "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 203773,
       "name": "Winter",
       "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
+    },
+    {
+      "added_at": "2024-11-25 01:00:00",
+      "album": {
+        "name": "Renee's Song",
+        "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 130545,
+      "name": "Renee's Song",
+      "url": "https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D"
     },
     {
       "added_at": "2024-11-25 01:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-11-25 01:00:00",
       "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/725idQDxyOq1atgCsutMrS"
-    },
-    {
-      "added_at": "2024-11-25 01:00:00",
-      "album": {
         "name": "Don't Stop Believing",
         "url": "https://open.spotify.com/album/7lioeM9YLlGipkbkfFxS3R"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-11-25 01:00:00",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP"
       },
       "artists": [
         {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
         }
       ],
-      "duration_ms": 186334,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
+      "duration_ms": 229493,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/725idQDxyOq1atgCsutMrS"
     },
     {
       "added_at": "2024-11-25 01:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 259665,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
+    },
+    {
+      "added_at": "2024-11-25 01:00:00",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 186334,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
     },
     {
       "added_at": "2024-11-25 01:00:00",

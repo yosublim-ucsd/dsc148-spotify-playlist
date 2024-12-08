@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 493641,
+  "num_followers": 494075,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+      },
+      "artists": [
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1885,22 +1885,6 @@
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
-      },
-      "artists": [
-        {
-          "name": "Ohio Players",
-          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "Love Rollercoaster",
-      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Dancing In The Moonlight",
@@ -1915,6 +1899,22 @@
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
+      },
+      "artists": [
+        {
+          "name": "Ohio Players",
+          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "Love Rollercoaster",
+      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "The Very Best of the Spinners",
+        "url": "https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Working My Way Back to You",
+      "url": "https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -2407,34 +2423,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Very Best of the Spinners",
-        "url": "https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS"
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Working My Way Back to You",
-      "url": "https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Jeepster",
-      "url": "https://open.spotify.com/track/5BUVbe6Zt1jVgKFKMdp0p0"
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     }
   ],
   "unique_name": "70s Party",

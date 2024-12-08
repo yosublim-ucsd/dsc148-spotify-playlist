@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152209,
+  "num_followers": 152217,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAD3l5Tr7uu1urh97sE4dAdA",
+  "snapshot_id": "Z1I+gAAAAAAWpXdSrmzN2BVUBWmKE/cU",
   "tracks": [
     {
       "added_at": null,
@@ -702,11 +702,19 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
+        },
+        {
+          "name": "Amadito Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 151720,
+      "name": "Luna Lunera",
+      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
     },
     {
       "added_at": null,
@@ -770,19 +778,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
-        },
-        {
-          "name": "Amadito Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/29zs3dt9hJeHPzw0M4Pi4D"
         }
       ],
-      "duration_ms": 151720,
-      "name": "Luna Lunera",
-      "url": "https://open.spotify.com/track/47eHlqc7hMbHKGjvbbcqBy"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/6vgbQzrwfoawboJl6sIm1E"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
+      "duration_ms": 171605,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/4EQkyHaiZP5Tipa5hBtPjU"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

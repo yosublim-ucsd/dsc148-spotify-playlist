@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 30944,
+  "num_followers": 30952,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
+        "name": "Hate You Instead",
+        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "Hate You Instead",
+      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
         "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
         "url": "https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 290969,
       "name": "\u05db\u05e0\u05e2\u05df (12 \u05de\u05e8\u05d2\u05dc\u05d9\u05dd)",
       "url": "https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "Hate You Instead",
-        "url": "https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "Hate You Instead",
-      "url": "https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
         "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
         "url": "https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 206000,
       "name": "\u05e0\u05e9\u05de\u05d4 \u05d9\u05e7\u05e8\u05d4",
       "url": "https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
+        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
+        "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
+      },
+      "artists": [
+        {
+          "name": "Avihu Pinhasov Rhythm Club",
+          "url": "https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r"
+        }
+      ],
+      "duration_ms": 234477,
+      "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
+      "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
         "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
-        "url": "https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW"
-      },
-      "artists": [
-        {
-          "name": "Avihu Pinhasov Rhythm Club",
-          "url": "https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r"
-        }
-      ],
-      "duration_ms": 234477,
-      "name": "\u05d1\u05e1\u05d5\u05e3 \u05d0\u05e0\u05d9 \u05de\u05d2\u05df \u05d3\u05d5\u05d3",
-      "url": "https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -863,8 +863,8 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
+        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 177000,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
-      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+      "duration_ms": 245100,
+      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -911,22 +911,18 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/4Ypg8xywp1ct6Fb36abZGm"
+        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
+        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
       },
       "artists": [
         {
-          "name": "Ziv Shachar",
-          "url": "https://open.spotify.com/artist/3iXZqQqLD0RZpOu6qHj6AX"
-        },
-        {
-          "name": "Shazamat",
-          "url": "https://open.spotify.com/artist/0uo5SLiIan9YDCQWy20wyV"
+          "name": "Aya Korem",
+          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
         }
       ],
-      "duration_ms": 199615,
-      "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/2QdmP4yEgD0uwb1kSSPjb1"
+      "duration_ms": 257663,
+      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
+      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -963,6 +959,26 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
+        "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/4Ypg8xywp1ct6Fb36abZGm"
+      },
+      "artists": [
+        {
+          "name": "Ziv Shachar",
+          "url": "https://open.spotify.com/artist/3iXZqQqLD0RZpOu6qHj6AX"
+        },
+        {
+          "name": "Shazamat",
+          "url": "https://open.spotify.com/artist/0uo5SLiIan9YDCQWy20wyV"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "\u05d4\u05d9\u05d5\u05dd \u05e9\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/2QdmP4yEgD0uwb1kSSPjb1"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
         "name": "Write About You",
         "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 174208,
       "name": "Write About You",
       "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "\u05dc\u05d7\u05e1\u05d3 \u05d5\u05d2\u05d0\u05d5\u05dc\u05d4 \u05d4\u05de\u05e9\u05da \u05d9\u05e9\u05e8",
-        "url": "https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8"
-      },
-      "artists": [
-        {
-          "name": "Aya Korem",
-          "url": "https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25"
-        }
-      ],
-      "duration_ms": 257663,
-      "name": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
-      "url": "https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
       },
       "artists": [
         {
@@ -1024,9 +1024,29 @@
           "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 245100,
-      "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+    },
+    {
+      "added_at": "2024-11-28 22:00:00",
+      "album": {
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -1043,22 +1063,6 @@
       "duration_ms": 195000,
       "name": "\u05dc\u05d9\u05df",
       "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
-    },
-    {
-      "added_at": "2024-11-28 22:00:00",
-      "album": {
-        "name": "warawara",
-        "url": "https://open.spotify.com/album/5aWXvqxQ0LLRXeGfsvZU55"
-      },
-      "artists": [
-        {
-          "name": "J.Lamotta",
-          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
-        }
-      ],
-      "duration_ms": 113320,
-      "name": "warawara",
-      "url": "https://open.spotify.com/track/3uLbLFMk7VeOwVdv8J6Y1I"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

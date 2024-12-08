@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=LGIlz9cXRDex\_kxGWuTJ8Q">Francois van Coke</a> & <a href="https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt?si=upaSd6KiQCmqjrQ9C4zdHw">Ryno Velvet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,114 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,173 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

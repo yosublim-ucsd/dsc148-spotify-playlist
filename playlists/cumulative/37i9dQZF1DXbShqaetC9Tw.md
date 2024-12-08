@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-210 songs - 11 hr 39 min
+211 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11:59 \(feat\. Goopy\)](https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [11:59 \(feat\. Goopy\)](https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk) | 2:57 | 2022-05-11 |  |
 | [23 Pt.2](https://open.spotify.com/track/18bJSdEq3znhPNtbiizHJd) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 2:58 | 2023-06-20 | 2023-09-18 |
 | [24](https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:18 | 2022-04-18 | 2022-07-27 |
+| [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 | 2024-12-05 |  |
 | [A Song Nobody Knows](https://open.spotify.com/track/4t2ykHVO5uuUhQLKk55TDx) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:49 | 2022-04-18 | 2022-07-29 |
 | [A Song Nobody Knows](https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 4:49 | 2022-07-25 | 2024-04-19 |
 | [Abandoned Dog](https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PROTOTYPE RESEARCH \#0063](https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP) | 3:32 | 2022-07-04 | 2023-05-11 |
@@ -181,7 +182,7 @@
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-18 |  |
 | [supporting actor](https://open.spotify.com/track/7GKckapJsvimFkGtOoOSB9) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:15 | 2022-04-18 | 2022-04-21 |
-| [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 | 2022-12-15 |  |
+| [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 | 2022-12-15 | 2024-12-08 |
 | [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 | 2023-04-09 |
 | [The fin.](https://open.spotify.com/track/5Nr6Z6PpXfyyDjD0J1s6QK) | [MNYL](https://open.spotify.com/artist/6poxjkXTjsM1ucj5rmcyEZ) | [The fin.](https://open.spotify.com/album/0xMZKhtuUSuY14i0bGExLl) | 3:27 | 2022-04-18 | 2022-07-09 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |

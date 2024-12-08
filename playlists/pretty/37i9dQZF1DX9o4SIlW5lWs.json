@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: The La Planta, Emanero & Abel Pintos.",
-  "num_followers": 229883,
+  "num_followers": 230017,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,18 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
-        "name": "Dice Que No Le Importa",
-        "url": "https://open.spotify.com/album/209YdplhoRJepgB73P2W0b"
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Dice Que No Le Importa",
-      "url": "https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc"
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -935,18 +931,22 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+        "name": "Dice Que No Le Importa",
+        "url": "https://open.spotify.com/album/209YdplhoRJepgB73P2W0b"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+      "duration_ms": 245280,
+      "name": "Dice Que No Le Importa",
+      "url": "https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
         "name": "Quiero Llorar",
         "url": "https://open.spotify.com/album/5hRIZ1HQpBJIuU1x0FQPJP"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 201722,
       "name": "Quiero Llorar",
       "url": "https://open.spotify.com/track/2GYNtFzTPxPDvDGpaaRrQs"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
         "name": "Con Vos",
         "url": "https://open.spotify.com/album/4lN4nVXWJYtFecrKIflo7N"
       },
@@ -1227,6 +1211,38 @@
       "duration_ms": 176658,
       "name": "Con Vos",
       "url": "https://open.spotify.com/track/2aEwfuFWFF7Va5fEccGs3x"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -1287,22 +1303,6 @@
       "duration_ms": 205176,
       "name": "20 Labios",
       "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
-        "name": "Lo Mejor del Amor",
-        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Lo Mejor del Amor",
-      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
+        "name": "Lo Mejor del Amor",
+        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Lo Mejor del Amor",
+      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2024-12-06 18:34:37",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-12-06 18:34:37",
       "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2024-12-06 18:34:37",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-12-06 18:34:37",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2024-12-06 18:34:37",

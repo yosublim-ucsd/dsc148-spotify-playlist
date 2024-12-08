@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 15320,
+  "num_followers": 15338,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
         "name": "Beside you (Better Days X Jang Hye-Jin)",
         "url": "https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -403,50 +419,18 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "Beautiful GunbarI OST",
-        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
       "artists": [
         {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 171500,
-      "name": "a story to tell (Original Ver.)",
-      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+        "name": "Beautiful GunbarI OST",
+        "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Betty",
+          "url": "https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+      "duration_ms": 171500,
+      "name": "a story to tell (Original Ver.)",
+      "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -535,22 +519,18 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
       "artists": [
         {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        },
-        {
-          "name": "Yoon Jiyoung",
-          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 198040,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -571,18 +551,22 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "\uc2dc\uc18c",
-        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
       "artists": [
         {
-          "name": "KiTak",
-          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        },
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
         }
       ],
-      "duration_ms": 163000,
-      "name": "\uc2dc\uc18c",
-      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
+      "duration_ms": 198040,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -603,6 +587,22 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
+        "name": "\uc2dc\uc18c",
+        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
+      },
+      "artists": [
+        {
+          "name": "KiTak",
+          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "\uc2dc\uc18c",
+      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
         "name": "4Life",
         "url": "https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 171880,
       "name": "4Life",
       "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2024-12-05 09:33:19",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-12-05 09:33:19",
       "album": {
+        "name": "Favorite Things",
+        "url": "https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z"
+      },
+      "artists": [
+        {
+          "name": "Bok Dajin",
+          "url": "https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx"
+        }
+      ],
+      "duration_ms": 188234,
+      "name": "Favorite Things",
+      "url": "https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01"
+    },
+    {
+      "added_at": "2024-12-05 09:33:19",
+      "album": {
         "name": "Free Giveaway",
         "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 233706,
       "name": "Voice Of The Forest - Guitar Version",
       "url": "https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid"
-    },
-    {
-      "added_at": "2024-12-05 09:33:19",
-      "album": {
-        "name": "Like a tree",
-        "url": "https://open.spotify.com/album/6Ofucyh6nAL0ZMEWQxzprW"
-      },
-      "artists": [
-        {
-          "name": "YE ON",
-          "url": "https://open.spotify.com/artist/0vbHZmdDC5FcQagW7WPBci"
-        }
-      ],
-      "duration_ms": 295889,
-      "name": "Like a tree",
-      "url": "https://open.spotify.com/track/5TeloOVkGGz2LJ9l70i8Zx"
     },
     {
       "added_at": "2024-12-05 09:33:19",

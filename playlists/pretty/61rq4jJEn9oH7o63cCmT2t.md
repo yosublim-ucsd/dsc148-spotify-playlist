@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 61 songs - 3 hr 22 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 59 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,19 +55,17 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 45 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 |
 | 46 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 |
 | 47 | [Hurt](https://open.spotify.com/track/4CIDpgIby1S9PPnDNUnxdg) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:25 |
-| 48 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 |
-| 49 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
-| 50 | [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:50 |
-| 51 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
-| 52 | [Bury Me Alive](https://open.spotify.com/track/0CMx7HD62N2PDxs1eqycJQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:44 |
-| 53 | [Settle Down My Boy](https://open.spotify.com/track/3Fql5eBXTuKgAf75bWgHzr) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Down Under](https://open.spotify.com/album/7fviHYYN5OFnCiVTwgxEfZ) | 3:27 |
-| 54 | [Bullethead](https://open.spotify.com/track/4A5W1YfKFIZjJrJ5HPey2r) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:30 |
-| 55 | [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
-| 56 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 |
-| 57 | [Jam Eater Blues](https://open.spotify.com/track/7Ai1XcLGYp3XHvdnG9QLhO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 3:10 |
-| 58 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 |
-| 59 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
-| 60 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 |
-| 61 | [Orange Ball Of Peace](https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 1:25 |
+| 48 | [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:50 |
+| 49 | [Money, Money, Money](https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:06 |
+| 50 | [Bury Me Alive](https://open.spotify.com/track/0CMx7HD62N2PDxs1eqycJQ) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:44 |
+| 51 | [Settle Down My Boy](https://open.spotify.com/track/3Fql5eBXTuKgAf75bWgHzr) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Down Under](https://open.spotify.com/album/7fviHYYN5OFnCiVTwgxEfZ) | 3:27 |
+| 52 | [Bullethead](https://open.spotify.com/track/4A5W1YfKFIZjJrJ5HPey2r) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:30 |
+| 53 | [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
+| 54 | [Magpie](https://open.spotify.com/track/0Nx1m4J8mlBW34aUW7wcy2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:00 |
+| 55 | [Jam Eater Blues](https://open.spotify.com/track/7Ai1XcLGYp3XHvdnG9QLhO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 3:10 |
+| 56 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 |
+| 57 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
+| 58 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 |
+| 59 | [Orange Ball Of Peace](https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 1:25 |
 
-Snapshot ID: `AAAAROiuuWwrHQe9NwoHP4fyK9blbrrV`
+Snapshot ID: `AAAARpO5NLVq6oASfGVSRkcSUjt6FZMR`

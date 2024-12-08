@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ psicologi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,864 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,862 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
-| 2 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 2 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 3 | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/track/4glV7yEkQD2QhP1xZiavsX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM) | 3:06 |
 | 4 | [666 SEMPRE DiSTRATTa](https://open.spotify.com/track/5OT28vRDp5rQT19GKrPkJQ) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [666 SEMPRE DiSTRATTa](https://open.spotify.com/album/5kgFtv0HLB7qlAvtRHMQzi) | 4:06 |
 | 5 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |

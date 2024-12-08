@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,704 songs - 4 day 20 hr 38 min
+1,705 songs - 4 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Hello Sun](https://open.spotify.com/track/0Q1Qacx7PAcTlVxeovkmJL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 3:35 | 2020-07-03 | 2022-04-21 |
 | [Her Theme](https://open.spotify.com/track/5Yrb9rFCDWnRSTxryTFS1n) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Her Theme](https://open.spotify.com/album/37t0eo2UQzsyTUPUDnQqJ4) | 4:06 | 2020-12-04 | 2022-02-18 |
 | [Here](https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Here](https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj) | 3:12 | 2021-11-12 | 2023-09-09 |
-| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 |  |
+| [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 | 2024-11-08 | 2024-12-08 |
 | [Here on My Own](https://open.spotify.com/track/3jbm6LQn2wgRPBAEFqU8Hu) | [Swardy](https://open.spotify.com/artist/5iTOaSGMZgJ1U8k6NjmzTx) | [Here on My Own](https://open.spotify.com/album/6c93BbSAJETqKh5THU24qa) | 5:50 | 2020-03-20 | 2021-02-19 |
 | [Here With U](https://open.spotify.com/track/0ybQSH5KtXbPTcH9JuXEfD) | [Michael Mason](https://open.spotify.com/artist/6FVCXAh2mxOgRQutgoHRPJ) | [Here With U](https://open.spotify.com/album/1aSZAELKMTTiOLrmdhIWfX) | 3:12 | 2020-05-20 | 2020-10-09 |
 | [Heroes \(we could be\) \- Amtrac Remix](https://open.spotify.com/track/7anJjQNSjKhPfkvRGBKiHJ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Heroes \(we could be\) \[The Remixes\]](https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og) | 5:08 | 2020-05-18 | 2020-07-03 |
@@ -1199,6 +1199,7 @@
 | [Proxima](https://open.spotify.com/track/5KeQ9CJ5dMgHkRjZTmDfJZ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Proxima](https://open.spotify.com/album/2sbxil0PPjCnynktwKcMyJ) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-07-28 |
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2021-02-19 | 2021-03-10 |
+| [Pursuit](https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Pursuit](https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F) | 4:52 | 2024-12-06 |  |
 | [Queen of Ice \- Nora En Pure Club Mix](https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 4:15 | 2022-12-28 | 2023-01-06 |
 | [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 |  |
 | [Rabiosa](https://open.spotify.com/track/4wETfzGfYptjrNjf31CA06) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Rabiosa](https://open.spotify.com/album/7hre64g0IxybZvKQx22qbP) | 4:11 | 2022-12-28 | 2023-01-06 |

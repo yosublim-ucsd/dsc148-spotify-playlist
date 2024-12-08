@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: FirstKlaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,348 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,402 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 21 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 22 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 23 | [Bus Stop Remix \(with Young Jonn\)](https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Okada Airlines](https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH) | 3:01 |
-| 24 | [Lovin' U](https://open.spotify.com/track/1OzZAsw02pitzWNarjpubU) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv) | [Lovin' U](https://open.spotify.com/album/6jcPTETBV7CATmqvDP7wX2) | 3:26 |
+| 24 | [Lovin' U](https://open.spotify.com/track/1OzZAsw02pitzWNarjpubU) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP) | [Lovin' U](https://open.spotify.com/album/6jcPTETBV7CATmqvDP7wX2) | 3:26 |
 | 25 | [Jostimilo](https://open.spotify.com/track/0zKgp4hE1VnNANbMgKFWA5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Jostimilo](https://open.spotify.com/album/71i0Q7sZiqg8j7QoKdcskH) | 1:57 |
 | 26 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 |
 | 27 | [POUNDS AND DOLLARS](https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [POUNDS AND DOLLARS](https://open.spotify.com/album/6J1fw9ZjeEgrMkKhUVY2Kp) | 2:47 |

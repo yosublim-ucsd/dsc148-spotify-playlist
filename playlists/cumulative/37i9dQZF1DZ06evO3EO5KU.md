@@ -4,10 +4,11 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 48 min
+126 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 Vidas](https://open.spotify.com/track/2WPTtiBY1dTVmjqdfasfXJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [10 Vidas](https://open.spotify.com/album/7fd2xxZm8FRtDT0uv152lY) | 2:39 | 2024-12-08 |  |
 | [11 + 11](https://open.spotify.com/track/2YwUKXOwzoVhgSDZ5XzCjU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [11 + 11](https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21) | 3:16 | 2024-10-01 |  |
 | [11 + 11](https://open.spotify.com/track/3p7kSQp2lX5fKjwohrSzmm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [11 + 11](https://open.spotify.com/album/6BqC4MqGmu438gIvuCw00Y) | 3:16 | 2024-05-25 | 2024-10-01 |
 | [14 Años 9 Meses](https://open.spotify.com/track/3KuAGeEhJp2Hy7tYfl358x) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:39 | 2022-06-01 | 2022-10-13 |

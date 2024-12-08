@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154050,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -1635,6 +1653,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -1650,7 +1690,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -2198,7 +2238,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3409,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141141,
+      "name": "call it the end",
+      "url": "https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7cyQGqqV7M5XxCJimEjX0j"
       },
@@ -3826,7 +3884,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -5383,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214950,
+      "name": "dance all night",
+      "url": "https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn"
+    },
+    {
+      "album": {
         "name": "Dark & Wild",
         "url": "https://open.spotify.com/album/5buDSK834SwuXtu8G642W5"
       },
@@ -6004,6 +6080,24 @@
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
       "album": {
@@ -7442,7 +7536,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -7482,6 +7576,24 @@
       "duration_ms": 139308,
       "name": "Future",
       "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
     },
     {
       "album": {
@@ -8644,7 +8756,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175876,
       "name": "HOP ON DA SHOW",
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
@@ -11352,7 +11464,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -13896,7 +14008,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 241190,
       "name": "nh\u1eafn nh\u1ee7",
       "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
@@ -13918,7 +14030,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 236262,
       "name": "Nh\u1eefng L\u1eddi H\u1ee9a B\u1ecf Qu\u00ean",
       "url": "https://open.spotify.com/track/1LJyhnPdYGRLerwJd8CmL1"
@@ -14037,6 +14149,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184006,
+      "name": "not the same",
+      "url": "https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM"
+    },
+    {
+      "album": {
         "name": "You Never Walk Alone",
         "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
       },
@@ -14066,10 +14196,28 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
     },
     {
       "album": {
@@ -14408,7 +14556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -15958,7 +16106,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
@@ -17066,7 +17214,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 230675,
       "name": "shhhhhhh..",
       "url": "https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x"
@@ -17930,6 +18078,24 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
     },
     {
       "album": {
@@ -19482,7 +19648,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 279605,
       "name": "Tim Anh Ghen",
       "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
@@ -19620,6 +19786,24 @@
       "duration_ms": 178806,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2P6PLe4ojigLUp4CWMkcAI"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236248,
+      "name": "too bad for us",
+      "url": "https://open.spotify.com/track/3tDF6qjNrabjnb23RB2rpa"
     },
     {
       "album": {
@@ -20018,6 +20202,24 @@
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167748,
+      "name": "two years",
+      "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
     },
     {
       "album": {
@@ -20606,7 +20808,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 174545,
       "name": "T\u1eebng Quen",
       "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
@@ -20810,7 +21012,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -20992,7 +21194,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -21484,6 +21686,28 @@
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
+    },
+    {
+      "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
     },
     {
       "album": {

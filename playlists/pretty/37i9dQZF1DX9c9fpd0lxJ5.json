@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 445499,
+  "num_followers": 445507,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+        }
+      ],
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Puro Sentimiento",
         "url": "https://open.spotify.com/album/2tfp6ivBYbFJ6XpoEtTNvn"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Moody",
         "url": "https://open.spotify.com/album/5xgUkUTLMCu6Qx4IZXRxHX"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 198377,
       "name": "Moody",
       "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 163423,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
         }
       ],
-      "duration_ms": 166016,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+      "duration_ms": 163423,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 208614,
       "name": "PRONTO!",
       "url": "https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Mosaico Pirata",
-        "url": "https://open.spotify.com/album/7CtZHgAWrKZnzwJvzBxnyV"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Fresa",
-      "url": "https://open.spotify.com/track/3dsyfUHYPtqgToDCzV3W9H"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Mosaico Pirata",
+        "url": "https://open.spotify.com/album/7CtZHgAWrKZnzwJvzBxnyV"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/3dsyfUHYPtqgToDCzV3W9H"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Eso Que Me Das",
+        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Locochona",
         "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Eso Que Me Das",
-        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Hasta Que T\u00fa Me Quieras",
         "url": "https://open.spotify.com/album/3nfX5TcvGZzpuG28qO1rbs"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 235013,
       "name": "Hasta Que T\u00fa Me Quieras",
       "url": "https://open.spotify.com/track/2hpIeSPVeZwDdwMPSRK0ti"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1155,22 +1139,6 @@
       "duration_ms": 318058,
       "name": "Esta canci\u00f3n",
       "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Volver A Empezar",
-        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 175596,
-      "name": "Volver A Empezar",
-      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1191,6 +1159,38 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Volver A Empezar",
+        "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 175596,
+      "name": "Volver A Empezar",
+      "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Algo Especial",
-        "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Algo Especial",
-      "url": "https://open.spotify.com/track/6iolHBXBb1PpgvOP4jPlpr"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Para No Verte M\u00e1s",
-        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+        "name": "Algo Especial",
+        "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
       },
       "artists": [
         {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
         }
       ],
-      "duration_ms": 185007,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+      "duration_ms": 222500,
+      "name": "Algo Especial",
+      "url": "https://open.spotify.com/track/6iolHBXBb1PpgvOP4jPlpr"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1359,6 +1343,22 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Para No Verte M\u00e1s",
+        "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 185007,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        }
-      ],
-      "duration_ms": 198914,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 198914,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
       "added_at": "2024-11-29 05:00:00",

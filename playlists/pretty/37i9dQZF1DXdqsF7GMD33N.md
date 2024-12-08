@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Nichelle Lewis in The Wiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,885 likes - 74 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,928 likes - 74 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 62 | [Breathe](https://open.spotify.com/track/1kjLLAje0HLxfsDC5dK9Pb) | [In The Heights \(Original Cast Recording\)](https://open.spotify.com/artist/6BrRyZRuy3RTzJjAXTc7Ts) | [In The Heights](https://open.spotify.com/album/3hRjhpRG5xGYEprgQZjZBQ) | 4:01 |
 | 63 | [Dogfight](https://open.spotify.com/track/7MJKFRt6G1mrttF2d2JUxb) | [Dogfight \(Original Cast\)](https://open.spotify.com/artist/6aCkGlyWkbULN0C7voly6K) | [Dogfight \(Original Cast Recording\)](https://open.spotify.com/album/4EeKc9r6CncXFkl1QPtRnK) | 3:03 |
 | 64 | [One Second and a Million Miles](https://open.spotify.com/track/3UQKDBuIhaCSkRzFyB43Ph) | [Steven Pasquale](https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [The Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7r7TxhWB6tZHc3aPlMjaup) | 6:50 |
-| 65 | [What Baking Can Do](https://open.spotify.com/track/0h77yfaXxrLMLz31uNDigN) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Waitress Original Broadway Cast Ensemble](https://open.spotify.com/artist/5SzvirsCuL9PBU7S1Pc1Hb) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 3:30 |
+| 65 | [What Baking Can Do](https://open.spotify.com/track/0h77yfaXxrLMLz31uNDigN) | [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy), [Waitress Original Broadway Cast Ensemble](https://open.spotify.com/artist/42T0ua8vepUO5ao1H0RExt) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 3:30 |
 | 66 | [This Is Not Over Yet](https://open.spotify.com/track/5liq0Nktp2G30qH5msvBU4) | [Brent Carver](https://open.spotify.com/artist/3UjnDKZGjurD2qFKodoySs), [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:49 |
 | 67 | [Happy Days Are Here Again](https://open.spotify.com/track/5kb8hqeLEXspWJZ0LrJPqE) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 3:03 |
 | 68 | [Out Tonight](https://open.spotify.com/track/32EGs7iNClnt5idKSkaqVA) | [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 3:48 |

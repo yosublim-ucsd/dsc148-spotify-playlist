@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-124 songs - 6 hr 25 min
+125 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Mis Tres Canciones](https://open.spotify.com/track/7nB30HoNUEgtv8rgDzRo54) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 3:10 | 2024-02-15 | 2024-07-07 |
 | [Momentos](https://open.spotify.com/track/7787ybGQsOgPEbje7suHgx) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Momentos](https://open.spotify.com/album/0I23ARWW1udSmzFAqi7Ydb) | 3:03 | 2024-10-29 |  |
 | [Morenita](https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 2:42 | 2024-10-21 |  |
+| [Navidad, Navidad](https://open.spotify.com/track/0kcdYS03fQD5ZjdrwCRjyd) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Navidad, Navidad](https://open.spotify.com/album/47KqLfOQDAZvWgiRazfg0E) | 2:52 | 2024-12-08 |  |
 | [Negrita Eae](https://open.spotify.com/track/4GhYLLUuRKMgK8oSApgAO4) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Puro Mazatlán](https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46) | 2:59 | 2022-06-21 | 2022-10-13 |
 | [No Dejes Que](https://open.spotify.com/track/729wxTN5RenV8HLAjXZhTo) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nos Vamos Juntos \- Un Tributo A Las Canciones De Caifanes Y Jaguares](https://open.spotify.com/album/2uk0BrQkXCpGFC0L4CQHVj) | 4:34 | 2022-06-04 | 2022-10-06 |
 | [No Me Dolió](https://open.spotify.com/track/6VFi3gg9YZYt9MBa2EiRgP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Fin de Semana](https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs) | 3:05 | 2022-06-01 |  |

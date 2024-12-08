@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,892 likes - 84 songs - 3 hr 46 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 41,891 likes - 84 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,855 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,853 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,20 +46,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 36 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 |
 | 37 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 |
 | 38 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
-| 39 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
-| 40 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
+| 39 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:26 |
+| 40 | [Letnie myśli](https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Letnie myśli](https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t) | 3:30 |
 | 41 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
-| 42 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 |
-| 43 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
+| 42 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
+| 43 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 |
 | 44 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
 | 45 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 |
-| 46 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
-| 47 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
+| 46 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
+| 47 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
 | 48 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
 | 49 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
 | 50 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
-| 51 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 |
-| 52 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
+| 51 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 |
+| 52 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 |
 | 53 | [powiedz](https://open.spotify.com/track/6i1eHxmWVmgg0hU2m90wIn) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 2:16 |
 | 54 | [Na noże](https://open.spotify.com/track/2Ug5alwLaG2oDaUa7D4mtg) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Arek Kopera](https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt) | [Czas się bać! \(Akt II\)](https://open.spotify.com/album/1UUVdPE6Puv3oC6KwERvRU) | 3:32 |
 | 55 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 |

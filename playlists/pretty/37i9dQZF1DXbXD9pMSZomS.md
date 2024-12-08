@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,745 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,859 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 25 | [Restless](https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Restless](https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61) | 3:34 |
 | 26 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 27 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 28 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
-| 29 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
+| 28 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
+| 29 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 30 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
 | 31 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
 | 32 | [Everytime](https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa) | [Everytime EP](https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw) | 5:08 |
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 39 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
 | 40 | [You With Me](https://open.spotify.com/track/4MgyEN8kWjh6ARc67pjcLL) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Alone Together](https://open.spotify.com/album/6EUF2ofzBAtVWQW2fUWzsN) | 2:44 |
 | 41 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 42 | [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 |
-| 43 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
-| 44 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 |
-| 45 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
-| 46 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
+| 42 | [Tokyo Cruise](https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Tokyo Cruise](https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI) | 3:02 |
+| 43 | [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 |
+| 44 | [I'm In Love](https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1) | [Social Lovers](https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL) | [I'm In Love](https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze) | 4:32 |
+| 45 | [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 |
+| 46 | [199X](https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP) | [Phil from Havêa](https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM) | [199X](https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF) | 3:33 |
 | 47 | [Setra](https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [SETRA](https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4) | 2:08 |
 | 48 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
 | 49 | [Be Free](https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ) | [J Boogie's Dubtronic Science](https://open.spotify.com/artist/2rvTQk7vgdGgo7rgbpQccv), [Carlos Araiza](https://open.spotify.com/artist/0RSWrUebnvbFC1IdV5J06y) | [Be Free](https://open.spotify.com/album/6feqNecN7VPp8Th36yMDeJ) | 5:49 |
-| 50 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
-| 51 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
+| 50 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
+| 51 | [Endcliffe Park](https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP) | [Al Zanders](https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz) | [Limb Valley](https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq) | 7:30 |
 | 52 | [Lofi Vs\. House](https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages, Vol\. 2](https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT) | 2:58 |
 | 53 | [De Ja Vu](https://open.spotify.com/track/2jNiFszQSHVQAO2moezxrP) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ziggy](https://open.spotify.com/artist/0S0XLnBGGRRtse9PUhIJbH) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 3:42 |
-| 54 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
-| 55 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 |
+| 54 | [Everytime \- Girls of the Internet Remix](https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ) | [Jason Hersco](https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Everytime \(Girls of the Internet Remix\)](https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P) | 3:41 |
+| 55 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
 | 56 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 57 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 |
-| 58 | [House Party](https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl) | [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [House Party](https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma) | 2:35 |
-| 59 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
-| 60 | [Focused](https://open.spotify.com/track/1YMzWMfkMEosGxNywl46IW) | [Belikeme](https://open.spotify.com/artist/3bq5uvcwCx8g4xdHTW8qaG) | [Focused](https://open.spotify.com/album/4K2cLtuDtXlBuAFdWDi2Fh) | 2:32 |
+| 58 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
+| 59 | [House Party](https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl) | [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [House Party](https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma) | 2:35 |
+| 60 | [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 |
 
 Snapshot ID: `Z0lKUAAAAABnt2YNiofdg/uatIG/vded`

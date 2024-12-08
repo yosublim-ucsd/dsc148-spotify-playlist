@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 14322,
+  "num_followers": 14339,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAABkhLqJzgBtGBDJ/SEFdB7k",
+  "snapshot_id": "Z1I+gAAAAACNAUS33adEiAZ1/L4yulvy",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sheriff O.E. & Me",
-      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Classics, Vol. 467: Big Mama Thornton",
-        "url": "https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
       "artists": [
         {
           "name": "Big Mama Thornton",
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Essential Classics",
-          "url": "https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN"
         }
       ],
-      "duration_ms": 164001,
-      "name": "The Big Change",
-      "url": "https://open.spotify.com/track/7lgOd3o9IF8AVoz5YC5S3j"
+      "duration_ms": 311906,
+      "name": "Big Mama Swings",
+      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
     },
     {
       "added_at": null,
@@ -752,25 +748,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Big Mama Swings",
-      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 171479,
       "name": "Cotton Picking Blues",
       "url": "https://open.spotify.com/track/02fef86NbwdkMQzdBgLxbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Burt Kendricks Orchestra",
+          "url": "https://open.spotify.com/artist/0R7qxJ6jQj6ziYipwDhQ96"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Story of My Blues",
+      "url": "https://open.spotify.com/track/1LVlipWMB4idCj88K0742u"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,234 likes - 104 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,215 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 57 | [20 SOMETHING](https://open.spotify.com/track/4yUmNIk1Y2svDaehWlwVg0) | [SAUDA](https://open.spotify.com/artist/39dIL6jVJO0gdoAOQL0Tt1) | [20 SOMETHING](https://open.spotify.com/album/6GlczP7cJpgbYNJ6VVVWKB) | 3:04 |
 | 58 | [Someone Special](https://open.spotify.com/track/0Lu6LIhUNgt1AtdpLPw3SJ) | [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2) | [Someone Special](https://open.spotify.com/album/45uy21ghFvPwPoWx6KvkcT) | 2:43 |
 | 59 | [Oasis](https://open.spotify.com/track/3KF5PJf3VpBDIzS1jx4tTI) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Oasis](https://open.spotify.com/album/2Op4oWKIJskGC8O1RVYk6X) | 3:11 |
-| 60 | [HALO](https://open.spotify.com/track/4NX9xOaFGgbFjMqJucnDCa) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Jacob Hansen](https://open.spotify.com/artist/4GSQs53ms6HHFxn4VfJQhy) | [HALO](https://open.spotify.com/album/3EjbXyzcsTtAL9ssXMiTnx) | 3:53 |
+| 60 | [HALO](https://open.spotify.com/track/4NX9xOaFGgbFjMqJucnDCa) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [HALO](https://open.spotify.com/album/3EjbXyzcsTtAL9ssXMiTnx) | 3:53 |
 | 61 | [Sign](https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Sign](https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc) | 3:07 |
 | 62 | [Firestone \- Live From Madison Square Garden](https://open.spotify.com/track/7gn9iIQ2L3tXsKWx5PDPGx) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Firestone \(Live From Madison Square Garden\)](https://open.spotify.com/album/0VB6poaMT31uobw0BoCT8N) | 4:01 |
 | 63 | [The Great Magician](https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [The Great Magician](https://open.spotify.com/album/63t10xbFmyLIsLoush60io) | 3:03 |

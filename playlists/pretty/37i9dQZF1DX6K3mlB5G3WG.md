@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,930 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,932 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 11 | [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
 | 12 | [7 VITE](https://open.spotify.com/track/6pDgrvVN6USSlstIcw7Quq) | [WAX](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [7 VITE](https://open.spotify.com/album/3gZuVdhfzgmklwURswCnOR) | 3:18 |
 | 13 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
-| 14 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 14 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 15 | [Ragazze facili](https://open.spotify.com/track/3KJF0gcADaG7bSR4zKfE1G) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 4:02 |
 | 16 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 17 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |

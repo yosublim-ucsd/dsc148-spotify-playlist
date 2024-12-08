@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACFSEc5LoVYscor/DaiMAMK",
+  "snapshot_id": "Z1I+gAAAAACa9+0IE2LvsYaSGEhVcZeV",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 187413,
+      "name": "Apoteose",
+      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 155930,
+      "name": "Eu e Tu",
+      "url": "https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vinhos & Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5P3drrq2VzZYKPn2izLfaa"
       },
@@ -375,38 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 155930,
-      "name": "Eu e Tu",
-      "url": "https://open.spotify.com/track/0mndNKokpOpH5OJYmp3D9v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 187413,
-      "name": "Apoteose",
-      "url": "https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -423,6 +423,38 @@
       "duration_ms": 196981,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "PSLS",
+      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
     },
     {
       "added_at": null,
@@ -447,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
       "artists": [
         {
@@ -456,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 162684,
-      "name": "PSLS",
-      "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
+      "duration_ms": 158117,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
     },
     {
       "added_at": null,
@@ -472,25 +504,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 163240,
-      "name": "Ordem Natural",
-      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zulu: Quarta Parede, Vol.3",
-        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
+      "duration_ms": 168146,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 232727,
       "name": "EGOT",
       "url": "https://open.spotify.com/track/5LSYq3wutWN9GgFp7NYUXD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Uhuru",
+      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
     },
     {
       "added_at": null,
@@ -595,6 +611,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Lossio",
+          "url": "https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r"
+        }
+      ],
+      "duration_ms": 191961,
+      "name": "L\u00e1 Fora",
+      "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a a Coisa Certa",
         "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
       },
@@ -604,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Nuvens",
-      "url": "https://open.spotify.com/track/2wn7DPTTHKgleHUFuuBlZQ"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/2muI3n9LN0NDkYR0DV2cz6"
     },
     {
       "added_at": null,
@@ -635,30 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe"
+        "name": "TUDO CULPA DO RNB",
+        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
       },
       "artists": [
         {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Lossio",
-          "url": "https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r"
         }
       ],
-      "duration_ms": 191961,
-      "name": "L\u00e1 Fora",
-      "url": "https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC"
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
     },
     {
       "added_at": null,
@@ -688,29 +724,9 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 146160,
-      "name": "Uhuru",
-      "url": "https://open.spotify.com/track/4toiAfoSc7JUVtPGbD58J4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUDO CULPA DO RNB",
-        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 259170,
-      "name": "TUDO CULPA DO RNB",
-      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
+      "duration_ms": 217120,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 267473,
       "name": "N\u00e3o",
       "url": "https://open.spotify.com/track/65OsMzU0QJiTzo3Fu2uq9q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a a Coisa Certa",
-        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/28azbjBNeQAUv060KuGomn"
     },
     {
       "added_at": null,
@@ -874,11 +874,15 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Manoela Fortuna",
+          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
         }
       ],
-      "duration_ms": 272010,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
+      "duration_ms": 263360,
+      "name": "Sem Distra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
     },
     {
       "added_at": null,
@@ -912,17 +916,13 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+          "name": "Monique Brito",
+          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
         }
       ],
-      "duration_ms": 183391,
-      "name": "RUMOS",
-      "url": "https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm"
+      "duration_ms": 319485,
+      "name": "TELA EM BRANCO",
+      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
     },
     {
       "added_at": null,
@@ -936,13 +936,17 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Monique Brito",
-          "url": "https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
         }
       ],
-      "duration_ms": 319485,
-      "name": "TELA EM BRANCO",
-      "url": "https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ"
+      "duration_ms": 183391,
+      "name": "RUMOS",
+      "url": "https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm"
     }
   ],
   "unique_name": "This Is Zudizilla",

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 45285,
+  "num_followers": 45289,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Cera Perdida",
-        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 189892,
-      "name": "Jaley Jaley",
-      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "Los Charapas de Oro",
         "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221393,
       "name": "La Danza del Petrolero",
       "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Cera Perdida",
+        "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 189892,
+      "name": "Jaley Jaley",
+      "url": "https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
-      "added_at": "2023-03-10 22:34:25",
-      "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
-    },
-    {
       "added_at": "2022-09-30 03:44:30",
       "album": {
         "name": "Formose\u00f1a",
@@ -615,6 +599,22 @@
       "duration_ms": 246440,
       "name": "Ag\u00fcita de Manantial",
       "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
+      "added_at": "2023-03-10 22:34:25",
+      "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2023-12-12 18:56:56",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Mujer Luna",
+        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Mujer Luna",
+      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
+    },
+    {
       "added_at": "2022-02-25 02:13:50",
       "album": {
         "name": "Para todo mal",
@@ -1099,22 +1115,6 @@
       "duration_ms": 240871,
       "name": "Para todo mal",
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Mujer Luna",
-        "url": "https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF"
-      },
-      "artists": [
-        {
-          "name": "Los Aguas Aguas",
-          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Mujer Luna",
-      "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "La Era del GigaHertz",
-        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 306689,
-      "name": "La Era del GigaHertz",
-      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
-    },
-    {
       "added_at": "2023-02-28 04:34:35",
       "album": {
         "name": "Shake & Bake",
@@ -1243,6 +1227,22 @@
       "duration_ms": 280822,
       "name": "Shake & Bake",
       "url": "https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "La Era del GigaHertz",
+        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 306689,
+      "name": "La Era del GigaHertz",
+      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
-      },
-      "artists": [
-        {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "El Chacho",
         "url": "https://open.spotify.com/album/1KpbX2DHAf3uhhnMe8MqIn"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 241639,
       "name": "La Camisola",
       "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
+      },
+      "artists": [
+        {
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
     },
     {
-      "added_at": "2022-03-11 03:32:16",
-      "album": {
-        "name": "Levante la Mano",
-        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 188817,
-      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
-      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
-    },
-    {
       "added_at": "2023-10-10 02:11:18",
       "album": {
         "name": "Paganismo (Deluxe)",
@@ -1471,6 +1455,22 @@
       "duration_ms": 189514,
       "name": "Mambo Del Fierro Viejo",
       "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+    },
+    {
+      "added_at": "2022-03-11 03:32:16",
+      "album": {
+        "name": "Levante la Mano",
+        "url": "https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 188817,
+      "name": "Voy de Aqu\u00ed Pa'all\u00e1",
+      "url": "https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
       "added_at": "2022-01-11 02:45:58",
       "album": {
         "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
@@ -1615,6 +1599,38 @@
       "duration_ms": 178887,
       "name": "Empecemos (Let's Start)",
       "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
+    },
+    {
+      "added_at": "2022-09-03 04:03:52",
+      "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1647,22 +1663,6 @@
       "duration_ms": 207000,
       "name": "Porrov\u00eda",
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
-    },
-    {
-      "added_at": "2022-09-03 04:03:52",
-      "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
-      },
-      "artists": [
-        {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1713,20 +1713,24 @@
       "url": "https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2022-08-13 02:09:39",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
+        "name": "El Mito del Ayahuasca",
+        "url": "https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi"
       },
       "artists": [
         {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
+          "name": "Juaneco Y Su Combo",
+          "url": "https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR"
+        },
+        {
+          "name": "Miki Gonzalez",
+          "url": "https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy"
         }
       ],
-      "duration_ms": 204693,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
+      "duration_ms": 184376,
+      "name": "El Mito del Ayahuasca",
+      "url": "https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U"
     }
   ],
   "unique_name": "TROPILOCO",

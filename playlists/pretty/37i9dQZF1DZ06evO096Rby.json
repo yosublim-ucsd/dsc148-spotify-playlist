@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 37795,
+  "num_followers": 37825,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACTzinGc9pnMfxedve56+Fk",
+  "snapshot_id": "Z1I+gAAAAADT/PJEWOcz29hAgDqoR0Wj",
   "tracks": [
     {
       "added_at": null,
@@ -87,30 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 162676,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -131,6 +107,30 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 162676,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
       "added_at": null,
@@ -699,26 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Danny De Chicali (En Vivo)",
-        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
+        "name": "Mirame (feat. Blessd) [Remix]",
+        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
       },
       "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Danny Morales",
-          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 150000,
-      "name": "El Danny De Chicali (En Vivo)",
-      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
+      "duration_ms": 193605,
+      "name": "Mirame (feat. Blessd) - Remix",
+      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
     },
     {
       "added_at": null,
@@ -743,26 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirame (feat. Blessd) [Remix]",
-        "url": "https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR"
+        "name": "El Danny De Chicali (En Vivo)",
+        "url": "https://open.spotify.com/album/7CgGpLyXJscIpG8RIjOvIK"
       },
       "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 193605,
-      "name": "Mirame (feat. Blessd) - Remix",
-      "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
+      "duration_ms": 150000,
+      "name": "El Danny De Chicali (En Vivo)",
+      "url": "https://open.spotify.com/track/6lRgHvhZ3a0BeLhUuXlCzP"
     },
     {
       "added_at": null,

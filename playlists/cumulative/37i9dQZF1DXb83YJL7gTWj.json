@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Bizarre Love Triangle",
+        "url": "https://open.spotify.com/album/2h6iVonhyyWxdLe3My7OP3"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/1mu2GRCsfljNzuPY0KFPay"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"

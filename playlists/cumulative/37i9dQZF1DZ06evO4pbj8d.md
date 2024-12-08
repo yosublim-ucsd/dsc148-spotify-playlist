@@ -4,7 +4,7 @@
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 11 min
+92 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-22 |  |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-09-16 | 2024-07-23 |
 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 | 2023-04-30 |  |
+| [this little lighter of mine \(joy version\)](https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [this little lighter of mine \(joy version\)](https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4) | 3:49 | 2024-12-08 |  |
 | [too high](https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:16 | 2022-09-19 | 2024-09-17 |
 | [Trying](https://open.spotify.com/track/4BkroYCzKrqTNuDB4Ou6AS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:55 | 2023-04-29 | 2024-07-23 |
 | [unwelcoming](https://open.spotify.com/track/3gHKL1kfEv6kUY4tGh6NEx) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 2:19 | 2024-06-03 | 2024-07-10 |

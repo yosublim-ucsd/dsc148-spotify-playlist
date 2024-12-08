@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,553 likes - 83 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,566 likes - 83 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 26 | [MINE](https://open.spotify.com/track/3niZtQfWJLFcxeDkTvIQGV) | [Sabrina Bahsoon](https://open.spotify.com/artist/5KF4xQmTozDIARbXMd6j5B) | [MINE](https://open.spotify.com/album/7BtAo3nnEnZUzppj1crUti) | 2:44 |
 | 27 | [Zayang \- Zayang](https://open.spotify.com/track/7qeXSPZSawWqLiwoU00boo) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Zayang \- Zayang](https://open.spotify.com/album/3p9mdktTtiaEFBQC5hzz4C) | 2:48 |
 | 28 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 |
-| 29 | [Lagu Cinta Untuk Mama](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
+| 29 | [Lagu Cinta Untuk Mama \- Lagu Cinta Untuk Mama Original Soundtrack](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama \(Lagu Cinta Untuk Mama Original Soundtrack\)](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
 | 30 | [Pada Suatu Hari](https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 3:53 |
 | 31 | [Tempat Ini](https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tempat Ini](https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4) | 3:22 |
 | 32 | [不要擔心我, 你要好好過](https://open.spotify.com/track/0FJUAlDVXA9HJZz3W7dwqc) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [不要擔心我, 你要好好過](https://open.spotify.com/album/6RtDQF4V1F70QWj8cfc68D) | 2:46 |

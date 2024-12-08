@@ -1,6 +1,6 @@
 {
   "description": "Big rock tracks from 2017. Cover: Imagine Dragons",
-  "num_followers": 65874,
+  "num_followers": 65912,
   "original_name": "Best of Rock: 2017",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Wall of Glass",
-      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "Vessels",
         "url": "https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 317440,
       "name": "DIE FOR YOU",
       "url": "https://open.spotify.com/track/4cExQhQ0i34yZcoDsHFMV6"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Wall of Glass",
+      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 251631,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
+      "duration_ms": 273066,
+      "name": "The Gold",
+      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 251631,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/5Ih40KFkj3cSzxgisQxBvX"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "ATLAS",
         "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 197680,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/5k02Wjsu2MdpF3c9VFQD0k"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "A Black Mile To The Surface",
-        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "The Gold",
-      "url": "https://open.spotify.com/track/3EytfC22ikoXM921cJbejn"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
         "name": "Vessels",
         "url": "https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2022-12-29 20:46:29",
       "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
         "name": "Everything Now",
         "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 353240,
       "name": "Put Your Money on Me",
       "url": "https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg"
-    },
-    {
-      "added_at": "2022-12-29 20:46:29",
-      "album": {
-        "name": "Vessels",
-        "url": "https://open.spotify.com/album/4iJ9B2uDKJzclQo7U9BqS8"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/1ocR8gUE4fBfNJZtBr0TFQ"
     },
     {
       "added_at": "2022-12-29 20:46:29",
@@ -979,6 +963,22 @@
       "duration_ms": 190447,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
+    },
+    {
+      "added_at": "2022-12-29 20:46:29",
+      "album": {
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     }
   ],
   "unique_name": "Best of Rock: 2017",

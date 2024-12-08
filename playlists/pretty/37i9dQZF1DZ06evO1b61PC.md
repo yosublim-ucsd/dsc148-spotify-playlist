@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,113 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,116 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 14 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C) | 4:01 |
 | 15 | [Heaven Is Calling](https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Heaven Is Calling](https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4) | 3:28 |
 | 16 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
-| 17 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 4:43 |
+| 17 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 1:40 |
 | 18 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
 | 19 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
 | 20 | [Telepathy](https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:49 |
-| 21 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 1:40 |
+| 21 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 4:43 |
 | 22 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 23 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
 | 24 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 33 | [Half Hearted \- Demo](https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:54 |
 | 34 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 
-Snapshot ID: `Z1DtAAAAAAARsg+O4hx1oQoEY0Tz1iu3`
+Snapshot ID: `Z1I+gAAAAAC2JVKwburWjnMg9em5+eUA`

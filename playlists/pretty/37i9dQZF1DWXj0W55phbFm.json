@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 61881,
+  "num_followers": 61924,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -591,8 +591,8 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Bitches Brew",
-        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
+        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
+        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 1204066,
-      "name": "Pharaoh's Dance",
-      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
+      "duration_ms": 663217,
+      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
+      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Approaching Standards",
         "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 369933,
       "name": "Easy To Remember",
       "url": "https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Here Comes Louis Smith",
         "url": "https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 401533,
       "name": "Ande - Digitally Remastered",
       "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
-      },
-      "artists": [
-        {
-          "name": "Cat Anderson",
-          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Hard Talk (Live)",
         "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 363360,
       "name": "Russian Melody",
       "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
+      },
+      "artists": [
+        {
+          "name": "Cat Anderson",
+          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
     },
     {
       "added_at": "2024-11-08 10:26:51",

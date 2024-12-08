@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-127 songs - 6 hr 12 min
+128 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 | 2024-11-05 |  |
 | [A QUIÉN LE IMPORTA](https://open.spotify.com/track/4pLgFeI4hteh9DsJ1TncM7) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm), [Marta Melle](https://open.spotify.com/artist/0Db1dQofqP6OWjXzrv7PPk), [GALICIAN](https://open.spotify.com/artist/5suQqERMjWkkZlcYxzJxcr) | [A QUIÉN LE IMPORTA](https://open.spotify.com/album/5jKiXQcmCtIsxB6K2vaYcB) | 2:49 | 2024-06-05 | 2024-07-03 |
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-06-05 | 2024-08-07 |
-| [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 | 2024-12-04 |  |
+| [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 | 2024-12-04 | 2024-12-08 |
 | [Aire](https://open.spotify.com/track/1t4xi7nj0Svhlckg0d02lu) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Aire](https://open.spotify.com/album/6wjSxaUnrahyzTUt4QD2FM) | 2:44 | 2024-09-03 | 2024-10-02 |
 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 |  |
 | [Al Gimnasio en Tacones](https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Al Gimnasio en Tacones](https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2) | 2:33 | 2024-06-05 | 2024-07-04 |
@@ -41,6 +41,7 @@
 | [Crisis](https://open.spotify.com/track/7AXbYamdqfw14MQZGeYlDM) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Crisis](https://open.spotify.com/album/0fb9EJam0LRXtnKfxGndYL) | 3:22 | 2024-12-04 |  |
 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 | 2024-09-03 |  |
 | [Cuatro Bodas](https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Generación de Cristal](https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y) | 2:46 | 2024-08-06 | 2024-10-02 |
+| [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 | 2024-12-04 |  |
 | [Culpable O No \(Miénteme Como Siempre\)](https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Culpable o No \(Miénteme Como Siempre\)](https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh) | 3:18 | 2024-07-02 | 2024-10-02 |
 | [Cárcel \(Adicción\)](https://open.spotify.com/track/189Lgn7hI1tDTdH0SwcI9Y) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I), [B CHUCKS](https://open.spotify.com/artist/4zr9ExTmej3a66L4cICv1A) | [Cárcel \(Adicción\)](https://open.spotify.com/album/0vPp9Mds32HMsBfOA2fzRi) | 3:06 | 2024-11-05 | 2024-12-05 |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-05 | 2024-07-25 |

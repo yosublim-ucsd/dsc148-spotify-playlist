@@ -2230,7 +2230,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 210973,
       "name": "Fue un Sue\u00f1o",
       "url": "https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb"
@@ -4402,6 +4402,24 @@
       "duration_ms": 203026,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Porque te vas",
+      "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
     },
     {
       "album": {

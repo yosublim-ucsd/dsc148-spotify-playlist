@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,330 likes - 101 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,361 likes - 101 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

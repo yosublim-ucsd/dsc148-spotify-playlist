@@ -367,6 +367,36 @@
     },
     {
       "album": {
+        "name": "Embrace It Remix",
+        "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Embrace It - Remix",
+      "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },

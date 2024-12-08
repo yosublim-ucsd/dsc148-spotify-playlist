@@ -4,7 +4,7 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-94 songs - 7 hr 19 min
+95 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bem Mais Que Tudo](https://open.spotify.com/track/6MeYawJ2Iaapjfq3Ncxkz6) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 4:46 | 2024-08-25 |  |
 | [Bem Mais Que Tudo](https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:46 | 2023-07-09 | 2024-08-25 |
 | [Bem\-Aventurado \(Blessed\)](https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 6:08 | 2023-12-13 |  |
+| [Brilha Tua Luz](https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Brilha Tua Luz](https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7) | 4:55 | 2024-12-08 |  |
 | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres \(Ao Vivo Nos Lençóis Maranhenses\)](https://open.spotify.com/album/2l6DuNvk8jwDVsw9J0AXfb) | 3:45 | 2023-07-09 | 2024-10-31 |
 | [Cantarei Desse Amor](https://open.spotify.com/track/1GNjgttdbZhQ38mYa9tk0t) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Adorai \(Os Melhores Momentos\)](https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow) | 4:00 | 2024-08-30 |  |
 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/0HrmOxfaNsLC0yqmUZRyBu) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 | 2023-07-09 | 2024-08-22 |
@@ -67,7 +68,7 @@
 | [Para Sempre Te Adorarei](https://open.spotify.com/track/5wlcYHvBMBj83IT63vyIPE) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:21 | 2024-04-19 | 2024-09-02 |
 | [Para Sempre Te Adorarei \- Ao Vivo](https://open.spotify.com/track/7H7jSRnfa1N935jR0MlJKa) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:27 | 2023-07-09 | 2024-01-24 |
 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 | 2023-07-09 |  |
-| [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 | 2024-07-30 |  |
+| [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 | 2024-07-30 | 2024-12-08 |
 | [Poder Pra Salvar \(Mighty to Save\)](https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:59 | 2023-10-04 |  |
 | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Poder Pra Salvar \(Mighty to Save\) \[Ao Vivo Em Los Angeles\]](https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz) | 3:43 | 2023-07-09 | 2023-10-05 |
 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-08-08 | 2023-09-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1335,
+  "num_followers": 1336,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAjeJCWsrw2vWOjyN4NPHaP",
+  "snapshot_id": "Z1I+gAAAAACHiwokK2VYNTZevd07kBzT",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 102080,
+      "name": "Who Are You Greeting My Love?",
+      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -487,26 +503,6 @@
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "This Is My Witness Statement",
-      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "added_at": null,
@@ -559,6 +555,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 102720,
+      "name": "If You Knew The Pain",
+      "url": "https://open.spotify.com/track/53PzTnJK0gYQjvBhKAYDZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wonder Park (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
       },
@@ -583,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -592,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 102720,
-      "name": "If You Knew The Pain",
-      "url": "https://open.spotify.com/track/53PzTnJK0gYQjvBhKAYDZF"
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
     },
     {
       "added_at": null,
@@ -615,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
       "artists": [
         {
@@ -624,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+      "duration_ms": 168720,
+      "name": "This Was A Beautiful Dream",
+      "url": "https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ"
     },
     {
       "added_at": null,
@@ -647,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
@@ -656,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 168720,
-      "name": "This Was A Beautiful Dream",
-      "url": "https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ"
+      "duration_ms": 102920,
+      "name": "Soyuz",
+      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
     },
     {
       "added_at": null,
@@ -675,38 +707,6 @@
       "duration_ms": 132906,
       "name": "Moon Phases",
       "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 102080,
-      "name": "Who Are You Greeting My Love?",
-      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 102920,
-      "name": "Soyuz",
-      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "ISS",
-      "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 229733,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "ISS",
+      "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 98293,
-      "name": "This Road is a Suicide Mission",
-      "url": "https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d"
+      "duration_ms": 175146,
+      "name": "A Bonding Experience",
+      "url": "https://open.spotify.com/track/4OPsrol2u5iLgDyuzX9ae3"
     }
   ],
   "unique_name": "This Is Steven Price",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 118169,
+  "num_followers": 118218,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADlp3p8J5qq1cUccibIK9av",
+  "snapshot_id": "Z1I+gAAAAAAUrx30STN8qsLGjt54icjY",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Nat King Cole",
-        "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natalie Cole En Espa\u00f1ol (Track By Track Commentary)",
         "url": "https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 167546,
       "name": "Ac\u00e9rcate M\u00e1s",
       "url": "https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Nat King Cole",
+        "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Don't Want To Be Hurt Anymore",
+        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "I Don't Want To See Tomorrow",
+      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BD Music & Cabu Present Nat King Cole",
         "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want To Be Hurt Anymore",
-        "url": "https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe"
+        "name": "This Is Nat King Cole",
+        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 156906,
-      "name": "I Don't Want To See Tomorrow",
-      "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
+      "duration_ms": 155666,
+      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
+      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Nat King Cole",
-        "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
+        "name": "Simply ... King Cole! (2020 Remaster)",
+        "url": "https://open.spotify.com/album/75ACPS5OekCM9MFGAqRmy5"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 155666,
-      "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
-      "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
+      "duration_ms": 148200,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/5RkRXGGRP33dTkap9loPcT"
     },
     {
       "added_at": null,
@@ -559,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simply ... King Cole! (2020 Remaster)",
-        "url": "https://open.spotify.com/album/75ACPS5OekCM9MFGAqRmy5"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 148200,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/5RkRXGGRP33dTkap9loPcT"
+      "duration_ms": 192826,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
     },
     {
       "added_at": null,

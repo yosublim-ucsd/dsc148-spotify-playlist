@@ -10,10 +10,10 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Do It All The Time](https://open.spotify.com/album/7JvM9qMW23SCkpfz4ZrLsS) | 2:47 |
 | 2 | [Teenagers](https://open.spotify.com/track/78OBZL4Z6QHdwwloWIh0Lt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 2:41 |
-| 3 | [Razzmatazz](https://open.spotify.com/track/3UhhRDkHWz7D28BkejHzqI) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 4:18 |
-| 4 | [Choked Out](https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka) | 1:42 |
+| 3 | [Training Montage](https://open.spotify.com/track/0HEYFRBo4pBLLWjXsAZjod) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 4:28 |
+| 4 | [Razzmatazz](https://open.spotify.com/track/3UhhRDkHWz7D28BkejHzqI) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 4:18 |
 | 5 | [Mad IQs](https://open.spotify.com/track/6yclHpBUnzz1JXHb667ymo) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:02 |
-| 6 | [Training Montage](https://open.spotify.com/track/0HEYFRBo4pBLLWjXsAZjod) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bleed Out](https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg) | 4:28 |
+| 6 | [Choked Out](https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka) | 1:42 |
 | 7 | [Famous Last Words](https://open.spotify.com/track/27wqSh5wL0TrA3xuuDXWn0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:59 |
 | 8 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 |
 | 9 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 | 25 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 |
 | 26 | [Ox Baker Triumphant](https://open.spotify.com/track/4UqIifJqMVB4SXIUkTOeDH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Babylon Springs](https://open.spotify.com/album/3AgCA1gsjvQeU3xz12rIRY) | 2:39 |
 
-Snapshot ID: `AAAAH5W2tqrRNWwh6VsDXe3G9hXZTiwq`
+Snapshot ID: `AAAAIdGbJ9mzPXlII7euHCc+6VWcjVNT`

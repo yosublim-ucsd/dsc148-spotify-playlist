@@ -1,6 +1,6 @@
 {
   "description": "150%",
-  "num_followers": 1991716,
+  "num_followers": 1991542,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Stereo Love (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
+      },
+      "artists": [
+        {
+          "name": "Stereo Lovers",
+          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Stereo Love - Sped Up Version",
+      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 223441,
       "name": "Die For You - Sped Up",
       "url": "https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Stereo Love (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4M7Z0H4Bvl8zKCMINicWrz"
-      },
-      "artists": [
-        {
-          "name": "Stereo Lovers",
-          "url": "https://open.spotify.com/artist/2weQgeRFnIk3MXcWadk10U"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Stereo Love - Sped Up Version",
-      "url": "https://open.spotify.com/track/7AjU3sce5VrGGxHjGDy7ZZ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "White Tee (Sped Up)",
-        "url": "https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "NO1-NOAH",
-          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
-        }
-      ],
-      "duration_ms": 159327,
-      "name": "White Tee - Sped Up",
-      "url": "https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Automotivo Bibi Fogosa (Speed Up)",
         "url": "https://open.spotify.com/album/2Qj9krbUkUECNmAJefl9Q3"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 100075,
       "name": "Automotivo Bibi Fogosa - Speed Up",
       "url": "https://open.spotify.com/track/0aSz9VMu18LrwN8u8tYaXr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "White Tee (Sped Up)",
+        "url": "https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "NO1-NOAH",
+          "url": "https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j"
+        }
+      ],
+      "duration_ms": 159327,
+      "name": "White Tee - Sped Up",
+      "url": "https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN"
     },
     {
       "added_at": "2024-08-30 04:00:00",

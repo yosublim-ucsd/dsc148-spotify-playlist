@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Celebrating the power of amazing female pop artists who soundtracked 2024\.  Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,578,501 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,578,526 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Do You Love Me](https://open.spotify.com/track/5dWLQBMgv22DbyzJPK8SQy) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Do You Love Me](https://open.spotify.com/album/4EEO3zXeKnSa0nTyckY4hS) | 3:26 |
 | 70 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 |
 | 71 | [Hot Fever Dream](https://open.spotify.com/track/1GMr0CxEwfixPJ1wvT4Am4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 2:27 |
-| 72 | [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 |
-| 73 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
+| 72 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 |
+| 73 | [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 |
 | 74 | [Kissing In the Cold](https://open.spotify.com/track/61CTVokB7PPa8cZ1aqDwhl) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:54 |
 | 75 | [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 |
 

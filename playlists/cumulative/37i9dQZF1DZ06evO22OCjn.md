@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 43 min
+142 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Common Person](https://open.spotify.com/track/5PhThXEC5fVIbjwUhFc0Z3) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/53s3xfNBbh5Z0Xv9IXjvi4) | 3:30 | 2024-10-28 | 2024-11-05 |
 | [Common Person](https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:30 | 2023-05-02 | 2024-07-14 |
 | [Dangote](https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:45 | 2024-05-11 |  |
-| [Deja Vu](https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Deja Vu](https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w) | 3:28 | 2021-12-28 |  |
+| [Deja Vu](https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Deja Vu](https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w) | 3:28 | 2021-12-28 | 2024-12-08 |
 | [Dey Play](https://open.spotify.com/track/5cJLTFZRVkrkFWiD3GXgo0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-27 | 2023-12-14 |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 | 2024-05-21 |  |
 | [Dirty Secrets](https://open.spotify.com/track/2sh23PpmUcfrxKaBRvqxig) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:31 | 2022-07-11 | 2022-07-14 |
@@ -144,6 +144,7 @@
 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 | 2021-12-28 | 2023-07-31 |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-25 |  |
 | [Wetin Dey Sup](https://open.spotify.com/track/4I93MxrTPIJkjKNVYW6yn7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:37 | 2022-01-01 | 2022-01-04 |
+| [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 | 2024-12-08 |  |
 | [Whiskey](https://open.spotify.com/track/4DPvMjCqZPTBDpahYjMSy2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:23 | 2022-07-09 | 2022-07-17 |
 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 | 2022-10-12 | 2024-02-12 |
 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 | 2021-12-28 | 2023-02-04 |

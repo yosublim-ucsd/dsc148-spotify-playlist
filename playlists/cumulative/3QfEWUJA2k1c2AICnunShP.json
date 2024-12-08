@@ -1817,6 +1817,32 @@
     },
     {
       "album": {
+        "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+        "url": "https://open.spotify.com/album/77OEhTZfHsYNyMfHBJoCof"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Michael Bosch",
+          "url": "https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "O mio babbino caro (From Gianni Schicchi, SC 88, Arr. for Piano and Cello by E. M. Fard)",
+      "url": "https://open.spotify.com/track/0cwDtnv4PUyNr6ppd05DcQ"
+    },
+    {
+      "album": {
         "name": "Epic Orchestra - New Sound of Classical",
         "url": "https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr"
       },
@@ -2858,6 +2884,44 @@
       "duration_ms": 254880,
       "name": "The Music's Always There With You",
       "url": "https://open.spotify.com/track/6IMIdiSsYFAdSpitXZtOXX"
+    },
+    {
+      "album": {
+        "name": "The Prince of Egypt Suite",
+        "url": "https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gan-Ya Ben-Gur Akselrod",
+          "url": "https://open.spotify.com/artist/1teORouDCbrq9yYxreb2UF"
+        },
+        {
+          "name": "Rusanda Panfili",
+          "url": "https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc"
+        },
+        {
+          "name": "Pedro Eustache",
+          "url": "https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7"
+        },
+        {
+          "name": "Odessa Orchestra & Friends",
+          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106120,
+      "name": "The Prince of Egypt Suite: Part 1",
+      "url": "https://open.spotify.com/track/6VZthc7bvYQfxwL4llUns2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-242 songs - 15 hr 34 min
+243 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afraid To Feel \- CID Remix](https://open.spotify.com/track/1mvypEtmZxHz1GT6zaW67g) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Afraid To Feel \(CID Remix\)](https://open.spotify.com/album/1QxcMxNHAkFTSULS2RbRck) | 3:25 | 2022-08-20 | 2024-01-21 |
 | [Afrikaa](https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Afrikaa](https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK) | 3:04 | 2022-10-24 |  |
 | [Ain't No Party](https://open.spotify.com/track/7m8H5YUbVlRZ61Juc4ofIX) | [Scott Shima](https://open.spotify.com/artist/2hHxTBGkP3ZtqGilz3kgmf) | [Ain't No Party](https://open.spotify.com/album/6FjVgPNGGm7Wq16vSJ2e2S) | 5:12 | 2023-09-22 |  |
+| [All In](https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [All In](https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot) | 2:57 | 2024-12-07 |  |
 | [All Night With U \- Qubiko Remix](https://open.spotify.com/track/1xTJH5ZNlX9bID9J8Ny25R) | [Ivan Pica](https://open.spotify.com/artist/7CIJe8ijDiHuCx2Fw3MOj9), [Peter Brown](https://open.spotify.com/artist/6FgtU463qtDrvUsL5b3Ael), [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [All Night With U \(Qubiko Remix\)](https://open.spotify.com/album/1b39HG2fmpTWy0F9Khqsc1) | 3:23 | 2022-12-12 |  |
 | [And 1](https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT) | 3:31 | 2024-05-21 |  |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-29 |  |

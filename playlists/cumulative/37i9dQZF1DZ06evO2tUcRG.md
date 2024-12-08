@@ -4,7 +4,7 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-83 songs - 8 hr 33 min
+84 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 | 2023-07-09 |  |
 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 | 2023-07-09 |  |
 | [Não Há Lugar Mais Alto \(No Hay Lugar Más Alto \- Versión Portugués\)](https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Não Há Lugar Mais Alto \(No Hay Lugar Más Alto \- Versión Portugués\)](https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP) | 5:05 | 2024-01-27 | 2024-09-26 |
+| [Não Há Lugar Mais Alto \- Ao Vivo](https://open.spotify.com/track/37YiAd217wtO4FwgryiJyN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Lugar Mais Alto \(Ao Vivo\)](https://open.spotify.com/album/4jXQSTfjkIg8yC1rpgHhoj) | 8:26 | 2024-12-08 |  |
 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 | 2023-07-09 |  |
 | [Não Vou Calar Meus Lábios](https://open.spotify.com/track/1mbrpFshkUSfbqgCdgawwQ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Vou Calar Meus Lábios](https://open.spotify.com/album/2HLQRl4hX19lciv1rJUWAD) | 3:15 | 2024-10-27 | 2024-11-15 |
 | [Não Vou Calar Meus Lábios](https://open.spotify.com/track/76gauQSrQHjwYZ4cJugPY9) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 3:15 | 2024-11-15 |  |

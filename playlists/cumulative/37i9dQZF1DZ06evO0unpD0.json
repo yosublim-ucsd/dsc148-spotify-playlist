@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Kant\u00e9 Manfila",
+        "url": "https://open.spotify.com/album/4JiyngBSt8KfxpdSvaxRDd"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278293,
+      "name": "Kant\u00e9 Manfila",
+      "url": "https://open.spotify.com/track/2O0SwBLoK61ZFKobvhRwJb"
+    },
+    {
+      "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
       },

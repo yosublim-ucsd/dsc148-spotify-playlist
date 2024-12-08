@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto, Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,765 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,879 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 |
 | 2 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 |
 | 3 | [Olha o Que o Amor Me Faz / Eu Te Uso e Sumo / Melhor Eu Ir / Mega Star / Sinais / Um Só Sentimento / O Amor É Mais \- Ao Vivo](https://open.spotify.com/track/4xvnPlz8dLjsTayOCcj7U9) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12) | [Pagode do BS 2, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/7KyGDBU9dTXJz5VPfasIkt) | 9:21 |
-| 4 | [Onze e Pouquinho/ Pouco A Pouco / O Choro É Livre \- Ao Vivo](https://open.spotify.com/track/24clrHldsEYvZcBfAYYJUP) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Pagode do Diferentão 2 \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/12KWOwopp0UJd69XGNB6U9) | 4:56 |
+| 4 | [Onze e Pouquinho / Pouco A Pouco / O Choro É Livre \- Ao Vivo](https://open.spotify.com/track/24clrHldsEYvZcBfAYYJUP) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Pagode do Diferentão 2 \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/12KWOwopp0UJd69XGNB6U9) | 4:56 |
 | 5 | [Inigualável Paixão / Sentimento de Posse / O Teu Chamego / De Tanto Sofrer \- Ao Vivo](https://open.spotify.com/track/6NBjOJbOigFGq1rFSmgJUQ) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 6:18 |
 | 6 | [Quem De Nós Dois / Encostar Na Tua \- Ao Vivo](https://open.spotify.com/track/1o7TjGkJHqFmnT9ZOQlDfp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 5:05 |
 | 7 | [Me Redimir / Insensível / Flashback](https://open.spotify.com/track/69nsPVKxqsyNDlzsusStaF) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R), [Chininha](https://open.spotify.com/artist/3lI032ULhqFakqCue9srcR) | [Me Redimir / Insensível / Flashback](https://open.spotify.com/album/5oBxkJivFrIUyKdfA7nvHf) | 4:59 |

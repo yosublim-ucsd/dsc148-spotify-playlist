@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5388,
+  "num_followers": 5391,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADv56FolPYtMlUnJcBhh5ow",
+  "snapshot_id": "Z1I+gAAAAADcBzGhiOqUGtvQ0VPrC3jn",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 258415,
-      "name": "Ain't Got Time For Hate",
-      "url": "https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr"
+      "duration_ms": 286333,
+      "name": "Don't Whisper",
+      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Don't Whisper",
-      "url": "https://open.spotify.com/track/54cBgXR1KPwEIuynp1qnKs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
@@ -196,9 +180,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 292124,
-      "name": "In The Blood Of The Blues",
-      "url": "https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk"
+      "duration_ms": 258415,
+      "name": "Ain't Got Time For Hate",
+      "url": "https://open.spotify.com/track/6JQEfDsrQap0VFFjP9cKYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 232346,
-      "name": "I Feel A Sin Coming On",
-      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
+      "duration_ms": 292124,
+      "name": "In The Blood Of The Blues",
+      "url": "https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAyIJ5cnAKLwkF58nZJK8ve",
+  "snapshot_id": "Z1I+gAAAAAAReko2gRRYVDRtDNvauFLF",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
+      "duration_ms": 205200,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -959,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1055,6 +1031,26 @@
       "duration_ms": 244239,
       "name": "Yo Vengo a Ofrecer Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4Sxef0ijZwETFvL7p6qVs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     }
   ],
   "unique_name": "This Is Lila Downs",

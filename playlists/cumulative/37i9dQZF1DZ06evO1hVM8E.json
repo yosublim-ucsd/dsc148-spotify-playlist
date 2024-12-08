@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Navidad, Navidad",
+        "url": "https://open.spotify.com/album/47KqLfOQDAZvWgiRazfg0E"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172604,
+      "name": "Navidad, Navidad",
+      "url": "https://open.spotify.com/track/0kcdYS03fQD5ZjdrwCRjyd"
+    },
+    {
+      "album": {
         "name": "Puro Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/4VjgcKHDIzC7mgXvWdEu46"
       },

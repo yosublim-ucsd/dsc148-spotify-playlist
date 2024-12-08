@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Querido Santa Claus",
+        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Querido Santa Claus",
+      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
+    },
+    {
+      "album": {
         "name": "RBS",
         "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
       },

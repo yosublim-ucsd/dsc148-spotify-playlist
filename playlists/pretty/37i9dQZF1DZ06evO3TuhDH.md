@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,145 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,151 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 15 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 |
 | 16 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 |
 | 17 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 |
-| 18 | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L) | 3:10 |
-| 19 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
+| 18 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
+| 19 | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Tomboy \(feat\. Coi Leray\)](https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L) | 3:10 |
 | 20 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 |
 | 21 | [Not In The Store](https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Not In The Store](https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ) | 3:09 |
 | 22 | [Nonsense \(with Coi Leray\) \- Remix](https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Nonsense \(Remix\)](https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL) | 2:55 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 50 | [Lemon Cars](https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6) | 2:53 |
 | 51 | [We Time](https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 |
 
-Snapshot ID: `Z1DtAAAAAAAzDoE2XD9cFWtY2AxGoTJh`
+Snapshot ID: `Z1I+gAAAAABMbDUUTL7ewjnK+B9ez5O0`

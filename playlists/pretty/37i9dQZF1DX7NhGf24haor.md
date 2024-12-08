@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Unsenses
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,992 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,048 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 55 | [Left Me](https://open.spotify.com/track/1Nqc57oD1GBWjhCgPwrX1D) | [VENNIC](https://open.spotify.com/artist/0I9hDUnGp3ZYpR9FmnKXqS) | [Left Me](https://open.spotify.com/album/0QYXWND4AmvRun9ia2Su1R) | 2:51 |
 | 56 | [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 |
 | 57 | [Strictly Hard \- Maxtreme Remix](https://open.spotify.com/track/2L8gvLK80wvsgtYaviOoOJ) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Strictly Hard \(Maxtreme Remix\)](https://open.spotify.com/album/56bQA8g1Giiwuk3qhHFoLp) | 2:37 |
-| 58 | [Authorities](https://open.spotify.com/track/6OawOfoJBb1orjLEuPTwiY) | [Synthsoldier](https://open.spotify.com/artist/2aYw1VignY89UokpxjuibF), [Overdrive](https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp) | [SYNTHESIZE](https://open.spotify.com/album/3Tz2gpU9451lzGSpeqgc5W) | 2:45 |
+| 58 | [Authorities](https://open.spotify.com/track/6OawOfoJBb1orjLEuPTwiY) | [Synthsoldier](https://open.spotify.com/artist/2aYw1VignY89UokpxjuibF), [OverDrive](https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp) | [SYNTHESIZE](https://open.spotify.com/album/3Tz2gpU9451lzGSpeqgc5W) | 2:45 |
 | 59 | [Demise 3.0](https://open.spotify.com/track/7rEdt2985FrkmZw85rf5p2) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Demise 3.0](https://open.spotify.com/album/5RCXfRxwsJERBYQ1AY9THO) | 2:30 |
 | 60 | [Moordenaar](https://open.spotify.com/track/6uLAsWtGURTxAamPtLoXMG) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Moordenaar](https://open.spotify.com/album/6hrsKoDWNZLwQWTByVKqzH) | 2:55 |
 | 61 | [By My Side](https://open.spotify.com/track/24snDKG3n2r4F0E5f3yLYz) | [Lady Faith](https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01), [Lexy Panterra](https://open.spotify.com/artist/5bB58D2RfSIIM2eBJy2Kww) | [By My Side](https://open.spotify.com/album/3AWe5yHlsLmkhKFcq8KIUV) | 2:45 |

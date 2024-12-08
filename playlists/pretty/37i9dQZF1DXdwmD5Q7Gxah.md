@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ❤️‍🔥 what if i told you this was george clanton and TV Girl ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,331 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,264 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

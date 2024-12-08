@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 204350,
+  "num_followers": 204398,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-10-24 11:46:40",
       "album": {
+        "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
+        "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
+      "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
+    },
+    {
+      "added_at": "2024-10-24 11:46:40",
+      "album": {
         "name": "Schumann: 3 Romances, Op. 94: No. 2, Einfach, innig (Musical Moments)",
         "url": "https://open.spotify.com/album/2P5WbvbtDDbxEdEj0JBPXU"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 223213,
       "name": "3 Romances, Op. 94: No. 2, Einfach, innig - Musical Moments",
       "url": "https://open.spotify.com/track/6cjmhZ4qsLBcHk8i4yqie3"
-    },
-    {
-      "added_at": "2024-10-24 11:46:40",
-      "album": {
-        "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
-        "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
-      "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
     },
     {
       "added_at": "2024-10-24 11:46:40",
@@ -1583,22 +1583,22 @@
     {
       "added_at": "2024-10-24 11:46:40",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
         }
       ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2024-10-24 11:46:40",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2024-10-24 11:46:40",
       "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
       "artists": [
         {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
         }
       ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2024-10-24 11:46:40",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2024-10-24 11:46:40",
       "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
-    },
-    {
-      "added_at": "2024-10-24 11:46:40",
-      "album": {
         "name": "Mendelssohn: Piano Works",
         "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 253920,
       "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
       "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2024-10-24 11:46:40",
+      "album": {
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
     },
     {
       "added_at": "2024-10-24 11:46:40",

@@ -1481,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "this little lighter of mine (joy version)",
+        "url": "https://open.spotify.com/album/5UTl57aV9zlJ8Q7XM1jQq4"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229240,
+      "name": "this little lighter of mine (joy version)",
+      "url": "https://open.spotify.com/track/0kmtDfNT55QKdwYEENuzgO"
+    },
+    {
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },

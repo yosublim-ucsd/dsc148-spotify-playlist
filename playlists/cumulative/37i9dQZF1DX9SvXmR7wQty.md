@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: SCH
 
-3,000 songs - 6 day 15 hr 32 min
+3,001 songs - 6 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 | 2022-07-08 | 2022-07-30 |
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-19 | 2024-06-08 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-08-02 | 2024-09-28 |
-| [Ah les crocodiles](https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Ah les crocodiles](https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT) | 2:45 | 2024-10-18 |  |
+| [Ah les crocodiles](https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Ah les crocodiles](https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT) | 2:45 | 2024-10-18 | 2024-12-08 |
 | [AH T'ES DANS CA](https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [A la bien mix party \- 10 ans après](https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx) | 3:03 | 2024-08-02 | 2024-09-14 |
 | [Ailleurs](https://open.spotify.com/track/44UzxavsbtsP9FW2xVpuvz) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Eman](https://open.spotify.com/artist/0yqE9TqhKhWiUEeas8Z0hJ), [Webster](https://open.spotify.com/artist/28PFzVunbZTdeOjTBRzMTK), [Soké](https://open.spotify.com/artist/4HYe7OSSq29AU6g2szcIWI) | [Marième](https://open.spotify.com/album/0imKDEWMsjlhf0SjOWjg1z) | 4:40 | 2022-03-25 | 2022-04-09 |
 | [Aime\-toi comme ça](https://open.spotify.com/track/5SzGHd14DCHNBwQkIn3sjK) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Aime\-toi comme ça](https://open.spotify.com/album/5k9tDcwpT4GITmyCMLUA57) | 3:42 | 2023-01-27 | 2023-02-11 |
@@ -1243,6 +1243,7 @@
 | [Je serai toujours là](https://open.spotify.com/track/1uhnM9omqtr37wtq5mPxCg) | [Clode Adam](https://open.spotify.com/artist/3yfd4RPOgMAc8VKoWEaosv) | [Je serai toujours là](https://open.spotify.com/album/3WgI7EeLbKn1Kp2vmns5eW) | 3:01 | 2021-12-31 | 2022-01-15 |
 | [Je suis de toi](https://open.spotify.com/track/6ufDjxcJR0Ki3dMbmVLx9v) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis là](https://open.spotify.com/album/0sRO2vkKqdixkNxIHgf190) | 3:47 | 2024-11-29 | 2024-12-07 |
 | [Je suis entré](https://open.spotify.com/track/1ZoQwSE1hr3JdzXxvcgGgm) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Je suis entré](https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX) | 3:04 | 2024-06-07 | 2024-06-15 |
+| [Je suis fait pour...](https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:18 | 2024-12-06 |  |
 | [Je suis fou](https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:46 | 2023-11-10 | 2024-02-03 |
 | [Je suis mort](https://open.spotify.com/track/4jS1LvwdmkesHAHcngSJ5U) | [Julien Déry](https://open.spotify.com/artist/5xY3F2KO2APNeX8uT1dpOt) | [Je suis mort](https://open.spotify.com/album/25fEmH3BdpdIJOkctniunZ) | 3:35 | 2022-02-04 | 2022-02-12 |
 | [Je suis ton animal](https://open.spotify.com/track/7qQigYVkCpkg3Hzd3QUQr6) | [Roy Davis](https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm) | [Je suis ton animal](https://open.spotify.com/album/7yHMyjudFfz7VX08PvTl1E) | 3:36 | 2023-01-13 | 2023-01-21 |

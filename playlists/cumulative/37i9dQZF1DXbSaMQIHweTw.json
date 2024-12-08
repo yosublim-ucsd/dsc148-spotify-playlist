@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Munawar x Aniket Raturi x Karan Kanchan",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Mera Na Hua",
+        "url": "https://open.spotify.com/album/1M8RD0cZ02p6nA0qmqhPwG"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Mera Na Hua",
+      "url": "https://open.spotify.com/track/1ZMBiwgX7G4nqNjCXcsUgP"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/6CA54Htuv6U3ii9ZG3LEET"
       },
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 142040,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64"

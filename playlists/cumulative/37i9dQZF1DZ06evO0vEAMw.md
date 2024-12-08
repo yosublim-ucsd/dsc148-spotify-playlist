@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-137 songs - 7 hr 40 min
+139 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 | 2021-12-28 | 2023-08-17 |
 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 | 2023-04-01 |  |
 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2024-11-03 |  |
-| [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2021-12-28 |  |
+| [Aye](https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW) | 3:55 | 2024-12-08 |  |
+| [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2021-12-28 | 2024-12-08 |
 | [Aza](https://open.spotify.com/track/2EWptnQCk6ZcGPDYpXMMJU) | [DMW](https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK), [Fresh VDM](https://open.spotify.com/artist/0Ijrcr7x3JUfy29iFVFSZ9), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Aza](https://open.spotify.com/album/5Ma7CMgO2eSOqCRqXxORkl) | 3:45 | 2021-12-28 | 2024-11-04 |
 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 | 2022-09-10 | 2023-12-14 |
 | [BADI](https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [BADI](https://open.spotify.com/album/2lqtf1qmfFf9c6l1w6ihzS) | 2:13 | 2021-12-28 | 2022-03-09 |
@@ -59,6 +60,7 @@
 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 | 2023-04-02 |  |
 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 | 2022-10-12 | 2024-03-07 |
 | [Freeway \- Remix](https://open.spotify.com/track/0uDYSd5vnBCaAjvYLA5c6R) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Dj Pee Raven](https://open.spotify.com/artist/4vV4WxPTFXfZlK6Z2rKSHi) | [Freeway \(Remix\)](https://open.spotify.com/album/716o2Sc0MXnixRhTABreb4) | 4:15 | 2022-05-13 | 2022-06-09 |
+| [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2024-12-08 |  |
 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 | 2021-12-28 |  |
 | [Green Light Riddim](https://open.spotify.com/track/32N5JyUQ6SzkapNGe2JOMi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 | 2021-12-28 | 2022-08-27 |
 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 | 2022-04-06 |  |

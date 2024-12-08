@@ -1591,6 +1591,32 @@
     },
     {
       "album": {
+        "name": "Direto da Selva Deluxe",
+        "url": "https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256618,
+      "name": "N\u00e3o Temos Medo - Remix",
+      "url": "https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR"
+    },
+    {
+      "album": {
         "name": "N\u00f3s Combina",
         "url": "https://open.spotify.com/album/7dWQJNTzIyN4StYCr4E6xk"
       },

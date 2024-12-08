@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,956 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,971 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 37 | [Finished Work \- Live From Chattanooga, TN](https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 7:47 |
 | 38 | [Already Won \- Live](https://open.spotify.com/track/6eoJ4Rs6P8H29MZ43JnbRH) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 3:31 |
 | 39 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
-| 40 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
-| 41 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
-| 42 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
+| 40 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
+| 41 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
+| 42 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 43 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 44 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 45 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |

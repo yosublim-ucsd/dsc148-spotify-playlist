@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Valeria Lynch en portada.",
-  "num_followers": 40544,
+  "num_followers": 40542,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "As\u00ed Va la Vida",
-        "url": "https://open.spotify.com/album/5MCASHhLENAnfsv0FlWFux"
-      },
-      "artists": [
-        {
-          "name": "Julia Zenko",
-          "url": "https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Con las Alas del Alma",
-      "url": "https://open.spotify.com/track/4nhUFP07qW1F9vRj7P27wC"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 176373,
       "name": "Honrar La Vida",
       "url": "https://open.spotify.com/track/7weF1x9KRb9qX0QQvAIGtE"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "As\u00ed Va la Vida",
+        "url": "https://open.spotify.com/album/5MCASHhLENAnfsv0FlWFux"
+      },
+      "artists": [
+        {
+          "name": "Julia Zenko",
+          "url": "https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Con las Alas del Alma",
+      "url": "https://open.spotify.com/track/4nhUFP07qW1F9vRj7P27wC"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 184064,
       "name": "El Surco",
       "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Bl\u00e1zquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Canciones Brotadas de Mi Ra\u00edz",
+        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Quisiera Que Salga un Tigre",
+      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Sue",
         "url": "https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 147653,
       "name": "Se Dice de Mi",
       "url": "https://open.spotify.com/track/4XYqgPfv3169DGLnkM9aKH"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Canciones Brotadas de Mi Ra\u00edz",
-        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Quisiera Que Salga un Tigre",
-      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
     },
     {
       "added_at": "2024-12-04 14:28:26",

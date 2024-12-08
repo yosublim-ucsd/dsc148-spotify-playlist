@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1008567,
+  "num_followers": 1008829,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAA4Tf1VzItSYKpN+mCzITDa",
+  "snapshot_id": "Z1I+gAAAAABLBHgUhWDlXeHwlCsym+zS",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 150724,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Estar\u00e9 Esperando (En Vivo)",
         "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 221079,
       "name": "Te Estar\u00e9 Esperando (En Vivo)",
       "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHSM El Higado!",
         "url": "https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB"
       },
@@ -1023,26 +1039,6 @@
       "duration_ms": 193728,
       "name": "Muchacha - Con Grupo Firme",
       "url": "https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ram\u00f3n Arellano",
-        "url": "https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 193844,
-      "name": "Ram\u00f3n Arellano",
-      "url": "https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f"
     }
   ],
   "unique_name": "This Is Grupo Firme",

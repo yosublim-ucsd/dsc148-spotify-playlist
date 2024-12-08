@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,650 likes - 44 songs - 2 hr 18 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,655 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 42 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 |
 | 43 | [Jump N Twist](https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Jump N Twist](https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI) | 2:58 |
 | 44 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
+| 45 | [Play Dice](https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Play Dice EP](https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4) | 2:55 |
 
-Snapshot ID: `AAAkK8w93ahzwYXjioQGcz9m26vdZo9h`
+Snapshot ID: `AAAkLPb/5rYYcw7fJZjUMrbVli4l0l4O`

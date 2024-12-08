@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 305,747 likes - 226 songs - 14 hr 21 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 305,739 likes - 226 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 3 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 4 | [A Christmas Prelude No\. 3](https://open.spotify.com/track/550tiyZbarfuAejjHMSZLO) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Prelude No\. 3](https://open.spotify.com/album/3j3Tcyg9D7DLASJHyx0rTs) | 2:55 |
 | 5 | [Carol of the Bells](https://open.spotify.com/track/2MQkIXTRh4H8eaKW1mPLoY) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Carol of the Bells](https://open.spotify.com/album/5h7BzP1ADecqoe8XnQpmkh) | 1:34 |
-| 6 | [O mio babbino caro \(From Gianni Schicchi, SC 88, Arr\. for Piano and Cello by E\. M\. Fard\)](https://open.spotify.com/track/0cwDtnv4PUyNr6ppd05DcQ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Michael Bosch](https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s) | [O mio babbino caro \(From Gianni Schicchi, SC 88, Arr\. for Piano and Cello by E\. M\. Fard\)](https://open.spotify.com/album/77OEhTZfHsYNyMfHBJoCof) | 3:15 |
+| 6 | [O mio babbino caro \(From Gianni Schicchi, SC 88, Arr\. for Piano and Cello by E\. M\. Fard\)](https://open.spotify.com/track/0cwDtnv4PUyNr6ppd05DcQ) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Michael Bosch](https://open.spotify.com/artist/1le5i5ocmJUzPvI0WORY6s) | [O mio babbino caro \(From Gianni Schicchi, SC 88, Arr\. for Piano and Cello by E\. M\. Fard\)](https://open.spotify.com/album/77OEhTZfHsYNyMfHBJoCof) | 3:15 |
 | 7 | [Dancing Girl](https://open.spotify.com/track/1h0k5c35Bnh63khuMMBfmg) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Dancing Girl](https://open.spotify.com/album/6TzhFFFPfkvsbE392eXZvt) | 2:18 |
 | 8 | [Ave Maria](https://open.spotify.com/track/6VYSqs3AgB6koJdXOaXjkJ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY) | [Piano Noël II](https://open.spotify.com/album/3rkdFMmbbpkGJ8bHXpuZU2) | 2:26 |
 | 9 | [A Christmas Prelude No\. 1](https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Prelude No\. 1](https://open.spotify.com/album/4zcCzsCkRZFlEBGNLPoGGW) | 2:41 |

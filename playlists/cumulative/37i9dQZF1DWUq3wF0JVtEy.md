@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-494 songs - 1 day 0 hr 7 min
+495 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Don't Leave Me High \- SubSoda Remix](https://open.spotify.com/track/5X502Qx0RZ8qdvE0U2vojn) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7), [SubSoda](https://open.spotify.com/artist/5QQGUGslrAKpWDsBBixjar) | [Don't Leave Me High](https://open.spotify.com/album/1GKmqNTj64TYTgJJ2nWSsN) | 2:07 | 2024-01-12 | 2024-03-02 |
 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-08-12 | 2024-08-31 |
 | [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 | 2023-10-06 | 2023-11-13 |
+| [Don't Stop](https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Don't Stop](https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g) | 3:25 | 2024-12-06 |  |
 | [Don't Stop](https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Don't Stop](https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE) | 2:57 | 2024-11-08 |  |
 | [Don't Wanna](https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Kenneth G](https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w), [BRØHEIM](https://open.spotify.com/artist/7ufk7gxzogk76lK03i2ecd) | [Don't Wanna](https://open.spotify.com/album/3Wo0zmeNXZbJW6krYyyjJI) | 3:35 | 2023-11-10 | 2023-12-21 |
 | [Down Low](https://open.spotify.com/track/5jbz9ONajDOe1AW5c3ob5U) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE), [Donnie Sloan](https://open.spotify.com/artist/4t95822Jv53tQJK2iS4dKt) | [Down Low](https://open.spotify.com/album/38O7LZ16jFp9RJ5BdCpFt0) | 2:41 | 2021-10-29 | 2022-11-12 |
@@ -203,7 +204,7 @@
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-05-11 | 2024-11-09 |
 | [Hope](https://open.spotify.com/track/6piOGtdsulNYXIx8nOH0s4) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Tom Breeze](https://open.spotify.com/artist/63RVzApTkfArs5dRWfBIR8) | [Hope](https://open.spotify.com/album/1eU0In75IqjtKUSDEuiNXx) | 3:56 | 2021-10-29 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/5ROkVcgsHOtlzv1SKuAikA) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Hope](https://open.spotify.com/album/2sPbknPYZhUd60dx4iansa) | 6:03 | 2021-10-29 | 2022-07-28 |
-| [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-05-12 |  |
+| [Hostile](https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Heritage](https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG) | 2:33 | 2023-05-12 | 2024-12-08 |
 | [Hot In Here](https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [Hot In Here](https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV) | 2:31 | 2022-02-11 | 2022-08-06 |
 | [House Music Forever](https://open.spotify.com/track/4ip0qLoYmHJiDEj4f5MnOp) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Jules Brand](https://open.spotify.com/artist/0GRc1U1eKmnVnUalj7HQDZ), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [House Music Forever](https://open.spotify.com/album/0Muc3IDPrYJKiCkp9XpNC5) | 3:14 | 2022-04-01 | 2022-04-21 |
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2023-10-28 |

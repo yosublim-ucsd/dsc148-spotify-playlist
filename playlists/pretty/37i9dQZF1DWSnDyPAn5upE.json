@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 66753,
+  "num_followers": 66832,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "SOUL VOICES",
-        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
-      },
-      "artists": [
-        {
-          "name": "Jane Winther",
-          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
-        }
-      ],
-      "duration_ms": 463164,
-      "name": "Soul Voices",
-      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
         "url": "https://open.spotify.com/album/0jT8y9vhDBCvtDLRM42Jlk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 269827,
       "name": "fall (Hania Rani Rework) (feat. Hania Rani)",
       "url": "https://open.spotify.com/track/2Pdz8PtiGiZCHwGiuDVX2n"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "SOUL VOICES",
+        "url": "https://open.spotify.com/album/2N0ZhTIRAlJLMKkXdpmTOU"
+      },
+      "artists": [
+        {
+          "name": "Jane Winther",
+          "url": "https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s"
+        }
+      ],
+      "duration_ms": 463164,
+      "name": "Soul Voices",
+      "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Solari",
         "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "LP.8",
-        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 182485,
-      "name": "Olga",
-      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "plastichoir",
         "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 190860,
       "name": "melting cups",
       "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "LP.8",
+        "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 182485,
+      "name": "Olga",
+      "url": "https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Piccolo Corpo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wRqZYWKlxhqah0N9IE0QK"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Pray for Us",
-        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "Kisel\u0451k",
-          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
-        },
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 292605,
-      "name": "Pray for Us",
-      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -919,6 +899,26 @@
       "duration_ms": 238145,
       "name": "Strong, Calm, Slow",
       "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
       },
       "artists": [
         {
           "name": "Alicia Enstrom",
           "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        },
-        {
-          "name": "Chris Lippincott",
-          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
         }
       ],
-      "duration_ms": 194706,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -995,42 +991,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
       "artists": [
         {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         },
         {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
-      },
-      "artists": [
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
         },
         {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+          "name": "Aonian",
+          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
         }
       ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+      "duration_ms": 239000,
+      "name": "A Model Of Reality - Aonian Remix",
+      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1071,6 +1051,66 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+        }
+      ],
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+      },
+      "artists": [
+        {
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        },
+        {
+          "name": "Chris Lippincott",
+          "url": "https://open.spotify.com/artist/3r5vtXmOYoBH3cpMng374W"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/631Ev6DXhwQ0vPR7i1hFOR"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "in altar wine",
         "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
       },
@@ -1083,22 +1123,6 @@
       "duration_ms": 334038,
       "name": "in altar wine",
       "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1135,26 +1159,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        },
-        {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Aonian",
-          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 239000,
-      "name": "A Model Of Reality - Aonian Remix",
-      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1183,6 +1199,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Hush Now Baby",
+        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+      },
+      "artists": [
+        {
+          "name": "Ea Akilat",
+          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+        },
+        {
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+        }
+      ],
+      "duration_ms": 101142,
+      "name": "Hush Now Baby",
+      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -1195,22 +1231,6 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1235,26 +1255,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Hush Now Baby",
-        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
-      },
-      "artists": [
-        {
-          "name": "Ea Akilat",
-          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
-        },
-        {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
-        }
-      ],
-      "duration_ms": 101142,
-      "name": "Hush Now Baby",
-      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Japanese Summer Lost",
         "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 211942,
       "name": "Japanese Summer Lost",
       "url": "https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 326426,
       "name": "All Things Devour - Botany Remix",
       "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 210000,
       "name": "Celeste Song",
       "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Seasons Shifting",
         "url": "https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 260000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "chamomile",
         "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 242000,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lumino Pleco",
-        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
-      },
-      "artists": [
-        {
-          "name": "Gi Gi",
-          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
-        },
-        {
-          "name": "Mi Mi",
-          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
-        }
-      ],
-      "duration_ms": 491334,
-      "name": "Montju\u00efc",
-      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL"
       },
@@ -1639,6 +1619,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Lumino Pleco",
+        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
+      },
+      "artists": [
+        {
+          "name": "Gi Gi",
+          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
+        },
+        {
+          "name": "Mi Mi",
+          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
+        }
+      ],
+      "duration_ms": 491334,
+      "name": "Montju\u00efc",
+      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Find Sound",
         "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
       },
@@ -1651,6 +1651,26 @@
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+      },
+      "artists": [
+        {
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "duration_ms": 96450,
+      "name": "Clotho",
+      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1691,26 +1711,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
-      },
-      "artists": [
-        {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
-        }
-      ],
-      "duration_ms": 96450,
-      "name": "Clotho",
-      "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The 90s Was A Feeling",
+        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "The 90s Was A Feeling",
+      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Spell V: Like Honey in a Hidden Cave",
         "url": "https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 306908,
       "name": "Epic Mirage",
       "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The 90s Was A Feeling",
-        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "The 90s Was A Feeling",
-      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Aquarius/Pisces",
-        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+      "duration_ms": 650794,
+      "name": "Sospiro",
+      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
     }
   ],
   "unique_name": "ethereal voices",

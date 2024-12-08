@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1371324,
+  "num_followers": 1371530,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 314173,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
+        "name": "Where Have All The Merrymakers Gone?",
+        "url": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
       },
       "artists": [
         {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+          "name": "Harvey Danger",
+          "url": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
         }
       ],
-      "duration_ms": 316466,
-      "name": "Crash into Me",
-      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
+      "duration_ms": 217266,
+      "name": "Flagpole Sitta",
+      "url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Where Have All The Merrymakers Gone?",
-        "url": "https://open.spotify.com/album/554gpRastI7dbOcir9eAkL"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
       "artists": [
         {
-          "name": "Harvey Danger",
-          "url": "https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 217266,
-      "name": "Flagpole Sitta",
-      "url": "https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU"
+      "duration_ms": 316466,
+      "name": "Crash into Me",
+      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Duncan Sheik",
-        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
-      },
-      "artists": [
-        {
-          "name": "Duncan Sheik",
-          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
-        }
-      ],
-      "duration_ms": 254546,
-      "name": "Barely Breathing",
-      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 132306,
       "name": "Roll To Me",
       "url": "https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Duncan Sheik",
+        "url": "https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf"
+      },
+      "artists": [
+        {
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+        }
+      ],
+      "duration_ms": 254546,
+      "name": "Barely Breathing",
+      "url": "https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Jagged Little Pill",
-        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Ironic",
-      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "Elastica",
         "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 140480,
       "name": "Connection",
       "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Jagged Little Pill",
+        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Ironic",
+      "url": "https://open.spotify.com/track/4oGTdOClZUxcM2H3UmXlwL"
     },
     {
       "added_at": "2024-06-26 02:07:58",

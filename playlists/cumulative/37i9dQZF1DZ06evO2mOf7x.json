@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178364,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
+    },
+    {
+      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
       },

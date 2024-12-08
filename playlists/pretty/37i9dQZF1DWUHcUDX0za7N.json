@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57679,
+  "num_followers": 57694,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,18 @@
     {
       "added_at": "2024-12-06 05:38:15",
       "album": {
-        "name": "DSC",
-        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
       "artists": [
         {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        },
-        {
-          "name": "Kashcpt",
-          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 156256,
-      "name": "DSC",
-      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
     },
     {
       "added_at": "2024-12-06 05:38:15",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-12-06 05:38:15",
       "album": {
-        "name": "O.U.A.T",
-        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+        "name": "DSC",
+        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
         }
       ],
-      "duration_ms": 141052,
-      "name": "O.U.A.T",
-      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
+      "duration_ms": 156256,
+      "name": "DSC",
+      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
     },
     {
       "added_at": "2024-12-06 05:38:15",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-12-06 05:38:15",
       "album": {
+        "name": "Taya",
+        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
+      },
+      "artists": [
+        {
+          "name": "Dwillsharmony",
+          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "Taya",
+      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
+    },
+    {
+      "added_at": "2024-12-06 05:38:15",
+      "album": {
         "name": "Lifestyle (feat. Pheelz)",
         "url": "https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 175689,
       "name": "Lifestyle (feat. Pheelz)",
       "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
-    },
-    {
-      "added_at": "2024-12-06 05:38:15",
-      "album": {
-        "name": "Taya",
-        "url": "https://open.spotify.com/album/22MDn2iHQC7Uj5bEyU79L0"
-      },
-      "artists": [
-        {
-          "name": "Dwillsharmony",
-          "url": "https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "Taya",
-      "url": "https://open.spotify.com/track/2umbkUK3LQnEkaDQLl8PZF"
     },
     {
       "added_at": "2024-12-06 05:38:15",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-12-06 05:38:15",
       "album": {
-        "name": "Logba",
-        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Logba",
-      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
-    },
-    {
-      "added_at": "2024-12-06 05:38:15",
-      "album": {
         "name": "SHOW WORKINGS (feat. Magnito, DanDizzy, Oladips & Kabex)",
         "url": "https://open.spotify.com/album/2ukShFKYrJOb91a6MTOHY1"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2024-12-06 05:38:15",
       "album": {
+        "name": "Logba",
+        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Logba",
+      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
+    },
+    {
+      "added_at": "2024-12-06 05:38:15",
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4"
       },
@@ -1163,6 +1163,38 @@
       "duration_ms": 114636,
       "name": "System",
       "url": "https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw"
+    },
+    {
+      "added_at": "2024-12-06 05:38:15",
+      "album": {
+        "name": "BETELGEUSE",
+        "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "K.I",
+          "url": "https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe"
+        },
+        {
+          "name": "Veelantyne",
+          "url": "https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz"
+        },
+        {
+          "name": "s0ru",
+          "url": "https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj"
+        },
+        {
+          "name": "Fred the Prod.",
+          "url": "https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA"
+        }
+      ],
+      "duration_ms": 208432,
+      "name": "BETELGEUSE",
+      "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
     },
     {
       "added_at": "2024-12-06 05:38:15",
@@ -1203,38 +1235,6 @@
       "duration_ms": 192000,
       "name": "One Night",
       "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
-    },
-    {
-      "added_at": "2024-12-06 05:38:15",
-      "album": {
-        "name": "BETELGEUSE",
-        "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
-      },
-      "artists": [
-        {
-          "name": "Sosa.ttw",
-          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
-        },
-        {
-          "name": "K.I",
-          "url": "https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe"
-        },
-        {
-          "name": "Veelantyne",
-          "url": "https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz"
-        },
-        {
-          "name": "s0ru",
-          "url": "https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj"
-        },
-        {
-          "name": "Fred the Prod.",
-          "url": "https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA"
-        }
-      ],
-      "duration_ms": 208432,
-      "name": "BETELGEUSE",
-      "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
     },
     {
       "added_at": "2024-12-06 05:38:15",

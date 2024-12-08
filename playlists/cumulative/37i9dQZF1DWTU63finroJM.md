@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Fazerdaze.
 
-1,760 songs - 3 day 23 hr 39 min
+1,761 songs - 3 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2024-10-25 | 2024-11-09 |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2023-05-30 | 2023-11-18 |
 | [Dame Tu Amor](https://open.spotify.com/track/6A6PdoI3SPaM81hkMkK3jd) | [Milena Sanchez](https://open.spotify.com/artist/0VjiomvbhEWVUJJucZKQ2n) | [Dame Tu Amor](https://open.spotify.com/album/6htMOqhIVhbycSQvLaQKDb) | 2:55 | 2024-07-05 | 2024-10-28 |
-| [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 | 2024-08-02 |  |
+| [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 | 2024-08-02 | 2024-12-08 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-09 | 2022-10-06 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 | 2022-09-30 | 2023-05-09 |
 | [Dancing in the Dark](https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [Dancing in the Dark](https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro) | 3:18 | 2024-07-26 | 2024-11-30 |
@@ -1259,6 +1259,7 @@
 | [Se Siente Así \(Arial 7\)](https://open.spotify.com/track/6jUKGmxWOnmyFwABCAQgVo) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Se Siente Así \(Arial 7\)](https://open.spotify.com/album/2pNkgDHGJeoFYz5PV9c8EQ) | 2:43 | 2024-10-04 | 2024-10-26 |
 | [Se Te Cayó](https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Se Te Cayó](https://open.spotify.com/album/6P8eo6PshOT2xbv2ISKOGz) | 2:52 | 2022-03-24 | 2022-08-02 |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
+| [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 | 2024-12-06 |  |
 | [Sei del Mattino](https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 3:05 | 2024-03-15 | 2024-03-18 |
 | [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-26 | 2024-05-16 |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \- From "X\-Change"](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-28 | 2024-08-18 |

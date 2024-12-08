@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Chappell and Sabrina \- it's a Christmas miracle!
+> Honestly, never getting over Sabrina & Chappell's harmonies
 
 1,885 songs - 4 day 2 hr 30 min
 

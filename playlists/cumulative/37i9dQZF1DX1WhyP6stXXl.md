@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: ROSÉ
 
-608 songs - 1 day 6 hr 41 min
+609 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Don't Cry](https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:16 | 2024-11-07 | 2024-12-06 |
 | [don't forget about me](https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [don't forget about me](https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa) | 2:52 | 2024-06-28 | 2024-07-05 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-04 |
-| [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-05 |  |
+| [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-05 |  |
 | [Don't You Give Up On Me Yet](https://open.spotify.com/track/4I3KrxXAmYTWtUsK64sH18) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Black Dress](https://open.spotify.com/album/2A40Ol1cG4JjD6dzAfwztx) | 3:16 | 2024-11-21 |  |
 | [DONE](https://open.spotify.com/track/0BADfmHMyTaLQ5HmhH44NB) | [Thoughty](https://open.spotify.com/artist/31UTwNIEyvdhv7PaaDNisW) | [DONE](https://open.spotify.com/album/37UTYBmSZVJZezE2EQQUma) | 2:24 | 2024-10-31 | 2024-11-29 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-06-28 | 2024-07-12 |
@@ -205,6 +205,7 @@
 | [Galina](https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Galina](https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx) | 4:30 | 2024-08-29 | 2024-09-27 |
 | [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 | 2024-08-29 | 2024-09-27 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-28 | 2024-07-05 |
+| [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/track/64YCRnMmAcj4982RtwNaag) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Georgia Ways \(with Teddy Swims & Luke Bryan\)](https://open.spotify.com/album/4MvWcgCB3dBfSgW8dctJ2h) | 2:48 | 2024-12-07 |  |
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-09-05 | 2024-10-04 |
 | [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-10-03 | 2024-10-25 |
 | [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-08 | 2024-08-23 |

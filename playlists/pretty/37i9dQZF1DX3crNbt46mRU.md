@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: SCH
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,422 likes - 111 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,427 likes - 111 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 12 | [Walzer](https://open.spotify.com/track/1We3jgIztlD2Tkb0yOoX4b) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/4TZczY6TXXS0lDd7DX0WPv) | 3:21 |
 | 13 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 14 | [sag wieso?](https://open.spotify.com/track/3zMWsfPgegUuJ6P7Qb7b54) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [sag wieso?](https://open.spotify.com/album/0KrygdvuM8K2ksgB9cU0Fn) | 3:03 |
-| 15 | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 |
+| 15 | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 |
 | 16 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 |
 | 17 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
 | 18 | [C'est ma vie](https://open.spotify.com/track/5wk3OSvb7WQW99KvGt9UFv) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [C'est ma vie](https://open.spotify.com/album/6ck67LpPLfKnuezPnWT4vC) | 2:45 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 24 | [Follow](https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Follow](https://open.spotify.com/album/0FfACnBnBJsXfXMSAd9yp8) | 2:50 |
 | 25 | [With You](https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [With You](https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU) | 2:24 |
 | 26 | [odio, quindi sono.](https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [odio, quindi sono.](https://open.spotify.com/album/6IDuJVEt2aKMUfLodfTuB0) | 2:07 |
-| 27 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 27 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 28 | [HERZ](https://open.spotify.com/track/6P9bLDz0tS6KkopNkHNMTJ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [HERZ](https://open.spotify.com/album/0N8lZTYwdk9zuxDSXzshxt) | 2:03 |
 | 29 | [Dreck](https://open.spotify.com/track/1IQfahDDdNrrlRkOAMXsyw) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Dreck](https://open.spotify.com/album/6tRzg9MQQbMYyqVHohzrAF) | 1:49 |
 | 30 | [MoMA](https://open.spotify.com/track/60OS5E7JHKYGfUX7tp1atD) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [MoMA](https://open.spotify.com/album/3s38wYnfeNgw5c4m1aqSKs) | 1:57 |

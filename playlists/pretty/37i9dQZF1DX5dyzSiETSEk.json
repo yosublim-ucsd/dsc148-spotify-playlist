@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 585976,
+  "num_followers": 585950,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -531,18 +531,22 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+      "duration_ms": 163893,
+      "name": "You're Welcome",
+      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -567,22 +571,18 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
       "artists": [
         {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 163893,
-      "name": "You're Welcome",
-      "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 190773,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Cool Kids",
+      "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
     },
     {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Lost In Japan",
+      "url": "https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Moon Music",
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Shawn Mendes",
-        "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Lost In Japan",
-      "url": "https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -967,22 +983,6 @@
       "duration_ms": 218723,
       "name": "Life Is Sweeter",
       "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2024-08-06 19:46:59",

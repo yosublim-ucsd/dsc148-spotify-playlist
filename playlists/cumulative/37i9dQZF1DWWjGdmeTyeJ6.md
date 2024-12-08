@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: Mariae Cassandra, Artwork: Isu Kim
 
-7,441 songs - 16 day 19 hr 23 min
+7,442 songs - 16 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,6 +1310,7 @@
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-05 | 2022-10-13 |
 | [Cold Showers](https://open.spotify.com/track/0xLIu53VONIKcPKcwtBBkd) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Cold Showers](https://open.spotify.com/album/6yKezCicZESF7XUSD4ubrg) | 3:20 | 2023-03-29 | 2023-04-06 |
 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-01-31 | 2024-03-21 |
+| [coldasice](https://open.spotify.com/track/6seMCDuceen9ne0l0jy8CJ) | [garbagebarbie](https://open.spotify.com/artist/67Ct1lxXgZ2IFOsrEwrGhV) | [ii](https://open.spotify.com/album/5ZY4opye2agxlsvi7UZcqP) | 2:11 | 2024-12-07 |  |
 | [colder](https://open.spotify.com/track/2t5hh01Z4oT2t3en3G6NPc) | [Nvsh](https://open.spotify.com/artist/6ohARwz7jIYCXTdQxCSPQ3) | [colder](https://open.spotify.com/album/0obL7bj45jrMzjC2KXIlLi) | 3:14 | 2022-03-09 | 2022-03-17 |
 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 | 2023-06-14 | 2024-01-11 |
 | [collision course](https://open.spotify.com/track/1Aqem6wOa0vjQ417fE820e) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [collision course](https://open.spotify.com/album/03OtybO6yxIXOLiAVSPOO7) | 1:41 | 2022-03-09 | 2022-03-17 |
@@ -7415,7 +7416,7 @@
 | [Your Shadow](https://open.spotify.com/track/6W4Xn6J7c3KEYPxCn3JVHQ) | [Kyyhky](https://open.spotify.com/artist/4vNfleEK3kFDBE5EmQ0lVu), [Tutorial](https://open.spotify.com/artist/1ehmm9eylhtvBZW5PDP9yn) | [Your Shadow](https://open.spotify.com/album/5cwUV1U3ystrwrWsAAy3r2) | 2:45 | 2024-02-28 | 2024-03-07 |
 | [Your Song](https://open.spotify.com/track/1iM2bxBN9FJjzEzzViHirm) | [Segöya](https://open.spotify.com/artist/3UGfiyptKkWoSoONr4WINb) | [Your Song](https://open.spotify.com/album/1TsTEztNvP7gtrdWl6N8Qp) | 3:59 | 2022-01-26 | 2022-02-03 |
 | [Your Soul](https://open.spotify.com/track/6M4nNbVYQZteVhtqBtS1h3) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Your Soul](https://open.spotify.com/album/3VO7UIZOB3dvsTi5Jbiu9T) | 4:46 | 2022-04-13 | 2022-04-28 |
-| [Your Terms](https://open.spotify.com/track/3cOdIxIWmlnv06IG2vJBe8) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Your Terms](https://open.spotify.com/album/4CIDq5fTuvuFCShnjBiUp9) | 2:49 | 2024-11-06 |  |
+| [Your Terms](https://open.spotify.com/track/3cOdIxIWmlnv06IG2vJBe8) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Your Terms](https://open.spotify.com/album/4CIDq5fTuvuFCShnjBiUp9) | 2:49 | 2024-11-06 | 2024-12-08 |
 | [Your The One](https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Waiting To Exhale](https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd) | 2:41 | 2023-07-19 | 2023-07-27 |
 | [Your Time](https://open.spotify.com/track/6ySm2ZQjmlUHyBGzOIeMYu) | [Presley River](https://open.spotify.com/artist/6ZX039euNcQn6PvurHNQ3R) | [Presley River](https://open.spotify.com/album/5SWk7nvYwXlidB5AMQiCYp) | 4:37 | 2022-01-19 | 2022-01-27 |
 | [Your Type](https://open.spotify.com/track/3Cz89CEQBdIvOeBjp7usoJ) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Your Type](https://open.spotify.com/album/0mRzdnUKH6AwFjAfxOdAww) | 3:23 | 2024-03-06 | 2024-03-28 |

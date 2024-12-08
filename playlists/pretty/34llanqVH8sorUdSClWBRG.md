@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 49 songs - 2 hr 43 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/4xx6gNZiyz0R2E64pzgZ3T) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack](https://open.spotify.com/album/5CooX2xg5YibepSfjbRFNT) | 2:13 |
 | 2 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 |
-| 3 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 |
-| 4 | [I Lost Thursday](https://open.spotify.com/track/5KAs9OVZmGt6DNyGNwXoZv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Super Cool](https://open.spotify.com/album/0QYdhxj2cOe102smrHABGF) | 3:14 |
-| 5 | [I Broke My Own Rule](https://open.spotify.com/track/5gmELdcn5zBpzUO877nkAW) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:22 |
+| 3 | [I Lost Thursday](https://open.spotify.com/track/5KAs9OVZmGt6DNyGNwXoZv) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Super Cool](https://open.spotify.com/album/0QYdhxj2cOe102smrHABGF) | 3:14 |
+| 4 | [I Broke My Own Rule](https://open.spotify.com/track/5gmELdcn5zBpzUO877nkAW) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:22 |
+| 5 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 |
 | 6 | [Wait Actually Yeah No](https://open.spotify.com/track/2iXItGd5Z7N8UyljFsS3nt) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:20 |
 | 7 | [McCafferty's Bib](https://open.spotify.com/track/65WSrB4IuSAcdAMdbHdjX8) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap) | 2:35 |
 | 8 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 |
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 47 | [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 |
 | 48 | [Masher](https://open.spotify.com/track/5aqtEq5sJJlrVoPZTjI0Yj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 3:21 |
 | 49 | [Wrong!](https://open.spotify.com/track/0wc0za6oNYTNWWIa2ZdFB2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 2:17 |
+| 50 | [Answering the Phone\* \- Bonus Track](https://open.spotify.com/track/2rvhsOudGG9vRRo5xikTlq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:28 |
 
-Snapshot ID: `AAAANOp93I0wMDrW8x2jJY4G8JBvheMe`
+Snapshot ID: `AAAANvAqYtMmQ+G1dczzAzv4zXY++1XJ`

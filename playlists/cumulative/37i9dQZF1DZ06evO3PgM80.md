@@ -4,13 +4,14 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-53 songs - 5 hr 0 min
+54 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 | 2023-07-09 |  |
 | [Além do Rio Azul \- Acústico](https://open.spotify.com/track/5c1TKyPx3H9KqzAZWSaqC6) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Além do Rio Azul \(Acústico\)](https://open.spotify.com/album/179cAV1v2sG8INY8xv2OZK) | 4:41 | 2023-07-09 | 2024-01-31 |
 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 | 2024-01-30 |  |
+| [Bem Mais Que Tudo \(Above All\) \- Acústico](https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:22 | 2024-12-08 |  |
 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 | 2023-07-09 |  |
 | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu) | 9:14 | 2023-07-09 |  |
 | [Clamo Jesus \(feat\. Julia Vitória\)](https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE) | [Joe Vasconcelos](https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX), [Sing Church Worship](https://open.spotify.com/artist/2gB9fUvjv7WdVt9sfqbd5J), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Clamo Jesus \(feat\. Julia Vitória\)](https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf) | 6:35 | 2024-08-03 |  |

@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
@@ -4518,6 +4518,24 @@
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
+    },
+    {
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "album": {

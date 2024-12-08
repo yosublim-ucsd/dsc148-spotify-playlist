@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 13514,
+  "num_followers": 13523,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADlTL2z3rOhAQbzIzx/2p4g",
+  "snapshot_id": "Z1I+gAAAAACjQysb1SlGGZfqeUWbX06P",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are Shadows",
-        "url": "https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 215823,
-      "name": "We Are Shadows",
-      "url": "https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J"
+      "duration_ms": 218386,
+      "name": "Into The Darkness",
+      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 233034,
-      "name": "Eyes Wide Open",
-      "url": "https://open.spotify.com/track/4K4OBqzg2OpziUCa8Gbzg0"
+      "duration_ms": 215823,
+      "name": "We Are Shadows",
+      "url": "https://open.spotify.com/track/13D1YvBHi5iW4f7ChMQ5Wq"
     },
     {
       "added_at": null,
@@ -151,70 +151,6 @@
       "duration_ms": 174133,
       "name": "Get Off (You Can Eat a Dick)",
       "url": "https://open.spotify.com/track/7bkstl3jHuqyLThQoja3Ek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Into The Darkness",
-      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Mouthful of Poison",
-      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Charlotte",
-      "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
     },
     {
       "added_at": null,
@@ -244,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 122800,
-      "name": "Oracle",
-      "url": "https://open.spotify.com/track/4JRVMu3RowUdd7ZrcWMMVc"
+      "duration_ms": 278906,
+      "name": "Mouthful of Poison",
+      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
     },
     {
       "added_at": null,
@@ -260,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 222601,
-      "name": "I Still Wear This Crown",
-      "url": "https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve"
+      "duration_ms": 233034,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/4K4OBqzg2OpziUCa8Gbzg0"
     },
     {
       "added_at": null,
@@ -276,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 184026,
-      "name": "Do You Think I'm a Whore?",
-      "url": "https://open.spotify.com/track/7tonKC2RWNxneYbNAXfm0e"
+      "duration_ms": 239066,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
     },
     {
       "added_at": null,
@@ -308,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 332200,
-      "name": "In Winter",
-      "url": "https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV"
+      "duration_ms": 122800,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/4JRVMu3RowUdd7ZrcWMMVc"
     },
     {
       "added_at": null,
@@ -324,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 237776,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/1gZsLy9CVwF9JmkYHTCJWG"
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q"
     },
     {
       "added_at": null,
@@ -340,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Suck",
-      "url": "https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc"
+      "duration_ms": 184026,
+      "name": "Do You Think I'm a Whore?",
+      "url": "https://open.spotify.com/track/7tonKC2RWNxneYbNAXfm0e"
     },
     {
       "added_at": null,
@@ -372,6 +308,70 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
+      "duration_ms": 332200,
+      "name": "In Winter",
+      "url": "https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222601,
+      "name": "I Still Wear This Crown",
+      "url": "https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Suck",
+      "url": "https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 329506,
+      "name": "Look So Pretty",
+      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
       "duration_ms": 134573,
       "name": "No Name",
       "url": "https://open.spotify.com/track/0pYBl7g2AJtXmVPgEk8KiA"
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177348,
-      "name": "Wound",
-      "url": "https://open.spotify.com/track/2tU7gWGgnBWZCEtWa2CoAB"
+      "duration_ms": 237776,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/1gZsLy9CVwF9JmkYHTCJWG"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 329506,
-      "name": "Look So Pretty",
-      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+      "duration_ms": 235933,
+      "name": "Career Suicide",
+      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 235933,
-      "name": "Career Suicide",
-      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
+      "duration_ms": 228026,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 224160,
       "name": "Forgive And Forget",
       "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 177000,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -667,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Sorrow I Know",
-      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 171160,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Sorrow I Know",
+      "url": "https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV"
     },
     {
       "added_at": null,

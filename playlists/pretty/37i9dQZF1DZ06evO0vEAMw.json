@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 86333,
+  "num_followers": 86407,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACnxf/kjoWZhvqjoRcqKcCO",
+  "snapshot_id": "Z1I+gAAAAAAEub+JJs6Gf2q5kV6Qmhrb",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,30 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": null,
@@ -455,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+        "name": "Dodo",
+        "url": "https://open.spotify.com/album/02V6jQifJP6Yoo1pI9idaA"
       },
       "artists": [
         {
@@ -464,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+      "duration_ms": 213551,
+      "name": "Dodo",
+      "url": "https://open.spotify.com/track/2F21BqgPX0wsmFjNs9ghPz"
     },
     {
       "added_at": null,
@@ -487,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dodo",
-        "url": "https://open.spotify.com/album/02V6jQifJP6Yoo1pI9idaA"
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
       },
       "artists": [
         {
@@ -496,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 213551,
-      "name": "Dodo",
-      "url": "https://open.spotify.com/track/2F21BqgPX0wsmFjNs9ghPz"
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": null,
@@ -527,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -543,34 +587,6 @@
       "duration_ms": 187586,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,
@@ -611,38 +627,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
       "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Risky",
-      "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
-      },
-      "artists": [
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 237714,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,
@@ -667,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -707,6 +695,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nwa Baby",
         "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
@@ -719,26 +743,6 @@
       "duration_ms": 222327,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -763,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -772,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 163636,
-      "name": "1 Milli",
-      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+      "duration_ms": 203505,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
     },
     {
       "added_at": null,
@@ -803,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MORE PRETTY GIRLS",
         "url": "https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0"
       },
@@ -847,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -856,9 +880,25 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 203505,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU"
+      "duration_ms": 163636,
+      "name": "1 Milli",
+      "url": "https://open.spotify.com/track/3AKPoi06BFR4vrK7alGjfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
     },
     {
       "added_at": null,
@@ -895,22 +935,6 @@
       "duration_ms": 208420,
       "name": "Maserati (Remix)",
       "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": null,
@@ -987,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wap",
         "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
       },
@@ -1055,6 +1063,22 @@
       "duration_ms": 249320,
       "name": "Assurance",
       "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
     }
   ],
   "unique_name": "This Is Davido",

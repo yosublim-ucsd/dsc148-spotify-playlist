@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7CMm99akKvfXpqCRgYQ6xp"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194142,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2IN9jNTGfy6SfQOQJgPHLU"
+    },
+    {
+      "album": {
         "name": "Echolocation",
         "url": "https://open.spotify.com/album/01XJE8K5FAvvoha2LsDAF0"
       },

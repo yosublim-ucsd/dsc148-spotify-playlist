@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Chappell and Sabrina \- it's a Christmas miracle!
+> Honestly, never getting over Sabrina & Chappell's harmonies
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,140,729 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140,587 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 87 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
 | 88 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 
-Snapshot ID: `Z1OB8AAAAABMqON5UkB0B/MCp115uWl8`
+Snapshot ID: `Z1PkfQAAAACeiMYC7sxwknmNJ9JuNced`

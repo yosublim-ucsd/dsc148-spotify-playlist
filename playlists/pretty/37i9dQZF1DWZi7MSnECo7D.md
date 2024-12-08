@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Tangerim
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,032 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,996 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 2 | [Uma Tarde Qualquer](https://open.spotify.com/track/4leKREDuvQHApZlFFWyESR) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX), [Manacaos](https://open.spotify.com/artist/772iZJwA2TQKKxD8FNgJhM) | [Uma Tarde Qualquer](https://open.spotify.com/album/1UNPmfc5MWaQ6wrDFSISdy) | 3:30 |
 | 3 | [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 |
 | 4 | [Cuéntame](https://open.spotify.com/track/1Y719gj1Qa2pIR9FNXhkNi) | [Gracinha](https://open.spotify.com/artist/7vT7z5m95bEQhcKYw2j5W2) | [Corpo Celeste](https://open.spotify.com/album/5ytJ5bBxONr2vdI2JwdrQy) | 4:36 |
-| 5 | [Domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [Domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 |
+| 5 | [domingo](https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh) | [natália carreira](https://open.spotify.com/artist/3FVQisK6sYtE79tU2ghYeX), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [domingo](https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T) | 4:10 |
 | 6 | [Crochê](https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Crochê](https://open.spotify.com/album/0ixk9iHZvbOKJAi5WigCwK) | 3:37 |
 | 7 | [Ayer Morí](https://open.spotify.com/track/3qYBVDMACGvbwiftiXX5l3) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9) | [Ayer Morí](https://open.spotify.com/album/1byvBnHTMnu34AzKPFAFZz) | 2:38 |
 | 8 | [Coração Bobo](https://open.spotify.com/track/4P4iLR99z36awxPhEbOfoY) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Extra](https://open.spotify.com/album/0Ky85K9YsToTW5baHDRpKl) | 4:08 |

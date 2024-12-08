@@ -27443,6 +27443,24 @@
     },
     {
       "album": {
+        "name": "Play Dice EP",
+        "url": "https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4"
+      },
+      "artists": [
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Play Dice",
+      "url": "https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId"
+    },
+    {
+      "album": {
         "name": "Play It Cool",
         "url": "https://open.spotify.com/album/64GAikj3SBAhEJ4WoASvmv"
       },

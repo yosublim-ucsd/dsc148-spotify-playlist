@@ -1,15 +1,31 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
-  "num_followers": 148853,
+  "num_followers": 148878,
   "original_name": "Lista de LOS40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "AAApmLQ7KvYw/3gc4yemumVurTHtpGmf",
+  "snapshot_id": "AAApnItiI1uy6sE58iZBxMGKQl8sr/QD",
   "tracks": [
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214642,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -29,71 +45,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214642,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "Qu\u00e9 Pecao",
         "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
@@ -113,23 +65,7 @@
       "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "LA REINA",
-        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "LA REINA",
-      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -145,23 +81,39 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -177,191 +129,23 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 254705,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 162906,
-      "name": "La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Sinceramente (cuando cuando cuando)",
-        "url": "https://open.spotify.com/album/5EUTqFTLrsFpNRkF4CsV9N"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 215714,
-      "name": "Sinceramente (cuando cuando cuando)",
-      "url": "https://open.spotify.com/track/2qVQNKFWdx4jWTCo1zHPOP"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Dime Solo Si Has Pensao",
-        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 175715,
-      "name": "Dime Solo Si Has Pensao",
-      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "CARITA TRISTE",
-        "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 175296,
-      "name": "CARITA TRISTE",
-      "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2024-11-30 13:25:02",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "LA PANTERA NEGRA (DELUXE)",
         "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
@@ -381,55 +165,175 @@
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 187046,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
+        "name": "CARITA TRISTE",
+        "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 161831,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+      "duration_ms": 175296,
+      "name": "CARITA TRISTE",
+      "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 162906,
+      "name": "La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Dime Solo Si Has Pensao",
+        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 175715,
+      "name": "Dime Solo Si Has Pensao",
+      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Sinceramente (cuando cuando cuando)",
+        "url": "https://open.spotify.com/album/5EUTqFTLrsFpNRkF4CsV9N"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 215714,
+      "name": "Sinceramente (cuando cuando cuando)",
+      "url": "https://open.spotify.com/track/2qVQNKFWdx4jWTCo1zHPOP"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
@@ -445,79 +349,119 @@
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+      "duration_ms": 164599,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Tienes Que Saber",
-        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
+        "name": "Por Si No Te Vuelvo A Ver",
+        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Naiara",
-          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 180563,
-      "name": "Tienes Que Saber",
-      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
+      "duration_ms": 185464,
+      "name": "Por Si No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 187046,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -537,7 +481,7 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "X AQU\u00cd X ALL\u00c1",
         "url": "https://open.spotify.com/album/0a6tDYaeuHdrEU9LYPaqTP"
@@ -553,55 +497,95 @@
       "url": "https://open.spotify.com/track/4aACB2u00pLtue9eIUtbTt"
     },
     {
-      "added_at": "2024-11-30 13:25:11",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Por Si No Te Vuelvo A Ver",
-        "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
-      "duration_ms": 185464,
-      "name": "Por Si No Te Vuelvo A Ver",
-      "url": "https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi"
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Noctalgia",
-        "url": "https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE"
+        "name": "Tienes Que Saber",
+        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
         }
       ],
-      "duration_ms": 196438,
-      "name": "Volver a Nacer",
-      "url": "https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9"
+      "duration_ms": 180563,
+      "name": "Tienes Que Saber",
+      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "haz lo que quieras conmigo",
+        "url": "https://open.spotify.com/album/6l369kFprCQHueQaZ3sBTQ"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 208603,
+      "name": "haz lo que quieras conmigo",
+      "url": "https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -621,23 +605,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
         "name": "me he colgado de mi ex",
         "url": "https://open.spotify.com/album/7El0ClNnWU2t1aIPdG5B3I"
@@ -657,40 +625,68 @@
       "url": "https://open.spotify.com/track/3WEzoedCdyFgSi9GkM1HkF"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "New Woman (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+        "name": "Muy Tarde",
+        "url": "https://open.spotify.com/album/4LT7f6yiU4lbVP9SdFjGUS"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Hilario",
+          "url": "https://open.spotify.com/artist/3ACh8ywebnva0GQkJgHuF7"
         }
       ],
-      "duration_ms": 179789,
-      "name": "New Woman (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+      "duration_ms": 193977,
+      "name": "Muy Tarde",
+      "url": "https://open.spotify.com/track/4bqM5zrlaj9IwJBgNh7uOf"
     },
     {
-      "added_at": "2024-11-23 13:12:34",
+      "added_at": "2024-12-07 13:20:12",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
+    },
+    {
+      "added_at": "2024-12-07 13:20:12",
+      "album": {
+        "name": "Noctalgia",
+        "url": "https://open.spotify.com/album/1SfEsuqAuE1cEfLrpysQrE"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 196438,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/5HS8yqY8W31MNoOiW4hbz9"
     }
   ],
   "unique_name": "Lista de LOS40 (Oficial) | \ud83c\uddea\ud83c\uddf8",

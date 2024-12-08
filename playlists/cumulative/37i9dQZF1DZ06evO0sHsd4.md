@@ -4,7 +4,7 @@
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 20 min
+45 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [LAGUNAS](https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:51 | 2024-08-08 |  |
 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 | 2024-08-08 |  |
 | [Made In Paris](https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Made In Paris](https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC) | 2:38 | 2024-08-08 | 2024-11-14 |
-| [MADE IN PARIS](https://open.spotify.com/track/3m1Yb8X1XaH54NnNrzPzbn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 2:38 | 2024-11-15 |  |
+| [MADE IN PARIS](https://open.spotify.com/track/3m1Yb8X1XaH54NnNrzPzbn) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 2:38 | 2024-11-15 | 2024-12-08 |
+| [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-08 |  |
 | [Mas Alto Que El Everest](https://open.spotify.com/track/4GXiAl2kBRSC7HkeTeBhtq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/6rLIcVqblyX9Hpmhuh2ctR) | 3:01 | 2024-08-08 |  |
 | [ME ACTIVO](https://open.spotify.com/track/4Hr713a1f4DUOZ7BPuD0PQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:55 | 2024-08-08 |  |
 | [Miradas](https://open.spotify.com/track/0jZBBCtNiEqp4iCv7AyyZL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [MIRADAS](https://open.spotify.com/album/6ELd07xBg562NdO4CRv7tL) | 3:11 | 2024-09-22 | 2024-11-13 |

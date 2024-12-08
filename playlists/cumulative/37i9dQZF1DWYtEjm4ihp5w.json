@@ -4707,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Everything Asfi",
+        "url": "https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF"
+      },
+      "artists": [
+        {
+          "name": "100Alien",
+          "url": "https://open.spotify.com/artist/0WSNCqjksPt4RrSitACgLW"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "Roche",
+      "url": "https://open.spotify.com/track/7MmZnaetGl0Rfj11bgI3RE"
+    },
+    {
+      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/42QiHBjANb2V2ZeDthCcwn"
       },
@@ -5158,7 +5176,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 149453,
       "name": "SRTTT",
       "url": "https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE"
@@ -5520,10 +5538,28 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 176500,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/1SVQijtlWVBZZxEgIojsrA"
+    },
+    {
+      "album": {
+        "name": "Thomas Shelby",
+        "url": "https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Thomas Shelby",
+      "url": "https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq"
     },
     {
       "album": {

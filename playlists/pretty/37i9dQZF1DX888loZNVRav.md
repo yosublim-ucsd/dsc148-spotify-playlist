@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,793 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,815 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 12 | [Seventeen](https://open.spotify.com/track/2p0FjrYZlNhEejQOLXHP2n) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:11 |
 | 13 | [My Man](https://open.spotify.com/track/101tKsNj1azODLsJbZZNiM) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Funny Girl \- Original Soundtrack Recording](https://open.spotify.com/album/0G8qWYPobQUV9wDm2XABPp) | 2:11 |
 | 14 | [So in Love](https://open.spotify.com/track/3SBLAWTQrtfm5kiGV8x9dt) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 4:21 |
-| 15 | [You Matter to Me](https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF) | [Drew Gehling](https://open.spotify.com/artist/7ejlBSnnDMNIhEcL7MN868), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:21 |
+| 15 | [You Matter to Me](https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF) | [Drew Gehling](https://open.spotify.com/artist/2wqWxxwnJHTRMEst9OsREa), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:21 |
 | 16 | [I'll Cover You](https://open.spotify.com/track/5fsqHu4hpOiFMVy1rqKpzm) | [Wilson Jermaine Heredia](https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 2:28 |
 | 17 | [Till There Was You](https://open.spotify.com/track/1kU40UKP9BviW8m4HMgUQh) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP), [Robert Preston](https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
 | 18 | [Johanna](https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Victor Garber](https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS), [Original Broadway Cast of Sweeney Todd: The Demon Barber of Fleet Street](https://open.spotify.com/artist/6EoJvLCnPbPZJFAurWlx2e), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Sweeney Todd: The Demon Barber of Fleet Street \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2) | 1:57 |

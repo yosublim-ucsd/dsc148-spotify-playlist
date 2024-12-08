@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 397374,
+  "num_followers": 397480,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Balling (L\u00c4UFF Remix)",
+        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "L\u00c4UFF",
+          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Balling - L\u00c4UFF Remix",
+      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 159475,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Balling (L\u00c4UFF Remix)",
-        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "L\u00c4UFF",
-          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Balling - L\u00c4UFF Remix",
-      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Dance All Night",
-        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 134749,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 156328,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love) [KAAZE Remix]",
         "url": "https://open.spotify.com/album/2GiWfaOx3fOzpC1bOr4aUm"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 162857,
       "name": "Never Going Home Tonight (feat. Madison Love) - KAAZE Remix",
       "url": "https://open.spotify.com/track/0znQfZSluraTNVo8Fg6mHs"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "No Time",
-        "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 156328,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 156169,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4fJva6bj8LgmJP3fh2oQKx"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 189257,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7tU4LZnbwmf0mYMboISOzT"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 156169,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/4w9ZyBnfyr7HBF3VDZhByA"
-      },
-      "artists": [
-        {
-          "name": "MAUD",
-          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
-        },
-        {
-          "name": "Lawstylez",
-          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
-        }
-      ],
-      "duration_ms": 122424,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/59lfG5dM0s7uyX3JbJoPsz"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -1971,6 +1951,42 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Anyplace Anywhere Anytime",
+        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Anyplace Anywhere Anytime",
+      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/4w9ZyBnfyr7HBF3VDZhByA"
+      },
+      "artists": [
+        {
+          "name": "MAUD",
+          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        }
+      ],
+      "duration_ms": 122424,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/59lfG5dM0s7uyX3JbJoPsz"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -2011,6 +2027,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Lift Me Up (feat. Kyozo)",
         "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
       },
@@ -2031,42 +2067,6 @@
       "duration_ms": 233203,
       "name": "Lift Me Up (feat. Kyozo)",
       "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Anyplace Anywhere Anytime",
-        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Anyplace Anywhere Anytime",
-      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     }
   ],
   "unique_name": "Bass Explosion",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,197 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,200 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 6 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 |
 | 7 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 8 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 |
-| 9 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
+| 9 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
 | 10 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 | 11 | [Turbo \(Majestic\)](https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3) | 2:55 |
 | 12 | [Адская колыбельная](https://open.spotify.com/track/2pyjr4JKVkG03LmWBIusur) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [Адская колыбельная](https://open.spotify.com/album/1cmB7sCh1AS1hdpFCbEKOS) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Батареи](https://open.spotify.com/track/0Oj8rpo6eiGvJmnLs4ZrkH) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Всё Что Вокруг](https://open.spotify.com/album/28pieKTvyLISIQ4IZBuFXH) | 3:13 |
 | 50 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 |
 
-Snapshot ID: `LuZooAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lue8eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "album": {
         "name": "One I've Been Missing",
         "url": "https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg"
       },
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 167666,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"

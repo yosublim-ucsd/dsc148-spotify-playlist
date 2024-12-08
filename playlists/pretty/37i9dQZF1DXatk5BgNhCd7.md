@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Tiago PZK, Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,271 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,394 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

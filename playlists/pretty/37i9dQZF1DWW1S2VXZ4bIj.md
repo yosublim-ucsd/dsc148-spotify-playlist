@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Daou Pittaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,176 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,262 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [เข้าใจว่าไม่เข้าใจ \(INVERTED\)](https://open.spotify.com/track/2phhqdmCi0p8XFVFJZ4Tju) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [เข้าใจว่าไม่เข้าใจ \(INVERTED\) \- Single](https://open.spotify.com/album/1OHOyC5QsRdRIhg6VVg9sD) | 4:26 |
 | 100 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `Z1LA6AAAAADe4YkXKcP2RIJhDj6UhejH`
+Snapshot ID: `Z1QCQAAAAAC7tJ5+s2duB/LjkgK9/9in`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,127 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,290 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 72 | [Cathy's Clown \- 2007 Remaster](https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:25 |
 | 73 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 74 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 |
-| 75 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
-| 76 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
+| 75 | [Sweet Happy Life](https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Guitars A La Lee](https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4) | 2:09 |
+| 76 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
 | 77 | [A Place In The Sun](https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Down To Earth](https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm) | 2:52 |
 | 78 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
 | 79 | [Take Another Little Piece Of My Heart](https://open.spotify.com/track/0E4UBpsUOZ6Ic4SCxrXz1L) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:36 |

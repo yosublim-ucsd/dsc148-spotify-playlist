@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "The Best Ever Death Metal Band in Denton",
+      "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },

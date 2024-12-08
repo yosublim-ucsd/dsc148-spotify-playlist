@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Pinguini Tattici Nucleari in cover + tutte le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,942 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,973 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
 | 2 | [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 |
-| 3 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 3 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 4 | [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
 | 5 | [odio, quindi sono.](https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [odio, quindi sono.](https://open.spotify.com/album/6IDuJVEt2aKMUfLodfTuB0) | 2:07 |
 | 6 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 |

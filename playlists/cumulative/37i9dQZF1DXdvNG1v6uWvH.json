@@ -8846,7 +8846,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 206000,
       "name": "Breathwork",
       "url": "https://open.spotify.com/track/3LzqjlhQk4tJFttRK6g3Oi"
@@ -11616,7 +11616,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 181335,
       "name": "Coma Party",
       "url": "https://open.spotify.com/track/12x2GnHVcOGJFIOV8ZJE3P"
@@ -13068,7 +13068,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 225390,
       "name": "DANCER",
       "url": "https://open.spotify.com/track/6sJJENLJiYnsDv3zY5LwTz"
@@ -13974,7 +13974,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 229000,
       "name": "Desember",
       "url": "https://open.spotify.com/track/48vL3C32h6rnx8aLc58YWh"
@@ -17272,7 +17272,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -29280,7 +29280,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 222791,
       "name": "H\u00e1t\u00ed\u00f0 f\u00e6rist n\u00e6r",
       "url": "https://open.spotify.com/track/0E7r3cGwavp5v1qqe2RWfW"
@@ -32512,7 +32512,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 160120,
       "name": "Into the Heart",
       "url": "https://open.spotify.com/track/2xJ9CFYXHuLmmmEgYP714X"
@@ -35488,7 +35488,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 267540,
       "name": "Lean Over",
       "url": "https://open.spotify.com/track/3Wmqi9Ub841EUcF1lSLPVW"
@@ -35887,7 +35887,7 @@
     },
     {
       "album": {
-        "name": "Let It Go Baby",
+        "name": "Let it Go Baby",
         "url": "https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5"
       },
       "artists": [
@@ -35900,7 +35900,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 205505,
-      "name": "Let It Go Baby",
+      "name": "Let it Go Baby",
       "url": "https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY"
     },
     {
@@ -37168,6 +37168,28 @@
       "duration_ms": 171651,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/4XELUb1rYQKyd1BY5OtYtV"
+    },
+    {
+      "album": {
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
     },
     {
       "album": {
@@ -56608,7 +56630,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 344230,
       "name": "Speaks in the wind",
       "url": "https://open.spotify.com/track/2QvguJUGNj59vm4LbLvs9z"
@@ -57374,6 +57396,24 @@
       "duration_ms": 162720,
       "name": "Steady Love",
       "url": "https://open.spotify.com/track/5stlzjhdJAYwH0H6Jhezfr"
+    },
+    {
+      "album": {
+        "name": "I Just Got A Lot On My Shoulders",
+        "url": "https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226378,
+      "name": "Stealing Out The Trap",
+      "url": "https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy"
     },
     {
       "album": {
@@ -62126,7 +62166,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 206354,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/1OzUoDeh6TSw0KlHGNOOQ7"

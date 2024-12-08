@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,355 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,432 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 15 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
 | 16 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
 | 17 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
-| 18 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
-| 19 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
+| 18 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
+| 19 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
 | 20 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 21 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 22 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 23 | [Walking on the Sand \- Piano & Waves](https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8) | [Walking on the Sand](https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4) | 3:27 |
-| 24 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
-| 25 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
-| 26 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
-| 27 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
-| 28 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 24 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
+| 25 | [Sunrise](https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8) | [Simon Antonio](https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3) | [Sunrise](https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy) | 3:22 |
+| 26 | [Kärlek](https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Kärlek](https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8) | 2:28 |
+| 27 | [Everything Is Everything Else](https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20) | [Luke Duffy](https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2) | [Everything Is Everything Else](https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH) | 4:41 |
+| 28 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 29 | [In a Field of Silence](https://open.spotify.com/track/0LNvUKT6sskN56036poQCY) | [Michael Kim\-Sheng](https://open.spotify.com/artist/0agioWluEClo8cE4fzJvsd) | [Heavy Moon](https://open.spotify.com/album/6O6ppwplf6HF4hYgbhl4Iz) | 4:37 |
 | 30 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
 | 31 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 40 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 41 | [Sérénité](https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ) | [Jérémie Fauquet](https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob) | [Sérénité](https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ) | 1:48 |
 | 42 | [The Sky Cracked](https://open.spotify.com/track/16MckwrwnXAFgDoseVsm4U) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [The Sky Cracked](https://open.spotify.com/album/0N1bObtjCQm3wOGTZT9QsG) | 1:52 |
-| 43 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
-| 44 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
+| 43 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
+| 44 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
 | 45 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
 | 46 | [First Time Of Heaven \- Piano and Strings](https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT) | [Charlie Ward](https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2), [Kelly Lerner](https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO) | [First Time Of Heaven \(Piano and Strings\)](https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG) | 2:16 |
 | 47 | [Be Here Now](https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Be Here Now](https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH) | 2:16 |

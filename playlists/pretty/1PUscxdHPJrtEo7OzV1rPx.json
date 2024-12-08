@@ -1,12 +1,12 @@
 {
-  "description": "A warrior knows when it&#x27;s their time. Might as well put on a show. ",
+  "description": "A warrior knows when it&#x27;s their time. Might as well put on a show.",
   "num_followers": 0,
   "original_name": "(Dying Wrestler)core",
   "owner": {
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAADSNVoUwOGMa15pr4cF5Nf+GD0Zu/",
+  "snapshot_id": "AAAAEI+VFVaN4jOzenNBEhUuIpkOv4XQ",
   "tracks": [
     {
       "added_at": "2023-08-16 06:42:06",
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/6bWP2PGRjyRjbHTdnMRDk9"
     },
     {
-      "added_at": "2023-08-16 06:42:48",
+      "added_at": "2024-02-26 07:31:53",
       "album": {
-        "name": "The Sunset Tree",
-        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+        "name": "Jenny from Thebes",
+        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
         }
       ],
-      "duration_ms": 130053,
-      "name": "Dilaudid",
-      "url": "https://open.spotify.com/track/2brl33b0ilPH2GJpTsfuNm"
+      "duration_ms": 146240,
+      "name": "Jenny III",
+      "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
     },
     {
       "added_at": "2023-08-16 06:43:51",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU"
     },
     {
-      "added_at": "2024-02-26 07:31:53",
-      "album": {
-        "name": "Jenny from Thebes",
-        "url": "https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Jenny III",
-      "url": "https://open.spotify.com/track/3oIErIfuvGEHXnAdITuIVb"
-    },
-    {
       "added_at": "2024-10-03 08:30:42",
       "album": {
         "name": "Cowboy Tears",
@@ -119,6 +103,22 @@
       "duration_ms": 148365,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG"
+    },
+    {
+      "added_at": "2023-08-16 06:42:48",
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 130053,
+      "name": "Dilaudid",
+      "url": "https://open.spotify.com/track/2brl33b0ilPH2GJpTsfuNm"
     },
     {
       "added_at": "2024-11-05 06:37:42",

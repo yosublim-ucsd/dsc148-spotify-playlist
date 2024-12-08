@@ -4,7 +4,7 @@
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 47 min
+47 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Nothing Left to Say](https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:00 | 2024-09-19 |  |
 | [Oklahoma Sun](https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:36 | 2024-12-07 |  |
 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 | 2024-09-19 |  |
+| [Run Run Rudolph](https://open.spotify.com/track/2ientVFqXRuL5VmZqSfZP6) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Koe Wetzel Presents..\. Wetzel's Wonderland Chapter 2](https://open.spotify.com/album/5GmCyt6pFMtFKkqHHIuYUz) | 3:16 | 2024-12-08 |  |
 | [Sancho](https://open.spotify.com/track/3U59eoc1pRxoXtgxJChDcx) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:25 | 2024-09-19 | 2024-11-03 |
 | [So Low](https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:53 | 2024-09-19 |  |
 | [Something to Talk About](https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:24 | 2024-09-19 |  |

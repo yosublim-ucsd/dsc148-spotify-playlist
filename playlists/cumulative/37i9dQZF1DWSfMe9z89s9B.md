@@ -4,11 +4,11 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Miguel
 
-1,344 songs - 2 day 22 hr 48 min
+1,346 songs - 2 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Roses"](https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | ["Roses"](https://open.spotify.com/album/3sFAerfTDCAol4ZZeteKzQ) | 3:24 | 2024-06-21 |  |
+| ["Roses"](https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | ["Roses"](https://open.spotify.com/album/3sFAerfTDCAol4ZZeteKzQ) | 3:24 | 2024-06-21 | 2024-12-08 |
 | [\*smokes weed once\*](https://open.spotify.com/track/0u42ardVmhoaCo746IumyG) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 1:19 | 2023-03-24 | 2023-07-22 |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-08-27 | 2022-04-26 |
 | [143](https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me](https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j) | 2:12 | 2023-06-16 | 2024-06-29 |
@@ -405,7 +405,7 @@
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-21 | 2022-07-23 |
 | [Fell Asleep](https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:37 | 2022-12-09 | 2023-07-22 |
 | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Ambre](https://open.spotify.com/artist/5mmOgnbsj8LXOUWqLPcoMa), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Fellowship \(Remix\) ft\. Ambré & Alex Isley](https://open.spotify.com/album/0z9WlDfltYm5CAyWHIkXPd) | 3:40 | 2021-11-05 | 2022-01-25 |
-| [Fields](https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Fields](https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9) | 3:20 | 2024-08-16 |  |
+| [Fields](https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Fields](https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9) | 3:20 | 2024-08-16 | 2024-12-08 |
 | [Figures](https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Figures](https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q) | 2:32 | 2022-10-14 | 2024-06-26 |
 | [Fiji Fine](https://open.spotify.com/track/3Q0S0vFNDJviYsMaeo4wIi) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Fiji Fine](https://open.spotify.com/album/6xRXep3NUG7Hqy41uvzyKQ) | 3:00 | 2021-03-19 | 2022-07-04 |
 | [Finally](https://open.spotify.com/track/5d7uaddNeJAcTUAxll0pMS) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Maybe In Another Life](https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL) | 3:02 | 2024-07-12 | 2024-07-20 |
@@ -1008,6 +1008,7 @@
 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 | 2023-09-29 | 2024-06-29 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2022-12-03 |
 | [Sharlene](https://open.spotify.com/track/73eyDiyhnqsEeN2WYV7r3h) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Sharlene](https://open.spotify.com/album/5Qa3ylKtLtOQfaGrKWPMnU) | 2:29 | 2022-04-01 | 2022-04-07 |
+| [she want prada](https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [she want prada](https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm) | 3:10 | 2024-12-06 |  |
 | [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 | 2023-10-06 | 2024-04-19 |
 | [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-06 | 2023-11-29 |
 | [Shook](https://open.spotify.com/track/2ei1umCvdqtDMG8zfC9GRY) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Shook](https://open.spotify.com/album/0uKOb1sntZv5UcXt9XwwWv) | 2:29 | 2021-06-25 | 2022-01-29 |
@@ -1080,6 +1081,7 @@
 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 | 2023-02-24 | 2023-04-01 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-02 | 2024-11-24 |
 | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Still Blue \(feat\. JGrrey\)](https://open.spotify.com/album/4tkmMUCsE8DE4ukjA8SBZC) | 4:29 | 2021-06-04 | 2022-01-26 |
+| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 |  |
 | [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-02 |  |
 | [Stop Playing](https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [The Ranch](https://open.spotify.com/album/2Gx9foKUKSHuoIDnTTlCLB) | 3:38 | 2024-08-30 | 2024-11-02 |
 | [Strange Love \- Single Edit](https://open.spotify.com/track/0dgehlr08kKoyl2nG7Dhv4) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Strange Love \- Single Edit](https://open.spotify.com/album/2GU9e1FHv9tJan1R3TXxTZ) | 3:01 | 2021-06-04 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 35948,
+  "num_followers": 35961,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACjc1mcwFV+rkvGmm5xeq6T",
+  "snapshot_id": "Z1I+gAAAAAAMMR9DeUqJ8g8PrX9FnThT",
   "tracks": [
     {
       "added_at": null,
@@ -435,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -487,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truly Blessed",
-        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
       "artists": [
         {
@@ -496,9 +464,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279013,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
     },
     {
       "added_at": null,
@@ -512,15 +480,15 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 264573,
-      "name": "The More I Get, the More I Want",
-      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
       "artists": [
         {
@@ -528,9 +496,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 326800,
-      "name": "2 A.M.",
-      "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+      "duration_ms": 279013,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
     },
     {
       "added_at": null,
@@ -551,22 +519,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279426,
-      "name": "To Be True (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
+      "duration_ms": 326800,
+      "name": "2 A.M.",
+      "url": "https://open.spotify.com/track/4FX6NiquFvfYqSNzEUgPds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 220933,
       "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "To Be True (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Only Knows",
-        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "I Want My Baby Back",
-      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 357333,
       "name": "It's Time for Love",
       "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 273000,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,

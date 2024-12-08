@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 120445,
+  "num_followers": 120497,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
-      },
-      "artists": [
-        {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Seven Bridges Road",
+        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
+      },
+      "artists": [
+        {
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 190174,
+      "name": "Seven Bridges Road",
+      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Seven Bridges Road",
-        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
-      },
-      "artists": [
-        {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 190174,
-      "name": "Seven Bridges Road",
-      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Clay Pigeons",
-        "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 233400,
       "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Good Luck Babe",
-        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 193868,
-      "name": "Good Luck Babe",
-      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 265222,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Good Luck Babe",
+        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 193868,
+      "name": "Good Luck Babe",
+      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 216725,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Birds of a Feather",
-        "url": "https://open.spotify.com/album/2ILaN6SG0ywXax10v25OfC"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/7GNQPMEA9DhJ1eHPIpFe7g"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 116048,
-      "name": "Birds of a Feather",
-      "url": "https://open.spotify.com/track/5DbUJZXMeYjAsGQ2dCfSaX"
+      "duration_ms": 216725,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/67jc5KchHkzbaMwTeUhMyT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1443,22 +1427,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Dancing with Myself",
         "url": "https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F"
       },
@@ -1471,6 +1439,38 @@
       "duration_ms": 251309,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Birds of a Feather",
+        "url": "https://open.spotify.com/album/2ILaN6SG0ywXax10v25OfC"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 116048,
+      "name": "Birds of a Feather",
+      "url": "https://open.spotify.com/track/5DbUJZXMeYjAsGQ2dCfSaX"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "State Trooper / 10-38 (Full Band Version)",
-        "url": "https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "State Trooper",
-      "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 320933,
       "name": "Someone Like You - Piano Vocal",
       "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "State Trooper / 10-38 (Full Band Version)",
+        "url": "https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"
     },
     {
       "added_at": "2024-12-06 05:00:00",

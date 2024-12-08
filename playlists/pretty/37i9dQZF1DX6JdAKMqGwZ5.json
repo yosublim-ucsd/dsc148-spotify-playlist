@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Chill Chicos.",
-  "num_followers": 196339,
+  "num_followers": 196347,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 237908,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Palmas Y Desamores",
+        "url": "https://open.spotify.com/album/47otbrTZ0A3Bv5aLkV35P6"
+      },
+      "artists": [
+        {
+          "name": "VIOLETA",
+          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
+        }
+      ],
+      "duration_ms": 162250,
+      "name": "Palmas Y Desamores",
+      "url": "https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -59,26 +75,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Rendici\u00f3n",
-        "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
-      },
-      "artists": [
-        {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
-        },
-        {
-          "name": "bruno",
-          "url": "https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna"
-        }
-      ],
-      "duration_ms": 224497,
-      "name": "Rendici\u00f3n",
-      "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "LE CHILL 2",
         "url": "https://open.spotify.com/album/1AUiYrTUnKXZHwFgTK6Xr9"
       },
@@ -99,22 +95,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+        "name": "Rendici\u00f3n",
+        "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
         },
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "bruno",
+          "url": "https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+      "duration_ms": 224497,
+      "name": "Rendici\u00f3n",
+      "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
       },
       "artists": [
         {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 214752,
-      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "El ef\u00edmero arte de perdonar",
-        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
         }
       ],
-      "duration_ms": 160000,
-      "name": "El ef\u00edmero arte de perdonar",
-      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
+      "duration_ms": 214752,
+      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -535,6 +535,22 @@
       "duration_ms": 193827,
       "name": "MARICARMEN",
       "url": "https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 149352,
       "name": "Con otra cabeza",
       "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Palmas Y Desamores",
-        "url": "https://open.spotify.com/album/47otbrTZ0A3Bv5aLkV35P6"
-      },
-      "artists": [
-        {
-          "name": "VIOLETA",
-          "url": "https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt"
-        }
-      ],
-      "duration_ms": 162250,
-      "name": "Palmas Y Desamores",
-      "url": "https://open.spotify.com/track/0Old5HATkhLWjzobyfU0uT"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Nost\u00e0lgia Airlines",
-        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 176176,
-      "name": "Pura geografia",
-      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Chico del mont\u00f3n",
         "url": "https://open.spotify.com/album/2U9KQ5jjLDOM8BRgFIWTRQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 199746,
       "name": "Chico del mont\u00f3n",
       "url": "https://open.spotify.com/track/661JMZW19USgqwNeQlmHhu"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Nost\u00e0lgia Airlines",
+        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 176176,
+      "name": "Pura geografia",
+      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "La Ceniza (feat. Valeria Castro)",
+        "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
+      },
+      "artists": [
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "La Ceniza (feat. Valeria Castro)",
+      "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Vanpiro Esiten",
         "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 268253,
       "name": "Siempre Vuelve",
       "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "La Ceniza (feat. Valeria Castro)",
-        "url": "https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo"
-      },
-      "artists": [
-        {
-          "name": "Ale Acosta",
-          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "La Ceniza (feat. Valeria Castro)",
-      "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "estoy exagerando???",
-        "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
-      },
-      "artists": [
-        {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "Cada superficie",
-      "url": "https://open.spotify.com/track/7LPVrmVk7D2GoXf8lRmWh1"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Vespa Verde Agua",
         "url": "https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Contenido Sensible",
-        "url": "https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm"
+        "name": "estoy exagerando???",
+        "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
       },
       "artists": [
         {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
         }
       ],
-      "duration_ms": 158600,
-      "name": "Nuevo Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t"
+      "duration_ms": 155145,
+      "name": "Cada superficie",
+      "url": "https://open.spotify.com/track/7LPVrmVk7D2GoXf8lRmWh1"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Contenido Sensible",
+        "url": "https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Nuevo Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/7sGY0iN0BGFsm9u9eq4l8t"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -935,8 +935,8 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+        "name": "dos sombras",
+        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
       },
       "artists": [
         {
@@ -944,9 +944,25 @@
           "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+      "duration_ms": 177811,
+      "name": "dos sombras",
+      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "escocia",
+        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 177321,
+      "name": "escocia",
+      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -971,18 +987,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "escocia",
-        "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
+        "name": "m\u00e1s que eso",
+        "url": "https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
         }
       ],
-      "duration_ms": 177321,
-      "name": "escocia",
-      "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+      "duration_ms": 187000,
+      "name": "m\u00e1s que eso",
+      "url": "https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "m\u00e1s que eso",
-        "url": "https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "m\u00e1s que eso",
-      "url": "https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Esto no es el cielo",
         "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 179114,
       "name": "Esto no es el cielo",
       "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 338505,
-      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 338505,
+      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Tu Voz",
         "url": "https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII"
       },
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "dos sombras",
-        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
       },
       "artists": [
         {
@@ -1092,25 +1092,9 @@
           "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 177811,
-      "name": "dos sombras",
-      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Abraxas!",
-        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 249124,
-      "name": "Abraxas!",
-      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 254802,
       "name": "LA AVENTURA",
       "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Abraxas!",
+        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "Abraxas!",
+      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Amor A\u00e9reo",
-        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
-      },
-      "artists": [
-        {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Amor A\u00e9reo",
-      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 233752,
       "name": "Volver",
       "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Amor A\u00e9reo",
+        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Amor A\u00e9reo",
+      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "compartir",
+        "url": "https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 165635,
+      "name": "compartir",
+      "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "compartir",
-        "url": "https://open.spotify.com/album/2D5cjEp8Msc43KA3v7lIo1"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 165635,
-      "name": "compartir",
-      "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
     },
     {
       "added_at": "2024-12-05 23:00:00",

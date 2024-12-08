@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,527 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,685 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 50 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
 | 51 | [Wenn wir auseinandergeh'n \(Please Release Me\)](https://open.spotify.com/track/57QRlAasOg3CFH7sLmNqVD) | [Captain Cook Und Seine Singenden Saxophone](https://open.spotify.com/artist/4UtSK2tnFD8onyFS34QusX) | [Heimat Deine Sterne, Folge 4](https://open.spotify.com/album/6fdvYtn7d6Atb998x2iCvs) | 2:13 |
 | 52 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
-| 53 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
-| 54 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
+| 53 | [The Sounds of Silence](https://open.spotify.com/track/7rLIJ4wsrtK02vcxwAidCl) | [Andre Kostelanetz](https://open.spotify.com/artist/5o8VwH65WkP2WrKliKzACM) | [Greatest Hits](https://open.spotify.com/album/5csts79TUQi61HqPuDLSAa) | 3:14 |
+| 54 | [Pídele Al Tiempo Que Vuelva](https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T) | [Sounds Unlimited](https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts) | [101% Cine](https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa) | 2:11 |
 | 55 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |
 | 56 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
 | 57 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 91 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
 | 92 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 |
 | 93 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
-| 94 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
-| 95 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
+| 94 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
+| 95 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
 | 96 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 |
 | 97 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
 | 98 | [](https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |

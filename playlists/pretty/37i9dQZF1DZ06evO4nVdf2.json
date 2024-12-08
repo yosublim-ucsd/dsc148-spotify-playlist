@@ -1,29 +1,13 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61548,
+  "num_followers": 61557,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAn/6OwTHOTwMjWXwcGeeak",
+  "snapshot_id": "Z1I+gAAAAAARE+MVFKYZDsKmcvKIX+v5",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chispa Roja",
-        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 211085,
-      "name": "Chispa Roja",
-      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chispa Roja",
+        "url": "https://open.spotify.com/album/4YzuHCvwT5mz6Ga7GccbWn"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 211085,
+      "name": "Chispa Roja",
+      "url": "https://open.spotify.com/track/5XHks592LnELvf20Ny43EZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
         "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
       },
@@ -834,11 +834,15 @@
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
     },
     {
       "added_at": null,
@@ -906,15 +910,11 @@
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 218479,
-      "name": "No S\u00e9 (feat. Girl Ultra)",
-      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,6 @@
       "duration_ms": 228906,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Carisma",
-        "url": "https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "Mr. Carisma",
-      "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

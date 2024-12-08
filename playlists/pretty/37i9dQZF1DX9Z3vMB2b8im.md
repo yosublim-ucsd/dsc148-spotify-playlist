@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,235 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300,280 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 38 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 | 39 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
 | 40 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
-| 41 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
-| 42 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
+| 41 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
+| 42 | [Someone Else](https://open.spotify.com/track/3vyhs76SzpxIsf8o1rvgUW) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Someone Else](https://open.spotify.com/album/0Z5e42bnyBucUf0ur5Dfbe) | 1:41 |
 | 43 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
-| 44 | [Someone Else](https://open.spotify.com/track/3vyhs76SzpxIsf8o1rvgUW) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [Someone Else](https://open.spotify.com/album/0Z5e42bnyBucUf0ur5Dfbe) | 1:41 |
+| 44 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 45 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 46 | [Heavy](https://open.spotify.com/track/5VpgaWuqcWho0uJMniRNDs) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/00PsineKfAuLIl2PGnK5LB) | 4:04 |
 | 47 | [permanent +1](https://open.spotify.com/track/3ofgZx7BX3AdkFc6usUtnT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [permanent +1](https://open.spotify.com/album/2a7rGaQNh4ZXPvYJIbNDj1) | 3:32 |
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 64 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
 | 65 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
 | 66 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
-| 67 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 |
-| 68 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
-| 69 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 |
+| 67 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
+| 68 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 |
+| 69 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 |
 | 70 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
 | 71 | [My Space Is Overgrown](https://open.spotify.com/track/0rQXWkK5iqhKlUZaROzm4I) | [Aayushi](https://open.spotify.com/artist/1r2kTJ27zuaEoXasQT5NDd) | [My Space Is Overgrown](https://open.spotify.com/album/4ghpXfXSE8K7Fcb96Hgm4p) | 3:53 |
 | 72 | [Half of Mine](https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Tarian](https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P) | [Half of Mine](https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6) | 2:58 |
 | 73 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 74 | [Be Someone](https://open.spotify.com/track/541LlFMbD7senXbFuf58mN) | [Man Alive](https://open.spotify.com/artist/75jRB7CtxLRcUPlEr6yCOy) | [Be Someone](https://open.spotify.com/album/56W7SBOLDkmvzdbOhP7wFj) | 3:36 |
-| 75 | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/track/2wZqjKaqUmiWcledmQKT31) | [James Holt](https://open.spotify.com/artist/5RU4BAi19LHkaPFcE1USkb) | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/album/1wK7OS6xYjNf7ctNBtOfMw) | 3:41 |
-| 76 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
+| 75 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |
+| 76 | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/track/2wZqjKaqUmiWcledmQKT31) | [James Holt](https://open.spotify.com/artist/5RU4BAi19LHkaPFcE1USkb) | [Sometimes \(I Can Be An Island\)](https://open.spotify.com/album/1wK7OS6xYjNf7ctNBtOfMw) | 3:41 |
 | 77 | [185](https://open.spotify.com/track/0LbUR36wATKwIhSJ4lW53s) | [Sylvan Weekends](https://open.spotify.com/artist/3y2Dvykabi8ukmsWAmWor2) | [Outliers](https://open.spotify.com/album/5mxAAP0M6dTKMJP2iucZcM) | 3:24 |
 | 78 | [Vitamins](https://open.spotify.com/track/03qtPCrUYGGh1pW9oLpU8N) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 4:12 |
 | 79 | [Funeral Suit](https://open.spotify.com/track/7ctqPdQ1BWEykjej9bJSRi) | [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [Funeral Suit](https://open.spotify.com/album/1NhiohDtzPGofrevIgGgXN) | 3:21 |

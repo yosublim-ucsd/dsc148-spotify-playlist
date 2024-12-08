@@ -1,6 +1,6 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 212773,
+  "num_followers": 212830,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
-        "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
-      },
-      "artists": [
-        {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
-        }
-      ],
-      "duration_ms": 310586,
-      "name": "Es Por Amor",
-      "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Musica De Contrabando",
         "url": "https://open.spotify.com/album/73HchWHWCwNldGE8cFDfuS"
       },
@@ -827,18 +811,34 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+        "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
+        "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
       },
       "artists": [
         {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 226560,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
+      "duration_ms": 310586,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Al calor del amor en un bar",
+        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
+      },
+      "artists": [
+        {
+          "name": "Gabinete Caligari",
+          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "El calor del amor en un bar",
+      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Al calor del amor en un bar",
-        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
       "artists": [
         {
-          "name": "Gabinete Caligari",
-          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
         }
       ],
-      "duration_ms": 170680,
-      "name": "El calor del amor en un bar",
-      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
+      "duration_ms": 226560,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY"
     },
     {
       "added_at": "2024-04-05 21:37:24",

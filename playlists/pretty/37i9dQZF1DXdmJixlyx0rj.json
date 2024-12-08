@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: THE FIX(\ub354 \ud53d\uc2a4))",
-  "num_followers": 27120,
+  "num_followers": 27134,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
+        "name": "SPEED VOL. 1",
+        "url": "https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO"
+      },
+      "artists": [
+        {
+          "name": "WACK",
+          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
+        }
+      ],
+      "duration_ms": 246332,
+      "name": "SPEED VOL. 1",
+      "url": "https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/15jknj7bcRgBYPk1u3RaBc"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 143622,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/5w1KPYqxVLZ34Bwc4pNTsq"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
-        "name": "SPEED VOL. 1",
-        "url": "https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO"
-      },
-      "artists": [
-        {
-          "name": "WACK",
-          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
-        }
-      ],
-      "duration_ms": 246332,
-      "name": "SPEED VOL. 1",
-      "url": "https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "Useless",
-        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "Noisy Choice",
-          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Useless",
-      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
       },
@@ -1143,26 +1123,6 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "iScreaM Vol.11 : Queendom Remix",
-        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Demicat",
-          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Queendom - Demicat Remix",
-      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1179,6 +1139,46 @@
       "duration_ms": 234026,
       "name": "28 Reasons - CIFIKA Remix",
       "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "Useless",
+        "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "Noisy Choice",
+          "url": "https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Useless",
+      "url": "https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "iScreaM Vol.11 : Queendom Remix",
+        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Demicat",
+          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Queendom - Demicat Remix",
+      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
-      },
-      "artists": [
-        {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
-        }
-      ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 211845,
       "name": "Bad Boy - nomad Remix",
       "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+      },
+      "artists": [
+        {
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+        }
+      ],
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1687,46 +1687,6 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1755,22 +1715,62 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "iScreaM Vol.15 : INVU Remixes",
-        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
         }
       ],
-      "duration_ms": 219840,
-      "name": "INVU - ZHU Remix",
-      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "Bop Bop! (Yves V Remix)",
+        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "BOP BOP! (Yves V Remix)",
+      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2024-11-29 09:50:47",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+        "name": "iScreaM Vol.15 : INVU Remixes",
+        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         },
         {
-          "name": "BRLLNT",
-          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Bambi - BRLLNT Remix",
-      "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+      "duration_ms": 219840,
+      "name": "INVU - ZHU Remix",
+      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1835,26 +1835,6 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
-    },
-    {
-      "added_at": "2024-11-29 09:50:47",
-      "album": {
-        "name": "Bop Bop! (Yves V Remix)",
-        "url": "https://open.spotify.com/album/0jM68lrVyfysm8CXgW9aSX"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        },
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "BOP BOP! (Yves V Remix)",
-      "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
     },
     {
       "added_at": "2024-11-29 09:50:47",
@@ -1935,6 +1915,22 @@
       "duration_ms": 162363,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
+    },
+    {
+      "added_at": "2024-11-29 09:50:47",
+      "album": {
+        "name": "Amerindio",
+        "url": "https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv"
+      },
+      "artists": [
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "Amerindio",
+      "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
     }
   ],
   "unique_name": "Electronii'K",

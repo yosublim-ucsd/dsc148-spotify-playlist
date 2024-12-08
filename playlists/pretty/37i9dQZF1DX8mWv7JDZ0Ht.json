@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Vitor Kley",
-  "num_followers": 436963,
+  "num_followers": 436984,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Gonti",
-        "url": "https://open.spotify.com/album/3C7oQQcsRM47RyaSfUGkb6"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 166489,
-      "name": "A Gente Se D\u00e1 Bem",
-      "url": "https://open.spotify.com/track/7dLpa10WnGum4uJHF3aP6e"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "Degrad\u00ea",
         "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 238582,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Gonti",
+        "url": "https://open.spotify.com/album/3C7oQQcsRM47RyaSfUGkb6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 166489,
+      "name": "A Gente Se D\u00e1 Bem",
+      "url": "https://open.spotify.com/track/7dLpa10WnGum4uJHF3aP6e"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
         "name": "Te espero ou fujo?",
         "url": "https://open.spotify.com/album/77fHiZuvOXQ4o4WSCSu8Vr"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 134161,
       "name": "Te espero ou fujo?",
       "url": "https://open.spotify.com/track/2mMhzxpuFKe1ohryBgDYyo"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "J\u00e1 ouviu falar de amor?",
         "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
@@ -543,6 +527,38 @@
       "duration_ms": 179517,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/41PJgFL7UBUCKoSK8LHp8D"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -563,22 +579,6 @@
       "duration_ms": 186341,
       "name": "Baila Comigo",
       "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
+        "name": "Melim",
+        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 178864,
+      "name": "Viva O Amor",
+      "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
         "name": "Mina Sereia",
         "url": "https://open.spotify.com/album/72g0VNPFmBYc49hVGY9knn"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Melim",
-        "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 178864,
-      "name": "Viva O Amor",
-      "url": "https://open.spotify.com/track/3GH22kQ3ONn8B9jg0CgxEO"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "Deixa Florescer",
         "url": "https://open.spotify.com/album/2DReGxGd2EVlR4x2wE56gO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 171428,
       "name": "Deixa Florescer",
       "url": "https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "tonteira",
         "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 147812,
       "name": "tonteira",
       "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "P.A",
-        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+        "name": "Sigo de Volta",
+        "url": "https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 151399,
-      "name": "SOL DE ABRIL",
-      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
+      "duration_ms": 179907,
+      "name": "Chega Pra C\u00e1",
+      "url": "https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -1063,18 +1059,110 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Sigo de Volta",
-        "url": "https://open.spotify.com/album/5pCGbKUF8uEjYtkg9Shzav"
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 179907,
-      "name": "Chega Pra C\u00e1",
-      "url": "https://open.spotify.com/track/2Rv8MGmWXx1ADk5krVDpfz"
+      "duration_ms": 151399,
+      "name": "SOL DE ABRIL",
+      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Me Namora",
+      "url": "https://open.spotify.com/track/6efZWJ6xCrLMSdDS3v6dHU"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -1103,90 +1191,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -1203,6 +1207,22 @@
       "duration_ms": 162780,
       "name": "Pra Casar",
       "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -1243,22 +1263,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -1275,6 +1279,22 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
+    },
+    {
+      "added_at": "2024-12-06 20:16:40",
+      "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-12-06 20:16:40",
@@ -1403,22 +1423,6 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "V\u00e1 Com Deus",
-        "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 172268,
-      "name": "V\u00e1 Com Deus",
-      "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
-    },
-    {
-      "added_at": "2024-12-06 20:16:40",
-      "album": {
         "name": "Vem C\u00e1, Me Beija",
         "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
       },
@@ -1439,18 +1443,18 @@
     {
       "added_at": "2024-12-06 20:16:40",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
       },
       "artists": [
         {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     }
   ],
   "unique_name": "Pop Leve",

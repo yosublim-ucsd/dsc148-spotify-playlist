@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > ROSÉ e Bruno Mars in cover della più grande playlist in Italia! 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,922 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,077 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 22 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 |
 | 23 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 24 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 |
-| 25 | [Perdono](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 |
+| 25 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 |
 | 26 | [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 |
 | 27 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 |
 | 28 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |

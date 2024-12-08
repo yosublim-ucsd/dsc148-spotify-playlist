@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,160 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,181 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 57 | [Naskha Mennek](https://open.spotify.com/track/1QvPkpRLq07ps7S9izzQtK) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Naskha Mennek](https://open.spotify.com/album/6vfo2SVprRnGs1hzo8cWiX) | 5:18 |
 | 58 | [Ardon Wahed](https://open.spotify.com/track/4kPTdotigbZh8C5d42p5sT) | [Hayajan](https://open.spotify.com/artist/0ezquZkJscWDhtBZwptcKT) | [Khusouf Al\-Ard](https://open.spotify.com/album/6gnf8UdhDLssZAvG3PF5Dw) | 3:30 |
 | 59 | [Waggif](https://open.spotify.com/track/1HnTINBSTfPo7F47hUs98J) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Aziz Maraka](https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY) | 2:52 |
-| 60 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
+| 60 | [Ammal Tehlaw](https://open.spotify.com/track/1hUZU0lCce1QzcaqWjwWiE) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ammal Tehlaw](https://open.spotify.com/album/1GOZ3S72ib2ZU1MjpeRy42) | 3:09 |
 
 Snapshot ID: `ZrzTvAAAAACPvqbbPi1ogjyvGBE4uSaM`

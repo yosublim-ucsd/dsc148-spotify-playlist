@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 15,
+  "num_followers": 16,
   "original_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",
   "owner": {
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "AAAHj/vlGtCA8l9ckkBEck+BQ0clsgRw",
+  "snapshot_id": "AAAHkQBsiqY1jOGtfKP8Pl8OsmWis0kO",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -31464,7 +31464,7 @@
           "url": "https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06"
         },
         {
-          "name": "Overdrive",
+          "name": "OverDrive",
           "url": "https://open.spotify.com/artist/4WGGHN3xUu9mhDObu3Oqhp"
         },
         {
@@ -34741,22 +34741,6 @@
       "url": "https://open.spotify.com/track/0phNba6T5XUM48HWg2Yw5I"
     },
     {
-      "added_at": "2024-11-29 19:41:43",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
-    },
-    {
       "added_at": "2024-11-30 01:00:05",
       "album": {
         "name": "Outta Love",
@@ -35001,7 +34985,7 @@
         }
       ],
       "duration_ms": 126000,
-      "name": "Ain't Now Way",
+      "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/4ebsPl3Jx8WjkCnclgzezm"
     },
     {
@@ -35211,6 +35195,22 @@
       "duration_ms": 192000,
       "name": "Super Rotation",
       "url": "https://open.spotify.com/track/0r3iQH70BvsJbBqe5OmG5o"
+    },
+    {
+      "added_at": "2024-12-08 02:05:54",
+      "album": {
+        "name": "Basses",
+        "url": "https://open.spotify.com/album/5gxFIGM81RnPUWvE4KV6rG"
+      },
+      "artists": [
+        {
+          "name": "Eraized",
+          "url": "https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Basses",
+      "url": "https://open.spotify.com/track/4z0dhGFF73olOG0BhkOqaG"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",

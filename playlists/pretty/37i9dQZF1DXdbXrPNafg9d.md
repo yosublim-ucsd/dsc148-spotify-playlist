@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sky Ferreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,601 likes - 170 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,618 likes - 170 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 74 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
 | 75 | [Window](https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Window](https://open.spotify.com/album/79kiwS8SnWG6qHqJXEX0Z6) | 2:41 |
 | 76 | [Messy \- Stripped](https://open.spotify.com/track/5f4ckq2Wtes5k7TgaZzkEA) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy EP](https://open.spotify.com/album/1S7fb88qH3ph787NbiX3Vq) | 3:25 |
-| 77 | [Cain Said To Abel](https://open.spotify.com/track/2Tjp4JjVewJ4TpRGWHhnsB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In The City B\-Sides](https://open.spotify.com/album/1tQaGcppkaitKo9xTE3WQy) | 3:24 |
+| 77 | [Cain Said To Abel](https://open.spotify.com/track/2Tjp4JjVewJ4TpRGWHhnsB) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In The City B\-Sides](https://open.spotify.com/album/1tQaGcppkaitKo9xTE3WQy) | 3:23 |
 | 78 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
 | 79 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 |
 | 80 | [TM](https://open.spotify.com/track/5ukck69cVbyoi4uQoo8Qyi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:17 |

@@ -2377,6 +2377,28 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/273Jdhdf38P1OD4laaSpEY"
+      },
+      "artists": [
+        {
+          "name": "Sandy Kelly",
+          "url": "https://open.spotify.com/artist/1oa3oxPuZiBshVJURL6U30"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5Yz3PK6opQbQXkhu8hyaVb"
+    },
+    {
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },

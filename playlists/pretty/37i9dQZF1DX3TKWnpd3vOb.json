@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: El C\u00f3modo Silencio De Los Que Hablan Poco.",
-  "num_followers": 191571,
+  "num_followers": 191577,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vacaciones de Invierno (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
+        "name": "Los Tres Unplugged 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
       },
       "artists": [
         {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Sue\u00f1o A Marte",
-          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Vacaciones de Invierno - ac\u00fastico",
-      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
+      "duration_ms": 285430,
+      "name": "Amor Violento",
+      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -235,18 +231,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Los Tres Unplugged 20 A\u00f1os",
-        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
+        "name": "Vacaciones de Invierno (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
         }
       ],
-      "duration_ms": 285430,
-      "name": "Amor Violento",
-      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
+      "duration_ms": 182000,
+      "name": "Vacaciones de Invierno - ac\u00fastico",
+      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Hojas de T\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 209610,
+      "name": "Hojas de T\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "All\u00ed Va",
         "url": "https://open.spotify.com/album/4t8GmiNlKqpXlVcPJdvyT9"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 153942,
       "name": "All\u00ed Va",
       "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Relatos Falsos De Historias Verdaderas",
-        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 236901,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Hojas de T\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+        "name": "Relatos Falsos De Historias Verdaderas",
+        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
       },
       "artists": [
         {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 209610,
-      "name": "Hojas de T\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+      "duration_ms": 236901,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "T\u00f3tem",
-        "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
+        "name": "Mujer Primavera",
+        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 147000,
-      "name": "T\u00f3tem",
-      "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
+      "duration_ms": 276431,
+      "name": "Mujer Primavera",
+      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Mujer Primavera",
-        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
       "artists": [
         {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 276431,
-      "name": "Mujer Primavera",
-      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
+      "duration_ms": 147000,
+      "name": "T\u00f3tem",
+      "url": "https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 249508,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
         "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 236084,
       "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
       "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 249508,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "PORTAL",
+        "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
+      },
+      "artists": [
+        {
+          "name": "Alectrofobia",
+          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
+        },
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 293252,
+      "name": "Fiesta En El Barrio",
+      "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Mirar La Luz",
         "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 249126,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "PORTAL",
-        "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
-      },
-      "artists": [
-        {
-          "name": "Alectrofobia",
-          "url": "https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ"
-        },
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 293252,
-      "name": "Fiesta En El Barrio",
-      "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 259329,
       "name": "Rocanrol de los Misterios",
       "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 224235,
       "name": "P\u00e1lida Forma Nocturna",
       "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Lo Que Dicen",
-        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
-      },
-      "artists": [
-        {
-          "name": "Los Necesarios",
-          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
-        }
-      ],
-      "duration_ms": 243566,
-      "name": "Lo Que Dicen",
-      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Viajar",
         "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 292586,
       "name": "Viajar - Space Mix",
       "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Lo Que Dicen",
+        "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
+      },
+      "artists": [
+        {
+          "name": "Los Necesarios",
+          "url": "https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb"
+        }
+      ],
+      "duration_ms": 243566,
+      "name": "Lo Que Dicen",
+      "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "La Pelea",
-        "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
-      },
-      "artists": [
-        {
-          "name": "Super Especial",
-          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
-        }
-      ],
-      "duration_ms": 205434,
-      "name": "La Pelea",
-      "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Hacia Ti",
         "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 225967,
       "name": "Hacia Ti",
       "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "La Pelea",
+        "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
+      },
+      "artists": [
+        {
+          "name": "Super Especial",
+          "url": "https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1"
+        }
+      ],
+      "duration_ms": 205434,
+      "name": "La Pelea",
+      "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "No Me Esperes M\u00e1s",
-        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
-      },
-      "artists": [
-        {
-          "name": "Los Insolentes",
-          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
-        }
-      ],
-      "duration_ms": 191658,
-      "name": "No Me Esperes M\u00e1s",
-      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Asocial",
         "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 197747,
       "name": "Asocial",
       "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "No Me Esperes M\u00e1s",
+        "url": "https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV"
+      },
+      "artists": [
+        {
+          "name": "Los Insolentes",
+          "url": "https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc"
+        }
+      ],
+      "duration_ms": 191658,
+      "name": "No Me Esperes M\u00e1s",
+      "url": "https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Tu primero y luego yo",
+        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 146922,
+      "name": "Tu primero y luego yo",
+      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Fuego y Mar",
         "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 246820,
       "name": "Hay fuego en Los Andes",
       "url": "https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Yod",
-        "url": "https://open.spotify.com/album/2fvvSqI6g6L5rW8uwncGVj"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        }
-      ],
-      "duration_ms": 221233,
-      "name": "Yod",
-      "url": "https://open.spotify.com/track/40TKm4cF9jKYsfcxvjCIzI"
     },
     {
       "added_at": "2024-10-18 03:00:00",

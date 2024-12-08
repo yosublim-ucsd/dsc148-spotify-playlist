@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Dum Chica.",
-  "num_followers": 40603,
+  "num_followers": 40609,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 174336,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Nada Salvaje (En Vivo Estadio Obras)",
         "url": "https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 278984,
       "name": "Nada Salvaje (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 174336,
-      "name": "Tuya",
-      "url": "https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Andrea Echeverri",
-        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
-      },
-      "artists": [
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Ibiza Pareo",
         "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 250160,
       "name": "Arido Espejismo",
       "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Andrea Echeverri",
+        "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
       },
@@ -831,38 +815,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
-      },
-      "artists": [
-        {
-          "name": "Metr\u00f3poli",
-          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
-        }
-      ],
-      "duration_ms": 192811,
-      "name": "H\u00e9roes An\u00f3nimos",
-      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Una Temporada en el Invierno",
-        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -875,6 +827,22 @@
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -899,18 +867,50 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
       },
       "artists": [
         {
-          "name": "Vale Acevedo",
-          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 193312,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
+      },
+      "artists": [
+        {
+          "name": "Metr\u00f3poli",
+          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
+        }
+      ],
+      "duration_ms": 192811,
+      "name": "H\u00e9roes An\u00f3nimos",
+      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 147772,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE"
       },
       "artists": [
         {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+          "name": "Vale Acevedo",
+          "url": "https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ"
         }
       ],
-      "duration_ms": 147772,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+      "duration_ms": 193312,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Esquizofrenia",
         "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 229373,
       "name": "Mujer Contra Mujer",
       "url": "https://open.spotify.com/track/1cbLr2u9FwmWvkSvuVbmUk"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed",
-        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 230988,
-      "name": "Cuando el sol est\u00e1 as\u00ed",
-      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Cuando el sol est\u00e1 as\u00ed",
+        "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 230988,
+      "name": "Cuando el sol est\u00e1 as\u00ed",
+      "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 204878,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1479,18 +1463,34 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
       },
       "artists": [
         {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
         }
       ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
     },
     {
       "added_at": "2024-09-12 21:00:20",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 145086,
-      "name": "Ghost in the Machine",
-      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
-    },
-    {
-      "added_at": "2024-09-12 21:00:20",
-      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
@@ -1623,6 +1591,22 @@
     {
       "added_at": "2024-09-12 21:00:20",
       "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 145086,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
         "name": "Autodefensa",
         "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 180277,
       "name": "Autodefensa",
       "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
+    },
+    {
+      "added_at": "2024-09-12 21:00:20",
+      "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     }
   ],
   "unique_name": "Rockeras",

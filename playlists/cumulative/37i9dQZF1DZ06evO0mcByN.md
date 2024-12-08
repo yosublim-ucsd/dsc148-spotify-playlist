@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-55 songs - 4 hr 19 min
+56 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu \(Essência Sessions\)](https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN) | 4:01 | 2023-07-09 |  |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2023-07-09 |  |
 | [Eu Não Mereço \(Ao Vivo\)](https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:54 | 2023-07-09 |  |
-| [Farás Outra Vez](https://open.spotify.com/track/2EW0dzdF4CRdbz6I1z2yJV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/4pSM69zSpIVcRggt4YxVpY) | 4:07 | 2024-02-26 |  |
+| [Farás Outra Vez](https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK) | 4:06 | 2024-12-08 |  |
+| [Farás Outra Vez](https://open.spotify.com/track/2EW0dzdF4CRdbz6I1z2yJV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez](https://open.spotify.com/album/4pSM69zSpIVcRggt4YxVpY) | 4:07 | 2024-02-26 | 2024-12-08 |
 | [Farás Outra Vez \(Do It Again\)](https://open.spotify.com/track/0zCce3GH8A2yEDnUa6mrQO) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Farás Outra Vez \(Do It Again\)](https://open.spotify.com/album/6gMtKlYu6gHfJvCua3K40R) | 4:06 | 2023-07-09 | 2024-02-27 |
 | [Fica Tranquilo](https://open.spotify.com/track/5M3cdM4H3Lv425CN5Nq8cM) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 5:17 | 2024-04-07 |  |
 | [Fica Tranquilo](https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 5:17 | 2023-07-09 | 2024-04-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92575,
+  "num_followers": 92581,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 202937,
+      "name": "Hymn To Virgil",
+      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "A Fragile Thing",
         "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
       },
@@ -295,26 +311,6 @@
       "duration_ms": 283086,
       "name": "A Fragile Thing",
       "url": "https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 155616,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -351,6 +347,26 @@
       "duration_ms": 191839,
       "name": "After All The Bars Are Closed",
       "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 155616,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Private Blizzard",
         "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 234973,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -583,22 +599,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+        "name": "Du lever bara en g\u00e5ng",
+        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 200649,
-      "name": "Walked on Water (feat. Kesha)",
-      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+      "duration_ms": 184973,
+      "name": "Du lever bara en g\u00e5ng",
+      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -619,6 +631,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Ge inte upp p\u00e5 mig",
         "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 204506,
       "name": "Ge inte upp p\u00e5 mig",
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Du lever bara en g\u00e5ng",
-        "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Du lever bara en g\u00e5ng",
-      "url": "https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "En kv\u00e4ll i tunnelbanan",
-        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "En kv\u00e4ll i tunnelbanan",
-      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "En kv\u00e4ll i tunnelbanan",
+        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Dandelion Kids",
         "url": "https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 256866,
       "name": "Dandelion Kids",
       "url": "https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -735,6 +735,22 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -835,6 +851,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "I Wrote Your Name (Upon My Heart)",
         "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
       },
@@ -899,22 +931,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Akta dig",
-        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
-      },
-      "artists": [
-        {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Akta dig",
-      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Ljusare moln",
         "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
@@ -931,6 +947,22 @@
       "duration_ms": 238000,
       "name": "Ljusare moln",
       "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Akta dig",
+        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Akta dig",
+      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -983,22 +1015,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "N\u00e4ra dig",
         "url": "https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 162653,
       "name": "N\u00e4ra dig",
       "url": "https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1031,6 +1063,22 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "No More You",
+        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 176366,
+      "name": "No More You",
+      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1087,22 +1135,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "No More You",
-        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "No More You",
-      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Mars Venus",
         "url": "https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS"
       },
@@ -1115,6 +1147,22 @@
       "duration_ms": 226034,
       "name": "Mars Venus",
       "url": "https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1147,22 +1195,6 @@
       "duration_ms": 175555,
       "name": "Someone You Used To Know",
       "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "When The Time Is Right",
-        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
-      },
-      "artists": [
-        {
-          "name": "Dirty Loops",
-          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
-        }
-      ],
-      "duration_ms": 285842,
-      "name": "When The Time Is Right",
-      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -1275,6 +1291,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
+      },
+      "artists": [
+        {
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
+        }
+      ],
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1327,22 +1359,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -1371,22 +1403,6 @@
       "duration_ms": 207300,
       "name": "Sally/Hungry Eyes",
       "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Unreal Unearth: Unending",
-        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 202937,
-      "name": "Hymn To Virgil",
-      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Del av dig (Edit)",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Del av dig - Edit",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     }
   ],
   "unique_name": "Aktuellt",

@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 192998,
       "name": "WE ARE THE BORDERS",
       "url": "https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx"
@@ -2438,6 +2438,24 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+    },
+    {
+      "album": {
+        "name": "\u767d\u3068\u30a8\u30b9\u30b1\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/5wV6KIb85mMyFtjJsBMObZ"
+      },
+      "artists": [
+        {
+          "name": "\u30eb\u30a4",
+          "url": "https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "\u767d\u3068\u30a8\u30b9\u30b1\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/72kVH3tMjQ5kNthRgOm9tR"
     },
     {
       "album": {

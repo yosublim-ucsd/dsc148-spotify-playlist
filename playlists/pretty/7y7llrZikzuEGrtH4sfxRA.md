@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,651 likes - 20 songs - 1 hr 6 min
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,654 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 | 16 | [Naughty Sax](https://open.spotify.com/track/0tIZdfCSOK2isSINnEgC4a) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 2:46 |
 | 17 | [Take Ya B](https://open.spotify.com/track/5gqUKrzZUmE3LrQo25iECz) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [Take Ya B](https://open.spotify.com/album/6wpqspqkKxbuJ5lgT4cpke) | 3:24 |
 | 18 | [Disco Bus](https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Disco Bus](https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6) | 3:20 |
-| 19 | [Put It Down](https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Put It Down](https://open.spotify.com/album/7AbuaLWUhNrDsIQqCS2Ok0) | 3:03 |
+| 19 | [Put It Down](https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Jayelle](https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV) | [Put It Down](https://open.spotify.com/album/7AbuaLWUhNrDsIQqCS2Ok0) | 3:03 |
 | 20 | [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 |
 
 Snapshot ID: `AAATWWECNQXJpV9oUV5g67iUspXdqzb7`

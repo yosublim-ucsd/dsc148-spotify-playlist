@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970 likes - 25 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973 likes - 25 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 9 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 |
 | 10 | [Mozart](https://open.spotify.com/track/3MMDi1qBwOB8Zq6l5Hbhdh) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Mozart](https://open.spotify.com/album/4dWzLbeZF84liXgNUEJiRn) | 1:37 |
 | 11 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 |
-| 12 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
-| 13 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 |
+| 12 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 |
+| 13 | [End Of The World](https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/5UjAwy0lrko9kLqpej1RDy) | 2:38 |
 | 14 | [Popsicle](https://open.spotify.com/track/2R54H7AJlO38QH8ygNDWi1) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/3BB3XKlsGSIfPC1Kw9fSRH) | 1:50 |
 | 15 | [Incognito](https://open.spotify.com/track/67O43FtuBoLHp0KArJfdGa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/4L8fkv7xQp3vvnyEkxbZoy) | 2:39 |
 | 16 | [ENEMIES \(feat\. bludnymph& Shift K3Y\) \(Phrva Remix\)](https://open.spotify.com/track/33Yb60HyRCGC17s6YnsBQb) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7) | [PULSE \(Remixes\)](https://open.spotify.com/album/6gnuh3z8Zrg6m9qk4oy8d3) | 2:48 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 24 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 25 | [Moonwater](https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Moonwater](https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv) | 1:52 |
 
-Snapshot ID: `Z1DtAAAAAABoapr7VhccyAT+fwzTg6hL`
+Snapshot ID: `Z1I+gAAAAACA50B8f7DGliDMXcJhcm2V`

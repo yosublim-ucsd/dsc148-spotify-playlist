@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Cala Vento.",
-  "num_followers": 23171,
+  "num_followers": 23181,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Himno de las flores",
-        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
-      },
-      "artists": [
-        {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
-        },
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 228995,
-      "name": "Himno de las flores",
-      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "El Entusiasmo",
         "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
       },
@@ -791,6 +771,22 @@
       "duration_ms": 178501,
       "name": "El Entusiasmo",
       "url": "https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Me paso por tu zona",
+        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 131272,
+      "name": "Me paso por tu zona",
+      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -815,18 +811,38 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Me paso por tu zona",
-        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+        "name": "Himno de las flores",
+        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
       "artists": [
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
         }
       ],
-      "duration_ms": 131272,
-      "name": "Me paso por tu zona",
-      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+      "duration_ms": 228995,
+      "name": "Himno de las flores",
+      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Ven a jugar",
+        "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Ven a jugar",
+      "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ven a jugar",
-        "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
+        "name": "Danza de la muerte",
+        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
       },
       "artists": [
         {
-          "name": "Anabel Lee",
-          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Ven a jugar",
-      "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+      "duration_ms": 164400,
+      "name": "Danza de la muerte",
+      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -895,26 +911,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
-      },
-      "artists": [
-        {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
-        },
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 207181,
-      "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -931,34 +927,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "ULTRASUR",
-        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
+        "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
       "artists": [
         {
-          "name": "Las Petunias",
-          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
-        }
-      ],
-      "duration_ms": 139923,
-      "name": "ULTRASUR",
-      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Danza de la muerte",
-        "url": "https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc"
-      },
-      "artists": [
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
+        },
         {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Danza de la muerte",
-      "url": "https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag"
+      "duration_ms": 207181,
+      "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "4 Impulsos M\u00e1s",
-        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
+        "name": "ULTRASUR",
+        "url": "https://open.spotify.com/album/1lAD75rGpcUWpxti7DLLb6"
       },
       "artists": [
         {
-          "name": "Erin Memento",
-          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
+          "name": "Las Petunias",
+          "url": "https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r"
         }
       ],
-      "duration_ms": 207124,
-      "name": "4 Impulsos M\u00e1s",
-      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
+      "duration_ms": 139923,
+      "name": "ULTRASUR",
+      "url": "https://open.spotify.com/track/0D8xJEP5Ajwgu5SOUGhayy"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "el beso que nunca nos dimos",
+        "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
+      },
+      "artists": [
+        {
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+        }
+      ],
+      "duration_ms": 183264,
+      "name": "el beso que nunca nos dimos",
+      "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Candorro",
         "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "el beso que nunca nos dimos",
-        "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
+        "name": "4 Impulsos M\u00e1s",
+        "url": "https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo"
       },
       "artists": [
         {
-          "name": "Bloodstein",
-          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+          "name": "Erin Memento",
+          "url": "https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp"
         }
       ],
-      "duration_ms": 183264,
-      "name": "el beso que nunca nos dimos",
-      "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
+      "duration_ms": 207124,
+      "name": "4 Impulsos M\u00e1s",
+      "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "COMERTE",
-        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "COMERTE",
-      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 171428,
       "name": "Intemperie",
       "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "COMERTE",
+        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
+      },
+      "artists": [
+        {
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "COMERTE",
+      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Sangre Azul",
-        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Sangre Azul",
-      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "p0pper",
         "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 213308,
       "name": "p0pper",
       "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Al Final",
+        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
+      },
+      "artists": [
+        {
+          "name": "Muro Mar\u00eda",
+          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
+        }
+      ],
+      "duration_ms": 184201,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Al Final",
-        "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
+        "name": "Sangre Azul",
+        "url": "https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG"
       },
       "artists": [
         {
-          "name": "Muro Mar\u00eda",
-          "url": "https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y"
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
         }
       ],
-      "duration_ms": 184201,
-      "name": "Al Final",
-      "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
+      "duration_ms": 144664,
+      "name": "Sangre Azul",
+      "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Baimen gabe",
-        "url": "https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG"
-      },
-      "artists": [
-        {
-          "name": "Izaki Gardenak",
-          "url": "https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh"
-        }
-      ],
-      "duration_ms": 311266,
-      "name": "Baimen gabe",
-      "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "L\u00e1grimas y Milagros",
         "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
       },
@@ -1563,18 +1547,34 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Dos De Cal",
-        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
+        "name": "Baimen gabe",
+        "url": "https://open.spotify.com/album/4jCQjqccsVPOiB4fLR7pRG"
       },
       "artists": [
         {
-          "name": "LOS VALIENTES",
-          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
+          "name": "Izaki Gardenak",
+          "url": "https://open.spotify.com/artist/4y8hOc4Jpo2mTzfWINDwLh"
         }
       ],
-      "duration_ms": 181558,
-      "name": "A\u00fan Quedan Sensaciones",
-      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
+      "duration_ms": 311266,
+      "name": "Baimen gabe",
+      "url": "https://open.spotify.com/track/6SlETYurMXL5J0bovKg5Q8"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Amor de oficina",
+        "url": "https://open.spotify.com/album/5F7MI0eNGyLFRROq3fsuQd"
+      },
+      "artists": [
+        {
+          "name": "piti y me voy",
+          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+        }
+      ],
+      "duration_ms": 210117,
+      "name": "Amor de oficina",
+      "url": "https://open.spotify.com/track/3TspMHDZMLMuzUSolTzX15"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Amor de oficina",
-        "url": "https://open.spotify.com/album/5F7MI0eNGyLFRROq3fsuQd"
+        "name": "Dos De Cal",
+        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
       },
       "artists": [
         {
-          "name": "piti y me voy",
-          "url": "https://open.spotify.com/artist/334ZIJVugvR3DZxCXNnusx"
+          "name": "LOS VALIENTES",
+          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
         }
       ],
-      "duration_ms": 210117,
-      "name": "Amor de oficina",
-      "url": "https://open.spotify.com/track/3TspMHDZMLMuzUSolTzX15"
+      "duration_ms": 181558,
+      "name": "A\u00fan Quedan Sensaciones",
+      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
     },
     {
       "added_at": "2024-12-05 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Chezile",
-  "num_followers": 1688041,
+  "num_followers": 1688026,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "There Goes My Baby",
+        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "There Goes My Baby",
+      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -811,22 +827,6 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "There Goes My Baby",
-        "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "There Goes My Baby",
-      "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -897,20 +897,20 @@
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+        "name": "Chest Pain",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 214756,
-      "name": "After the First Kiss",
-      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+      "duration_ms": 202000,
+      "name": "Chest Pain",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -929,20 +929,20 @@
       "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -959,6 +959,22 @@
       "duration_ms": 203989,
       "name": "A Tear in Space (Airlock)",
       "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1013,10 +1029,10 @@
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-09-27 23:58:00",
       "album": {
-        "name": "Chest Pain",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+        "name": "Two New Malcolm Todd Songs",
+        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
       },
       "artists": [
         {
@@ -1024,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Chest Pain",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+      "duration_ms": 220645,
+      "name": "You Owe Me",
+      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1061,22 +1077,6 @@
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 193887,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Creatures In Heaven",
@@ -1107,6 +1107,22 @@
       "duration_ms": 183189,
       "name": "Scumbag",
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1141,54 +1157,6 @@
       "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 225572,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
-    },
-    {
-      "added_at": "2024-09-27 23:58:00",
-      "album": {
-        "name": "Two New Malcolm Todd Songs",
-        "url": "https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 220645,
-      "name": "You Owe Me",
-      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Even (with Cat Burns)",
@@ -1207,6 +1175,54 @@
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 225572,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1241,20 +1257,20 @@
       "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+        "name": "2DK",
+        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
+      "duration_ms": 196343,
+      "name": "2DK",
+      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1271,22 +1287,6 @@
       "duration_ms": 182380,
       "name": "jupiter",
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "2DK",
-        "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 196343,
-      "name": "2DK",
-      "url": "https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE"
     },
     {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "desire",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Occasional Stoner",
         "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 183881,
       "name": "Occasional Stoner",
       "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Good Neighbours",
-        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 171731,
-      "name": "Weekend Boy",
-      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 184533,
       "name": "Purple Teeth, The Bravery",
       "url": "https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Good Neighbours",
+        "url": "https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 171731,
+      "name": "Weekend Boy",
+      "url": "https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Who Said",
-        "url": "https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "Who Said",
-      "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Take Me to the River",
         "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
       },
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Who Said",
+        "url": "https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 187348,
+      "name": "Who Said",
+      "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
     },
     {
       "added_at": "2024-09-13 04:00:00",

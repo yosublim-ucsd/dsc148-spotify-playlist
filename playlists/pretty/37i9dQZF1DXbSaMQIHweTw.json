@@ -1,15 +1,51 @@
 {
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Munawar x Aniket Raturi x Karan Kanchan",
-  "num_followers": 65218,
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai",
+  "num_followers": 65248,
   "original_name": "Bambai Bantai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0BPEgAAAABJBawdbw4H7y4nSQyilKz5",
+  "snapshot_id": "Z1P/YQAAAADIiVh1j6IuC68qs2E6asCE",
   "tracks": [
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
+      "album": {
+        "name": "Mera Na Hua",
+        "url": "https://open.spotify.com/album/1M8RD0cZ02p6nA0qmqhPwG"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Mera Na Hua",
+      "url": "https://open.spotify.com/track/1ZMBiwgX7G4nqNjCXcsUgP"
+    },
+    {
+      "added_at": "2024-12-07 07:55:13",
+      "album": {
+        "name": "4.10",
+        "url": "https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Lal Chand Yamla Jatt",
+          "url": "https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX"
+        }
+      ],
+      "duration_ms": 169512,
+      "name": "4.10",
+      "url": "https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4"
+    },
+    {
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "SuppaMario",
         "url": "https://open.spotify.com/album/23L6roAS9IqxMwbt7x1rCB"
@@ -33,43 +69,7 @@
       "url": "https://open.spotify.com/track/29qsHiYIUmkFU5cifL56o5"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
-      "album": {
-        "name": "Zindagi Mast Hai",
-        "url": "https://open.spotify.com/album/0RzDTjF9GZER1387J4sdC5"
-      },
-      "artists": [
-        {
-          "name": "Emiway Bantai",
-          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
-        }
-      ],
-      "duration_ms": 140145,
-      "name": "Zindagi Mast Hai",
-      "url": "https://open.spotify.com/track/6JZOllYZRNENfISJ4sU7rg"
-    },
-    {
-      "added_at": "2024-11-22 09:29:54",
-      "album": {
-        "name": "4.10",
-        "url": "https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN"
-      },
-      "artists": [
-        {
-          "name": "DIVINE",
-          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
-        },
-        {
-          "name": "Lal Chand Yamla Jatt",
-          "url": "https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX"
-        }
-      ],
-      "duration_ms": 169512,
-      "name": "4.10",
-      "url": "https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4"
-    },
-    {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "BLACK MONEY",
         "url": "https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
+      "album": {
+        "name": "Zindagi Mast Hai",
+        "url": "https://open.spotify.com/album/0RzDTjF9GZER1387J4sdC5"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "duration_ms": 140145,
+      "name": "Zindagi Mast Hai",
+      "url": "https://open.spotify.com/track/6JZOllYZRNENfISJ4sU7rg"
+    },
+    {
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Chingari",
         "url": "https://open.spotify.com/album/6g0WqTmu6hNH6rMGi0iVVh"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/759fUCN0mrdZu2ZcvrR0OW"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "302",
         "url": "https://open.spotify.com/album/3kd88ysTjrX3eoije5QAxe"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/1bJPme47wT0IIKImzOOehj"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Vazan (Red Bull 64 Bars)",
         "url": "https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Taambdi Chaamdi",
         "url": "https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Dhyaan Se",
         "url": "https://open.spotify.com/album/2YpqvLTfOCzVBfa4lE3SNh"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "KR L$DA SIGN",
         "url": "https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Halaat",
         "url": "https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Numberkari",
         "url": "https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/2RBSlozluCiLoguWs977VK"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Chalis",
         "url": "https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Nusta Paisa",
         "url": "https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Dil Se Dil Tak",
         "url": "https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "MACHAYENGE 4",
         "url": "https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Rx100",
         "url": "https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Shana Bann",
         "url": "https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Title Kya Doon?",
         "url": "https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Gangster Shit 1st",
         "url": "https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "GUESS",
         "url": "https://open.spotify.com/album/576uoepdv4Ygap72dx37gA"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Punya Paap",
         "url": "https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Cash Flow",
         "url": "https://open.spotify.com/album/6oToj3eQlsBeuKcZnFBE2t"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Hood Life",
         "url": "https://open.spotify.com/album/0dccjW1yvarOZfmhiI91XU"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Thanks To My Haters",
         "url": "https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Street Dreams",
         "url": "https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Loka Kaha Hai (Side A)",
         "url": "https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Wholeheartedly",
         "url": "https://open.spotify.com/album/7kkrtWD5cDiRlVoXbILLfa"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/5N317HiUWtkyBiVBESLseW"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Tujhya Aaichi Gaand",
         "url": "https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Moonbounce",
         "url": "https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/0LMteNwmU1fqJMFiCYHpSi"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Bolna Tu Bantai (From \"Whole Heartedly\")",
         "url": "https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Arthur Road",
         "url": "https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Chhod Dala",
         "url": "https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Loka Kaha Hai (Side A)",
         "url": "https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/3dJWfCq3I3i2NQJkpQLYNS"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Kudi",
         "url": "https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Bombay Ke Don",
         "url": "https://open.spotify.com/album/7s0QOGNHppvKS3J4IUsZb7"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "One Hai Re Bhai",
         "url": "https://open.spotify.com/album/6UqzC1ush92ewbmebs94KA"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/1o2kWv5NnrWGSjTRs1IImp"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Halaat",
         "url": "https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/3n3Urxb6O9OzXkYng9W60V"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/7J0CxEcl1dUxX9IG6R5Xfb"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Mumbai Rap",
         "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "God Bless You",
         "url": "https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Independent",
         "url": "https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge"
@@ -837,7 +853,7 @@
       "url": "https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Halaat",
         "url": "https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT"
@@ -861,7 +877,7 @@
       "url": "https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Bambaiyya",
         "url": "https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8"
@@ -877,7 +893,7 @@
       "url": "https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Kehne Bhi De",
         "url": "https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx"
     },
     {
-      "added_at": "2024-11-22 09:29:54",
+      "added_at": "2024-12-07 07:55:13",
       "album": {
         "name": "Halaat",
         "url": "https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT"
@@ -915,26 +931,6 @@
       "duration_ms": 195000,
       "name": "Hood Poetry",
       "url": "https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g"
-    },
-    {
-      "added_at": "2024-11-22 09:29:54",
-      "album": {
-        "name": "Roshni",
-        "url": "https://open.spotify.com/album/7FH9OhjduEaO1ZYKlAsp7T"
-      },
-      "artists": [
-        {
-          "name": "Naezy",
-          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
-        },
-        {
-          "name": "Vernon Tauro",
-          "url": "https://open.spotify.com/artist/34o46ubfKWo2VtkVzZJ5Yx"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "Roshni",
-      "url": "https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64"
     }
   ],
   "unique_name": "Bambai Bantai",

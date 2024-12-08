@@ -4,7 +4,7 @@
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-108 songs - 7 hr 36 min
+109 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [uber cozy universe](https://open.spotify.com/track/6Mr82nnP6kj2OuD3tQgX1E) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/7eQ7opjUTYoo92d4Ix5jtZ) | 1:42 | 2024-03-27 | 2024-04-10 |
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-20 |  |
 | [WANNA be BRILLIANT](https://open.spotify.com/track/6lfnRtdV3bJneiA3Y0aY5G) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 3:31 | 2022-06-09 | 2022-10-02 |
+| [WINGS ever](https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH](https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr) | 3:28 | 2024-12-08 |  |
 | [Wizard CLUB](https://open.spotify.com/track/4kvQEOuOZWtSV1ObwHq1HJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:10 | 2022-06-15 | 2022-10-13 |
 | [world LOST world](https://open.spotify.com/track/4DCjLkXskVac4WlzP2gpNd) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LAST](https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b) | 4:59 | 2022-06-11 | 2022-10-11 |
 | [YURA YURA](https://open.spotify.com/track/7aHDHkq2UnoaKhFiRUrwYr) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 4:56 | 2022-07-06 | 2022-08-26 |
@@ -93,7 +94,7 @@
 | [いつか必ず死ぬことを忘れるな](https://open.spotify.com/track/6hMUL6cLiZTIRFMvZYesjP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:48 | 2022-06-12 | 2022-10-13 |
 | [えくぼ](https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 3:03 | 2022-06-09 |  |
 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 | 2022-06-09 |  |
-| [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 | 2022-06-09 |  |
+| [シャカビーチ〜Laka Laka La〜](https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 3:56 | 2022-06-09 | 2024-12-08 |
 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 | 2022-06-27 |  |
 | [ゼロの答](https://open.spotify.com/track/0EU8Wq3Unp2slQPzKcC1JH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 4:07 | 2022-07-19 | 2022-10-08 |
 | [ナノ・セカンド\(album ver.\)](https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:55 | 2022-06-09 | 2024-04-29 |

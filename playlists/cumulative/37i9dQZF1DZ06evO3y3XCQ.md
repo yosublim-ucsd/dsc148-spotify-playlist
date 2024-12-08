@@ -4,7 +4,7 @@
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 33 min
+56 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Voices On A String](https://open.spotify.com/track/1x4hsESxhGafiTFQDIAsCx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 3:32 | 2022-10-27 |  |
 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 | 2022-10-27 |  |
 | [We Will Overcome](https://open.spotify.com/track/3yiQQBneouNH6dNpUAUadr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 3:39 | 2024-01-04 | 2024-01-12 |
+| [White Bikes](https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [White Bikes](https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz) | 4:25 | 2024-12-08 |  |
 | [You Were The Cancer](https://open.spotify.com/track/5T3aOfEHkhipnFkPqBADjj) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 5:49 | 2022-10-27 | 2023-07-10 |
 
 \*This playlist was first scraped on 2022-10-28. Prior content cannot be recovered.

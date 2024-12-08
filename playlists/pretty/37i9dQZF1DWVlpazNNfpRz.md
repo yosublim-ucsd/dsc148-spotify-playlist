@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlpazNNfpRz.md) - [plain]
 
 > When the beat drops, that's Guaracha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,975 likes - 90 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,039 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

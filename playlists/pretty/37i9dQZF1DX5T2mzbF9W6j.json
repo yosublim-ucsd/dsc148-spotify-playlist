@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110519,
+  "num_followers": 110503,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-29 08:35:37",
       "album": {
+        "name": "Nie znam tego miejsca",
+        "url": "https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Nie znam tego miejsca",
+      "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
+    },
+    {
+      "added_at": "2024-11-29 08:35:37",
+      "album": {
         "name": "Mamy farta",
         "url": "https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 189266,
       "name": "Mamy farta",
       "url": "https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa"
-    },
-    {
-      "added_at": "2024-11-29 08:35:37",
-      "album": {
-        "name": "Nie znam tego miejsca",
-        "url": "https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj"
-      },
-      "artists": [
-        {
-          "name": "Ewa Farna",
-          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Nie znam tego miejsca",
-      "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
     },
     {
       "added_at": "2024-11-29 08:35:37",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38374,
+  "num_followers": 38384,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADq6uBaCczW9DE2cI9xs0I8",
+  "snapshot_id": "Z1I+gAAAAADiwy1p1NvjkIb2k9CpFQsJ",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brand New Machine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 206427,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 171480,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brand New Machine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 206427,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like You'll Never See Me Again",
-        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Like You'll Never See Me Again",
-      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
     },
     {
       "added_at": null,

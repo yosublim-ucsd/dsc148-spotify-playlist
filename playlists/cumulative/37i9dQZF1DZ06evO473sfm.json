@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126307,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },

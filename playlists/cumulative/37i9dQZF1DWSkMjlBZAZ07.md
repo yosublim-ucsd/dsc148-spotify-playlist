@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-254 songs - 14 hr 56 min
+255 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [I Need a Teacher](https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 3:17 | 2021-11-12 | 2022-07-29 |
 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-06-21 | 2024-04-19 |
 | [I Need Never Get Old](https://open.spotify.com/track/6YfEvtwpQwGAWZBWzNmoIw) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 4:13 | 2021-11-12 |  |
-| [I Should've Danced More](https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Nobody Owns You](https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd) | 3:56 | 2024-09-06 |  |
+| [I Should've Danced More](https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Nobody Owns You](https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd) | 3:56 | 2024-09-06 | 2024-12-08 |
 | [I Will Remain](https://open.spotify.com/track/1pRb7DlOyLPGcBJUJoAKOo) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/4Xuo3WeGm636KmRGZjsYwC) | 3:26 | 2021-11-12 | 2022-06-24 |
 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 | 2022-06-21 | 2024-04-19 |
 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 | 2022-06-21 |  |
@@ -243,6 +243,7 @@
 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2023-03-31 | 2024-04-19 |
 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 | 2021-11-12 |  |
 | [Wake Up With the Sun](https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:36 | 2022-02-11 | 2022-06-22 |
+| [Weird Environment](https://open.spotify.com/track/5VoyKmmCf5Xf58I3G2gv3g) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Weird Environment](https://open.spotify.com/album/28Kc1QH4wNwqnyjzCjVRYl) | 3:55 | 2024-09-06 |  |
 | [Welcome Home, Son](https://open.spotify.com/track/13PUJCvdTSCT1dn70tlGdm) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/0VYi6aRMwxXpfvNwDCr3bB) | 4:45 | 2021-11-12 | 2022-06-24 |
 | [Welcome Home, Son](https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 4:47 | 2022-06-21 | 2024-04-19 |
 | [What If I](https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:34 | 2021-11-12 |  |

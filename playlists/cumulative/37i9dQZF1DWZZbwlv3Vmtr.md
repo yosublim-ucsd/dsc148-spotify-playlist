@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-988 songs - 1 day 14 hr 17 min
+989 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Antiquity](https://open.spotify.com/track/3wOduxGta83TqKRcZHXXD9) | [Purple Bike](https://open.spotify.com/artist/74vRXGqTgjiQGqnpFjFE2M) | [Antiquity](https://open.spotify.com/album/1EK96vQu11uj6BoZkE1dEH) | 3:17 | 2022-04-15 | 2023-07-20 |
 | [are and be](https://open.spotify.com/track/16KKyq1VNR1QFYqX9lBX1a) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [pair of dice](https://open.spotify.com/album/1BnIHuiuZhxltLIVlKXKcO) | 1:40 | 2022-05-13 |  |
 | [aroma](https://open.spotify.com/track/3xdrzUHfGrjyR9rpmXP58Q) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [Botânica Beats](https://open.spotify.com/artist/0ZP1LicftMFei2GdXtrErQ) | [Mussambê](https://open.spotify.com/album/6qXirHwCfJP9ryVr1ejav5) | 2:15 | 2022-09-30 |  |
+| [as the mist clears](https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [as the mist clears](https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE) | 2:54 | 2024-12-06 |  |
 | [At Ease](https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [At Ease](https://open.spotify.com/album/3EPVotUCRpa0YRTfwsVehX) | 2:27 | 2024-03-01 |  |
 | [At Eventide](https://open.spotify.com/track/19NGKR9VbsWUgf7RfAkm71) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [At Eventide](https://open.spotify.com/album/2cXvOERfSWEvHWjNKA7jvJ) | 2:14 | 2024-06-28 | 2024-07-13 |
 | [At Peace](https://open.spotify.com/track/6JKRbYRi8UH8zfy0oGZ8TQ) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [At Peace](https://open.spotify.com/album/5cIXJGnEEmxcowS9ADX5F1) | 2:31 | 2022-05-20 | 2022-06-25 |
@@ -645,7 +646,7 @@
 | [Principles](https://open.spotify.com/track/0dgAgBQijLtATLnQ9wxjrk) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Eggz Benny](https://open.spotify.com/album/3zuujkBis1epFkensMUnp7) | 2:05 | 2022-04-15 | 2024-07-13 |
 | [Propellerlegs](https://open.spotify.com/track/4VflLDzpRzgCIE6JQksTsO) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Propellerlegs](https://open.spotify.com/album/2de7g11IxnvxK7GSm4EDX0) | 2:08 | 2022-04-15 | 2022-09-30 |
 | [Punch Tropical](https://open.spotify.com/track/2oS6CVKvmSq7W3w1csy6jn) | [Mellowdrastic](https://open.spotify.com/artist/5iM6lzU1v2k5FbuTUG2FnV) | [The Cotton Candy Creamery](https://open.spotify.com/album/7469geWNpqJN2D3sOYZCsH) | 2:56 | 2022-04-15 | 2022-05-14 |
-| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 | 2024-11-28 |
+| [Purple Dye](https://open.spotify.com/track/3vVMkpipMN0Ps0SBixQDmQ) | [calle de phnk](https://open.spotify.com/artist/5eyxNQ9zwz01mW4vogEcEY) | [Purple Dye](https://open.spotify.com/album/3AQVZ5POGGPq6mZfPu8qD6) | 2:09 | 2022-04-22 |  |
 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 | 2022-09-02 |  |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |
@@ -804,7 +805,7 @@
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-07-08 |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-15 | 2022-05-20 |
 | [Streets](https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Streets](https://open.spotify.com/album/6eAlAb0BGG1DxKvBhFW7SG) | 2:00 | 2023-04-03 | 2023-11-24 |
-| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 |  |
+| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 | 2024-12-08 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-15 | 2022-07-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-15 | 2023-10-13 |
 | [Subliminal](https://open.spotify.com/track/3VLSJ5VvSBGVXoC5cQo0Fg) | [FOCUS inc.](https://open.spotify.com/artist/5KhJljlbtsSaGGbRwYVp2n) | [Subliminal](https://open.spotify.com/album/56EXm35Vqwysafnh14WaNT) | 2:14 | 2022-04-15 | 2024-09-29 |
@@ -919,7 +920,7 @@
 | [under my ground](https://open.spotify.com/track/6pS37YGyZRkCiA9o8ZVksC) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [under my ground](https://open.spotify.com/album/0r45aNkzMnhUoKeOlicNle) | 1:22 | 2022-07-29 | 2022-08-12 |
 | [Under the Tide](https://open.spotify.com/track/3qUvV6jdRZVwUvTusNUGOH) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 2:05 | 2022-04-15 | 2022-07-08 |
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 |  |
-| [Underground Glacier Vibes](https://open.spotify.com/track/60Nklx8OyD5oykK8BWArL6) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [In the Gloaming](https://open.spotify.com/album/5LJcCu2BwcCUxRG4yPRm6J) | 2:24 | 2024-07-04 |  |
+| [Underground Glacier Vibes](https://open.spotify.com/track/60Nklx8OyD5oykK8BWArL6) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [In the Gloaming](https://open.spotify.com/album/5LJcCu2BwcCUxRG4yPRm6J) | 2:24 | 2024-07-04 | 2024-12-08 |
 | [Unexpected World](https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw), [Crun](https://open.spotify.com/artist/7aQFz7nMIRg5XTM1YLwEZ4) | [Unexpected World](https://open.spotify.com/album/51loInMhKTCu0j8iW3RW3u) | 1:36 | 2023-03-13 | 2023-09-22 |
 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [Unity](https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/02HGvM4UDSIiUEOP7PfLMF) | 2:13 | 2022-11-11 | 2023-10-06 |

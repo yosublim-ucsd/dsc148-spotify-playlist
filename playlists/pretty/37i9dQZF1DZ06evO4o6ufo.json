@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 70946,
+  "num_followers": 71015,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAABj2bJ3YM6bt5S6ncJNsSX1",
+  "snapshot_id": "Z1I+gAAAAAAX/jtYfvh/2j1B5SN+7onV",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+      "duration_ms": 240292,
+      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
+      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
-        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 240292,
-      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
-      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
       "added_at": null,

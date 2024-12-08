@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: BSB
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,189 likes - 149 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,191 likes - 149 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 17 | [CED and Done](https://open.spotify.com/track/0sVM7emsBENRZHsgQTrVyf) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [When It's All CED and Done](https://open.spotify.com/album/6658QjnoAxPZql2rv7W6w2) | 3:57 |
 | 18 | [Topless](https://open.spotify.com/track/26hOYsHoCJ4E91xzMqLw60) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Courage/勇氣](https://open.spotify.com/album/34WWumaDS2ttXR1L3xGhab) | 2:25 |
 | 19 | [想和妳看最長的電影](https://open.spotify.com/track/3SPAcmPKypmigSitbOT11Q) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [想和妳看最長的電影](https://open.spotify.com/album/6nFNjF1JTgQqLZwZa85RVN) | 2:25 |
-| 20 | [死穴](https://open.spotify.com/track/5GugIRufdtrzgt8kKI2BV6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [死穴](https://open.spotify.com/album/5stxelEZPKQnROTp1MvN43) | 3:37 |
+| 20 | [死穴](https://open.spotify.com/track/5GugIRufdtrzgt8kKI2BV6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Victor 劉偉德](https://open.spotify.com/artist/1vQ0dshjYv8NyGOu2KNQsG) | [死穴](https://open.spotify.com/album/5stxelEZPKQnROTp1MvN43) | 3:37 |
 | 21 | [雨街](https://open.spotify.com/track/2TlRbG25qRKB2u1ApUNUZL) | [ICE杨长青](https://open.spotify.com/artist/1CYOMrOfyYgZjJ9n6KIpQO) | [雨街](https://open.spotify.com/album/3WysbLOmTXHl4G6DQc9jeg) | 2:43 |
 | 22 | [不要擔心我, 你要好好過](https://open.spotify.com/track/0FJUAlDVXA9HJZz3W7dwqc) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [不要擔心我, 你要好好過](https://open.spotify.com/album/6RtDQF4V1F70QWj8cfc68D) | 2:46 |
 | 23 | [自·信](https://open.spotify.com/track/6I7K3bjWM7pLxLEWLeiyjz) | [魏诗莹](https://open.spotify.com/artist/5m8y6TUzduIjG3KQnBGQKH) | [自·信](https://open.spotify.com/album/4mTEKjAHda1Lxtp46YS8pM) | 5:00 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 40 | [Voltage](https://open.spotify.com/track/43ZhDs4iPKl44bfiPwQDLc) | [Drifter5](https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Voltage](https://open.spotify.com/album/1C0wDglggeLJIZdC9n5Soj) | 2:32 |
 | 41 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 |
 | 42 | [Heaven](https://open.spotify.com/track/0ljmOiRCRkkF9kaEQVD8c1) | [Astera7](https://open.spotify.com/artist/30GieJZDGVwI745u0ntU0W) | [EUPHORIA 喜·欲](https://open.spotify.com/album/6JuFh3vi5UWBITfplSuQLi) | 2:31 |
-| 43 | [OKAY](https://open.spotify.com/track/4QU4yxGOHdWy1TXBMA2zFv) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV), [謝慧嫺](https://open.spotify.com/artist/0XuVTsHYqoWTGA989cLRkD) | [OKAY](https://open.spotify.com/album/6BYOUByz1VlBkveZPb9kqt) | 3:33 |
+| 43 | [OKAY](https://open.spotify.com/track/4QU4yxGOHdWy1TXBMA2zFv) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV), [謝慧嫻](https://open.spotify.com/artist/6OnwfmukZtmZ4f7c8T8Cgi) | [OKAY](https://open.spotify.com/album/6BYOUByz1VlBkveZPb9kqt) | 3:33 |
 | 44 | [無力爹斯](https://open.spotify.com/track/3BcLEYgcPXBoWOAfd2WnlE) | [YABE](https://open.spotify.com/artist/2cgY2IUcXDMAW2ahHpbO8M) | [無力爹斯](https://open.spotify.com/album/5IwVD6wJAOufRDelbtg5pL) | 2:50 |
 | 45 | [如果能幼稚點也挺好](https://open.spotify.com/track/5wTZB3eq8I0eVPP88VzjOg) | [Aaron Bosco](https://open.spotify.com/artist/408ln4Mmx3x3R36U5TRa8K) | [如果能幼稚點也挺好](https://open.spotify.com/album/5UD0FJ7bsCVNrfjSFcSgUH) | 3:52 |
 | 46 | [‌達西Ⅲ問題](https://open.spotify.com/track/0d6rZFyzczsd07iFDYeMc1) | [達西](https://open.spotify.com/artist/3JdrI74pMKjzyozjqlaAdh) | [‌達西Ⅲ問題](https://open.spotify.com/album/3Ps7R6IDwDM5AmecEjymLm) | 4:35 |

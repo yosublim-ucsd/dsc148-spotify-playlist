@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 52 songs - 3 hr 3 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 53 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,6 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 50 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 |
 | 51 | [Black Molly](https://open.spotify.com/track/6NE7ocbNZgKeMKRt4J5z7H) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:24 |
 | 52 | [Oceanographer's Choice](https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 4:08 |
+| 53 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 
-Snapshot ID: `AAAAQfH3qGQyV1B3y3PC4usuwR6MhV/u`
+Snapshot ID: `AAAAQqCnGIMNKveXYJt2MLFc8eWpZJDV`

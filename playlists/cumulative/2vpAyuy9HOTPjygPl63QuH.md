@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,042 songs - 4 day 19 hr 39 min
+2,043 songs - 4 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1361,6 +1361,7 @@
 | [Places](https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Places](https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe) | 3:34 | 2024-07-07 | 2024-08-03 |
 | [Planet Bass](https://open.spotify.com/track/5rNcvTadVp1GtW3G2OYNds) | [Dan Fresco](https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB) | [Planet Bass EP](https://open.spotify.com/album/19Vy3V9OWtfe9MNKFi2Irz) | 3:54 | 2024-08-15 | 2024-10-05 |
 | [Plata o Plomo](https://open.spotify.com/track/498GWiqMDmohr7Q6bJi007) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [MCH Music](https://open.spotify.com/artist/2c9A59cedJD3tYnE9Ynh9o) | [Plata o Plomo](https://open.spotify.com/album/4F9rcupe4i6RkNJCdCGWTa) | 2:46 | 2023-11-03 | 2023-11-10 |
+| [Play Dice](https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Play Dice EP](https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4) | 2:55 | 2024-12-07 |  |
 | [Play It Cool](https://open.spotify.com/track/3iT1NGndiCT4L1YiR1y1oG) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Play It Cool](https://open.spotify.com/album/64GAikj3SBAhEJ4WoASvmv) | 3:11 | 2022-09-09 | 2022-09-18 |
 | [Play It Cool](https://open.spotify.com/track/3AUbzUkd6WtADkQhPkv6Y5) | [Markus Martinez](https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0), [DØSHI](https://open.spotify.com/artist/6Qq7ljz7f3hMO8uWDIDcuS) | [Play It Cool](https://open.spotify.com/album/4v7WCGOjx96P2QwLDeCn74) | 2:39 | 2023-12-22 | 2024-01-06 |
 | [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/track/3QiokeqGnSusb9wbl7rtsV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/album/44XyYHHyZUyRuisxaX5Xvo) | 2:55 | 2022-07-29 | 2022-08-06 |

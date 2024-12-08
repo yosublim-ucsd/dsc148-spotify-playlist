@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dolly Parton & Family",
-  "num_followers": 164575,
+  "num_followers": 164593,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Brown's Ferry Blues",
         "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 226955,
       "name": "Brown's Ferry Blues",
       "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
-      },
-      "artists": [
-        {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+      },
+      "artists": [
+        {
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 256877,
       "name": "Whiskey Drinking Man - Live",
       "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1343,34 +1327,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
       "artists": [
         {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
         }
       ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+        }
+      ],
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Please Mr Please",
         "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 272326,
       "name": "Please Mr Please",
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+        }
+      ],
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 176170,
       "name": "Complicated Man",
       "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Kentucky Gold",
+      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "As the Crow Flies",
         "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
@@ -1551,6 +1571,22 @@
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Kentucky Bluegrassed",
+        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 180570,
+      "name": "Kentucky Blue",
+      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1571,22 +1607,6 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Kentucky Bluegrassed",
-        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Kentucky Blue",
-      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1623,22 +1643,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Kentucky for Me",
-        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+        "name": "This Valley",
+        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
       "artists": [
         {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Calamity Jane",
+          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Kentucky Gold",
-      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
+      "duration_ms": 255505,
+      "name": "This Valley",
+      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1655,22 +1671,6 @@
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "This Valley",
-        "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
-      },
-      "artists": [
-        {
-          "name": "Calamity Jane",
-          "url": "https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL"
-        }
-      ],
-      "duration_ms": 255505,
-      "name": "This Valley",
-      "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 207000,
       "name": "Aced",
       "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+      },
+      "artists": [
+        {
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2024-11-29 17:00:00",

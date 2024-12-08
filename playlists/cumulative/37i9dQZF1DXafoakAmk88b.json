@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 223680,
       "name": "Capable of love",
       "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 293979,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
@@ -2642,6 +2642,24 @@
       "duration_ms": 197020,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko"
+    },
+    {
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
     },
     {
       "album": {
@@ -3071,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Gold Filigree",
+        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/3M1JK89DR8qGwTj6CVaPIm"
       },
@@ -3412,7 +3448,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
@@ -3773,6 +3809,28 @@
     },
     {
       "album": {
+        "name": "i cant tell (love my money)",
+        "url": "https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163062,
+      "name": "i cant tell (love my money)",
+      "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
+    },
+    {
+      "album": {
         "name": "I HATE IT TOO",
         "url": "https://open.spotify.com/album/4dAeoPXvxRL7vuoveshiPP"
       },
@@ -3962,7 +4020,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 196724,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
@@ -4280,7 +4338,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
@@ -4991,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/3P52UbRhg3RKPUHYzi1kFG"
+      },
+      "artists": [
+        {
+          "name": "Tunde Adebimpe",
+          "url": "https://open.spotify.com/artist/3and7uje1nuMnKJczCKox9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150908,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/46BIkntVmeG382rIo93J3d"
+    },
+    {
+      "album": {
         "name": "Many Times",
         "url": "https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q"
       },
@@ -5020,7 +5096,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 207053,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
@@ -5140,6 +5216,24 @@
       "duration_ms": 298160,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
+    },
+    {
+      "album": {
+        "name": "Big Smile, Black Mire",
+        "url": "https://open.spotify.com/album/6DPefrgbEGENBJsewlf58u"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227640,
+      "name": "Metalhead",
+      "url": "https://open.spotify.com/track/6vBlEMm5JlUVZok4pfVjlu"
     },
     {
       "album": {
@@ -5266,7 +5360,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 146240,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
@@ -5306,7 +5400,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 201464,
       "name": "MUSTARD (with 6LACK)",
       "url": "https://open.spotify.com/track/1vITRP5ITGjLK5v8LjjVo0"
@@ -5440,7 +5534,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
@@ -5462,7 +5556,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 213026,
       "name": "NO SZNS",
       "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
@@ -6314,7 +6408,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 140143,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
@@ -6797,6 +6891,24 @@
     },
     {
       "album": {
+        "name": "seventeen",
+        "url": "https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "seventeen",
+      "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
+    },
+    {
+      "album": {
         "name": "sever the blight",
         "url": "https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59"
       },
@@ -6808,7 +6920,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 174065,
       "name": "sever the blight",
       "url": "https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf"
@@ -7076,7 +7188,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
@@ -8060,7 +8172,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 145226,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
@@ -8154,7 +8266,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
@@ -8566,7 +8678,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 181000,
       "name": "Who He Iz",
       "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"
@@ -8646,6 +8758,24 @@
       "duration_ms": 181453,
       "name": "Wish",
       "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
+    },
+    {
+      "album": {
+        "name": "With Only Your Mouth",
+        "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183564,
+      "name": "With Only Your Mouth",
+      "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
     },
     {
       "album": {

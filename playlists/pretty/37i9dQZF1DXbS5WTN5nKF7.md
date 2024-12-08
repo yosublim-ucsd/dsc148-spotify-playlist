@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Dua Lipa, Pierre de Maere
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,698 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,754 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 40 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 41 | [Tout pour moi](https://open.spotify.com/track/0lWVNLcBpzwzeH67Cv3QOp) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:34 |
 | 42 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 |
-| 43 | [Femme Like U \- Tribute 2024 Remix by W.A.N.O](https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75), [W.A.N.O](https://open.spotify.com/artist/0jIAr2DcV8UWlpTVmY1MC3) | [Femme Like U \(Tribute 2024 Remix by Tribbs\)](https://open.spotify.com/album/36PgFWsIRTLkn5oXwwgXQ1) | 2:21 |
+| 43 | [Femme Like U \- Tribute 2024 Remix by W.A.N.O](https://open.spotify.com/track/460UoN0rxBQkCy9gzIcSpd) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75), [W.A.N.O](https://open.spotify.com/artist/0jIAr2DcV8UWlpTVmY1MC3) | [Femme Like U \(20th Anniversary Tribute\)](https://open.spotify.com/album/36PgFWsIRTLkn5oXwwgXQ1) | 2:21 |
 | 44 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
 | 45 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 46 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |

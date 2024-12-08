@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-343 songs - 20 hr 29 min
+344 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [More Than You Know \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0IBjwCuG1fEjk5OenvuL6B) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/0iFbPnngmZnbKKeOR9r18P) | 3:40 | 2021-09-14 | 2024-08-02 |
 | [Motivation \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 3:26 | 2021-09-14 |  |
 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 | 2021-09-14 |  |
-| [My Wave \- Spotify Singles](https://open.spotify.com/track/0lIMzHgepiowXBAsGtkcpt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:30 | 2023-01-11 |  |
+| [My Wave \- Spotify Singles](https://open.spotify.com/track/0lIMzHgepiowXBAsGtkcpt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Spotify Singles](https://open.spotify.com/album/4sajM6GOU3Z1lbsO99C7WD) | 3:30 | 2023-01-11 | 2024-12-08 |
 | [Ni Tú Ni Yo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:37 | 2021-09-14 |  |
 | [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-09-14 | 2024-08-02 |
 | [No Ordinary Love – Recorded at RAK Studios, London](https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Spotify Singles](https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR) | 3:51 | 2021-09-14 |  |
@@ -231,6 +231,7 @@
 | [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1U0deAPhGBIywMOiaufLEk) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/7vgE9gYasOiF92O5bN5usf) | 4:35 | 2022-10-26 | 2023-01-12 |
 | [Outsider \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qc95VxpLLPEfAD4YIZYn5) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Spotify Singles](https://open.spotify.com/album/4wLrjxDH5got4zYw94sOEx) | 4:35 | 2021-09-14 | 2022-10-19 |
 | [Partner in Crime \- Spotify Singles](https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 3:53 | 2022-09-01 |  |
+| [Peaches \- Spotify Singles](https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:27 | 2024-10-24 |  |
 | [people pleaser \- Spotify Singles](https://open.spotify.com/track/4pt2q4CYb9gRJq48mQ7HIE) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:27 | 2023-01-11 |  |
 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 | 2021-09-14 | 2024-08-02 |
 | [Psychopath \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3dBE30R12dDxc1jBDaqmo3) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:55 | 2021-09-14 |  |

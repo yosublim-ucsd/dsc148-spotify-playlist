@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243985,
+  "num_followers": 243983,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
+      },
+      "artists": [
+        {
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 126009,
       "name": "Lately Remix (feat. Craig David)",
       "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
-      },
-      "artists": [
-        {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Relax your mind",
-        "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Relax your mind",
-      "url": "https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Silky Feels",
         "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 165423,
       "name": "Silky Feels",
       "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Relax your mind",
+        "url": "https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Relax your mind",
+      "url": "https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "SHADES",
-        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
-      },
-      "artists": [
-        {
-          "name": "Giefa Sparkle",
-          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Shades Prayer",
-      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "Baby Boy 2",
         "url": "https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 135211,
       "name": "So Fresh So Clean",
       "url": "https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "SHADES",
+        "url": "https://open.spotify.com/album/3Ig7EPokyOuhMGzF0JQyty"
+      },
+      "artists": [
+        {
+          "name": "Giefa Sparkle",
+          "url": "https://open.spotify.com/artist/3mqzTvW2KgKL0cVKtFMwyh"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Shades Prayer",
+      "url": "https://open.spotify.com/track/3wpFi89CVt5zFkDqhZHoKH"
     },
     {
       "added_at": "2024-12-05 10:25:46",

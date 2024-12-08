@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAD2IFM8BCQiSE3KM+ZuG2rG",
+  "snapshot_id": "Z1I+gAAAAADk2AP+Rk/ZL95NLYLiCNGf",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
-        "url": "https://open.spotify.com/album/1kEXz6c1DSPl7Gr2rDTecv"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Anthony Brown",
-          "url": "https://open.spotify.com/artist/3bOw1pf2tJeMnmalEA7i2o"
-        }
-      ],
-      "duration_ms": 218576,
-      "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
-      "url": "https://open.spotify.com/track/7HPnlHRVAX3uNGkd7zTqlr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 549106,
       "name": "Indescribable - Live",
       "url": "https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
+        "url": "https://open.spotify.com/album/1kEXz6c1DSPl7Gr2rDTecv"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/3bOw1pf2tJeMnmalEA7i2o"
+        }
+      ],
+      "duration_ms": 218576,
+      "name": "All Yours (Radio Edit) (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/7HPnlHRVAX3uNGkd7zTqlr"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Has To Break (Live)",
         "url": "https://open.spotify.com/album/3LaQJBdbNWCJqmLD3UVYgQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 552816,
       "name": "Something Has To Break - Live",
       "url": "https://open.spotify.com/track/13rnHQg0NSVGFItl3FoOty"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACELAND",
         "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 184106,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Canton Jones",
-          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Repin My God",
-      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -847,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Canton Jones",
+          "url": "https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V"
         }
       ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+      "duration_ms": 264346,
+      "name": "Repin My God",
+      "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
     },
     {
       "added_at": null,
@@ -915,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
       "artists": [
         {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -951,6 +931,46 @@
       "duration_ms": 307960,
       "name": "All Glory",
       "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
     },
     {
       "added_at": null,
@@ -979,46 +999,6 @@
       "duration_ms": 252760,
       "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
       "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 315533,
-      "name": "Somehow (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
     },
     {
       "added_at": null,
@@ -1059,18 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA (Deluxe)",
-        "url": "https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy"
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
       "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 286848,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR"
+      "duration_ms": 315533,
+      "name": "Somehow (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
     },
     {
       "added_at": null,
@@ -1095,8 +1079,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "KIERRA (Deluxe)",
+        "url": "https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy"
       },
       "artists": [
         {
@@ -1104,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 265089,
-      "name": "Always Win (Live)",
-      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
+      "duration_ms": 286848,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR"
     },
     {
       "added_at": null,
@@ -1123,6 +1107,22 @@
       "duration_ms": 229840,
       "name": "Praise Him Now",
       "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 265089,
+      "name": "Always Win (Live)",
+      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
     },
     {
       "added_at": null,

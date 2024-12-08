@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Holden & mew
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,544 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,620 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 37 | [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
 | 38 | [Morire x te](https://open.spotify.com/track/1EnlnBwni7gpQOLpqwGVki) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Morire x te](https://open.spotify.com/album/2MbK8XNBh27XNXeI8qNZUJ) | 2:53 |
 | 39 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
-| 40 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 40 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 41 | [OCCHI TRISTI](https://open.spotify.com/track/4e2RfHOwvXuRjxiYSbQVOI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [OCCHI TRISTI](https://open.spotify.com/album/75VqF5XRsP5fDxZmfsgKyc) | 2:45 |
 | 42 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 |
 | 43 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 |

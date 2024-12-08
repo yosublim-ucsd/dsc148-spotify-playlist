@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,274 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,319 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 39 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
 | 40 | [รักนาน ๆ](https://open.spotify.com/track/3DoCl74hQWMxlvBeVj51XC) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [Dome Jaruwat](https://open.spotify.com/artist/0txmzrxdCsJv8qoko7C4CM) | [รักนาน ๆ](https://open.spotify.com/album/27vnza2tIBJ7eOtPXhLmBV) | 3:34 |
 | 41 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 |
-| 42 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
-| 43 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
+| 42 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
+| 43 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 |
 | 44 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
 | 45 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 |
 | 46 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 82 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 83 | [ระหว่างทาง \(Good Time\) \[เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ\]](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [ระหว่างทาง \(Good Time\) \- Single](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 |
 | 84 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
-| 85 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
-| 86 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
-| 87 | [เรื่องมหัศจรรย์](https://open.spotify.com/track/2ZvuGneo9p5JqtDQU45Yhv) | [Sofa](https://open.spotify.com/artist/2de8om9GjyJuMclZbGQw9O) | [Sofa](https://open.spotify.com/album/56gyLvDXgWHVcsHZd7qV4S) | 4:05 |
+| 85 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
+| 86 | [เรื่องมหัศจรรย์](https://open.spotify.com/track/2ZvuGneo9p5JqtDQU45Yhv) | [Sofa](https://open.spotify.com/artist/2de8om9GjyJuMclZbGQw9O) | [Sofa](https://open.spotify.com/album/56gyLvDXgWHVcsHZd7qV4S) | 4:05 |
+| 87 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 88 | [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 |
 | 89 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 |
 | 90 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |

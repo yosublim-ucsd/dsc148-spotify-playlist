@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-49 songs - 2 hr 59 min
+50 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [American Remains](https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:07 | 2023-04-02 |  |
 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 | 2024-01-17 |  |
 | [Casey Jones \(The Union Scab\)](https://open.spotify.com/track/6h54Z2xhKwPKDI4yfv4dGA) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 1:58 | 2024-09-16 |  |
+| [Color in Your Cheeks](https://open.spotify.com/track/7MLJb6r8yWftfsGmR0Qbiy) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:40 | 2024-12-07 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 | 2023-12-01 |  |
 | [Great King Rat \- Remastered 2011](https://open.spotify.com/track/57uAYnfX1UHDWn5tD1xbFf) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen \(Deluxe Remastered Version\)](https://open.spotify.com/album/64axF9Amc2ExcZbFs8btdv) | 5:43 | 2023-03-21 |  |

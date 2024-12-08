@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,247 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,258 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 21 | [2s n 3s](https://open.spotify.com/track/5Wzc4Qh6nBoWZz2TjRIHYG) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [2s n 3s](https://open.spotify.com/album/5XO5hOeV9vDooe90ufbCwT) | 3:00 |
 | 22 | [One City Freestyle](https://open.spotify.com/track/7mIReojRXv9vs3ucr11NGR) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [One City Freestyle](https://open.spotify.com/album/7mIPZwyiAzhZSIncqNcaRJ) | 1:43 |
 | 23 | [Butterflies](https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 1:43 |
-| 24 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
+| 24 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 25 | [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 |
 | 26 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 27 | [Arctic Tundra \(feat\. Juice WRLD\)](https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 4:29 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 38 | [How Long](https://open.spotify.com/track/3tXrir3yIIl4si3OqZv6KA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [How Long](https://open.spotify.com/album/4biEI0rFdj9ZCUpIWKQQ9Q) | 2:58 |
 | 39 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:29 |
 | 40 | [Bigger Than Life](https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Bigger Than Life](https://open.spotify.com/album/2TXd69tah0li3nZkwIhPYP) | 4:20 |
-| 41 | [Let It Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let It Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
+| 41 | [Let it Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let it Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 42 | [TMU pt\. I](https://open.spotify.com/track/0gmO51ioIuvy362zdQVX9t) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [TMU pt\. I](https://open.spotify.com/album/0dUU5QyfSmGO5XvqVsiB4Y) | 3:13 |
 | 43 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
 | 44 | [Sick N Tied](https://open.spotify.com/track/3KrH0ie8p2l5ArQKJFCYTT) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I'll Get Over It](https://open.spotify.com/album/0ENMF6rjyX4fyFmo3RxfXj) | 2:38 |

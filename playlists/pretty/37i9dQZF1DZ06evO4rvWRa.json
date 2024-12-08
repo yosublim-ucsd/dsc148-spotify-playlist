@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640531,
+  "num_followers": 1640511,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADvud/C5dHzoiUhebk95+8J",
+  "snapshot_id": "Z1I+gAAAAAC24jc6SeYZCZy+fN9Lt9pK",
   "tracks": [
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Putri Ariani",
-          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 204521,
       "name": "Unity",
       "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 132954,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 183344,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2sVcG5mresyV79qpYr3M1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 132954,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 191098,
-      "name": "Somebody Like U",
-      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 165388,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 145824,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
     },
     {
       "added_at": null,

@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
+    },
+    {
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
       },

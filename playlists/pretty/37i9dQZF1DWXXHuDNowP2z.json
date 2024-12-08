@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 248368,
+  "num_followers": 248476,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Los Locos Del Corrido",
+        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Agua De T\u00e9",
+      "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Los Locos Del Corrido",
-        "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes De Durango",
-          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Agua De T\u00e9",
-      "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 169471,
       "name": "Linda Mujer",
       "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Salvaje y Tierno",
         "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 174333,
       "name": "Con Zapatos de Tac\u00f3n",
       "url": "https://open.spotify.com/track/59iHlvzeqxfElSdjEOy6VX"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 211626,
-      "name": "El Rezado",
-      "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "El wiri wiri",
         "url": "https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "En Vivo...El Hombre Y Su Musica",
-        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 230200,
-      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
-      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
+      "duration_ms": 211626,
+      "name": "El Rezado",
+      "url": "https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1343,6 +1327,22 @@
       "duration_ms": 208875,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/75gBqTszkdNkKdw3V9O6n1"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
+      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "CARALUNA",
+        "url": "https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Oscar Calin",
+          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
+        }
+      ],
+      "duration_ms": 204337,
+      "name": "CARALUNA",
+      "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Mujer Interesada",
         "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 173378,
       "name": "Es Parte Del Show",
       "url": "https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "CARALUNA",
-        "url": "https://open.spotify.com/album/5TY4XLG0oRzjliAbQ8V4cH"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        },
-        {
-          "name": "Oscar Calin",
-          "url": "https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1"
-        }
-      ],
-      "duration_ms": 204337,
-      "name": "CARALUNA",
-      "url": "https://open.spotify.com/track/4autJuIj4IxNeP2B6lvNRZ"
     },
     {
       "added_at": "2024-11-28 22:59:11",

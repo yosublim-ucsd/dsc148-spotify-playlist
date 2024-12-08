@@ -4,7 +4,7 @@
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 53 min
+103 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [NVMX](https://open.spotify.com/track/14B1RYZRrApuJNcJTYKNZC) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 0:44 | 2024-11-18 | 2024-11-22 |
 | [Não Desista Agora](https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 3:15 | 2023-09-21 |  |
 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 | 2024-11-18 |  |
+| [Não Temos Medo \- Remix](https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Direto da Selva Deluxe](https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1) | 4:16 | 2024-12-08 |  |
 | [Nós Combina](https://open.spotify.com/track/2WULr6KUyzyPWZl9jmfW6k) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Nós Combina](https://open.spotify.com/album/7dWQJNTzIyN4StYCr4E6xk) | 3:24 | 2024-05-14 | 2024-06-06 |
 | [Nós Combina](https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 3:24 | 2024-06-06 |  |
 | [Obstinado](https://open.spotify.com/track/6qR1DhILkxhbxivh8HUDaP) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2) | [Obstinado](https://open.spotify.com/album/10Zjpt0jIDzij9ojE7vAui) | 4:11 | 2023-09-21 | 2023-12-30 |

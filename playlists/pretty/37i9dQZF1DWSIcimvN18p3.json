@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Jensen McRae",
-  "num_followers": 302903,
+  "num_followers": 302938,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
-      },
-      "artists": [
-        {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
-        }
-      ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1135,22 +1151,6 @@
       "duration_ms": 234800,
       "name": "Where Have All the Flowers Gone",
       "url": "https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
-      },
-      "artists": [
-        {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
-        }
-      ],
-      "duration_ms": 215869,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 317466,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Life Is",
         "url": "https://open.spotify.com/album/54eLc8KKiIJcWmrkQV3A2b"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/3aJrUfPxOANdzY1weAqrgH"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 317466,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 185506,
       "name": "Workin' Woman Blues",
       "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 225484,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "The Bird & the Rifle",
         "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/168mDRF95TUgri1Kbl9GYA"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "Weird Faith",
+        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+      "duration_ms": 246946,
+      "name": "For Months Now",
+      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1671,18 +1667,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1699,6 +1699,22 @@
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1735,38 +1751,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Time And Love: The Essential Masters",
-        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
-      },
-      "artists": [
-        {
-          "name": "Laura Nyro",
-          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Stoned Soul Picnic",
-      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Weird Faith",
-        "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "For Months Now",
-      "url": "https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Birdseye",
         "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Time And Love: The Essential Masters",
+        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
+      },
+      "artists": [
+        {
+          "name": "Laura Nyro",
+          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Stoned Soul Picnic",
+      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Sorry Now",
-        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 246611,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Sorry Now",
+        "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/5vTnp3Oue2Vioki5Jn5Nwx"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "A Feather's Not A Bird",
-      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "A Feather's Not A Bird",
+      "url": "https://open.spotify.com/track/2GVnWRdLxud7OJBlvD4AFP"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
       },
@@ -2307,6 +2307,22 @@
       "duration_ms": 157826,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
+      },
+      "artists": [
+        {
+          "name": "Deva Mahal",
+          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
+        }
+      ],
+      "duration_ms": 286388,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2343,18 +2359,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Stand In",
-        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
       "artists": [
         {
-          "name": "Deva Mahal",
-          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
         }
       ],
-      "duration_ms": 286388,
-      "name": "Stand In",
-      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2375,18 +2391,18 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
       },
       "artists": [
         {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
         }
       ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2403,22 +2419,6 @@
       "duration_ms": 398040,
       "name": "Love Lives Where Rules Die",
       "url": "https://open.spotify.com/track/0iRHvZB3KITU5Un1H2bT23"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "The Lonely Persistence of Time",
-        "url": "https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260303,
-      "name": "The Lonely Persistence of Time",
-      "url": "https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "The Lonely Persistence of Time",
+        "url": "https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260303,
+      "name": "The Lonely Persistence of Time",
+      "url": "https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p"
     },
     {
       "added_at": "2024-07-05 18:47:06",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-07-05 18:47:06",
       "album": {
-        "name": "Some Good Lives",
-        "url": "https://open.spotify.com/album/3uabupxSHc1Nrvk1OKkzO8"
-      },
-      "artists": [
-        {
-          "name": "Shook Twins",
-          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
-        }
-      ],
-      "duration_ms": 230615,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/1X2NJ47sVg5ehgaPpukYqx"
-    },
-    {
-      "added_at": "2024-07-05 18:47:06",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 187893,
       "name": "Till the Real Thing Comes Along",
       "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+    },
+    {
+      "added_at": "2024-07-05 18:47:06",
+      "album": {
+        "name": "Some Good Lives",
+        "url": "https://open.spotify.com/album/3uabupxSHc1Nrvk1OKkzO8"
+      },
+      "artists": [
+        {
+          "name": "Shook Twins",
+          "url": "https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i"
+        }
+      ],
+      "duration_ms": 230615,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/1X2NJ47sVg5ehgaPpukYqx"
     },
     {
       "added_at": "2024-07-05 18:47:06",

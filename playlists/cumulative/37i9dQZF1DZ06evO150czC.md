@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 28 min
+65 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Jesus Não Esqueceu de Você](https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:40 | 2023-07-09 |  |
 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 | 2023-07-09 |  |
 | [Job](https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Job](https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ) | 5:24 | 2023-07-09 |  |
+| [Jonas \(Ao Vivo\)](https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Jonas \(Ao Vivo\)](https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A) | 4:53 | 2024-12-08 |  |
 | [Jó](https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 5:11 | 2023-07-09 |  |
 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 | 2023-07-09 |  |
 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 | 2023-07-09 |  |

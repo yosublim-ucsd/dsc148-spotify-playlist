@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,843 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,864 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

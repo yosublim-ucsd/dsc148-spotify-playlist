@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Jonas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293426,
+      "name": "Jonas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ"
+    },
+    {
+      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > SCH au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,481 likes - 92 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,538 likes - 92 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 42 | [Médusa](https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR) | [Tengaïshy](https://open.spotify.com/artist/6wTUi3tBXJTcKthaaTTXzq), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Médusa](https://open.spotify.com/album/7JGiaywe8xuqIObJ44hETc) | 2:43 |
 | 43 | [Highlander](https://open.spotify.com/track/7e1DutTyWf1si4YSrjhr4G) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Highlander](https://open.spotify.com/album/5lCd70AMXy2SSJoZfOWoZ3) | 2:54 |
 | 44 | [pretty world](https://open.spotify.com/track/0ggicbzQ9CPvkFhW3CSkOr) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [pretty world](https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G) | 3:41 |
-| 45 | [Enfant doré](https://open.spotify.com/track/6XtHDeaIr1W6MhApPbaSGB) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa) | [Enfant doré](https://open.spotify.com/album/1cd2KrhoV5VhwAIrPI4Vlv) | 2:54 |
+| 45 | [Enfant doré](https://open.spotify.com/track/6XtHDeaIr1W6MhApPbaSGB) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Enfant doré](https://open.spotify.com/album/1cd2KrhoV5VhwAIrPI4Vlv) | 2:54 |
 | 46 | [White Bikes](https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [White Bikes](https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz) | 4:25 |
 | 47 | [Bless the Internet](https://open.spotify.com/track/6RGWdRv5ZZSHO7TqGrRAk5) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [tell me if the world is gonna end](https://open.spotify.com/album/5M6DBibWNDlicJ1mAsnK9C) | 2:44 |
 | 48 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 |

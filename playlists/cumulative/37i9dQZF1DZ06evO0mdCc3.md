@@ -4,7 +4,7 @@
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 52 min
+50 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,13 +49,14 @@
 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 | 2024-10-23 |  |
 | [Until the End](https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 4:13 | 2024-10-23 |  |
 | [Vultures](https://open.spotify.com/track/3FFLu7fSNyxsYNCFZnlj3Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:18 | 2024-10-23 |  |
-| [We Are Shadows](https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [We Are Shadows](https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3) | 3:35 | 2024-10-23 |  |
+| [We Are Shadows](https://open.spotify.com/track/13D1YvBHi5iW4f7ChMQ5Wq) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:35 | 2024-12-08 |  |
+| [We Are Shadows](https://open.spotify.com/track/6ykA2AhyjoTLOr3NGPrx1J) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [We Are Shadows](https://open.spotify.com/album/66HvNHY2hAekIj2vByK1a3) | 3:35 | 2024-10-23 | 2024-12-08 |
 | [We Are The Lamb](https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 | 2024-10-23 |  |
 | [What Have I Done?](https://open.spotify.com/track/3emGJN0Mc6vibbn50avynV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 5:25 | 2024-10-23 |  |
 | [What I Always Wanted](https://open.spotify.com/track/1MnJfqbZ4eVxswbtzFCh0O) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 3:43 | 2024-10-23 |  |
 | [Whisper Of Death](https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:18 | 2024-10-23 |  |
 | [Will To Live](https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:14 | 2024-10-23 |  |
 | [Witch Hunt](https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:58 | 2024-10-23 |  |
-| [Wound](https://open.spotify.com/track/2tU7gWGgnBWZCEtWa2CoAB) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 2:57 | 2024-10-23 |  |
+| [Wound](https://open.spotify.com/track/2tU7gWGgnBWZCEtWa2CoAB) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 2:57 | 2024-10-23 | 2024-12-08 |
 
 \*This playlist was first scraped on 2024-10-23. Prior content cannot be recovered.

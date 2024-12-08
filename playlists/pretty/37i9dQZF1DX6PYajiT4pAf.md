@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Bunny y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,879 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,940 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 34 | [Se amarra el pelo](https://open.spotify.com/track/3SLoa6SnGfBSiutm8WESef) | [Negra](https://open.spotify.com/artist/3VTDrqWjOgEPSLtojAqku3), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Se amarra el pelo](https://open.spotify.com/album/1ub5G91ob33g6v1zZOpNeH) | 3:39 |
 | 35 | [Ese Beso](https://open.spotify.com/track/1IRfZJq6prpHXM3HZFejb0) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Universo De Ley](https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN) | 3:19 |
 | 36 | [Tu soledad y la mía](https://open.spotify.com/track/5VhJQupZlIHHpHpySvDeKq) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Tu soledad y la mía](https://open.spotify.com/album/1If9UxsI36DvbPTQBFD3rU) | 3:32 |
-| 37 | [La Más Bella de España](https://open.spotify.com/track/0S5QHuAxlAX71e83MvijzG) | [Urichi El Son Cubano](https://open.spotify.com/artist/2sy2pUpCewbBZUFafAHrQB), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15) | [La Más Bella de España](https://open.spotify.com/album/03pOMJADQj7X25EgTWakbW) | 2:47 |
+| 37 | [La Más Bella de España](https://open.spotify.com/track/0S5QHuAxlAX71e83MvijzG) | [Urichi El Son Cubano](https://open.spotify.com/artist/2sy2pUpCewbBZUFafAHrQB), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI), [Miguelito de Alicante](https://open.spotify.com/artist/1xfMcICHKOdgMwJS3WH2c8) | [La Más Bella de España](https://open.spotify.com/album/03pOMJADQj7X25EgTWakbW) | 2:47 |
 | 38 | [Pego un Blon](https://open.spotify.com/track/39gunIju66Ena6NVIUlge6) | [El Bugg](https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Ess](https://open.spotify.com/artist/0nRYnTumOGj5qnhPKjV4Es) | [Pego un Blon](https://open.spotify.com/album/3E7mRDyEs5GrP7C39z6Jte) | 2:33 |
 | 39 | [De Donde Vengo](https://open.spotify.com/track/2R8BvlmiqolfY79r2rRzgJ) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [De Donde Vengo](https://open.spotify.com/album/3tqGlBtsGHgFgtKunxT4we) | 3:13 |
 | 40 | [Gaultier Freestyle](https://open.spotify.com/track/0zaJ8JjZ36BMnKFZ6D0l1g) | [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LO QUE NOS QUEDA DE GUAPOS](https://open.spotify.com/album/73YCxZFDNxY1N0Y2AwbecK) | 2:25 |

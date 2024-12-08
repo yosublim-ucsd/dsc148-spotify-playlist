@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: JMSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,344 likes - 163 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,745,327 likes - 163 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
+| 1 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 2 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
 | 3 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 4 | [One Of These](https://open.spotify.com/track/3SX7xiRjM8X2t5SmIU3aPQ) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 3:44 |

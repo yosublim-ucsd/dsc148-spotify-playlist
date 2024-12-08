@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Nsqk.
 
-837 songs - 1 day 21 hr 8 min
+838 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 | 2023-08-25 | 2023-09-30 |
 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 | 2024-08-16 |  |
 | [el sofá](https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [tenemos que quedar](https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4) | 3:11 | 2021-12-02 | 2022-10-28 |
+| [el vino y el tiempo](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 | 2024-12-06 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-08-23 |  |
 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 | 2022-10-27 | 2023-02-17 |
 | [Embruxo](https://open.spotify.com/track/7yWcEZPUf3aIZnfVnXZIXp) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Embruxo](https://open.spotify.com/album/6W1Z7t0GrYnMWZtdEH9K7y) | 3:09 | 2021-12-02 | 2022-01-25 |
@@ -381,7 +382,7 @@
 | [La Cumbia Del Cucuy](https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Cumbia Del Cucuy](https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1) | 2:15 | 2022-10-24 | 2023-02-17 |
 | [La Dosis](https://open.spotify.com/track/1whTkcaiWWR8HqWpgiN7XD) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [La Dosis](https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq) | 2:55 | 2023-12-01 | 2024-04-27 |
 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 | 2023-06-16 | 2023-08-26 |
-| [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 | 2024-09-13 |  |
+| [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 | 2024-09-13 | 2024-12-08 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-24 | 2022-05-26 |
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-06-08 |
 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 | 2024-03-22 | 2024-10-26 |

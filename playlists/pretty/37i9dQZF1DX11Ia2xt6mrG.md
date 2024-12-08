@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. RØZ en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,948 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,982 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 54 | [Porque La Demora](https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Porque La Demora](https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7) | 2:49 |
 | 55 | [MENTA](https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [MENTA](https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT) | 2:28 |
 | 56 | [lowkey](https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [lowkey](https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm) | 2:30 |
-| 57 | [SECUELAS](https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [SECUELAS](https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7) | 3:05 |
-| 58 | [Plata](https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0) | [J\. Cross](https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Plata](https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J) | 2:52 |
+| 57 | [Plata](https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0) | [J\. Cross](https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Plata](https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J) | 2:52 |
+| 58 | [SECUELAS](https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [SECUELAS](https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7) | 3:05 |
 | 59 | [Sombras](https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Sombras](https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF) | 5:51 |
 | 60 | [DIOSA </3](https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN) | [Nuvia](https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [DIOSA </3](https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw) | 2:44 |
 | 61 | [MÍRAME](https://open.spotify.com/track/07uTqdg648didHNLUqpVbc) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [MÍRAME](https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6) | 2:18 |

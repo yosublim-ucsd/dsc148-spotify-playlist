@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-2,122 songs - 4 day 23 hr 46 min
+2,122 songs - 4 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Afterglow](https://open.spotify.com/track/16Hipr5yWu4Skxei5kG6W2) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Afterglow](https://open.spotify.com/album/6uEm3lyHh00IvrZuDZDFKu) | 3:57 | 2024-03-15 | 2024-04-13 |
 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 | 2024-08-23 | 2024-09-14 |
 | [Ain't Giving Up](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Ain’t Giving Up](https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw) | 3:11 | 2024-08-16 | 2024-09-07 |
-| [Ain't No Joke](https://open.spotify.com/track/08Evky1lFugCPGK8pk7QQg) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Ain't No Joke](https://open.spotify.com/album/1x22QXZrQBG3r1F5YGb0vc) | 3:15 | 2024-12-06 |  |
+| [Ain't No Joke](https://open.spotify.com/track/08Evky1lFugCPGK8pk7QQg) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Ain't No Joke](https://open.spotify.com/album/1x22QXZrQBG3r1F5YGb0vc) | 2:19 | 2024-12-06 |  |
 | [Alaska](https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Alaska](https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh) | 4:08 | 2024-07-05 | 2024-08-03 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-12 | 2024-02-10 |
 | [Alien Communication](https://open.spotify.com/track/5l5eTWEYoBllCByeF4Zjwt) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Alien Communication](https://open.spotify.com/album/0UNMmzWR7e7Ulh1P6tkQJq) | 5:03 | 2024-02-16 | 2024-03-16 |
@@ -1465,7 +1465,7 @@
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-02 | 2024-03-02 |
 | [Promises \- Lunice Remix](https://open.spotify.com/track/3I96gEBAK8K1o3EosYYZiI) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Promises \(Lunice Remix\)](https://open.spotify.com/album/6EX5hCV3yGu4oV9y1SazhP) | 3:14 | 2023-11-17 | 2023-12-16 |
 | [Propane](https://open.spotify.com/track/0jsAbjloXD3lriMKzOs0rZ) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Propane](https://open.spotify.com/album/2OEb0RlBCD4D0sC1LX1VuC) | 5:18 | 2024-12-06 |  |
-| [protection](https://open.spotify.com/track/6hu3D2E062NCE7k1m9Vdgb) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [protection](https://open.spotify.com/album/0y5sdBVvfGVlDUysSpPAPI) | 3:36 | 2024-12-06 |  |
+| [protection](https://open.spotify.com/track/6hu3D2E062NCE7k1m9Vdgb) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [protection](https://open.spotify.com/album/0y5sdBVvfGVlDUysSpPAPI) | 3:38 | 2024-12-06 |  |
 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-08-02 | 2024-08-31 |
 | [PROXIMATE](https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [X1\-Y2](https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R) | [NOVUS](https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83) | 2:59 | 2024-10-18 | 2024-11-16 |
 | [Psychosis](https://open.spotify.com/track/2VTpMLEAkRwy1fpokBElm6) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Psychosis](https://open.spotify.com/album/3LjPEsUdZeRAVxTBjdgm5z) | 4:02 | 2024-02-16 | 2024-03-16 |

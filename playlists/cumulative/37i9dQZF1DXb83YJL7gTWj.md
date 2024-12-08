@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-329 songs - 19 hr 28 min
+330 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 | 2021-11-05 | 2023-07-18 |
 | [Better Place](https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 2:56 | 2022-02-11 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-11-05 |  |
+| [Bizarre Love Triangle](https://open.spotify.com/track/1mu2GRCsfljNzuPY0KFPay) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Bizarre Love Triangle](https://open.spotify.com/album/2h6iVonhyyWxdLe3My7OP3) | 3:09 | 2024-12-06 |  |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-31 |  |
 | [Blue Dress](https://open.spotify.com/track/45BY5vUlKxgvBma3P9bHlv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [With Love From](https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r) | 4:08 | 2023-04-14 | 2023-06-26 |
 | [Boxes](https://open.spotify.com/track/0fz7chmZCjFLLwW8n1g1DZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes](https://open.spotify.com/album/322ibWsVZQuqlXPtyMWOZM) | 2:48 | 2021-11-05 | 2022-07-29 |
@@ -251,7 +252,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-08-04 |  |
 | [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-08 | 2023-06-03 |
 | [Soldiers](https://open.spotify.com/track/7BwuuLN0Fcvd8OSMFw4cd9) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Soldiers](https://open.spotify.com/album/5Ec2cine5I7z9tUjKnqyhC) | 3:01 | 2021-11-05 | 2022-07-29 |
-| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-12-01 |  |
+| [Solo](https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV) | 3:19 | 2023-12-01 | 2024-12-08 |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-09 | 2024-04-19 |
 | [Somebody \(Acoustic\)](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 | 2022-03-18 |  |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-05 | 2023-04-25 |

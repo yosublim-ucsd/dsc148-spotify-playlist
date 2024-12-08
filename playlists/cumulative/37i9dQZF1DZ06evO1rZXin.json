@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Para Esta Navidad",
+        "url": "https://open.spotify.com/album/0GB089Tg765PRyxkWn8CJ5"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132600,
+      "name": "Para Esta Navidad",
+      "url": "https://open.spotify.com/track/5D61K2v7OaE0J5Uv3boWrN"
+    },
+    {
+      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR"
       },

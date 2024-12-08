@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAD/EvAfKgrHVsCfWdyJIqV",
+  "snapshot_id": "Z1I+gAAAAACzsRgobQAT0CDKbQneWi2J",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "One of Quan",
-      "url": "https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216613,
       "name": "I Heard (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7p9i63OhLwIPAEWILdPZho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "One of Quan",
+      "url": "https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touch Down 2 Cause Hell",
         "url": "https://open.spotify.com/album/6Wa9UU70x85ldCo4aeYD2N"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 267586,
       "name": "Like a Man (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 197720,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Quicktrip",
-          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Wyb Quan",
-      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Quicktrip",
+          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Wyb Quan",
+      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 114385,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Even Score",
-      "url": "https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 210409,
       "name": "Stressed",
       "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Even Score",
+      "url": "https://open.spotify.com/track/3mmnnExzhdnzfMXwoydHfY"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Authentic (feat. Clever)",
-        "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Clever",
-          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
-        },
-        {
-          "name": "Matt Monaco",
-          "url": "https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Authentic (feat. Clever)",
-      "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sinning",
         "url": "https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 144023,
       "name": "Krazy",
       "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Authentic (feat. Clever)",
+        "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Clever",
+          "url": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+        },
+        {
+          "name": "Matt Monaco",
+          "url": "https://open.spotify.com/artist/5HNAKwy6K9OwZO1zkO6vax"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Authentic (feat. Clever)",
+      "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
     },
     {
       "added_at": null,

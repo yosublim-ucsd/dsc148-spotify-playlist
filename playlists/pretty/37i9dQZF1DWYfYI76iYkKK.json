@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127677,
+  "num_followers": 127694,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
+        "name": "Hai Cheng",
+        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Hai Cheng",
+      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
+    },
+    {
+      "added_at": "2024-12-05 16:00:00",
+      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
-    },
-    {
-      "added_at": "2024-12-05 16:00:00",
-      "album": {
-        "name": "Hai Cheng",
-        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
-      },
-      "artists": [
-        {
-          "name": "THE 8",
-          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Hai Cheng",
-      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
     },
     {
       "added_at": "2024-12-05 16:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
-        "name": "\u96d9\u751f\u706b\u7130",
-        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 305013,
-      "name": "\u6c89\u9ed8",
-      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
-    },
-    {
-      "added_at": "2024-12-05 16:00:00",
-      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
+    },
+    {
+      "added_at": "2024-12-05 16:00:00",
+      "album": {
+        "name": "\u96d9\u751f\u706b\u7130",
+        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 305013,
+      "name": "\u6c89\u9ed8",
+      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
     },
     {
       "added_at": "2024-12-05 16:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
+        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+    },
+    {
+      "added_at": "2024-12-05 16:00:00",
+      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2024-12-05 16:00:00",
-      "album": {
-        "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
     },
     {
       "added_at": "2024-12-05 16:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
       },
       "artists": [
         {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
         }
       ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+      "duration_ms": 240285,
+      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
+      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
     },
     {
       "added_at": "2024-12-05 16:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2024-12-05 16:00:00",
+      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 310933,
       "name": "\u966a\u8457\u4f60",
       "url": "https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1"
-    },
-    {
-      "added_at": "2024-12-05 16:00:00",
-      "album": {
-        "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-        "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
-      "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
     },
     {
       "added_at": "2024-12-05 16:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-12-05 16:00:00",
       "album": {
-        "name": "\u5ef6\u9072\u7684\u7406\u60f3",
-        "url": "https://open.spotify.com/album/0WsnhVeZSK7eAcOrwYGTil"
+        "name": "\u6211\u7684\u96f7\u96e8\u5b63\u96fb\u53f0",
+        "url": "https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1"
       },
       "artists": [
         {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+          "name": "\u7f85\u8a00",
+          "url": "https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf"
         }
       ],
-      "duration_ms": 232028,
-      "name": "\u5ef6\u9072\u7684\u7406\u60f3",
-      "url": "https://open.spotify.com/track/2Iq9fen8bWsR9eVMQqGNVV"
+      "duration_ms": 162653,
+      "name": "\u5f8c\u8996\u93e1",
+      "url": "https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

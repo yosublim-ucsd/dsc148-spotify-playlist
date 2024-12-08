@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il top dello street rap italiano 🔥 Cover: Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,114 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,166 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 7 | [500K](https://open.spotify.com/track/4oLUnSRNwFhnKj8TkSbCFp) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Murad](https://open.spotify.com/artist/7EzXR09A6dIhmZOVsAGdkV) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:36 |
 | 8 | [SPENDERE \(feat\. Simba La Rue\)](https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:04 |
 | 9 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
-| 10 | [Codeine](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 |
+| 10 | [Codeine \(feat\. ANNA\)](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 |
 | 11 | [Tu Me Quieres \- Prod\. by Higashi x Roberto Ferrante](https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Tu Me Quieres](https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF) | 3:34 |
 | 12 | [MOCRO SCHOOL \(feat\. Yunes LaGrintaa, Hani, Kassimi\)](https://open.spotify.com/track/0fsWQEJigMTXNrLKq179Y4) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [N.47](https://open.spotify.com/album/4eIDWt7ND4Dq8e5IrLcD3e) | 4:37 |
 | 13 | [Vis a Vis](https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [wherestheplug](https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K) | [Vis a Vis](https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz) | 2:27 |

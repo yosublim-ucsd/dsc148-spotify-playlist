@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano\. 🍹
 
-410 songs - 1 day 3 hr 40 min
+411 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 | 2024-07-26 |  |
 | [Somebody Else](https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP) | [Zonoma](https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH), [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Somebody Else](https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB) | 3:20 | 2021-08-05 | 2023-05-31 |
 | [Someday \- salute Remix](https://open.spotify.com/track/0cVdMdtrHdCuHQBWjzvQed) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [MIRRORS \(REMIXED\)](https://open.spotify.com/album/3vd7dqateXRTskHSU2CT0v) | 4:49 | 2023-10-30 | 2024-06-07 |
-| [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 | 2023-05-30 |  |
+| [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 | 2023-05-30 | 2024-12-08 |
 | [Sometimes](https://open.spotify.com/track/04C4hilfrfIkaPiUNqWNox) | [Olivier Verhaeghe](https://open.spotify.com/artist/5ByRyadFsiEijaFBYlNxLs) | [Horchata](https://open.spotify.com/album/5iXzOVCrsnRMlZF7YBPMqh) | 5:22 | 2023-08-11 | 2024-07-09 |
 | [Sooner Or Later](https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Sooner Or Later](https://open.spotify.com/album/0cqf7LPBl6kQqNOcCjciky) | 2:52 | 2021-08-05 | 2023-05-31 |
 | [Starry Night \- Edit](https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie) | 3:53 | 2023-05-30 | 2023-11-05 |
@@ -393,6 +393,7 @@
 | [Volare \(Nel Blu di Pinto di Blu\)](https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaïque](https://open.spotify.com/album/4bnWDBDMEsDvwObwZnMngr) | 3:38 | 2024-05-19 | 2024-06-03 |
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2021-08-05 | 2023-05-31 |
 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 | 2023-05-30 |  |
+| [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-12-05 |  |
 | [Walking On A Dream](https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 3:18 | 2023-10-20 | 2024-01-27 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-06-22 | 2023-10-27 |
 | [Wap\-Bam\-Boogie](https://open.spotify.com/track/5qQgHAGv8IVlawD9dypc1b) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb) | [Indigo \(Expanded\)](https://open.spotify.com/album/5WSFIeMmLU0okGEKsuxPQ4) | 7:32 | 2024-05-19 | 2024-06-03 |

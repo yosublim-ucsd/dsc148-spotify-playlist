@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze utwory Fresh Finds Polska w 2024 według naszej redakcji\. Cover:  Zuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,727 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,750 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

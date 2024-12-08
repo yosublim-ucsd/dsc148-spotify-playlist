@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Bellakath, El Malilla, El Bogueto, Andr\u00e9s Castillo, La Dinast\u00eda, Riky Produce .",
-  "num_followers": 466122,
+  "num_followers": 466136,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
+        "name": "Qui\u00e9n es Dei V?",
+        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Trending Remix (with Myke Towers)",
+      "url": "https://open.spotify.com/track/6LB49nISRDX9hK0d28SfY1"
+    },
+    {
+      "added_at": "2024-12-06 04:59:00",
+      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2024-12-06 04:59:00",
-      "album": {
-        "name": "Qui\u00e9n es Dei V?",
-        "url": "https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Trending Remix (with Myke Towers)",
-      "url": "https://open.spotify.com/track/6LB49nISRDX9hK0d28SfY1"
     },
     {
       "added_at": "2024-12-06 04:59:00",
@@ -1307,26 +1307,26 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+        "name": "SEXOLANDIA",
+        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
         },
         {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+      "duration_ms": 197830,
+      "name": "BEIBY - Remix",
+      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
     },
     {
       "added_at": "2024-12-06 04:59:00",
@@ -1395,26 +1395,26 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
-        "name": "SEXOLANDIA",
-        "url": "https://open.spotify.com/album/4C9A9KE0IkN1tKdgzeUsCV"
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
         },
         {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
         }
       ],
-      "duration_ms": 197830,
-      "name": "BEIBY - Remix",
-      "url": "https://open.spotify.com/track/4HCtPbPSpUWCs96j8pcHBP"
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2024-12-06 04:59:00",
@@ -1911,6 +1911,30 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
+        "name": "Comerte a Besos (Remix)",
+        "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "elkno",
+          "url": "https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 240916,
+      "name": "Comerte a Besos - Remix",
+      "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
+    },
+    {
+      "added_at": "2024-12-06 04:59:00",
+      "album": {
         "name": "El Clavo (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/6pNMBUiyQfqtRMceyAy7i5"
       },
@@ -2003,30 +2027,6 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
-        "name": "Comerte a Besos (Remix)",
-        "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "elkno",
-          "url": "https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 240916,
-      "name": "Comerte a Besos - Remix",
-      "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
-    },
-    {
-      "added_at": "2024-12-06 04:59:00",
-      "album": {
         "name": "Palabras Sobran (Remix)",
         "url": "https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9"
       },
@@ -2075,6 +2075,46 @@
     {
       "added_at": "2024-12-06 04:59:00",
       "album": {
+        "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
+        "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ],
+      "duration_ms": 382555,
+      "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
+      "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
+    },
+    {
+      "added_at": "2024-12-06 04:59:00",
+      "album": {
         "name": "Haw\u00e1i (Remix)",
         "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
       },
@@ -2091,30 +2131,6 @@
       "duration_ms": 200481,
       "name": "Haw\u00e1i - Remix",
       "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
-    },
-    {
-      "added_at": "2024-12-06 04:59:00",
-      "album": {
-        "name": "Caramelo (Remix)",
-        "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Caramelo - Remix",
-      "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
     }
   ],
   "unique_name": "Remixes Urbanos",

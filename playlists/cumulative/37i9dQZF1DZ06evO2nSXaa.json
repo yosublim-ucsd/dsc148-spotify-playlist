@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "2 hands (Don Diablo remix)",
+        "url": "https://open.spotify.com/album/1UZoBhJ0ytxZrDPMs9xHTM"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "2 hands - Don Diablo remix",
+      "url": "https://open.spotify.com/track/1y8vNextjCzt568k6cHAjx"
+    },
+    {
+      "album": {
         "name": "all my friends are fake",
         "url": "https://open.spotify.com/album/5GkbbASoBvM6k56j1l9bwX"
       },

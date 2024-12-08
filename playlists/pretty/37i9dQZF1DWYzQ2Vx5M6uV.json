@@ -1,6 +1,6 @@
 {
   "description": "Heat that will make you sweat \ud83e\udd75 Cover: Be\u00e9le",
-  "num_followers": 123026,
+  "num_followers": 123052,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 216146,
       "name": "A Veces A Besos - Remix",
       "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A POCA LUZ",
-        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "A POCA LUZ",
-      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -583,38 +563,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Somos 3",
-        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 165545,
-      "name": "Somos 3",
-      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 173529,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -635,6 +599,42 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/6izmkq2r6t3yT7mCvSHQQ0"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 173529,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/65oSp7rdpLddlRGUgogU24"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Todita",
-        "url": "https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu"
-      },
-      "artists": [
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        },
-        {
-          "name": "Slow Mike",
-          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Todita",
-      "url": "https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/7fxoiLhdWnKxOniIaN1IPn"
       },
@@ -959,6 +939,46 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Todita",
+        "url": "https://open.spotify.com/album/3quRxkjMD9fgBFYx6vUzmu"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        },
+        {
+          "name": "Slow Mike",
+          "url": "https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Todita",
+      "url": "https://open.spotify.com/track/4Y4OXbfuGrLkGyeqtou0jc"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 187269,
       "name": "Rollercoaster (feat. J Balvin)",
       "url": "https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
     }
   ],
   "unique_name": "Afro Ritmo",

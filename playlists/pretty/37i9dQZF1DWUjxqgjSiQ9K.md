@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Alex Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,032 likes - 100 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,099 likes - 100 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 39 | [Salento](https://open.spotify.com/track/7qSEAGqvs9ZLKpM1kcw6ui) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Lee Vasi](https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf) | [Salento](https://open.spotify.com/album/6zimYDDblEO4RVRVvRetGL) | 3:09 |
 | 40 | [Quién Más \- Live](https://open.spotify.com/track/1D1YTMxa3k1GMyLjB9etvI) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Quién Más \(Live\)](https://open.spotify.com/album/4Ue61NSN8wZj6KD5gHdtKu) | 5:29 |
 | 41 | [Asombro](https://open.spotify.com/track/4U6oEggTon4GMdnn2DE6l0) | [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A), [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Asombro](https://open.spotify.com/album/6DZOHCZBZ1AS22mBDtZsyA) | 4:16 |
-| 42 | [Reverência](https://open.spotify.com/track/2UFJzVWa6KR6fGHQWMUnEs) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Reverência](https://open.spotify.com/album/45uM5B2CygJtkJbOITfJDW) | 7:09 |
+| 42 | [Reverência](https://open.spotify.com/track/2UFJzVWa6KR6fGHQWMUnEs) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Reverência](https://open.spotify.com/album/45uM5B2CygJtkJbOITfJDW) | 7:05 |
 | 43 | [Lo tengo todo en ti \- En Vivo](https://open.spotify.com/track/3N8fdyXhkqu77NsACuAObN) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [CONCIERTO TIENES EL CONTROL \(En Vivo\)](https://open.spotify.com/album/4xnhkR5TkhW1i0Jd5tiTH6) | 4:32 |
 | 44 | [Toda lengua y toda nación](https://open.spotify.com/track/7peTmtAnLDHaraSDxe2tS4) | [TOMATULUGAR](https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Jan Earle](https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N) | [Toda lengua y toda nación](https://open.spotify.com/album/7lD9VJb44DRilryE9jY0ys) | 7:06 |
 | 45 | [tu versión](https://open.spotify.com/track/7ycbXuqeHFzry9nEzDFW1X) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [OTRAS ESFERAS](https://open.spotify.com/album/7vSWie9r3i3fVSbfNdqMWY) | 2:21 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 204666,
       "name": "\"Roses\"",
       "url": "https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V"
@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 200800,
       "name": "Fields",
       "url": "https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya"
@@ -19285,6 +19285,24 @@
     },
     {
       "album": {
+        "name": "she want prada",
+        "url": "https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "she want prada",
+      "url": "https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs"
+    },
+    {
+      "album": {
         "name": "She'll Be OK",
         "url": "https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg"
       },
@@ -20678,6 +20696,24 @@
       "duration_ms": 269008,
       "name": "Still Blue (feat. JGrrey)",
       "url": "https://open.spotify.com/track/7cjIiu3XZSz7tubqWkWojH"
+    },
+    {
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "album": {

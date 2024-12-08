@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 703636,
+  "num_followers": 703747,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 287066,
-      "name": "Land of Confusion",
-      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 192600,
       "name": "...Baby One More Time (from Kung Fu Panda 4)",
       "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 287066,
+      "name": "Land of Confusion",
+      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Jesus He Knows Me",
         "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
       },
@@ -611,6 +627,26 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Black Haired Girl",
+        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Black Haired Girl",
+      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w"
       },
@@ -643,42 +679,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Black Haired Girl",
-        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Black Haired Girl",
-      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 165000,
       "name": "Waiting For Love - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 218354,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 187189,
       "name": "BE QUIET AND DRIVE (FAR AWAY)",
       "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1851,22 +1851,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "White Room (feat. Jacoby Shaddix)",
-        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 245757,
-      "name": "White Room (feat. Jacoby Shaddix)",
-      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
+      "duration_ms": 302736,
+      "name": "Creep - Spotify Singles",
+      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1891,18 +1887,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4"
+        "name": "White Room (feat. Jacoby Shaddix)",
+        "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 302736,
-      "name": "Creep - Spotify Singles",
-      "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+      "duration_ms": 245757,
+      "name": "White Room (feat. Jacoby Shaddix)",
+      "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "We Are The Champions/We Will Rock You",
-        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231887,
-      "name": "We Are The Champions/We Will Rock You",
-      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "War Pigs",
         "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 309888,
       "name": "War Pigs",
       "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "We Are The Champions/We Will Rock You",
+        "url": "https://open.spotify.com/album/3KdcKmGcb0ICBH939ttbTX"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 231887,
+      "name": "We Are The Champions/We Will Rock You",
+      "url": "https://open.spotify.com/track/1OIa6nm7DoivdwKrb1ff5S"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 262967,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 211019,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 262967,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Bellamy",
-          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Free Rein to Passions (Deluxe)",
         "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 130397,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        }
+      ],
+      "duration_ms": 195345,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
     },
     {
       "added_at": "2024-11-08 21:08:22",

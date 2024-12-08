@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,040 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,045 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 13 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
 | 14 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
 | 15 | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm) | 3:25 |
-| 16 | [Si Te Busco](https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Balas De Bebé \(Y Otras Canciones De Cuna\)](https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK) | 3:56 |
-| 17 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
+| 16 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
+| 17 | [Si Te Busco](https://open.spotify.com/track/4OfWUGEFIOKGrHVaN4SzAh) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Balas De Bebé \(Y Otras Canciones De Cuna\)](https://open.spotify.com/album/2BWUhwSn6GXNjCfKdMF9cK) | 3:56 |
 | 18 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 19 | [Pérdida Total](https://open.spotify.com/track/26abPP7GXhg0WrV3orLtpP) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:33 |
 | 20 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 56 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 57 | [Cisne](https://open.spotify.com/track/3HEjxQXUOFV8cWLaGDR27g) | [V for Volume](https://open.spotify.com/artist/2Sgo9dXRK6VKbAAMhmb3Zz) | [Cisne](https://open.spotify.com/album/7f7pQzEZjRdDZZDEtqWgl3) | 2:34 |
 | 58 | [This Is War](https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [This Is War](https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd) | 3:46 |
-| 59 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
-| 60 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
+| 59 | [Eres Tú](https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Eres Tú](https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx) | 3:27 |
+| 60 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
 
 Snapshot ID: `Zwi6lQAAAABVR9GAf+WUbz4p0YQZik1k`

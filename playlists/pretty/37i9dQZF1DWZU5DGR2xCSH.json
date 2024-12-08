@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1141852,
+  "num_followers": 1141875,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Necesito",
-      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 206240,
       "name": "Milonga del marinero y el capit\u00e1n",
       "url": "https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Necesito",
+      "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
-      },
-      "artists": [
-        {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "La Mam\u00e1 de Jimmy",
-      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Treinta Minutos de Vida",
         "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 174973,
       "name": "El Oso",
       "url": "https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
+      },
+      "artists": [
+        {
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        }
+      ],
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Treinta Minutos de Vida",
         "url": "https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 130213,
       "name": "Ayer Nom\u00e1s",
       "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
-        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
-      },
-      "artists": [
-        {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
-        }
-      ],
-      "duration_ms": 380933,
-      "name": "Desconf\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
       "added_at": "2024-11-11 16:58:11",

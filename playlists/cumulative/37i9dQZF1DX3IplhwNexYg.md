@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Fat Dog
 
-641 songs - 1 day 12 hr 4 min
+642 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-04-12 | 2024-07-15 |
 | [Bucket](https://open.spotify.com/track/0JG0YbmFnSDZtLfkM89zTf) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Bucket](https://open.spotify.com/album/3m9D0jKVo6ePClPxHnaPKS) | 2:59 | 2024-03-15 | 2024-06-23 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2024-12-06 |  |
-| [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-12 |  |
+| [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-12 | 2024-12-08 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-10 |  |
 | [Can't Do Anything](https://open.spotify.com/track/0XhYsNRgZkCDmvdKS5pd5k) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Can't Do Anything](https://open.spotify.com/album/64S1U9gVicwqHcggv5oZJx) | 2:44 | 2023-07-21 | 2023-08-20 |
 | [Can't Get In](https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Can't Get In](https://open.spotify.com/album/13Ww6VJNr0lIkBQ2KAgpqB) | 2:41 | 2022-10-13 | 2023-07-22 |
@@ -415,6 +415,7 @@
 | [Only Good Things](https://open.spotify.com/track/4jAuXYgRTt64vVRFQnHuzt) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Only Good Things](https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt) | 3:15 | 2022-08-18 | 2023-02-06 |
 | [Only Me](https://open.spotify.com/track/5HnAp1NqTJlGVkYWOIVchp) | [Hilma Nikolaisen](https://open.spotify.com/artist/13KN5sIVb9i5L9fDxa3CdZ) | [Only Me](https://open.spotify.com/album/45bexRxIgTFFf0JtsurKke) | 4:25 | 2021-03-09 | 2022-01-17 |
 | [Onward](https://open.spotify.com/track/6LxqraiUfqeViP5BsTVCP6) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 6:01 | 2023-10-26 | 2023-12-07 |
+| [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-06 |  |
 | [Or Durves](https://open.spotify.com/track/52Jdjv3m2QrXK94MgupDza) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Or Durves](https://open.spotify.com/album/6ixqkqbhv6oF0bqBYnQHRO) | 2:02 | 2021-06-04 | 2022-08-19 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-06 | 2023-03-03 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-13 | 2023-05-26 |

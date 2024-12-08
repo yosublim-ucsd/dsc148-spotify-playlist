@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Editor's picks from Fresh Finds Singapore & Malaysia in 2024\. Cover: HOWE\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,747 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 |
 | 2 | [Sleeping Issues](https://open.spotify.com/track/5Xlrs3PoyDxPXCuoD2mcvu) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Sleeping Issues](https://open.spotify.com/album/3bqQjnvAmhUKI2wbDsz3Ew) | 3:49 |
-| 3 | [matters of the heart](https://open.spotify.com/track/3oxyNDng9iiFvEVY2oVNah) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 3:24 |
+| 3 | [matters of the heart](https://open.spotify.com/track/3oxyNDng9iiFvEVY2oVNah) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine](https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY) | 3:24 |
 | 4 | [Circus](https://open.spotify.com/track/4781XkXxJngw9YjlKJ21e9) | [LANA](https://open.spotify.com/artist/23IETu4hBOXIXr59a48DMi), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Circus](https://open.spotify.com/album/6xwGU2bbSKlzBXp4Xdl4Te) | 3:15 |
 | 5 | [Say It To Me](https://open.spotify.com/track/4xqAkspzpzzt9R1LoUxVaz) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Say It To Me](https://open.spotify.com/album/4XlTKLTfPrXvgnfizBtkbE) | 2:54 |
 | 6 | [Outta My Mind](https://open.spotify.com/track/5m5ZqwkHyeByNHFhTczqkt) | [Aini Mazalan](https://open.spotify.com/artist/3mfDuM7MO7MWAfFID5ecai) | [Outta My Mind](https://open.spotify.com/album/0yDJYWBNXKqtwlah6357qT) | 3:21 |

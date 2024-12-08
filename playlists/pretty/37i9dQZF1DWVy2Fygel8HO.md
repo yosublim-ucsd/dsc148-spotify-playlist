@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,790 likes - 134 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,844 likes - 134 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

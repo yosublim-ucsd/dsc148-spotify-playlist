@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,102 songs - 11 day 5 hr 14 min
+7,103 songs - 11 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,7 +1342,7 @@
 | [Corner Store Snacks](https://open.spotify.com/track/7taBGYW3aZiGQb6HTtHSyq) | [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn) | [Corner Store Snacks](https://open.spotify.com/album/7LPhUkYAYP6hGdpqL2ebAD) | 2:17 | 2023-12-15 |  |
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-19 | 2022-08-19 |
 | [Cornerstone](https://open.spotify.com/track/7AhuBIZcgICxPKWHGWPvRU) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Cornerstone](https://open.spotify.com/album/63uMc211thP27HfNYHzXtP) | 2:32 | 2023-02-07 | 2023-05-04 |
-| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 |  |
+| [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 | 2024-12-08 |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-25 | 2022-07-29 |
 | [Cosmic](https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6JzHt9BdyxwocZv8BgxtW6) | 2:17 | 2023-04-05 | 2023-11-11 |
 | [Cosmic](https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Cosmic](https://open.spotify.com/album/4mVxF5UETtnYh3DYYfEdTt) | 2:17 | 2024-11-29 |  |
@@ -1394,6 +1394,7 @@
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 | 2022-07-22 |
 | [Crescent](https://open.spotify.com/track/7oBjP02qAHgXYvFCVH9VIs) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Murmurs](https://open.spotify.com/album/2FfHrppZXayvIrqaYeTtbI) | 2:23 | 2022-05-27 | 2022-09-16 |
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-11-05 | 2022-06-03 |
+| [Crestfallen](https://open.spotify.com/track/68hLSA41wxIcMueRmN7tem) | [Kyola](https://open.spotify.com/artist/301wYjdgUExDcZTEre9dw8), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [luffmoor](https://open.spotify.com/artist/0RRp7Ako9aGQ1RjnP7PC6w) | [Crestfallen](https://open.spotify.com/album/5NpAqslL5QxNeWDlI6pyW6) | 2:35 | 2024-12-06 |  |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Les Jardíns](https://open.spotify.com/artist/1KmgcJvdi7bqvZMrCr9z8a) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 |  |
 | [Crispy Clouds](https://open.spotify.com/track/4aocuOYi95rQqZNIZt5qtK) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Crispy Clouds](https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR) | 2:00 | 2022-07-29 | 2022-11-11 |
@@ -4039,7 +4040,7 @@
 | [Moonshine](https://open.spotify.com/track/7vGvapVSzHd9JAVQpWrVr0) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [Moonshine](https://open.spotify.com/album/2dLDylI3cinzFN1Xlfxjxx) | 2:51 | 2021-08-29 | 2022-03-21 |
 | [Moonshine Plaza](https://open.spotify.com/track/0eV0GhobQSqR4K0DQQQ3mH) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2022-06-10 | 2022-09-30 |
 | [Moonwake](https://open.spotify.com/track/4L9Mh0etZXTjvS3YdZW0Ka) | [Cherry Vans](https://open.spotify.com/artist/1TAqi3mSEZKy6tE4phpnJo) | [Moonwake](https://open.spotify.com/album/0BqlxyjuQpMrAijorHIolB) | 2:54 | 2023-02-21 | 2023-03-18 |
-| [Moradia](https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Moradia](https://open.spotify.com/album/4tVHSfSB1xUUxm77D9Ym6n) | 2:47 | 2023-10-20 | 2024-11-27 |
+| [Moradia](https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Moradia](https://open.spotify.com/album/4tVHSfSB1xUUxm77D9Ym6n) | 2:47 | 2023-10-20 |  |
 | [More Love](https://open.spotify.com/track/5OQn5iK9axhAhxx4tDkChX) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Letters From The Heart](https://open.spotify.com/album/2wGJNm55yZvms7WUGDaOzG) | 2:18 | 2023-04-27 | 2023-09-30 |
 | [More Than This](https://open.spotify.com/track/44jMRNYa2UvNX327NHQguc) | [Mike Gusavo](https://open.spotify.com/artist/60qzkDytnh2qZYqMC890qv) | [More Than This](https://open.spotify.com/album/50DX1IxwzOZyCmoBgWYbfN) | 2:38 | 2022-09-16 | 2023-02-28 |
 | [More Time](https://open.spotify.com/track/2Tgv0ulhEINEmtJ1Blh0lO) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [No Time](https://open.spotify.com/album/63T6Lnrl85HcUHjC9OP8u3) | 3:47 | 2020-10-24 | 2021-10-20 |
@@ -5421,7 +5422,7 @@
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-27 | 2020-05-09 |
 | [silk umbrella](https://open.spotify.com/track/6AGzhBwJugJ1koUC5PcVcM) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [silk umbrella](https://open.spotify.com/album/1SSIOoSuWglZbaZ0S266Nt) | 1:46 | 2022-01-14 | 2022-09-02 |
 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 | 2022-10-14 | 2022-12-16 |
-| [Silly Spooles](https://open.spotify.com/track/6VzShi66jALkxxTgCCCspZ) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Silly Spooles](https://open.spotify.com/album/3IUPS6nSFKwtX0ozQokG4X) | 1:21 | 2024-03-01 |  |
+| [Silly Spooles](https://open.spotify.com/track/6VzShi66jALkxxTgCCCspZ) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Silly Spooles](https://open.spotify.com/album/3IUPS6nSFKwtX0ozQokG4X) | 1:21 | 2024-03-01 | 2024-12-08 |
 | [Silver Apples](https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Silver Apples](https://open.spotify.com/album/1DYLoZR6lw0hzv1hqbqFJD) | 1:50 | 2024-04-12 |  |
 | [Silver Birch](https://open.spotify.com/track/3ONIRhoRyimzjiW2W8PjtB) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Silver Birch](https://open.spotify.com/album/6aTbjQPDKcheugJicJpIf9) | 2:16 | 2023-02-27 | 2023-06-08 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |

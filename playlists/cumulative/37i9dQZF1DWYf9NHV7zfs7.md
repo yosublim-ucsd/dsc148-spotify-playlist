@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Ainda & Leiva.
 
-314 songs - 16 hr 57 min
+315 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2023-10-23 |  |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG) | 4:10 | 2023-11-24 | 2024-03-02 |
 | [Mi Primer Amor](https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor](https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj) | 3:08 | 2024-10-25 | 2024-12-07 |
-| [Mil Horas](https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mil Horas](https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn) | 3:00 | 2024-05-10 |  |
+| [Mil Horas](https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mil Horas](https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn) | 3:00 | 2024-05-10 | 2024-12-08 |
 | [Mil kilos de cemento](https://open.spotify.com/track/4SP1I6C4cf2FoMP2yt5csV) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Mil kilos de cemento](https://open.spotify.com/album/2mimbHNjpzkHr4vZlAp2Xz) | 3:00 | 2024-08-16 | 2024-08-24 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2023-07-14 | 2023-10-24 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-07-14 | 2023-10-24 |
@@ -242,6 +242,7 @@
 | [Por Segunda Vez](https://open.spotify.com/track/0V5W6b9lMaW1QijnTUxl76) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Por Segunda Vez](https://open.spotify.com/album/6k6CYagE7PFxVEaeqhUBZx) | 3:02 | 2023-12-07 | 2024-03-09 |
 | [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 | 2024-04-05 | 2024-12-07 |
 | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/track/21Vr8nLZHhXETZItj0IeJS) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/album/146vpPZNzlfTEVNEE1xCNw) | 2:35 | 2024-10-25 |  |
+| [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 | 2024-12-06 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-07-14 | 2023-10-24 |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2023-10-23 | 2023-11-11 |
 | [Póstumo](https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Póstumo](https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ) | 3:34 | 2024-05-24 | 2024-08-29 |

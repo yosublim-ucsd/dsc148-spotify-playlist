@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 50682,
+  "num_followers": 50718,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 250398,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Begin",
-        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
       "artists": [
         {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Treat Me Like Fire",
-      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+      "duration_ms": 195293,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+      "duration_ms": 250706,
+      "name": "Treat Me Like Fire",
+      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Odyssey / Sonne",
         "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 290201,
       "name": "Recovery",
       "url": "https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
       "artists": [
         {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 117967,
       "name": "Can't See What Is Burning There - Mixed",
       "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 431520,
-      "name": "Get Innocuous!",
-      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Simmer Down",
         "url": "https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
         }
       ],
-      "duration_ms": 245585,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
+      "duration_ms": 431520,
+      "name": "Get Innocuous!",
+      "url": "https://open.spotify.com/track/0Ct2XTT4UBt9Y196i0Ido2"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 245585,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Just EP",
         "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
-        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
       "artists": [
         {
-          "name": "Paradis",
-          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 433388,
-      "name": "H\u00e9misph\u00e8re",
-      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 211194,
       "name": "Psylla",
       "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
+        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
+      },
+      "artists": [
+        {
+          "name": "Paradis",
+          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        }
+      ],
+      "duration_ms": 433388,
+      "name": "H\u00e9misph\u00e8re",
+      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Helios",
         "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 198315,
       "name": "Helios",
       "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2023-12-08 21:38:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 49344,
+  "num_followers": 49351,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAXT1olFvKJa4f6nVUnsAdR",
+  "snapshot_id": "Z1I+gAAAAABZ7B2oG0xlJAsdz/ma/tBK",
   "tracks": [
     {
       "added_at": null,
@@ -145,7 +145,7 @@
         }
       ],
       "duration_ms": 205400,
-      "name": "It Serves You Right To Suffer - The Avener Rework",
+      "name": "It Serve You Right To Suffer - The Avener Rework",
       "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
     },
     {
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "It Serves Me Right",
-      "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Real Folk Blues: The Missing Album",
         "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Serve You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -495,6 +463,22 @@
       "duration_ms": 143693,
       "name": "Money",
       "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
     },
     {
       "added_at": null,
@@ -531,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 229150,
       "name": "Blues Before Sunrise",
       "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
     },
     {
       "added_at": null,
@@ -595,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Peace Lovin' Man",
-      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -627,6 +595,22 @@
       "duration_ms": 225906,
       "name": "Baby Lee (feat. Robert Cray)",
       "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Peace Lovin' Man",
+      "url": "https://open.spotify.com/track/2rcqFSD81SzmYig0a06rLr"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
       "duration_ms": 145551,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost A Good Girl",
+        "url": "https://open.spotify.com/album/0eYqgedY7hE1bkeZbUAKms"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "Thelma",
+      "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

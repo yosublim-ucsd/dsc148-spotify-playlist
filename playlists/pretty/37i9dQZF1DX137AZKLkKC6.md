@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso & Yeison Jiménez
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,453 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,534 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 3 | [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 |
 | 4 | [Amor Borrachito](https://open.spotify.com/track/1Oa80BFtliBEru0KgxwJx5) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Amor Borrachito](https://open.spotify.com/album/3lwSfz7ZkKFyVFiuJ5IVhT) | 2:32 |
 | 5 | [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 |
-| 6 | [El Tierno](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 |
+| 6 | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 |
 | 7 | [EL KARMA \- Remix](https://open.spotify.com/track/2vvueBffS7Mb0HHLJZ8lBc) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [EL KARMA \(Remix\)](https://open.spotify.com/album/24WqSqxlxukWGqFdNQ3oTz) | 2:58 |
 | 8 | [Échale Ganas Al Olvido](https://open.spotify.com/track/5sM5rI4R9pQflxdEO8iio3) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Regional Live by Yohan Usuga \(Vol\. 2\)](https://open.spotify.com/album/4SFBBoHbLKDopGCT0GVNA5) | 3:31 |
 | 9 | [Modo Avión](https://open.spotify.com/track/6pH8GcHpA5GETCVHsrPitk) | [Shaira](https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso) | [Florecer](https://open.spotify.com/album/49XfluuOcJpZUTJJnqinZe) | 3:08 |

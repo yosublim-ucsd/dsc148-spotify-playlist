@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,433 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,555 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 52 | [Coronamos](https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43) | [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Coronamos](https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR) | 3:08 |
 | 53 | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [KHEA: Bzrp Music Sessions, Vol\. 34](https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww) | 3:18 |
 | 54 | [Miss U](https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Keoland](https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI) | 4:19 |
-| 55 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
-| 56 | [A fuego](https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 55 | [A fuego](https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 56 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 57 | [Jimmy Fallon \- Remix](https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jimmy Fallon \(Remix\)](https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW) | 4:02 |
 | 58 | [Si Te Vas](https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Si Te Vas](https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b) | 4:00 |
 | 59 | [Tú No Amas](https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq) | [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Tú No Amas](https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh) | 4:33 |

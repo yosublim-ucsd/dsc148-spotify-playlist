@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,398 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,576 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 65 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 | 66 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 |
 | 67 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 |
-| 68 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
-| 69 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
+| 68 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
+| 69 | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ) | [ROLLOVER DJS](https://open.spotify.com/artist/22XVOdZpIHdrMdyPnGAquF), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Saturnino](https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd) | [What Do You Live For? \(feat\. David Blank & Saturnino\)](https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4) | 4:17 |
 | 70 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
 | 71 | [Let Me Love Tonight \- Radio Version](https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d) | [Electric Mind](https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja) | [Let me love tonight \(12 Inc\)](https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU) | 3:49 |
 | 72 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |

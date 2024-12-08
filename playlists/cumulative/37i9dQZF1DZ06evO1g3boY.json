@@ -663,6 +663,36 @@
     },
     {
       "album": {
+        "name": "Identidade Preta",
+        "url": "https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Keviin",
+          "url": "https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195130,
+      "name": "Identidade Preta",
+      "url": "https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2"
+    },
+    {
+      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -1462,7 +1492,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 231533,
       "name": "S\u00f3 Isso",
       "url": "https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu"

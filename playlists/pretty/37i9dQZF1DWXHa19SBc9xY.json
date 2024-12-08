@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 101960,
+  "num_followers": 102015,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Meu Xod\u00f3",
-        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 197584,
-      "name": "Meu Xod\u00f3",
-      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Andar Leve",
         "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 165408,
       "name": "Andar Leve",
       "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Meu Xod\u00f3",
+        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 197584,
+      "name": "Meu Xod\u00f3",
+      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Capim-Cidreira (Infus\u00e3o)",
+        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Flor de Aruanda - Infus\u00e3o",
+      "url": "https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Capim-Cidreira (Infus\u00e3o)",
-        "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Flor de Aruanda - Infus\u00e3o",
-      "url": "https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
         "name": "Um Corpo no Mundo",
         "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 177343,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A"
-      },
-      "artists": [
-        {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1335,26 +1335,6 @@
       "duration_ms": 217241,
       "name": "Em Outro Lugar",
       "url": "https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
-        "name": "Som de Alceu",
-        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Som de Alceu",
-      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
     },
     {
       "added_at": "2023-11-24 08:42:40",
@@ -1415,6 +1395,26 @@
       "duration_ms": 152961,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Som de Alceu",
+        "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
     },
     {
       "added_at": "2023-11-24 08:42:40",

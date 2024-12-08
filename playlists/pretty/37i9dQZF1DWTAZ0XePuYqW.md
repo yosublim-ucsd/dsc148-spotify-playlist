@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,446 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,500 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 11 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
 | 12 | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/track/1xIUzmnbBGks5bWZjngTIH) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Pretty Girls Cry Too \(feat\. Lay Bankz, Saweetie & Flo Milli\)](https://open.spotify.com/album/4EPslQriJfV1wLD1NS49IU) | 3:02 |
 | 13 | [collect$$$save](https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [collect$$$save](https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY) | 3:35 |
-| 14 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
+| 14 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 15 | [Fimile](https://open.spotify.com/track/5xuvHAJi53UbyxaD54NoC0) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:42 |
 | 16 | [I LIKE HOES](https://open.spotify.com/track/33hiUOCaTAxgKbQyHNCQh5) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [steven shaeffer](https://open.spotify.com/artist/0sPHi4SXo7KmY1PcmlcEp2) | [Lvl 1: At Least It Was Fun](https://open.spotify.com/album/67vlxarO0ZAD65EHgg06ip) | 2:39 |
 | 17 | [Scars](https://open.spotify.com/track/3HnXO5psqLAfH6wrwl248f) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gilberto's Son](https://open.spotify.com/album/1kGLrR4To17fbnAKxTLHVM) | 2:16 |

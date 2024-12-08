@@ -2791,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -2806,7 +2828,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 138600,
       "name": "B012",
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
@@ -6343,14 +6365,10 @@
     },
     {
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "name": "Home Alone (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
       "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
@@ -6358,7 +6376,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -7904,7 +7922,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 206332,
       "name": "Coraz Bli\u017cej \u015awi\u0119ta",
       "url": "https://open.spotify.com/track/6IyM1d0DOlb8S3tUGi7wPB"
@@ -10394,7 +10412,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 202758,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
@@ -10466,7 +10484,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -11526,7 +11544,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -12092,7 +12110,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -13632,7 +13650,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -15980,7 +15998,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 150000,
       "name": "ILE LAT?",
       "url": "https://open.spotify.com/track/4Yecd3jr0qmuxXpPHPSZPg"
@@ -19136,7 +19154,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 141288,
       "name": "Kocie oczy",
       "url": "https://open.spotify.com/track/5elP52iIC8BW92SVbXQYYz"
@@ -19748,7 +19766,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 226413,
       "name": "Kto Wie?",
       "url": "https://open.spotify.com/track/4z77VPWmxxMosO4o2jD8uT"
@@ -19774,6 +19792,28 @@
       "duration_ms": 226413,
       "name": "Kto wie?",
       "url": "https://open.spotify.com/track/1uxcfbhnvYPwqBlSRwDIZV"
+    },
+    {
+      "album": {
+        "name": "Sen, kt\u00f3rego nigdy nie mia\u0142em",
+        "url": "https://open.spotify.com/album/66PLYx5D3aFMof9xxcwJ3k"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "KUBI47",
+      "url": "https://open.spotify.com/track/66q4aASCpDwBqM1CJgqfEQ"
     },
     {
       "album": {
@@ -20613,6 +20653,28 @@
     },
     {
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -21377,6 +21439,32 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -21396,7 +21484,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -21466,7 +21554,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -22623,6 +22711,32 @@
     },
     {
       "album": {
+        "name": "Sen, kt\u00f3rego nigdy nie mia\u0142em",
+        "url": "https://open.spotify.com/album/66PLYx5D3aFMof9xxcwJ3k"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Young Multi",
+          "url": "https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "METROPOLIA",
+      "url": "https://open.spotify.com/track/5Um0V0tyBiB9mWcMVdiApk"
+    },
+    {
+      "album": {
         "name": "13+5",
         "url": "https://open.spotify.com/album/6B3EbN3KQHNj6TTQip87bn"
       },
@@ -23298,7 +23412,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169756,
       "name": "MONOPOL",
       "url": "https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl"
@@ -30090,7 +30204,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 155056,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
@@ -31547,6 +31661,24 @@
     },
     {
       "album": {
+        "name": "PRZEKAZ MY\u015aLI",
+        "url": "https://open.spotify.com/album/2xihBYjoahj3QAJg6B6iNR"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152932,
+      "name": "PRZEKAZ MY\u015aLI",
+      "url": "https://open.spotify.com/track/2cm6RJemeOITG5MualyhAU"
+    },
+    {
+      "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
       },
@@ -31570,7 +31702,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183748,
       "name": "Przester",
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
@@ -39564,7 +39696,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -39582,7 +39714,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -40898,7 +41030,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -41425,6 +41557,36 @@
     },
     {
       "album": {
+        "name": "Sen, kt\u00f3rego nigdy nie mia\u0142em",
+        "url": "https://open.spotify.com/album/66PLYx5D3aFMof9xxcwJ3k"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "Woda Ksi\u0119\u017cycowa",
+      "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"
+    },
+    {
+      "album": {
         "name": "Woda Ksi\u0119\u017cycowa",
         "url": "https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb"
       },
@@ -41448,7 +41610,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk"

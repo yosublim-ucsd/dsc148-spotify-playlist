@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95299,
+  "num_followers": 95301,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAB8/zrhXH994LJjo488Ho2W",
+  "snapshot_id": "Z1I+gAAAAADVkasuXwDZsc8WZpBTvH4o",
   "tracks": [
     {
       "added_at": null,
@@ -355,46 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 148278,
-      "name": "Tap (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 151481,
-      "name": "Young Wheezy (with Gunna)",
-      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -423,6 +383,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 151481,
+      "name": "Young Wheezy (with Gunna)",
+      "url": "https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 148278,
+      "name": "Tap (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -439,6 +439,26 @@
       "duration_ms": 179371,
       "name": "Run It Up (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Wolves (with NAV)",
+      "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
     },
     {
       "added_at": null,
@@ -467,26 +487,6 @@
       "duration_ms": 265373,
       "name": "Minute",
       "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Wolves (with NAV)",
-      "url": "https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
@@ -668,17 +668,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 189320,
-      "name": "One Time (with Don Toliver feat. Future)",
-      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+      "duration_ms": 188117,
+      "name": "Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
     },
     {
       "added_at": null,
@@ -703,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
       "artists": [
         {
@@ -712,13 +708,17 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 188117,
-      "name": "Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     },
     {
       "added_at": null,
@@ -735,38 +735,6 @@
       "duration_ms": 155086,
       "name": "Vetement Socks",
       "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
     },
     {
       "added_at": null,
@@ -791,6 +759,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "88GLAM RELOADED",
         "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 185316,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 181355,
       "name": "Dead Shot (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Freshman List",
+      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Freshman List",
-      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -935,30 +935,6 @@
       "duration_ms": 182880,
       "name": "NAV",
       "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painless 2 (with NAV feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 242368,
-      "name": "Painless 2 (with NAV feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
     },
     {
       "added_at": null,
@@ -999,6 +975,30 @@
       "duration_ms": 160666,
       "name": "Glow Up",
       "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painless 2 (with NAV feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 242368,
+      "name": "Painless 2 (with NAV feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi"
     },
     {
       "added_at": null,

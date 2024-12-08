@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Beéle
 
-196 songs - 10 hr 24 min
+197 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Mimosas](https://open.spotify.com/track/0Z4mRtb8Uc8xASEhGUlUyI) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/1O9JEFTFeguhO0YBbwHsMr) | 3:05 | 2022-02-16 | 2022-07-29 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-05-12 | 2024-04-19 |
 | [Mimosas \- Remix](https://open.spotify.com/track/07grlLnIM285o7Y69mge5L) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mimosas \(Remix\)](https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9) | 4:33 | 2022-02-16 | 2024-05-07 |
+| [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 | 2024-12-06 |  |
 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2024-09-20 |  |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2022-02-16 | 2024-09-21 |
 | [Moving On](https://open.spotify.com/track/6R9kmo7MbGMudfLBNRTSnL) | [Fernando H](https://open.spotify.com/artist/4a3JjgyTiSWMjr6tDfjCLH), [Chris Rio](https://open.spotify.com/artist/3zZeoV1PmsfG6sEM1qT9vq) | [Moving On](https://open.spotify.com/album/57c8zm1qssfIRBEjCgNR3W) | 3:06 | 2022-02-16 | 2022-07-29 |
@@ -186,7 +187,7 @@
 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 | 2022-02-16 | 2023-10-16 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-02-16 | 2024-09-21 |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-25 | 2024-09-21 |
-| [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 | 2024-09-20 |  |
+| [Tucu](https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:06 | 2024-09-20 | 2024-12-08 |
 | [Tun Up](https://open.spotify.com/track/282NqBO5Lzg6oXoaNGK9kd) | [Chris Marshall](https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Marshall Law](https://open.spotify.com/album/2T5WpiV5hnHIhNAOaDasTW) | 3:46 | 2022-02-16 | 2022-07-29 |
 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 | 2022-02-16 | 2024-09-21 |
 | [Uff](https://open.spotify.com/track/6pw7KggD2vbvxRTV2iASxK) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Los Reyes Del Mar](https://open.spotify.com/album/6gICJJez4pXMZVV0MvqLZb) | 2:32 | 2024-09-20 | 2024-11-18 |

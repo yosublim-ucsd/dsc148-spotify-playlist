@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Editor's picks of the best of RADAR SG & MY this year\. Cover: Sarah Suhairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,809 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,811 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 |
-| 2 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 |
-| 3 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 |
-| 4 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 |
+| 2 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 |
+| 3 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 |
+| 4 | [Falling Behind](https://open.spotify.com/track/4rkVYgCqgTwtKzc8HDdWHZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Falling Behind](https://open.spotify.com/album/4pFN6euGkFVwdF7RxZe3qO) | 3:00 |
 | 5 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 |
 | 6 | [Feel The Same](https://open.spotify.com/track/2e6RKDGy1H8eZXqAkMxZA2) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/7pIB5u9qoSnakys0SgUQho) | 2:52 |
 | 7 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 49 | [Tenang Tanya Tuhan](https://open.spotify.com/track/64Bp8rRO9uG1nV9834IJwL) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Tenang Tanya Tuhan](https://open.spotify.com/album/5RVOLy5euw9myldlRG7b9S) | 2:32 |
 | 50 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 |
 
-Snapshot ID: `Z1BHxAAAAADqlxlRPZGAS5rVfbOg9xg1`
+Snapshot ID: `Z1QThAAAAACLW0YYKsoxNXv4/RggCco2`

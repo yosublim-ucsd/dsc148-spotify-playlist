@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,915 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 19 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 |
 | 20 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
 | 21 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 22 | [Fue Por Algo](https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:55 |
+| 22 | [La Torre](https://open.spotify.com/track/4br0hGLVfg303iuo6WBz1Z) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:17 |
 | 23 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 24 | [Viaje Al Amanecer](https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:58 |
 | 25 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
-| 26 | [La Torre](https://open.spotify.com/track/4br0hGLVfg303iuo6WBz1Z) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:17 |
+| 26 | [Fue Por Algo](https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:55 |
 | 27 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 |
 | 28 | [Vivir En Silencio](https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:54 |
 | 29 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 45 | [Amor Particular](https://open.spotify.com/track/41x3Zgm2LornuG311321J6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Amor Particular](https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S) | 3:03 |
 | 46 | [Aún Hay Algo](https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:44 |
 | 47 | [Me Desenamoré](https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Me Desenamoré](https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw) | 3:28 |
-| 48 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 |
-| 49 | [Todo Te Da Igual](https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ) | [Soy Os](https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Todo Te Da Igual](https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU) | 2:41 |
+| 48 | [Todo Te Da Igual](https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ) | [Soy Os](https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Todo Te Da Igual](https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU) | 2:41 |
+| 49 | [Soy](https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:07 |
 | 50 | [Madrugada](https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [Hardinero Sound](https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j) | 3:03 |
 
-Snapshot ID: `Z1DtAAAAAACsWJVDKwOuHQxc/Ci651Vb`
+Snapshot ID: `Z1I+gAAAAAAh5gmyGOJ07Llpx72//SVR`

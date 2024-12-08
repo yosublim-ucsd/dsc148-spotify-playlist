@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Ashley McBryde, Dylan Scott, Tyler Braden and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,287 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,414 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

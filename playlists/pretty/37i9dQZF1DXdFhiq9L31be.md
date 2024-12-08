@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,940 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,962 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 59 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 60 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 |
 | 61 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
-| 62 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
-| 63 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 |
+| 62 | [Wish I Didn't Miss You \- Recorded At RAK Studios, London](https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Spotify Singles](https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0) | 3:24 |
+| 63 | [Rhythm Inside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Spotify Singles](https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp) | 3:46 |
 | 64 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 |
 | 65 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
 | 66 | [Attention \- Live from Spotify Studios NYC](https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Spotify Singles](https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ) | 3:42 |
 | 67 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
-| 68 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
-| 69 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
-| 70 | [Just the Two of Us](https://open.spotify.com/track/2F07bRBZzsE52N5pu4rXXa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Lucy Ellis](https://open.spotify.com/artist/0KbjHtyDafF97wNvyx9VaW) | [Spotify Singles](https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm) | 2:24 |
+| 68 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
+| 69 | [Just the Two of Us](https://open.spotify.com/track/2F07bRBZzsE52N5pu4rXXa) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Lucy Ellis](https://open.spotify.com/artist/0KbjHtyDafF97wNvyx9VaW) | [Spotify Singles](https://open.spotify.com/album/1XGxp9TXJQUNw2gbybZHKm) | 2:24 |
+| 70 | [Think About You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:29 |
 | 71 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 |
 | 72 | [Stayaway \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/38TDGceS2vVyOxIdU4n9ZU) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Spotify Singles](https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH) | 4:11 |
 | 73 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |

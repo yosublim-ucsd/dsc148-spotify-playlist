@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: A\. Nayaka, Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,118 likes - 94 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,161 likes - 94 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 3 | [Memori Baik](https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT), [Aishameglio](https://open.spotify.com/artist/3ma4EaXmEoQuzr5UNygA9Q) | [Memori Baik](https://open.spotify.com/album/4pgRr87CxG6A3eVFv9I5fT) | 4:23 |
 | 4 | [Pada Suatu Hari](https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 3:53 |
 | 5 | [Sakura Abadi](https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Sakura Abadi](https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB) | 6:45 |
-| 6 | [Lagu Cinta Untuk Mama](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
+| 6 | [Lagu Cinta Untuk Mama \- Lagu Cinta Untuk Mama Original Soundtrack](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama \(Lagu Cinta Untuk Mama Original Soundtrack\)](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
 | 7 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 |
 | 8 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 |
 | 9 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |

@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-203 songs - 13 hr 27 min
+204 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Do Something!](https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Do Something!](https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN) | 2:11 | 2024-07-31 |  |
 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 | 2023-08-14 | 2024-04-19 |
 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-24 | 2023-09-15 |
+| [Don't Say You Don't \- Instrumental Version](https://open.spotify.com/track/5M7XyAAxB0WFLnN8zsMEn5) | [Particle House](https://open.spotify.com/artist/4R2DybM5OIPMBklyGe0ZKS) | [Don't Say You Don't](https://open.spotify.com/album/4uiHT6eD05ONgFueeOQUqs) | 3:14 | 2023-08-14 |  |
 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 | 2023-03-20 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 | 2023-08-14 |  |
 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 | 2023-12-12 |  |
@@ -65,11 +66,11 @@
 | [Falling Back](https://open.spotify.com/track/4yC3bN8quQSuJw4vK6AYtW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Young Romance \(Deluxe\)](https://open.spotify.com/album/2naZrGbgsZ5YEQS4IZMjUy) | 4:39 | 2023-08-14 | 2024-04-19 |
 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 | 2023-03-20 |  |
 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 | 2023-03-20 | 2024-04-19 |
-| [Feels Like A Different Thing](https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:47 | 2023-08-14 | 2024-09-24 |
+| [Feels Like A Different Thing](https://open.spotify.com/track/4koWjqTL62F8WSWpuhwpvu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [TILT](https://open.spotify.com/album/0X9CpcnwoPgzznLDDGx8PI) | 3:47 | 2023-08-14 |  |
 | [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-03-20 | 2024-01-12 |
 | [Feels Right](https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:34 | 2023-08-14 | 2024-04-19 |
 | [Flash](https://open.spotify.com/track/52d8baQxvV3AkHcAyXCkkO) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Flash](https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5) | 2:59 | 2023-03-20 | 2024-04-19 |
-| [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 | 2023-08-14 |  |
+| [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 | 2023-08-14 | 2024-12-08 |
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-08-14 | 2024-05-02 |
 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 | 2024-05-30 |  |
 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 | 2023-08-14 |  |
@@ -207,7 +208,7 @@
 | [What Love Is](https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [What Love Is](https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS) | 3:40 | 2024-01-03 | 2024-07-27 |
 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 | 2024-08-23 |  |
 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 | 2024-05-31 |  |
-| [Zaim](https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Zaim](https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU) | 3:56 | 2023-08-14 |  |
+| [Zaim](https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Zaim](https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU) | 3:56 | 2023-08-14 | 2024-12-08 |
 | [Zenzero](https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Zenzero](https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO) | 4:10 | 2023-05-22 | 2023-08-16 |
 | [Zoom Zoom](https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:29 | 2023-03-20 |  |
 | [Ça fait du bien \- Polo & Pan Remix](https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ça fait 2x plus de bien](https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE) | 3:01 | 2023-03-20 |  |

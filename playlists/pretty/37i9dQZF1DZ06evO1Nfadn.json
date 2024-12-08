@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 29617,
+  "num_followers": 29629,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAcy2/N1Mzrq0DBahZOFKWs",
+  "snapshot_id": "Z1I+gAAAAABQYayHNmGJUntqmuYZhvdq",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
+        "name": "La Historia de Los Exitos",
+        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 166900,
-      "name": "El Toca Toca",
-      "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
+      "duration_ms": 162500,
+      "name": "Pero Te Amo",
+      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia de Los Exitos",
-        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Pero Te Amo",
-      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
+      "duration_ms": 166900,
+      "name": "El Toca Toca",
+      "url": "https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv"
     },
     {
       "added_at": null,

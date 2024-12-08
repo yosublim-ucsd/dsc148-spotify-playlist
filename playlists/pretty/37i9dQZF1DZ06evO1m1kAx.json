@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6492,
+  "num_followers": 6494,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAAKiqpEv/wFf5+JVohRcq7r",
+  "snapshot_id": "Z1I+gAAAAADwzg1QCpw2FABu/hDyIxUV",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Dance Go (Eau De Vie)",
+      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -731,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 228571,
-      "name": "Dance Go (Eau De Vie)",
-      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+      "duration_ms": 191425,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
     },
     {
       "added_at": null,
@@ -771,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
       "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 191425,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 296693,
       "name": "U No Holy Pass",
       "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,

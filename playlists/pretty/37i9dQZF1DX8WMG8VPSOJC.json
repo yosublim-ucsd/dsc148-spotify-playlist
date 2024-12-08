@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1750105,
+  "num_followers": 1750150,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 227333,
       "name": "It's Your Love",
       "url": "https://open.spotify.com/track/503sFkc8Y2eyGnM6cu8kHm"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Poet\u2019s Resum\u00e9",
-        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
+        "name": "Wreckage",
+        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 188166,
-      "name": "One Bad Habit",
-      "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
+      "duration_ms": 212746,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Wreckage",
-        "url": "https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6"
+        "name": "Poet\u2019s Resum\u00e9",
+        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf"
+      "duration_ms": 188166,
+      "name": "One Bad Habit",
+      "url": "https://open.spotify.com/track/4N0yUfSgo2lnpJzufrqAoY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Port Saint Joe",
-        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "I Don't Remember Me (Before You)",
-      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 214173,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/3hhSnbFhuGnXieFa1ql61R"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Port Saint Joe",
+        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "I Don't Remember Me (Before You)",
+      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
     },
     {
       "added_at": "2024-11-08 05:00:00",

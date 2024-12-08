@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Interior Chinatown, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,210 likes - 93 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,197 likes - 93 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

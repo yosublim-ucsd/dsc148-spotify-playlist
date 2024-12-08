@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Prateeksha Srivastava and Priyanshi Srivastava
 
-903 songs - 2 day 1 hr 33 min
+904 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [BEKADRAN](https://open.spotify.com/track/3GYSJNYY74sjynbmoO04Cx) | [Viepsa Arora](https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW), [INAU](https://open.spotify.com/artist/69tioqoopLjbHZvMq2HGd4) | [BEKADRAN](https://open.spotify.com/album/3bA53E1oObbk1lt5PsyinS) | 3:16 | 2024-07-19 | 2024-08-24 |
 | [Bekarar](https://open.spotify.com/track/2zjPudofsLEpr92tKZnADA) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Bekarar](https://open.spotify.com/album/624Izr9FzLuHAa9t89lkeE) | 2:21 | 2023-10-27 | 2023-12-02 |
 | [Bekhabar](https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Bekhabar](https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0) | 3:04 | 2023-04-14 | 2023-06-17 |
+| [BEKHUDI](https://open.spotify.com/track/6Qw5OaHOMKLNaT1CvZ0ER5) | [Dr\. Braja Deori](https://open.spotify.com/artist/0LSp29MEKWvothu4AfAJtz), [Anindita Paul](https://open.spotify.com/artist/0UY5kkWZ5sBrXNv6rIaVWp) | [BEKHUDI](https://open.spotify.com/album/3wFgSXcKLtQtoDX3j8rZlw) | 3:34 | 2024-12-06 |  |
 | [Bemausam Baarish](https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Bemausam Baarish](https://open.spotify.com/album/0xBbItufW99JKgkNiFG937) | 3:34 | 2024-06-21 | 2024-08-03 |
 | [Beparwah](https://open.spotify.com/track/6LwtFNvxWnzHpAcRXEUkNV) | [Surya Venkat](https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR), [Adil Nadaf](https://open.spotify.com/artist/3vRo2Lnpy1bManEuImUVhq) | [Beparwah](https://open.spotify.com/album/6V3M6qs3z9yQGxfKKj2GaY) | 2:02 | 2024-07-05 | 2024-07-27 |
 | [Beqaabu](https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Beqaabu](https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg) | 2:14 | 2024-05-10 | 2024-06-29 |
@@ -363,7 +364,7 @@
 | [Jaise Mein Chaahun](https://open.spotify.com/track/2UxqmUsEvSJfOiwgspj03d) | [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Jaise Mein Chaahun](https://open.spotify.com/album/2k4nJGu6QVuIq36zPERj6I) | 2:46 | 2023-12-15 | 2024-01-27 |
 | [Janamdin](https://open.spotify.com/track/4ngUzKSnbclvmZ6mxCw4Gq) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Janamdin](https://open.spotify.com/album/5q6nuMAdjX2DzYpr7q3CK2) | 2:34 | 2024-10-11 | 2024-11-30 |
 | [Jannat](https://open.spotify.com/track/0qJO8QgG5C8mUyPA827c8R) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Jannat](https://open.spotify.com/album/4Bx8C5p2ElDIYTokkN7Ghz) | 2:33 | 2023-08-04 | 2023-09-09 |
-| [Jawaab Kya Hai](https://open.spotify.com/track/5fo6VRiygJPlcTbPt6TyFF) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Jawaab Kya Hai](https://open.spotify.com/album/6mox9Wjz02Qb5SQXFyYBR9) | 3:57 | 2024-12-06 |  |
+| [Jawaab Kya Hai](https://open.spotify.com/track/5fo6VRiygJPlcTbPt6TyFF) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Jawaab Kya Hai](https://open.spotify.com/album/6mox9Wjz02Qb5SQXFyYBR9) | 3:57 | 2024-12-06 | 2024-12-08 |
 | [Jee Lunga](https://open.spotify.com/track/3G2Dmfxo9W68twpibDaJPr) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31) | [Jee Lunga](https://open.spotify.com/album/2WlLGC3mfJxVmnaSCHA0SS) | 3:23 | 2024-08-09 | 2024-09-28 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-06-30 |
 | [Jheelon Pe Shaam](https://open.spotify.com/track/6uT0YnvjK2AgqctOoJAuvX) | [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5), [Vedang Gaikwad](https://open.spotify.com/artist/75hdci5CS4NBDst8plfSza), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Himalayan Harmonies](https://open.spotify.com/artist/2osVgMquKwmLorGHfA86aS) | [Harvest](https://open.spotify.com/album/5w1KwsCP121wXn37I6FguI) | 4:09 | 2024-10-11 | 2024-11-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,052 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,065 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 42 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 43 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 44 | [Nessuno Vuole Essere Robin](https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:44 |
-| 45 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 |
-| 46 | [Per due che come noi](https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Cip!](https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV) | 3:50 |
-| 47 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
+| 45 | [Per due che come noi](https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Cip!](https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV) | 3:50 |
+| 46 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 |
+| 47 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 |
 | 48 | [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 |
 | 49 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 |
 | 50 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 |

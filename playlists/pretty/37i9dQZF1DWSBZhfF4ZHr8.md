@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Esmée
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,790 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,793 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 6 | [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 |
 | 7 | [Adieu, nous deux](https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 3:08 |
 | 8 | [Et si tu sens \- écrit par Grégory Lemarchal](https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Et si tu sens \(écrit par Grégory Lemarchal\)](https://open.spotify.com/album/2whXeqwissI9TOYiw7RFoP) | 3:26 |
-| 9 | [Enfant doré](https://open.spotify.com/track/6XtHDeaIr1W6MhApPbaSGB) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa) | [Enfant doré](https://open.spotify.com/album/1cd2KrhoV5VhwAIrPI4Vlv) | 2:54 |
+| 9 | [Enfant doré](https://open.spotify.com/track/6XtHDeaIr1W6MhApPbaSGB) | [Christophe Mali](https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa), [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Enfant doré](https://open.spotify.com/album/1cd2KrhoV5VhwAIrPI4Vlv) | 2:54 |
 | 10 | [Divine](https://open.spotify.com/track/6LF1OzPmtNhklCCKUt2jUq) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Divine](https://open.spotify.com/album/7DuT3z3dsEhqyqxNTwMKKd) | 2:56 |
 | 11 | [T'en aller](https://open.spotify.com/track/59MVdyazjn9ExcL2C8xuTY) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [T'en aller](https://open.spotify.com/album/00nbP0PHv8JjqtS82B1hYN) | 3:11 |
 | 12 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 |

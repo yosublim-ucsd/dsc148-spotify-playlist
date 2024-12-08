@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-142 songs - 7 hr 51 min
+143 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-27 | 2024-11-23 |
 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 | 2024-05-31 | 2024-07-14 |
 | [Take What You Want](https://open.spotify.com/track/14XKQyTnBQByTqvslOrEUK) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/6azobsqeeFtpjuUKyPSJ3o) | 4:05 | 2024-05-31 | 2024-08-05 |
+| [Taking Care of It](https://open.spotify.com/track/5rXD9gqZfnyIwwbfYKNVO8) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Taking Care of It](https://open.spotify.com/album/6jKFmiGmp2k58uNI0JmqEE) | 4:54 | 2024-11-28 |  |
 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 | 2024-10-10 |  |
 | [Tastes Like Forever](https://open.spotify.com/track/33xgQAHpWcbY8B45sakPCn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Tastes Like Forever](https://open.spotify.com/album/215QMvTeoFnVA979rGytHy) | 3:42 | 2024-10-24 | 2024-11-29 |
 | [Telephone](https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Telephone](https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra) | 3:41 | 2024-11-28 | 2024-12-06 |
@@ -136,7 +137,7 @@
 | [TOGETHER](https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [TOGETHER](https://open.spotify.com/album/5ZXVSBUNbM34iNAqcFK8Hs) | 3:52 | 2024-09-12 | 2024-10-23 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2024-05-31 |  |
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
-| [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 |  |
+| [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2024-12-08 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-31 |  |
 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 | 2024-08-15 |  |

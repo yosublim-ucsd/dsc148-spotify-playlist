@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 215479,
+  "num_followers": 215546,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "MALA FAMA",
-        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
+        "name": "Clasificacion C Vol.1",
+        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
       },
       "artists": [
         {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 139636,
-      "name": "Ya Saben La Clave",
-      "url": "https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p"
+      "duration_ms": 228092,
+      "name": "Un Par De Balas",
+      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -847,18 +843,22 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Clasificacion C Vol.1",
-        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
+        "name": "MALA FAMA",
+        "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
       "artists": [
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 228092,
-      "name": "Un Par De Balas",
-      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+      "duration_ms": 139636,
+      "name": "Ya Saben La Clave",
+      "url": "https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "Qui\u00faboles Que!",
+        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 221541,
+      "name": "Qui\u00faboles Que",
+      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1023,6 +1043,26 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "IceWeed-Man",
+        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "BeeJay",
+          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Desvielados",
+      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "Presidente",
         "url": "https://open.spotify.com/album/0jVUqz5x4VgFMYIof4Q64d"
       },
@@ -1051,46 +1091,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Qui\u00faboles Que!",
-        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 221541,
-      "name": "Qui\u00faboles Que",
-      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "IceWeed-Man",
-        "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "BeeJay",
-          "url": "https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Desvielados",
-      "url": "https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Mi T\u00edo Snoop",
         "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
       },
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "100% Mayo",
-        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
       },
       "artists": [
         {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 214655,
-      "name": "100% Mayo",
-      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+        "name": "100% Mayo",
+        "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
         }
       ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
+      "duration_ms": 214655,
+      "name": "100% Mayo",
+      "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "TUY",
         "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 270575,
       "name": "TUY",
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "La Tropa Del Infierno",
-        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "La Tropa Del Infierno",
-      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 228995,
       "name": "Bendita Vida",
       "url": "https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -2051,26 +2051,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Robot Montana",
-        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
-      },
-      "artists": [
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 175730,
-      "name": "Mariguana & Tequila",
-      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "No Te La Sabes",
         "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
       },
@@ -2087,6 +2067,26 @@
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Robot Montana",
+        "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 175730,
+      "name": "Mariguana & Tequila",
+      "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

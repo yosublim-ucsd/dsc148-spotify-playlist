@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,377 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,376 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 41 | [Best Part](https://open.spotify.com/track/1i4iFjsm5oLJedBJXDpdWS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Best Part](https://open.spotify.com/album/59laY8ALYUux2uZZa6ce9i) | 3:53 |
 | 42 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |
 | 43 | [Promiscuous](https://open.spotify.com/track/6gkOuNkFMdtaZsVQtJ4mBk) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Promiscuous](https://open.spotify.com/album/2GnqXec3H61eIMQZzibupf) | 3:13 |
-| 44 | [Believe Me](https://open.spotify.com/track/1TpENVEyzEMK6whG8w15mv) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Yoosooh](https://open.spotify.com/artist/0ek8SOo65kpsYIf1IZINe2) | [Believe Me](https://open.spotify.com/album/5nxjj8qYeXIdrZ792MBtZ4) | 1:30 |
+| 44 | [Believe Me](https://open.spotify.com/track/1TpENVEyzEMK6whG8w15mv) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [yoosooh](https://open.spotify.com/artist/2Lfase1EhBlNVcvARYchQJ) | [Believe Me](https://open.spotify.com/album/5nxjj8qYeXIdrZ792MBtZ4) | 1:30 |
 | 45 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 | 46 | [Cut Me Out \(feat\. CUT\_\)](https://open.spotify.com/track/2fKZC8OKAvE2Qauet0mGUx) | [Belle and The Beats](https://open.spotify.com/artist/5XFLxrLWuNjR21ANQYvPhB), [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Cut Me Out \(feat\. CUT\_\)](https://open.spotify.com/album/6anVe46JrK3KV8aAS6hEJH) | 3:09 |
 | 47 | [The Chameleon](https://open.spotify.com/track/4tLrPk9ka0BV8lgfxAqRQq) | [Pol](https://open.spotify.com/artist/4kexjnM5nXo138D9lAhJFd) | [The Chameleon](https://open.spotify.com/album/11QClDB6Ob6E6KPczxhYRw) | 3:26 |

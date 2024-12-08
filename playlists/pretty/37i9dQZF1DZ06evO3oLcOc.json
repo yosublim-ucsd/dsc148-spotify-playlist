@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 224421,
+  "num_followers": 224437,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAApRLFzaSmAaJw1L+LTCgCT",
+  "snapshot_id": "Z1I+gAAAAAAPUqqgS53bajaoMCheMzR3",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 194228,
       "name": "Don't Be Fooled",
       "url": "https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 138450,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
     },
     {
       "added_at": null,
@@ -867,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Girl You Loud",
+      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "soak city (feat. OhGeesy & BlueBucksClan)",
         "url": "https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF"
       },
@@ -895,26 +931,6 @@
       "duration_ms": 244855,
       "name": "soak city (feat. OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Girl You Loud",
-      "url": "https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg"
     },
     {
       "added_at": null,
@@ -955,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -995,6 +991,26 @@
       "duration_ms": 286373,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": null,
@@ -1039,22 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 138166,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6Vr1Oka5UO0OoUaI1uS9mP"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 138166,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/2A84lw9cQnuW1BD4EWIjrs"
     }
   ],
   "unique_name": "This Is Tyga",

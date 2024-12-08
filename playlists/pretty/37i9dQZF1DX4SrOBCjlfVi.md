@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby,  Rich Amiri, Smino and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,657 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,854 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 38 | [Blame It On You](https://open.spotify.com/track/3DfRSxSdQYvskROWNHK7hS) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Blame It On You](https://open.spotify.com/album/19ZnRUxfrdf9Crkx945kun) | 2:53 |
 | 39 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 |
 | 40 | [They Said He Had A Gun \(feat\. Joey Bada$$ & KayCyy\)](https://open.spotify.com/track/4ald2OIdRZctAeVGn9eJri) | [Casanova](https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [I GET IT NOW](https://open.spotify.com/album/0bvPqOHWoiG9QERvd3dLjy) | 3:33 |
-| 41 | [Light Brained](https://open.spotify.com/track/09ie6yLne8COZN4oVXLVqV) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Billy Lemos](https://open.spotify.com/artist/4DbvjGc6ojMY1RwUWJjgc7) | [Blessings In The Grey III](https://open.spotify.com/album/0pHyClVFXAZXcC0YolVVnp) | 2:17 |
+| 41 | [Light Brained](https://open.spotify.com/track/09ie6yLne8COZN4oVXLVqV) | [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Blessings In The Grey III](https://open.spotify.com/album/0pHyClVFXAZXcC0YolVVnp) | 2:17 |
 | 42 | [Marvelous Motion](https://open.spotify.com/track/0uv0wyA3LS9zApZJbBwH87) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [ANKHLEJOHN](https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M) | [Marvelous Motion](https://open.spotify.com/album/7pfH8Ma8wRSltHFo1McnlB) | 3:10 |
 | 43 | [no ig \(with Benji Blue Bills\)](https://open.spotify.com/track/6XyyymEFt7ttoCZIW91hDs) | [OLA RUNT](https://open.spotify.com/artist/3pAtVSFUcp2b8gY93G0y6u), [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [Backseat Musik, Vol\. 5 \(Deluxe\)](https://open.spotify.com/album/5oNFQlgEQLtdWnw1LteZrO) | 2:50 |
 | 44 | [Cancer](https://open.spotify.com/track/6uSx7iRbkOMMqVtZZzkipT) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Cancer](https://open.spotify.com/album/5YBNuWX4o3FMP7YdGvLuC1) | 3:26 |

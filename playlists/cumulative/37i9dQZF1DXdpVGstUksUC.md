@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/7jGvR8HjLR59JfuapPJDud) | 5:18 | 2021-11-30 | 2022-07-29 |
+| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/7jGvR8HjLR59JfuapPJDud) | 5:18 | 2021-11-30 |  |
 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 | 2022-04-28 | 2024-04-19 |
 | [12 Years in the Tomb](https://open.spotify.com/track/0rRIVceDUSlJW00h3IT7x1) | [Saint Vitus](https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn) | [12 Years in the Tomb](https://open.spotify.com/album/1sVawfDBLJPGgAtsmxy99h) | 5:23 | 2022-01-14 | 2022-01-28 |
 | [2 Wheel Nation](https://open.spotify.com/track/3MY1UKqJnow2BDZmfnhe8S) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [III](https://open.spotify.com/album/0AY1owklM5PB1t2lwuBjel) | 5:23 | 2021-11-30 | 2022-02-11 |
@@ -34,7 +34,7 @@
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 | 2022-08-26 |  |
 | [Battling Guns](https://open.spotify.com/track/5D7tZUZKZCgS1r0uyensG0) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Battling Guns](https://open.spotify.com/album/55OBjBeDyNMXaaDzG2uuH4) | 4:55 | 2024-07-19 |  |
-| [Beneath the Rose](https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath the Rose](https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL) | 5:34 | 2024-05-10 |  |
+| [Beneath the Rose](https://open.spotify.com/track/1t0MRsDlm9npSZeVCx8KEy) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath the Rose](https://open.spotify.com/album/2no4ulladMZvuT4Nas8iwL) | 5:34 | 2024-05-10 | 2024-12-08 |
 | [Beneath the Rose](https://open.spotify.com/track/2Wfrylq2ghMGoqaOvVDr6O) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 5:34 | 2023-10-06 | 2024-04-19 |
 | [Beneath the Rose](https://open.spotify.com/track/3bP0OkELWHoDUn3tHvqcfY) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE](https://open.spotify.com/album/0i8uUVKFN0p4fYDXs4nJV6) | 5:34 | 2023-09-15 | 2023-11-11 |
 | [Beneath the Rose](https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath The Rose](https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k) | 5:34 | 2023-07-21 | 2023-09-19 |

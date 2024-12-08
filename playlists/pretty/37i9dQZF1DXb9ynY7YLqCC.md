@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,325 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,344 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 43 | [Ojos Ventanal](https://open.spotify.com/track/6ydfaB0QZaE2CieflySqEO) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/19A9YHtIzbhB9oZlvzKOKi) | 3:44 |
 | 44 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/2qOZlmuakVosc9cQRHMJLt) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 5:13 |
 | 45 | [Lejos](https://open.spotify.com/track/69abH6M0C97G5sT52PWA6T) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Hermanos](https://open.spotify.com/album/4Y6sjWEwLfRco4b75rZmOW) | 3:38 |
-| 46 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
+| 46 | [Quién Dice](https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Ya No Somos Dos Ahora](https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt) | 3:05 |
 | 47 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
 | 48 | [\(Sonrisa\)](https://open.spotify.com/track/6KvM9hNOk3Sa7pknGBHHQp) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 4:39 |
 | 49 | [Pude](https://open.spotify.com/track/5ZOrGZETv1hh25Rik6I8qF) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Siglo Pánico](https://open.spotify.com/album/27UchZoSpi0sOom9YSaOS4) | 3:08 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 52 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 53 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
 | 54 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
-| 55 | [Quién Dice](https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Ya No Somos Dos Ahora](https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt) | 3:05 |
+| 55 | [Unos Versos](https://open.spotify.com/track/16d24IkLdwtqrSyjcRfR0i) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/2Y5ZXUgVYGYP5emNGUykwp) | 6:22 |
 | 56 | [Sacrificio y Rock N´Roll](https://open.spotify.com/track/5vFBQCqiP7cRnvH88o4Ecx) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Toti Iglesias](https://open.spotify.com/artist/2B106N6sZ5SeN8fYZl3DmE), [Maximiliano Tymczyszyn](https://open.spotify.com/artist/6jUpz1NJBC2yX07MW2hbg9), [Walter Sidotti](https://open.spotify.com/artist/01gEiG8Qqr24wBUdJZ8qlc), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Sacrificio y Rock N´Roll](https://open.spotify.com/album/2u93GKmDeIBJAxk95uuCVM) | 4:01 |
 | 57 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
 | 58 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |

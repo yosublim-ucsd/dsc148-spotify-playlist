@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-193 songs - 10 hr 33 min
+194 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2022-11-18 |  |
 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0fO18NZtkVNxXmLl3JRCKf) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5jrGbsf2fsY4gICvmPFHpA) | 3:47 | 2021-12-17 | 2024-11-23 |
 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 | 2021-12-17 | 2024-04-19 |
+| [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-06 |  |
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-12-17 | 2024-10-15 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-12-17 | 2024-04-19 |
 | [Only You](https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You](https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB) | 2:52 | 2023-10-27 |  |
@@ -163,7 +164,7 @@
 | [The Christmas Song \(Merry Christmas To You\) \- Remastered 1999](https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 3:11 | 2021-12-17 |  |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 | 2021-12-17 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/0WkcF1A4aQIrGQiodrVYEL) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0PLkDF4iqGRf2zBYMiLPk3) | 2:47 | 2023-11-28 | 2024-04-19 |
-| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2023-10-27 |  |
+| [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2023-10-27 | 2024-12-08 |
 | [The Christmas Waltz](https://open.spotify.com/track/4eEdv0ZBTtWh8zS41SeUp8) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:47 | 2023-11-28 | 2024-02-03 |
 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 | 2021-12-17 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-12-20 |  |

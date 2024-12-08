@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
@@ -696,6 +696,24 @@
       "duration_ms": 183042,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te"
+    },
+    {
+      "album": {
+        "name": "Del Cielo Te Cuido",
+        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "Del Cielo Te Cuido",
+      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
     },
     {
       "album": {

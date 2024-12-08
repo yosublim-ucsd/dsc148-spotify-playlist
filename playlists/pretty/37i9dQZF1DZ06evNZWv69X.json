@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8120,
+  "num_followers": 8121,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAA9vPOGr6AVyfAICERKyh+W",
+  "snapshot_id": "Z1I+gAAAAABJ+f+3/WZ4O9TnzS/5cmDQ",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 281120,
-      "name": "Lb",
-      "url": "https://open.spotify.com/track/3xWM8wXIwvNRT3kfCPSrnM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 249586,
-      "name": "Siglo XX",
-      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
+      "duration_ms": 281120,
+      "name": "Lb",
+      "url": "https://open.spotify.com/track/3xWM8wXIwvNRT3kfCPSrnM"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Morir un Poco / Viajo en Tu Piel",
-      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
+      "duration_ms": 241720,
+      "name": "C\u00f3mo Pensar Que No Te Quise",
+      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 241720,
-      "name": "C\u00f3mo Pensar Que No Te Quise",
-      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
+      "duration_ms": 279013,
+      "name": "Morir un Poco / Viajo en Tu Piel",
+      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Siglo XX",
+      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre los \u00c1rboles",
-        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Blu Ice",
-      "url": "https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 296026,
       "name": "Samba",
       "url": "https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Blu Ice",
+      "url": "https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU"
     },
     {
       "added_at": null,

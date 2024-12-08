@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,113 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,115 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 45 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
 | 46 | [La Luna y El Mar](https://open.spotify.com/track/1Xp4D3FQIg1nhTDnWBJTeR) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:08 |
 | 47 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
-| 48 | [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 |
-| 49 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
+| 48 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
+| 49 | [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 |
 | 50 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 
 Snapshot ID: `Zt8PegAAAAAkzdnMekBix13kUN8v5yiA`

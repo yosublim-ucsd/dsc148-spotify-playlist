@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YoungBoy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,447 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,449 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 32 | [Hit It Once](https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hit It Once](https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG) | 3:31 |
 | 33 | [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 |
 | 34 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 |
-| 35 | [Let It Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let It Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
+| 35 | [Let it Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let it Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 36 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 |
 | 37 | [TEAM TOMODACHI \- WILL SMITH REMIX](https://open.spotify.com/track/0hG608Ya6NPMIRa1Hvepl7) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [TEAM TOMODACHI \(WILL SMITH REMIX\)](https://open.spotify.com/album/2JBN8g0QPReXDOi85mNqu7) | 3:04 |
 | 38 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |

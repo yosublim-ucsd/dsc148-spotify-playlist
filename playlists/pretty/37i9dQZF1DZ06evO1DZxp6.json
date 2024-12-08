@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 219789,
+  "num_followers": 219825,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAB+JU7NLcFJU21/5yO7bq9y",
+  "snapshot_id": "Z1I+gAAAAAC61ucat3p0Y1Od7SFOC7G2",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tristeza de la Ciudad",
+        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Tristeza de la Ciudad",
+      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 189786,
       "name": "Ese Camino",
       "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tristeza de la Ciudad",
-        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
-      },
-      "artists": [
-        {
-          "name": "Cachorro Lopez",
-          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 164925,
-      "name": "Tristeza de la Ciudad",
-      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "M\u00edrame Bien",
+      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 218040,
       "name": "Abracadabras (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "M\u00edrame Bien",
-      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,

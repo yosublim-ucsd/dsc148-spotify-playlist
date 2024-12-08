@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Billyrrom + Wendy Wander",
-  "num_followers": 105718,
+  "num_followers": 105799,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Putus",
-        "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 213007,
-      "name": "Putus",
-      "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "\u5016\u5b58\u8005",
         "url": "https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 232968,
       "name": "\u5016\u5b58\u8005",
       "url": "https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Putus",
+        "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 213007,
+      "name": "Putus",
+      "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "undo",
-        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 208854,
-      "name": "undo",
-      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "Tapi",
         "url": "https://open.spotify.com/album/0kqLqj8vBbjGQ67EHWBHeA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 173466,
       "name": "right where you left me",
       "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Sunny Days",
-        "url": "https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN"
-      },
-      "artists": [
-        {
-          "name": "Reality Club",
-          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "CALL ME DRAMATIC",
         "url": "https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 232702,
       "name": "BACK TO REALITY",
       "url": "https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1147,62 +1147,6 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "DREAM LIKE ME",
-        "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        },
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 281658,
-      "name": "DREAM LIKE ME",
-      "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
-        "name": "All The Way Home",
-        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 167100,
-      "name": "All The Way Home",
-      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
         "name": "Rima Raga",
         "url": "https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR"
       },
@@ -1223,6 +1167,62 @@
       "duration_ms": 193972,
       "name": "Rima Raga",
       "url": "https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "DREAM LIKE ME",
+        "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        },
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
+        }
+      ],
+      "duration_ms": 281658,
+      "name": "DREAM LIKE ME",
+      "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+        "name": "Hardcore Romance",
+        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 148465,
-      "name": "INVITATION - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy"
+      "duration_ms": 228708,
+      "name": "Fight Some More",
+      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1363,18 +1363,22 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Hardcore Romance",
-        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 228708,
-      "name": "Fight Some More",
-      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1615,18 +1619,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
       },
       "artists": [
         {
-          "name": "Safeplanet",
-          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
         }
       ],
-      "duration_ms": 302903,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
-      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
+      "duration_ms": 170578,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1647,38 +1651,18 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "Love, Again",
-        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
       },
       "artists": [
         {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
         }
       ],
-      "duration_ms": 170578,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
-    },
-    {
-      "added_at": "2024-12-05 17:22:07",
-      "album": {
-        "name": "I Dig You",
-        "url": "https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O"
-      },
-      "artists": [
-        {
-          "name": "\u6050\u9f8d\u7684\u76ae",
-          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
-        },
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h"
+      "duration_ms": 302903,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
     },
     {
       "added_at": "2024-12-05 17:22:07",
@@ -1699,22 +1683,34 @@
     {
       "added_at": "2024-12-05 17:22:07",
       "album": {
-        "name": "We Are Making Out",
-        "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 170975,
-      "name": "We Are Making Out",
-      "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh"
+    },
+    {
+      "added_at": "2024-12-05 17:22:07",
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     }
   ],
   "unique_name": ".ORG",

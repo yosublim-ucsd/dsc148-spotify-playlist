@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36688,
+  "num_followers": 36694,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACzMbZwTv0H21ddgssDTvsa",
+  "snapshot_id": "Z1I+gAAAAABStiwr5MKkg+NBsA/UZrWL",
   "tracks": [
     {
       "added_at": null,
@@ -162,11 +162,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 183480,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX"
+      "duration_ms": 231960,
+      "name": "Jump Sit Stand March",
+      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
     },
     {
       "added_at": null,
@@ -226,15 +230,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Jump Sit Stand March",
-      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
+      "duration_ms": 183480,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX"
     },
     {
       "added_at": null,

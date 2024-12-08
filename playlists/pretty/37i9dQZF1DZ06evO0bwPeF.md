@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,663 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,662 likes - 41 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 38 | [Make\-Up](https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:48 |
 | 39 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
 | 40 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 |
-| 41 | [Tell Me Again](https://open.spotify.com/track/5e5X4a7JK1wUVivxxMZB0G) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:43 |
+| 41 | [Powder Puff](https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:41 |
 
-Snapshot ID: `Z1DtAAAAAAD3KsJhqrFng0ai4T7gxnxh`
+Snapshot ID: `Z1I+gAAAAAD2ZL00Ku3FEHXE2RKXmLGi`

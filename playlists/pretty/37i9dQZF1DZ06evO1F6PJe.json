@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 104040,
+  "num_followers": 104048,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADwWBLTvv9eeGeti6t3CxfP",
+  "snapshot_id": "Z1I+gAAAAACrfpkS5BD9SWi5d6dx+HMW",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 273878,
-      "name": "Heartache Follows Wherever I Go",
-      "url": "https://open.spotify.com/track/6DZ0ye2dTWMsb5guCRvFSO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live at the Greek Theatre",
         "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 374846,
       "name": "I'll Play The Blues For You (Live)",
       "url": "https://open.spotify.com/track/0lJijPdJCSe8clUhV0zEmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 273878,
+      "name": "Heartache Follows Wherever I Go",
+      "url": "https://open.spotify.com/track/6DZ0ye2dTWMsb5guCRvFSO"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 324468,
-      "name": "Never Give All Your Heart",
-      "url": "https://open.spotify.com/track/7x0pNksxr4JdSuX3OXGpcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Driving Towards The Daylight",
         "url": "https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183493,
       "name": "I Got All You Need",
       "url": "https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 324468,
+      "name": "Never Give All Your Heart",
+      "url": "https://open.spotify.com/track/7x0pNksxr4JdSuX3OXGpcQ"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 201308,
-      "name": "Living On The Moon",
-      "url": "https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 201308,
+      "name": "Living On The Moon",
+      "url": "https://open.spotify.com/track/6Im052EnAuJJHDTKYcxciQ"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Shades Of Blue (Overdrive)",
-        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 279956,
-      "name": "I Gave Up Everything For You, 'Cept The Blues",
-      "url": "https://open.spotify.com/track/7eDWh4BsLvdNjy8aHcHezR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Mr. Fantasy",
         "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 274081,
       "name": "Dear Mr. Fantasy",
       "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Shades Of Blue (Overdrive)",
+        "url": "https://open.spotify.com/album/4CccCvfIaAH7tWlYg2lPJg"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 279956,
+      "name": "I Gave Up Everything For You, 'Cept The Blues",
+      "url": "https://open.spotify.com/track/7eDWh4BsLvdNjy8aHcHezR"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tales Of Time (Live)",
         "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Four Day Creep",
-        "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
-        }
-      ],
-      "duration_ms": 232944,
-      "name": "Four Day Creep",
-      "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilogy, Vol. 1",
         "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 297106,
       "name": "Train (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Four Day Creep",
+        "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Four Day Creep",
+      "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
     },
     {
       "added_at": null,

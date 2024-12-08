@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-405 songs - 20 hr 44 min
+406 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [As It Is At Night](https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [As it is At Night](https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4) | 2:15 | 2022-03-18 | 2024-01-18 |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-06-24 |  |
+| [Astral Protection](https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Astral Protection](https://open.spotify.com/album/1B5vXAdBsulmfmcvVSTmPK) | 2:25 | 2024-11-21 |  |
 | [Atlas](https://open.spotify.com/track/2DRe9TGpWAUjWZDR1loVXO) | [Hélder Sequeira](https://open.spotify.com/artist/3yp9yOOw145wizsNjq5IdG) | [Atlas](https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl) | 2:31 | 2023-07-28 | 2024-06-17 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 |  |
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2022-01-12 | 2024-05-21 |
@@ -230,7 +231,7 @@
 | [life cycle](https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [life cycle](https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy) | 3:07 | 2024-05-20 |  |
 | [Life Seeds](https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Life Seeds](https://open.spotify.com/album/31BeE7Bs2FHd1m1rOrFMMh) | 2:56 | 2024-01-17 |  |
 | [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
-| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 |  |
+| [Lightness and Focus](https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Lightness and Focus](https://open.spotify.com/album/7B7Y7wGlgsbKAL4QGSd3qW) | 2:30 | 2024-01-17 | 2024-12-08 |
 | [Lights Out](https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD) | [Solene Edgar](https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul) | [Lights Out](https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd) | 2:53 | 2022-01-12 | 2022-02-02 |
 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 | 2022-01-12 | 2024-05-21 |
 | [Longing](https://open.spotify.com/track/65IABcx2DXfu4c1FDUW6V0) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Niclas Lundqvist](https://open.spotify.com/artist/5xhXAA1szAltReao2ctWBg) | [Longing](https://open.spotify.com/album/56RBZwRTH6Z1oG4HFG7weo) | 3:11 | 2024-07-09 |  |

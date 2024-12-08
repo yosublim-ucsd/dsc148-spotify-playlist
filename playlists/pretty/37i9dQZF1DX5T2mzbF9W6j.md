@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,519 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,503 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 54 | [Lepiej niż teraz](https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Lepiej niż teraz](https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF) | 2:54 |
 | 55 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 |
 | 56 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
-| 57 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 |
-| 58 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 57 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 58 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 |
 | 59 | [Kissing A Ghost](https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Kissing A Ghost](https://open.spotify.com/album/5Nz8ntCVMWGhvdEPqX84Es) | 3:19 |
 | 60 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
 

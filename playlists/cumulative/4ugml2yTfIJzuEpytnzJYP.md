@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-268 songs - 16 hr 54 min
+269 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Drifter](https://open.spotify.com/track/1DFWGr54J47PrUN0euQhVf) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:21 | 2022-10-14 | 2023-05-10 |
 | [Dumb \- dnb edit](https://open.spotify.com/track/5VspIe3SteTgIT8jJA3V7J) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Dumb \(dnb edit\)](https://open.spotify.com/album/66lKWt1amMXKhZLGKt96rd) | 3:48 | 2022-02-25 | 2022-08-23 |
 | [E C L I P S E](https://open.spotify.com/track/2xL5JtHtAwQGGpIGDsSNEO) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [E C L I P S E](https://open.spotify.com/album/4VrYoXadX5jb0QyfQ4ox9p) | 3:55 | 2022-01-26 | 2022-04-16 |
+| [Echoes](https://open.spotify.com/track/2IN9jNTGfy6SfQOQJgPHLU) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Echoes](https://open.spotify.com/album/7CMm99akKvfXpqCRgYQ6xp) | 3:14 | 2024-12-07 |  |
 | [Echolocation](https://open.spotify.com/track/3jsDLsL6d5VXyhLY98moJb) | [Perverse](https://open.spotify.com/artist/774sonWkC6CKx3KSMgUoq7) | [Echolocation](https://open.spotify.com/album/01XJE8K5FAvvoha2LsDAF0) | 6:03 | 2022-04-26 | 2022-09-17 |
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2022-09-17 | 2022-10-17 |
 | [Embers](https://open.spotify.com/track/269AW9tnLyMog7aBGNGTXX) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Embers](https://open.spotify.com/album/3N8JZmr14N5gNQUtSkAGKL) | 4:02 | 2024-05-24 | 2024-07-04 |

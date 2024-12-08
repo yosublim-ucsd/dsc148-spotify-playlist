@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Negro Impacto
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,372 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,369 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 17 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
 | 18 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 19 | [Osbatt](https://open.spotify.com/track/2LogzWD6BFBnj3avJpjcnh) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s) | [Osbatt](https://open.spotify.com/album/7cDDTqMfZorUbKIouPTm0w) | 4:03 |
-| 20 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 |
-| 21 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
+| 20 | [NO MANNERS](https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO) | [MGEE](https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC) | [NO MANNERS](https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX) | 2:18 |
+| 21 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 |
 | 22 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 |
 | 23 | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Sticks and Stones \(ft\. Kojey Radical & Strandz\)](https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO) | 4:12 |
 | 24 | [Bando Kid](https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Bando Kid](https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw) | 3:17 |
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 45 | [Wagashi](https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Wagashi](https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq) | 1:56 |
 | 46 | [dancing](https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X) | [dancing](https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4) | 2:22 |
 | 47 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 |
-| 48 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
-| 49 | [Backwards \- Reimagined](https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:36 |
-| 50 | [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 |
+| 48 | [2BADGYALZ](https://open.spotify.com/track/2R5vY0DGyGkoW1Q13SNCzr) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2BADGYALZ](https://open.spotify.com/album/5Lx2hE5ENvPQJplNUXYxrC) | 1:41 |
+| 49 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
+| 50 | [Backwards \- Reimagined](https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:36 |
 | 51 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
 | 52 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 |
 | 53 | [Bring Me Up](https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Bring Me Up](https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz) | 2:22 |
 | 54 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
 | 55 | [New Day](https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [New Day](https://open.spotify.com/album/6i72V24SOOku076TNzxShq) | 3:15 |
 | 56 | [Boss B\*tch](https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Boss B\*tch](https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ) | 2:27 |
-| 57 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 |
-| 58 | [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 |
+| 57 | [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 |
+| 58 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 |
 | 59 | [Precious](https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 3:40 |
 | 60 | [ROBOSHOTTA \(feat\. Burna Boy\)](https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:05 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Sommer, Sonne, Lieblingshits  ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,531,110 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,980 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 53 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
 | 54 | [Summer's Back](https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Summer's Back](https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO) | 2:27 |
 | 55 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 |
-| 56 | [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 |
-| 57 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 56 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 57 | [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 |
 | 58 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 | 59 | [Oberteil](https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [Oberteil](https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M) | 2:29 |
 | 60 | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga \(feat\. Totó La Momposina\)](https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89) | 2:30 |

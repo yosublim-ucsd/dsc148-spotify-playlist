@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-298 songs - 16 hr 47 min
+299 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Free L\-Gante](https://open.spotify.com/track/2XJLoUmpWyAhrMry0TIt1o) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Free L\-Gante](https://open.spotify.com/album/1JACVgEJvfWQqGmQZTNj50) | 3:54 | 2023-08-25 | 2023-09-02 |
 | [Frontea 3](https://open.spotify.com/track/7238cpvB913sO1Rh8C6onD) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Brisa La Roca](https://open.spotify.com/artist/7HTxnpCW9GGBBSW4twQPQn) | [Frontea 3](https://open.spotify.com/album/63s10DSJrXwmzS9Lpk4kA7) | 3:02 | 2023-08-18 | 2023-09-02 |
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-05-26 | 2024-10-26 |
-| [Fue un Sueño](https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 3:30 | 2024-03-29 |  |
+| [Fue un Sueño](https://open.spotify.com/track/2WbzsVExw5cBxPFj6gqcKb) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Este Mundo](https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j) | 3:30 | 2024-03-29 | 2024-12-08 |
 | [FUMAN TWO](https://open.spotify.com/track/2GhH5I2KqMwPMA0xdHsjog) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA) | [FUMAN TWO](https://open.spotify.com/album/6qwax9ljt11tiPcoHo4IGy) | 1:54 | 2023-08-25 | 2024-05-24 |
 | [Gancia y Limon](https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o) | [Smk\-2](https://open.spotify.com/artist/6gxMv3Vj5PBdDbWfycfVxt), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Gancia y Limon](https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa) | 3:53 | 2023-09-22 | 2024-01-24 |
 | [Gobernada](https://open.spotify.com/track/51nQJy39tCUGvF6aCUJqW5) | [El Guachoon](https://open.spotify.com/artist/74f8yYPROjWNuz2WJOpQTr) | [25 Horas de Gira](https://open.spotify.com/album/3KDbFoymkpijR5jsI13zKL) | 3:13 | 2023-05-26 | 2024-03-06 |
@@ -218,6 +218,7 @@
 | [Ponte La 10](https://open.spotify.com/track/7BTZzDl2yiRc8ICoFK6Po2) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Ponte La 10](https://open.spotify.com/album/3ILo8ufIhYW8jR4nCJ7rVr) | 3:20 | 2023-06-23 | 2023-08-21 |
 | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [PONTE PERRO \| DJ TAO Turreo Sessions \#24](https://open.spotify.com/album/5S53ufaOE0vScVuQ17GKOH) | 2:29 | 2024-07-03 |  |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2024-03-05 |  |
+| [Porque te vas](https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls) | [Puro Movimiento DJ](https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q) | [A Todo Remix](https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod) | 3:57 | 2024-12-06 |  |
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2023-05-26 |  |
 | [Que Escándalo](https://open.spotify.com/track/7kgAm5XKXTmi9QV2bfIKb4) | [Ezequiel Llanos](https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Dimelo Ismael](https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor) | [Que Escándalo](https://open.spotify.com/album/2u7fyjldU6wCuuDgRyi9n1) | 2:30 | 2023-07-07 | 2023-08-19 |
 | [Que Explote](https://open.spotify.com/track/78lhT9AhhHv53wYiR9JOrQ) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Que Explote](https://open.spotify.com/album/2ikm0etD5vqrXUnu8vtTNx) | 2:43 | 2024-09-27 | 2024-10-16 |

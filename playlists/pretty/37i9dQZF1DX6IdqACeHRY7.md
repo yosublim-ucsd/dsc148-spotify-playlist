@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,904 likes - 114 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,906 likes - 114 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 22 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 23 | [if we never met](https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [if we never met](https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg) | 2:24 |
 | 24 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 |
-| 25 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
-| 26 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
+| 25 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
+| 26 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 27 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 |
 | 28 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 |
 | 29 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 69 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Hey Ya!](https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G) | 3:34 |
 | 70 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 71 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
-| 72 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
-| 73 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
+| 72 | [Be Your Man](https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Be Your Man](https://open.spotify.com/album/052JsWmQlm2x415X7glETB) | 4:00 |
+| 73 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 74 | [I'm Done](https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:09 |
 | 75 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 |
 | 76 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 87 | [Sorry \- Live](https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4) | 3:24 |
 | 88 | [Say Goodnight](https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Say Goodnight](https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor) | 2:46 |
 | 89 | [Fin Regn](https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Fin Regn](https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6) | 3:21 |
-| 90 | [So Last Year](https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [So Last Year](https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2) | 3:25 |
-| 91 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
+| 90 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
+| 91 | [So Last Year](https://open.spotify.com/track/2EjmWm3yeQnjNisYR3SeQP) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [So Last Year](https://open.spotify.com/album/3lOux7MSKA99Q9gF94ZLe2) | 3:25 |
 | 92 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
 | 93 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 |
 | 94 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |

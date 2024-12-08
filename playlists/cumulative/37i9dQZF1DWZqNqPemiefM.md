@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-677 songs - 2 day 4 hr 35 min
+678 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 | 2024-06-15 |  |
 | [Irie](https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Irie](https://open.spotify.com/album/4gJvJKL4K8GEGZqCNUbvUi) | 5:47 | 2022-11-03 | 2022-12-24 |
+| [It Works](https://open.spotify.com/track/5MIhtr9hx6YPK9i4inU4Cf) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Music From A Room Full Of Synths](https://open.spotify.com/album/1HyxwIOx0JFe1nlnj9JR4H) | 2:35 | 2024-12-05 |  |
 | [Iyo No Hito](https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Iyo No Hito](https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS) | 6:14 | 2024-07-26 |  |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 | 2022-12-24 |
 | [jellyfish](https://open.spotify.com/track/4rzhdIO9I6nhGWHwKDtRiZ) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [jellyfish](https://open.spotify.com/album/3VXWeLX3SNXLdAi2DEURpY) | 2:44 | 2023-10-19 | 2024-02-09 |
@@ -333,7 +334,7 @@
 | [Maha Rose North 102021, Breathwork](https://open.spotify.com/track/4V0XU8oWY7M1o5BGKcmml2) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [\(Im just\) Chillin, on Fire](https://open.spotify.com/album/3ZBBhHrjGOBMTMTnvBghc5) | 7:25 | 2024-03-07 | 2024-06-07 |
 | [Manbow](https://open.spotify.com/track/1We7bciAsCc4knw9ma9B8s) | [かわさき みれい](https://open.spotify.com/artist/3Wyr6ZE9XhVVLM252Z4ygJ) | [Aqua\~アクア](https://open.spotify.com/album/0K83JNd2tr8Ni4p150KB2b) | 9:30 | 2022-03-30 | 2022-07-09 |
 | [Marginalia \#119](https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/31TDrtEsbcHHJNnZ9IWOB9) | 6:09 | 2024-02-08 | 2024-04-19 |
-| [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 | 2024-03-07 |  |
+| [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 | 2024-03-07 | 2024-12-08 |
 | [Marimba Dub](https://open.spotify.com/track/0QMi6HLSf6Pgd74vO7DkO7) | [MUGA](https://open.spotify.com/artist/7FaFnk516uHwNzlR5TMq5A) | [Marimba Dub](https://open.spotify.com/album/0xUox3PuVSx0qolN7WzCMD) | 3:57 | 2022-03-31 | 2022-04-21 |
 | [materialize](https://open.spotify.com/track/47ZEYm8Dm64j4Le79GsTB8) | [wk\[es\]](https://open.spotify.com/artist/4HnyYlqvSG1hJfpvzunWpU) | [interface](https://open.spotify.com/album/1dGrVsVHlZEW2Y9ln7ZQNK) | 4:02 | 2022-03-31 | 2022-04-11 |
 | [Me](https://open.spotify.com/track/3pzdrEzmh2moHVAeHIvait) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Me](https://open.spotify.com/album/3GnP7ZR5eISmgS3fkO32Ir) | 2:31 | 2024-12-05 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,807 likes - 68 songs - 2 hr 57 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,808 likes - 68 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 2 | [It](https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [It](https://open.spotify.com/album/22p2prq9HNF6RNB7S4nKjt) | 3:15 |
 | 3 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 |
-| 4 | [Dive In](https://open.spotify.com/track/0cLaX5oX4WStIu9tVO7fC4) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ) | [Dive In](https://open.spotify.com/album/5gibeid5X7B2lzcNHaUzLO) | 2:08 |
+| 4 | [Dive In](https://open.spotify.com/track/0cLaX5oX4WStIu9tVO7fC4) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Dive In](https://open.spotify.com/album/5gibeid5X7B2lzcNHaUzLO) | 2:35 |
 | 5 | [Alabama Don](https://open.spotify.com/track/6GdtQWDXpwBr1rWgbDIY3v) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc) | [Alabama Don](https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5) | 2:29 |
 | 6 | [Mad](https://open.spotify.com/track/45y9nLedAVUP55j71MS2Gl) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Mad](https://open.spotify.com/album/59FGkniUZXQJ7qC1JMYD0S) | 2:18 |
 | 7 | [Upside Down](https://open.spotify.com/track/6dMj1G2mkCNF7UpE5Xhks8) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Upside Down](https://open.spotify.com/album/5UGcaqt4vWNGpMrnXafOtX) | 2:20 |

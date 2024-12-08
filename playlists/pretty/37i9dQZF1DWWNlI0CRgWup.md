@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Miki
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,336 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,332 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

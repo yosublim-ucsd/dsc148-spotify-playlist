@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: centomilacarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,020 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,010 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 5 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
 | 6 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
 | 7 | [GRANDINE \(feat\. mew\)](https://open.spotify.com/track/0liQcHfCU5zKeSEdIYfGIP) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP), [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [GRANDINE \(feat\. mew\)](https://open.spotify.com/album/3GFXDDau3jmZ2RdrkJ3HTy) | 3:07 |
-| 8 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 8 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 9 | [VERTEBRE](https://open.spotify.com/track/1CGqE43Inhm54oPCMrgF7S) | [SETTEMBRE](https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2) | [VERTEBRE](https://open.spotify.com/album/3NALtxk7mVSDJNdMiRKD1m) | 2:50 |
 | 10 | [senza te](https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [senza te](https://open.spotify.com/album/54g19qvrqead1XxhNpujsV) | 2:19 |
 | 11 | [Rockstar](https://open.spotify.com/track/1Nxi3qWX2wJ08VeWiSV9By) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Rockstar](https://open.spotify.com/album/4E2mpIFXDslDMo14Kp6iWr) | 3:36 |

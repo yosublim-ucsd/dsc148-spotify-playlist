@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Munawar x Aniket Raturi x Karan Kanchan
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Emiway Bantai
 
-167 songs - 8 hr 56 min
+168 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Mehfooz](https://open.spotify.com/track/0ojrz3vVgmge8bGjnzZf5q) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 3:03 | 2024-02-07 | 2024-07-19 |
 | [Mera](https://open.spotify.com/track/0hTqg0XBQqzVyyXKJzKAdF) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera](https://open.spotify.com/album/5tG8txHqfFoaVGep5gysrC) | 3:01 | 2023-03-17 | 2023-12-14 |
 | [Mera Bhai](https://open.spotify.com/track/5g7GYTSDalAE8fBlL9cFkx) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Mera Bhai](https://open.spotify.com/album/7rKV4EYJaJicUWyGnub7ip) | 3:02 | 2023-03-17 | 2023-04-25 |
+| [Mera Na Hua](https://open.spotify.com/track/1ZMBiwgX7G4nqNjCXcsUgP) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera Na Hua](https://open.spotify.com/album/1M8RD0cZ02p6nA0qmqhPwG) | 3:02 | 2024-12-07 |  |
 | [Mirage](https://open.spotify.com/track/79XWR48r2oeTj7SW8zvewN) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Mirage](https://open.spotify.com/album/6CA54Htuv6U3ii9ZG3LEET) | 3:36 | 2023-03-17 | 2023-04-25 |
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-17 | 2023-04-25 |
 | [Mohabbat](https://open.spotify.com/track/2cbTH0FqDD2wv9KBXuWjme) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3) | [Mohabbat](https://open.spotify.com/album/3E1gh4gV97yJUgMWrwTvG4) | 3:14 | 2023-03-17 | 2023-04-25 |
@@ -139,7 +140,7 @@
 | [Rider](https://open.spotify.com/track/4HgGRoPXYSEZlyaKz26qNQ) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-17 | 2024-04-13 |
 | [Ring Ring](https://open.spotify.com/track/3WT8xs1Hbo7l3YFjsUyhVs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Meme Machine](https://open.spotify.com/artist/08EMsXwlxsiyeC08Kjh2AS) | [Ring Ring](https://open.spotify.com/album/67lK0SeP8JsiWcxCYE7LHR) | 3:17 | 2023-03-17 | 2024-04-05 |
 | [Robin Hood](https://open.spotify.com/track/1BtTsqCyxTOXlkmY3iHeKY) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Robin Hood](https://open.spotify.com/album/6sVYed41ypnAPwcoHOXzWu) | 2:56 | 2023-09-15 | 2023-12-09 |
-| [Roshni](https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2), [Vernon Tauro](https://open.spotify.com/artist/34o46ubfKWo2VtkVzZJ5Yx) | [Roshni](https://open.spotify.com/album/7FH9OhjduEaO1ZYKlAsp7T) | 2:22 | 2024-07-19 |  |
+| [Roshni](https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2), [Vernon Tauro](https://open.spotify.com/artist/34o46ubfKWo2VtkVzZJ5Yx) | [Roshni](https://open.spotify.com/album/7FH9OhjduEaO1ZYKlAsp7T) | 2:22 | 2024-07-19 | 2024-12-08 |
 | [Royal Rumble](https://open.spotify.com/track/5TfVd7uMROQYyh6ifcKWn3) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Royal Rumble](https://open.spotify.com/album/3K6txR80fCDOBRgjkVLClM) | 3:36 | 2023-03-17 | 2023-04-25 |
 | [Ruthless](https://open.spotify.com/track/0ttWU4iS0Axuie887ueZvW) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Ruthless](https://open.spotify.com/album/2WBXuZ5gtFLnkcjJd36EIJ) | 4:15 | 2023-03-17 | 2023-12-14 |
 | [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 | 2024-04-12 |  |

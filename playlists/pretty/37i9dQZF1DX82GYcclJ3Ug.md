@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Sawyer Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,184 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,344 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 44 | [Animal](https://open.spotify.com/track/7CXkLmEUNqa8FI0PgkfC00) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Animal](https://open.spotify.com/album/5tHaOeERI8YhSzXhI648FA) | 2:48 |
 | 45 | [Pitfall](https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [chandol](https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz) | [Burnout](https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g) | 3:02 |
 | 46 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 |
-| 47 | [Jeanie](https://open.spotify.com/track/314fwpO5U3cwgNseLVhwdu) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Jeanie](https://open.spotify.com/album/4SiEsSExMEqycC1lhRRiOY) | 2:41 |
+| 47 | [Jeanie](https://open.spotify.com/track/314fwpO5U3cwgNseLVhwdu) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Jeanie](https://open.spotify.com/album/4SiEsSExMEqycC1lhRRiOY) | 2:41 |
 | 48 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 |
 | 49 | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG) | 4:21 |
 | 50 | [Dad's 4Runner](https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Marietta](https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh) | 2:27 |

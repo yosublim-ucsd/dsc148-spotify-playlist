@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 583015,
+  "num_followers": 583084,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Mercy (feat. Jacob Lusk)",
-        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 178242,
-      "name": "Mercy (feat. Jacob Lusk)",
-      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+      "duration_ms": 204820,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -475,18 +471,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
+        "name": "Mercy (feat. Jacob Lusk)",
+        "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
         }
       ],
-      "duration_ms": 204820,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+      "duration_ms": 178242,
+      "name": "Mercy (feat. Jacob Lusk)",
+      "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Stick Together",
-        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 110062,
-      "name": "Stick Together",
-      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Be with You Tonight",
         "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Stick Together",
+        "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 110062,
+      "name": "Stick Together",
+      "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 166341,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Bring On Up Our Love",
+        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Bring On Up Our Love",
+      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bring On Up Our Love",
-        "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Kimchii",
-          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Bring On Up Our Love",
-      "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "UP DOWN BOUNCE",
-        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "UP DOWN BOUNCE",
-      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -1327,6 +1307,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Love Seeking",
+        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 226565,
+      "name": "Love Seeking",
+      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Love Seeking",
-        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 226565,
-      "name": "Love Seeking",
-      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Take You Higher",
         "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195944,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 209127,
       "name": "No More Stress",
       "url": "https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Chains",
-        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
-      },
-      "artists": [
-        {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        },
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "Chains",
-      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Colors (The Knocks Remix)",
         "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
       },
@@ -1795,18 +1775,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        },
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 149745,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
+      "duration_ms": 215649,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Swiss Sensation",
-        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 227214,
-      "name": "Swiss Sensation",
-      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
+      "duration_ms": 149745,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2003,18 +2003,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2039,22 +2043,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
       "artists": [
         {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
         }
       ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "comic relief",
         "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 337975,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 219810,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Night Versions",
-        "url": "https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Changed For The Better - Disco Version",
-      "url": "https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 204210,
       "name": "If You Want It",
       "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Night Versions",
+        "url": "https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Changed For The Better - Disco Version",
+      "url": "https://open.spotify.com/track/2vLwnsh9J6uZqvWoemd6HC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2319,18 +2319,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ol\u00e9 Maca",
-        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
+        "name": "Ordinary Love (Folamour Remix)",
+        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 279036,
-      "name": "Letras",
-      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
+      "duration_ms": 325706,
+      "name": "Ordinary Love - Folamour Remix",
+      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2359,22 +2363,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ordinary Love (Folamour Remix)",
-        "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
+        "name": "Ol\u00e9 Maca",
+        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
         }
       ],
-      "duration_ms": 325706,
-      "name": "Ordinary Love - Folamour Remix",
-      "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+      "duration_ms": 279036,
+      "name": "Letras",
+      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
     },
     {
       "added_at": "2024-12-06 05:00:00",

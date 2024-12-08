@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,517 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,526 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 11 | [Los Rockeros Van al Infierno](https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX) | [Barón Rojo](https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF) | [Grandes Exitos](https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN) | 4:19 |
 | 12 | [El Infierno de Dante](https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK) | [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [El Llamado de la Hembra](https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa) | 4:35 |
 | 13 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
-| 14 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
-| 15 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
+| 14 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
+| 15 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
 | 16 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
 | 17 | [Eres Tan Mala Como la Carne de Puerco](https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z) | [Marraneitors](https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs) | [Rebelión En El Chiquero](https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR) | 2:30 |
 | 18 | [Pueblo Motoquero](https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4) | [Tren Loco](https://open.spotify.com/artist/7aFWI1ooewKlAlMparvoab) | [Venas De Acero](https://open.spotify.com/album/469b4h0JOhjXeInWRBjyDl) | 4:46 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 26 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 27 | [En la Eternidad](https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd) | [Plan 4](https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54) | [Lleva Tu Mente al Limite](https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H) | 3:09 |
 | 28 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
-| 29 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
-| 30 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
+| 29 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
+| 30 | [Sigo Siendo El Rey](https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [Satanico\-Dramatico](https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv) | 1:11 |
 | 31 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
 | 32 | [Pueblos erguidos](https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:18 |
 | 33 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 38 | [Cantina Del Infierno](https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2) | [Dia De Los Muertos](https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD) | [No Money No Fiesta](https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq) | 2:49 |
 | 39 | [Cacique Yatel](https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk) | [Aonikenk](https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7) | [Sentir Metalero](https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J) | 4:16 |
 | 40 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
-| 41 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
-| 42 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
+| 41 | [Apatrida](https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf) | [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt) | [Apatrida](https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3) | 3:45 |
+| 42 | [Acero Inmortal](https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M) | [Voltax](https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2) | [Fugitive State of Mind](https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai) | 3:47 |
 | 43 | [Relación Canina 2.0](https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX) | [Medical Negligence](https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg) | [Evil](https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl) | 2:45 |
 | 44 | [Residentes Olvidados](https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P) | [Leprosy](https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x) | [Llora Chiapas](https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL) | 5:12 |
 | 45 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |

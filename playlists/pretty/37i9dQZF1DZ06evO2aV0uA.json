@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 132226,
+  "num_followers": 132255,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAABsTYb9uK9L/KfRCbwNdiRX",
+  "snapshot_id": "Z1I+gAAAAAAeCRvqPLCMkAcjdF3IIi9Z",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosting the Shadow (feat. Randy Blythe)",
-        "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Hosting the Shadow (feat. Randy Blythe)",
-      "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floods of Triton",
         "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 215240,
       "name": "Descending",
       "url": "https://open.spotify.com/track/0xNx1JxP6PCZ8KpW0cVsDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hosting the Shadow (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Hosting the Shadow (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
+      "duration_ms": 270746,
+      "name": "New Colossal Hate",
+      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 270746,
-      "name": "New Colossal Hate",
-      "url": "https://open.spotify.com/track/1ILi61AsfqMfUvxWpoJiuc"
+      "duration_ms": 234306,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/7siSMBw1wFPPBNoBtXNzMb"
     },
     {
       "added_at": null,

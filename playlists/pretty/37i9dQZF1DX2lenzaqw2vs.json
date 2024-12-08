@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 135750,
+  "num_followers": 135756,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -186,15 +186,11 @@
         {
           "name": "Young Miko",
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 181157,
-      "name": "MADRE",
-      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -342,11 +338,15 @@
         {
           "name": "Young Miko",
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+      "duration_ms": 181157,
+      "name": "MADRE",
+      "url": "https://open.spotify.com/track/20ubMMwoL8zs9hDZ149aPl"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "La Respuesta",
         "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 168015,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Todos Miran",
+        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 147222,
+      "name": "Todos Miran",
+      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Todos Miran",
-        "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 147222,
-      "name": "Todos Miran",
-      "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "De Brujas, Peteneras y Chachalacas",
-        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
       "artists": [
         {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 397520,
-      "name": "T\u00e9 de Malv\u00f3n",
-      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+      "duration_ms": 176335,
+      "name": "LALALAND",
+      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+        "name": "De Brujas, Peteneras y Chachalacas",
+        "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
       "artists": [
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
         }
       ],
-      "duration_ms": 176335,
-      "name": "LALALAND",
-      "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
+      "duration_ms": 397520,
+      "name": "T\u00e9 de Malv\u00f3n",
+      "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Todo vuelve al punto de partida",
-        "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 195392,
-      "name": "Panamericana",
-      "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "KONFESSION",
-        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
+        "name": "Todo vuelve al punto de partida",
+        "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
       "artists": [
         {
-          "name": "Matt Louis",
-          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
         }
       ],
-      "duration_ms": 178276,
-      "name": "KONFESSION",
-      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
+      "duration_ms": 195392,
+      "name": "Panamericana",
+      "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Venus & Blue",
+        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 190679,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "KONFESSION",
+        "url": "https://open.spotify.com/album/2zZRUziQkAx4BB2WY6TGNe"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "KONFESSION",
+      "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "444/Ms. Moon",
         "url": "https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 170805,
       "name": "444",
       "url": "https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Venus & Blue",
-        "url": "https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 190679,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1271,26 +1271,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Sex Tape",
-        "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
       },
       "artists": [
         {
-          "name": "JEDET",
-          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Pipo Beatz",
-          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 118206,
-      "name": "Sex Tape",
-      "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1311,18 +1303,26 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+        "name": "Sex Tape",
+        "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
       "artists": [
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "JEDET",
+          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+      "duration_ms": 118206,
+      "name": "Sex Tape",
+      "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "El Invierno",
+        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
+      },
+      "artists": [
+        {
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+        }
+      ],
+      "duration_ms": 200487,
+      "name": "El Invierno",
+      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "BELAMOR",
         "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "El Invierno",
-        "url": "https://open.spotify.com/album/3vwJWdVtc1VqpnqJbYgHgO"
-      },
-      "artists": [
-        {
-          "name": "Bifes con ensalada",
-          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
-        }
-      ],
-      "duration_ms": 200487,
-      "name": "El Invierno",
-      "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "As\u00ed Me Siento Hoy",
         "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
     }
   ],
   "unique_name": "BRILLO",

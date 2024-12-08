@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202937,
+      "name": "Hymn To Virgil",
+      "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Sally Cruz & Rose Villain  in cover ✨ il pop è un caleidoscopio 🏵️
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,312 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,325 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 1 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 2 | [Figli degli dei](https://open.spotify.com/track/6hxk0hDkmW0sXjFjHlOLee) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Figli degli dei](https://open.spotify.com/album/6WcZB74TXH0IK5VLZicyyk) | 3:00 |
 | 3 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 |
 | 4 | [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 |

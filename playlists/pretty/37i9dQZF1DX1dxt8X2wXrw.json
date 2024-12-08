@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67459,
+  "num_followers": 67464,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 158712,
       "name": "One Call",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -495,22 +495,22 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
-        "name": "Hmm (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
       },
       "artists": [
         {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         },
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 163369,
-      "name": "Hmm (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -535,22 +535,22 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
       },
       "artists": [
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
         },
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 181599,
-      "name": "Pretty Little Thing",
-      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
         "name": "Hole Erth",
         "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
       },
@@ -675,6 +655,26 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "duration_ms": 181599,
+      "name": "Pretty Little Thing",
+      "url": "https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
         "name": "Just My Luck / Tomorrow Man",
         "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 180332,
       "name": "Just My Luck",
       "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
-        "name": "The Rest Of Me (Edit)",
-        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 186078,
-      "name": "The Rest Of Me - Edit",
-      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -727,6 +711,22 @@
       "duration_ms": 222600,
       "name": "I Suppose",
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
+        "name": "The Rest Of Me (Edit)",
+        "url": "https://open.spotify.com/album/59HTqqTL9NJXpHoae6rMsc"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 186078,
+      "name": "The Rest Of Me - Edit",
+      "url": "https://open.spotify.com/track/0zyti4c912rAMBAqfT3JEw"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
-        "name": "Black Dress",
-        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 237361,
-      "name": "Black Dress",
-      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 211200,
       "name": "YOU",
       "url": "https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
+        "name": "Black Dress",
+        "url": "https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 237361,
+      "name": "Black Dress",
+      "url": "https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
-        "name": "Hey Homie",
-        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189874,
-      "name": "Hey Homie",
-      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
         "name": "MANIC",
         "url": "https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 138461,
       "name": "MANIC",
       "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
+        "name": "Hey Homie",
+        "url": "https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189874,
+      "name": "Hey Homie",
+      "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
     },
     {
       "added_at": "2024-11-22 06:57:39",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-11-22 06:57:39",
       "album": {
+        "name": "FYS",
+        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 209202,
+      "name": "FYS",
+      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
+    },
+    {
+      "added_at": "2024-11-22 06:57:39",
+      "album": {
         "name": "Beyond Rea5onable Doubt",
         "url": "https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 203496,
       "name": "Fake Can't Stay - ft.JAE5",
       "url": "https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3"
-    },
-    {
-      "added_at": "2024-11-22 06:57:39",
-      "album": {
-        "name": "FYS",
-        "url": "https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 209202,
-      "name": "FYS",
-      "url": "https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG"
     },
     {
       "added_at": "2024-11-22 06:57:39",

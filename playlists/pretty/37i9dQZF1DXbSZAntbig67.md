@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,193 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,356 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 79 | [El Beat de la Navidad](https://open.spotify.com/track/1LOmOworKCTUaYrfCoekFC) | [The Innfluencers](https://open.spotify.com/artist/7oG16xbmQGISrCWU5oIIP9), [Charito D'Alessio](https://open.spotify.com/artist/3V5Qw3ZCcw61Yxal7ydnIi), [Jimena Longoria](https://open.spotify.com/artist/3LfKAsfLT8rsYhO0u0Uj16), [Andy Benavides](https://open.spotify.com/artist/5KZjdL9bBiJpRS1VUCIclr) | [El Beat de la Navidad](https://open.spotify.com/album/4V4lEwBl7eijAlSsbVaN8h) | 3:14 |
 | 80 | [¡Ay! del Chiquirritin](https://open.spotify.com/track/3avEmlpCtDrgkZCilJ1M7n) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:09 |
 | 81 | [Ya Vienen los Reyes](https://open.spotify.com/track/3U6Pdh2Smnwc8ruhcv9PKc) | [Coro Católico Navideño Virgen María](https://open.spotify.com/artist/1i2brfbbB4R5ZfRcKRaazP) | [Navidad para Niños\. Voces Blancas Cantan Villancicos](https://open.spotify.com/album/44PVoGzXgo7Awm0r37jPF4) | 2:33 |
-| 82 | [Santa Claus de noche vendrá](https://open.spotify.com/track/2vTMA1BdYJo1OC5j12xYkx) | [Los Niños de Navidad](https://open.spotify.com/artist/3YX4ubVCrmLEe3HNjceXU9) | [Feliz Navidad & a Merry Christmas: 40 Canciones Favoritas Para Niños](https://open.spotify.com/album/5CXFZPU8JSP6gxz7gpW0yi) | 2:32 |
+| 82 | [Santa Claus de noche vendrá](https://open.spotify.com/track/2vTMA1BdYJo1OC5j12xYkx) | [Los Niños de Navidad](https://open.spotify.com/artist/3KpS6H7CXNEQkbxtoHH6ri) | [Feliz Navidad & a Merry Christmas: 40 Canciones Favoritas Para Niños](https://open.spotify.com/album/5CXFZPU8JSP6gxz7gpW0yi) | 2:32 |
 | 83 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 |
 | 84 | [Ha Nacido el Niño](https://open.spotify.com/track/5mTWzUu3V5dyvhb8IcWnlN) | [Los Niños Cantores del Oriente](https://open.spotify.com/artist/2nix7zWSwl26N2Ej9itvkL) | [Clásicos de Navidad \- Villancicos para Niños](https://open.spotify.com/album/7hvVilvvm4KXyeQl3bn4X6) | 2:10 |
 | 85 | [Arre Borriquito](https://open.spotify.com/track/0PNupRaFqOWwiQNSlLSmVt) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Navidad](https://open.spotify.com/album/5lM4yOjONUeA7Hkhp3Gt2H) | 3:06 |
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 104 | [Me La Gozo Entera](https://open.spotify.com/track/5aBnVmzJvo5rJfoXTXJz5a) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Rumbon Navideno](https://open.spotify.com/album/0R4hEWSzwwRwXE5mNT82H7) | 3:54 |
 | 105 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/3jcQdzXtzd6jnjRny2Ez6b) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:29 |
 | 106 | [El Tamborilero](https://open.spotify.com/track/4SIRNOB4kL8Uox6xqr07Ej) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Navidad](https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR) | 3:45 |
-| 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/7rYC3pa1w04szXDCCOpbsd) | [Kike Santander](https://open.spotify.com/artist/74cNhp7LsCkRB6i4ey3hIT), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:39 |
+| 107 | [Farolito \(Little Star\)](https://open.spotify.com/track/7rYC3pa1w04szXDCCOpbsd) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:39 |
 | 108 | [Aires De Navidad](https://open.spotify.com/track/3q07EDAXOMoQ4SSf5NRkVn) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 3:43 |
 
 Snapshot ID: `ZIsP4gAAAADGyFEQwn04YQVCjsX9D2qQ`

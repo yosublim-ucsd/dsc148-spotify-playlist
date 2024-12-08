@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAABgc34GgIQDJ4Za2ZR+9N/x",
+  "snapshot_id": "Z1I+gAAAAAAq7VpPSn70d+1w3k9TWaPR",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Apur\u00e9 Mi Caf\u00e9",
+      "url": "https://open.spotify.com/track/1828p0hv042r1LVXgJHSZn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/2YpckMEZN0Z2w6FtGMRcj0"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 255000,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/6tB3TN8NjXiTUIYvflp8P5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Apur\u00e9 Mi Caf\u00e9",
-      "url": "https://open.spotify.com/track/1828p0hv042r1LVXgJHSZn"
     },
     {
       "added_at": null,
@@ -335,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
       "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN"
+      "duration_ms": 181961,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/2biUT54gIqLtxLUt8rNuct"
       },
       "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 181961,
-      "name": "Complicado",
-      "url": "https://open.spotify.com/track/40fBOKWD0ophwpsjE9kBcD"
+      "duration_ms": 176786,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2OQy8QEsfuGsZmBYvo73dN"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 258480,
       "name": "Si Quieres - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Como No Adorarla",
+      "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 295967,
       "name": "Yo Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Como No Adorarla",
-      "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
     },
     {
       "added_at": null,

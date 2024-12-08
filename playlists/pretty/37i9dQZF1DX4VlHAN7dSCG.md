@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 溫蒂漫步 \(Wendy Wander\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,391 likes - 72 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,393 likes - 72 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 3 | [地球最後的夜晚](https://open.spotify.com/track/3RbY0SmcINoquTCs3jxRnj) | [逃跑计划EscapePlan](https://open.spotify.com/artist/3eJTjQEMzEeoS4n6aJXhKM) | [地球最後的夜晚](https://open.spotify.com/album/7bMt6g8sgg77ywJKH3jtvi) | 4:52 |
 | 4 | [So Far](https://open.spotify.com/track/0sJrQi8SP0H1Ub3n7dL7zW) | [Yaseinosu 野巢](https://open.spotify.com/artist/3f3yZncMG0uc8XGyeKiV0S) | [So Far](https://open.spotify.com/album/4kDd1q6dYLc3jp4AZ94OBa) | 4:55 |
 | 5 | [Finally Home](https://open.spotify.com/track/6iR5O2B7JVJTCfHmqrHU4N) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [Finally Home](https://open.spotify.com/album/198hQcblSP2zjXHYUpScOS) | 5:18 |
-| 6 | [OKAY](https://open.spotify.com/track/4QU4yxGOHdWy1TXBMA2zFv) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV), [謝慧嫺](https://open.spotify.com/artist/0XuVTsHYqoWTGA989cLRkD) | [OKAY](https://open.spotify.com/album/6BYOUByz1VlBkveZPb9kqt) | 3:33 |
+| 6 | [OKAY](https://open.spotify.com/track/4QU4yxGOHdWy1TXBMA2zFv) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV), [謝慧嫻](https://open.spotify.com/artist/6OnwfmukZtmZ4f7c8T8Cgi) | [OKAY](https://open.spotify.com/album/6BYOUByz1VlBkveZPb9kqt) | 3:33 |
 | 7 | [A Simple Song](https://open.spotify.com/track/4fyWhlyUb1LKfMXiQd7vqV) | [Anak Borneo 婆羅洲之子](https://open.spotify.com/artist/0CVpClWXwT0efLt0ibRVSB), [Kent Lee](https://open.spotify.com/artist/5B3WralwPMUPFh0uZ5JP9j) | [A Simple Song](https://open.spotify.com/album/7AYoCriW709mvJPSXW7y8U) | 3:58 |
 | 8 | [翻轉世界Boom! \(From SCOOL "FINAL" Original Television Soundtrack\)](https://open.spotify.com/track/1kErtEBJhA0QYLNLnlq894) | [SCOOL](https://open.spotify.com/artist/39fvShWcI12gynGYyEOTeb) | [翻轉世界Boom! \(From SCOOL "FINAL" Original Television Soundtrack\)](https://open.spotify.com/album/2rf3Wb9jE3Y56k2atIA6Lc) | 2:56 |
 | 9 | [曾經的我想把你留在這座城市 \- Demo](https://open.spotify.com/track/3nBBs8SXZNVvQJwsmBE1jo) | [人生勝利組](https://open.spotify.com/artist/03zpY0YBh1rjpePiEmshh7) | [曾經的我想把你留在這座城市 \(Demo\)](https://open.spotify.com/album/7Kom4YtfDBSI4eEezs5S2j) | 4:19 |

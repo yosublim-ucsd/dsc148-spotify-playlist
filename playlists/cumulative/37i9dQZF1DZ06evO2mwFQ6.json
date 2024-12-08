@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 252946,
       "name": "Dirt Racer",
       "url": "https://open.spotify.com/track/5UkNfI7pKdJWjqX3tTdOCs"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 179165,
       "name": "Dirt Track Cowboys '08",
       "url": "https://open.spotify.com/track/3RXfGZcQuzRRlxFMIBWGUJ"
@@ -286,10 +286,28 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 198289,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/45lasTnqrHd1t9SZ8s2SWa"
+    },
+    {
+      "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO"
     },
     {
       "album": {
@@ -568,7 +586,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183849,
       "name": "Gone Fishin'",
       "url": "https://open.spotify.com/track/6pj4qrvZ0R40dgd6Tw4rf6"
@@ -814,7 +832,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 248725,
       "name": "If Heaven Has A Soundtrack",
       "url": "https://open.spotify.com/track/08N3K0Mhn9AbobnOqZMfmJ"
@@ -840,6 +858,28 @@
       "duration_ms": 216706,
       "name": "It's Five O'clock Somewhere",
       "url": "https://open.spotify.com/track/1tpLiHWWQgR1ZCvADJy0dn"
+    },
+    {
+      "album": {
+        "name": "Adam Brand and The Outlaws",
+        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "It's Five O'clock Somewhere",
+      "url": "https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76"
     },
     {
       "album": {
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 208386,
       "name": "Mamma Don't Let Your Babies",
       "url": "https://open.spotify.com/track/39m8k3Zy3ubhaU31UyW4EC"
@@ -1046,7 +1086,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 180827,
       "name": "Now We're Talking",
       "url": "https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9"
@@ -1322,7 +1362,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Still the One",
       "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
@@ -1481,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Adam Brand and The Outlaws",
+        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233040,
+      "name": "Way Out West",
+      "url": "https://open.spotify.com/track/079DxgUPBayPga0ijJymx0"
+    },
+    {
+      "album": {
         "name": "Adam Brand And The Outlaws",
         "url": "https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz"
       },
@@ -1496,7 +1558,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 233040,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/1Fec9MLNzxEcdEtLPlBMlQ"
@@ -1556,7 +1618,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 183280,
       "name": "We're Makin' Up",
       "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"
@@ -1574,7 +1636,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 217930,
       "name": "What Your Love Looks Like",
       "url": "https://open.spotify.com/track/3f7R49NWWrJc9OHRdXLJqj"
@@ -1599,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Casey Donovan",
+          "url": "https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205022,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag"
+    },
+    {
+      "album": {
         "name": "Speed Of Life",
         "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
       },
@@ -1614,7 +1698,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 205022,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/6CavrLdJAXl9bn0DQEgBm4"

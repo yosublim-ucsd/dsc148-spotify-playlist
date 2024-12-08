@@ -4005,6 +4005,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -4020,7 +4042,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -6238,7 +6260,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 133932,
       "name": "bauch beine po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -6442,7 +6464,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -8802,7 +8824,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 153820,
       "name": "Blutbad",
       "url": "https://open.spotify.com/track/5DylBC46ctdTFQl5e9Ri36"
@@ -9658,7 +9680,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 97391,
       "name": "Bundeswehr",
       "url": "https://open.spotify.com/track/5JLbgRkto4OrrkWgAHcJZT"
@@ -9812,6 +9834,28 @@
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
+    },
+    {
+      "album": {
+        "name": "Butcher",
+        "url": "https://open.spotify.com/album/71Xdk4hTiAbzeCMfm4oo6X"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167842,
+      "name": "Butcher",
+      "url": "https://open.spotify.com/track/0uSHA5dbsCRMmzbidwhKwl"
     },
     {
       "album": {
@@ -13283,6 +13327,28 @@
     },
     {
       "album": {
+        "name": "Did You See (feat. Jazeek)",
+        "url": "https://open.spotify.com/album/0R3TxAtqNe52zRMgvXBskY"
+      },
+      "artists": [
+        {
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134170,
+      "name": "Did You See (feat. Jazeek)",
+      "url": "https://open.spotify.com/track/5z1ohvvWduu1jRfiz9IPzU"
+    },
+    {
+      "album": {
         "name": "die first",
         "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
       },
@@ -15004,7 +15070,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -15022,7 +15088,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -16936,7 +17002,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 135226,
       "name": "Es schneit",
       "url": "https://open.spotify.com/track/0MuO07P9EPAY7TthO4cl7D"
@@ -17114,7 +17180,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -17655,6 +17721,24 @@
     },
     {
       "album": {
+        "name": "F**kin' 1",
+        "url": "https://open.spotify.com/album/0dLwprDz9n64mAF85x7snf"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "F**kin' 1",
+      "url": "https://open.spotify.com/track/26DYtMS2pjNM4knvuCYb8X"
+    },
+    {
+      "album": {
         "name": "FABIAN",
         "url": "https://open.spotify.com/album/3xEmBIqhZDkkpuAC8x2IqU"
       },
@@ -18134,6 +18218,24 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148414,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
     },
     {
       "album": {
@@ -28705,6 +28807,24 @@
     },
     {
       "album": {
+        "name": "Kein DJ",
+        "url": "https://open.spotify.com/album/6j2xOsq0yFEYDw7uaYbtp1"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133028,
+      "name": "Kein DJ",
+      "url": "https://open.spotify.com/track/7y0gyU4jMNwcbh3dmPVkuF"
+    },
+    {
+      "album": {
         "name": "Nie verliebt",
         "url": "https://open.spotify.com/album/0oT9yCzfAsD4cI7zOczbmC"
       },
@@ -30592,7 +30712,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 101080,
       "name": "Lasst uns froh und munter sein",
       "url": "https://open.spotify.com/track/6GbPziAWs8oJQdzPTddrBS"
@@ -33373,6 +33493,32 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -33392,7 +33538,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -44805,6 +44951,24 @@
     },
     {
       "album": {
+        "name": "Rashford Flanke",
+        "url": "https://open.spotify.com/album/1ejvCPcCS8iJ3XlvwV2Dn5"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136052,
+      "name": "Rashford Flanke",
+      "url": "https://open.spotify.com/track/3EDYMyWJFtVrqWBhdMSV14"
+    },
+    {
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -47140,7 +47304,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -47986,6 +48150,32 @@
       "duration_ms": 142946,
       "name": "Schwarzes Herz",
       "url": "https://open.spotify.com/track/7pxyUIf4168eTcdry0kFue"
+    },
+    {
+      "album": {
+        "name": "Schwarzgeld",
+        "url": "https://open.spotify.com/album/6Z5RDce1HNlbYUB8MW0NBN"
+      },
+      "artists": [
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/1m1Z3TrGetTWWB8CiQN4S8"
+        },
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        },
+        {
+          "name": "Haftbefehl",
+          "url": "https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Schwarzgeld",
+      "url": "https://open.spotify.com/track/5waaXD1XeU3RePbu0S0jqZ"
     },
     {
       "album": {
@@ -52846,7 +53036,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -52864,7 +53054,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -55372,7 +55562,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -55390,7 +55580,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -56170,7 +56360,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 134528,
       "name": "VEMPA",
       "url": "https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be"

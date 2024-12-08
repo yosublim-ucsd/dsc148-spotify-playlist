@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Maureen x Bamby
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,846 likes - 40 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,972 likes - 40 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 18 | [GOD BLESS \- Ah la vie qu'on mène](https://open.spotify.com/track/4QDtddeOG5EiPAplk8wG4N) | [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q) | [GOD BLESS \(Ah la vie qu'on mène\)](https://open.spotify.com/album/1vdIgsdzh1EO8bmhJ2zA17) | 2:44 |
 | 19 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 |
 | 20 | [Jet Ski](https://open.spotify.com/track/6K54j58zLdDgbWGtT4CINU) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jet Ski](https://open.spotify.com/album/0EoE85vAFJhMghCxeUjjKe) | 2:02 |
-| 21 | [Keep It Burning 3D](https://open.spotify.com/track/4YJ9mIxcZmZghy5ZK14haM) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA), [Jmax](https://open.spotify.com/artist/2UYBMxXUV6L1Z38BoQag6A) | [Keep It Burning 3D](https://open.spotify.com/album/3eXFY1yYCZYL5irun9DlXO) | 2:35 |
+| 21 | [Keep It Burning 3D](https://open.spotify.com/track/4YJ9mIxcZmZghy5ZK14haM) | [Scory Kovitch](https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8), [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA), [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Keep It Burning 3D](https://open.spotify.com/album/3eXFY1yYCZYL5irun9DlXO) | 2:35 |
 | 22 | [Badman Party](https://open.spotify.com/track/4fhi1faidAMJkWkVLjq7iK) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Sukuward](https://open.spotify.com/artist/0HTe090uRvK2wjx8rdIOl3) | [Badman Party](https://open.spotify.com/album/4XCePJwzv9wGnj5SqfBmLs) | 1:51 |
 | 23 | [Monte à bord](https://open.spotify.com/track/4lhntjwptLAURpNV871ECl) | [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Monte à bord](https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K) | 2:33 |
 | 24 | [Full Plastique](https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Youth CrazySquad](https://open.spotify.com/artist/7c0anpzJb2ssRsmpmoKRZ2) | [Full Plastique](https://open.spotify.com/album/6oiOkRNRABM02BwSvERdXx) | 2:32 |

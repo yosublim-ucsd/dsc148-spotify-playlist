@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Rulo, Coque Malla y Dani Mart\u00edn.",
-  "num_followers": 587959,
+  "num_followers": 588031,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Destrozares, Canciones para el Final de los Tiempos",
-        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Del Tiempo Perdido",
-      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Jugar Al Gua",
         "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 262626,
       "name": "Flojos de pantal\u00f3n",
       "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Destrozares, Canciones para el Final de los Tiempos",
+        "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Del Tiempo Perdido",
+      "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
     },
     {
       "added_at": "2024-12-05 23:00:00",

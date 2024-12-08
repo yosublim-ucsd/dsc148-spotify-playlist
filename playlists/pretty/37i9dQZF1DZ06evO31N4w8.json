@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 60361,
+  "num_followers": 60374,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACEzElnVF11PMCiTh5YlZv0",
+  "snapshot_id": "Z1I+gAAAAABs42ni6ocPuJ+BhLSyCR7y",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abriendo Caminos",
         "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 197933,
       "name": "Como Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "added_at": null,

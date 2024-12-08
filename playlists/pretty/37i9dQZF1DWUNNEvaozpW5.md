@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Rulo, Coque Malla y Dani Martín.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,959 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,031 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 63 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
 | 64 | [Me Quedo Contigo \(Si Me Das A Elegir\) \- Live Baïonarena](https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Baïonarena \(Live\)](https://open.spotify.com/album/7i5eD0VAL2fdeUNO1IQBDj) | 4:48 |
 | 65 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
-| 66 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
-| 67 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
+| 66 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
+| 67 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 | 68 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
 | 69 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 70 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 | 71 | [Flores de Trinchera](https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei), [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Flores de Trinchera](https://open.spotify.com/album/09zUPBZdo5rK7gvVil5qj9) | 8:00 |
 | 72 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 73 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |
-| 74 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
-| 75 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
+| 74 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
+| 75 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
 | 76 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
 | 77 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
 | 78 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |

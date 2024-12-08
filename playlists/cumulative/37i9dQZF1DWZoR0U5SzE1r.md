@@ -4,7 +4,7 @@
 
 > Continue giving God praise with these classic worship songs! Cover: Matt Redman
 
-386 songs - 1 day 12 hr 17 min
+387 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Canyons](https://open.spotify.com/track/3qJrhAPsIAPZ0NcJ7erI6t) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:40 | 2024-12-02 |  |
 | [Captain](https://open.spotify.com/track/3YWY2vDpD4ygZRMW9u0bby) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 5:31 | 2020-06-26 | 2024-12-03 |
 | [Catch the Wind \(Spontaneous\)](https://open.spotify.com/track/3erH1jt2kFCJAXtaScDCe8) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Moments: Mighty Sound](https://open.spotify.com/album/5IGjIGu16MS3cu4CxLsXn3) | 9:49 | 2020-06-26 | 2024-06-23 |
-| [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 | 2020-06-26 |  |
+| [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 | 2020-06-26 | 2024-12-08 |
 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 | 2024-12-02 |  |
 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 | 2024-12-02 |  |
 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 | 2024-12-02 |  |
@@ -310,6 +310,7 @@
 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 | 2020-06-26 | 2024-12-03 |
 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 | 2024-12-02 |  |
 | [Spirit Lead Me \- Live](https://open.spotify.com/track/4T4mQpaA4wAj8FYYFVrRN5) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [Touching Heaven \(Live\)](https://open.spotify.com/album/51TJKJhXFke5OZaU56B9qe) | 7:08 | 2020-06-26 | 2024-06-23 |
+| [Stand In Your Love \- Radio Version](https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d) | 3:41 | 2024-12-02 |  |
 | [Starts And Ends \- Live](https://open.spotify.com/track/6pVL0PbjKbn56UHzXfNF37) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 8:10 | 2020-06-26 | 2022-07-24 |
 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 | 2020-06-26 | 2024-07-18 |
 | [Stir a Passion \- Live](https://open.spotify.com/track/5Yd2LrQZg3ouzzvgC1QKvJ) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Stir a Passion](https://open.spotify.com/album/5pjsLhandWZP3rUF7NQuZ9) | 8:19 | 2020-06-26 | 2024-06-28 |

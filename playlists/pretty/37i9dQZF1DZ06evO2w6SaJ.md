@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,969 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,971 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 37 | [Candy Coated](https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 4:22 |
 | 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `Z1DtAAAAAACbkefj89FNeTf3lI83IL7k`
+Snapshot ID: `Z1I+gAAAAADz6ZCpzQw+H0tQGeIzve63`

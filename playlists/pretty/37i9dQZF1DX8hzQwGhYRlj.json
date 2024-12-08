@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 37454,
+  "num_followers": 37468,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg/Sibelius: Cello Sonatas",
-        "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Truls M\u00f8rk",
-          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 606493,
-      "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
-      "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
         "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 472947,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
       "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg/Sibelius: Cello Sonatas",
+        "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 606493,
+      "name": "Grieg: Cello Sonata in A Minor, Op. 36: I. Allegro agitato",
+      "url": "https://open.spotify.com/track/3h1ato75I6NuK3atUWeQen"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Lyric Pieces",
         "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 90800,
       "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
       "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 324026,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
       "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2022-09-30 04:01:00",

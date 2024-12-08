@@ -4,7 +4,7 @@
 
 > This is Banda Carnaval\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 19 min
+102 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Vuelve, Vuelve \- En Vivo](https://open.spotify.com/track/6aCCj56P1fRI9l0pkwDBfF) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Acústicos \(En Vivo\)](https://open.spotify.com/album/1mMTAEorTDJjxHVeN4eKLo) | 4:22 | 2022-10-12 | 2022-12-13 |
 | [Y Ahora Te Vas](https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vamos De Nuevo](https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR) | 3:35 | 2024-06-03 |  |
 | [Y Te Vas](https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:43 | 2022-06-01 |  |
+| [Ya La Hice](https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Síganme Tirando](https://open.spotify.com/album/61faNqNSGMoB925CzdoonK) | 1:58 | 2024-12-08 |  |
 | [Ya Me Sirvió De Experiencia](https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:19 | 2022-06-01 |  |
 | [Ya Me Vi Contigo](https://open.spotify.com/track/3wvf2xLgmbgJIFyKuJVH3R) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:28 | 2022-06-01 |  |
 | [¿Cómo Le Digo?](https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Máximo Nivel](https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE) | 3:05 | 2022-06-01 |  |

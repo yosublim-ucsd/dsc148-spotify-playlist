@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 142049,
+  "num_followers": 142314,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACV1gUyA4Pdm1BNsb3NMmCY",
+  "snapshot_id": "Z1I+gAAAAAA6213CxvEnYSrY+6xVnX2I",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 252821,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 285093,
       "name": "Todo Cambio",
       "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 252821,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fea",
-        "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 245035,
-      "name": "La Fea",
-      "url": "https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 182299,
       "name": "Delante De Mi",
       "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fea",
+        "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 245035,
+      "name": "La Fea",
+      "url": "https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cuadros (Live)",
-        "url": "https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 246997,
-      "name": "El Cuadros - Live",
-      "url": "https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 237679,
       "name": "El Mago",
       "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cuadros (Live)",
+        "url": "https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 246997,
+      "name": "El Cuadros - Live",
+      "url": "https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV"
     },
     {
       "added_at": null,

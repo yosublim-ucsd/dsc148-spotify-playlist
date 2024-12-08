@@ -1,6 +1,6 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 98261,
+  "num_followers": 98282,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZwQmegAAAADEwCMAdq8fXOz9vUNwgPJt",
   "tracks": [
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Stop",
         "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2024-10-07 18:20:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Electric Warrior",
         "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 216826,
       "name": "Mambo Sun",
       "url": "https://open.spotify.com/track/4FHGKscCEnhBSyszmL32L0"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2024-01-25 15:55:50",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-01-25 15:55:50",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "\u00c1frika",
-      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
-    },
-    {
-      "added_at": "2024-01-25 15:55:50",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 232880,
       "name": "16 De Febrero",
       "url": "https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5"
+    },
+    {
+      "added_at": "2024-01-25 15:55:50",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "\u00c1frika",
+      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
     },
     {
       "added_at": "2024-01-25 15:55:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,258 likes - 133 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,265 likes - 133 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 9 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
 | 10 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
 | 11 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
-| 12 | [Lagu Cinta Untuk Mama](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
+| 12 | [Lagu Cinta Untuk Mama \- Lagu Cinta Untuk Mama Original Soundtrack](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama \(Lagu Cinta Untuk Mama Original Soundtrack\)](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
 | 13 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 |
 | 14 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 |
 | 15 | [Tempat Ini](https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tempat Ini](https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4) | 3:22 |

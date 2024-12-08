@@ -1,6 +1,6 @@
 {
   "description": "Favor de hacer doble fila para bailar estos cumbiones \u00a1S\u00fabale hay lugares!",
-  "num_followers": 481058,
+  "num_followers": 481230,
   "original_name": "Cumbia de Microb\u00fas",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZocuqQAAAAD5GqL4XkyoEOF8C7aQ8+BF",
   "tracks": [
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 225360,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
-    },
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
         "name": "Palabras No",
         "url": "https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 249234,
       "name": "Palabras No",
       "url": "https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+        }
+      ],
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 264413,
       "name": "He Cre\u00eddo",
       "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
-    },
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Quedate Con \u00c9l",
-      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
       "artists": [
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+      "duration_ms": 216317,
+      "name": "Quedate Con \u00c9l",
+      "url": "https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Los Del Garrote",
-        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
       "artists": [
         {
-          "name": "Los Del Garrote",
-          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 197786,
-      "name": "La Cumbia Del Garrote",
-      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -987,18 +987,38 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Los Del Garrote",
+        "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Los Del Garrote",
+          "url": "https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 197786,
+      "name": "La Cumbia Del Garrote",
+      "url": "https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
+        "name": "Ya No Me Perteneces",
+        "url": "https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Black Power",
+          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
+        }
+      ],
+      "duration_ms": 269063,
+      "name": "Ya No Me Perteneces",
+      "url": "https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -1023,22 +1043,6 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+    },
+    {
+      "added_at": "2024-07-04 23:22:17",
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 210006,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs"
-    },
-    {
-      "added_at": "2024-07-04 23:22:17",
-      "album": {
-        "name": "Ya No Me Perteneces",
-        "url": "https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Black Power",
-          "url": "https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O"
-        }
-      ],
-      "duration_ms": 269063,
-      "name": "Ya No Me Perteneces",
-      "url": "https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "No Te Voy A Perdonar, Volumen 4",
-        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 232756,
-      "name": "No Te Voy A Perdonar",
-      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -1787,8 +1787,8 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "No Te Voy A Perdonar, Volumen 4",
+        "url": "https://open.spotify.com/album/24V99ibPcTjI906jV1io1D"
       },
       "artists": [
         {
@@ -1796,9 +1796,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+      "duration_ms": 232756,
+      "name": "No Te Voy A Perdonar",
+      "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
     },
     {
       "added_at": "2024-07-04 23:22:17",
@@ -1919,8 +1919,8 @@
     {
       "added_at": "2024-07-04 23:22:17",
       "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
       "artists": [
         {
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 326640,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2024-07-04 23:22:17",

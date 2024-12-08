@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-157 songs - 7 hr 47 min
+160 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,11 +45,12 @@
 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 |  |
 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 | 2024-10-18 |  |
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
+| [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Don't You \(feat\. Naomi Ayleen\)](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 |  |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
-| [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 |  |
+| [Enough](https://open.spotify.com/track/0vgXEftdFm12zERrMkLqzH) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/40PbD4AUnhOJQD1y1qKlOh) | 2:40 | 2024-10-11 | 2024-12-08 |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-15 | 2024-10-04 |
 | [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 | 2024-11-09 |  |
 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
@@ -84,7 +85,7 @@
 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 | 2024-10-03 | 2024-11-02 |
 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 |  |
 | [Julia?](https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Julia?](https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi) | 3:44 | 2024-10-03 |  |
-| [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 | 2024-06-27 |  |
+| [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 | 2024-06-27 | 2024-12-08 |
 | [Kale Juice](https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Teary\-Eyed](https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4) | 2:38 | 2024-09-13 | 2024-11-12 |
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 | 2024-10-04 |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
@@ -94,9 +95,10 @@
 | [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 |  |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 | 2024-08-06 |
-| [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 | 2024-08-23 |  |
+| [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 | 2024-08-23 | 2024-12-08 |
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-22 |  |
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-08-19 |  |
+| [Luisa](https://open.spotify.com/track/3HO8nhj3GUWcASnhQFO4iO) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Luisa](https://open.spotify.com/album/1JWNb9DGs4uPn4aj2yf8iA) | 3:04 | 2024-12-07 |  |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr), [Aaron Asteria](https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8) | [Milchstrass \(feat\. Aaron Asteria\)](https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL) | 3:57 | 2024-06-27 |  |
@@ -124,6 +126,7 @@
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
+| [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 | 2024-12-07 |  |
 | [Sans Toi](https://open.spotify.com/track/3XN0T1Yew3d5hiXhmMuuDS) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Sans Toi](https://open.spotify.com/album/3qvzJyERlOl1zvdxkPxB7y) | 2:14 | 2024-09-27 | 2024-11-10 |
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2024-11-28 |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |

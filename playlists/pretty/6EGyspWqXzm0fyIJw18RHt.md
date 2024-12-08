@@ -9,12 +9,12 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 |
-| 2 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 |
+| 2 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 |
 | 3 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 |
 | 4 | [Lay All Your Love On Me](https://open.spotify.com/track/5WGatOLP3uqV4mh8jkloUv) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [AAAH!BBA](https://open.spotify.com/album/6etdJTw0gFbGOwQdb94lqo) | 4:40 |
 | 5 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 |
 | 6 | [I'll Be Haunting You](https://open.spotify.com/track/1k8b9cP9YjJHKHZL3v7ZVc) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Phone Power](https://open.spotify.com/album/645yGpkh3TEcrsnKlIiU5k) | 2:47 |
-| 7 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 |
+| 7 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 |
 | 8 | [My Own Version of You](https://open.spotify.com/track/3BQnez3qUm6hdKwxXly7Rw) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 6:41 |
 | 9 | [Hey There Cthulhu](https://open.spotify.com/track/1GZzxvJBOQm0FpWDjDR1Tx) | [Eben Brooks](https://open.spotify.com/artist/3Zp46gRCScTYhH89q2efS1) | [O R’lyeh? Iä, R’lyeh!](https://open.spotify.com/album/7wuZENcvYK7TzE84CAqBjs) | 4:11 |
 | 10 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 33 | [Cao Dai Blowout](https://open.spotify.com/track/0EQ7zZroo7GOnHyMYafHFi) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:08 |
 | 34 | [Vampire Reference in a Minor Key](https://open.spotify.com/track/6yF5PIbuoQFBn5On5Fual4) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | ["In case I make it,"](https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV) | 4:38 |
 
-Snapshot ID: `AAAAJ3Iok2LhNi+vZlfP9eM1OtiEnd3a`
+Snapshot ID: `AAAAKa2kITq4ftWdOeB+VGUYgUbx+4/r`

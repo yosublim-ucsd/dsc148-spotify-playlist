@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,948 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,054 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 45 | [Pull Over](https://open.spotify.com/track/6M33HiUHLC3R3gfXYNGMAy) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:14 |
 | 46 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
 | 47 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
-| 48 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 |
-| 49 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
-| 50 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
+| 48 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
+| 49 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 |
+| 50 | [Hater's Anthem](https://open.spotify.com/track/43fVFKYwRXQwDtgT1jTGrh) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6) | [The Bootleg of the Bootleg \(Deluxe Version\)](https://open.spotify.com/album/4Q7MFryZW2OPuwQh4EW6Yh) | 5:13 |
 
 Snapshot ID: `Z1KE0AAAAABjuiXN3fPPrTbOysqrEYHa`

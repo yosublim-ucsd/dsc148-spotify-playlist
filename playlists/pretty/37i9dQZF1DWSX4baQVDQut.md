@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,868,710 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868,655 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 65 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 |
 | 66 | [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 |
 | 67 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 |
-| 68 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 |
-| 69 | [Sexy Sensual](https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sexy Sensual](https://open.spotify.com/album/2ODIMjRh2s81YSHaJyta3x) | 2:44 |
-| 70 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |
-| 71 | [Me Arriesgo Contigo](https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Me Arriesgo Contigo](https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET) | 2:45 |
+| 68 | [Sexy Sensual](https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Sexy Sensual](https://open.spotify.com/album/2ODIMjRh2s81YSHaJyta3x) | 2:44 |
+| 69 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 |
+| 70 | [Me Arriesgo Contigo](https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Me Arriesgo Contigo](https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET) | 2:45 |
+| 71 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |
 | 72 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 |
 | 73 | [ESE VATO](https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ESE VATO](https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO) | 3:48 |
 | 74 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |

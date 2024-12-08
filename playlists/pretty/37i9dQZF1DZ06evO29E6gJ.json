@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11746,
+  "num_followers": 11749,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACIf6/0Ix7eIyrjQIvd1FtO",
+  "snapshot_id": "Z1I+gAAAAACL6efL9yxsP9igtkQMvFrv",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 162453,
-      "name": "El 24 De Junio",
-      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 218044,
       "name": "Los Tequileros",
       "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 162453,
+      "name": "El 24 De Junio",
+      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 140466,
-      "name": "Sea por Dios",
-      "url": "https://open.spotify.com/track/5Ws6Td0ZpsJYQpGvQThwll"
+      "duration_ms": 151293,
+      "name": "Prisionero de Tus Brazos",
+      "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOGATA NORTENA",
-        "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Hay Mujeres Ingratas en la Vida [Ranchera]",
-      "url": "https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos de los Alegres de Ter\u00e1n, Vol. 2",
         "url": "https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOGATA NORTENA",
+        "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Hay Mujeres Ingratas en la Vida [Ranchera]",
+      "url": "https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Exitos de Los Alegres de Ter\u00e1n, vol. 1",
         "url": "https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 151293,
-      "name": "Prisionero de Tus Brazos",
-      "url": "https://open.spotify.com/track/6KqyjEEo57j3VHTNLv1BsC"
+      "duration_ms": 140466,
+      "name": "Sea por Dios",
+      "url": "https://open.spotify.com/track/5Ws6Td0ZpsJYQpGvQThwll"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w"
+      "duration_ms": 211826,
+      "name": "Valente Quintero",
+      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Valente Quintero",
-      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
+      "duration_ms": 190266,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Contestadas",
         "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 167800,
       "name": "La Mosca",
       "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Contestadas",
         "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 170266,
       "name": "La Martina",
       "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "La Mula Bronca",
-      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Masri on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,755 likes - 79 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,786 likes - 79 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 23 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
 | 24 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 |
 | 25 | [Pas Comme Ça](https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [D&D](https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610) | 3:17 |
-| 26 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
-| 27 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 |
+| 26 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 |
+| 27 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 |
 | 28 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 |
 | 29 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 |
 | 30 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 52 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 |
 | 53 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
 | 54 | [Dream](https://open.spotify.com/track/7qkKTvMlCRC2VZ4fjyKZOu) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Dream](https://open.spotify.com/album/6G3DcLtH640Po7Ch5fJDSY) | 2:24 |
-| 55 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 |
-| 56 | [JNTP](https://open.spotify.com/track/5PRJiN6g7yEpvN9E01K9Cj) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:40 |
+| 55 | [JNTP](https://open.spotify.com/track/5PRJiN6g7yEpvN9E01K9Cj) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:40 |
+| 56 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 |
 | 57 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |
 | 58 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 59 | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/track/4XXJnTdwm0MaKLP2OXajCU) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Skalpovich](https://open.spotify.com/artist/0Flx9EfBqXHltFcp3guYVt) | [AYÉ AYO \(feat\. Skalpovich\)](https://open.spotify.com/album/2LFb14evc1ArfZ8SkQUbcl) | 3:03 |

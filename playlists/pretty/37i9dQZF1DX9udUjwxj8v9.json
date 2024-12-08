@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 147526,
+  "num_followers": 147544,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Nem Ouro Nem Prata",
-        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
-      },
-      "artists": [
-        {
-          "name": "Ruy Maurity",
-          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Nem Ouro Nem Prata",
-      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -551,38 +535,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Sambas De Enredo Das Escolas De Samba 2019",
-        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+        "name": "Nem Ouro Nem Prata",
+        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
       },
       "artists": [
         {
-          "name": "Marquinho Art'Samba",
-          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
-        },
-        {
-          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
-          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+          "name": "Ruy Maurity",
+          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
         }
       ],
-      "duration_ms": 271453,
-      "name": "Hist\u00f3ria Para Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+      "duration_ms": 221960,
+      "name": "Nem Ouro Nem Prata",
+      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -603,6 +567,42 @@
       "duration_ms": 226388,
       "name": "Clareiam\u00f4",
       "url": "https://open.spotify.com/track/7J7GYDRfsBsoORO4K4rx6z"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Sambas De Enredo Das Escolas De Samba 2019",
+        "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
+      },
+      "artists": [
+        {
+          "name": "Marquinho Art'Samba",
+          "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+        },
+        {
+          "name": "Esta\u00e7\u00e3o Primeira de Mangueira",
+          "url": "https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Hist\u00f3ria Para Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
     },
     {
       "added_at": "2023-03-06 22:48:04",

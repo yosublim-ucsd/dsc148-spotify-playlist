@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Astral Protection",
+        "url": "https://open.spotify.com/album/1B5vXAdBsulmfmcvVSTmPK"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2024-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145962,
+      "name": "Astral Protection",
+      "url": "https://open.spotify.com/track/0bqR8enf1eym5wMJhchZTg"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/1dieBUEVZBBgsCaUJWMZEl"
       },
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 150857,
       "name": "Lightness and Focus",
       "url": "https://open.spotify.com/track/06eQs4CZ2J4mm5C36vsWP2"

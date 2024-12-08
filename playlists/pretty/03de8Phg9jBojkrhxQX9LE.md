@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,044 likes - 137 songs - 7 hr 53 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,054 likes - 137 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 7 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
 | 8 | [Magnetic](https://open.spotify.com/track/3Nk2ri6nQaaQakeT0msPuR) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Magnetic](https://open.spotify.com/album/7dKrKWuGF9vUyj8cUXND7G) | 2:46 |
 | 9 | [Bye](https://open.spotify.com/track/032C7H4Fd0EiP2yQxlmGpo) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O), [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR) | [Bye](https://open.spotify.com/album/5yDQvOrEw8iDlnLQXiBNuk) | 3:26 |
-| 10 | [Ain't No Joke](https://open.spotify.com/track/08Evky1lFugCPGK8pk7QQg) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Ain't No Joke](https://open.spotify.com/album/1x22QXZrQBG3r1F5YGb0vc) | 3:15 |
+| 10 | [Ain't No Joke](https://open.spotify.com/track/08Evky1lFugCPGK8pk7QQg) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [Ain't No Joke](https://open.spotify.com/album/1x22QXZrQBG3r1F5YGb0vc) | 2:19 |
 | 11 | [Heaven](https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Heaven](https://open.spotify.com/album/5aXXwisVEtfwYH96pEr7Xv) | 2:33 |
 | 12 | [Push The Tempo \- K Motionz Remix](https://open.spotify.com/track/4xftvcYx6tCgJOp4LnITq0) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Push The Tempo \(K Motionz Remix\)](https://open.spotify.com/album/1XW4GNdmmDtsahBHWZpD50) | 3:47 |
 | 13 | [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 34 | [Tell Me Things](https://open.spotify.com/track/4P65qwmE7esmKdss8zzZcd) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Tell Me Things](https://open.spotify.com/album/4ofz0uuE5CPNrXTU1uj7oL) | 2:51 |
 | 35 | [Mankind](https://open.spotify.com/track/1uedub5ncoabVLIF0Q0n3w) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Warrior EP](https://open.spotify.com/album/5I7NpgaLW9WcgvUUvZeQSf) | 2:19 |
 | 36 | [Run It](https://open.spotify.com/track/6LgNFYl8EyZ4xzQ3mARq64) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Run It](https://open.spotify.com/album/2J9wCDQFnvEFToRVT8PM9e) | 2:45 |
-| 37 | [protection](https://open.spotify.com/track/6hu3D2E062NCE7k1m9Vdgb) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [protection](https://open.spotify.com/album/0y5sdBVvfGVlDUysSpPAPI) | 3:36 |
+| 37 | [protection](https://open.spotify.com/track/6hu3D2E062NCE7k1m9Vdgb) | [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [protection](https://open.spotify.com/album/0y5sdBVvfGVlDUysSpPAPI) | 3:38 |
 | 38 | [Painkiller](https://open.spotify.com/track/3OyvNrSai5CdJiEaPfQBzv) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco), [canary yellow](https://open.spotify.com/artist/6dGWL8hxc3I833xMD6ycBv) | [Painkiller](https://open.spotify.com/album/0vCjOZ1l6hJ3phdx9Yrdvu) | 3:36 |
 | 39 | [Warning You](https://open.spotify.com/track/7A6JX7LHUxzlvKFCfAvS8F) | [American Dave](https://open.spotify.com/artist/5yWPNBD9Ypv2ogRSQp4Er7) | [Present EP](https://open.spotify.com/album/6jlV1a9MCkZmoE1hJb1O8p) | 2:17 |
 | 40 | [Lost at Sea](https://open.spotify.com/track/2OKY6UWvGbc23iqwsRwytg) | [Kinoteki](https://open.spotify.com/artist/3wJlBsm70cEtLqJA69G2xn), [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz) | [Lost at Sea](https://open.spotify.com/album/573u1ZHMtGcARF23bYbjmQ) | 2:24 |

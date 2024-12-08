@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,134 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,137 likes - 34 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 19 | [Enough For Love \- Yaeji heart+beat Remix](https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 2:29 |
 | 20 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
 | 21 | [New York 93 \(Baba Stiltz Remix\)](https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [New York 93 \(Baba Stiltz Remix\)](https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa) | 5:55 |
-| 22 | [When in Summer, I Forget About the Winter \- Bonus Track](https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:17 |
+| 22 | [SPELL 주문](https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:06 |
 | 23 | [Feelings Change](https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 2:35 |
 | 24 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 |
 | 25 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
-| 26 | [SPELL 주문](https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [G.L.A.M.](https://open.spotify.com/artist/0AQ2vnf2f5UNnbTmU0ggYZ) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:06 |
+| 26 | [When in Summer, I Forget About the Winter \- Bonus Track](https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:17 |
 | 27 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
 | 28 | [Passed Me By](https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 4:03 |
 | 29 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 33 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 | 34 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 
-Snapshot ID: `Z1DtAAAAAAAp3YRQJ+toMPEbdePsdNY9`
+Snapshot ID: `Z1I+gAAAAACnMiq6g9GDNA/FwqiYZ+ez`

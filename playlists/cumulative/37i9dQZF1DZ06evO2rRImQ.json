@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Mi Lugar Seguro",
+        "url": "https://open.spotify.com/album/7owNkhPUzGCyWZag689H4M"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180639,
+      "name": "Mi Lugar Seguro",
+      "url": "https://open.spotify.com/track/6E2rRWkLa0StmiVUX4MX8m"
+    },
+    {
+      "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,567 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,829 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 27 | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla) | 3:46 |
 | 28 | [Se Veía Venir](https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk) | 2:32 |
 | 29 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 |
-| 30 | [Chula](https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Chula](https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4) | 2:30 |
-| 31 | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ) | 3:41 |
+| 30 | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Te Estaré Esperando \(En Vivo\)](https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ) | 3:41 |
+| 31 | [Chula](https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Chula](https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4) | 2:30 |
 | 32 | [Tronando Ligas](https://open.spotify.com/track/71dRqswBJfMwOmqhBqOIgH) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/3T1p44pBktaA3TIcjurRkS) | 2:35 |
 | 33 | [Amor Borrachito](https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Amor Borrachito](https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d) | 2:55 |
 | 34 | [Gracias \(En Vivo\)](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 48 | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos \(En Vivo\)](https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG) | 3:52 |
 | 49 | [El Patrocinador](https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Patrocinador](https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne) | 3:26 |
 | 50 | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd) | 3:52 |
-| 51 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 |
-| 52 | [Ramón Arellano](https://open.spotify.com/track/55g0tOpYqe8Nd75vq26V8f) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Ramón Arellano](https://open.spotify.com/album/0i1UTUDXqJybTixDFsMI4D) | 3:13 |
+| 51 | [Hasta Que un día](https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta Que un día](https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK) | 2:50 |
+| 52 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 |
 
-Snapshot ID: `Z1DtAAAAAAA4Tf1VzItSYKpN+mCzITDa`
+Snapshot ID: `Z1I+gAAAAABLBHgUhWDlXeHwlCsym+zS`

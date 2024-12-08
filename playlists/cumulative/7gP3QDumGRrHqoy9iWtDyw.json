@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e"
+    },
+    {
+      "album": {
         "name": "All Night With U (Qubiko Remix)",
         "url": "https://open.spotify.com/album/1b39HG2fmpTWy0F9Khqsc1"
       },

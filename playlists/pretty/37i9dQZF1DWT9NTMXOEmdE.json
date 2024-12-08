@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 484736,
+  "num_followers": 484715,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-12-03 03:58:53",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2024-12-03 03:58:53",
+      "album": {
         "name": "Please Me",
         "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 200889,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
-    },
-    {
-      "added_at": "2024-12-03 03:58:53",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
     },
     {
       "added_at": "2024-12-03 03:58:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-03 03:58:53",
       "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ"
-      },
-      "artists": [
-        {
-          "name": "J.Tajor",
-          "url": "https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
-    },
-    {
-      "added_at": "2024-12-03 03:58:53",
-      "album": {
         "name": "Beautiful (feat. Camila Cabello)",
         "url": "https://open.spotify.com/album/6hCR3zQtRH0IgookOYt771"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 180000,
       "name": "Beautiful (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
+    },
+    {
+      "added_at": "2024-12-03 03:58:53",
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/4AT7V0zZ0B3xWDef7sPCyJ"
+      },
+      "artists": [
+        {
+          "name": "J.Tajor",
+          "url": "https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/1TiZWEsxN85yLJBq56K8mG"
     },
     {
       "added_at": "2024-12-03 03:58:53",

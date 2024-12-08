@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,248 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,264 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 50 | [Ofelia \- Cerrero Dub Mix](https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m) | [Sexteto Tabala](https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Ofelia \(Cerrero Dub Mix\)](https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K) | 4:01 |
 | 51 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 | 52 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
-| 53 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
-| 54 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
-| 55 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 53 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
+| 54 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 |
+| 55 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
 | 56 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
 | 57 | [Momoto](https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5) | [Onda Mundial](https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp), [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Momoto](https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA) | 7:39 |
 | 58 | [El Cafetal](https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Cafetal](https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48) | 4:04 |
 | 59 | [No Más Velorio \- El Búho Remix](https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H) | [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [No Más Velorio \(El Búho Remix\)](https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU) | 4:51 |
-| 60 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
+| 60 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 |
 
 Snapshot ID: `ZpGzHAAAAADp5K7E9ziSPTsP1mZPoh8L`

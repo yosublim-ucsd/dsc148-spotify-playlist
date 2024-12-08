@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-251 songs - 17 hr 30 min
+252 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Wait to Exhale](https://open.spotify.com/track/0b51dXqCWPVZJIMMNgrgD4) | [So This Is Suffering](https://open.spotify.com/artist/7t6iAou9OfWqHvMkyQZKBS) | [A Deathscene On Delay](https://open.spotify.com/album/6GQrz31pVlHmPuqtccP2lo) | 4:18 | 2018-10-06 |  |
 | [Wastage](https://open.spotify.com/track/0QsROSEbS73dKDQNUn35mt) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Global Warning](https://open.spotify.com/album/4AKiiQWquHcV1G4tJRxWXa) | 3:54 | 2020-07-22 |  |
 | [Welcome to Helios](https://open.spotify.com/track/0jkZbu7LTTi7gYLufMfAoX) | [Resuscitate](https://open.spotify.com/artist/5YWiWgNNqRIsw4zaXS61pP), [Jackie Frank Russell III](https://open.spotify.com/artist/1uTwp9pRnTsV52dXbqymyp) | [Tales from Elpis](https://open.spotify.com/album/3iHodKwbxEklGbh1CU6Izg) | 6:28 | 2020-05-02 |  |
+| [Whispers From The Depths](https://open.spotify.com/track/4OWHcUBxtqgzqzj1Ci4wav) | [Obey The Kraken](https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx) | [Whispers From The Depths](https://open.spotify.com/album/0wIDUDXkkGtPAjFqNH5qqU) | 3:16 | 2024-12-07 |  |
 | [Withering](https://open.spotify.com/track/2Vc54T2RIlOeLzOGFtyUzW) | [BRAINDEAD](https://open.spotify.com/artist/2BTrvvXcJPiBYKOFTxgSJE) | [Withering](https://open.spotify.com/album/5NoooU4i8TdD1P89MhK3lz) | 2:45 | 2022-07-11 |  |
 | [Witness](https://open.spotify.com/track/3tGJt8zGngC6jPQMY0f4GJ) | [Child of Waste](https://open.spotify.com/artist/32AyHIylzyYgxAHrPxBxBa) | [Hunger Made Man](https://open.spotify.com/album/14e9VaiKCUUici36Qk4oOL) | 3:33 | 2020-10-15 |  |
 | [Worldeater](https://open.spotify.com/track/3NuCMzto55TdflcbOks2qO) | [Mankind Grief](https://open.spotify.com/artist/24GWwlO2Zy41uCoY5yXPck), [Fer from Cannibal Grandpa](https://open.spotify.com/artist/3sNQhj7RimIlUMPgs5Db0I) | [Inquisitor](https://open.spotify.com/album/6BsmSWskZsxNcLW8OqZmSc) | 6:02 | 2020-10-15 |  |

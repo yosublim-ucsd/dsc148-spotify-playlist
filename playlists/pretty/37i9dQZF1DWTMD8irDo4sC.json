@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 71513,
+  "num_followers": 71533,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
+      },
+      "artists": [
+        {
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
         "url": "https://open.spotify.com/album/7EzzK8xvtwDahUXA7vub1h"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 254745,
       "name": "\u064a\u0627 \u062d\u0633\u0631\u0629 \u0639\u0644\u064a\u0643 \u064a\u0627 \u062f\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/3GLGbZdxErd1d46wEQMELb"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
-      },
-      "artists": [
-        {
-          "name": "Nabyla Maan",
-          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
     },
     {
       "added_at": "2022-05-09 08:05:11",

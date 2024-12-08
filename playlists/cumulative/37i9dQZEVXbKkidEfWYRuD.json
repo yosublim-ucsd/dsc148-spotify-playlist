@@ -1339,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2400,7 +2422,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -7618,7 +7640,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8170,7 +8192,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -9006,7 +9028,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -13454,7 +13476,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -15400,7 +15422,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -16128,7 +16150,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -24731,6 +24753,24 @@
     },
     {
       "album": {
+        "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/4CE3mitKe51HAvMQjwgZ2G"
+      },
+      "artists": [
+        {
+          "name": "volhey",
+          "url": "https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120397,
+      "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
+      "url": "https://open.spotify.com/track/0BryMsuHUY9EK5wC45PggL"
+    },
+    {
+      "album": {
         "name": "\u041c\u0418\u0420 \u0413\u041e\u0420\u0418\u0422",
         "url": "https://open.spotify.com/album/0w5dUhpKSPd2Hpkekal8GN"
       },
@@ -26294,7 +26334,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
@@ -27272,7 +27312,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -30984,7 +31024,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 162794,
       "name": "\u0425\u0430\u0439 \u043f\u0438\u0448\u0443\u0442\u044c",
       "url": "https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN"

@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 39027,
+  "num_followers": 39033,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAADd/mXL1MjR+rHXh2QoRBCi",
+  "snapshot_id": "Z1I+gAAAAAAroB+Zye88yxQ+NbIdp0Cv",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desert Road",
         "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 218484,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Joyful, Joyful",
-      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
     },
     {
       "added_at": null,

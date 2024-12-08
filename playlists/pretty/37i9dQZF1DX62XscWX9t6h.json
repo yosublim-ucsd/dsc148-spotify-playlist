@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 193002,
+  "num_followers": 193059,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -217,24 +217,20 @@
       "url": "https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw"
     },
     {
-      "added_at": "2022-04-17 20:07:01",
+      "added_at": "2024-08-21 02:36:12",
       "album": {
-        "name": "Mon Cheri",
-        "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
+        "name": "Puerta de la C\u00e2nne",
+        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
         }
       ],
-      "duration_ms": 248127,
-      "name": "Mon Cheri",
-      "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+      "duration_ms": 227000,
+      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
+      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
     },
     {
       "added_at": "2024-10-04 18:15:06",
@@ -257,6 +253,26 @@
       "url": "https://open.spotify.com/track/78hqkmkGptt4Z8zNibXe47"
     },
     {
+      "added_at": "2022-04-17 20:07:01",
+      "album": {
+        "name": "Mon Cheri",
+        "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 248127,
+      "name": "Mon Cheri",
+      "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "World Music",
@@ -271,22 +287,6 @@
       "duration_ms": 142480,
       "name": "Run To Your Mama",
       "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
-    },
-    {
-      "added_at": "2024-08-21 02:36:12",
-      "album": {
-        "name": "Puerta de la C\u00e2nne",
-        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
-      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
     },
     {
       "added_at": "2022-09-15 12:52:37",
@@ -412,7 +412,7 @@
           "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
         },
         {
-          "name": "RUAN VITOR VAQUEIRINHO",
+          "name": "Ruan Vitor Vaqueirinho",
           "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
         }
       ],
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Conquistador",
-        "url": "https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Afrique Victime",
         "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 445816,
       "name": "Afrique Victime",
       "url": "https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Conquistador",
+        "url": "https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
+      "added_at": "2024-01-05 01:26:20",
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
       "added_at": "2023-02-10 03:09:47",
       "album": {
         "name": "Khun Narin's Electric Phin Band",
@@ -1337,20 +1353,20 @@
       "url": "https://open.spotify.com/track/7rbtfZPksHs4rl5cZTgU7s"
     },
     {
-      "added_at": "2024-01-05 01:26:20",
+      "added_at": "2024-08-21 02:36:12",
       "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
       },
       "artists": [
         {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
         }
       ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1381,52 +1397,20 @@
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
     },
     {
-      "added_at": "2024-08-21 02:36:12",
+      "added_at": "2024-08-21 02:38:50",
       "album": {
-        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-        "url": "https://open.spotify.com/album/1tVhgN9feZ8I31AC7yKOSp"
+        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
       },
       "artists": [
         {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
         }
       ],
-      "duration_ms": 216443,
-      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
-      "url": "https://open.spotify.com/track/10W29dzZ0hjJbf4SvCSQw2"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+      "duration_ms": 169944,
+      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1445,20 +1429,20 @@
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
-      "added_at": "2024-08-21 02:38:50",
+      "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
       "artists": [
         {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
         }
       ],
-      "duration_ms": 169944,
-      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2022-08-31 05:20:13",
@@ -1475,6 +1459,42 @@
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
+    },
+    {
+      "added_at": "2024-08-21 02:36:12",
+      "album": {
+        "name": "NO ME DABA CUENTA",
+        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9 Luna",
+          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
+        }
+      ],
+      "duration_ms": 209304,
+      "name": "NO ME DABA CUENTA",
+      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
     },
     {
       "added_at": "2022-11-25 01:28:32",
@@ -1495,6 +1515,22 @@
       "duration_ms": 284168,
       "name": "Charango Dub",
       "url": "https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx"
+    },
+    {
+      "added_at": "2023-07-24 17:57:15",
+      "album": {
+        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
+        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Chez Mounir",
+      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
     },
     {
       "added_at": "2024-09-09 15:09:32",
@@ -1531,42 +1567,6 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2024-08-21 02:36:12",
-      "album": {
-        "name": "NO ME DABA CUENTA",
-        "url": "https://open.spotify.com/album/68uVa82hN3W52PvE3SeocK"
-      },
-      "artists": [
-        {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Luna",
-          "url": "https://open.spotify.com/artist/3qWEWBaboJlhjWv3WwYiCR"
-        }
-      ],
-      "duration_ms": 209304,
-      "name": "NO ME DABA CUENTA",
-      "url": "https://open.spotify.com/track/6H1w0oGomwaUktifaPRW5Z"
-    },
-    {
-      "added_at": "2023-07-24 17:57:15",
-      "album": {
-        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
-        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
-      },
-      "artists": [
-        {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Chez Mounir",
-      "url": "https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod"
     },
     {
       "added_at": "2022-02-18 06:00:35",
@@ -1637,42 +1637,6 @@
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
     },
     {
-      "added_at": "2024-07-05 04:21:21",
-      "album": {
-        "name": "Flying Gambus",
-        "url": "https://open.spotify.com/album/46N31e5QdqUOePt8ZidxQm"
-      },
-      "artists": [
-        {
-          "name": "Suarasama",
-          "url": "https://open.spotify.com/artist/6AvehMD3el7PEcNRqJ7uV2"
-        }
-      ],
-      "duration_ms": 475000,
-      "name": "Flying Gambus",
-      "url": "https://open.spotify.com/track/60x7wPkVFWvzszwb8KGVMq"
-    },
-    {
-      "added_at": "2022-03-28 18:17:41",
-      "album": {
-        "name": "Udhero Na",
-        "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        }
-      ],
-      "duration_ms": 303361,
-      "name": "Udhero Na feat. Anoushka Shankar",
-      "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
-    },
-    {
       "added_at": "2022-02-25 04:25:29",
       "album": {
         "name": "Junchuch",
@@ -1703,6 +1667,42 @@
       "duration_ms": 165750,
       "name": "3aks el Seir",
       "url": "https://open.spotify.com/track/7gmqj88AyDwnbxHzeoPQ2F"
+    },
+    {
+      "added_at": "2022-03-28 18:17:41",
+      "album": {
+        "name": "Udhero Na",
+        "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2024-07-05 04:21:21",
+      "album": {
+        "name": "Flying Gambus",
+        "url": "https://open.spotify.com/album/46N31e5QdqUOePt8ZidxQm"
+      },
+      "artists": [
+        {
+          "name": "Suarasama",
+          "url": "https://open.spotify.com/artist/6AvehMD3el7PEcNRqJ7uV2"
+        }
+      ],
+      "duration_ms": 475000,
+      "name": "Flying Gambus",
+      "url": "https://open.spotify.com/track/60x7wPkVFWvzszwb8KGVMq"
     },
     {
       "added_at": "2022-04-14 00:17:32",

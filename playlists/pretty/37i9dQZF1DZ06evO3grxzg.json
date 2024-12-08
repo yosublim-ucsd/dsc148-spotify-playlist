@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 231229,
+  "num_followers": 231253,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACTpK0/1jgE95PcT6R8Wi50",
+  "snapshot_id": "Z1I+gAAAAAB7dNmMwTKnVQP3oDS+vZCD",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1TRAGO",
         "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
@@ -419,6 +399,22 @@
       "duration_ms": 201106,
       "name": "1TRAGO",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
       "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Un Beso",
         "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 217000,
       "name": "A Un Beso",
       "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 208773,
       "name": "Friend De Semana",
       "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugar Mami",
         "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 131671,
       "name": "Sugar Mami",
       "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
     },
     {
       "added_at": null,

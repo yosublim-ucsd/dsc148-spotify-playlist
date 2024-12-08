@@ -811,6 +811,52 @@
     },
     {
       "album": {
+        "name": "A-Z (Yashi Moto)",
+        "url": "https://open.spotify.com/album/3TgB0MklzacdOPUZ1m82zF"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Ricky Lenyora",
+          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
+        },
+        {
+          "name": "Woza Sjax",
+          "url": "https://open.spotify.com/artist/3qUB99K5nzTvZ0xutpZ5jm"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398588,
+      "name": "A-Z (Yashi Moto)",
+      "url": "https://open.spotify.com/track/6slJQ4C1xXTVspSBxQ5Nrt"
+    },
+    {
+      "album": {
         "name": "Ababuyanga",
         "url": "https://open.spotify.com/album/7cxge2UzseXMcSs2BMlGrg"
       },
@@ -2416,7 +2462,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 463036,
       "name": "Amazwe (feat. Mawhoo)",
       "url": "https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h"
@@ -2879,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -2894,7 +2962,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -11628,7 +11696,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -11744,7 +11812,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 414319,
       "name": "eGoli (feat. Eltee & Novatron)",
       "url": "https://open.spotify.com/track/3mWu4sw2LsmNX4UBfhrvC1"
@@ -12384,7 +12452,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -23720,7 +23788,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -30016,7 +30084,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -37548,7 +37616,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -43336,7 +43404,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 368699,
       "name": "Uhambe Wrongo (feat. Mr. Maker)",
       "url": "https://open.spotify.com/track/40zr1pQlSaIWUYyR8APyy2"
@@ -47240,7 +47308,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -47685,6 +47753,36 @@
     },
     {
       "album": {
+        "name": "Thee Messenger",
+        "url": "https://open.spotify.com/album/702K9DrhzDwUQUEYeNqwjq"
+      },
+      "artists": [
+        {
+          "name": "Msongi",
+          "url": "https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby"
+        },
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Dot Mega",
+          "url": "https://open.spotify.com/artist/0DnvMgwUAfLV06uffraoeJ"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428543,
+      "name": "Xola",
+      "url": "https://open.spotify.com/track/0YLvNwrYFeOsLMGI2HPGzo"
+    },
+    {
+      "album": {
         "name": "Xola",
         "url": "https://open.spotify.com/album/6SFID5UAjR9qBt95nxIUZy"
       },
@@ -47708,7 +47806,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 428543,
       "name": "Xola",
       "url": "https://open.spotify.com/track/1KpHX3zexEHvYTw0dSyfgF"

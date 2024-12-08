@@ -300,6 +300,24 @@
     {
       "album": {
         "name": "Aye",
+        "url": "https://open.spotify.com/album/7rZER9qm52MTJtGbjpB0tW"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/5HspFBscNH4wot51w4uNIG"
+    },
+    {
+      "album": {
+        "name": "Aye",
         "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
       },
       "artists": [
@@ -310,7 +328,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 235171,
       "name": "Aye",
       "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
@@ -1132,6 +1150,32 @@
       "duration_ms": 255312,
       "name": "Freeway - Remix",
       "url": "https://open.spotify.com/track/0uDYSd5vnBCaAjvYLA5c6R"
+    },
+    {
+      "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "album": {

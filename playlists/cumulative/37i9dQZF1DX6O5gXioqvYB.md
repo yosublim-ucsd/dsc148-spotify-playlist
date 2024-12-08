@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Giulia Mei
 
-239 songs - 11 hr 44 min
+240 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Estate Inverno](https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe) | [Aria](https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW) | [Estate Inverno](https://open.spotify.com/album/6j4lubgJZ3exogp0Jt0tJp) | 2:45 | 2024-10-24 | 2024-11-08 |
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 | 2024-09-05 | 2024-09-27 |
-| [Farci la guerra](https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt) | 2:49 | 2024-11-28 |  |
+| [Farci la guerra](https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt) | 2:49 | 2024-11-28 | 2024-12-08 |
 | [Fare finta](https://open.spotify.com/track/3XpZTdwW9LwJTIlQG4K4HF) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/0Hlhcm4rte3kqHNHGNwabv) | 3:02 | 2024-09-19 | 2024-11-16 |
 | [Farfalla](https://open.spotify.com/track/7tvhTjn5uZBNTBqeugZwPg) | [Pietro Mio](https://open.spotify.com/artist/51kKYDRaem5nTYfN58QAqb) | [Arriva..\. Pietro Mio!](https://open.spotify.com/album/6DdlmlMY96zeVY2hH1QyDS) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 | 2024-10-24 |  |
@@ -142,6 +142,7 @@
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-11 | 2024-08-23 |
 | [Niente di speciale](https://open.spotify.com/track/1NnCS4Otkty1CzFkw9IkC0) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [Niente di speciale](https://open.spotify.com/album/5M7zOGdV1i5cD9SokNNdCX) | 2:34 | 2024-11-21 |  |
 | [Niente di speciale](https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy) | [Santamarya](https://open.spotify.com/artist/21KDEhlB91nNVLCeUr3Rx0) | [Niente di speciale](https://open.spotify.com/album/2koptZ6UdppJIRrgXfLSo8) | 3:26 | 2024-07-04 | 2024-09-27 |
+| [Non c'eri mai](https://open.spotify.com/track/0ugoWLH9VthBfgC8YZoB4C) | [Aria](https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW) | [Estate Inverno](https://open.spotify.com/album/1DpU2GPjrPpDorx2rPSO2w) | 2:56 | 2024-12-05 |  |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 | 2024-10-25 |
 | [Non Siamo Broke](https://open.spotify.com/track/0RLxtPf3Uel9Z9zMtoZM3l) | [Shori](https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG) | [Non Siamo Broke](https://open.spotify.com/album/2y5DKYtunEFjdN1JV9PypW) | 2:51 | 2024-06-27 | 2024-07-27 |
 | [Non ti scusare \(Anna\)](https://open.spotify.com/track/2DjQsMws5zgO7PYXK8pLmb) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Non ti scusare \(Anna\)](https://open.spotify.com/album/4Wf4LUGWsaEgREyJGDOo78) | 3:01 | 2024-06-27 | 2024-07-19 |

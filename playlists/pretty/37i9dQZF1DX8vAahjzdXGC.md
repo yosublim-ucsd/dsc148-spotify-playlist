@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,357 likes - 81 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,401 likes - 81 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 3 | [Tak Ada Yang Sebanding Denganmu](https://open.spotify.com/track/28hzPd6fvjg4fxxwZ9K2s1) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Tak Ada Yang Sebanding Denganmu](https://open.spotify.com/album/6vmvHKEbswnEAEK2j5gKLx) | 5:04 |
 | 4 | [Pada Suatu Hari](https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 3:53 |
 | 5 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 |
-| 6 | [Lagu Cinta Untuk Mama](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
+| 6 | [Lagu Cinta Untuk Mama \- Lagu Cinta Untuk Mama Original Soundtrack](https://open.spotify.com/track/4l04LjLdzf2FCtxex6s87n) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagu Cinta Untuk Mama \(Lagu Cinta Untuk Mama Original Soundtrack\)](https://open.spotify.com/album/0n7FkwpmHh2F8pYteVnSNp) | 3:52 |
 | 7 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 |
 | 8 | [Tempat Ini](https://open.spotify.com/track/6cRn17cMoOEwT5xtas7TvY) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tempat Ini](https://open.spotify.com/album/4ESNDvZ9RyS0B6FpoxRtU4) | 3:22 |
 | 9 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |

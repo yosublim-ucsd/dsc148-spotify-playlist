@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,946 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,015 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 32 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
 | 33 | [Te Presento A Mi Amante](https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:14 |
 | 34 | [Que Sube Y Baja \(En Vivo\)](https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:01 |
-| 35 | [El Pistolero \(En Vivo\)](https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:39 |
+| 35 | [El Señor De La Montaña \- Live](https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Señor De La Montaña \(Live\)](https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97) | 4:00 |
 | 36 | [Suerte He Tenido](https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:04 |
-| 37 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
-| 38 | [El Señor De La Montaña \- Live](https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Señor De La Montaña \(Live\)](https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97) | 4:00 |
+| 37 | [El Pistolero \(En Vivo\)](https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:39 |
+| 38 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
 | 39 | [En Acción](https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Acción](https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO) | 2:38 |
 | 40 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 |
 | 41 | [Por Tu Maldito Amor](https://open.spotify.com/track/6L6TzXnjMEsMMbBdQJAha1) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [Y Van A Hablar](https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:30 |
 | 50 | [El 50 \(En Vivo\)](https://open.spotify.com/track/5bTY4jYz6tqdGyPIID96ke) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 1:58 |
 
-Snapshot ID: `Z1DtAAAAAABj2bJ3YM6bt5S6ncJNsSX1`
+Snapshot ID: `Z1I+gAAAAAAX/jtYfvh/2j1B5SN+7onV`

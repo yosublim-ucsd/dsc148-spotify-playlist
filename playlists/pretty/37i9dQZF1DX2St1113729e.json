@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215669,
+  "num_followers": 215673,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "ANGELES - \u20b3",
+        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "\u20b3ngeles",
+      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "El circo de Carlos",
         "url": "https://open.spotify.com/album/38J29JIGgbrCqDukml8Z1G"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 124855,
       "name": "Cocacola",
       "url": "https://open.spotify.com/track/2OpT9sSxfh4Mp5umjiNvo7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "ANGELES - \u20b3",
-        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "\u20b3ngeles",
-      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Quiero estar solo",
-        "url": "https://open.spotify.com/album/3WMarwEftG8gpMUK0HTlgy"
-      },
-      "artists": [
-        {
-          "name": "NOFEEL",
-          "url": "https://open.spotify.com/artist/0n0Ed4g26prWqvyF0nQApK"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Quiero estar solo",
-      "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Indoor",
         "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 136634,
       "name": "Indoor",
       "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Quiero estar solo",
+        "url": "https://open.spotify.com/album/3WMarwEftG8gpMUK0HTlgy"
+      },
+      "artists": [
+        {
+          "name": "NOFEEL",
+          "url": "https://open.spotify.com/artist/0n0Ed4g26prWqvyF0nQApK"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Quiero estar solo",
+      "url": "https://open.spotify.com/track/2yXbVJUwrpfQ3vZbNqHk3n"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+        "name": "PIENSONTI",
+        "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
       },
       "artists": [
         {
           "name": "VALENTINO",
           "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        },
+        {
+          "name": "Pau By Chance",
+          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
         }
       ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+      "duration_ms": 159892,
+      "name": "PIENSONTI",
+      "url": "https://open.spotify.com/track/3WdhSire2QD1kosUb2Qepl"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "PIENSONTI",
-        "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
       },
       "artists": [
         {
           "name": "VALENTINO",
           "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        },
-        {
-          "name": "Pau By Chance",
-          "url": "https://open.spotify.com/artist/3Hd7UpP0eSOCpT4FW52n9I"
         }
       ],
-      "duration_ms": 159892,
-      "name": "PIENSONTI",
-      "url": "https://open.spotify.com/track/3WdhSire2QD1kosUb2Qepl"
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "GUSTARLE A TU ABUELA",
+        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "GUSTARLE A TU ABUELA",
+      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 171764,
       "name": "Perra Alfa - Neukrapsio Remix",
       "url": "https://open.spotify.com/track/4PFM0ds7hIRea4bsKqEgWw"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "GUSTARLE A TU ABUELA",
-        "url": "https://open.spotify.com/album/51TWL63ENVfXT37Re745gH"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "GUSTARLE A TU ABUELA",
-      "url": "https://open.spotify.com/track/17VZpzOsVTDEU0z5YV21WK"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
+        "name": "Sickk Boii % Sex Toii",
+        "url": "https://open.spotify.com/album/17Tcl0mwpjtlPxFeUi3lew"
       },
       "artists": [
         {
-          "name": "Yanzzy",
-          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
+          "name": "Richard Sie",
+          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
         },
         {
-          "name": "Marcos Naide",
-          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
         }
       ],
-      "duration_ms": 148000,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
+      "duration_ms": 160000,
+      "name": "Sickk Boii % Sex Toii",
+      "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Sickk Boii % Sex Toii",
-        "url": "https://open.spotify.com/album/17Tcl0mwpjtlPxFeUi3lew"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
       },
       "artists": [
         {
-          "name": "Richard Sie",
-          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
+          "name": "Yanzzy",
+          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
         },
         {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Sickk Boii % Sex Toii",
-      "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"
+      "duration_ms": 148000,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "RADIKKHAL",
+        "url": "https://open.spotify.com/album/5RHcppeOzmc7wjwo2AfW4h"
+      },
+      "artists": [
+        {
+          "name": "Richard Sie",
+          "url": "https://open.spotify.com/artist/5PTfRln4bU7YX7htXdZRrB"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "RADIKKHAL",
+      "url": "https://open.spotify.com/track/3uEcYZ1W4swiLAqPEqOBOe"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "LEJOS...",
         "url": "https://open.spotify.com/album/0TFRhnxNAhg4oA4VfqlgcY"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 220169,
       "name": "Clavao en visto",
       "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/763dSAPuxFSCCskbyPkym1"
-      },
-      "artists": [
-        {
-          "name": "Aguh",
-          "url": "https://open.spotify.com/artist/4pyl3CSt9krwN97yVF6fj8"
-        },
-        {
-          "name": "Leirosee",
-          "url": "https://open.spotify.com/artist/0Vlphxx9US07CsfgR3dTK9"
-        }
-      ],
-      "duration_ms": 142151,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/1vUjjjIFNHmcD7IBBAGM6e"
     },
     {
       "added_at": "2024-12-05 23:00:00",

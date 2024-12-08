@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 167716,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0Zx3np2HJ3He2QJS0wG9Ex"
@@ -6946,6 +6946,28 @@
       "duration_ms": 195483,
       "name": "Missing (Should've Known It)",
       "url": "https://open.spotify.com/track/1b45EwaiFdNCVsJDZecXBe"
+    },
+    {
+      "album": {
+        "name": "More Party",
+        "url": "https://open.spotify.com/album/0pxs7HWsYxO1SOhccwT1Lx"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174842,
+      "name": "More Party",
+      "url": "https://open.spotify.com/track/1TmMd9AZU6yhSpxYyVMmYN"
     },
     {
       "album": {

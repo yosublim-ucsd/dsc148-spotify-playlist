@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 Vidas",
+        "url": "https://open.spotify.com/album/7fd2xxZm8FRtDT0uv152lY"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159661,
+      "name": "10 Vidas",
+      "url": "https://open.spotify.com/track/2WPTtiBY1dTVmjqdfasfXJ"
+    },
+    {
+      "album": {
         "name": "11 + 11",
         "url": "https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21"
       },

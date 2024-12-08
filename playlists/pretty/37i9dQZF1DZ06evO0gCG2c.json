@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 311061,
+  "num_followers": 311108,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAD9Yqp7eu5Lgce7VFvOo8Uu",
+  "snapshot_id": "Z1I+gAAAAADWp2+bpR7ikLdNKsF7uLDy",
   "tracks": [
     {
       "added_at": null,
@@ -170,19 +170,11 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
-        },
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 312986,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
+      "duration_ms": 231013,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/6uq9QQLcdeUbhe5T7ZUFl4"
     },
     {
       "added_at": null,
@@ -254,11 +246,19 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
         }
       ],
-      "duration_ms": 231013,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/6uq9QQLcdeUbhe5T7ZUFl4"
+      "duration_ms": 312986,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
     },
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 178840,
-      "name": "I Wanna Fuck You",
-      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
+      "duration_ms": 188493,
+      "name": "Hypnotized (feat. Akon)",
+      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
     },
     {
       "added_at": null,
@@ -375,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Testament",
-        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
       "artists": [
         {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Hypnotized (feat. Akon)",
-      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+      "duration_ms": 178840,
+      "name": "I Wanna Fuck You",
+      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
     },
     {
       "added_at": null,

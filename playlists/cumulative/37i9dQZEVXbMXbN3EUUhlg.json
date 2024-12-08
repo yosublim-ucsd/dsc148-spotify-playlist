@@ -235,32 +235,6 @@
     },
     {
       "album": {
-        "name": "Quem Quer F1 Com o G?",
-        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        }
-      ],
-      "date_added": "2024-10-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195572,
-      "name": "300 no 7",
-      "url": "https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe"
-    },
-    {
-      "album": {
         "name": "300 no 7",
         "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
       },
@@ -288,6 +262,36 @@
       "duration_ms": 195572,
       "name": "300 no 7",
       "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
+    },
+    {
+      "album": {
+        "name": "Quem Quer F1 Com o G?",
+        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "300 no 7",
+      "url": "https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe"
     },
     {
       "album": {
@@ -1668,7 +1672,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 81230,
       "name": "Amantes da Foda",
       "url": "https://open.spotify.com/track/4DhDNNhIDdduS6nZMbSMbs"
@@ -2211,6 +2215,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -2226,7 +2252,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -8478,7 +8504,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 187115,
       "name": "Embaixador (M\u00e3e)",
       "url": "https://open.spotify.com/track/5pd6ezOiCGn5wALw8HLMFW"
@@ -17448,7 +17474,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 164307,
       "name": "Nem Ligo Pro Amor",
       "url": "https://open.spotify.com/track/5gA82C4xfyvmRtpD1QdsDz"
@@ -17786,7 +17812,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -20158,7 +20184,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 188823,
       "name": "Pilantra e Meio",
       "url": "https://open.spotify.com/track/2k7EhDUKXApmeYVew9xeDf"
@@ -26090,10 +26116,32 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 178170,
       "name": "Triplex - Ao Vivo",
       "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
+    },
+    {
+      "album": {
+        "name": "MF em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3yn0IYkmXvCQRT3KhLv7FM"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178170,
+      "name": "Triplex - Ao Vivo",
+      "url": "https://open.spotify.com/track/6wLTQ0PQAsFaTf4SfBDyYc"
     },
     {
       "album": {
@@ -26212,7 +26260,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 376000,
       "name": "Tropa do Sem K.O",
       "url": "https://open.spotify.com/track/02I0Nm97YdmZ8teGFcIHEy"

@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 105861,
+  "num_followers": 105896,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Fernanda Brum - Falando de Amor",
-        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 263639,
-      "name": "Te Amaria Outra Vez",
-      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -231,18 +215,18 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Desde o Primeiro Sim",
-        "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 268190,
-      "name": "Desde o Primeiro Sim",
-      "url": "https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx"
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -259,6 +243,22 @@
       "duration_ms": 239933,
       "name": "Deus, Voc\u00ea e Eu",
       "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Desde o Primeiro Sim",
+        "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 268190,
+      "name": "Desde o Primeiro Sim",
+      "url": "https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "O Jeito Que Voc\u00ea Me Olha",
-        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
-      },
-      "artists": [
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "O Jeito Que Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -667,6 +647,26 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "O Jeito Que Voc\u00ea Me Olha",
+        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
+      },
+      "artists": [
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "O Jeito Que Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Eyshila Falando de Amor",
         "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 258345,
       "name": "Meu Sonho",
       "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Nosso Castelo",
+        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
+      },
+      "artists": [
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Nosso Castelo",
+      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -699,22 +715,6 @@
       "duration_ms": 246444,
       "name": "Onde Est\u00e1 Voc\u00ea",
       "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Nosso Castelo",
-        "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Nosso Castelo",
-      "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Florescer",
         "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 296286,
       "name": "Florescer",
       "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 268541,
-      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Como da Primeira Vez",
         "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226626,
       "name": "Como da Primeira Vez",
       "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 268541,
+      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
     },
     {
       "added_at": "2024-07-11 15:58:05",

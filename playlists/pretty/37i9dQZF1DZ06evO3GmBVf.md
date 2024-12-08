@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,439 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,519 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 32 | [Volvió A Amanecer](https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volvió A Amanecer](https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr) | 3:42 |
 | 33 | [No Para](https://open.spotify.com/track/3KrZWBY3Zo1HWNFSkG8on5) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Para](https://open.spotify.com/album/182ycTI0yqFAoQMJ64M43N) | 3:18 |
 | 34 | [Ni Por Favor \(Si No Me Quieres Ni Modo](https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [Ni Por Favor \(Si No Me Quieres Ni Modo\)](https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8) | 3:08 |
-| 35 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
-| 36 | [Soy Cholo](https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Soy Cholo](https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym) | 3:52 |
+| 35 | [Soy Cholo](https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Soy Cholo](https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym) | 3:52 |
+| 36 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
 | 37 | [En El Avión](https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En El Avión](https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta) | 3:47 |
 | 38 | [Ingrata](https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Ingrata](https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b) | 3:34 |
 | 39 | [Bueno Pa Lo Malo](https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb) | [Bueno Pa Lo Malo](https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt) | 6:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
 | 50 | [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 |
 
-Snapshot ID: `Z1DtAAAAAADlCpdsuKgaJ709q6T6FSXU`
+Snapshot ID: `Z1I+gAAAAAAaL0dESlZBpwYnmq993jjd`

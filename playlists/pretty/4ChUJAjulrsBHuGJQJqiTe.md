@@ -8,13 +8,13 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 |
-| 2 | [Quito](https://open.spotify.com/track/1IrDAmuLsebsukhbaW4dpC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:03 |
-| 3 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/3cjLFY0mLXqBXsnqNhvKH9) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:27 |
-| 4 | [16 /04 / 16 \(Jack’s Song\)](https://open.spotify.com/track/2a3TuWJcF21zXHgPHNSdn9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [16 / 04 / 16](https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m) | 4:18 |
-| 5 | [Hug All Ur Friends](https://open.spotify.com/track/7gbFUfnFWyhSRwkdy4fFrS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Jackson](https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1) | 5:35 |
-| 6 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 |
-| 7 | [Jimmy](https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:43 |
+| 1 | [Quito](https://open.spotify.com/track/1IrDAmuLsebsukhbaW4dpC) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:03 |
+| 2 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/3cjLFY0mLXqBXsnqNhvKH9) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:27 |
+| 3 | [16 /04 / 16 \(Jack’s Song\)](https://open.spotify.com/track/2a3TuWJcF21zXHgPHNSdn9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [16 / 04 / 16](https://open.spotify.com/album/7zJknj1MoTb25pk1dplN1m) | 4:18 |
+| 4 | [Jimmy](https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:43 |
+| 5 | [Going Invisible 2](https://open.spotify.com/track/1SQ0UkdEsFqABIPqMfYCB4) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [In League with Dragons](https://open.spotify.com/album/6Xw8Mujzvzu7gMeizXOHc6) | 3:05 |
+| 6 | [Hug All Ur Friends](https://open.spotify.com/track/7gbFUfnFWyhSRwkdy4fFrS) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom: Jackson](https://open.spotify.com/album/7f1gs84I839Rth0WNdGhz1) | 5:35 |
+| 7 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 |
 | 8 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 |
 | 9 | [Matthew 25:21](https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Life Of The World To Come](https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS) | 5:50 |
 | 10 | [Lakeside View Apartments Suite](https://open.spotify.com/track/5Y7kurWaiHa8xqqF7NYI9t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 3:58 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4ChUJAjulrsBHuGJQJqiTe.md) - [plain]
 | 19 | [Korean Bird Paintings](https://open.spotify.com/track/1ZPiuKIHn9ECc147svdvuR) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:31 |
 | 20 | [Store](https://open.spotify.com/track/4mlPWNXldFV7EgH2heTuM5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jam Eater Blues](https://open.spotify.com/album/50BmgetAf64rSs8oFunijs) | 2:20 |
 
-Snapshot ID: `AAAAGy37hll90pntInVshl3nbwoJCBAf`
+Snapshot ID: `AAAAHoio5U1yeeMuDzneEXiIOKeLkpsu`

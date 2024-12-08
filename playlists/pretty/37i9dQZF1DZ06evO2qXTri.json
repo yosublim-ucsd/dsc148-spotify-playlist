@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 31634,
+  "num_followers": 31651,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAACjL+zgDY9F67+SzxXM/WXk",
+  "snapshot_id": "Z1I+gAAAAADJPi+DvDWudQEC5hHxLltL",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 272593,
-      "name": "Try Love",
-      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
       },
@@ -671,38 +671,6 @@
       "duration_ms": 237986,
       "name": "123 Victory",
       "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 374780,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "added_at": null,
@@ -743,6 +711,38 @@
       "duration_ms": 346866,
       "name": "The Storm Is Over Now",
       "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "added_at": null,

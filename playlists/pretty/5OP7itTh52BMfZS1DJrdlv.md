@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,011,588 likes - 100 songs - 5 hr 14 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,012,129 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 93 | [Christmas Always Finds Me](https://open.spotify.com/track/3G0A9n2SumQRVlKZDdwwWN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:20 |
 | 94 | [Little Saint Nick](https://open.spotify.com/track/3ahS3KCvUPpWfr4lIUlkel) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Holiday Spirits](https://open.spotify.com/album/0vqQal2i8RBPLtmvpIzErC) | 2:14 |
 | 95 | [Good All Year](https://open.spotify.com/track/7tpZbY9001r2p5ehkaYYmb) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good All Year](https://open.spotify.com/album/4iu3ExKSjlArExmwzp0Si7) | 2:13 |
-| 96 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/2ntb4uNltWuDZdPd0xNOYC) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 |
+| 96 | [The Christmas Stick](https://open.spotify.com/track/7roxhEz0gRoyWzvZdgKSeY) | [Bubble & Squeak](https://open.spotify.com/artist/3EiL2CvPuHzkj2AZgDh1zX) | [The Christmas Stick](https://open.spotify.com/album/2lhrxeEOVmfOzhIFiLMTkE) | 3:38 |
 | 97 | [2000 Miles](https://open.spotify.com/track/2qLv2OcKEsWXOlaO1Q5OH1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:39 |
 | 98 | [Doesn’t Feel Like Christmas](https://open.spotify.com/track/6d2TejbyIrDbJgfCX3fB0F) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Overallidays](https://open.spotify.com/album/5Uoxiy4iG3izvjTFbD5feC) | 2:04 |
 | 99 | [mele malikimaka](https://open.spotify.com/track/16JQocflwZHEVZzI7i8fRo) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 1:35 |

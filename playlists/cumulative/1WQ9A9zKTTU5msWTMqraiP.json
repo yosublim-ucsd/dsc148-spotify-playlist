@@ -4767,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Whispers From The Depths",
+        "url": "https://open.spotify.com/album/0wIDUDXkkGtPAjFqNH5qqU"
+      },
+      "artists": [
+        {
+          "name": "Obey The Kraken",
+          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+        }
+      ],
+      "date_added": "2024-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196079,
+      "name": "Whispers From The Depths",
+      "url": "https://open.spotify.com/track/4OWHcUBxtqgzqzj1Ci4wav"
+    },
+    {
+      "album": {
         "name": "Withering",
         "url": "https://open.spotify.com/album/5NoooU4i8TdD1P89MhK3lz"
       },

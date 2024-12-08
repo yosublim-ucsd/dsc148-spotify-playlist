@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Giulia Mei",
-  "num_followers": 33908,
+  "num_followers": 33912,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Cielo Aperto",
-        "url": "https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe"
-      },
-      "artists": [
-        {
-          "name": "REA",
-          "url": "https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev"
-        }
-      ],
-      "duration_ms": 201521,
-      "name": "Cielo Aperto",
-      "url": "https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Scarpe",
         "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 192000,
       "name": "Scarpe",
       "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Cielo Aperto",
+        "url": "https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/2WIeVc2TB9As3HeTcPpXev"
+        }
+      ],
+      "duration_ms": 201521,
+      "name": "Cielo Aperto",
+      "url": "https://open.spotify.com/track/13ApPxDYcUcGUdBfQ8d3Pb"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "sconosciuti",
-        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
-      },
-      "artists": [
-        {
-          "name": "nube",
-          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "sconosciuti",
-      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "BELLA BALLA",
         "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "sconosciuti",
+        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
+      },
+      "artists": [
+        {
+          "name": "nube",
+          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "sconosciuti",
+      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Farla Facile",
         "url": "https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 234908,
       "name": "Farla Facile",
       "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Campari",
-        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
-      },
-      "artists": [
-        {
-          "name": "Kate",
-          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Campari",
-      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Campari",
+        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
+      },
+      "artists": [
+        {
+          "name": "Kate",
+          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Campari",
+      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "TUFFO",
         "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 172894,
       "name": "Senza Stelle",
       "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
       "artists": [
         {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
         }
       ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -695,22 +711,6 @@
       "duration_ms": 191250,
       "name": "Sott'acqua",
       "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Pasquale (guarda i cantieri)",
-        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
-      },
-      "artists": [
-        {
-          "name": "Primogenito",
-          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Pasquale (guarda i cantieri)",
-      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "girammo tutto in una macchina",
-        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
-      },
-      "artists": [
-        {
-          "name": "tinai",
-          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "nevischio su ande",
-      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Soli per errore",
         "url": "https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 178306,
       "name": "Soli per errore",
       "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "girammo tutto in una macchina",
+        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
+      },
+      "artists": [
+        {
+          "name": "tinai",
+          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "nevischio su ande",
+      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/6yaWr4a1XS8pKSqkOfszKC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 174314,
       "name": "Grazie",
       "url": "https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Un Titolo Migliore",
+        "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
+      },
+      "artists": [
+        {
+          "name": "Caponetti",
+          "url": "https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9"
+        }
+      ],
+      "duration_ms": 179384,
+      "name": "Un Titolo Migliore",
+      "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Le nonne e le chiese",
         "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
       },
@@ -923,22 +939,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
+        "name": "brivido",
+        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
       },
       "artists": [
         {
-          "name": "ETT",
-          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
-        },
-        {
-          "name": "dNoise",
-          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
         }
       ],
-      "duration_ms": 151636,
-      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
+      "duration_ms": 158239,
+      "name": "brivido",
+      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -963,50 +975,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "anna se la sente ancora",
-        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
+        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
       },
       "artists": [
         {
-          "name": "UmbertoC\u00ec.",
-          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
-        }
-      ],
-      "duration_ms": 180334,
-      "name": "anna se la sente ancora",
-      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Un Titolo Migliore",
-        "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
-      },
-      "artists": [
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        },
         {
-          "name": "Caponetti",
-          "url": "https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9"
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
         }
       ],
-      "duration_ms": 179384,
-      "name": "Un Titolo Migliore",
-      "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Sotto",
-        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
-      },
-      "artists": [
-        {
-          "name": "R\u00cdA",
-          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sotto",
-      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+      "duration_ms": 151636,
+      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "anna se la sente ancora",
+        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
+      },
+      "artists": [
+        {
+          "name": "UmbertoC\u00ec.",
+          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
+        }
+      ],
+      "duration_ms": 180334,
+      "name": "anna se la sente ancora",
+      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "BRONCIO",
         "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
       },
@@ -1039,38 +1039,6 @@
       "duration_ms": 139826,
       "name": "BRONCIO",
       "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "brivido",
-        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
-      },
-      "artists": [
-        {
-          "name": "Sedici",
-          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
-        }
-      ],
-      "duration_ms": 158239,
-      "name": "brivido",
-      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Parole vuote",
-        "url": "https://open.spotify.com/album/3wLhirtvIbXJMZAq2MhubF"
-      },
-      "artists": [
-        {
-          "name": "Gioia Lucia",
-          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Parole vuote",
-      "url": "https://open.spotify.com/track/6MQnM3ZlwwHvdOK943PUNz"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1091,6 +1059,38 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Parole vuote",
+        "url": "https://open.spotify.com/album/3wLhirtvIbXJMZAq2MhubF"
+      },
+      "artists": [
+        {
+          "name": "Gioia Lucia",
+          "url": "https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Parole vuote",
+      "url": "https://open.spotify.com/track/6MQnM3ZlwwHvdOK943PUNz"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Sotto",
+        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
+      },
+      "artists": [
+        {
+          "name": "R\u00cdA",
+          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Sotto",
+      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Canzone poco originale sulla solitudine",
         "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 215075,
       "name": "Canzone poco originale sulla solitudine",
       "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Estate Inverno",
+        "url": "https://open.spotify.com/album/1DpU2GPjrPpDorx2rPSO2w"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "Non c'eri mai",
+      "url": "https://open.spotify.com/track/0ugoWLH9VthBfgC8YZoB4C"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 202793,
       "name": "Se non passasse aria",
       "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Luna in acquario ascendente sagittario",
-        "url": "https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt"
-      },
-      "artists": [
-        {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
-        }
-      ],
-      "duration_ms": 169747,
-      "name": "Farci la guerra",
-      "url": "https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n"
     }
   ],
   "unique_name": "Scuola Indie",

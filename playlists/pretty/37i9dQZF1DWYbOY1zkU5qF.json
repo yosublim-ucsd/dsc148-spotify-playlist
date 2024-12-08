@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 182523,
+  "num_followers": 182596,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "De Musica Ligera",
         "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 174096,
       "name": "De Musica Ligera",
       "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Burbujas De Amor",
         "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+        "name": "Nube Viajera",
+        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
       },
       "artists": [
         {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
         }
       ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+      "duration_ms": 230730,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -871,18 +871,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Nube Viajera",
-        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
         }
       ],
-      "duration_ms": 230730,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 214425,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Azucar Amargo",
-        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 270550,
-      "name": "Azucar Amargo",
-      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Reggaet\u00f3n Lento (Bailemos)",
         "url": "https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
+        "name": "Azucar Amargo",
+        "url": "https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL"
       },
       "artists": [
         {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
         }
       ],
-      "duration_ms": 221159,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
+      "duration_ms": 270550,
+      "name": "Azucar Amargo",
+      "url": "https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
       },
       "artists": [
         {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+      "duration_ms": 185842,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 221159,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Bohemia Y Trova, Vol. 2",
         "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
       },
@@ -1083,6 +1083,38 @@
       "duration_ms": 174040,
       "name": "Alguien Te Va a Hacer Llorar",
       "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Enam\u00f3rate de Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Enam\u00f3rate de Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1103,54 +1135,6 @@
       "duration_ms": 167710,
       "name": "Otro trago",
       "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 174223,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Enam\u00f3rate de Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Enam\u00f3rate de Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Muerte En Hawaii",
         "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
@@ -1219,18 +1187,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW"
       },
       "artists": [
         {
-          "name": "Jaime Kohen",
-          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
         }
       ],
-      "duration_ms": 218722,
-      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
+      "duration_ms": 187655,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 174223,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ya no tiene novio",
-        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
+        "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
       },
       "artists": [
         {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+          "name": "Jaime Kohen",
+          "url": "https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l"
         }
       ],
-      "duration_ms": 108027,
-      "name": "Ya no tiene novio",
-      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
+      "duration_ms": 218722,
+      "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 149647,
       "name": "So\u00f1e",
       "url": "https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ya no tiene novio",
+        "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 108027,
+      "name": "Ya no tiene novio",
+      "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
     },
     {
       "added_at": "2022-02-18 06:00:00",

@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-46 songs - 2 hr 24 min
+47 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Clean](https://open.spotify.com/track/6jcHx4jket9IUINO1lzhvQ) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [2.0](https://open.spotify.com/album/3a8kwdfe4ctEfqe1vXGiBP) | 3:21 | 2024-01-31 |  |
 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 | 2023-11-21 |  |
 | [Fame < Infamy](https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:06 | 2024-11-09 |  |
+| [Fault Lines](https://open.spotify.com/track/6VitaWNd0Wmtq0PUDrZT1Z) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:38 | 2024-12-07 |  |
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Give Up!](https://open.spotify.com/track/3OxXjDWxjrD9PcGwveP5nO) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 2:49 | 2023-07-09 |  |

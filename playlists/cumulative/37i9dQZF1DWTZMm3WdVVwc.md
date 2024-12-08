@@ -4,7 +4,7 @@
 
 > 冬がようやく訪れました。肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-141 songs - 9 hr 42 min
+142 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 |  |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 |  |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 |  |
-| [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 | 2023-12-12 |  |
+| [WE ARE THE BORDERS](https://open.spotify.com/track/0SEjMo9VZxyf3h9ObPxCWx) | [Hideki Kaji](https://open.spotify.com/artist/3k4ycHN6hzulnvkSe5IOTf) | [WINTER SONGS FOR YOU!](https://open.spotify.com/album/7EFz4zyigKAMM2JOiJvGEn) | 3:12 | 2023-12-12 | 2024-12-08 |
 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-12-12 | 2024-04-19 |
 | [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2024-02-20 |  |
 | [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 |  |
@@ -138,6 +138,7 @@
 | [正解](https://open.spotify.com/track/0BxLFTINwKifg5szsaON6F) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/7AEGXvatrqwbvTKJh5J7VR) | 5:58 | 2024-01-23 | 2024-04-19 |
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-02-20 |  |
 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 | 2023-12-19 |  |
+| [白とエスケープ](https://open.spotify.com/track/72kVH3tMjQ5kNthRgOm9tR) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [白とエスケープ](https://open.spotify.com/album/5wV6KIb85mMyFtjJsBMObZ) | 4:15 | 2024-12-03 |  |
 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 | 2024-02-06 |  |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-12-12 | 2023-12-20 |
 | [粉雪](https://open.spotify.com/track/1Vimcaq6kgTq6xgHSnr4pS) | [Remioromen](https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8) | [HORIZON](https://open.spotify.com/album/3mMsgDoDSuT2oqdsmkSBr9) | 5:25 | 2023-12-12 |  |

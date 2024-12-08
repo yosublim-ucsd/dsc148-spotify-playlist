@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 257897,
       "name": "CORRI",
       "url": "https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-08",
       "duration_ms": 384657,
       "name": "Quarta Emosfera",
       "url": "https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU"
@@ -2330,6 +2330,28 @@
       "duration_ms": 463644,
       "name": "Sesta Emosfera",
       "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
+    },
+    {
+      "album": {
+        "name": "Simulation Cult",
+        "url": "https://open.spotify.com/album/4c1P6Hdo2b434pQM4CrseH"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 648402,
+      "name": "Simulation Cult - Alessandro Cortini Remix",
+      "url": "https://open.spotify.com/track/6qvdPCLQ4gEwZcAf9OtxQ9"
     },
     {
       "album": {

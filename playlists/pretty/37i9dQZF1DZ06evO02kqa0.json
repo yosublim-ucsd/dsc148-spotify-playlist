@@ -1,29 +1,13 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 36753,
+  "num_followers": 36761,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1DtAAAAAAC7YfYI66JqnbvOr95u/u4u",
+  "snapshot_id": "Z1I+gAAAAADMNoLY02QTd3mc3C8SNa5i",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 286014,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv"
-    },
     {
       "added_at": null,
       "album": {
@@ -243,30 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lyric and Coloratura Arias",
-        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
-      "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -291,6 +251,30 @@
       "duration_ms": 182120,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
       "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lyric and Coloratura Arias",
+        "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 292600,
+      "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
+      "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
     },
     {
       "added_at": null,
@@ -523,34 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas at La Scala - Callas Remastered",
-        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
-      },
-      "artists": [
-        {
-          "name": "Gaspare Spontini",
-          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 151760,
-      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
-      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ponchielli: La Gioconda, Op. 9",
         "url": "https://open.spotify.com/album/3psVD4zIuKCJw8hVFr5oY3"
       },
@@ -579,6 +535,34 @@
       "duration_ms": 90133,
       "name": "Ponchielli: La Gioconda, Op. 9, Act 3: \"Prodigio! Incanto!\" (Coro)",
       "url": "https://open.spotify.com/track/2YNHKWPuAJiSCHkiSgr8w0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas at La Scala - Callas Remastered",
+        "url": "https://open.spotify.com/album/1zeY15OCHd9zCb7fraGFHo"
+      },
+      "artists": [
+        {
+          "name": "Gaspare Spontini",
+          "url": "https://open.spotify.com/artist/7yxeJll1absl3LxWoIrBj5"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 151760,
+      "name": "Spontini: La vestale, Act 2: \"O Nume tutelar\" (Giulia)",
+      "url": "https://open.spotify.com/track/1PnTxsxWwWmJyCKQU0u5jL"
     },
     {
       "added_at": null,
@@ -719,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Callas at La Scala",
+        "url": "https://open.spotify.com/album/3uHolwCMbTsnTRkxj8cXxy"
+      },
+      "artists": [
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "La Vestale (1997 Digital Remaster): O nome tutelar",
+      "url": "https://open.spotify.com/track/5yAtjSo3xYrLtiKfbZZox8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bellini: Norma (1955)",
         "url": "https://open.spotify.com/album/3BYwkTYo0nrnfJcK3mfFya"
       },
@@ -767,30 +775,6 @@
       "duration_ms": 87933,
       "name": "Norma: Act I: Introduction Instrumental",
       "url": "https://open.spotify.com/track/28N7C1F43h1xGMz9IAEXVh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Callas at La Scala",
-        "url": "https://open.spotify.com/album/3uHolwCMbTsnTRkxj8cXxy"
-      },
-      "artists": [
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "La Vestale (1997 Digital Remaster): O nome tutelar",
-      "url": "https://open.spotify.com/track/5yAtjSo3xYrLtiKfbZZox8"
     },
     {
       "added_at": null,
@@ -1167,30 +1151,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
       },
       "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+          "name": "The Orchestra National De La Radiodiffusion Francaise",
+          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
         },
         {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
+      "duration_ms": 281600,
+      "name": "Louise (1997 Digital Remaster): Depuis le jour o\u00f9 je me suis donn\u00e9e",
+      "url": "https://open.spotify.com/track/5cr3Nss9uamtSe1dtoqIhG"
     },
     {
       "added_at": null,
@@ -1223,6 +1203,34 @@
       "duration_ms": 201933,
       "name": "Verdi: La traviata, Act 1 Scene 5: \"Ah, fors'\u00e8 lui lui che I'anima\" (Violetta)",
       "url": "https://open.spotify.com/track/7lo02c1g0WidGVYCl4Yx1O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,
@@ -1295,30 +1303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "The Orchestra National De La Radiodiffusion Francaise",
-          "url": "https://open.spotify.com/artist/23AcFWoCqclc6gBvicWS6Y"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Louise (1997 Digital Remaster): Depuis le jour o\u00f9 je me suis donn\u00e9e",
-      "url": "https://open.spotify.com/track/5cr3Nss9uamtSe1dtoqIhG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bizet: Carmen",
         "url": "https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 263213,
       "name": "Bizet: Carmen, Act 2: \"Les tringles des sistres tintaient\" (Carmen, Frasquita, Merc\u00e9d\u00e8s)",
       "url": "https://open.spotify.com/track/4Osrui1RbFtmYp4P881GDW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/1L9knhxczvNe1TNnOcYoYC"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/7jkV6uU9wKgczd7UjS6Rdv"
     },
     {
       "added_at": null,
@@ -1435,6 +1435,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Orchestre de l'Op\u00e9ra National de Paris",
+          "url": "https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK"
+        },
+        {
+          "name": "Georges Pr\u00eatre",
+          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
+        },
+        {
+          "name": "Orchestre du Th\u00e9\u00e2tre National de l'Op\u00e9ra Paris",
+          "url": "https://open.spotify.com/artist/6A2Cwaoe4zRqUda8qPyqOh"
+        },
+        {
+          "name": "Paris Opera Orchestra",
+          "url": "https://open.spotify.com/artist/3IBSdicCqV2ZZNgoOh5vR9"
+        }
+      ],
+      "duration_ms": 276453,
+      "name": "Bizet: Carmen, Act 1: S\u00e9guedille. \"Pr\u00e8s des remparts de S\u00e9ville\" (Carmen, Jos\u00e9)",
+      "url": "https://open.spotify.com/track/1WBfzmOEVFIiDvte4al0ND"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Boh\u00e8me - Puccini",
         "url": "https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp"
       },
@@ -1483,46 +1523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bizet: Carmen",
-        "url": "https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Orchestre de l'Op\u00e9ra National de Paris",
-          "url": "https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK"
-        },
-        {
-          "name": "Georges Pr\u00eatre",
-          "url": "https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r"
-        },
-        {
-          "name": "Orchestre du Th\u00e9\u00e2tre National de l'Op\u00e9ra Paris",
-          "url": "https://open.spotify.com/artist/6A2Cwaoe4zRqUda8qPyqOh"
-        },
-        {
-          "name": "Paris Opera Orchestra",
-          "url": "https://open.spotify.com/artist/3IBSdicCqV2ZZNgoOh5vR9"
-        }
-      ],
-      "duration_ms": 276453,
-      "name": "Bizet: Carmen, Act 1: S\u00e9guedille. \"Pr\u00e8s des remparts de S\u00e9ville\" (Carmen, Jos\u00e9)",
-      "url": "https://open.spotify.com/track/1WBfzmOEVFIiDvte4al0ND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verdi: La traviata",
         "url": "https://open.spotify.com/album/3bwUAH05B3fFdrN6o2djtp"
       },
@@ -1551,58 +1551,6 @@
       "duration_ms": 61520,
       "name": "La traviata: Act II: Amami, Alfredo! (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/078dyo6UVvoq6C05MWBdGl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bellini: Norma",
-        "url": "https://open.spotify.com/album/3aWmDcJMrZejrhdNTDkdiM"
-      },
-      "artists": [
-        {
-          "name": "Vincenzo Bellini",
-          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
-        },
-        {
-          "name": "Mirto Picchi",
-          "url": "https://open.spotify.com/artist/6qErm0OwvsNI74cbb3ptCU"
-        },
-        {
-          "name": "Giacomo Vaghi",
-          "url": "https://open.spotify.com/artist/1orOwdY7I5MoE2tu3LJXZz"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Ebe Stignani",
-          "url": "https://open.spotify.com/artist/0YiB0zNBpkCU9DpftYfosy"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "Paul Asciak",
-          "url": "https://open.spotify.com/artist/3nzh5OdSiWcrCqVPT4qfxu"
-        },
-        {
-          "name": "Royal Opera House Chorus, Covent Garden",
-          "url": "https://open.spotify.com/artist/36aSkq1idIPPSw3mXXrAS5"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        },
-        {
-          "name": "Vittorio Gui",
-          "url": "https://open.spotify.com/artist/2BYljht61tijA9gCf1Bour"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "Norma: Act II Scene 2: Non parti? (Chorus)",
-      "url": "https://open.spotify.com/track/1ROWLpSXAbJOp9eXhnD5Xj"
     }
   ],
   "unique_name": "This Is Maria Callas",

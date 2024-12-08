@@ -4,7 +4,7 @@
 
 > ElGrandeToto f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-330 songs - 17 hr 43 min
+332 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [RALLY DAKAR](https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-02-09 | 2024-05-26 |
 | [RAMSES](https://open.spotify.com/track/7hjueI3R4N765QrBuChXgg) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RAMSES](https://open.spotify.com/album/3ilhA0ugGZ9UYckz529fUw) | 3:06 | 2023-06-22 | 2023-07-12 |
 | [Rehab](https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523) | [Yo Asel](https://open.spotify.com/artist/4DWssq4DfReHOpK7BEVPgo), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Rehab](https://open.spotify.com/album/3zsV6gi1HFVr3j4EiPWJED) | 3:16 | 2024-04-19 | 2024-07-13 |
+| [Roche](https://open.spotify.com/track/7MmZnaetGl0Rfj11bgI3RE) | [100Alien](https://open.spotify.com/artist/0WSNCqjksPt4RrSitACgLW) | [Everything Asfi](https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF) | 2:30 | 2024-12-07 |  |
 | [ROMEO](https://open.spotify.com/track/0b8ed9KxYS34522QeBncH7) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [ROMEO](https://open.spotify.com/album/42QiHBjANb2V2ZeDthCcwn) | 3:16 | 2023-07-13 | 2023-08-20 |
 | [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-07-18 | 2024-07-23 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
@@ -271,7 +272,7 @@
 | [Sparadra](https://open.spotify.com/track/78N2ZYtm1Lk5KHMZcGu4MX) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:13 | 2022-11-14 | 2023-04-01 |
 | [Sparta](https://open.spotify.com/track/3JrQYOR2x3TL9IyqHxjNCB) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Dj Mouss](https://open.spotify.com/artist/3HC41EHTcYGT6gOCgKa6on) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 2:25 | 2022-11-21 | 2022-11-26 |
 | [Spliff](https://open.spotify.com/track/2HdScolhznqzKsBMfYvmBk) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:11 | 2024-11-08 | 2024-11-11 |
-| [SRTTT](https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:29 | 2024-11-08 |  |
+| [SRTTT](https://open.spotify.com/track/1l21XzNeseGYg5fNhzTJWE) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 2:29 | 2024-11-08 | 2024-12-08 |
 | [Stafit](https://open.spotify.com/track/1AoVPFt1EmDqa5TxTzuese) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:47 | 2024-05-10 | 2024-06-03 |
 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 | 2024-11-29 |  |
 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 | 2023-05-12 | 2023-08-27 |
@@ -290,7 +291,8 @@
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-29 | 2023-07-12 |
 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 | 2023-12-07 | 2024-03-08 |
 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 | 2022-11-14 | 2023-05-26 |
-| [Tesla](https://open.spotify.com/track/1SVQijtlWVBZZxEgIojsrA) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Tesla](https://open.spotify.com/album/5K5WVJViRMWdRXjw2W3VYG) | 2:56 | 2024-11-12 |  |
+| [Tesla](https://open.spotify.com/track/1SVQijtlWVBZZxEgIojsrA) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Tesla](https://open.spotify.com/album/5K5WVJViRMWdRXjw2W3VYG) | 2:56 | 2024-11-12 | 2024-12-08 |
+| [Thomas Shelby](https://open.spotify.com/track/2lmdwpyG80PeqfUiSj2jpq) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Thomas Shelby](https://open.spotify.com/album/1XRC7ogai7kx6xVFvNwAeU) | 2:12 | 2024-12-07 |  |
 | [TODO BENÉ \- Spotify Singles](https://open.spotify.com/track/5NN51zQh6lnnXPuIQu1cFd) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [TODO BENÉ \(Spotify Singles\)](https://open.spotify.com/album/47nX5KQ0W5gE2Pm5smHk9x) | 3:26 | 2023-12-07 | 2024-07-13 |
 | [TP](https://open.spotify.com/track/0TqIRFzVdgqZrAhQaeED8j) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:13 | 2023-11-24 | 2024-02-23 |
 | [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2023-07-13 | 2024-04-04 |

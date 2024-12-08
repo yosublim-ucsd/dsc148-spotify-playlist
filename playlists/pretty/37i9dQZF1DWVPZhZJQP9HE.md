@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,561 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,595 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 44 | [Aasa Malli](https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [Aasa Malli](https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx) | 3:06 |
 | 45 | [Positive Vibes](https://open.spotify.com/track/3qiiZG6yYj4DJHs4CIjxOt) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 2:41 |
 | 46 | [What A Vadivu](https://open.spotify.com/track/5C6vxne9RiZSnIDP25rrqg) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [What A Vadivu](https://open.spotify.com/album/3yuXK9dHWz4XJR8YQKphk9) | 3:28 |
-| 47 | [Lovendra Cassandra \- From "Think Indie"](https://open.spotify.com/track/41An84CexsUMCeV6KkDVyy) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Shilvi Sharon](https://open.spotify.com/artist/0CF2xFxAubE3okREUvLY1g) | [Lovendra Cassandra \(From "Think Indie"\)](https://open.spotify.com/album/1hDXMmW7mVHrsGkcHWDRDY) | 3:48 |
+| 47 | [Lovendra Cassandra \- From "Think Indie"](https://open.spotify.com/track/41An84CexsUMCeV6KkDVyy) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Shilvi Sharon](https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr) | [Lovendra Cassandra \(From "Think Indie"\)](https://open.spotify.com/album/1hDXMmW7mVHrsGkcHWDRDY) | 3:48 |
 | 48 | [Imaigalo](https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Imaigalo](https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj) | 2:45 |
 | 49 | [Ammamma](https://open.spotify.com/track/05eDUk3qxGqsIYGvt02bpD) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP) | [Ammamma](https://open.spotify.com/album/1L8YDOUkzNY8QheUxpV2R5) | 4:28 |
 | 50 | [Poova Vaa](https://open.spotify.com/track/4c6Tbb385V3rjjxklLvlnE) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Poova Vaa](https://open.spotify.com/album/4AvNITXsXHDbUZrRUD44eu) | 3:45 |

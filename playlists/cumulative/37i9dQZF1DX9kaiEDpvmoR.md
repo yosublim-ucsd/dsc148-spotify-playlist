@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-253 songs - 14 hr 29 min
+254 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 |  |
 | [Dekadens](https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI) | [Lustans Lakejer](https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN) | [Dekadens](https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ) | 3:27 | 2024-06-27 | 2024-08-23 |
-| [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 |  |
+| [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 | 2024-12-08 |
 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 | 2024-09-12 |  |
 | [Den var aldrig jag](https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den var aldrig jag](https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4) | 4:04 | 2024-06-27 | 2024-08-09 |
 | [Det blir inte bättre](https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Det blir inte bättre](https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC) | 3:15 | 2024-06-27 | 2024-08-23 |
@@ -164,6 +164,7 @@
 | [Nu när vi ändå talar om döden \- Mauro Scocco Remix](https://open.spotify.com/track/3M0Mg0TNCRegl84z83T8oW) | [Svart Tulpan](https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u), [Mauro Scocco](https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV) | [Nu när vi ändå talar om döden \- Mauro Scocco Remix](https://open.spotify.com/album/5reJwNJz4dDbftlyrrxyX0) | 3:34 | 2024-09-12 | 2024-09-20 |
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 |  |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 |  |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 |  |
 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2024-12-07 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |

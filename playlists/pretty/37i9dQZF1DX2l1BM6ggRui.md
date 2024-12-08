@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,658 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,664 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 19 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
 | 20 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 21 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
-| 22 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 |
-| 23 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
-| 24 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
-| 25 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
+| 22 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
+| 23 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 |
+| 24 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
+| 25 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
 | 26 | [BENCH \(with Zion.T\)](https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:45 |
 | 27 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 28 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |

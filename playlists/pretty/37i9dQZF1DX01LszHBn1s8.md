@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > I LIKE MY SOOOTCASE
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,408 likes - 1,003 songs - 2 day 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,358 likes - 1,003 songs - 2 day 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
