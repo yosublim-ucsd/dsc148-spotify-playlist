@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 125709,
+  "num_followers": 125726,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAACaE1tgCZLkx1a+dC19DoEm",
+  "snapshot_id": "Z1OQAAAAAADtVwEy7h21IE5uKarx8FeJ",
   "tracks": [
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halloween Hootenanny",
-        "url": "https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t"
+        "name": "Mondo Sex Head",
+        "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
       },
       "artists": [
         {
@@ -836,13 +836,17 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         },
         {
-          "name": "The Ghastly Ones",
-          "url": "https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy"
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        },
+        {
+          "name": "Jonathan Davis",
+          "url": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
         }
       ],
-      "duration_ms": 170066,
-      "name": "Halloween (She's So Mean)",
-      "url": "https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp"
+      "duration_ms": 229080,
+      "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
+      "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
     }
   ],
   "unique_name": "This Is Rob Zombie",

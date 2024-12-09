@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,358 likes - 215 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,379 likes - 215 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 18 | [The Chase](https://open.spotify.com/track/6BJZJs7qfVdrr7wzevwHXz) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Disclaimer \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/5pPzwAJD6VmXtSDoclwuJK) | 8:28 |
 | 19 | [The Wave](https://open.spotify.com/track/6JNkncZMGzrPuxxkWwLNTz) | [David Schweitzer](https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc) | [Tsunami: Race Against Time \(Original Series Soundtrack\)](https://open.spotify.com/album/3nQ3lEBC7z9ihjLjB14T3h) | 3:36 |
 | 20 | [Paris Has Fallen](https://open.spotify.com/track/0yL5iCGSat1OqZIs9l7XBY) | [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj), [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d) | [Paris Has Fallen \(Original Series Soundtrack\)](https://open.spotify.com/album/7BcbDgx1TGdIfgsU6U7O25) | 3:51 |
-| 21 | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/track/4DXStGSl6efAunMKjuYc1e) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/1girrFjOqLJnwi5a9rLKts) | 1:32 |
+| 21 | [Main Title](https://open.spotify.com/track/4DXStGSl6efAunMKjuYc1e) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Main Title \(from "Dune: Prophecy" Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/1girrFjOqLJnwi5a9rLKts) | 1:32 |
 | 22 | [Call for the Ambassador](https://open.spotify.com/track/6lq2lYeJOgY1sIGQMEaZKz) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [The Diplomat: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6JGHMYF754x0DQQMkOie1k) | 3:45 |
 | 23 | [Sherwood](https://open.spotify.com/track/5reDKMVVaiTUAtecjSyOPR) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Sherwood \(Original Television Soundtrack\)](https://open.spotify.com/album/0JfBuCeUiUyDT8zsxmzyNf) | 3:57 |
 | 24 | [Maggie’s First](https://open.spotify.com/track/5s3rB6e2jNzRa9rH8Mx7zx) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Three Women \(Original Series Soundtrack\)](https://open.spotify.com/album/5mRQzKHiEURQDUJlELxYQW) | 4:38 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 133 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,060 likes - 133 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Main Title](https://open.spotify.com/track/05A44JvvE9McpmTDG0HNvJ) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 1:58 |
-| 2 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\) \- Voice](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [The American Boychoir](https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
+| 2 | [Main Title "Somewhere in My Memory" \(From "Home Alone"\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [The American Boychoir](https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 3 | [Glasgow Love Theme](https://open.spotify.com/track/2dz5fCXiNZk4W5Qptpmfgm) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 2:05 |
 | 4 | [Suite from the Polar Express](https://open.spotify.com/track/27Nr83gnl0z6YDHfWklXV0) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Polar Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iEg2hitHOT0fRpsReCqAH) | 6:02 |
 | 5 | [Overture \- \(The Nightmare Before Christmas\)](https://open.spotify.com/track/2tzKOvqBZIpUeQnBHEI5Q3) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 1:47 |

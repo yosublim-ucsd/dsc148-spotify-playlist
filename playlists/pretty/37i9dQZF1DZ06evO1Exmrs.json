@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 306258,
+  "num_followers": 306586,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAACZ+f4DK04J+ofHZn0nDrox",
+  "snapshot_id": "Z1OQAAAAAAAEUwhEcTLOmucxpP9NeVsr",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Fenway Park",
-        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 140327,
-      "name": "Pain Is Cold Water - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
+      "duration_ms": 252093,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+        "name": "Live From Fenway Park",
+        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 252093,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
+      "duration_ms": 140327,
+      "name": "Pain Is Cold Water - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
     },
     {
       "added_at": null,

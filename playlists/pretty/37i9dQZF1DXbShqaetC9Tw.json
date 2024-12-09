@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 98521,
+  "num_followers": 98527,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 154803,
       "name": "want YOU",
       "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -267,38 +251,18 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -319,6 +283,26 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+      },
+      "artists": [
+        {
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -359,6 +343,22 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -527,6 +511,62 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
+        "name": "4 Seasons",
+        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "EXchange3, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
         "name": "How could I say",
         "url": "https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw"
       },
@@ -559,42 +599,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "EXchange3, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "On my mind",
-      "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "One Snowy Day",
         "url": "https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo"
       },
@@ -615,22 +619,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Black & White Film (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "What did you do?",
         "url": "https://open.spotify.com/album/5M7idBc6etKGNJAYUBbOl8"
       },
@@ -643,6 +631,22 @@
       "duration_ms": 134640,
       "name": "What did you do?",
       "url": "https://open.spotify.com/track/3571OzuyKTDcGfYyaxWzmP"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -663,22 +667,18 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Poker (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -715,22 +715,22 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "4 Seasons",
-        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "VVON",
-          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
         }
       ],
-      "duration_ms": 151106,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
+      "duration_ms": 212840,
+      "name": "Poker (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
     },
     {
       "added_at": "2024-12-05 09:41:26",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-05 09:41:26",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
-    },
-    {
-      "added_at": "2024-12-05 09:41:26",
-      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
+    },
+    {
+      "added_at": "2024-12-05 09:41:26",
+      "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2024-12-05 09:41:26",

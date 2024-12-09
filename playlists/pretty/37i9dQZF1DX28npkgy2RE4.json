@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 420400,
+  "num_followers": 420422,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
-      },
-      "artists": [
-        {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 238613,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
         }
       ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4"
-      },
-      "artists": [
-        {
-          "name": "Oshima Brothers",
-          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4"
+      },
+      "artists": [
+        {
+          "name": "Oshima Brothers",
+          "url": "https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 224493,
       "name": "Joy'All",
       "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Tobacco City, USA",
-        "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
-      },
-      "artists": [
-        {
-          "name": "Tobacco City",
-          "url": "https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX"
-        }
-      ],
-      "duration_ms": 225297,
-      "name": "Never on My Mind",
-      "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Desert Woman",
         "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Tobacco City, USA",
+        "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
+      },
+      "artists": [
+        {
+          "name": "Tobacco City",
+          "url": "https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX"
+        }
+      ],
+      "duration_ms": 225297,
+      "name": "Never on My Mind",
+      "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Solid Heart",
         "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Human Emotion",
-        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
-      },
-      "artists": [
-        {
-          "name": "Small Forward",
-          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Human Emotion",
-      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 201680,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Human Emotion",
+        "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
+      },
+      "artists": [
+        {
+          "name": "Small Forward",
+          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Human Emotion",
+      "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Big Star (Alt)",
-        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Big Star - Alt",
-      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Redwood Tree",
         "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 170894,
       "name": "Redwood Tree",
       "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Big Star (Alt)",
+        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Big Star - Alt",
+      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Porta",
         "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Loving You Is Lonely",
-        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
-      },
-      "artists": [
-        {
-          "name": "Harmony Byrne",
-          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Loving You Is Lonely",
-      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "In Heaven",
         "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
       },
@@ -1691,6 +1675,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Loving You Is Lonely",
+        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
+      },
+      "artists": [
+        {
+          "name": "Harmony Byrne",
+          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Loving You Is Lonely",
+      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 193897,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "I Am Not There Anymore",
         "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 197373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 193897,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Bummer Year",
-        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Bummer Year",
-      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Mount Airy Hill (Way Gone)",
         "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 332533,
       "name": "Mount Airy Hill (Way Gone)",
       "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Bummer Year",
+        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Bummer Year",
+      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Was Always You",
+        "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
+      },
+      "artists": [
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "duration_ms": 196575,
+      "name": "Was Always You",
+      "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "My First Life",
         "url": "https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 216015,
       "name": "My First Life (feat. Wye Oak)",
       "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Was Always You",
-        "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
-      },
-      "artists": [
-        {
-          "name": "Camille Jansen",
-          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
-        }
-      ],
-      "duration_ms": 196575,
-      "name": "Was Always You",
-      "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+        "name": "100 Proof",
+        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
         }
       ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+      "duration_ms": 238300,
+      "name": "100 Proof",
+      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "100 Proof",
-        "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
       },
       "artists": [
         {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 238300,
-      "name": "100 Proof",
-      "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
     },
     {
       "added_at": "2024-09-13 04:00:00",

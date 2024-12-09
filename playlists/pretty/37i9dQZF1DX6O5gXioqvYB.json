@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Giulia Mei",
-  "num_followers": 33912,
+  "num_followers": 33910,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Ora",
-        "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
-      },
-      "artists": [
-        {
-          "name": "Palmaria",
-          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
-        }
-      ],
-      "duration_ms": 110510,
-      "name": "Godspeed / Fili d'Erba",
-      "url": "https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "ti amo",
         "url": "https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 138043,
       "name": "ti amo",
       "url": "https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Ora",
+        "url": "https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "duration_ms": 110510,
+      "name": "Godspeed / Fili d'Erba",
+      "url": "https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "sconosciuti",
+        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
+      },
+      "artists": [
+        {
+          "name": "nube",
+          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "sconosciuti",
+      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "BELLA BALLA",
         "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 176596,
       "name": "BELLA BALLA",
       "url": "https://open.spotify.com/track/0rLKX0ka5kahrHmUNd8CX1"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "sconosciuti",
-        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
-      },
-      "artists": [
-        {
-          "name": "nube",
-          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "sconosciuti",
-      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Campari",
-        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
-      },
-      "artists": [
-        {
-          "name": "Kate",
-          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Campari",
-      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "TUFFO",
         "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 214670,
       "name": "Trentasette denti",
       "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Campari",
+        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
+      },
+      "artists": [
+        {
+          "name": "Kate",
+          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Campari",
+      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
-      },
-      "artists": [
-        {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Come Stai?",
         "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 154552,
       "name": "Come Stai?",
       "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+      },
+      "artists": [
+        {
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Sott'acqua",
         "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 191250,
       "name": "Sott'acqua",
       "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
-      },
-      "artists": [
-        {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Canzone poco originale sulla solitudine",
+        "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
+      },
+      "artists": [
+        {
+          "name": "EDEL",
+          "url": "https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah"
+        }
+      ],
+      "duration_ms": 215075,
+      "name": "Canzone poco originale sulla solitudine",
+      "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Un Titolo Migliore",
         "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "brivido",
-        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
-      },
-      "artists": [
-        {
-          "name": "Sedici",
-          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
-        }
-      ],
-      "duration_ms": 158239,
-      "name": "brivido",
-      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
         "url": "https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw"
       },
@@ -975,22 +975,34 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
+        "name": "brivido",
+        "url": "https://open.spotify.com/album/0U8J17oNzBHqc7uCCWRqcT"
       },
       "artists": [
         {
-          "name": "ETT",
-          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
-        },
-        {
-          "name": "dNoise",
-          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+          "name": "Sedici",
+          "url": "https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs"
         }
       ],
-      "duration_ms": 151636,
-      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
+      "duration_ms": 158239,
+      "name": "brivido",
+      "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "anna se la sente ancora",
+        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
+      },
+      "artists": [
+        {
+          "name": "UmbertoC\u00ec.",
+          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
+        }
+      ],
+      "duration_ms": 180334,
+      "name": "anna se la sente ancora",
+      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1011,18 +1023,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "anna se la sente ancora",
-        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
+        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
       },
       "artists": [
         {
-          "name": "UmbertoC\u00ec.",
-          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
         }
       ],
-      "duration_ms": 180334,
-      "name": "anna se la sente ancora",
-      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
+      "duration_ms": 151636,
+      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Sotto",
-        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
-      },
-      "artists": [
-        {
-          "name": "R\u00cdA",
-          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sotto",
-      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Canzone poco originale sulla solitudine",
-        "url": "https://open.spotify.com/album/0FbWcvM9NO1hDn0zKIrxJr"
-      },
-      "artists": [
-        {
-          "name": "EDEL",
-          "url": "https://open.spotify.com/artist/6Ny5r6ph1IWIPvufBpGEah"
-        }
-      ],
-      "duration_ms": 215075,
-      "name": "Canzone poco originale sulla solitudine",
-      "url": "https://open.spotify.com/track/2HEC6IPJpl3FIqGmyY8aK0"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Estate Inverno",
         "url": "https://open.spotify.com/album/1DpU2GPjrPpDorx2rPSO2w"
       },
@@ -1123,18 +1107,34 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "tutte le tue onde",
-        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
+        "name": "Sotto",
+        "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
+          "name": "R\u00cdA",
+          "url": "https://open.spotify.com/artist/0Ykm1JyJN3GYjCidyxtgiE"
         }
       ],
-      "duration_ms": 144970,
-      "name": "tutte le tue onde",
-      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
+      "duration_ms": 152000,
+      "name": "Sotto",
+      "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Luna in acquario ascendente sagittario",
+        "url": "https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "duration_ms": 169747,
+      "name": "Farci la guerra",
+      "url": "https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n"
     },
     {
       "added_at": "2024-12-05 23:01:00",

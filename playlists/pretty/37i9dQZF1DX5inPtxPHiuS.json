@@ -123,22 +123,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "Baracunatana",
-      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Volver Amar",
         "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 225693,
       "name": "Ahora Me Cuesta",
       "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Yumbotop\u00eda",
         "url": "https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1"
       },
@@ -483,6 +499,26 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 159781,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Ciudad Faro",
         "url": "https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk"
       },
@@ -511,42 +547,6 @@
       "duration_ms": 210186,
       "name": "Rock the Casbah",
       "url": "https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 159781,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
+      },
+      "artists": [
+        {
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Lockdownska",
         "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
+        "name": "La Clase Que Trabaja",
+        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
       },
       "artists": [
         {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
         }
       ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+      "duration_ms": 187500,
+      "name": "La Clase Que Trabaja",
+      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -891,22 +907,6 @@
       "duration_ms": 230237,
       "name": "Rocal",
       "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "La Clase Que Trabaja",
-        "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "La Clase Que Trabaja",
-      "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Eres T\u00fa",
-        "url": "https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        },
-        {
-          "name": "Marty Friedman",
-          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 183539,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Olvidarme de Todo",
+        "url": "https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB"
+      },
+      "artists": [
+        {
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        },
+        {
+          "name": "Oso Pardo",
+          "url": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
+        }
+      ],
+      "duration_ms": 201131,
+      "name": "Olvidarme de Todo",
+      "url": "https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox"
     }
   ],
   "unique_name": "Rock Colombia",

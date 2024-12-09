@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip\-Hop and Happy Holidays!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,238 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,660 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

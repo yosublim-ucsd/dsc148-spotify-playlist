@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from ROSÉ \(pictured\), Hozier, Sam Fender and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,923 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,966 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

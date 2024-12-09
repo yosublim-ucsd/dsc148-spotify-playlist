@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1596026,
+  "num_followers": 1596101,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Living In Darkness (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
       },
@@ -287,26 +303,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Collection 2",
-        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        },
-        {
-          "name": "Glenn Danzig",
-          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
-        }
-      ],
-      "duration_ms": 119826,
-      "name": "Last Caress",
-      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Adolescents",
         "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
       },
@@ -323,18 +319,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+        "name": "Collection 2",
+        "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        },
+        {
+          "name": "Glenn Danzig",
+          "url": "https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d"
         }
       ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+      "duration_ms": 119826,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "God Save the Queen",
-      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -435,18 +419,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
         }
       ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+      "duration_ms": 200080,
+      "name": "God Save the Queen",
+      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 102106,
       "name": "Knowledge - 2007 Remaster",
       "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Tim (Expanded)",
-        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Bastards of Young - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Inflammable Material",
         "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
+        "name": "Tim (Expanded)",
+        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
       "artists": [
         {
-          "name": "T.S.O.L.",
-          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
         }
       ],
-      "duration_ms": 128906,
-      "name": "Code Blue",
-      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
+      "duration_ms": 218066,
+      "name": "Bastards of Young - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -719,6 +703,22 @@
       "duration_ms": 120360,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
+      },
+      "artists": [
+        {
+          "name": "T.S.O.L.",
+          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Code Blue",
+      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
-        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
-      },
-      "artists": [
-        {
-          "name": "The Stooges",
-          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Raw Power [2023 Remaster] - Iggy Mix",
-      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Raw Power (Iggy Mix - 2023 Remaster)",
+        "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "artists": [
+        {
+          "name": "The Stooges",
+          "url": "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Raw Power [2023 Remaster] - Iggy Mix",
+      "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+        "name": "This Year's Model",
+        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
       },
       "artists": [
         {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
+      "duration_ms": 196680,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1347,6 +1331,38 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -1363,18 +1379,34 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
       },
       "artists": [
         {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
         }
       ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Peace Thru Vandalism (Re-Mastered)",
+        "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
+      },
+      "artists": [
+        {
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
+        }
+      ],
+      "duration_ms": 114133,
+      "name": "Anarchy Burger (Hold The Government)",
+      "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1427,22 +1459,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 134026,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Peace Thru Vandalism (Re-Mastered)",
-        "url": "https://open.spotify.com/album/5rPr9N2sCgivHFmQu6qJj1"
-      },
-      "artists": [
-        {
-          "name": "The Vandals",
-          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
-        }
-      ],
-      "duration_ms": 114133,
-      "name": "Anarchy Burger (Hold The Government)",
-      "url": "https://open.spotify.com/track/43UVZ8ZgNNuXOf0mTBeLSo"
     },
     {
       "added_at": "2024-11-29 00:00:00",

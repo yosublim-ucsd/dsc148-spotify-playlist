@@ -939,6 +939,28 @@
     },
     {
       "album": {
+        "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
+        "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187045,
+      "name": "Adonay",
+      "url": "https://open.spotify.com/track/4yzEzfJRG2KpT6JBed7Wzw"
+    },
+    {
+      "album": {
         "name": "De Triunfo en Triunfo",
         "url": "https://open.spotify.com/album/5pefwZ3srZQo7kBZgIBnkk"
       },
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -3348,7 +3370,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
@@ -3370,7 +3392,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
@@ -4072,6 +4094,24 @@
       "duration_ms": 127333,
       "name": "COMO HAS ESTAU?",
       "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
+    },
+    {
+      "album": {
+        "name": "Como quisiera",
+        "url": "https://open.spotify.com/album/0TgK5rsk2w1oXjDXvU9FQD"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143974,
+      "name": "Como quisiera",
+      "url": "https://open.spotify.com/track/5TsFC2fnBWOYWYllvEtiOQ"
     },
     {
       "album": {
@@ -4857,6 +4897,28 @@
     },
     {
       "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
+    },
+    {
+      "album": {
         "name": "De Peligro",
         "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
@@ -5502,7 +5564,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -5564,7 +5626,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 214120,
       "name": "Dile a Tu Amiga",
       "url": "https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S"
@@ -6402,7 +6464,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/3TqgsPZFuI33G3939uyQ1v"
@@ -7170,6 +7232,32 @@
     {
       "album": {
         "name": "En Todas Partes",
+        "url": "https://open.spotify.com/album/74ZP735OsoJNED848xRoXD"
+      },
+      "artists": [
+        {
+          "name": "ONIKX",
+          "url": "https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222115,
+      "name": "En Todas Partes",
+      "url": "https://open.spotify.com/track/0YxC9VXnvkUOOSYCHiuFeS"
+    },
+    {
+      "album": {
+        "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/2VSOocFKGFMBWRogw6GZkA"
       },
       "artists": [
@@ -7188,7 +7276,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 222115,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/0xbOgcDs7yupj7nZIrM5mN"
@@ -8066,7 +8154,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 167760,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
@@ -12650,7 +12738,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 287459,
       "name": "Loquito por Ti",
       "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
@@ -12792,7 +12880,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
@@ -14652,7 +14740,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 190000,
       "name": "Movimiento de Caderas",
       "url": "https://open.spotify.com/track/3vpvKFigw8bNApZzuOleGe"
@@ -16464,7 +16552,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -19838,6 +19926,24 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
+        "name": "Listos para Bailar",
+        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219498,
+      "name": "Se Va la Vida",
+      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
     },
     {
       "album": {
@@ -24660,7 +24766,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 183535,
       "name": "YOGURCITO",
       "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"

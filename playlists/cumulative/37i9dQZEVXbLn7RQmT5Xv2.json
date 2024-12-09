@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -7973,6 +7973,28 @@
     },
     {
       "album": {
+        "name": "Meen Ysadak",
+        "url": "https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        },
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Meen Ysadak",
+      "url": "https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD"
+    },
+    {
+      "album": {
         "name": "Mehtag L Wogodk",
         "url": "https://open.spotify.com/album/7KTZ8xngdzDldsNugnDGqN"
       },
@@ -8100,7 +8122,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
@@ -14740,7 +14762,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 244500,
       "name": "\u0628\u062d\u0643\u064a \u0639\u0644\u064a\u0643\u064a",
       "url": "https://open.spotify.com/track/1kYgUIoRdPI36J74bzGs7y"
@@ -16426,7 +16448,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 220434,
       "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
       "url": "https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM"
@@ -16520,7 +16542,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 428501,
       "name": "\u0641\u0631\u062d\u0629 \u0627\u0644\u062f\u0644\u0648\u0639\u0647",
       "url": "https://open.spotify.com/track/3InZQvsW9tYYL0iaDgJfYf"

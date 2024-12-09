@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 162972,
+  "num_followers": 162997,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAACtE0T544/7D07QhGXlL8LJ",
+  "snapshot_id": "Z1OQAAAAAACllRLSdycQH+xzNz8DdxdM",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrasta",
-        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Arrasta",
-      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Amo Cada Vez Mais (Duas Vozes)",
         "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 347672,
       "name": "Te Amo Cada Vez Mais (Duas Vozes)",
       "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrasta",
+        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Arrasta",
+      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
     },
     {
       "added_at": null,
@@ -983,6 +983,30 @@
       "duration_ms": 200500,
       "name": "Chelas",
       "url": "https://open.spotify.com/track/1F5fQlcfAXZelz5Y47MQbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        }
+      ],
+      "duration_ms": 155761,
+      "name": "PROIBIDONA",
+      "url": "https://open.spotify.com/track/0Tqnom8PwHN01ntaY5KDiE"
     }
   ],
   "unique_name": "This Is Gloria Groove",

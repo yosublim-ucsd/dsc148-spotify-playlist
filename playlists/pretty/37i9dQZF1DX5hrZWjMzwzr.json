@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10085,
+  "num_followers": 10082,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,34 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "WWA NA KXKSIE",
+        "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
+      },
+      "artists": [
+        {
+          "name": "Yung Adisz",
+          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
+        },
+        {
+          "name": "schafter",
+          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
+        },
+        {
+          "name": "Gottastral",
+          "url": "https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9"
+        },
+        {
+          "name": "Tosiek",
+          "url": "https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "WWA NA KXKSIE",
+      "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/4jhbMRksvKzOhCqoHbLWQ4"
       },
@@ -247,34 +275,6 @@
       "duration_ms": 180937,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6tARtPlcilM1u4tbAWgato"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "WWA NA KXKSIE",
-        "url": "https://open.spotify.com/album/6R3IJyx9vPOZFk4ARB7N2H"
-      },
-      "artists": [
-        {
-          "name": "Yung Adisz",
-          "url": "https://open.spotify.com/artist/2G8IXlvZR5PxsMAAg2ZG40"
-        },
-        {
-          "name": "schafter",
-          "url": "https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh"
-        },
-        {
-          "name": "Gottastral",
-          "url": "https://open.spotify.com/artist/4QXo5C5MyU5monLYHsJOG9"
-        },
-        {
-          "name": "Tosiek",
-          "url": "https://open.spotify.com/artist/0WvOprQ8IaFWR5L76Czhww"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "WWA NA KXKSIE",
-      "url": "https://open.spotify.com/track/0oyR4Ql18Y1GNwS3arouvb"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Cherry Lady",
-        "url": "https://open.spotify.com/album/73AskkkPaeQsljbltdSTur"
-      },
-      "artists": [
-        {
-          "name": "Louis Villain",
-          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Cherry Lady",
-      "url": "https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "MOWA W\u0118\u017bY",
         "url": "https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Cherry Lady",
+        "url": "https://open.spotify.com/album/73AskkkPaeQsljbltdSTur"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Cherry Lady",
+      "url": "https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1527,6 +1527,30 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Kochaj albo zabij",
+        "url": "https://open.spotify.com/album/5LikEgsPwdF0Wu4vgvO2YF"
+      },
+      "artists": [
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Cheez",
+          "url": "https://open.spotify.com/artist/0w149E94Z0rflc0Q3VOWds"
+        },
+        {
+          "name": "Skibovicz",
+          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Kochaj albo zabij",
+      "url": "https://open.spotify.com/track/0TK3ja2LhgWQRuFB1t9xcK"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "SQNHEAD",
         "url": "https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA"
       },
@@ -1567,30 +1591,6 @@
       "duration_ms": 153746,
       "name": "SQNHEAD",
       "url": "https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Kochaj albo zabij",
-        "url": "https://open.spotify.com/album/5LikEgsPwdF0Wu4vgvO2YF"
-      },
-      "artists": [
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Cheez",
-          "url": "https://open.spotify.com/artist/0w149E94Z0rflc0Q3VOWds"
-        },
-        {
-          "name": "Skibovicz",
-          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Kochaj albo zabij",
-      "url": "https://open.spotify.com/track/0TK3ja2LhgWQRuFB1t9xcK"
     },
     {
       "added_at": "2024-02-27 08:21:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: KHEA & Sebastian Yatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,870 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,904 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 6 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
 | 7 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
 | 8 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 |
-| 9 | [CIUDAD DE PAPEL](https://open.spotify.com/track/3SOCd6DbOjtmTP5xpDXWcp) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [CIUDAD DE PAPEL](https://open.spotify.com/album/4VaQYHH2pdK5Wou2kfWHFQ) | 2:05 |
+| 9 | [Ciudad de Papel](https://open.spotify.com/track/3SOCd6DbOjtmTP5xpDXWcp) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Ciudad de Papel](https://open.spotify.com/album/4VaQYHH2pdK5Wou2kfWHFQ) | 2:05 |
 | 10 | [Loca](https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:28 |
 | 11 | [No Me Gusta](https://open.spotify.com/track/3ZpXPV1BA7nFrIxgkbIxMg) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [No Me Gusta](https://open.spotify.com/album/0nHUmc55WNTfoPTcfZHJBc) | 3:24 |
 | 12 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |

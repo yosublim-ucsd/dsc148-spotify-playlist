@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 95ANTNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,502 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,533 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 |
 | 70 | [CRUISE](https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [CRUISE](https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56) | 1:39 |
 | 71 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
-| 72 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
+| 72 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
 | 73 | [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 |
 | 74 | [Replica \(The Greatest\)](https://open.spotify.com/track/14ptimZIzywSLwUrM178ls) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Replica \(The Greatest\)](https://open.spotify.com/album/2LyRbu8qkgdOnBJByouEil) | 2:23 |
 | 75 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 |

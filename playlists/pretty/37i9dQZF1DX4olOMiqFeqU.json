@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2412692,
+  "num_followers": 2412764,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 212608,
       "name": "Kisame",
       "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -259,38 +259,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Tanong",
-        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Kailan?",
-      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
       },
@@ -303,6 +271,22 @@
       "duration_ms": 201806,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Tanong",
+        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Kailan?",
+      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -363,6 +347,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Leonora",
         "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
       },
@@ -491,34 +491,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
       "artists": [
         {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Nahuhulog",
-        "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
-      },
-      "artists": [
-        {
-          "name": "Jed Baruelo",
-          "url": "https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y"
-        }
-      ],
-      "duration_ms": 227262,
-      "name": "Nahuhulog",
-      "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -535,6 +519,22 @@
       "duration_ms": 267680,
       "name": "Same Ground",
       "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Nahuhulog",
+        "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
+      },
+      "artists": [
+        {
+          "name": "Jed Baruelo",
+          "url": "https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y"
+        }
+      ],
+      "duration_ms": 227262,
+      "name": "Nahuhulog",
+      "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "ERE",
-        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 284812,
-      "name": "ERE",
-      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Ngayong Gabi",
-        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
+        "name": "ERE",
+        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
       },
       "artists": [
         {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 267456,
-      "name": "Ngayong Gabi",
-      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
+      "duration_ms": 284812,
+      "name": "ERE",
+      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -667,6 +651,22 @@
       "duration_ms": 273200,
       "name": "214",
       "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Ngayong Gabi",
+        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 267456,
+      "name": "Ngayong Gabi",
+      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Padaba Taka",
-        "url": "https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ"
-      },
-      "artists": [
-        {
-          "name": "dwta",
-          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
-        }
-      ],
-      "duration_ms": 277583,
-      "name": "Padaba Taka",
-      "url": "https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Padaba Taka",
+        "url": "https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "duration_ms": 277583,
+      "name": "Padaba Taka",
+      "url": "https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO"
     },
     {
       "added_at": "2024-07-01 05:33:47",

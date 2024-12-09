@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-295 songs - 17 hr 10 min
+296 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
 | [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 | 2023-10-20 | 2024-08-10 |
 | [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
-| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 |  |
+| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 | 2024-12-09 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-16 |  |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
@@ -281,6 +281,7 @@
 | [Towards Silence](https://open.spotify.com/track/25stZHn22KgYL9roXriBe9) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Towards Silence](https://open.spotify.com/album/4e3UJoorTIvwDfg8D4DDYr) | 2:54 | 2022-10-14 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Traveling South](https://open.spotify.com/track/403ONsS1ggfGlohDshBgjG) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Traveling South](https://open.spotify.com/album/3a1knsci6NazXIV5pK4OFh) | 3:00 | 2023-09-22 |  |
+| [Tropicana](https://open.spotify.com/track/0rSCtkQ7F8QdunymZPZRgb) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Tropicana](https://open.spotify.com/album/3uzJKosEYNBmsxjXF7rUU5) | 3:02 | 2024-11-14 |  |
 | [Twilight meditation](https://open.spotify.com/track/6HBgsKrL6iGC8sqtd7iiFQ) | [Maria Tern](https://open.spotify.com/artist/7kFcvb3aOQTasCNfuFU6N0) | [Twilight meditation](https://open.spotify.com/album/3fQheljhswxe6ZasBx7gSE) | 2:59 | 2024-01-30 | 2024-06-12 |
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |

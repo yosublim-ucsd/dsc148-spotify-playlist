@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,580 likes - 77 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,975 likes - 77 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

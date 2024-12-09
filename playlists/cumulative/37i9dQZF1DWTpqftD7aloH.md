@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-365 songs - 1 day 11 hr 28 min
+366 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Nós Te Adoramos \- Ao Vivo](https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Nós Te Adoramos \(Ao Vivo\)](https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76) | 7:18 | 2023-02-11 | 2023-07-28 |
 | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-16 |  |
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2022-09-09 | 2023-04-29 |
+| [O Fogo Arderá \- Ao Vivo](https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j) | [Alexsander Lucio](https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP) | [O Fogo Arderá \(Ao Vivo\)](https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe) | 10:24 | 2024-12-08 |  |
 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 | 2023-06-23 | 2024-09-07 |
 | [O Maior Vilão Sou Eu](https://open.spotify.com/track/0satRlTjJoDmTqOl8mmmy0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Basta Acreditar](https://open.spotify.com/album/35bfGYis7fR7pponjtqlMv) | 4:33 | 2023-03-11 | 2023-10-21 |
 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 | 2022-11-26 |  |
@@ -289,7 +290,7 @@
 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 | 2023-03-24 | 2023-04-16 |
 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 | 2023-02-03 |  |
 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 | 2024-08-09 |  |
-| [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 |  |
+| [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/track/4owZeLc2PPX2eHOmGbPn2Q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Santo Espírito \(Enche a Casa\)](https://open.spotify.com/album/5Osmnx51FVj8qHfr1ff9jM) | 6:10 | 2024-09-06 | 2024-12-09 |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Graça \(Ao Vivo\)](https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71) | 8:33 | 2023-07-07 | 2023-10-21 |
 | [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 | 2024-09-06 | 2024-11-29 |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/5c6o5yQdZ8jRCxboHK5SAq) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb) | 5:17 | 2024-07-05 | 2024-10-17 |

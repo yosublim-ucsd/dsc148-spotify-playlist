@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 77833,
+  "num_followers": 77852,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Trip to Greece",
+        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Trip to Greece",
+      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/6PntwdcQ98hWY6cwugRJMw"
       },
@@ -335,26 +355,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Trip to Greece",
-        "url": "https://open.spotify.com/album/1OpEvfFju28XMHEFvO1zWQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 186559,
-      "name": "Trip to Greece",
-      "url": "https://open.spotify.com/track/6kFAXQq2EKd8z6JUjQ72Zk"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Major Bounce",
         "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 155024,
       "name": "Major Bounce",
       "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "In Synergy",
-        "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "In Synergy",
-      "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -403,26 +387,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Fear Means Nothing",
-        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
+        "name": "In Synergy",
+        "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
       },
       "artists": [
         {
-          "name": "L\u00d8IS",
-          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
-        },
-        {
-          "name": "NATHN",
-          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
-        },
-        {
-          "name": "Zentryc",
-          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 353374,
-      "name": "Fear Means Nothing",
-      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
+      "duration_ms": 166800,
+      "name": "In Synergy",
+      "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -467,30 +443,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "F.R.E.N.C.H.C.O.R.E.",
-        "url": "https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC"
+        "name": "Fear Means Nothing",
+        "url": "https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+          "name": "L\u00d8IS",
+          "url": "https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5"
         },
         {
-          "name": "Billx",
-          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+          "name": "NATHN",
+          "url": "https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L"
         },
         {
-          "name": "The Sickest Squad",
-          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
-        },
-        {
-          "name": "Frenchcore Familia",
-          "url": "https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR"
+          "name": "Zentryc",
+          "url": "https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7"
         }
       ],
-      "duration_ms": 158750,
-      "name": "F.R.E.N.C.H.C.O.R.E.",
-      "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
+      "duration_ms": 353374,
+      "name": "Fear Means Nothing",
+      "url": "https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -531,6 +503,34 @@
       "duration_ms": 180571,
       "name": "Game Of Hate",
       "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "F.R.E.N.C.H.C.O.R.E.",
+        "url": "https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Billx",
+          "url": "https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB"
+        },
+        {
+          "name": "The Sickest Squad",
+          "url": "https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk"
+        },
+        {
+          "name": "Frenchcore Familia",
+          "url": "https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "F.R.E.N.C.H.C.O.R.E.",
+      "url": "https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Trip to Espa\u00f1a",
-        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Trip to Espa\u00f1a",
-      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "ALLERLAATSTE FEESTJE",
         "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
       },
@@ -719,22 +699,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Creed Of Freakstyle",
-        "url": "https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D"
+        "name": "Trip to Espa\u00f1a",
+        "url": "https://open.spotify.com/album/1DKLDeBi0rxcZx0XwXkH0o"
       },
       "artists": [
         {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
         },
         {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Creed Of Freakstyle",
-      "url": "https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE"
+      "duration_ms": 222000,
+      "name": "Trip to Espa\u00f1a",
+      "url": "https://open.spotify.com/track/2otHD9rejwsLOnnAhUiB5w"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -755,22 +735,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Trip to Defqon.1",
-        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
+        "name": "Creed Of Freakstyle",
+        "url": "https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "JDX",
-          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
         }
       ],
-      "duration_ms": 222116,
-      "name": "Trip to Defqon.1",
-      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
+      "duration_ms": 249230,
+      "name": "Creed Of Freakstyle",
+      "url": "https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -839,6 +819,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Meteor",
+        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "The Light (Defqon.1 2024 BLACK OST)",
         "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 215785,
       "name": "The Light (Defqon.1 2024 BLACK OST)",
       "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Trip to Defqon.1",
+        "url": "https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "JDX",
+          "url": "https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4"
+        }
+      ],
+      "duration_ms": 222116,
+      "name": "Trip to Defqon.1",
+      "url": "https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -879,26 +899,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Meteor",
-        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Someone To Understand",
         "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 155076,
       "name": "Someone To Understand",
       "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Deep In The Underground",
-        "url": "https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Deep In The Underground",
-      "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -987,6 +967,26 @@
       "duration_ms": 195600,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Deep In The Underground",
+        "url": "https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Deep In The Underground",
+      "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
     },
     {
       "added_at": "2024-11-18 18:24:11",

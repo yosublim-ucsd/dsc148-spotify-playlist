@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta com Ivete Sangalo, João Gomes com Pablo Vittar, Marina Sena e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971,975 likes - 76 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,972,198 likes - 76 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 65 | [Recusei Todas](https://open.spotify.com/track/2hPIjGXMROxIvaewI7Ttx1) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Recusei Todas](https://open.spotify.com/album/5qMqx0udQDnlvYtuDFNXpj) | 2:48 |
 | 66 | [Te Amo Tanto](https://open.spotify.com/track/0n84fiW6wrwaMw6Xq5CEgM) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [6º Último](https://open.spotify.com/album/2gdCiraegon8PisGhtttGI) | 2:42 |
 | 67 | [Disfarce](https://open.spotify.com/track/4OVvLKZtZecQCWJTQcsaKZ) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Sim ou Não](https://open.spotify.com/album/3Tos7AqFcXHHFgD9j1Yanz) | 2:23 |
-| 68 | [Quer me encontrar](https://open.spotify.com/track/7KNWlXPjSSesksxLBtE7Oq) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Quer me encontrar](https://open.spotify.com/album/38XAGI9p7BQCvM6T9B3wU2) | 2:17 |
+| 68 | [Quer me encontrar](https://open.spotify.com/track/7KNWlXPjSSesksxLBtE7Oq) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Quer me encontrar](https://open.spotify.com/album/38XAGI9p7BQCvM6T9B3wU2) | 1:48 |
 | 69 | [Teimosia](https://open.spotify.com/track/1eAfCJ6cZ6R0MONjG6RgZL) | [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [Teimosia](https://open.spotify.com/album/6pq215FnJCRNgVjLigIkw2) | 3:02 |
 | 70 | [ENVELHECER](https://open.spotify.com/track/7nhqmcw9iRkr3NsESWkesL) | [Bruno Caliman](https://open.spotify.com/artist/07co38WMLoS1YJ3bvv6faf), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [ENVELHECER](https://open.spotify.com/album/0p30WAqFeFQ135S3xuaHY6) | 3:36 |
 | 71 | [Pura Perdição](https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Maori](https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg) | [Pura Perdição](https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P) | 2:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,479 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,511 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 76 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
 | 77 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 |
 | 78 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 |
-| 79 | [Oshaprapra \(with Shorae Moore\)](https://open.spotify.com/track/3bXRzbErrzDdcMCWX3139p) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:09 |
+| 79 | [Oshaprapra](https://open.spotify.com/track/3bXRzbErrzDdcMCWX3139p) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:09 |
 | 80 | [Fighting Spirit](https://open.spotify.com/track/7ksDlYtjVV2KwWqS6RIDW8) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Fighting Spirit](https://open.spotify.com/album/31dAnx3TCyHdTNXLOoO25g) | 3:26 |
 | 81 | [Eye Clear](https://open.spotify.com/track/3S0Z5qnYy6MF7EVLM3nDEB) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Eye Clear](https://open.spotify.com/album/1VHmadXFJMQo0HZwSQuYRb) | 3:28 |
 | 82 | [I Believe](https://open.spotify.com/track/2qSw2Sykal2ECGgAPxEz9t) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [I Believe](https://open.spotify.com/album/0W3ybbuYT1ylY1cShliEJp) | 2:45 |

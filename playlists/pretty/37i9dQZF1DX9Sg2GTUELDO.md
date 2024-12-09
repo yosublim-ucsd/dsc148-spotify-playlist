@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Cloud雲浩影
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,514 likes - 423 songs - 1 day 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,515 likes - 423 songs - 1 day 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

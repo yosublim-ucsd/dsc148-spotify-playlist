@@ -2975,6 +2975,32 @@
     },
     {
       "album": {
+        "name": "Driving Oceanside",
+        "url": "https://open.spotify.com/album/7CSxBFWij7dNGWORtfraBB"
+      },
+      "artists": [
+        {
+          "name": "Tob\u00ff",
+          "url": "https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        },
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/3Zc4MGz1t0uHYkoW2HIr7P"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Driving Oceanside",
+      "url": "https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak"
+    },
+    {
+      "album": {
         "name": "Dusk Till Dawn",
         "url": "https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A"
       },
@@ -3802,6 +3828,32 @@
       "duration_ms": 134181,
       "name": "Fell Out",
       "url": "https://open.spotify.com/track/4QUoNyX3mL0IPb0cbTi9xZ"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/5LzYJX57GSh5xT9qi9TbIk"
+      },
+      "artists": [
+        {
+          "name": "Harper Quinn",
+          "url": "https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN"
+        },
+        {
+          "name": "Josiah Nichols",
+          "url": "https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3"
+        },
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158135,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/7r4ECdcYljLrAbz0mlF5x7"
     },
     {
       "album": {
@@ -6552,7 +6604,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 139826,
       "name": "Keep Me Safe",
       "url": "https://open.spotify.com/track/0gevDsgwzD516yj7zxul8C"
@@ -7400,7 +7452,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 153272,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/4pD6Ck8J4gRGr4sBgfgApz"
@@ -8676,7 +8728,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 194086,
       "name": "Moments",
       "url": "https://open.spotify.com/track/63bs1ikzHoscHw6OPh3ftG"
@@ -10776,6 +10828,28 @@
       "duration_ms": 145090,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT"
+    },
+    {
+      "album": {
+        "name": "Say A Little Prayer",
+        "url": "https://open.spotify.com/album/7KhdsOwO4P0LETgW0UjUIQ"
+      },
+      "artists": [
+        {
+          "name": "James Lacey",
+          "url": "https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG"
+        },
+        {
+          "name": "Raphael DeLove",
+          "url": "https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Say A Little Prayer",
+      "url": "https://open.spotify.com/track/3B8OkW5CrXqScqSGKBUN1b"
     },
     {
       "album": {

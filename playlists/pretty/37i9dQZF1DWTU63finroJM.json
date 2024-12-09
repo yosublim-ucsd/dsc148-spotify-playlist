@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Fazerdaze.",
-  "num_followers": 70760,
+  "num_followers": 70814,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/1tMKcu6AdZWytIqkT4EisT"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Folie's je t'aime (bonus)",
-        "url": "https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg"
-      },
-      "artists": [
-        {
-          "name": "Folie's",
-          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
-        }
-      ],
-      "duration_ms": 181974,
-      "name": "Instinct Animal",
-      "url": "https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Going Hard 3",
@@ -327,6 +311,22 @@
       "duration_ms": 140800,
       "name": "Segnali di fumo",
       "url": "https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Folie's je t'aime (bonus)",
+        "url": "https://open.spotify.com/album/4XY3AYQ1bUedzOupxozyjg"
+      },
+      "artists": [
+        {
+          "name": "Folie's",
+          "url": "https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c"
+        }
+      ],
+      "duration_ms": 181974,
+      "name": "Instinct Animal",
+      "url": "https://open.spotify.com/track/1Lbohk2VALhwp3YvvN0Owh"
     },
     {
       "added_at": "2024-09-23 07:39:16",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z"
     },
     {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "TANZPARTEI II (Mixtape)",
-        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 151599,
-      "name": "Friday (Alone Right Now)",
-      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
-    },
-    {
       "added_at": "2024-09-23 07:39:16",
       "album": {
         "name": "Still The Same",
@@ -411,6 +395,22 @@
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -461,26 +461,6 @@
       "url": "https://open.spotify.com/track/7ecb0OkBTggYmYAofrfdNJ"
     },
     {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "darling, he lied",
-        "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        },
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "darling, he lied",
-      "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
-    },
-    {
       "added_at": "2024-10-04 06:00:00",
       "album": {
         "name": "PRATTS & PAIN",
@@ -511,6 +491,26 @@
       "duration_ms": 186393,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "darling, he lied",
+        "url": "https://open.spotify.com/album/3nxnsxuJGAPsJWZcXgwm3v"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        },
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "darling, he lied",
+      "url": "https://open.spotify.com/track/5e9DY1HEsK4XrNASmvNUlk"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI"
     },
     {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Dirimu Yang Dulu",
+        "url": "https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Dirimu Yang Dulu",
+      "url": "https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7"
+    },
+    {
       "added_at": "2024-09-23 07:39:16",
       "album": {
         "name": "Switch",
@@ -729,6 +745,22 @@
       "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
     },
     {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Songs About You Specifically",
+        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 163931,
+      "name": "Akira",
+      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
       "added_at": "2024-09-13 06:07:00",
       "album": {
         "name": "Don't Let Go",
@@ -743,22 +775,6 @@
       "duration_ms": 180491,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Dirimu Yang Dulu",
-        "url": "https://open.spotify.com/album/1XwDxY39rQn75hkx763Kri"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Dirimu Yang Dulu",
-      "url": "https://open.spotify.com/track/4NTJKqpoAlTG3RcPB3y4C7"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 251768,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Songs About You Specifically",
-        "url": "https://open.spotify.com/album/1oRATv55WFvifmpusW6Ik6"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 163931,
-      "name": "Akira",
-      "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/67r0i04P2mbsjog2G7ovLv"
     },
     {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Princess Treatment",
-        "url": "https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 135645,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji"
-    },
-    {
       "added_at": "2024-06-21 06:00:00",
       "album": {
         "name": "Smiling Through The Pain",
@@ -939,6 +923,22 @@
       "duration_ms": 210913,
       "name": "Now She Knows",
       "url": "https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
+        "name": "Princess Treatment",
+        "url": "https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 135645,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/4gy1QpxVe2DX4JoZ4HKnyU"
     },
     {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "a\u015fk olsun",
+        "url": "https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk"
+      },
+      "artists": [
+        {
+          "name": "TUANA",
+          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+        }
+      ],
+      "duration_ms": 180974,
+      "name": "a\u015fk olsun",
+      "url": "https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ"
+    },
+    {
       "added_at": "2024-09-06 06:00:00",
       "album": {
         "name": "Blitzlicht",
@@ -987,22 +1003,6 @@
       "duration_ms": 166706,
       "name": "Blitzlicht",
       "url": "https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "z papieru",
-        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
-      },
-      "artists": [
-        {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
-        }
-      ],
-      "duration_ms": 194799,
-      "name": "Kalka",
-      "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1037,20 +1037,20 @@
       "url": "https://open.spotify.com/track/2cFwZx2yXnzQ3pfWpEkVwd"
     },
     {
-      "added_at": "2024-11-29 06:00:00",
+      "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "a\u015fk olsun",
-        "url": "https://open.spotify.com/album/5xxM5sPHkm9J4mKRysNVkk"
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
       "artists": [
         {
-          "name": "TUANA",
-          "url": "https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6"
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
-      "duration_ms": 180974,
-      "name": "a\u015fk olsun",
-      "url": "https://open.spotify.com/track/0O8Nm0uLDyoYlvbOpBRsFQ"
+      "duration_ms": 194799,
+      "name": "Kalka",
+      "url": "https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "daydreamers",
-        "url": "https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "We Don't Need to Do Forever",
-      "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Predator",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/50einjgl3ERzlcGJPT5mWM"
     },
     {
-      "added_at": "2024-10-11 06:00:00",
+      "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
+        "name": "daydreamers",
+        "url": "https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
         }
       ],
-      "duration_ms": 186591,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
+      "duration_ms": 156853,
+      "name": "We Don't Need to Do Forever",
+      "url": "https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1333,6 +1317,22 @@
       "url": "https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3"
     },
     {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 186591,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5"
+    },
+    {
       "added_at": "2024-08-23 06:00:00",
       "album": {
         "name": "Zorb",
@@ -1347,22 +1347,6 @@
       "duration_ms": 148689,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Love's Letter (Deluxe)",
-        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
-      },
-      "artists": [
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "Ebbs & Flows",
-      "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
     },
     {
       "added_at": "2024-11-22 06:00:00",
@@ -1381,20 +1365,20 @@
       "url": "https://open.spotify.com/track/5N2YFIStAASpM38DAYoCMO"
     },
     {
-      "added_at": "2024-10-11 06:00:00",
+      "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "BEFORE I SEE",
-        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+        "name": "Love's Letter (Deluxe)",
+        "url": "https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2"
       },
       "artists": [
         {
-          "name": "Josh Makazo",
-          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
-      "duration_ms": 203202,
-      "name": "Breathtaker",
-      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+      "duration_ms": 195404,
+      "name": "Ebbs & Flows",
+      "url": "https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -1413,6 +1397,22 @@
       "url": "https://open.spotify.com/track/6pT4XrJXq3uWYlfaKiflce"
     },
     {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "BEFORE I SEE",
+        "url": "https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "Breathtaker",
+      "url": "https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO"
+    },
+    {
       "added_at": "2024-06-14 06:00:00",
       "album": {
         "name": "Kahan Jaoon",
@@ -1427,22 +1427,6 @@
       "duration_ms": 329214,
       "name": "Kahan Jaoon",
       "url": "https://open.spotify.com/track/3cRf9S40t4xLqQwzcHpW5G"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "girl's notes",
-        "url": "https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 140771,
-      "name": "No Happy Ending",
-      "url": "https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 233920,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "girl's notes",
+        "url": "https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 140771,
+      "name": "No Happy Ending",
+      "url": "https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Give Up The Fear",
-        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
+        "name": "Comic Trip",
+        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
       },
       "artists": [
         {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
+      "duration_ms": 189169,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Comic Trip",
-        "url": "https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7"
+        "name": "Give Up The Fear",
+        "url": "https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De"
       },
       "artists": [
         {
-          "name": "Sylvie Kreusch",
-          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
         }
       ],
-      "duration_ms": 189169,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/0BUXcwQFldJNJHNGoPT2Ng"
+      "duration_ms": 196680,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/6gAfcLmswaho2aqeKmoFS1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1623,6 +1623,26 @@
       "duration_ms": 166720,
       "name": "You\u2019ll End Up Hating Me",
       "url": "https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe"
+    },
+    {
+      "added_at": "2024-11-22 06:00:00",
+      "album": {
+        "name": "Duman",
+        "url": "https://open.spotify.com/album/7aDUXhTz7dnrHQmWlFZsyO"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        },
+        {
+          "name": "Ege Boran",
+          "url": "https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Duman",
+      "url": "https://open.spotify.com/track/4XJMC47Ykz8mZL30aiYbMT"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 190285,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G"
-    },
-    {
-      "added_at": "2024-11-22 06:00:00",
-      "album": {
-        "name": "Duman",
-        "url": "https://open.spotify.com/album/7aDUXhTz7dnrHQmWlFZsyO"
-      },
-      "artists": [
-        {
-          "name": "Lotusx",
-          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
-        },
-        {
-          "name": "Ege Boran",
-          "url": "https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Duman",
-      "url": "https://open.spotify.com/track/4XJMC47Ykz8mZL30aiYbMT"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o"
     },
     {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Halfway to Paradise",
-        "url": "https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        }
-      ],
-      "duration_ms": 213955,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY"
-    },
-    {
       "added_at": "2024-08-16 06:00:00",
       "album": {
         "name": "Facetime",
@@ -1825,20 +1809,20 @@
       "url": "https://open.spotify.com/track/6UoUGrNJg8xJOVEjlYM7OB"
     },
     {
-      "added_at": "2024-10-11 06:00:00",
+      "added_at": "2024-10-04 06:00:00",
       "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/1l7BFF3Fy4deMeJNv8gB6z"
+        "name": "Halfway to Paradise",
+        "url": "https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI"
       },
       "artists": [
         {
-          "name": "Zephyrtone",
-          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
         }
       ],
-      "duration_ms": 167647,
-      "name": "Day Dream",
-      "url": "https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe"
+      "duration_ms": 213955,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1855,6 +1839,22 @@
       "duration_ms": 209047,
       "name": "Dancing on the Mirror",
       "url": "https://open.spotify.com/track/7ytRkrwlXnqFDNTeyMvFtD"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/1l7BFF3Fy4deMeJNv8gB6z"
+      },
+      "artists": [
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "duration_ms": 167647,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/0NTz36oqSctShhy1HNCZQe"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV"
     },
     {
-      "added_at": "2024-09-23 07:39:16",
-      "album": {
-        "name": "Itch",
-        "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
-      },
-      "artists": [
-        {
-          "name": "Ruthven",
-          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Itch",
-      "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
-    },
-    {
       "added_at": "2024-08-23 06:00:00",
       "album": {
         "name": "But does my love make you feel?",
@@ -1999,6 +1983,22 @@
       "duration_ms": 296086,
       "name": "But does my love make you feel?",
       "url": "https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY"
+    },
+    {
+      "added_at": "2024-09-23 07:39:16",
+      "album": {
+        "name": "Itch",
+        "url": "https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Itch",
+      "url": "https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l"
     },
     {
       "added_at": "2024-09-23 07:39:16",
@@ -2033,22 +2033,6 @@
       "url": "https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH"
     },
     {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Something I Can't Have",
-        "url": "https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 152856,
-      "name": "Something I Can't Have",
-      "url": "https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb"
-    },
-    {
       "added_at": "2024-06-28 06:00:00",
       "album": {
         "name": "Blame Me",
@@ -2063,6 +2047,38 @@
       "duration_ms": 163733,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/5eRSBJ5HF7g5IzDhY45Ryi"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "30,000",
+        "url": "https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg"
+      },
+      "artists": [
+        {
+          "name": "J.M3",
+          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "30,000",
+      "url": "https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Something I Can't Have",
+        "url": "https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 152856,
+      "name": "Something I Can't Have",
+      "url": "https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -2117,20 +2133,20 @@
       "url": "https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW"
     },
     {
-      "added_at": "2024-11-29 06:00:00",
+      "added_at": "2024-09-13 06:07:00",
       "album": {
-        "name": "30,000",
-        "url": "https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg"
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
       },
       "artists": [
         {
-          "name": "J.M3",
-          "url": "https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx"
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
         }
       ],
-      "duration_ms": 187000,
-      "name": "30,000",
-      "url": "https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD"
+      "duration_ms": 194754,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -2149,20 +2165,20 @@
       "url": "https://open.spotify.com/track/11bS9b18NOz23W3Vwj6B9M"
     },
     {
-      "added_at": "2024-09-13 06:07:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
+        "name": "je vais bien.",
+        "url": "https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7"
       },
       "artists": [
         {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
+      "duration_ms": 178293,
+      "name": "je vais bien.",
+      "url": "https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2179,22 +2195,6 @@
       "duration_ms": 197647,
       "name": "W.O.W.Y.",
       "url": "https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "je vais bien.",
-        "url": "https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "je vais bien.",
-      "url": "https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -2325,38 +2325,6 @@
       "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
     },
     {
-      "added_at": "2024-09-13 06:07:00",
-      "album": {
-        "name": "Dear Vicky",
-        "url": "https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws"
-      },
-      "artists": [
-        {
-          "name": "Goochan",
-          "url": "https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "Dear Vicky",
-      "url": "https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ"
-      },
-      "artists": [
-        {
-          "name": "Natalia Nykiel",
-          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
-        }
-      ],
-      "duration_ms": 168515,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE"
-    },
-    {
       "added_at": "2024-08-02 06:00:00",
       "album": {
         "name": "January",
@@ -2373,6 +2341,22 @@
       "url": "https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl"
     },
     {
+      "added_at": "2024-09-13 06:07:00",
+      "album": {
+        "name": "Dear Vicky",
+        "url": "https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws"
+      },
+      "artists": [
+        {
+          "name": "Goochan",
+          "url": "https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "Dear Vicky",
+      "url": "https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Uff",
@@ -2387,6 +2371,22 @@
       "duration_ms": 176167,
       "name": "Uff",
       "url": "https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        }
+      ],
+      "duration_ms": 168515,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -2457,20 +2457,20 @@
       "url": "https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R"
     },
     {
-      "added_at": "2024-09-06 06:00:00",
+      "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "\u773c\u5dee\u3057",
-        "url": "https://open.spotify.com/album/2uGI04yVeqhytZ8NATBuhh"
+        "name": "Dance at the Function",
+        "url": "https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
         }
       ],
-      "duration_ms": 220311,
-      "name": "\u773c\u5dee\u3057",
-      "url": "https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz"
+      "duration_ms": 205901,
+      "name": "Dance at the Function",
+      "url": "https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW"
     }
   ],
   "unique_name": "RADAR Global ",

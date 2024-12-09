@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Geolier, Rondo, Nitro e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,555 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,585 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 49 | [4 Matic](https://open.spotify.com/track/4wVhMDk0grda3pgIY4LU4v) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [4 Matic](https://open.spotify.com/album/1WGnP7zv50j8LEGvNT1WHa) | 2:16 |
 | 50 | [Ho Chiesto Aiuto al Cielo](https://open.spotify.com/track/6JOvAXxzWO9dQ93B3Y0wYX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [ANTI ANTI](https://open.spotify.com/album/1swvBpXDUYfoJw1Tgo3Myd) | 2:17 |
 | 51 | [DIRTY NO](https://open.spotify.com/track/0Covaq8Oug2l78JQVYWfnV) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [DIRTY NO](https://open.spotify.com/album/22eFnTWxr6mLrKQNAnbxvw) | 2:08 |
-| 52 | [Parolacce](https://open.spotify.com/track/581jxPvrT09UQa1WZTif6n) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6) | [Parolacce](https://open.spotify.com/album/0YFxKmcNgd3mmUJ4jGnTyA) | 2:44 |
+| 52 | [Parolacce](https://open.spotify.com/track/581jxPvrT09UQa1WZTif6n) | [rikymp3](https://open.spotify.com/artist/2LynYweTFtq1V5J9HGsbe6), [Offpatt](https://open.spotify.com/artist/6o35EjCaVKanneiIcLMTwK) | [Parolacce](https://open.spotify.com/album/0YFxKmcNgd3mmUJ4jGnTyA) | 2:44 |
 | 53 | [16 orecchini](https://open.spotify.com/track/29fCuCKIzNEPJgDi8dfdw4) | [Kniar](https://open.spotify.com/artist/5tcrUvx66Sono2blPEnXEi), [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [16 orecchini](https://open.spotify.com/album/55poKv70MmzismY37U5zai) | 2:03 |
 | 54 | [JADDIE TALK](https://open.spotify.com/track/3bZpyuXO4jKHWtAWXRCJnO) | [sindolls](https://open.spotify.com/artist/2oh0q4ovIP8rTuzdydiCSP) | [JADDIE TALK](https://open.spotify.com/album/3MoX8wVBK9p9IsXzvM5pOK) | 2:11 |
 | 55 | [BESTIE](https://open.spotify.com/track/5w7CRd0cMtqL8XbEmafl4c) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [BESTIE](https://open.spotify.com/album/4bwubRxR4a2VlLnCiIc1HA) | 2:29 |

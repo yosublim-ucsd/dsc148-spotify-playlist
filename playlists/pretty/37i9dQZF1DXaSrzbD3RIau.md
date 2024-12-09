@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSrzbD3RIau.md) - [plain]
 
 > Listen to the soundtracks of RAP:PUBLIC\. \(랩:퍼블릭의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 14 songs - 48 min 56 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 14 songs - 48 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

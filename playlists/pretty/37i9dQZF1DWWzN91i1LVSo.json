@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123681,
+  "num_followers": 123679,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Change of Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
-      },
-      "artists": [
-        {
-          "name": "New Portals",
-          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
-        }
-      ],
-      "duration_ms": 183209,
-      "name": "Change of Mind - Acoustic",
-      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 154124,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Change of Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
+      },
+      "artists": [
+        {
+          "name": "New Portals",
+          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "Change of Mind - Acoustic",
+      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1023,18 +1003,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
         }
       ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 196615,
       "name": "Pull",
       "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
-        }
-      ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hold Me Like A Fire",
         "url": "https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 199179,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 231693,
       "name": "Sophia",
       "url": "https://open.spotify.com/track/093KMwH96ZwZRZn2lKoX9Z"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
     },
     {
       "added_at": "2024-05-24 04:00:00",

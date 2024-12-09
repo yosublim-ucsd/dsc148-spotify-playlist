@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 103899,
+  "num_followers": 103919,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Just Another Diamond Day",
+        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "I'd Like To Walk Around In Your Mind",
+      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Lovers to Strangers",
         "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Just Another Diamond Day",
-        "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 135453,
-      "name": "I'd Like To Walk Around In Your Mind",
-      "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
+      "duration_ms": 343360,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 298864,
       "name": "Never, No Not Once",
       "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 343360,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Good and Green Again",
-        "url": "https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM"
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
       },
       "artists": [
         {
-          "name": "Jake Xerxes Fussell",
-          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 238461,
-      "name": "Love Farewell",
-      "url": "https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63"
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+        "name": "Good and Green Again",
+        "url": "https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM"
       },
       "artists": [
         {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
         }
       ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+      "duration_ms": 238461,
+      "name": "Love Farewell",
+      "url": "https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Wella",
+        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 169631,
+      "name": "Wella",
+      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Planet Song",
         "url": "https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Wella",
-        "url": "https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 169631,
-      "name": "Wella",
-      "url": "https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "glacier meadow",
         "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 166340,
       "name": "glacier meadow",
       "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Backyard Lover",
-        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 328348,
-      "name": "Backyard Lover",
-      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Rumble Strip",
         "url": "https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 180240,
       "name": "Rumble Strip",
       "url": "https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Backyard Lover",
+        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 328348,
+      "name": "Backyard Lover",
+      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "DRUGS",
-        "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 203739,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
+      "duration_ms": 202869,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
+        "name": "DRUGS",
+        "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
       },
       "artists": [
         {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 202869,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
+      "duration_ms": 203739,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
       },
       "artists": [
         {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
         }
       ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
     }
   ],
   "unique_name": "Folk Arc",

@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Monica Naranjo",
+        "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
+      },
+      "artists": [
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+        }
+      ],
+      "date_added": "2021-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "El Amor Coloca",
+      "url": "https://open.spotify.com/track/3QRTdOa9TWLuaPrCa2OLXj"
+    },
+    {
+      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 206306,
       "name": "Zoom - Remasterizado 2007",
       "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"

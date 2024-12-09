@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 86456,
+  "num_followers": 86463,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABdBSBFnG9dBVxaL83zPDBp",
+  "snapshot_id": "Z1OQAAAAAABNpW5DJXLDx2OzduUarB0k",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
         }
       ],
-      "duration_ms": 139927,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+      "duration_ms": 174840,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
     },
     {
       "added_at": null,
@@ -299,22 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
         }
       ],
-      "duration_ms": 174840,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Lives",
-        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 193334,
-      "name": "100 Lives",
-      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
         "url": "https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 141204,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall)",
       "url": "https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100 Lives",
+        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 193334,
+      "name": "100 Lives",
+      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
     },
     {
       "added_at": null,
@@ -1015,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siento",
-        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Life Is Music (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/7yU6y0IozptVKBqZLvPNeP"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 195483,
       "name": "My Life Is Music - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/6y9T9t3OKxRGip4L1Ez345"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
     }
   ],
   "unique_name": "This Is Jonas Blue",

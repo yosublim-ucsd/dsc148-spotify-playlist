@@ -1,29 +1,13 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 29629,
+  "num_followers": 29643,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABQYayHNmGJUntqmuYZhvdq",
+  "snapshot_id": "Z1OQAAAAAADQDPguyIcBiIc/oRMvQw5U",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
-      "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 220160,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/5BYaWUOhgcszqQ9plS6VYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 184993,
-      "name": "Llorar Por Ti",
-      "url": "https://open.spotify.com/track/5oj3i46lvxcGO2vE04fmFY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia de Los Exitos",
         "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 162500,
       "name": "Pero Te Amo",
       "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 184993,
+      "name": "Llorar Por Ti",
+      "url": "https://open.spotify.com/track/5oj3i46lvxcGO2vE04fmFY"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150695,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8"
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 135573,
-      "name": "Dos Camionetas",
-      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
+      "duration_ms": 150695,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
+      "duration_ms": 135573,
+      "name": "Dos Camionetas",
+      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
+      "duration_ms": 215520,
+      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 189626,
       "name": "Cu\u00e1nto Te Quiero",
       "url": "https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "A Mis Padres",
-      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 148188,
       "name": "Ay Amigo",
       "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "A Mis Padres",
+      "url": "https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Tu Precio",
-      "url": "https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 158157,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "Tu Precio",
+      "url": "https://open.spotify.com/track/61imLjMVNbHMaHYyR43f6l"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153359,
-      "name": "La Mano De Dios",
-      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
+      "duration_ms": 156703,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ"
     },
     {
       "added_at": null,
@@ -788,15 +788,15 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156703,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ"
+      "duration_ms": 153359,
+      "name": "La Mano De Dios",
+      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+        "name": "Escorpion",
+        "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Lagrimas de Sangre",
-      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+      "duration_ms": 146506,
+      "name": "Alma de Acero",
+      "url": "https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR"
     }
   ],
   "unique_name": "This Is Banda Maguey",

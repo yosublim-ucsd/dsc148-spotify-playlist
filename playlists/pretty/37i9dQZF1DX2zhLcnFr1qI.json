@@ -1,6 +1,6 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 70035,
+  "num_followers": 70361,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Kaskade Christmas Deluxe",
+        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Jingle Bells (feat. Soran)",
+      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 166666,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Kaskade Christmas Deluxe",
-        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Jingle Bells (feat. Soran)",
-      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "All I Want for Christmas",
+        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
+      },
+      "artists": [
+        {
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        },
+        {
+          "name": "JeLa",
+          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "All I Want for Christmas",
+      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "A Very Decent Christmas",
         "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 183157,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "All I Want for Christmas",
-        "url": "https://open.spotify.com/album/4FzL46RWqK3yEm5JTdyTq1"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        },
-        {
-          "name": "JeLa",
-          "url": "https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "All I Want for Christmas",
-      "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wonderful Time",
-        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
-      },
-      "artists": [
-        {
-          "name": "NOVA WAV",
-          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
-        },
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 161157,
-      "name": "Wonderful Time",
-      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Wonderful Time",
+        "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
+      },
+      "artists": [
+        {
+          "name": "NOVA WAV",
+          "url": "https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM"
+        },
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 161157,
+      "name": "Wonderful Time",
+      "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
     },
     {
       "added_at": "2024-12-06 05:00:00",

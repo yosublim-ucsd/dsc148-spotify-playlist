@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: David Kushner
 
-2,031 songs - 4 day 13 hr 14 min
+2,032 songs - 4 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,7 @@
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2021-03-26 | 2021-07-04 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-06-03 |
 | [goodluck](https://open.spotify.com/track/21yJyPtVRgZSRsfMdypfFV) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [u and me, but mostly me \(deluxe\)](https://open.spotify.com/album/2l7cVRzbe6YJ76WQcF9gsw) | 3:26 | 2020-08-07 | 2020-09-04 |
-| [Gorgeous](https://open.spotify.com/track/77QJ5XgcdiTRvAZNEzjupy) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [2024: A Case Study of the Long Term Effects of Young Love](https://open.spotify.com/album/7KXIUPR7x5oF2Z12qhds1f) | 3:13 | 2024-10-18 |  |
+| [Gorgeous](https://open.spotify.com/track/77QJ5XgcdiTRvAZNEzjupy) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [2024: A Case Study of the Long Term Effects of Young Love](https://open.spotify.com/album/7KXIUPR7x5oF2Z12qhds1f) | 3:13 | 2024-10-18 | 2024-12-09 |
 | [Gravitron](https://open.spotify.com/track/1IwLgJqYAATGbyMyGa4ry4) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Gravitron](https://open.spotify.com/album/2pQlM0iTNZlonNOmtvTTHl) | 3:23 | 2023-12-08 | 2024-01-20 |
 | [Green Book](https://open.spotify.com/track/2NcKWbWXShSy60ruFNqu3K) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Green Book](https://open.spotify.com/album/0mQrvULsNc3shwhYuv2Uej) | 3:03 | 2022-01-07 | 2022-02-05 |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2020-04-26\* | 2020-07-31 |
@@ -1370,6 +1370,7 @@
 | [Picture Of You](https://open.spotify.com/track/3wFxiKVkDXYVRSqwZsG2MF) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Picture Of You](https://open.spotify.com/album/6bCIFiwdO5kqSuCHd7ZzPF) | 3:21 | 2021-03-19 | 2021-06-05 |
 | [Picture You](https://open.spotify.com/track/5KtvumPgVZmt8wg9xONE0T) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:07 | 2024-05-26 |  |
 | [Pieces](https://open.spotify.com/track/105tVTzoQgsmQ9yxbezxPX) | [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Pieces](https://open.spotify.com/album/5RrkzyMuf7LW0dKfjpEfkl) | 2:56 | 2020-04-26\* | 2020-05-01 |
+| [Pink Balloon \- Acoustic](https://open.spotify.com/track/0qD9PXLzAH18ozfNbMteFe) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Pink Balloon \(Acoustic\)](https://open.spotify.com/album/3OZJKFtUWnWK0tyRUUE49O) | 3:42 | 2024-12-09 |  |
 | [Pink Convertible](https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:41 | 2022-01-07 | 2022-02-26 |
 | [PINS AND NEEDLES](https://open.spotify.com/track/6GZVFBsEiWVxWS98yU35F6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:21 | 2024-11-29 |  |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-10 | 2023-03-04 |

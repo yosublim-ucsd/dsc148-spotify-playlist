@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: SCH",
-  "num_followers": 42984,
+  "num_followers": 42990,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "PROBATION",
-        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
+        "name": "These Walls (feat. Pierre de Maere)",
+        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
         }
       ],
-      "duration_ms": 219584,
-      "name": "PROBATION",
-      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
+      "duration_ms": 217597,
+      "name": "These Walls (feat. Pierre de Maere)",
+      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -171,22 +175,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "These Walls (feat. Pierre de Maere)",
-        "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Pierre de Maere",
-          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 217597,
-      "name": "These Walls (feat. Pierre de Maere)",
-      "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+      "duration_ms": 216973,
+      "name": "Laisse-moi tranquille.",
+      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+        "name": "PROBATION",
+        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Laisse-moi tranquille.",
-      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
+      "duration_ms": 219584,
+      "name": "PROBATION",
+      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "POP (feat. La Mano 1.9)",
-        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 216261,
-      "name": "POP (feat. La Mano 1.9)",
-      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
         "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
       },
@@ -351,6 +331,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "1 Minute",
         "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
       },
@@ -367,22 +363,6 @@
       "duration_ms": 186746,
       "name": "1 Minute",
       "url": "https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -407,18 +387,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+        "name": "POP (feat. La Mano 1.9)",
+        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
         }
       ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+      "duration_ms": 216261,
+      "name": "POP (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -443,6 +427,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "P\u014dse\u00efd\u00f8n",
+        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "P\u014dse\u00efd\u00f8n",
+      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "penelope",
         "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "P\u014dse\u00efd\u00f8n",
-        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 248544,
-      "name": "P\u014dse\u00efd\u00f8n",
-      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "IMPOSTEUR",
         "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 208560,
       "name": "Les d\u00e9mons de minuit",
       "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -615,22 +615,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "STACKS",
-        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
       },
       "artists": [
         {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 220160,
-      "name": "STACKS",
-      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
+      "duration_ms": 198653,
+      "name": "Je suis fait pour...",
+      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -647,6 +643,26 @@
       "duration_ms": 149306,
       "name": "C'est l'heure",
       "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "STACKS",
+        "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "STACKS",
+      "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 122023,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
@@ -723,34 +723,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Un v\u0153u",
-        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 238683,
-      "name": "Un v\u0153u",
-      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Je suis fait pour...",
-      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+      "duration_ms": 122023,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 217800,
       "name": "NOUVEAU OPPS",
       "url": "https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Un v\u0153u",
+        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 238683,
+      "name": "Un v\u0153u",
+      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
     },
     {
       "added_at": "2024-12-06 05:00:00",

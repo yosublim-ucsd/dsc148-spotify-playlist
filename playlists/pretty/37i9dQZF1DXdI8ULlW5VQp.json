@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Joaquina en portada.",
-  "num_followers": 74253,
+  "num_followers": 74266,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,42 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
         "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
         "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
@@ -303,22 +339,6 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "El lugar correcto",
-      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
     },
     {
       "added_at": "2024-12-06 17:05:54",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
-        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
-        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
-      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
         "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
         "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 226481,
       "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
       "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
+        "name": "El lugar correcto (En Vivo [Live at Carnegie Hall])",
+        "url": "https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "El lugar correcto - En Vivo [Live at Carnegie Hall]",
+      "url": "https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx"
     },
     {
       "added_at": "2024-12-06 17:05:54",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
         "name": "quiero estar contigo",
         "url": "https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Necios",
-      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
     },
     {
       "added_at": "2024-12-06 17:05:54",
@@ -803,22 +803,6 @@
       "duration_ms": 160124,
       "name": "TANTO PARA NADA",
       "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Popango",
-      "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
     },
     {
       "added_at": "2024-12-06 17:05:54",
@@ -935,6 +919,22 @@
       "duration_ms": 157146,
       "name": "Juego De Feria",
       "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 164866,
+      "name": "Popango",
+      "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
     },
     {
       "added_at": "2024-12-06 17:05:54",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-12-06 17:05:54",
       "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2024-12-06 17:05:54",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
-    },
-    {
-      "added_at": "2024-12-06 17:05:54",
-      "album": {
-        "name": "Polvo De Gigantes",
-        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
     },
     {
       "added_at": "2024-12-06 17:05:54",

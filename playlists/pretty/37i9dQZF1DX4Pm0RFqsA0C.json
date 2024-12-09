@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 5908,
+  "num_followers": 5916,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Let's Go To My Star",
         "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "First Bridge",
-        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "\uc18c\ucc2c\ud718",
-          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 236893,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
+      "duration_ms": 209659,
+      "name": "\uc560\uc0c1",
+      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -299,18 +283,34 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
       },
       "artists": [
         {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 209659,
-      "name": "\uc560\uc0c1",
-      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "First Bridge",
+        "url": "https://open.spotify.com/album/69x6z028cL1a0boFB82dqK"
+      },
+      "artists": [
+        {
+          "name": "\uc18c\ucc2c\ud718",
+          "url": "https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Jinusean",
-        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Tell me (feat. \uc5c4\uc815\ud654)",
-      "url": "https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Jinusean",
+        "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Tell me (feat. \uc5c4\uc815\ud654)",
+      "url": "https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -439,6 +439,54 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ud130\ubcf4 HISTORY",
+        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Choose My Life-U - The 5th Album",
+        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Just A Feeling - Original Version",
+      "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -463,38 +511,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Choose My Life-U - The 5th Album",
-        "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Just A Feeling - Original Version",
-      "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 255844,
       "name": "All For You",
       "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\ud130\ubcf4 HISTORY",
-        "url": "https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\ud574\uacb0\uc0ac - The 1st Album",
-        "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "\uc73c\uc330! \uc73c\uc330!",
-      "url": "https://open.spotify.com/track/3bEWc5qQJewGN2s7Yf4SuU"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ub178.\ub77c.\ubcf4.\uc138.",
         "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 212306,
       "name": "Phone Number",
       "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\ud574\uacb0\uc0ac - The 1st Album",
+        "url": "https://open.spotify.com/album/04Mokiv2E1mI9SIF1AMzob"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "\uc73c\uc330! \uc73c\uc330!",
+      "url": "https://open.spotify.com/track/3bEWc5qQJewGN2s7Yf4SuU"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -671,6 +671,38 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -699,38 +731,6 @@
       "duration_ms": 222933,
       "name": "\ud574\uacb0\uc0ac",
       "url": "https://open.spotify.com/track/14L6wWMb636kbjdjrYmFCC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Com` Back",
         "url": "https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq"
       },
@@ -847,38 +863,6 @@
       "duration_ms": 232160,
       "name": "Com` Back",
       "url": "https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "The Third Eye",
-        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "White",
-        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Eternal Love",
-      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "2008 Concert, Monologue",
         "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 350093,
       "name": "GOOSE'S DREAM (feat.Lee Juck)",
       "url": "https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -979,22 +995,6 @@
       "duration_ms": 217417,
       "name": "\ud3c9\uc0dd",
       "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Eight Times Begin Again",
         "url": "https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 264739,
       "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
       "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Big 5",
+        "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        }
+      ],
+      "duration_ms": 244509,
+      "name": "Sad Fate",
+      "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\uc2e0\ud574\ucca0",
         "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 298297,
       "name": "\uc9f8\uc988 \uce74\ud398",
       "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Big 5",
-        "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        }
-      ],
-      "duration_ms": 244509,
-      "name": "Sad Fate",
-      "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Turbo - Reboot : The Best",
+        "url": "https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "White Love `\uc2a4\ud0a4\uc7a5\uc5d0\uc11c...`",
+      "url": "https://open.spotify.com/track/67RuQJiwS0a5Qxwxw9cr1v"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\uc798\ubabb\ub41c \ub9cc\ub0a8",
         "url": "https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Turbo - Reboot : The Best",
-        "url": "https://open.spotify.com/album/1JPqPWosww3OEkcZznuuSt"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "White Love `\uc2a4\ud0a4\uc7a5\uc5d0\uc11c...`",
-      "url": "https://open.spotify.com/track/67RuQJiwS0a5Qxwxw9cr1v"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
+        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Sleepless Rainy Night",
+      "url": "https://open.spotify.com/track/6FkYXuozDHGdeMzvjpRjpG"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\ud1a0\uc7742\uc9d1-YOUHEEYEOL",
         "url": "https://open.spotify.com/album/6jOgaajTtTZM6zyjIkNd4u"
       },
@@ -1551,6 +1567,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "The blue color",
+        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
+      },
+      "artists": [
+        {
+          "name": "\uc5b8\ud0c0\uc774\ud2c0",
+          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
+        }
+      ],
+      "duration_ms": 226716,
+      "name": "\ub0a0\uac1c",
+      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\uae40\uc131\uc7ac",
         "url": "https://open.spotify.com/album/1jQtTDFyBBGe7egGQqB2Ag"
       },
@@ -1563,22 +1595,6 @@
       "duration_ms": 215849,
       "name": "\ub9d0\ud558\uc790\uba74",
       "url": "https://open.spotify.com/track/1gUfNVo4jFfmndYRMKSszu"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\uc7a0\ubabb \ub4dc\ub294 \ubc24 \ube44\ub294 \ub0b4\ub9ac\uace0",
-        "url": "https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Sleepless Rainy Night",
-      "url": "https://open.spotify.com/track/6FkYXuozDHGdeMzvjpRjpG"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1627,22 +1643,6 @@
       "duration_ms": 216373,
       "name": "\uc6b0\ub9ac\ub294",
       "url": "https://open.spotify.com/track/3NpxafOmJcY9cdIM9UljvJ"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "\uc774\uc720\uac19\uc9c0 \uc54a\uc740 \uc774\uc720",
-        "url": "https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 237963,
-      "name": "Unreasonable Reason",
-      "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
     }
   ],
   "unique_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",

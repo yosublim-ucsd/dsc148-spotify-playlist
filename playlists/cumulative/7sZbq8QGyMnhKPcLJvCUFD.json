@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 194754,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 125538,
       "name": "BANDIDO FUNK",
       "url": "https://open.spotify.com/track/5Q80DQEiCvzePZTgCb1MlS"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 121196,
       "name": "BANE",
       "url": "https://open.spotify.com/track/0a5xYmF0xUfXlU6bwzeqPi"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 187391,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/4ZNbrLGrcWwDFryS8II4fH"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 230839,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/1AMvw3Z9htH6YBDLNiMHT3"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 230666,
       "name": "Comet",
       "url": "https://open.spotify.com/track/0klFHFJRTKtNQ8uX9tgs0Q"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 102687,
       "name": "corrupted",
       "url": "https://open.spotify.com/track/39GHv2K1RKIQfZHFjR1yjY"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 166567,
       "name": "Donna",
       "url": "https://open.spotify.com/track/54KnvD2w1kvcGNod1IWGU5"
@@ -4348,7 +4348,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 171428,
       "name": "Feel Like",
       "url": "https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc"
@@ -5504,7 +5504,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 151379,
       "name": "Help Me Help You",
       "url": "https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 134250,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2labeTrCjxVx7LCtL8xuL4"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 162000,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/0NHGqculuy8Aa1bEerrGtS"
@@ -7848,7 +7848,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 212812,
       "name": "Never Knew Me",
       "url": "https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7"
@@ -9546,7 +9546,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 143783,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/05AJ7jBUQ3fzAeyjsar1m6"
@@ -9714,7 +9714,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 198923,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/2FhCYRpXmc0wMNaXnVozNh"
@@ -10111,6 +10111,28 @@
     },
     {
       "album": {
+        "name": "RUINS",
+        "url": "https://open.spotify.com/album/2VCQ9VOhjvUqJdXKcHKxLx"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162679,
+      "name": "RUINS",
+      "url": "https://open.spotify.com/track/7dqPEz5vP4Ehs597W8Qr7l"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5DgXvV0eBeNebgmKckcK8s"
       },
@@ -10434,6 +10456,28 @@
       "duration_ms": 194746,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR"
+    },
+    {
+      "album": {
+        "name": "Severed Rose",
+        "url": "https://open.spotify.com/album/414EI6TUOPoUyQr3Zj6A8V"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "SlidV",
+          "url": "https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156829,
+      "name": "Severed Rose",
+      "url": "https://open.spotify.com/track/6awADEzIzjQDEhtGlX22g0"
     },
     {
       "album": {
@@ -10838,7 +10882,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 150422,
       "name": "Stars In The Sky",
       "url": "https://open.spotify.com/track/1PRtgc9OQr4wlJjjBz4LKy"
@@ -10926,6 +10970,24 @@
       "duration_ms": 133035,
       "name": "Stick Around You",
       "url": "https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF"
+    },
+    {
+      "album": {
+        "name": "Strobe",
+        "url": "https://open.spotify.com/album/7EvWL9Eemss4ttsG2K9uxL"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197172,
+      "name": "Strobe",
+      "url": "https://open.spotify.com/track/6FHfBEyswVtz99hB9o5QsT"
     },
     {
       "album": {
@@ -12960,7 +13022,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 197485,
       "name": "Why We Lose",
       "url": "https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF"

@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1413392,
+  "num_followers": 1413665,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Come What(ever) May [10th Anniversary Edition]",
         "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "All Hope Is Gone",
         "url": "https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 276146,
       "name": "Snuff",
       "url": "https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "14 Shades of Grey",
-        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Zoe Jane",
-      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Zoe Jane",
+      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "The Ritual",
         "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 390800,
       "name": "Return to Serenity",
       "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "A Reason to Fight",
-      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 247466,
       "name": "Can't Stop Lovin' You",
       "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "A Reason to Fight",
+      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Chapter V",
-        "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Killing Machine",
         "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 203066,
       "name": "Before the Dawn",
       "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Chapter V",
+        "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Black Clouds & Silver Linings (Special Edition)",
-        "url": "https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 325960,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Set The World On Fire",
         "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
@@ -987,22 +971,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "The Sacrament of Sin",
-        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Where the Wild Wolves Have Gone",
-      "url": "https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Gutter Ballet (2011 Edition)",
         "url": "https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF"
       },
@@ -1015,6 +983,22 @@
       "duration_ms": 346333,
       "name": "When the Crowds Are Gone",
       "url": "https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Where the Wild Wolves Have Gone",
+      "url": "https://open.spotify.com/track/0YrUDBOsnIiUNISpGOtwCA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Black Clouds & Silver Linings (Special Edition)",
+        "url": "https://open.spotify.com/album/2qMujQgkbogm4owxpt8aVP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 325960,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/4MY2jh37Rir45QH6YAkB8W"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Cherry Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Streets - A Rock Opera (2011 Edition)",
+        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
+      },
+      "artists": [
+        {
+          "name": "Savatage",
+          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+        }
+      ],
+      "duration_ms": 342426,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1131,22 +1147,6 @@
       "duration_ms": 261160,
       "name": "Every Rose Has Its Thorn",
       "url": "https://open.spotify.com/track/6Gml48n88YBzYkuosKIXIX"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Streets - A Rock Opera (2011 Edition)",
-        "url": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
-      },
-      "artists": [
-        {
-          "name": "Savatage",
-          "url": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
-        }
-      ],
-      "duration_ms": 342426,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1295,6 +1295,38 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Creatures Of The Night (Remastered Version)",
+        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366106,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Hair of the Dog",
         "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
       },
@@ -1327,6 +1359,22 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
         "name": "Detonator",
         "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
       },
@@ -1339,22 +1387,6 @@
       "duration_ms": 326000,
       "name": "Givin' Yourself Away",
       "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Creatures Of The Night (Remastered Version)",
-        "url": "https://open.spotify.com/album/0bxDnjJmcCSOtnhFcSEUTe"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 366106,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/04F7U1dwwtwaCRuXGQ50aB"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1387,22 +1419,6 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2024-06-10 16:00:39",
@@ -1627,22 +1643,6 @@
       "duration_ms": 358426,
       "name": "House Of Broken Love",
       "url": "https://open.spotify.com/track/0tFscEe2fMwsHflVPsyaAD"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
-        "name": "Book Of Shadows II",
-        "url": "https://open.spotify.com/album/32UWpOh0dxIw6VopkvUJ9t"
-      },
-      "artists": [
-        {
-          "name": "Zakk Wylde",
-          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Sleeping Dogs",
-      "url": "https://open.spotify.com/track/3IriQd8aFxMSqlaapjlCJj"
     }
   ],
   "unique_name": "Heavy Ballads",

@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Otaku",
+        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
+      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
+    },
+    {
+      "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/4AiplURqVDpdAg8sWQiXNY"
       },
@@ -4472,6 +4490,24 @@
       "duration_ms": 443558,
       "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
       "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
+    },
+    {
+      "album": {
+        "name": "London - Live",
+        "url": "https://open.spotify.com/album/4Z9ms2S9xEWUh7oI9MUgVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285293,
+      "name": "Big Mistake - Live",
+      "url": "https://open.spotify.com/track/6NjGlnFFutDm4lPe6QXsGx"
     },
     {
       "album": {
@@ -9700,10 +9736,36 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 189416,
       "name": "Downfall (Protoss Remix)",
       "url": "https://open.spotify.com/track/0alpA1hZ0FnmxIduP9LoIV"
+    },
+    {
+      "album": {
+        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
+        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Killer",
+          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
+        },
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        },
+        {
+          "name": "Short Circuit",
+          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312237,
+      "name": "Downfall (Short Circuit Remix)",
+      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
     },
     {
       "album": {
@@ -10416,7 +10478,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
@@ -30002,7 +30064,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 292953,
       "name": "Run Run Se Fue Pal Norte - En Vivo 2014",
       "url": "https://open.spotify.com/track/09OoA92m3HycnoC9L4Zno2"
@@ -32088,7 +32150,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 255840,
       "name": "Smoke - Live",
       "url": "https://open.spotify.com/track/5H9azhmlHdiVtTDjhngsX5"
@@ -37282,7 +37344,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 209053,
       "name": "The World (from Death Note)",
       "url": "https://open.spotify.com/track/4CnZrkoqclB0VG4E91N2it"
@@ -39128,6 +39190,24 @@
       "duration_ms": 173893,
       "name": "Ultime Parole",
       "url": "https://open.spotify.com/track/2ojcxuRm2guo83HxuGGbcr"
+    },
+    {
+      "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290433,
+      "name": "Un Mar de Gente - En Vivo 2014",
+      "url": "https://open.spotify.com/track/0AW4LFAKeIBAgE9LrBMWDa"
     },
     {
       "album": {
@@ -42052,7 +42132,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 230899,
       "name": "Ya No - Directo Estadio Santiago Bernab\u00e9u, Madrid",
       "url": "https://open.spotify.com/track/3v6bTnFE7q5PqHJ0yNApbD"

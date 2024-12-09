@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Pheelz",
-  "num_followers": 74530,
+  "num_followers": 74614,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "BENIN BOYS",
         "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Abanikanda",
         "url": "https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 207157,
       "name": "Abanikanda",
       "url": "https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -751,42 +751,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 212041,
-      "name": "Ludo (with Shallipopi)",
-      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
       },
@@ -803,18 +767,18 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -839,6 +803,46 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Wara Wara Szn",
+        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 212041,
+      "name": "Ludo",
+      "url": "https://open.spotify.com/track/6OljU9rEfG2u5mGhqmiqSJ"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/2QCJ5G7FLUpo1nGvjWYC22"
       },
@@ -859,22 +863,18 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Wara Wara Szn",
-        "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 180890,
-      "name": "Cash",
-      "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Ghetto Vibrations",
         "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DHNcST4gCsrxxDCPgLbPn"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/22d0qL76D5dD50yUjsFjTZ"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Trabaye",
-        "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Trabaye",
-      "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 134482,
       "name": "50 Billion (feat. Zlatan)",
       "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Trabaye",
+        "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Trabaye",
+      "url": "https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o"
     },
     {
       "added_at": "2024-12-06 00:01:00",

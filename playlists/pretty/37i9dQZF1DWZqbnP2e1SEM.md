@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,777 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,774 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 50 | [Closer \(feat\. Chenai\)](https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [Closer \(feat\. Chenai\)](https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk) | 3:54 |
 | 51 | [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 |
 | 52 | [Endlessly](https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Endlessly](https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv) | 3:37 |
-| 53 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 |
-| 54 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
+| 53 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
+| 54 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 |
 | 55 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 |
 | 56 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |
 | 57 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 81 | [All My Ladies](https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [All My Ladies](https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d) | 2:33 |
 | 82 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 |
 | 83 | [SAVE ME](https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [SAVE ME](https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l) | 3:36 |
-| 84 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
-| 85 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
-| 86 | [Earth Move Edit](https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6) | [Daire](https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH) | [Earth Move Edit](https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O) | 2:42 |
+| 84 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 |
+| 85 | [Earth Move Edit](https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6) | [Daire](https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH) | [Earth Move Edit](https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O) | 2:42 |
+| 86 | [Mantra](https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Mantra](https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun) | 3:07 |
 | 87 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 |
 | 88 | [System Overload](https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Curtiba](https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3) | [System Overload](https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9) | 2:49 |
 | 89 | [Push That](https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn) | [Stoley](https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR) | [Push That](https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH) | 3:25 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 97 | [Daylight](https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Daylight](https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3) | 2:40 |
 | 98 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
 | 99 | [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 |
-| 100 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 |
+| 100 | [Open Up The Door](https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n) | 2:14 |
 
 Snapshot ID: `Zuys8AAAAACQq0AC4jBxDVCP8WxJohQJ`

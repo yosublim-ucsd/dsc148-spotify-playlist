@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 756472,
+  "num_followers": 756596,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 249066,
-      "name": "If Today Was Your Last Day",
-      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
+      "duration_ms": 209333,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Never Too Late",
-      "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
+      "duration_ms": 249066,
+      "name": "If Today Was Your Last Day",
+      "url": "https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Stars (The Shack Film Version)",
+        "url": "https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Stars - The Shack Film Version",
+      "url": "https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 247000,
       "name": "Wasted Years",
       "url": "https://open.spotify.com/track/2JG2OmmwZ5x2RkX0uR5w4k"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "Stars (The Shack Film Version)",
-        "url": "https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Stars - The Shack Film Version",
-      "url": "https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Broken Heart of Gold",
-        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 253487,
-      "name": "Broken Heart of Gold",
-      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "How Did You Love",
         "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 185973,
       "name": "How Did You Love - Piano Version",
       "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Broken Heart of Gold",
+        "url": "https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 253487,
+      "name": "Broken Heart of Gold",
+      "url": "https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca"
     },
     {
       "added_at": "2024-06-26 02:18:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
-        "name": "Hydrograd",
-        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267400,
-      "name": "St. Marie",
-      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
         "name": "Folklore and Superstition",
         "url": "https://open.spotify.com/album/43qxerasfPdTnMQbXX6TVb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 233346,
       "name": "Things My Father Said",
       "url": "https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
+        "name": "Hydrograd",
+        "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267400,
+      "name": "St. Marie",
+      "url": "https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn"
     }
   ],
   "unique_name": "Rock Ballads",

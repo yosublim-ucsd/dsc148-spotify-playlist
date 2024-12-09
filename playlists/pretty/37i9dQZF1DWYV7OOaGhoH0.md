@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Mon Rovîa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,261 likes - 102 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,240 likes - 102 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

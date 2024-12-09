@@ -1,12 +1,12 @@
 {
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
-  "num_followers": 1269,
+  "num_followers": 1271,
   "original_name": "This Is Quicksand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAAyD/wRo0VfQdIw1R6ICApj",
+  "snapshot_id": "Z1OQAAAAAAD1ofeAmJGPGKuJw3AyTRzH",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 215856,
-      "name": "Brushed",
-      "url": "https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv"
+      "duration_ms": 158332,
+      "name": "Inversion",
+      "url": "https://open.spotify.com/track/6mX2BJMkmr2JvXyLRXhR0d"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 158332,
-      "name": "Inversion",
-      "url": "https://open.spotify.com/track/6mX2BJMkmr2JvXyLRXhR0d"
+      "duration_ms": 215856,
+      "name": "Brushed",
+      "url": "https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Skinny (It's Overflowing)",
-      "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
+      "duration_ms": 237066,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 237066,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4hDZkCzpzcwT5932mJEylv"
+      "duration_ms": 146000,
+      "name": "Skinny (It's Overflowing)",
+      "url": "https://open.spotify.com/track/5rXtZxzaKjc518TIMF2x0y"
     },
     {
       "added_at": null,

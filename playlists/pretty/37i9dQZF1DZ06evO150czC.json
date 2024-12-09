@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20743,
+  "num_followers": 20757,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABQKfsPXyIs0U2QtSaT6H0x",
+  "snapshot_id": "Z1OQAAAAAAB4BM9fqaJLcyYdnystth7R",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguenta Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 273252,
       "name": "Aguenta Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele N\u00e3o Muda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 487671,
-      "name": "Ele N\u00e3o Muda - Ao Vivo",
-      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 310257,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele N\u00e3o Muda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kuJxkE5qwVoYN3e5evSYK"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 487671,
+      "name": "Ele N\u00e3o Muda - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CfbgsqU7EEuH3r13XJoCf"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Haver\u00e1 Vergonha",
+        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 316673,
+      "name": "N\u00e3o Haver\u00e1 Vergonha",
+      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irresist\u00edvel Gl\u00f3ria",
         "url": "https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 275945,
       "name": "Irresist\u00edvel Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Haver\u00e1 Vergonha",
-        "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 316673,
-      "name": "N\u00e3o Haver\u00e1 Vergonha",
-      "url": "https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vencer ou Vencer (Ao Vivo)",
         "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,

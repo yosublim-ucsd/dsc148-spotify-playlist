@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 653828,
+  "num_followers": 653850,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Elastica",
         "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 231733,
       "name": "Walkaway",
       "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 240120,
       "name": "The Universal",
       "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Smart",
         "url": "https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
         "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 257653,
       "name": "A Design for Life - 2016 Remastered Version",
       "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
+        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
-        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Evergreen (Expanded)",
         "url": "https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
       },
       "artists": [
         {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+      "duration_ms": 305693,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -683,50 +683,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Forever Delayed",
-        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
       "artists": [
         {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
         }
       ],
-      "duration_ms": 305693,
-      "name": "Motorcycle Emptiness",
-      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -743,6 +711,22 @@
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -775,6 +759,22 @@
       "duration_ms": 244693,
       "name": "The Life Of Riley",
       "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -939,6 +923,54 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "His 'N' Hers",
+        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "This Is How It Feels",
+        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
+      },
+      "artists": [
+        {
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "This Is How It Feels - Radio Mix",
+      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -967,22 +999,6 @@
       "duration_ms": 156866,
       "name": "Laid",
       "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "This Is How It Feels",
-        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
-      },
-      "artists": [
-        {
-          "name": "Inspiral Carpets",
-          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "This Is How It Feels - Radio Mix",
-      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1039,22 +1055,6 @@
       "duration_ms": 185266,
       "name": "Staying Out For The Summer",
       "url": "https://open.spotify.com/track/59GIjxze4m7lutOfemmKvu"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Best of Babybird",
-        "url": "https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3"
-      },
-      "artists": [
-        {
-          "name": "Babybird",
-          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "You're Gorgeous",
-      "url": "https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU"
     }
   ],
   "unique_name": "Britpop, Etc.",

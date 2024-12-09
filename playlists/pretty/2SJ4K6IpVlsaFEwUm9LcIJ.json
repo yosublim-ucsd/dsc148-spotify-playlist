@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22302,
+  "num_followers": 22312,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALgWaWNn/utQVBHl3G2cd3wten4Aqz",
+  "snapshot_id": "AAALg6Fvi1aB/gpZqIv2CriybYhwTf52",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -643,6 +643,38 @@
       "duration_ms": 326600,
       "name": "Alonzo",
       "url": "https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL"
+    },
+    {
+      "added_at": "2024-12-09 00:58:15",
+      "album": {
+        "name": "On High",
+        "url": "https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms"
+      },
+      "artists": [
+        {
+          "name": "Soundpool",
+          "url": "https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Eurostar",
+      "url": "https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb"
+    },
+    {
+      "added_at": "2024-12-09 01:27:50",
+      "album": {
+        "name": "One Of Our Girls (Has Gone Missing)",
+        "url": "https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ"
+      },
+      "artists": [
+        {
+          "name": "A.C. Marias",
+          "url": "https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "One Of Our Girls Has Gone Missing",
+      "url": "https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h"
     }
   ],
   "unique_name": "thoughts never said aloud",

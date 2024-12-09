@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAcxi+fMweFgJGGW3A812lw",
+  "snapshot_id": "AAAAAAAAAACCI61FRGjKpR0VFQxxt7dL",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -31,22 +31,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "State Of The Art (Instrumental Edition)",
-        "url": "https://open.spotify.com/album/5SBH1WAfp9Sj8QV9DZmBJj"
+        "name": "Colourblind (feat. Loyle Carner)",
+        "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
       },
       "artists": [
         {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Classic Example - Instrumental",
-      "url": "https://open.spotify.com/track/5BCVuM4RZZ7hXydeaTRUUh"
+      "duration_ms": 235684,
+      "name": "Colourblind (feat. Loyle Carner)",
+      "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "We Like It Here (Remixed + Remastered + Reimagined)",
         "url": "https://open.spotify.com/album/1yQ4KgE3eTVDhEBsnfADCY"
       },
@@ -91,54 +107,58 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Blood Stain III",
-        "url": "https://open.spotify.com/album/4KGprmtLUCPLdGaAuZnJgY"
+        "name": "Pop Toast, Shut up",
+        "url": "https://open.spotify.com/album/4Cp1bz9BE4WscSDkB1gHUs"
       },
       "artists": [
         {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Groove Kennedy",
+          "url": "https://open.spotify.com/artist/2RjNxeIknJYVo86lVSdTP9"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+          "name": "Michael Barber",
+          "url": "https://open.spotify.com/artist/71GYet0CwvLEg9lzuAaPhL"
         }
       ],
-      "duration_ms": 292175,
-      "name": "Blood Stain III",
-      "url": "https://open.spotify.com/track/7c0ubUKwwvizttVNEV1RMC"
+      "duration_ms": 196201,
+      "name": "Pop Toast, Shut up",
+      "url": "https://open.spotify.com/track/7kkPrCmMfAVp1o3mHQWfEe"
     },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Lonely Road (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
+        "name": "Lion In The Zoo",
+        "url": "https://open.spotify.com/album/6pgiBsLSlJTBjmMXUj84KB"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Mateo Gargiulo",
+          "url": "https://open.spotify.com/artist/2aJz531BvN6l5szpNaqR4V"
         },
         {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "The Massholez",
+          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
         }
       ],
-      "duration_ms": 200563,
-      "name": "Lonely Road (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
+      "duration_ms": 272172,
+      "name": "Lion In The Zoo",
+      "url": "https://open.spotify.com/track/5SylK5NAm8zPMjB1DGiRRW"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -163,18 +183,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A Broken Man",
-        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+        "name": "Bekhauf (feat. BABYMETAL)",
+        "url": "https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        },
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 509840,
-      "name": "A Broken Man",
-      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
+      "duration_ms": 228364,
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "State Of The Art (Instrumental Edition)",
+        "url": "https://open.spotify.com/album/5SBH1WAfp9Sj8QV9DZmBJj"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Classic Example - Instrumental",
+      "url": "https://open.spotify.com/track/5BCVuM4RZZ7hXydeaTRUUh"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -199,42 +243,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Colourblind (feat. Loyle Carner)",
-        "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 235684,
-      "name": "Colourblind (feat. Loyle Carner)",
-      "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "By My Side (The Movie Mix)",
-        "url": "https://open.spotify.com/album/6IrHiag3nFVFnwmvMa25Ye"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 282306,
-      "name": "By My Side - The Movie Mix",
-      "url": "https://open.spotify.com/track/2iO8bqQ0E3bKwkjeRbVBTa"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Welcome To Shepherds Bush (Live)",
         "url": "https://open.spotify.com/album/1NCnDEf1jdXXmJTPv76uAL"
       },
@@ -251,26 +259,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/0Kjs9vKkLdHyBkX2hu85Ks"
+        "name": "Lonely Road (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
       },
       "artists": [
         {
-          "name": "Enter Makaveli",
-          "url": "https://open.spotify.com/artist/4qcH42brDCQxw0s4HS8M2q"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 187071,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4uwuRnhNrvYcdgc3kRcIPw"
+      "duration_ms": 200563,
+      "name": "Lonely Road (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -295,22 +299,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Bekhauf (feat. BABYMETAL)",
-        "url": "https://open.spotify.com/album/6J8ujkbzjxaBofiBg3TLRk"
+        "name": "By My Side (The Movie Mix)",
+        "url": "https://open.spotify.com/album/6IrHiag3nFVFnwmvMa25Ye"
       },
       "artists": [
         {
-          "name": "Bloodywood",
-          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
-        },
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
         }
       ],
-      "duration_ms": 228364,
-      "name": "Bekhauf (feat. BABYMETAL)",
-      "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
+      "duration_ms": 282306,
+      "name": "By My Side - The Movie Mix",
+      "url": "https://open.spotify.com/track/2iO8bqQ0E3bKwkjeRbVBTa"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ram (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/728aLt8gy8OM8nn4kt1XdT"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 173418,
-      "name": "Can't Stop Fucking - Bonus Track",
-      "url": "https://open.spotify.com/track/0Z1c2ox8edLKhYwCcDgI3w"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Slaughter House",
         "url": "https://open.spotify.com/album/6Wi2O0t74XhEVMeXpBtgA3"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 144561,
       "name": "Slaughter House",
       "url": "https://open.spotify.com/track/2o21GeUQjgpHdp0UhWvRPE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ram (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/728aLt8gy8OM8nn4kt1XdT"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 173418,
+      "name": "Can't Stop Fucking - Bonus Track",
+      "url": "https://open.spotify.com/track/0Z1c2ox8edLKhYwCcDgI3w"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Live in Paris (1966)",
-        "url": "https://open.spotify.com/album/5nuNPoQ4HhRdakpUqm60mz"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 171530,
-      "name": "I Love You (Sweetheart Of All My Dreams) - Live",
-      "url": "https://open.spotify.com/track/7yZMNPmlk4Nlredi7jVoeU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Mysteries of the Starlit Sea",
         "url": "https://open.spotify.com/album/2ZLqt63t9l1Bd2odlbe47B"
       },
@@ -567,6 +551,38 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Waltz of the Flowers",
+        "url": "https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "Waltz of the Flowers",
+      "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Live in Paris (1966)",
+        "url": "https://open.spotify.com/album/5nuNPoQ4HhRdakpUqm60mz"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 171530,
+      "name": "I Love You (Sweetheart Of All My Dreams) - Live",
+      "url": "https://open.spotify.com/track/7yZMNPmlk4Nlredi7jVoeU"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "A Christmas Deal",
         "url": "https://open.spotify.com/album/5DKgen4eQXpDSLxMlioCia"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 164296,
       "name": "A Christmas Deal",
       "url": "https://open.spotify.com/track/0VpStwwLCPulSovgFphOgy"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Waltz of the Flowers",
-        "url": "https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Waltz of the Flowers",
-      "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
     },
     {
       "added_at": "2024-12-06 05:00:00",

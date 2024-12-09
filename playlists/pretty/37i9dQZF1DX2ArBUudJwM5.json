@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Valeria Lynch en portada.",
-  "num_followers": 40542,
+  "num_followers": 40539,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Cada Dia M\u00e1s",
-        "url": "https://open.spotify.com/album/19d2wrbEdXYXWXDcl7jpKe"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lynch",
-          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Me Das Cada D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0XbgL3Wzp4xzM37UOrhJyp"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
         "name": "Puerto Pollensa",
         "url": "https://open.spotify.com/album/6b92efJS3GCOn2wuJWqZd5"
       },
@@ -135,38 +119,6 @@
       "duration_ms": 264506,
       "name": "Puerto Pollensa",
       "url": "https://open.spotify.com/track/5BaoWORszQDCU5ee4frtoP"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "MILENA",
-        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
-      },
-      "artists": [
-        {
-          "name": "Milena Salamanca",
-          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
-        }
-      ],
-      "duration_ms": 198234,
-      "name": "Florcita Del Monte",
-      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "M\u00e1s Que Loca (Canta a Litto Nebbia)",
-        "url": "https://open.spotify.com/album/1STq6fA06macNb2lfkqU8D"
-      },
-      "artists": [
-        {
-          "name": "Silvina Garre",
-          "url": "https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "S\u00f3lo Se Trata de Vivir",
-      "url": "https://open.spotify.com/track/34Z7MPUYiW2CUiCKTHWI5u"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -207,6 +159,54 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Cada Dia M\u00e1s",
+        "url": "https://open.spotify.com/album/19d2wrbEdXYXWXDcl7jpKe"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Me Das Cada D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0XbgL3Wzp4xzM37UOrhJyp"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "M\u00e1s Que Loca (Canta a Litto Nebbia)",
+        "url": "https://open.spotify.com/album/1STq6fA06macNb2lfkqU8D"
+      },
+      "artists": [
+        {
+          "name": "Silvina Garre",
+          "url": "https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "S\u00f3lo Se Trata de Vivir",
+      "url": "https://open.spotify.com/track/34Z7MPUYiW2CUiCKTHWI5u"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "MILENA",
+        "url": "https://open.spotify.com/album/4twNKFcHjtcZJoOHyRENWS"
+      },
+      "artists": [
+        {
+          "name": "Milena Salamanca",
+          "url": "https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2"
+        }
+      ],
+      "duration_ms": 198234,
+      "name": "Florcita Del Monte",
+      "url": "https://open.spotify.com/track/4zO7lcsUUxpEbjEt7MfJQW"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "PATA DE PERRA",
         "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 156920,
       "name": "Desde el alma",
       "url": "https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "En El Paraiso",
+        "url": "https://open.spotify.com/album/1qL3M86pwcdTvNSUED6lbo"
+      },
+      "artists": [
+        {
+          "name": "Sandra Mihanovich",
+          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Todo Me Recuerda a Ti",
+      "url": "https://open.spotify.com/track/07VXbU838kwvlJ0Id68z6y"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -279,22 +295,6 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "En El Paraiso",
-        "url": "https://open.spotify.com/album/1qL3M86pwcdTvNSUED6lbo"
-      },
-      "artists": [
-        {
-          "name": "Sandra Mihanovich",
-          "url": "https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Todo Me Recuerda a Ti",
-      "url": "https://open.spotify.com/track/07VXbU838kwvlJ0Id68z6y"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
         "name": "Confesi\u00f3n del Viento",
         "url": "https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES"
       },
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Temporal",
-        "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 294951,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -367,22 +351,6 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Nelly Omar - Desde el alma",
-        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Parece mentira",
-      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
         "name": "Vientos del Sur",
         "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
@@ -399,6 +367,22 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Nelly Omar - Desde el alma",
+        "url": "https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx"
+      },
+      "artists": [
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "Parece mentira",
+      "url": "https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Tango en Vivo",
         "url": "https://open.spotify.com/album/2u1vR7Qjt1DXIgG3iaO0ch"
       },
@@ -411,38 +395,6 @@
       "duration_ms": 248493,
       "name": "Garganta Con Arena",
       "url": "https://open.spotify.com/track/4uO4z9gb5FFOeu6ixkJHYQ"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 340172,
-      "name": "Alma Gitana",
-      "url": "https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Confesi\u00f3n del Viento",
-        "url": "https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES"
-      },
-      "artists": [
-        {
-          "name": "Liliana Herrero",
-          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Palabras para Julia",
-      "url": "https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -475,6 +427,54 @@
       "duration_ms": 216125,
       "name": "Cara de Gitana",
       "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/4Gssh5r2TUnZMvMJTJCLNS"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 294951,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/7F8H2BwAP3wOSI8xGUyenB"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 340172,
+      "name": "Alma Gitana",
+      "url": "https://open.spotify.com/track/4m0jEL1UfmfGwLzNXdUycG"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Confesi\u00f3n del Viento",
+        "url": "https://open.spotify.com/album/4nVMhhYI6UC4Q1tP3lLXES"
+      },
+      "artists": [
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Palabras para Julia",
+      "url": "https://open.spotify.com/track/6SgV5JOlX0s5za4hJtb2Fe"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -663,6 +663,42 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
+      },
+      "artists": [
+        {
+          "name": "Maria Gra\u00f1a",
+          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
+        },
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Cari\u00f1o y ternura",
+        "url": "https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
         "name": "Mercedes Florecida",
         "url": "https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm"
       },
@@ -687,74 +723,6 @@
       "duration_ms": 354580,
       "name": "Alfonsina y el Mar",
       "url": "https://open.spotify.com/track/6leMNz3SPymTNACEFogR6x"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Cari\u00f1o y ternura",
-        "url": "https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
-      },
-      "artists": [
-        {
-          "name": "Maria Gra\u00f1a",
-          "url": "https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG"
-        },
-        {
-          "name": "Valeria Lynch",
-          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Susana Rinaldi, \u201cLa tana\u201d with everything.",
-        "url": "https://open.spotify.com/album/6BRRyUD0AH93k6xJQ1hScb"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Malevaje",
-      "url": "https://open.spotify.com/track/5l2kLuKmYcR07ySRxBXfqy"
-    },
-    {
-      "added_at": "2024-12-04 14:28:26",
-      "album": {
-        "name": "Canciones Brotadas de Mi Ra\u00edz",
-        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Quisiera Que Salga un Tigre",
-      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -791,22 +759,34 @@
     {
       "added_at": "2024-12-04 14:28:26",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/2taoH1rKlNauSuPAVxhcoO"
+        "name": "Susana Rinaldi, \u201cLa tana\u201d with everything.",
+        "url": "https://open.spotify.com/album/6BRRyUD0AH93k6xJQ1hScb"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Ricardo Lew",
-          "url": "https://open.spotify.com/artist/32DXCPnu4gvhRa86TviIkH"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 153502,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/2stTWH3mtaztKo60siA11Y"
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/5l2kLuKmYcR07ySRxBXfqy"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Canciones Brotadas de Mi Ra\u00edz",
+        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Quisiera Que Salga un Tigre",
+      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
     },
     {
       "added_at": "2024-12-04 14:28:26",
@@ -883,6 +863,26 @@
       "duration_ms": 239240,
       "name": "Biromes y Servilletas",
       "url": "https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte"
+    },
+    {
+      "added_at": "2024-12-04 14:28:26",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/2taoH1rKlNauSuPAVxhcoO"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Ricardo Lew",
+          "url": "https://open.spotify.com/artist/32DXCPnu4gvhRa86TviIkH"
+        }
+      ],
+      "duration_ms": 153502,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/2stTWH3mtaztKo60siA11Y"
     }
   ],
   "unique_name": "EQUAL Argentina",

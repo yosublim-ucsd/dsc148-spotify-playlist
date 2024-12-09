@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 153069,
+  "num_followers": 153105,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Los Lonely Boys",
-        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Crazy Dream",
-      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Real Deal: Greatest Hits Volume 1",
         "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 219840,
       "name": "Pride and Joy",
       "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Los Lonely Boys",
+        "url": "https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA"
+      },
+      "artists": [
+        {
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Crazy Dream",
+      "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -171,6 +171,38 @@
       "duration_ms": 141106,
       "name": "Honest I Do (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -195,50 +227,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Things I Used To Do",
-        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Let The Good Times Roll",
-      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -259,6 +259,22 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
+        "name": "Things I Used To Do",
+        "url": "https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Let The Good Times Roll",
+      "url": "https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
         "name": "The Best Of Freddie King: The Shelter Years",
         "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
       },
@@ -271,6 +287,22 @@
       "duration_ms": 244693,
       "name": "Me And My Guitar",
       "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -291,38 +323,6 @@
       "duration_ms": 189040,
       "name": "I Gotta Let You Go (feat. Gary Clark, Jr.)",
       "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "The Story of Sonny Boy Slim",
-        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
     },
     {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
+    },
+    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Texas Bluesman",
@@ -651,22 +667,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Buddy Whittington",
         "url": "https://open.spotify.com/album/4xiFspY41nO24W9c3UqyLn"
       },
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j"
     },
     {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
+    },
+    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Standing My Ground",
@@ -779,22 +795,6 @@
       "duration_ms": 341933,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/5iFF3KWzukkaBLA6bDGoGw"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
     },
     {
       "added_at": "2018-02-27 16:43:49",

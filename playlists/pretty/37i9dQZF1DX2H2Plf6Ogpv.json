@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 2756,
+  "num_followers": 2953,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
-      },
-      "artists": [
-        {
-          "name": "trauma ray",
-          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Bardo",
-      "url": "https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Ill Times",
         "url": "https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 227702,
       "name": "Dud",
       "url": "https://open.spotify.com/track/26Jycq9kTirSDwIYl2VSYd"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Bardo",
+      "url": "https://open.spotify.com/track/5bpNUso3XpgZ0jsFMBoYMV"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Let's Start Degeneracy",
-        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 200660,
-      "name": "Bored of Being Sad",
-      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Let's Start Degeneracy",
+        "url": "https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 200660,
+      "name": "Bored of Being Sad",
+      "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Cat 5 (Cyclone)",
-        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
-      },
-      "artists": [
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 222154,
-      "name": "Cat 5 (Cyclone)",
-      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 227000,
       "name": "lightweight",
       "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Cat 5 (Cyclone)",
+        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 222154,
+      "name": "Cat 5 (Cyclone)",
+      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1071,58 +1071,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Dulling The Horns",
-        "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Sprinter Brain",
-      "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX"
-      },
-      "artists": [
-        {
-          "name": "Beddy Rays",
-          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
-        }
-      ],
-      "duration_ms": 190081,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "I Love You Too",
-        "url": "https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        },
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Dull (feat. Softcult)",
-      "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Where we've been, Where we go from here",
         "url": "https://open.spotify.com/album/2ci8WTUkswu4PgtLVPJFeU"
       },
@@ -1135,22 +1083,6 @@
       "duration_ms": 292599,
       "name": "Get Numb To It!",
       "url": "https://open.spotify.com/track/0ra240JuO5Hu2qgHnLl3FB"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Under The Skin",
-        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Under The Skin",
-      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1175,18 +1107,70 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "purepurepure",
-        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
+        "name": "I Love You Too",
+        "url": "https://open.spotify.com/album/2A4bSdjuUF7qQ8hjtqQ8YF"
       },
       "artists": [
         {
-          "name": "Her New Knife",
-          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 201142,
-      "name": "purepurepure",
-      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
+      "duration_ms": 195303,
+      "name": "Dull (feat. Softcult)",
+      "url": "https://open.spotify.com/track/62zUR9KtxLb9h0ytBPjZWG"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX"
+      },
+      "artists": [
+        {
+          "name": "Beddy Rays",
+          "url": "https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18"
+        }
+      ],
+      "duration_ms": 190081,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Dulling The Horns",
+        "url": "https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Sprinter Brain",
+      "url": "https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Under The Skin",
+        "url": "https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Under The Skin",
+      "url": "https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Let's Live a Life Better Than This",
-        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
+        "name": "purepurepure",
+        "url": "https://open.spotify.com/album/7fT3ad9S9oKH6RkvpbOThe"
       },
       "artists": [
         {
-          "name": "A. Swayze & The Ghosts",
-          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
         }
       ],
-      "duration_ms": 218826,
-      "name": "Sick Kinda WRLD",
-      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
+      "duration_ms": 201142,
+      "name": "purepurepure",
+      "url": "https://open.spotify.com/track/21opIkXGXrbI2Q53uYGyc0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1235,6 +1219,22 @@
       "duration_ms": 168625,
       "name": "Teach Me To Be Bad",
       "url": "https://open.spotify.com/track/2f3JUM4a2jJnmJrMvDDIpN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Let's Live a Life Better Than This",
+        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Sick Kinda WRLD",
+      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
     }
   ],
   "unique_name": "2024 Rock songs you may have missed",

@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1437715,
+  "num_followers": 1437682,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 297103,
-      "name": "Orange Juice",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk",
-      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 186973,
       "name": "Our Kingdom",
       "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Dancing For The Answers - EP",
         "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 216753,
       "name": "Punta Cometa - Dancing For The Answers Alt Version",
       "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "October (October Version)",
-        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "October (October Version)",
-      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 241746,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 235240,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Between the Bed and Room",
         "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 236075,
       "name": "People Talking",
       "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/6zP9AZREIcUvAjpX2lKRIl"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 235240,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/7sIONDBUsDWYUll2uwnjY9"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "What Happiness Is",
-        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "While I Was Asleep",
         "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "What Happiness Is",
+        "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Extralife",
-        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Wishing Girl",
         "url": "https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Extralife",
+        "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Backpush",
         "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 182152,
       "name": "Backpush",
       "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1315,6 +1299,22 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Disposable",
-        "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 217461,
-      "name": "Disposable",
-      "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "The Weakness",
         "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 242173,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Disposable",
+        "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 217461,
+      "name": "Disposable",
+      "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "It's All Happening Now",
-        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
-      },
-      "artists": [
-        {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "It's All Happening Now",
-      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Breaking Point",
         "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 216004,
       "name": "Waste Your Time",
       "url": "https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "It's All Happening Now",
+        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "It's All Happening Now",
+      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
     }
   ],
   "unique_name": "Wild & Free",

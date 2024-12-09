@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 902909,
+  "num_followers": 903018,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAByco9tvPjuffYYURW1lDVV",
+  "snapshot_id": "Z1OQAAAAAADxHzkzY3U51VJAHnzlwYss",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Down the House",
         "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 218093,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Brighter",
-      "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 198973,
       "name": "Fences",
       "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI"
     },
     {
       "added_at": null,

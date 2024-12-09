@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 703747,
+  "num_followers": 703838,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Jesus He Knows Me",
         "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
       },
@@ -627,26 +611,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Black Haired Girl",
-        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Black Haired Girl",
-      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w"
       },
@@ -679,6 +643,42 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Black Haired Girl",
+        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Black Haired Girl",
+      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 218354,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 278280,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Pisces Iscariot (Remastered)",
-        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Pisces Iscariot (Remastered)",
+        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 230293,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/11A8jtMu8WKkLeq6CpZNsl"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+        "name": "Origin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        },
+        {
+          "name": "Wow That's What I Call Metalcore",
+          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+      "duration_ms": 293732,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1751,22 +1755,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Origin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
       "artists": [
         {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        },
-        {
-          "name": "Wow That's What I Call Metalcore",
-          "url": "https://open.spotify.com/artist/012VlifWzoPnN7UpJlDVfh"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 293732,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Chain",
-        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
         }
       ],
-      "duration_ms": 252066,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1863,6 +1847,22 @@
       "duration_ms": 302736,
       "name": "Creep - Spotify Singles",
       "url": "https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 180149,
-      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
-      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Tainted Love",
         "url": "https://open.spotify.com/album/3obOuWdKKDTA5toHFQhQ0z"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 204960,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/3TJYSrFUkSSd95XXdMNgmY"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 180149,
+      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
+      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Addicted to Love",
+        "url": "https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl"
+      },
+      "artists": [
+        {
+          "name": "Black Heart Saints",
+          "url": "https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE"
+        }
+      ],
+      "duration_ms": 227673,
+      "name": "Addicted to Love",
+      "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 187075,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Addicted to Love",
-        "url": "https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl"
-      },
-      "artists": [
-        {
-          "name": "Black Heart Saints",
-          "url": "https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE"
-        }
-      ],
-      "duration_ms": 227673,
-      "name": "Addicted to Love",
-      "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
     },
     {
       "added_at": "2024-11-08 21:08:22",

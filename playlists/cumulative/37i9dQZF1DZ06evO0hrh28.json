@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Moana 2 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
+      "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },

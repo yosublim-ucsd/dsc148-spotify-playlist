@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 397480,
+  "num_followers": 397488,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 148751,
       "name": "Like A G6 (with Naeleck)",
       "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Ameno (Techno Mix)",
         "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 174044,
       "name": "P.I.M.P. - HEDEGAARD Remix",
       "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1299,50 +1299,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Hey Ya",
-        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        }
-      ],
-      "duration_ms": 134749,
-      "name": "Hey Ya",
-      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Dance All Night",
-        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
-      },
-      "artists": [
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dance All Night",
-      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -1367,22 +1323,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Convivium",
-        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Convivium",
-      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+      "duration_ms": 134749,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1411,6 +1371,46 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Dance All Night",
+        "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Dance All Night",
+      "url": "https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Convivium",
+        "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Convivium",
+      "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Jump Jump Jump",
         "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
@@ -1503,26 +1479,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "My Mama Dropped LSD in the 90's",
         "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
@@ -1543,6 +1499,30 @@
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
       },
@@ -1607,6 +1607,26 @@
       "duration_ms": 156328,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 205116,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1639,42 +1659,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
       },
       "artists": [
         {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 205116,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "My Girl (with Da Tweekaz)",
-        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 190525,
-      "name": "My Girl (with Da Tweekaz)",
-      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+        "name": "My Girl (with Da Tweekaz)",
+        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
       },
       "artists": [
         {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+      "duration_ms": 190525,
+      "name": "My Girl (with Da Tweekaz)",
+      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1763,6 +1763,22 @@
       "duration_ms": 142103,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+      },
+      "artists": [
+        {
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 105009,
       "name": "Mozart's Final Rave (Lacrimosa)",
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Bel Mercy (Techno)",
-        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
-      },
-      "artists": [
-        {
-          "name": "Paayne",
-          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Bel Mercy - Techno",
-      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "I'm an Albatraoz Again",
-        "url": "https://open.spotify.com/album/5KasMt5pBT4WrRVD6LE3CO"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "I'm an Albatraoz Again",
-      "url": "https://open.spotify.com/track/2AcOmlfoqiWH2YSCFsLUZl"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "My Body (feat. Y&M)",
         "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "I'm an Albatraoz Again",
+        "url": "https://open.spotify.com/album/5KasMt5pBT4WrRVD6LE3CO"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "I'm an Albatraoz Again",
+      "url": "https://open.spotify.com/track/2AcOmlfoqiWH2YSCFsLUZl"
     },
     {
       "added_at": "2024-12-05 23:00:00",

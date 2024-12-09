@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348047,
+  "num_followers": 348087,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "O amor me fala de voc\u00ea",
         "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Microfonado)",
         "url": "https://open.spotify.com/album/652ZVwlCpBlUlOZGKwkJcH"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Na Mi\u00fada",
         "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
       "artists": [
         {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -731,22 +715,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
       },
       "artists": [
         {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
         }
       ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -771,22 +751,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Quem Nos Dera",
-        "url": "https://open.spotify.com/album/33QUHk2NTqqRY2E0yHtFkS"
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
       "artists": [
         {
-          "name": "Leoni",
-          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
         },
         {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 140958,
-      "name": "Quem Nos Dera",
-      "url": "https://open.spotify.com/track/7CExS7KbwVINZ1diUiGXE8"
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -803,6 +783,26 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Quem Nos Dera",
+        "url": "https://open.spotify.com/album/33QUHk2NTqqRY2E0yHtFkS"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 140958,
+      "name": "Quem Nos Dera",
+      "url": "https://open.spotify.com/track/7CExS7KbwVINZ1diUiGXE8"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Insensatez",
-        "url": "https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 192271,
-      "name": "Insensatez",
-      "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Saudade Demais",
         "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Insensatez",
+        "url": "https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 192271,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Eu Vivendo Nossa Vida",
         "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 236522,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Maluca",
-        "url": "https://open.spotify.com/album/0flQG6Uj5HscyyjSjxYVNP"
-      },
-      "artists": [
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Maluca",
-      "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Chuva de Prata",
         "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 231716,
       "name": "Chuva de Prata",
       "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Maluca",
+        "url": "https://open.spotify.com/album/0flQG6Uj5HscyyjSjxYVNP"
+      },
+      "artists": [
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Maluca",
+      "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 232714,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1115,22 +1131,6 @@
       "duration_ms": 185250,
       "name": "Pouca Bobagem",
       "url": "https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Misteriosa",
-        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Macap\u00e1",
-      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Theodoro Nag\u00f4: We4Sessions",
-        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Preta Yay\u00e1",
-      "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "M\u00fasica",
         "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Theodoro Nag\u00f4: We4Sessions",
+        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Preta Yay\u00e1",
+      "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Um Milh\u00e3o",
         "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Domingo \u00c0 Noite",
-        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 221137,
-      "name": "Domingo \u00c0 Noite",
-      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "E se tudo terminasse em amor?",
         "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 222313,
       "name": "Abra\u00e7o dos Amantes",
       "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-12-06 03:00:00",

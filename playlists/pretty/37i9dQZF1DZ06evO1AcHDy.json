@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37843,
+  "num_followers": 37845,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAACYj68KWrKpLu66uIJjuWuF",
+  "snapshot_id": "Z1OQAAAAAADC9JMCmSsKRFSBc0Ku+N7W",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
       "artists": [
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Coco Morier",
+          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
         }
       ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+      "duration_ms": 106832,
+      "name": "Bees & Honey (Bonus Track)",
+      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
       "artists": [
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Coco Morier",
-          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
         }
       ],
-      "duration_ms": 106832,
-      "name": "Bees & Honey (Bonus Track)",
-      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     }
   ],
   "unique_name": "This Is Rina Sawayama",

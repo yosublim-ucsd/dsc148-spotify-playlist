@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 157592,
+  "num_followers": 157619,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABiIiI0SYSm6Yxuzkq/3ddd",
+  "snapshot_id": "Z1OQAAAAAAA7ER9y3zNqK+BusWOwPYdl",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 144600,
-      "name": "Wham",
-      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 294373,
-      "name": "The Things (That) I Used to Do",
-      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
+      "duration_ms": 144600,
+      "name": "Wham",
+      "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
     },
     {
       "added_at": null,

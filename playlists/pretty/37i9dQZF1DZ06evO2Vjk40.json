@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 651029,
+  "num_followers": 651129,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAACjEIkBTm7BxFj6ynj0mqJs",
+  "snapshot_id": "Z1OQAAAAAAAJIBzVhNBU+wKumsGlSJ44",
   "tracks": [
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me When It\u2019s Over",
-        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
+        "name": "Duets (30th Anniversary)",
+        "url": "https://open.spotify.com/album/0FL7FO7SPoxUhmMvocO5Cx"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 296933,
-      "name": "Tell Me When It\u2019s Over",
-      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
+      "duration_ms": 275013,
+      "name": "Il Mare Calmo della Sera (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/05THAQTm5v2cyClKqsqPpk"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets (30th Anniversary)",
-        "url": "https://open.spotify.com/album/0FL7FO7SPoxUhmMvocO5Cx"
+        "name": "Tell Me When It\u2019s Over",
+        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 275013,
-      "name": "Il Mare Calmo della Sera (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/05THAQTm5v2cyClKqsqPpk"
+      "duration_ms": 296933,
+      "name": "Tell Me When It\u2019s Over",
+      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": null,

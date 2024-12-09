@@ -4,7 +4,7 @@
 
 > Big rock tracks from 2019\. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker
 
-61 songs - 4 hr 15 min
+62 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,9 +63,10 @@
 | [Shockwave](https://open.spotify.com/track/5DJctS0yiHX7agIGnfgnu1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not\. \(Deluxe Edition\)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:31 | 2022-12-29 |  |
 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 | 2022-12-29 |  |
 | [sugar honey ice & tea](https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:21 | 2022-12-29 |  |
-| [Sunday Driver](https://open.spotify.com/track/4sFqnKblhJ1Q78T5DpCVYD) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger \(With Track\-by\-Track Commentary\)](https://open.spotify.com/album/7hUXTSJ66iobSF352n2GT8) | 3:38 | 2022-12-29 |  |
+| [Sunday Driver](https://open.spotify.com/track/4sFqnKblhJ1Q78T5DpCVYD) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger \(With Track\-by\-Track Commentary\)](https://open.spotify.com/album/7hUXTSJ66iobSF352n2GT8) | 3:38 | 2022-12-29 | 2024-12-09 |
 | [Take Control](https://open.spotify.com/track/4ayIpClJzUh43tJgzyPI9f) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Take Control EP](https://open.spotify.com/album/60fONqEriuAr5UWfkIXJPa) | 3:27 | 2022-12-29 | 2024-12-06 |
 | [The End of the Game](https://open.spotify.com/track/4zB544yCIaSw3cuHltMCRJ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [The End of the Game](https://open.spotify.com/album/2oIIKGUt4telkfiygjJ4il) | 3:01 | 2022-12-29 |  |
+| [The Violence](https://open.spotify.com/track/2918T2ucPJn7lIxP0IGZnW) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:28 | 2022-12-29 |  |
 | [Timebomb](https://open.spotify.com/track/6GqRl2u7LIW93T8Vi5LnXU) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Timebomb](https://open.spotify.com/album/7l2pRhL2IxUflTUeX8iU1w) | 3:38 | 2022-12-29 |  |
 | [why are you here](https://open.spotify.com/track/63h44N1oLElnzut7RxZt6Z) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [why are you here](https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs) | 2:55 | 2022-12-29 |  |
 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 | 2022-12-29 |  |

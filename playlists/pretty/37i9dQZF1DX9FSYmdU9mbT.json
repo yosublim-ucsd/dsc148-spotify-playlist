@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia",
-  "num_followers": 1349472,
+  "num_followers": 1349752,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan",
         "url": "https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 225266,
       "name": "Flor de Lis",
       "url": "https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Que Falta Voc\u00ea Me Faz",
         "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
@@ -359,6 +339,30 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 327946,
+      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Mal\u00e1sia",
         "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
       },
@@ -371,6 +375,26 @@
       "duration_ms": 346266,
       "name": "Nem um Dia",
       "url": "https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -411,30 +435,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 327946,
-      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -447,38 +447,6 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
-      },
-      "artists": [
-        {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "De Noite Na Cama",
-      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -499,18 +467,34 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+        "name": "Unplugged (Ao vivo)",
+        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 332133,
-      "name": "Sina",
-      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
+      "duration_ms": 293053,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "De Noite Na Cama",
+      "url": "https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 227568,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+      "duration_ms": 332133,
+      "name": "Sina",
+      "url": "https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -563,54 +547,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Mem\u00f3rias (2001) - Ao Vivo",
-        "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Arnaldo Antunes",
-          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 200820,
-      "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Unplugged (Ao vivo)",
-        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
+      "duration_ms": 227568,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -635,6 +583,42 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Mem\u00f3rias (2001) - Ao Vivo",
+        "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Arnaldo Antunes",
+          "url": "https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5"
+        }
+      ],
+      "duration_ms": 200820,
+      "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Que Tal Um Samba? (Ao Vivo)",
         "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
       },
@@ -647,38 +631,6 @@
       "duration_ms": 170448,
       "name": "Samba do Grande Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/4tj4BdoordmiTZJcyTjimT"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 229864,
-      "name": "Chuva de Prata - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -699,6 +651,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 229864,
+      "name": "Chuva de Prata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Ex-Amor",
         "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
       },
@@ -715,18 +683,34 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "A Festa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 330252,
-      "name": "A Festa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "A Festa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 330252,
+      "name": "A Festa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -775,22 +775,6 @@
       "duration_ms": 275882,
       "name": "Se Eu Quiser Falar Com Deus",
       "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "O Que \u00c9 Que H\u00e1",
-        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 225713,
-      "name": "O Que \u00c9 Que H\u00e1",
-      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "O Que \u00c9 Que H\u00e1",
+        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 225713,
+      "name": "O Que \u00c9 Que H\u00e1",
+      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Ang\u00e9lica",
-        "url": "https://open.spotify.com/album/0qJF66hF0OL18NydgS31hS"
-      },
-      "artists": [
-        {
-          "name": "MPB4",
-          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
-        },
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 180258,
-      "name": "Ang\u00e9lica",
-      "url": "https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Chico Buarque Essencial (Box)",
         "url": "https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ"
       },
@@ -919,38 +899,6 @@
       "duration_ms": 210773,
       "name": "Futuros Amantes",
       "url": "https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Solo Contigo (ao Vivo) - Deluxe Edition",
-        "url": "https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        }
-      ],
-      "duration_ms": 241112,
-      "name": "Dia Branco - Ao Vivo | Bonus Track",
-      "url": "https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Gal A Todo Vapor (Live)",
-        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -971,6 +919,42 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Ang\u00e9lica",
+        "url": "https://open.spotify.com/album/0qJF66hF0OL18NydgS31hS"
+      },
+      "artists": [
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 180258,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Li\u00e7\u00e3o de Vida",
         "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
       },
@@ -983,22 +967,6 @@
       "duration_ms": 191053,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "S\u00e1bado em Copacabana",
-        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "S\u00e1bado em Copacabana",
-      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1019,18 +987,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "Solo Contigo (ao Vivo) - Deluxe Edition",
+        "url": "https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+      "duration_ms": 241112,
+      "name": "Dia Branco - Ao Vivo | Bonus Track",
+      "url": "https://open.spotify.com/track/1E3W3Gtvm6ayy7fAtaPGQV"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1047,6 +1015,38 @@
       "duration_ms": 204840,
       "name": "Encontro",
       "url": "https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "S\u00e1bado em Copacabana",
+        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "S\u00e1bado em Copacabana",
+      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Planos do C\u00e9u",
-        "url": "https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V"
+        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
       },
       "artists": [
         {
-          "name": "Angela Ro Ro",
-          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
         }
       ],
-      "duration_ms": 247146,
-      "name": "Planos do C\u00e9u",
-      "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"
+      "duration_ms": 213093,
+      "name": "Entre a Serpente e a Estrela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
+        "name": "Planos do C\u00e9u",
+        "url": "https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+          "name": "Angela Ro Ro",
+          "url": "https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Entre a Serpente e a Estrela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
+      "duration_ms": 247146,
+      "name": "Planos do C\u00e9u",
+      "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Os Primeiros Anos",
         "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
       },
@@ -1255,18 +1271,34 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
+        "name": "Caravanas Ao Vivo",
+        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         }
       ],
-      "duration_ms": 253973,
-      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
+      "duration_ms": 184119,
+      "name": "Sabi\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Trem Azul",
+        "url": "https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260467,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1303,22 +1335,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Caravanas Ao Vivo",
-        "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 184119,
-      "name": "Sabi\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Trem Azul",
-        "url": "https://open.spotify.com/album/0Jl8gxF0bV3CDB2A01Y30N"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260467,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/2hSz6S13sgIM6lWm2cNYy1"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Meus Caros Amigos",
         "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 229013,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/7G1EZVDStHryU6HEgLoeEQ"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 217525,
+      "name": "\u00c9 Hora",
+      "url": "https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Especial Ivete, Gil E Caetano (Ao Vivo No Projac, Rio De Janeiro / 2011)",
         "url": "https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 300973,
       "name": "P\u00e9rola Negra - Ao Vivo",
       "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/7G1EZVDStHryU6HEgLoeEQ"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 217525,
-      "name": "\u00c9 Hora",
-      "url": "https://open.spotify.com/track/5AmkIw8rvELi7RL3QVafnv"
     },
     {
       "added_at": "2024-12-06 03:00:00",

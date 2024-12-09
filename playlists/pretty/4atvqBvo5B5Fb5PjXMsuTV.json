@@ -1,13 +1,69 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Dec 19:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 23:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANqYXqDFGdtDeLviTBD0D+r/J6c51h",
+  "snapshot_id": "AAANsolbUz8CedyfaMLRrUSR42kemxdd",
   "tracks": [
+    {
+      "added_at": "2024-12-08 23:03:27",
+      "album": {
+        "name": "toxic till the end",
+        "url": "https://open.spotify.com/album/1l05dI1q6ZmJt5PMeKTAAh"
+      },
+      "artists": [
+        {
+          "name": "Fran Garro",
+          "url": "https://open.spotify.com/artist/51pJDlC1KMvT0jKR51zoUi"
+        },
+        {
+          "name": "Technoglobal",
+          "url": "https://open.spotify.com/artist/2RKhPPpnZvAJL9nLRDzUWm"
+        },
+        {
+          "name": "Techno Bangers",
+          "url": "https://open.spotify.com/artist/2L7T1LvflfOJPXOEfNN1wr"
+        }
+      ],
+      "duration_ms": 144653,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/33Y83VED1DVITHnE9Jgu3z"
+    },
+    {
+      "added_at": "2024-12-08 19:03:29",
+      "album": {
+        "name": "\u05d0\u05ea\u05d4 \u05d0\u05e0\u05d9 \u05d0\u05d5\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7CYBMe7sZn9IiXVEMGPVv0"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 198584,
+      "name": "\u05d0\u05ea\u05d4 \u05d0\u05e0\u05d9 \u05d0\u05d5\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/3VaEnW5C0x8htoAs4W040U"
+    },
+    {
+      "added_at": "2024-12-08 09:03:36",
+      "album": {
+        "name": "Operation: Zenithfall",
+        "url": "https://open.spotify.com/album/5bB1qJ1VvyB76dbGWbB3HU"
+      },
+      "artists": [
+        {
+          "name": "Camellia",
+          "url": "https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M"
+        }
+      ],
+      "duration_ms": 355688,
+      "name": "Operation: Zenithfall",
+      "url": "https://open.spotify.com/track/5l9LLkT21xeETTUPaIZaNH"
+    },
     {
       "added_at": "2024-12-07 09:02:51",
       "album": {
@@ -23,6 +79,30 @@
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+    },
+    {
+      "added_at": "2024-12-08 04:03:27",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/0zhrB1tEDu3BbtzQKIfFJ6"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "QuakeBeatz",
+          "url": "https://open.spotify.com/artist/30HKqvpaWBTGoxIO8hFMt1"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/7uJ7G8RLvAJgJFRn49mD0C"
     },
     {
       "added_at": "2024-12-07 19:02:43",
@@ -481,6 +561,22 @@
       "url": "https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE"
     },
     {
+      "added_at": "2024-12-08 23:03:27",
+      "album": {
+        "name": "Open Wide",
+        "url": "https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 288841,
+      "name": "Open Wide",
+      "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
+    },
+    {
       "added_at": "2024-12-06 09:03:46",
       "album": {
         "name": "Bleed Me Dry",
@@ -811,86 +907,6 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "Do You Feel This Way?",
-        "url": "https://open.spotify.com/album/78ayuXHTpSzTX1iBkIHuxT"
-      },
-      "artists": [
-        {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Do You Feel This Way?",
-      "url": "https://open.spotify.com/track/0x2n6LKPEogsW5EJUliWDi"
-    },
-    {
-      "added_at": "2024-12-06 04:03:35",
-      "album": {
-        "name": "aeropuerto",
-        "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "aeropuerto",
-      "url": "https://open.spotify.com/track/3yLZLHZ8p6E7zGEcWLAyyo"
-    },
-    {
-      "added_at": "2024-12-06 19:04:32",
-      "album": {
-        "name": "Nights That We Needed",
-        "url": "https://open.spotify.com/album/5DW7l8OLz9LKfHeNhKCjnF"
-      },
-      "artists": [
-        {
-          "name": "DWLLRS",
-          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
-        }
-      ],
-      "duration_ms": 215561,
-      "name": "Nights That We Needed",
-      "url": "https://open.spotify.com/track/42Uc9j8SJ2sgPHAf7ZS9hg"
-    },
-    {
-      "added_at": "2024-12-07 04:03:41",
-      "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/49dhviXblwnf2Drbb7Kldp"
-      },
-      "artists": [
-        {
-          "name": "Sophia Scott",
-          "url": "https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp"
-        }
-      ],
-      "duration_ms": 189304,
-      "name": "Tumbleweed",
-      "url": "https://open.spotify.com/track/3cnq0cLgzivsNFovclKyE3"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "number",
-        "url": "https://open.spotify.com/album/0p5Mo4alMuPemivmZL5C2C"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "number",
-      "url": "https://open.spotify.com/track/10irq5r9yRRPuh24Tmqn0S"
     }
   ],
   "unique_name": "New Singles Now",

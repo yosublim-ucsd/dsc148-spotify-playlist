@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,165 songs - 3 day 10 hr 31 min
+2,166 songs - 3 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,7 @@
 | [Flight of the Mitoglider](https://open.spotify.com/track/1K5whJr9TAgFAohNbp26Qg) | [Myriad of Trees](https://open.spotify.com/artist/1jQMcRz0UCaTN63mFIPdOF) | [Sootbird](https://open.spotify.com/album/1MwYQvWmQZwT5uljVPRlV2) | 3:17 | 2022-04-15 | 2022-06-10 |
 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 | 2022-04-15 | 2022-11-12 |
 | [Float](https://open.spotify.com/track/0yvdmeWytGMCzDAABS9HQ1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Float](https://open.spotify.com/album/4zeOVYdKsMoH4eOFXZlpXK) | 2:48 | 2022-04-15 | 2022-10-01 |
-| [Float Freely](https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Float Freely](https://open.spotify.com/album/6BmmFiCDiS3ZOZBIkeVkUO) | 2:06 | 2024-10-11 |  |
+| [Float Freely](https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Float Freely](https://open.spotify.com/album/6BmmFiCDiS3ZOZBIkeVkUO) | 2:06 | 2024-10-11 | 2024-12-09 |
 | [Float n Flutter](https://open.spotify.com/track/2TypGPFyLoIbLDInw8ddD5) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Float n Flutter](https://open.spotify.com/album/6x5U1UCPqcD4BPfN2x7c7t) | 3:32 | 2022-04-15 | 2022-05-27 |
 | [Floaters](https://open.spotify.com/track/2rgapVlFONTsaODlhND1Aw) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [Floaters](https://open.spotify.com/album/5RFDxuuu1KXN9iKqLOsPow) | 1:43 | 2022-07-08 | 2022-12-03 |
 | [Floating](https://open.spotify.com/track/2uFzIxt7J5OpLC5nRagdAk) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Floating](https://open.spotify.com/album/1R7eubUnpwUVU7iV5SFG67) | 3:06 | 2022-04-15 | 2022-11-12 |
@@ -1394,6 +1394,7 @@
 | [Out Of Forest](https://open.spotify.com/track/2tMU87RyZt6RVmGhfe2Nfy) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Out Of Forest](https://open.spotify.com/album/1RwDRX85GDUEI6FA65zdrn) | 2:10 | 2023-07-13 | 2023-08-04 |
 | [Out of Time](https://open.spotify.com/track/08dfHBhsvDwG06jh0nudQE) | [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Out of Time](https://open.spotify.com/album/2XgWIq44NJ4hysQTT2ua3b) | 2:49 | 2024-05-23 |  |
 | [Out There](https://open.spotify.com/track/45psDYl0U8tJFTzrEOBypG) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [So.Lo](https://open.spotify.com/artist/5vxaqyEjb7eMVm9bUnbwQj) | [Out There](https://open.spotify.com/album/4OqNUvIEL2pR75c3AWaPPI) | 2:07 | 2022-08-12 | 2022-12-17 |
+| [Outer Space](https://open.spotify.com/track/0MF8wPjQiBbEnJAJ2dO2k7) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH) | [Outer Space](https://open.spotify.com/album/6NDKjbezHf29zOT3gFzI3D) | 2:27 | 2024-12-06 |  |
 | [Outer Worlds](https://open.spotify.com/track/5JJJlEL5qzbDa70iCQPuDN) | [D0d.](https://open.spotify.com/artist/6dISDGkIeVuRe5yN4NiwBB), [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Outer Worlds](https://open.spotify.com/album/3ZeWK0zo3KUmDgRyLOrH9M) | 2:14 | 2022-09-02 | 2022-12-24 |
 | [Outkast](https://open.spotify.com/track/2vfuEz0z5ansqI1gQ69xsD) | [Vybe Village](https://open.spotify.com/artist/6WlHbfsgF448dcHWx2bP0P) | [Lofi Guy V](https://open.spotify.com/album/1EgZy7m1oSIow7YlydDGSn) | 2:15 | 2022-12-09 | 2023-02-07 |
 | [Oven Baked](https://open.spotify.com/track/7zUpfB9iEen3mp01g540aQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Oven Baked](https://open.spotify.com/album/2D9pQSvdx0FBHThlO6OHSI) | 2:05 | 2022-12-23 | 2024-03-01 |

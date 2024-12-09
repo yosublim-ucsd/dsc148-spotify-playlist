@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-346 songs - 16 hr 58 min
+347 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 | 2024-09-25 |
 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 | 2023-09-22 |  |
 | [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 | 2024-08-30 |  |
+| [Jazzterfield 3](https://open.spotify.com/track/4Z6a5JQLO3yGDpECi4ovF9) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Roberto Di Gioia](https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR) | [Jazzterfield 3](https://open.spotify.com/album/5T2J4pbIrL17C4oGbbN0WE) | 2:09 | 2024-12-06 |  |
 | [Je Pense A Toi](https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reverie](https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy) | 2:38 | 2023-08-22 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-08-22 |  |
 | [Jour Soleil](https://open.spotify.com/track/2vFmsUYWbYrZShKIaVntQm) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [Jour Soleil](https://open.spotify.com/album/4U8gL5ZAxh9letyUEivtRY) | 4:32 | 2024-03-20 | 2024-06-08 |
@@ -338,7 +339,7 @@
 | [Violet](https://open.spotify.com/track/1oP3XTius4A9ud6YQ9IzXw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Shades of Purple](https://open.spotify.com/album/7miWMBvHaL5L5xTJxqSfxU) | 2:50 | 2024-11-08 | 2024-11-20 |
 | [Volpaia](https://open.spotify.com/track/1lrgfwOihRFHBUy3xGIeBB) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Volpaia](https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8) | 2:13 | 2024-03-20 | 2024-06-08 |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-08-22 | 2024-04-19 |
-| [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 |  |
+| [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 | 2024-12-09 |
 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 | 2023-10-13 | 2024-08-27 |
 | [wellsee](https://open.spotify.com/track/6voTXsVbqTzczo7amKRsFN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [wellsee](https://open.spotify.com/album/5xaIEnxiUIi4LNO3HS24o4) | 2:08 | 2024-11-15 |  |
 | [What If](https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [What If](https://open.spotify.com/album/4aV3NfEVtqfX7FFb03Z4Zl) | 2:20 | 2024-08-23 | 2024-10-05 |

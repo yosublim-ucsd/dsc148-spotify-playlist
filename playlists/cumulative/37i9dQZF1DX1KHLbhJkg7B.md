@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-414 songs - 1 day 1 hr 52 min
+415 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [In The Air Tonight](https://open.spotify.com/track/6j7MXYyyMQXHStKzBFAUez) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Uncovered](https://open.spotify.com/album/5hs99gvzSISGOEmncgy853) | 4:29 | 2021-12-10 | 2022-07-29 |
 | [In The Ghetto](https://open.spotify.com/track/0nbCaZiVcMymlmRiXo4cUp) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [In The Ghetto](https://open.spotify.com/album/3CiaaaS65DDkakXc8Seamm) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Into the Mystic](https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Under the Covers](https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq) | 3:41 | 2021-12-10 | 2023-08-19 |
+| [Iris](https://open.spotify.com/track/5li0T0hP91MgcGMMKfw3KM) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Iris](https://open.spotify.com/album/2cE2EIYVWbnsKrLCN55Kix) | 3:26 | 2024-12-06 |  |
 | [Iris](https://open.spotify.com/track/4T0NKEfBxsVsSjoMg5FsNV) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Iris](https://open.spotify.com/album/6kwvbPkXCbL0ywkLUlooKo) | 3:13 | 2024-06-07 |  |
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2021-12-10 | 2024-08-06 |
 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 | 2021-12-10 | 2024-08-03 |
@@ -222,7 +223,7 @@
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 | 2023-09-02 |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2021-12-10 | 2024-08-03 |
 | [Lookin' for Love](https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Odies But Goodies](https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q) | 3:30 | 2024-09-06 |  |
-| [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 |  |
+| [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 | 2024-12-09 |
 | [Loud and Heavy](https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0) | [Loud and Heavy](https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U) | 3:21 | 2022-07-08 | 2023-11-27 |
 | [Louisiana Woman, Mississippi Man \(with Martina McBride\)](https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Essential Martina McBride](https://open.spotify.com/album/0HiQVsQdNpLarQJN3RgOhU) | 3:00 | 2021-12-10 | 2022-07-29 |
 | [Love Can Build A Bridge](https://open.spotify.com/track/0TaJn96DJs4zDmlrlcH7ha) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 4:37 | 2023-10-27 | 2023-11-12 |

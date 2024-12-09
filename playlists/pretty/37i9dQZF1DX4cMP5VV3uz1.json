@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 160879,
+  "num_followers": 160876,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -131,66 +131,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Bombalaya (Blooom Remix)",
-        "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Wolfy Lights",
-          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
-        },
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Bombalaya - Blooom Remix",
-      "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Enter The Rave",
-        "url": "https://open.spotify.com/album/1OuvSxsDAzDpt9J2FwQCpC"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        },
-        {
-          "name": "Inja",
-          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Enter The Rave",
-      "url": "https://open.spotify.com/track/6jcBwJbeX2LCKi9DfGpdjJ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -223,6 +163,66 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Bombalaya (Blooom Remix)",
+        "url": "https://open.spotify.com/album/0Pn7tCMEM2cJINrr1gSTbE"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Wolfy Lights",
+          "url": "https://open.spotify.com/artist/1VzKsrHWSH4Ij7dTWfPe7z"
+        },
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Bombalaya - Blooom Remix",
+      "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Enter The Rave",
+        "url": "https://open.spotify.com/album/1OuvSxsDAzDpt9J2FwQCpC"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Enter The Rave",
+      "url": "https://open.spotify.com/track/6jcBwJbeX2LCKi9DfGpdjJ"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Lose Control (feat. Grace Barton)",
+        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Lose Control (feat. Grace Barton)",
+      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 247820,
       "name": "flight fm",
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Lose Control (feat. Grace Barton)",
-        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Lose Control (feat. Grace Barton)",
-      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Jungle Diva",
         "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
       },
       "artists": [
         {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Confz",
+          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
         }
       ],
-      "duration_ms": 159545,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
+      "duration_ms": 180689,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -851,26 +871,6 @@
       "duration_ms": 103714,
       "name": "Mwah! (I'm That Bitch)",
       "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
-      },
-      "artists": [
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Confz",
-          "url": "https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 189310,
       "name": "Home In That Bass",
       "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Wassup",
-        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Underground Supply",
         "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 252607,
       "name": "Underground Supply",
       "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Inner Untitled EP",
-        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
-      },
-      "artists": [
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        },
-        {
-          "name": "Chy Cartier",
-          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
-        }
-      ],
-      "duration_ms": 125138,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/3nz5qqVIVZvOSdyfyTire1"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Inner Untitled EP",
+        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "duration_ms": 125138,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Police",
+        "url": "https://open.spotify.com/album/7HJFSknucNLw743BrBWtqr"
+      },
+      "artists": [
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "duration_ms": 207257,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/3FrQeLwZ7A7AvzPGbk4v7E"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Champion Sound",
         "url": "https://open.spotify.com/album/0O0gusOWe8wZ9MrNtzGWm0"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 227555,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Police",
-        "url": "https://open.spotify.com/album/7HJFSknucNLw743BrBWtqr"
-      },
-      "artists": [
-        {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
-        },
-        {
-          "name": "Isaac Maya",
-          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
-        }
-      ],
-      "duration_ms": 207257,
-      "name": "Police",
-      "url": "https://open.spotify.com/track/3FrQeLwZ7A7AvzPGbk4v7E"
     }
   ],
   "unique_name": "Proper Naughty ",

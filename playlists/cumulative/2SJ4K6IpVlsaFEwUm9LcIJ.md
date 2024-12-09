@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-384 songs - 21 hr 4 min
+386 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Echo Tricks Me](https://open.spotify.com/track/5FYdwJ6ZFmB8o5LTdeyiNR) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:09 | 2024-02-09 | 2024-03-10 |
 | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/track/1SFUxSbBQbJqjN9rFOmYGk) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Empty And Silent \(feat\. King Krule\)](https://open.spotify.com/album/0AeSOw3HZgMJepZRDj2YR0) | 6:07 | 2024-03-13 | 2024-05-16 |
 | [Eternal Sunshine of the Spotless Mind](https://open.spotify.com/track/53WIcYCLyuJ25HTkdrmGVo) | [Any Other](https://open.spotify.com/artist/5RECxqPUWytzhwKabZ1lWx) | [Four Covers](https://open.spotify.com/album/0ZiOOV1MXNcH8O56kQJx0h) | 2:15 | 2024-03-11 | 2024-05-16 |
+| [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 | 2024-12-09 |  |
 | [Evening In Paris](https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9) | [Lois](https://open.spotify.com/artist/2TPN3wAFNOE6VN1OLNLBwH) | [Strumpet](https://open.spotify.com/album/55qFoYA2utC3qhqmutvSRX) | 2:37 | 2024-04-18 | 2024-05-16 |
 | [Evening Mirror \- From the Original Score of The Sweet East](https://open.spotify.com/track/7hy0XnO9PBwcsZNP4H5sX4) | [Paul Grimstad](https://open.spotify.com/artist/2sI4HMXuvwKYhP1gmqr6Jv), [Talia Ryder](https://open.spotify.com/artist/1gfXCBma9K651B5zUc2Btl) | [Evening Mirror \(From the Original Score of The Sweet East\)](https://open.spotify.com/album/0uailJ2SWjeKlOEDHcNoGB) | 3:11 | 2024-02-21 | 2024-03-10 |
 | [Everglade](https://open.spotify.com/track/12Ly9pR2DxzNCWHauZWiYj) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/26QpVjamtdjHvXSfd7c7v7) | 4:26 | 2024-04-25 | 2024-05-16 |
@@ -249,6 +250,7 @@
 | [On Box Hill](https://open.spotify.com/track/12zeveHIA4DLzT6wzbCeZ3) | [Ben Watt](https://open.spotify.com/artist/4RIOH6XCUt1Xr8NLUj2u66) | [North Marine Drive](https://open.spotify.com/album/4h4SztkCFmYZOQpUD7kLR2) | 2:27 | 2024-05-26 | 2024-07-12 |
 | [On Returning \- 2006 Remastered Version](https://open.spotify.com/track/4JILOKNjlAzjCFlJlR6ouI) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [154 \(2006 Remastered Version\)](https://open.spotify.com/album/2ajuLWJSuzHFeTceC1A4bW) | 2:06 | 2024-01-15 | 2024-03-10 |
 | [On The Train](https://open.spotify.com/track/5Dw1XDLQqqCf2OCnJwvcQm) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Present Company](https://open.spotify.com/album/4rxGfUytpBrNvaDDbZVpAj) | 1:36 | 2024-05-16 | 2024-07-12 |
+| [One Of Our Girls Has Gone Missing](https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 4:41 | 2024-12-09 |  |
 | [One On One](https://open.spotify.com/track/1ANmX8emjTaiR5BPeswuNi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 4:18 | 2024-07-29 | 2024-09-08 |
 | [One Part Be My Lover](https://open.spotify.com/track/4pdZpMvjlYo7m31DrhCStB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:06 | 2024-01-24 | 2024-03-10 |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2024-01-24 | 2024-03-10 |

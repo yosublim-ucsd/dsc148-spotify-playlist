@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-989 songs - 1 day 14 hr 20 min
+991 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-15 | 2022-07-01 |
 | [Come Again](https://open.spotify.com/track/4dVXPyNrB1DAhhhdrJcGQL) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Come Again](https://open.spotify.com/album/5gMhVvHXKKFhPQXxurDB9T) | 2:12 | 2024-08-23 | 2024-11-17 |
 | [Come Fall](https://open.spotify.com/track/3mtGITybSAEVhFUkg2Bhuf) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [Come Fall](https://open.spotify.com/album/0p8YocXPwG0lSTbQs49rWG) | 1:54 | 2024-10-04 | 2024-12-07 |
-| [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 |  |
+| [Come With A Sparkle](https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Come With A Sparkle](https://open.spotify.com/album/2JaHpJQdURjtYsziVDYvi2) | 1:44 | 2022-06-17 | 2024-12-09 |
 | [Concrete Dream](https://open.spotify.com/track/6Q0NQC52cxfZuulrtVCRyA) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Concrete Dream](https://open.spotify.com/album/3BdMsPtS85XxErt4CyGrm5) | 2:20 | 2022-04-15 | 2022-05-20 |
 | [Connection](https://open.spotify.com/track/06AbUUsnDWJ6W4m6sEYnZI) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Connection](https://open.spotify.com/album/5rz7xkg4wnZMQg4IN9EDyD) | 2:46 | 2022-04-15 | 2022-07-01 |
 | [Constellations](https://open.spotify.com/track/5RFKFFRvfkD1dit5DB6bfW) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Constellations](https://open.spotify.com/album/5R9aCPjyp8MF2cZ5THlw2E) | 2:40 | 2022-10-28 | 2023-10-20 |
@@ -202,6 +202,7 @@
 | [downright](https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [downright](https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv) | 2:24 | 2023-11-24 |  |
 | [Downtain Train Ride](https://open.spotify.com/track/2iRY43mifdX7kbKcLuE8N4) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Downtain Train Ride](https://open.spotify.com/album/4w5oUur1wC1vdP6DPb32vr) | 2:00 | 2024-03-22 | 2024-06-20 |
 | [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
+| [Dr3amScape](https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Dr3amScape](https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy) | 2:03 | 2024-12-06 |  |
 | [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 | 2023-12-15 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-15 | 2022-07-29 |
 | [dreamality](https://open.spotify.com/track/7kFaQ5hj8WtCHB4fSNnmF8) | [Nine x Nine](https://open.spotify.com/artist/5kAm2IyAJ8qwIv9VK6l98E) | [dreamality](https://open.spotify.com/album/6mpxv0APWBfaOn2PMUedfB) | 2:23 | 2022-12-16 |  |
@@ -425,7 +426,7 @@
 | [lalalala](https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF) | [Zoulzest](https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F) | [lalalala](https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo) | 2:29 | 2024-07-26 |  |
 | [Lantana](https://open.spotify.com/track/2FoFXdEp7Vq0F6WnX5C2pp) | [Rooey](https://open.spotify.com/artist/5y2hfguiOBZAN1WUEyi2cv) | [Lantana](https://open.spotify.com/album/5UNOpQ3MBnoqtzUWQLKYYl) | 3:00 | 2022-09-02 | 2023-11-17 |
 | [Last Call 2](https://open.spotify.com/track/0li4HOpLhTA5YlEz4jUPOj) | [gambino M](https://open.spotify.com/artist/0eyPSClzklAcWC8maQbHiQ) | [Last Call 2](https://open.spotify.com/album/7d4zf1MRpZTrUx0RWqCV05) | 2:00 | 2022-04-15 | 2022-09-17 |
-| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 |  |
+| [Last Mission](https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv) | [Svanen](https://open.spotify.com/artist/2YuspxUFYn3GTgnk5boTvi) | [Last Mission](https://open.spotify.com/album/2yE00pVDJf10PO5Zop9Akg) | 3:07 | 2022-04-15 | 2024-12-09 |
 | [Lastly](https://open.spotify.com/track/4YS0gtYzdEVp2lUfvvnFXS) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Lastly](https://open.spotify.com/album/4aD6nKJleOgIcFLUN9eYry) | 2:05 | 2023-01-13 | 2023-11-24 |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-15 | 2022-09-03 |
 | [Late Night Jams](https://open.spotify.com/track/5j2yseMUjUsSFLWEI1nihH) | [Ouija Chords](https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT) | [Late Night Jams](https://open.spotify.com/album/3alL8x7PTdVr4gqr7lUQuf) | 1:49 | 2022-09-16 | 2023-10-20 |
@@ -594,6 +595,7 @@
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2022-04-15 | 2022-09-03 |
 | [out there](https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [out there](https://open.spotify.com/album/4jUQoI5Gb7IpUWeIEVaBen) | 2:10 | 2022-04-15 | 2023-10-13 |
+| [Outer Space](https://open.spotify.com/track/0MF8wPjQiBbEnJAJ2dO2k7) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH) | [Outer Space](https://open.spotify.com/album/6NDKjbezHf29zOT3gFzI3D) | 2:27 | 2024-12-06 |  |
 | [outta pocket](https://open.spotify.com/track/3K9nYguUdYNPB8APzCAk7R) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [outta pocket](https://open.spotify.com/album/1c8PXZmTKvn1JER2EaKjg8) | 1:37 | 2023-04-03 | 2023-09-29 |
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2022-04-15 | 2024-09-27 |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2022-09-09 | 2023-11-17 |

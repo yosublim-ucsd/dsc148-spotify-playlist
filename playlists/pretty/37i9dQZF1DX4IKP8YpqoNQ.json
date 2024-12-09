@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30328,
+  "num_followers": 30329,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
         "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 210600,
       "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 271666,
-      "name": "You've Got a Friend - Live",
-      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -348,6 +332,38 @@
       "added_at": "2024-10-25 07:48:43",
       "album": {
         "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 271666,
+      "name": "You've Got a Friend - Live",
+      "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
       "artists": [
@@ -395,38 +411,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "The Circle Session, 2023",
         "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 308066,
       "name": "Misty Blue - Live",
       "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -535,22 +551,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 310973,
       "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
       "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -599,22 +615,6 @@
       "duration_ms": 145294,
       "name": "Horsepower For The Streets - Acoustic String Version",
       "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At The London Palladium",
-        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 381626,
-      "name": "Let's Get It On - Live At The London Palladium/1976",
-      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 274306,
       "name": "St. James Infirmary - Live/Remastered",
       "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live At The London Palladium",
+        "url": "https://open.spotify.com/album/5PY79lSefhMwfRU4v2fIjU"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 381626,
+      "name": "Let's Get It On - Live At The London Palladium/1976",
+      "url": "https://open.spotify.com/track/0BkJY3UsoBYPCwKBl2ate3"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live At The Jazz Cafe, London",
         "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 645040,
       "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
         "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 220672,
       "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
       "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "In Performance",
-        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
-      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 235357,
       "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
       "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "In Performance",
+        "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
+      "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 299938,
-      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
         "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 299938,
+      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "WAR Live",
         "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 366866,
       "name": "The Cisco Kid - Live Version",
       "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Tell Me More And More And Then Some",
+      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1511,38 +1511,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Simply The Best: Live!",
-        "url": "https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
-      "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 252906,
-      "name": "Dr. Feelgood (Love Is Serious Business) - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/1wNTVn4fnAd5Iyt1eT2Wy8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Curtis in Chicago - Recorded Live!",
         "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
       },
@@ -1559,6 +1527,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Simply The Best: Live!",
+        "url": "https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
+      "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 548378,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 252906,
+      "name": "Dr. Feelgood (Love Is Serious Business) - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/1wNTVn4fnAd5Iyt1eT2Wy8"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Come To My Door (Live at Levon Helm Studios)",
-        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 341133,
-      "name": "Come To My Door - Live at Levon Helm Studios",
-      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live: 1989 Memphis Music & Heritage Festival",
         "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 696666,
       "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
       "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Come To My Door (Live at Levon Helm Studios)",
+        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 341133,
+      "name": "Come To My Door - Live at Levon Helm Studios",
+      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
     },
     {
       "added_at": "2024-10-25 07:48:43",

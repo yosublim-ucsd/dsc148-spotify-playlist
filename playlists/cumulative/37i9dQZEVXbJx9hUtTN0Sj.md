@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-1,066 songs - 2 day 6 hr 22 min
+1,067 songs - 2 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Bonus](https://open.spotify.com/track/3KXeTMIdec8G6rclrOFKTL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Jantje](https://open.spotify.com/artist/4qkXUou0EQ56wmcais8uwJ) | [Bonus](https://open.spotify.com/album/78BcIlHd26IcfnBgOKK2jQ) | 2:10 | 2024-03-06 | 2024-04-03 |
 | [BOOYAKASHA](https://open.spotify.com/track/2Tr3E5pg3IGC64zrihS5Vf) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [BOOYAKASHA](https://open.spotify.com/album/53ZoT7nBjTNDuQYqo0TQrX) | 2:13 | 2024-06-01 | 2024-06-13 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-11-12 |  |
+| [Both Sides Now](https://open.spotify.com/track/1pjATX7sbd6Y4jMVqIvzHk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Both Sides Now](https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ) | 5:45 | 2024-12-08 |  |
 | [Bottega](https://open.spotify.com/track/0iCQMR9dp2SD8fwoavT5z4) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:58 | 2024-05-06 | 2024-05-08 |
 | [Bottega](https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Bottega](https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv) | 2:58 | 2024-03-17 | 2024-04-24 |
 | [Break ‘Em All](https://open.spotify.com/track/1hH8ByI9BkzG8ASsQJoqcH) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Break 'Em All](https://open.spotify.com/album/1eZMBwcCn2tf7sWn8Ug94a) | 3:33 | 2024-07-06 | 2024-07-08 |
@@ -416,7 +417,7 @@
 | [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 | 2024-08-20 | 2024-08-26 |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-04-30 | 2024-05-14 |
 | [HIND'S HALL](https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [HIND'S HALL](https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB) | 2:48 | 2024-05-28 | 2024-06-08 |
-| [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 | 2024-11-28 |  |
+| [Hinoki Wood](https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 1:34 | 2024-11-28 | 2024-12-09 |
 | [Hit The Floor](https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Hit The Floor](https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76) | 2:49 | 2024-07-12 | 2024-07-22 |
 | [Hm Hm hm](https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [VENIN](https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz) | 2:11 | 2024-09-10 | 2024-10-02 |
 | [Hoje em Dia é Difícil Encontrar \- Versão BH](https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc) | [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [DJ DAVY FELIPE](https://open.spotify.com/artist/3lcoMONMPxWP4WzYYK403m), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Hoje em Dia é Difícil Encontrar \(Versão BH\)](https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE) | 1:28 | 2024-12-07 |  |

@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 234106,
       "name": "Arr\u00eate tes mani\u00e8res",
       "url": "https://open.spotify.com/track/3WLhDVL6DvBEiM7WOThwJt"
@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5894,7 +5894,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 148186,
       "name": "Boulot",
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
@@ -17746,7 +17746,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 48946,
       "name": "Interlude - Avversita",
       "url": "https://open.spotify.com/track/5v8WSUlt8Qvz4SX1kWN1R5"
@@ -17764,7 +17764,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 182346,
       "name": "Interlude - Jour d\u2019octobre",
       "url": "https://open.spotify.com/track/5sOGq08wIoGwU5IgVLN1Ka"
@@ -17872,7 +17872,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 68146,
       "name": "Intro - Ego sum",
       "url": "https://open.spotify.com/track/5Oj5KC5F1FvZD8qoonjbkj"
@@ -18650,7 +18650,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 226946,
       "name": "Je m'habille pas en Versace",
       "url": "https://open.spotify.com/track/3N5cjze4WLrSsj53vFQwjP"
@@ -18794,7 +18794,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 185533,
       "name": "Je veux que toi",
       "url": "https://open.spotify.com/track/0TGUKOXoQp6aEIkL3xEjLR"
@@ -21420,7 +21420,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -23472,7 +23472,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 270360,
       "name": "Lumi\u00e8re blanche (Ad Finem)",
       "url": "https://open.spotify.com/track/4DN2XME2ip9fGnuwq5tbbL"
@@ -24454,7 +24454,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 192182,
       "name": "Malya",
       "url": "https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r"
@@ -25324,6 +25324,24 @@
       "duration_ms": 162992,
       "name": "Memories (feat. Kid Cudi) - 2021 Remix",
       "url": "https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa"
+    },
+    {
+      "album": {
+        "name": "Menace fant\u00f4me",
+        "url": "https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179352,
+      "name": "Menace fant\u00f4me",
+      "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
     },
     {
       "album": {
@@ -26418,7 +26436,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 191280,
       "name": "Montblanc",
       "url": "https://open.spotify.com/track/3rWXTIaa1VwHcUVY1zgAHi"
@@ -28956,7 +28974,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
@@ -28974,7 +28992,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/7EOSnXbF5vxwm4L1T20lfk"
@@ -29662,7 +29680,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 169256,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
@@ -30836,7 +30854,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 246978,
       "name": "PONA NINI",
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
@@ -32300,7 +32318,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 196334,
       "name": "Recommence-moi",
       "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
@@ -34758,7 +34776,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -41304,7 +41322,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 268240,
       "name": "Y'a plus de reconnaissance",
       "url": "https://open.spotify.com/track/1YaKohkxTv9PJyFfLBdPTQ"

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Press Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,798 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,804 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Wanna Talk About Love](https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8) | [Forever Ends Here](https://open.spotify.com/artist/67ai9bHZKueFEXQhqxXzfq) | [Don't Wanna Talk About Love](https://open.spotify.com/album/0jJwlSGBMUQ2FE4x3yQEkM) | 3:19 |
-| 2 | [Wasted Days](https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Wasted Days](https://open.spotify.com/album/4CV0mSYKXJsLW8ZEfNZ04E) | 3:19 |
-| 3 | [Everybody's Listening to the Radio Now](https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Everybody's Listening to the Radio Now](https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R) | 5:33 |
-| 4 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 |
-| 5 | [Is This A Robbery](https://open.spotify.com/track/0Qpk2lc8yEQK1xayGwQWWa) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Sirens](https://open.spotify.com/album/238u1n8IgczzXXiGWkiKOn) | 3:36 |
-| 6 | [Never Know](https://open.spotify.com/track/4OeKxxRK8khI2hEwiQtf65) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Never Know](https://open.spotify.com/album/7npoexhJLabaBZMQHedxGy) | 3:33 |
+| 1 | [Wasted Days](https://open.spotify.com/track/0hFQpI7Y0yDxUFZ8PNCMvu) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Wasted Days](https://open.spotify.com/album/4CV0mSYKXJsLW8ZEfNZ04E) | 3:19 |
+| 2 | [Everybody's Listening to the Radio Now](https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Everybody's Listening to the Radio Now](https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R) | 5:33 |
+| 3 | [Nintendo](https://open.spotify.com/track/4gXOQMPhk5B1h0hXcT5oQD) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Nintendo](https://open.spotify.com/album/1hiENPjpnZ7ih4hMKTbjEy) | 2:21 |
+| 4 | [Is This A Robbery](https://open.spotify.com/track/0Qpk2lc8yEQK1xayGwQWWa) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Sirens](https://open.spotify.com/album/238u1n8IgczzXXiGWkiKOn) | 3:36 |
+| 5 | [Never Know](https://open.spotify.com/track/4OeKxxRK8khI2hEwiQtf65) | [Lucky](https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp) | [Never Know](https://open.spotify.com/album/7npoexhJLabaBZMQHedxGy) | 3:33 |
+| 6 | [Don't Wanna Talk About Love](https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8) | [Forever Ends Here](https://open.spotify.com/artist/67ai9bHZKueFEXQhqxXzfq) | [Don't Wanna Talk About Love](https://open.spotify.com/album/0jJwlSGBMUQ2FE4x3yQEkM) | 3:19 |
 | 7 | [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 |
 | 8 | [High Voltage Anxiety](https://open.spotify.com/track/6AQwb0d5wgyNQEwIpsjd4y) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [High Voltage Anxiety](https://open.spotify.com/album/3KfGy5Pp106mG5wgdaMX8b) | 3:40 |
 | 9 | [Parched](https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Parched](https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN) | 3:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 100 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 |
 | 101 | [HEXXX](https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [Mutation](https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2) | 2:44 |
 
-Snapshot ID: `Z1Gj0AAAAAB/EiUepQqjZsfZhCHYooIf`
+Snapshot ID: `Z1Yj5gAAAACkl9OZVMf6GMrd4ljPj8Ed`

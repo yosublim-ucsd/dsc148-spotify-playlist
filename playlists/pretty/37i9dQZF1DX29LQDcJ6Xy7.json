@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 340113,
+  "num_followers": 340187,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 218593,
+      "name": "Dicke Titten",
+      "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Pretty Hate Machine",
         "url": "https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Zeit",
-        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 218593,
-      "name": "Dicke Titten",
-      "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -311,38 +311,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -375,6 +343,38 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/0XfNjyJcb7d2ZAscVM4K7J"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt",
       "url": "https://open.spotify.com/track/7AbeYC9dss7l0YtQz9fWy0"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 255845,
+      "name": "Zeig dich",
+      "url": "https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -455,6 +471,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "Machines Of Loving Grace",
+          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
+        }
+      ],
+      "duration_ms": 240159,
+      "name": "Golgotha Tenement Blues",
+      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "With Teeth",
         "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
@@ -487,38 +519,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 255845,
-      "name": "Zeig dich",
-      "url": "https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "Machines Of Loving Grace",
-          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
-        }
-      ],
-      "duration_ms": 240159,
-      "name": "Golgotha Tenement Blues",
-      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Bites",
         "url": "https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 416706,
       "name": "Assimilate",
       "url": "https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Deutschland",
+        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 322339,
+      "name": "Deutschland",
+      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -563,22 +579,6 @@
       "duration_ms": 436000,
       "name": "We're In This Together",
       "url": "https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "KE*A*H** (Psalm 69)",
-        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "Just One Fix",
-      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "KE*A*H** (Psalm 69)",
+        "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "Just One Fix",
+      "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Anima Inferna",
         "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
       },
@@ -631,38 +647,6 @@
       "duration_ms": 217826,
       "name": "Liar",
       "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Deutschland",
-        "url": "https://open.spotify.com/album/3R7mUm3SZhV3BIIY7FMrU1"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 322339,
-      "name": "Deutschland",
-      "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "The Mind Is a Terrible Thing to Taste",
-        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
-      },
-      "artists": [
-        {
-          "name": "Ministry",
-          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
-        }
-      ],
-      "duration_ms": 301426,
-      "name": "Thieves",
-      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -715,22 +699,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Lost Highway",
-        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 315440,
-      "name": "The Perfect Drug",
-      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Gravity Kills",
         "url": "https://open.spotify.com/album/7pOydrQchgIb8t6G9td2pm"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 182000,
       "name": "Go With The Flow",
       "url": "https://open.spotify.com/track/0ogtgveW3JxxtPE4YVJPaj"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "The Perfect Drug",
+      "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "The Mind Is a Terrible Thing to Taste",
+        "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "duration_ms": 301426,
+      "name": "Thieves",
+      "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Confessions of a Knife",
+        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 331437,
+      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
+      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "www.pitchshifter.com",
         "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Confessions of a Knife",
-        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
+        "name": "Terapunk",
+        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
       "artists": [
         {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+          "name": "Dope Stars Inc.",
+          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
         }
       ],
-      "duration_ms": 331437,
-      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
-      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
+      "duration_ms": 238590,
+      "name": "Many Thanks",
+      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -871,22 +887,6 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Terapunk",
-        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
-      },
-      "artists": [
-        {
-          "name": "Dope Stars Inc.",
-          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
-        }
-      ],
-      "duration_ms": 238590,
-      "name": "Many Thanks",
-      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Merchant of the Void",
-        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
-      },
-      "artists": [
-        {
-          "name": "3TEETH",
-          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
-        },
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 212814,
-      "name": "Merchant of the Void",
-      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Bits and Razors",
         "url": "https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb"
       },
@@ -1055,6 +1035,26 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Merchant of the Void",
+        "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
+      },
+      "artists": [
+        {
+          "name": "3TEETH",
+          "url": "https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2"
+        },
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 212814,
+      "name": "Merchant of the Void",
+      "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Sins Of The Flesh",
         "url": "https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Ich wei\u00df es nicht",
-        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
-      },
-      "artists": [
-        {
-          "name": "Lindemann",
-          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
-        }
-      ],
-      "duration_ms": 289451,
-      "name": "Ich wei\u00df es nicht",
-      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Supernaut",
         "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 402706,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Ich wei\u00df es nicht",
+        "url": "https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6"
+      },
+      "artists": [
+        {
+          "name": "Lindemann",
+          "url": "https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv"
+        }
+      ],
+      "duration_ms": 289451,
+      "name": "Ich wei\u00df es nicht",
+      "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Chasing Ghosts",
-        "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
-      },
-      "artists": [
-        {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
-        }
-      ],
-      "duration_ms": 243814,
-      "name": "I Am Nothing",
-      "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Chasing Ghosts",
+        "url": "https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 243814,
+      "name": "I Am Nothing",
+      "url": "https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Re-Industrialized",
-        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Recharger",
-      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Echogenetic",
         "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 358520,
       "name": "Killing Grounds",
       "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Re-Industrialized",
+        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Recharger",
+      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Sieben",
-        "url": "https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ"
-      },
-      "artists": [
-        {
-          "name": "Schwarzer Engel",
-          "url": "https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Endzeit",
-      "url": "https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "The Algorithm",
         "url": "https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 217071,
       "name": "Obliteration",
       "url": "https://open.spotify.com/track/3juffqyuhqPTonmbbi4tDs"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Sieben",
+        "url": "https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ"
+      },
+      "artists": [
+        {
+          "name": "Schwarzer Engel",
+          "url": "https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Endzeit",
+      "url": "https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi"
     },
     {
       "added_at": "2024-10-17 23:31:08",

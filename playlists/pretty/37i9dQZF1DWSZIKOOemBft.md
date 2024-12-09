@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZIKOOemBft.md) - [plain]
 
 > Anguished with a tragic past, this character’s demeanor may intimidate some, but deep down they just need a hug.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,087 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,139 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

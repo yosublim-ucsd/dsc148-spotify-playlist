@@ -4,7 +4,7 @@
 
 > 
 
-828 songs - 1 day 15 hr 49 min
+829 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Gain Clout](https://open.spotify.com/track/4EgL00l7AjD7mWuW4JMJ7r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 2:05 | 2024-08-07 |  |
 | [Gallo](https://open.spotify.com/track/6MxQI7I1R4oXwRdZ09g4Yy) | [Kankan](https://open.spotify.com/artist/7si09ku22hK6h4WQmvlVAb), [BenjiCold](https://open.spotify.com/artist/0qqFi0cuGlFtBzmRIQOQa9) | [Gallo](https://open.spotify.com/album/0aKpQa6FrzHjn1eicljFUR) | 1:42 | 2022-12-21 | 2023-05-09 |
 | [gang](https://open.spotify.com/track/4ygYHBVVDwA2QBRrO74Sod) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:46 | 2022-11-07 | 2023-12-14 |
+| [Gang](https://open.spotify.com/track/7m2fy0MughZKLySpzhq8bt) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj), [LOOK KILLA](https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf) | [Lost Files 3](https://open.spotify.com/album/1nhYrOuf367Rl1VDQ0iAuS) | 2:49 | 2024-12-08 |  |
 | [Gang Shit](https://open.spotify.com/track/0igHhcoLY0yHVPHiPvGuXx) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:40 | 2024-12-06 |  |
 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 | 2024-10-18 |  |
 | [Geeked Up](https://open.spotify.com/track/6MEvdgFV9t2k6LqsAAUDHU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Boy Barbie](https://open.spotify.com/album/4qp7MpTf0DBrHmnHROj99y) | 1:43 | 2022-03-25 | 2023-05-09 |

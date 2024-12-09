@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:5HK6QtizXJzCmoYTkvFRik">Ndotz</a>
 
-1,096 songs - 2 day 2 hr 43 min
+1,097 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,7 +668,7 @@
 | [No Air](https://open.spotify.com/track/6UqwQ2g7TO7Yr862JH2Jv0) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [No Air](https://open.spotify.com/album/3p1rIfcot8bTQZxYAjNrLi) | 3:22 | 2023-09-29 | 2024-02-10 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2022-10-29 |
 | [No Extensions](https://open.spotify.com/track/0ehvurNppjZfd1Cy73sHIQ) | [Lil Dre6o](https://open.spotify.com/artist/3HT9jbDp89eu9Dxi3vAZzG), [Lil RT](https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H) | [Taking It There 2](https://open.spotify.com/album/3KUVvQfGYo8004QbyoF5zO) | 1:53 | 2024-03-01 | 2024-06-22 |
-| [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 | 2024-11-22 |  |
+| [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 | 2024-11-22 | 2024-12-09 |
 | [NO PLACE TO GO](https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L) | [Gengis Don](https://open.spotify.com/artist/4R4iFqELWPg6TAnnD6ccpI), [witSmusic](https://open.spotify.com/artist/6H4uK8igktMYWfXX3PNEEW) | [NO PLACE TO GO](https://open.spotify.com/album/59wuLv8LEXoekRowJwkpYp) | 3:21 | 2022-09-16 | 2023-01-21 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-12-06 |  |
 | [No Umbrella](https://open.spotify.com/track/0jmfok0FNoiBROJt8INpYs) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Kenny World](https://open.spotify.com/album/2m6SZ6zZKGGk2nfmvChy28) | 2:53 | 2024-01-19 | 2024-03-09 |
@@ -730,6 +730,7 @@
 | [Passenger Princess \(feat\. NLE Choppa\)](https://open.spotify.com/track/7fmec76XrfKpRSsLdlAx41) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Detour](https://open.spotify.com/album/1wlh1MAxWgY5Bl18ClcN5v) | 2:43 | 2024-02-23 | 2024-04-27 |
 | [PASSENGER SEAT PRINCESS \(feat\. Destin Laurel\)](https://open.spotify.com/track/6hfujWCUcaL9EW8XXUAFHF) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [PASSENGER SEAT PRINCESS](https://open.spotify.com/album/1EFVb2KHsYjqaxSAivNpDf) | 2:45 | 2024-08-16 | 2024-10-19 |
 | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/track/01ma2sJKGaq8JA4KEwtFkh) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Payroll \(feat\. Mike Dimes\)](https://open.spotify.com/album/0eUNLpn5N8G0e29kpUdo5X) | 3:28 | 2023-10-25 | 2023-11-01 |
+| [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 | 2024-12-08 |  |
 | [Pelicans](https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pelicans](https://open.spotify.com/album/70ORb8kKxoDAXwdSADTVII) | 3:50 | 2023-01-13 | 2023-07-22 |
 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 | 2022-05-20 | 2022-09-17 |
 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2023-02-24 | 2023-08-26 |

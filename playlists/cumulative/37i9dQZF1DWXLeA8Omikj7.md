@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,010 songs - 3 day 0 hr 45 min
+1,011 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [Mollie \(hear your name\)](https://open.spotify.com/track/4RK8ACIo6MlEv8WyMIoxOa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:01 | 2023-03-24 | 2024-06-14 |
 | [Moment](https://open.spotify.com/track/5qVwiIw05xLv3IwTtqdd5S) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Two Fold Pt\. 2](https://open.spotify.com/album/6WAm1Z7pv03iivo9jCMePQ) | 3:12 | 2019-05-26\* | 2020-08-26 |
 | [Moments](https://open.spotify.com/track/2LAmMdTuNzuwJGyPgCosdt) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Moments](https://open.spotify.com/album/29h6YzXV7UUXJRdpnQaJ9P) | 3:20 | 2019-05-26\* | 2020-10-21 |
-| [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2019-06-19\* |  |
+| [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 | 2019-06-19\* | 2024-12-09 |
 | [Moments Of Clarity](https://open.spotify.com/track/4uJXr3G8CR8dkjmUKj7iKS) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Moments Of Clarity](https://open.spotify.com/album/0TcAuiwVRu11l3MejH55iV) | 4:25 | 2024-11-15 |  |
 | [Monomom](https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Monomom](https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW) | 5:31 | 2021-12-17 | 2022-05-31 |
 | [Moon In Your Eye](https://open.spotify.com/track/2H5hsIskRNVnO5IIbOfcko) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:14 | 2022-09-09 | 2024-04-19 |
@@ -1006,6 +1006,7 @@
 | [World Turns](https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [World Turns](https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn) | 5:23 | 2022-09-09 | 2022-10-16 |
 | [World Turns](https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 5:23 | 2022-09-09 | 2024-04-19 |
 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-15 | 2024-08-04 |
+| [Xerrox Ascent II](https://open.spotify.com/track/0CxJ9rx38Ie7NGO3YEEPgw) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [Xerrox, Vol.5](https://open.spotify.com/album/0nXbVpD63ylK8ZfrdELwlb) | 6:08 | 2024-12-04 |  |
 | [XX Intro](https://open.spotify.com/track/46MzZcKKqhiAyNjDQnoIsl) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/7Bp97g4nrxVcW8kGNffnwy) | 3:07 | 2023-11-10 | 2024-04-19 |
 | [XX Intro \- Original Mix](https://open.spotify.com/track/6PBjqYBDA09CG7WJm4sXKF) | [Kate Simko](https://open.spotify.com/artist/2KXLSIzI7CY7AJg5ARUOSb), [London Electronic Orchestra](https://open.spotify.com/artist/7K8x3XADxtiWL6hTiR2inf) | [Kate Simko & London Electronic Orchestra](https://open.spotify.com/album/4BIN17Mw2Bh1fbvQ5Egsii) | 3:07 | 2019-05-26\* | 2023-11-05 |
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |

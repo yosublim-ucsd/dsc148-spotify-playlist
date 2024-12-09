@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 201283,
+  "num_followers": 201399,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,50 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Shefali Alvares",
+          "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Badtameez Dil",
+      "url": "https://open.spotify.com/track/4eu27jAU2bbnyHUC3G75U8"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
+        "name": "Roy",
+        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Aditi Singh Sharma",
+          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+        }
+      ],
+      "duration_ms": 264854,
+      "name": "Sooraj Dooba Hain",
+      "url": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
         "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
       },
@@ -303,26 +347,6 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
-        "name": "Roy",
-        "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Aditi Singh Sharma",
-          "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
-        }
-      ],
-      "duration_ms": 264854,
-      "name": "Sooraj Dooba Hain",
-      "url": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -383,30 +407,6 @@
       "duration_ms": 179225,
       "name": "Coca Cola (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
-        "name": "Yeh Jawaani Hai Deewani",
-        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Shefali Alvares",
-          "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Badtameez Dil",
-      "url": "https://open.spotify.com/track/4eu27jAU2bbnyHUC3G75U8"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -491,6 +491,26 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
+        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
+      },
+      "artists": [
+        {
+          "name": "Ved Sharma",
+          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 287374,
+      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
-        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
-      },
-      "artists": [
-        {
-          "name": "Ved Sharma",
-          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 287374,
-      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -639,34 +639,6 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Nisha Mascarenhas",
-          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
-        },
-        {
-          "name": "Marianne D'Cruz Aiman",
-          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Kukkad",
-      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
       },
@@ -727,30 +699,6 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Garmi (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Varun Dhawan",
-          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
-      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
         "name": "Heer Aasmani (From \"Fighter\")",
         "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
       },
@@ -775,6 +723,58 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
+        "name": "Garmi (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Varun Dhawan",
+          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        }
+      ],
+      "duration_ms": 182738,
+      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Nisha Mascarenhas",
+          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
+        },
+        {
+          "name": "Marianne D'Cruz Aiman",
+          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Kukkad",
+      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -875,34 +875,6 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Hauli Hauli (From \"De De Pyaar De\")",
-        "url": "https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg"
-      },
-      "artists": [
-        {
-          "name": "Garry Sandhu",
-          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Mellow D",
-          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 209393,
-      "name": "Hauli Hauli (From \"De De Pyaar De\")",
-      "url": "https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -931,38 +903,30 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
+        "name": "Hauli Hauli (From \"De De Pyaar De\")",
+        "url": "https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
         },
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "Yaar Naa Miley",
-      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
-    },
-    {
-      "added_at": "2024-11-26 08:50:38",
-      "album": {
-        "name": "ONE (Original Never Ends)",
-        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
-      },
-      "artists": [
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 181764,
-      "name": "She Move It Like",
-      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
+      "duration_ms": 209393,
+      "name": "Hauli Hauli (From \"De De Pyaar De\")",
+      "url": "https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -983,6 +947,22 @@
       "duration_ms": 353676,
       "name": "Brothers Anthem",
       "url": "https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
+        "name": "ONE (Original Never Ends)",
+        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "She Move It Like",
+      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -1035,18 +1015,22 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
       "artists": [
         {
           "name": "Yo Yo Honey Singh",
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
+      "duration_ms": 243206,
+      "name": "Yaar Naa Miley",
+      "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -1119,6 +1103,26 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
+    },
+    {
+      "added_at": "2024-11-26 08:50:38",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Genda Phool (feat. Payal Dev)",
-        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
       },
       "artists": [
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         }
       ],
-      "duration_ms": 170769,
-      "name": "Genda Phool (feat. Payal Dev)",
-      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
     },
     {
       "added_at": "2024-11-26 08:50:38",
@@ -1199,26 +1199,30 @@
     {
       "added_at": "2024-11-26 08:50:38",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+        "url": "https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
         },
         {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         },
         {
-          "name": "Navraj Hans",
-          "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
         }
       ],
-      "duration_ms": 203881,
-      "name": "Chhote Chhote Peg",
-      "url": "https://open.spotify.com/track/3AQrBSjowqCFu2jiFFuGsv"
+      "duration_ms": 256040,
+      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+      "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
     }
   ],
   "unique_name": "Bollywood Workout",

@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Bad Bunny",
-  "num_followers": 886571,
+  "num_followers": 886555,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAAAuKRmLnkt/jINi07A9qn7G",
+  "snapshot_id": "Z1W5jQAAAAC+HDd19sJzSTuRcRG8VOy0",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -47,18 +47,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+        "name": "Mi Refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+      "duration_ms": 159404,
+      "name": "Mi Refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -83,6 +87,98 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "El Amor De Mi Herida",
+      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 126307,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/0tlRno64qEC6paxXI6NnZY"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/5HtYVhthYMAs9QxLSjG4pQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "TE VAS",
+        "url": "https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 167332,
+      "name": "TE VAS",
+      "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "gervonta",
         "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
       },
@@ -99,22 +195,126 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
         }
       ],
-      "duration_ms": 152078,
-      "name": "Lugar Perfeito",
-      "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
+      "duration_ms": 180693,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ohnana (AfroSalto Remix)",
+        "url": "https://open.spotify.com/album/0SVINwfQL7PIOdb2dKw4zi"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "AfroSalto",
+          "url": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Ohnana - AfroSalto Remix",
+      "url": "https://open.spotify.com/track/2NIiv6C5i9PCS6nf3rDWwA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Cobro",
+        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Cobro",
+      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "ETA (RMX)",
+        "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 462561,
+      "name": "ETA - RMX",
+      "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Lejos de la Ciudad (con Camilo)",
+        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187358,
+      "name": "Lejos de la Ciudad - con Camilo",
+      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -143,130 +343,38 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "\u00bfvienes o voy?",
+        "url": "https://open.spotify.com/album/74iSh4BaM0hX4Lj9zC1gIV"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 127500,
-      "name": "El Amor De Mi Herida",
-      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
+      "duration_ms": 168208,
+      "name": "\u00bfvienes o voy?",
+      "url": "https://open.spotify.com/track/67LS5RGUfwQMoi3uPfFm5u"
     },
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Cobro",
-        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
+        "name": "\u00bfQu\u00e9 nos Pas\u00f3? (Remix)",
+        "url": "https://open.spotify.com/album/4myQOfn2ZBEaD6tji4KHUy"
       },
       "artists": [
         {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Cobro",
-      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
         },
         {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Mi Refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "Mi Refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/0tlRno64qEC6paxXI6NnZY"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "3D",
-      "url": "https://open.spotify.com/track/5HtYVhthYMAs9QxLSjG4pQ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "El Tierno (feat. DFZM)",
-        "url": "https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "El Tierno (feat. DFZM)",
-      "url": "https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf"
+      "duration_ms": 201600,
+      "name": "\u00bfQu\u00e9 nos Pas\u00f3? - Remix",
+      "url": "https://open.spotify.com/track/6NpARqZJpHoknECMMpWqLG"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -291,26 +399,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ohnana (AfroSalto Remix)",
-        "url": "https://open.spotify.com/album/0SVINwfQL7PIOdb2dKw4zi"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "AfroSalto",
-          "url": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Ohnana - AfroSalto Remix",
-      "url": "https://open.spotify.com/track/2NIiv6C5i9PCS6nf3rDWwA"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "aeropuerto",
         "url": "https://open.spotify.com/album/7vACfiFTfFX3vBP5m4PvDb"
       },
@@ -327,22 +415,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "TE VAS",
-        "url": "https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6"
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 167332,
-      "name": "TE VAS",
-      "url": "https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU"
+      "duration_ms": 152078,
+      "name": "Lugar Perfeito",
+      "url": "https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -383,42 +471,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "\u00bfvienes o voy?",
-        "url": "https://open.spotify.com/album/74iSh4BaM0hX4Lj9zC1gIV"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 168208,
-      "name": "\u00bfvienes o voy?",
-      "url": "https://open.spotify.com/track/67LS5RGUfwQMoi3uPfFm5u"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Lejos de la Ciudad (con Camilo)",
-        "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187358,
-      "name": "Lejos de la Ciudad - con Camilo",
-      "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "ROJOFUEGO - Spotify Singles",
         "url": "https://open.spotify.com/album/5IlQTbEXM4RzyzBO2LfJ4i"
       },
@@ -435,22 +487,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 nos Pas\u00f3? (Remix)",
-        "url": "https://open.spotify.com/album/4myQOfn2ZBEaD6tji4KHUy"
+        "name": "El Tierno (feat. DFZM)",
+        "url": "https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6"
       },
       "artists": [
         {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         },
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
         }
       ],
-      "duration_ms": 201600,
-      "name": "\u00bfQu\u00e9 nos Pas\u00f3? - Remix",
-      "url": "https://open.spotify.com/track/6NpARqZJpHoknECMMpWqLG"
+      "duration_ms": 166857,
+      "name": "El Tierno (feat. DFZM)",
+      "url": "https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -471,38 +523,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "ETA (RMX)",
-        "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 462561,
-      "name": "ETA - RMX",
-      "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Coma Party",
         "url": "https://open.spotify.com/album/4sz5I9lk3UsOFug4iJgHVj"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 181335,
       "name": "Coma Party",
       "url": "https://open.spotify.com/track/12x2GnHVcOGJFIOV8ZJE3P"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 126307,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -823,6 +823,42 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Hora Dorada",
+      "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Un Amor de Verdad (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/12GKGaLucXuO97ZpISxquL"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        },
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 242659,
+      "name": "Un Amor de Verdad - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/6Nu2utEwVz7s3bcfmQNIuV"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "CARI\u00d1O [+7.7 M extra\u00f1\u00e1ndote]",
         "url": "https://open.spotify.com/album/40kcnwtLaQ3TrNK3bixGTa"
       },
@@ -1003,38 +1039,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/50cYslOkS29OQ2HMCdeVv5"
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/6Pfuc0C0rwMbuvAZGwJmhB"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Hora Dorada",
-      "url": "https://open.spotify.com/track/7bLISKzLksUNXPDdauDT9i"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Un Amor de Verdad (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/12GKGaLucXuO97ZpISxquL"
-      },
-      "artists": [
-        {
-          "name": "Santiago Cruz",
-          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
         },
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Sam Diem",
+          "url": "https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn"
         }
       ],
-      "duration_ms": 242659,
-      "name": "Un Amor de Verdad - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/6Nu2utEwVz7s3bcfmQNIuV"
+      "duration_ms": 192155,
+      "name": "Jamaica",
+      "url": "https://open.spotify.com/track/5SE7eaIevYFxIANFysjUbE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1167,26 +1187,6 @@
       "duration_ms": 180132,
       "name": "el vino y el tiempo",
       "url": "https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Sinergia",
-        "url": "https://open.spotify.com/album/6Pfuc0C0rwMbuvAZGwJmhB"
-      },
-      "artists": [
-        {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        },
-        {
-          "name": "Sam Diem",
-          "url": "https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn"
-        }
-      ],
-      "duration_ms": 192155,
-      "name": "Jamaica",
-      "url": "https://open.spotify.com/track/5SE7eaIevYFxIANFysjUbE"
     },
     {
       "added_at": "2024-12-06 05:00:00",

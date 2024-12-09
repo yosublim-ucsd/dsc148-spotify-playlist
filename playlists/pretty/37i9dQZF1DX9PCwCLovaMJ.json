@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1157,
+  "num_followers": 1166,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Veins",
         "url": "https://open.spotify.com/album/09vzk8zw3OLSn9brPuhdHS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 160000,
       "name": "Veins",
       "url": "https://open.spotify.com/track/3mpWWS9JlRWiHbxiKV4Vlo"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -703,138 +703,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "SAMESAME",
-        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
-      },
-      "artists": [
-        {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        },
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "SAMESAME",
-      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL"
-      },
-      "artists": [
-        {
-          "name": "Daghem",
-          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Nightrun",
-      "url": "https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Empty the Bags",
-        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Empty the Bags",
-      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Only Love",
-        "url": "https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud"
-      },
-      "artists": [
-        {
-          "name": "OLING",
-          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
-        }
-      ],
-      "duration_ms": 215085,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Without Calling",
-        "url": "https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 184157,
-      "name": "Without Calling",
-      "url": "https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Haunted Disc",
-        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Feel your love",
-      "url": "https://open.spotify.com/track/61S1qXu0XbNmwmVdqnThYs"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Don't Wanna Be Saved",
-        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 180436,
-      "name": "Don't Wanna Be Saved",
-      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/1US4uotVZa99jWjdXlyt9B"
       },
@@ -855,6 +723,70 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL"
+      },
+      "artists": [
+        {
+          "name": "Daghem",
+          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Empty the Bags",
+        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Empty the Bags",
+      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Nightrun",
+      "url": "https://open.spotify.com/track/4QsFvkrElAa4gbKN2VML5z"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Without Calling",
+        "url": "https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 184157,
+      "name": "Without Calling",
+      "url": "https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS"
       },
@@ -871,6 +803,74 @@
       "duration_ms": 169440,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Only Love",
+        "url": "https://open.spotify.com/album/1asQljRHSidWiazVxe3Bud"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "duration_ms": 215085,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/5lzoAofjjMVqeB3CLEzah4"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Feel your love",
+      "url": "https://open.spotify.com/track/61S1qXu0XbNmwmVdqnThYs"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "SAMESAME",
+        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "SAMESAME",
+      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Don't Wanna Be Saved",
+        "url": "https://open.spotify.com/album/5YjGk8T076PVMaQZQRpzts"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Don't Wanna Be Saved",
+      "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Fiend",
-        "url": "https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV"
-      },
-      "artists": [
-        {
-          "name": "Casper The Ghost",
-          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
-        }
-      ],
-      "duration_ms": 187610,
-      "name": "Fiend",
-      "url": "https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Crying Dove",
         "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 158552,
       "name": "Upset",
       "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Fiend",
+        "url": "https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV"
+      },
+      "artists": [
+        {
+          "name": "Casper The Ghost",
+          "url": "https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L"
+        }
+      ],
+      "duration_ms": 187610,
+      "name": "Fiend",
+      "url": "https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91259,
+  "num_followers": 91264,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,30 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Queens Everywhere (Cast Version)",
+        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "The Cast of RuPaul's Drag Race, Season 11",
+          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
+        },
+        {
+          "name": "Markaholic",
+          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
+        }
+      ],
+      "duration_ms": 197422,
+      "name": "Queens Everywhere - Cast Version",
+      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "The Blonde & Pink Albums",
         "url": "https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 204923,
       "name": "A Prueba De Todo",
       "url": "https://open.spotify.com/track/5K9629jLBvdabDmmhdCLui"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Queens Everywhere (Cast Version)",
-        "url": "https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "The Cast of RuPaul's Drag Race, Season 11",
-          "url": "https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i"
-        },
-        {
-          "name": "Markaholic",
-          "url": "https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu"
-        }
-      ],
-      "duration_ms": 197422,
-      "name": "Queens Everywhere - Cast Version",
-      "url": "https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "One Stone",
-        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 185744,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Bitch Like Me",
         "url": "https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 156923,
       "name": "Bitch Like Me",
       "url": "https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "One Stone",
+        "url": "https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -431,22 +431,6 @@
       "duration_ms": 189440,
       "name": "Excuse the Beauty",
       "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Cr\u00e8me Br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
@@ -523,42 +523,6 @@
       "duration_ms": 172488,
       "name": "Cr\u00e8me Br\u00fbl\u00e9e",
       "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Weight (feat. Epiphany Mattel)",
-        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
-      },
-      "artists": [
-        {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
-        },
-        {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Weight (feat. Epiphany Mattel)",
-      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Shadow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -611,6 +575,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Weight (feat. Epiphany Mattel)",
+        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
+      },
+      "artists": [
+        {
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+        },
+        {
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Weight (feat. Epiphany Mattel)",
+      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Hurt My Feelings",
         "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -803,38 +803,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "My Pussy Is Like a Peach",
-        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
-      },
-      "artists": [
-        {
-          "name": "Choriza May",
-          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
-        }
-      ],
-      "duration_ms": 232636,
-      "name": "My Pussy Is Like a Peach",
-      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
-      },
-      "artists": [
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        }
-      ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Outside In",
         "url": "https://open.spotify.com/album/6VT6gpzqEWSk5r0IulfDyR"
       },
@@ -851,6 +819,38 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "My Pussy Is Like a Peach",
+        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
+      },
+      "artists": [
+        {
+          "name": "Choriza May",
+          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
+        }
+      ],
+      "duration_ms": 232636,
+      "name": "My Pussy Is Like a Peach",
+      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn"
       },
@@ -863,6 +863,42 @@
       "duration_ms": 153562,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -895,58 +931,6 @@
       "duration_ms": 209603,
       "name": "Zubi Zubi Zubi",
       "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
-      },
-      "artists": [
-        {
-          "name": "Courtney Act",
-          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -991,6 +975,22 @@
       "duration_ms": 193320,
       "name": "AAA (feat. Alaska Thunderfuck, Courtney Act & Willam )",
       "url": "https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+      },
+      "artists": [
+        {
+          "name": "Courtney Act",
+          "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
+        }
+      ],
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Diamond Crowned Queen",
-        "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Diamond Crowned Queen - Original",
-      "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Diamond Crowned Queen",
+        "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Diamond Crowned Queen - Original",
+      "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
-      },
-      "artists": [
-        {
-          "name": "Sherry Vine",
-          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Part 1: The Damage",
         "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc"
+      },
+      "artists": [
+        {
+          "name": "Sherry Vine",
+          "url": "https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
+      },
+      "artists": [
+        {
+          "name": "Veronica Green",
+          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1343,22 +1359,6 @@
       "duration_ms": 201904,
       "name": "Low",
       "url": "https://open.spotify.com/track/2TqWayWYGNjqfTpapyveyu"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/1YDDGpnyBX7xVgYU7aC70G"
-      },
-      "artists": [
-        {
-          "name": "Veronica Green",
-          "url": "https://open.spotify.com/artist/0k1GeY54jsW7lHyUOvresl"
-        }
-      ],
-      "duration_ms": 251250,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
     },
     {
       "added_at": "2024-05-31 17:55:47",

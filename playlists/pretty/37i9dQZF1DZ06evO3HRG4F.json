@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 4927,
+  "num_followers": 4929,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAB7ht3ggxb/rwrVbLdoLhl9",
+  "snapshot_id": "Z1OQAAAAAADb97ZCzCZeWeFN0jzXkPpI",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 2",
-        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Transmetal",
-          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Cayendo",
-      "url": "https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
         "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
       },
@@ -539,22 +519,6 @@
       "duration_ms": 320306,
       "name": "Todas Esas Lagrimas - En Vivo",
       "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Y Sufrir\u00e1s",
-      "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
     },
     {
       "added_at": null,
@@ -575,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "Y Sufrir\u00e1s",
+      "url": "https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 175906,
       "name": "La Rubia",
       "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Transmetal",
+          "url": "https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proceso: Mi Trabajo",
-        "url": "https://open.spotify.com/album/6gJ7C6p4DifEuVGd4OjI5h"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 353973,
-      "name": "Todas Estas L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
         "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
+        "name": "Proceso: Mi Trabajo",
+        "url": "https://open.spotify.com/album/6gJ7C6p4DifEuVGd4OjI5h"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 353973,
+      "name": "Todas Estas L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq"
     },
     {
       "added_at": null,
@@ -691,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 2",
-        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
         }
       ],
-      "duration_ms": 192333,
-      "name": "Estoy Tan Solo",
-      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
       "duration_ms": 214853,
       "name": "Derramando Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Estoy Tan Solo",
+      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
     },
     {
       "added_at": null,

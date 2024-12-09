@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,561 likes - 83 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,579 likes - 83 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 82 | [When You Call](https://open.spotify.com/track/00AitwJWRhIH5IuNLGYLVD) | [Clay Western](https://open.spotify.com/artist/2P6v6oHKqOcoK4tMlfQgHr) | [When You Call](https://open.spotify.com/album/3RrkhujnaChJgMJzKS5Wbd) | 3:13 |
 | 83 | [FTW](https://open.spotify.com/track/1wEVMxRVE27sU9sZSXj0Kq) | [ANESU](https://open.spotify.com/artist/2dBAfmK5RxUTftfnjDtfvO) | [Bad Habits](https://open.spotify.com/album/00kH5lml7Sd34jYlAalnsx) | 2:53 |
 
-Snapshot ID: `Z1GmbAAAAAC9e7rvbYloPMComh3H1fkR`
+Snapshot ID: `Z1YlPQAAAADce1bDHGw2sT9ejKs2rxmX`

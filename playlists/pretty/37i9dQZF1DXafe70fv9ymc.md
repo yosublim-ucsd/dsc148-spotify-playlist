@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > you give me shiverssss
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,334 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,335 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 14 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 |
 | 15 | [Equestrian Love](https://open.spotify.com/track/3dNaSqy9JgCElA1QF4TjYp) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Renascentia](https://open.spotify.com/album/5R7cUADCzBIPUfq0hrSv2N) | 3:24 |
 | 16 | [PAST MYSELF](https://open.spotify.com/track/7dHrE8omPpvgst2M9ZEQmf) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [PAST MYSELF](https://open.spotify.com/album/0ZXOuk6KcYEGrYoXTlh3y2) | 2:40 |
-| 17 | [Slow Down \(with Teezo Touchdown\)](https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:50 |
+| 17 | [Slow Down](https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:50 |
 | 18 | [Tell No One](https://open.spotify.com/track/3kdZmjXZCsZGvYgSiigWhn) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [KAIEN](https://open.spotify.com/album/71miAiUyj1kOLJ0yiLgvip) | 3:40 |
 | 19 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 |
 | 20 | [Wishes And Butterflies](https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Is Contagious](https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV) | 1:24 |

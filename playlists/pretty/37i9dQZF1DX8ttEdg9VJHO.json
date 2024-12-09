@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354494,
+  "num_followers": 354497,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-11-14 08:16:40",
       "album": {
-        "name": "Our Song",
-        "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },
       "artists": [
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 163733,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2024-11-14 08:16:40",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-11-14 08:16:40",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+        "name": "Our Song",
+        "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+      "duration_ms": 163733,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
     },
     {
       "added_at": "2024-11-14 08:16:40",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-14 08:16:40",
       "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+    },
+    {
+      "added_at": "2024-11-14 08:16:40",
+      "album": {
         "name": "Kuss.",
         "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 169400,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
-    },
-    {
-      "added_at": "2024-11-14 08:16:40",
-      "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-11-14 08:16:40",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-14 08:16:40",
       "album": {
-        "name": "Love U Again",
-        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Love U Again",
-      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
-    },
-    {
-      "added_at": "2024-11-14 08:16:40",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2024-11-14 08:16:40",
+      "album": {
+        "name": "Love U Again",
+        "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
+      },
+      "artists": [
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Love U Again",
+      "url": "https://open.spotify.com/track/3fm0hpNBju8GRBC4iLZHHZ"
     },
     {
       "added_at": "2024-11-14 08:16:40",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-14 08:16:40",
       "album": {
+        "name": "Take My Phone Away",
+        "url": "https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 146800,
+      "name": "Take My Phone Away",
+      "url": "https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC"
+    },
+    {
+      "added_at": "2024-11-14 08:16:40",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
-    },
-    {
-      "added_at": "2024-11-14 08:16:40",
-      "album": {
-        "name": "We Can Be Just Friends",
-        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "We Can Be Just Friends",
-      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
     }
   ],
   "unique_name": "Feelgood Pop",

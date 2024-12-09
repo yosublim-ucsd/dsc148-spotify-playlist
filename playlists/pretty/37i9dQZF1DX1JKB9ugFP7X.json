@@ -123,38 +123,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Nuestro Vuelo",
-        "url": "https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI"
-      },
-      "artists": [
-        {
-          "name": "BADS",
-          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
-        }
-      ],
-      "duration_ms": 170848,
-      "name": "Nuestro Vuelo",
-      "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -171,18 +139,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Paralelos",
-        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
+        "name": "Nuestro Vuelo",
+        "url": "https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI"
       },
       "artists": [
         {
-          "name": "Letizia Vocos",
-          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Paralelos",
-      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
+      "duration_ms": 170848,
+      "name": "Nuestro Vuelo",
+      "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -211,6 +179,38 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Paralelos",
+        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
+      },
+      "artists": [
+        {
+          "name": "Letizia Vocos",
+          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Paralelos",
+      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "PARA AFUERA",
         "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 154737,
       "name": "PARA AFUERA",
       "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Club de Fans de John Boy",
         "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 158035,
       "name": "MOTIVEISHON",
       "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "SUBTE L\u00cdNEA B REWORK",
-        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        },
-        {
-          "name": "nan Q",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 243260,
-      "name": "SUBTE L\u00cdNEA B REWORK",
-      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 258629,
       "name": "Rayo El\u00e9ctrico",
       "url": "https://open.spotify.com/track/7B29BMyYb5jgnwfiJxLwq8"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "SUBTE L\u00cdNEA B REWORK",
+        "url": "https://open.spotify.com/album/7IqRnbCJmXk2lw716fZe9s"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "nan Q",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        }
+      ],
+      "duration_ms": 243260,
+      "name": "SUBTE L\u00cdNEA B REWORK",
+      "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
-        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
-      },
-      "artists": [
-        {
-          "name": "Rumbo Tumba",
-          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
-      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
+        "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
+      "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "El Estado de las Cosas Como Son",
-        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1orita Novio",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Desaria",
-          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
-        }
-      ],
-      "duration_ms": 182312,
-      "name": "El Estado de las Cosas Como Son",
-      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Si No Vas a Venir",
         "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 2137877,
       "name": "Atempera la Distancia (Club Set)",
       "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "El Estado de las Cosas Como Son",
+        "url": "https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Desaria",
+          "url": "https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8"
+        }
+      ],
+      "duration_ms": 182312,
+      "name": "El Estado de las Cosas Como Son",
+      "url": "https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Juego Amoroso",
         "url": "https://open.spotify.com/album/0J6rQSqSd7VADiee89nGdv"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 258196,
       "name": "Juego Amoroso",
       "url": "https://open.spotify.com/track/0z40KTSBqMWIhoFsGF2K9U"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
     },
     {
       "added_at": "2024-11-15 03:00:00",

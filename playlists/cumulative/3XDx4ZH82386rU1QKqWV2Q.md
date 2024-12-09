@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2024 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-656 songs - 1 day 4 hr 11 min
+657 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [BLUE LOCK EKI](https://open.spotify.com/track/5qyuI1VzAeHukRQh5ogji6) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [BLUE LOCK EKI](https://open.spotify.com/album/0lzhzO6VU7BY3z9DOdQWQ7) | 1:22 | 2024-01-13 | 2024-02-15 |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2023-06-12 |  |
 | [Blue Slushee](https://open.spotify.com/track/3Bv7h7pXFCBRk1VuJVe0Q5) | [Dr\. KattyWhompus](https://open.spotify.com/artist/2py8tYGg8Q57FX1qn2PfZs), [Dalfin](https://open.spotify.com/artist/7jV8yrYXjuyX8OZuK964qy) | [Blue Slushee](https://open.spotify.com/album/5uINsujN6YKf5KqWXpePAo) | 2:45 | 2023-08-31 | 2023-12-14 |
+| [BLUEBERRY DREAMS](https://open.spotify.com/track/5fUIkqXnyr5lxz6Kb925KD) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#2027](https://open.spotify.com/album/0GWGjFro9gvFxxyanay9gi) | 1:41 | 2024-12-08 |  |
 | [Bluejay](https://open.spotify.com/track/7IcyjLd0ZBgkntb09zUwZJ) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [Ku$h Drifter](https://open.spotify.com/artist/17PKqjvXIlUPIx2TrwnVnb) | [Bluejay](https://open.spotify.com/album/4yHfuJaBgJNnGinMVuHS0p) | 4:31 | 2023-12-08 | 2023-12-17 |
 | [bones \(\)](https://open.spotify.com/track/2eCvqhtiRp0zWYgOsPYuGa) | [FREAK](https://open.spotify.com/artist/7kc5YqhR710yZmcooqHovJ) | [bones \(\)](https://open.spotify.com/album/6mqoMYPyAkqaVOp0H5JrPU) | 2:38 | 2024-08-28 |  |
 | [BORED \(Ariis Remix\)](https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [BORED \(Remixes\)](https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1) | 2:26 | 2023-08-01 | 2023-09-26 |

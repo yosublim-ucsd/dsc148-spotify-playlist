@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Tape B",
-  "num_followers": 980117,
+  "num_followers": 980082,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1285,10 +1285,10 @@
       "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+        "name": "Sploinky Dub",
+        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
       },
       "artists": [
         {
@@ -1296,13 +1296,37 @@
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Grech",
+          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
         }
       ],
-      "duration_ms": 189428,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+      "duration_ms": 171428,
+      "name": "Sploinky Dub",
+      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I'll Wait For You",
+        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1341,50 +1365,6 @@
       "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I'll Wait For You",
-        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Burnin",
-        "url": "https://open.spotify.com/album/7y7JKNbnce6TEJpSRFUW30"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 255655,
-      "name": "Burnin",
-      "url": "https://open.spotify.com/track/31MOGp9qJCW3NK4RHMizrF"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Swerve it",
@@ -1421,26 +1401,6 @@
       "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sploinky Dub",
-        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Grech",
-          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sploinky Dub",
-      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Flip It (Tape B Remix)",
@@ -1463,6 +1423,66 @@
       "duration_ms": 187916,
       "name": "Flip It - Tape B Remix",
       "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Burnin",
+        "url": "https://open.spotify.com/album/7y7JKNbnce6TEJpSRFUW30"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 255655,
+      "name": "Burnin",
+      "url": "https://open.spotify.com/track/31MOGp9qJCW3NK4RHMizrF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 189428,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Foul Tarnished",
+        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "duration_ms": 189926,
+      "name": "Foul Tarnished",
+      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1505,6 +1525,22 @@
       "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Brain Tickler",
+        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+      },
+      "artists": [
+        {
+          "name": "AHEE",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        }
+      ],
+      "duration_ms": 144134,
+      "name": "Brain Tickler",
+      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
       "added_at": "2024-11-01 05:42:18",
       "album": {
         "name": "Open The Pit",
@@ -1525,40 +1561,48 @@
       "url": "https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Foul Tarnished",
-        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
+        "name": "Power (feat. Grabbitz)",
+        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 189926,
-      "name": "Foul Tarnished",
-      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
+      "duration_ms": 176000,
+      "name": "Power (feat. Grabbitz)",
+      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Brain Tickler",
-        "url": "https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg"
+        "name": "Ganja Tape",
+        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
       },
       "artists": [
         {
-          "name": "AHEE",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
         }
       ],
-      "duration_ms": 144134,
-      "name": "Brain Tickler",
-      "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+      "duration_ms": 254488,
+      "name": "Ganja Tape",
+      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1589,26 +1633,6 @@
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Ganja Tape",
-        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "Ganja Tape",
-      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Antagonist",
@@ -1627,30 +1651,6 @@
       "duration_ms": 167001,
       "name": "King",
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Power (feat. Grabbitz)",
-        "url": "https://open.spotify.com/album/4lz9CHmUBuClQWL9cI8uOw"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "LEVEL UP",
-          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Power (feat. Grabbitz)",
-      "url": "https://open.spotify.com/track/3OPcGN44zYI7eg1OwHrSD0"
     },
     {
       "added_at": "2024-04-05 04:00:45",
@@ -1675,6 +1675,26 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1703,46 +1723,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
-    },
-    {
-      "added_at": "2024-10-18 04:15:34",
-      "album": {
-        "name": "NOVUS",
-        "url": "https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "X1-Y2",
-          "url": "https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "PROXIMATE",
-      "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Black Ice (feat. Phantogram)",
         "url": "https://open.spotify.com/album/2gnr6cs8MEKscvCwZGpRJG"
       },
@@ -1765,28 +1745,24 @@
       "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-10-18 04:15:34",
       "album": {
-        "name": "Lean Onto Me",
-        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
+        "name": "NOVUS",
+        "url": "https://open.spotify.com/album/0QlP7kHVx4TNJtz2a4mm83"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "X1-Y2",
+          "url": "https://open.spotify.com/artist/6AxbrEv8tfYDYlm82VXe0R"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lean Onto Me",
-      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+      "duration_ms": 179142,
+      "name": "PROXIMATE",
+      "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1857,6 +1833,30 @@
       "url": "https://open.spotify.com/track/6sKog4OAuRZfYmQRrLYExz"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lean Onto Me",
+        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lean Onto Me",
+      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+    },
+    {
       "added_at": "2024-10-18 04:15:34",
       "album": {
         "name": "KGM(irl)*",
@@ -1921,20 +1921,20 @@
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Front to Back",
-        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+        "name": "F______ LOVE YOU",
+        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
       },
       "artists": [
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
         }
       ],
-      "duration_ms": 147107,
-      "name": "Front to Back",
-      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
+      "duration_ms": 140999,
+      "name": "F______ LOVE YOU",
+      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1961,22 +1961,6 @@
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "F______ LOVE YOU",
-        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 140999,
-      "name": "F______ LOVE YOU",
-      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "i promise",
@@ -1991,6 +1975,42 @@
       "duration_ms": 204193,
       "name": "i promise",
       "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Front to Back",
+        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "Front to Back",
+      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "In The Cut",
+        "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "In The Cut",
+      "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
     },
     {
       "added_at": "2024-10-18 04:15:34",
@@ -2027,26 +2047,6 @@
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "In The Cut",
-        "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 167516,
-      "name": "In The Cut",
-      "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
     },
     {
       "added_at": "2024-11-08 05:00:00",

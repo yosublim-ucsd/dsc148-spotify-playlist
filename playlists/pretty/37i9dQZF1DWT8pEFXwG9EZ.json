@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 169311,
+  "num_followers": 169348,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -184,6 +184,26 @@
       },
       "artists": [
         {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
           "name": "Justin Hurwitz",
           "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
@@ -227,42 +247,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "\u00c0 bout de souffle",
-        "url": "https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst"
-      },
-      "artists": [
-        {
-          "name": "Martial Solal",
-          "url": "https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2"
-        }
-      ],
-      "duration_ms": 89440,
-      "name": "New York Herald Tribune - Bande originale du film \"\u00c0 bout de souffle\"",
-      "url": "https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 150800,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "\u00c0 bout de souffle",
+        "url": "https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst"
+      },
+      "artists": [
+        {
+          "name": "Martial Solal",
+          "url": "https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2"
+        }
+      ],
+      "duration_ms": 89440,
+      "name": "New York Herald Tribune - Bande originale du film \"\u00c0 bout de souffle\"",
+      "url": "https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -303,6 +303,22 @@
       "duration_ms": 278346,
       "name": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6FJmVOcQPaRYGiJQRIpWAL"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Anatomy of a Murder",
         "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
       },
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 134493,
+      "name": "Main Title (from \"Taxi Driver\")",
+      "url": "https://open.spotify.com/track/7xPefqZB6BBosOdfKJh9nJ"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 267640,
       "name": "Musetta's Waltz",
       "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 134493,
-      "name": "Main Title (from \"Taxi Driver\")",
-      "url": "https://open.spotify.com/track/7xPefqZB6BBosOdfKJh9nJ"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 167666,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Emily In Paris Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 181503,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Big Kahuna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158533,
       "name": "Charade",
       "url": "https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -699,18 +699,34 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+        "name": "Midnight in Paris (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Daniel May",
+          "url": "https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
+      "duration_ms": 197906,
+      "name": "I Love Penny Sue",
+      "url": "https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Midnight in Paris (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
-      },
-      "artists": [
-        {
-          "name": "Daniel May",
-          "url": "https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "I Love Penny Sue",
-      "url": "https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Bullitt (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 143066,
       "name": "Room \"26\"",
       "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Born to Play",
+      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -807,22 +823,6 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Born to Play",
-      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Jazz in Film",
         "url": "https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 248364,
       "name": "Don't Look Up - Main Title Suite - Bonus Track",
       "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
-      },
-      "artists": [
-        {
-          "name": "Piero Piccioni",
-          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Amore mio aiutami - Version 6",
-      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
       },
       "artists": [
         {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+          "name": "Piero Piccioni",
+          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Everybody Loves My Baby",
-      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
+      "duration_ms": 181080,
+      "name": "Amore mio aiutami - Version 6",
+      "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1107,6 +1091,22 @@
       "duration_ms": 156773,
       "name": "The Bed",
       "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Everybody Loves My Baby",
+      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Best Of Matt Monro",
         "url": "https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Get Down: Original Soundtrack From The Netflix Original Series (Deluxe Version)",
         "url": "https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 300933,
       "name": "Kipling Theme",
       "url": "https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Fabulous Baker Boys (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 151999,
       "name": "Lullaby Of Birdland - From \"Fabulous Baker Boys\" Soundtrack",
       "url": "https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Monsters Inc Original Soundtrack",
-        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Walk To Work",
-      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Johnny Cool (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 181000,
       "name": "Tu Vuo' Fa L'Americano - Vocal",
       "url": "https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Monsters Inc Original Soundtrack",
+        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Walk To Work",
+      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
     },
     {
       "added_at": "2024-06-14 07:09:21",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 47877,
+  "num_followers": 47883,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAADjZyatOtFg5L93L9qCDDFU",
+  "snapshot_id": "Z1OQAAAAAAA8Z7tHCDCqGuHa4Qz0F4Hq",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+      "duration_ms": 113426,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 113426,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -456,25 +456,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 129400,
-      "name": "St. Mary",
-      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "It's Quite Alright",
-      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+      "duration_ms": 86133,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "It's Quite Alright",
+      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -520,25 +520,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 86133,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+      "duration_ms": 129400,
+      "name": "St. Mary",
+      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 183640,
       "name": "Tropical London",
       "url": "https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Who Would've Thought",
-      "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 193437,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Who Would've Thought",
+      "url": "https://open.spotify.com/track/6aaX19hvIIU0LWtYZpfLuj"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Honor Is All We Know (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 132026,
-      "name": "Back Where I Belong",
-      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 70933,
       "name": "Antennas",
       "url": "https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...Honor Is All We Know (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 132026,
+      "name": "Back Where I Belong",
+      "url": "https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Patron Saints",
-        "url": "https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G"
+        "name": "Life Won't Wait",
+        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
       "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 239533,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/42xV5bA6XOYF9oe78cs4Qk"
+      "duration_ms": 238840,
+      "name": "Corazon De Oro",
+      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
     },
     {
       "added_at": null,
@@ -787,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Won't Wait",
-        "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
+        "name": "Silver Patron Saints",
+        "url": "https://open.spotify.com/album/6l5iIJSyq1uofZHcPRzI8G"
       },
       "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 238840,
-      "name": "Corazon De Oro",
-      "url": "https://open.spotify.com/track/6e4Qlf9TKDTbhxIWXGHOIj"
+      "duration_ms": 239533,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/42xV5bA6XOYF9oe78cs4Qk"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 79021,
+  "num_followers": 79041,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAA7NvW1kZShv2xn9xhAd1sc",
+  "snapshot_id": "Z1OQAAAAAAD54X59RmmQ2e1jqyciedqk",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 202533,
       "name": "Pitseleh",
       "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,

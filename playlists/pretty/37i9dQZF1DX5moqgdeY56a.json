@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 50121,
+  "num_followers": 50163,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,26 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
-      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -151,26 +155,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Qu\u00e9 Agon\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
       "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Qu\u00e9 Agon\u00eda - Remix",
-      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+      "duration_ms": 205320,
+      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -315,6 +315,38 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Con Orgullo Por Herencia",
+        "url": "https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 225806,
+      "name": "Cruz de Olvido",
+      "url": "https://open.spotify.com/track/7gFj8NlJJ9KwkFvKaQwzxA"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "All\u00e1 en el Rancho Grande, Vol. 13",
         "url": "https://open.spotify.com/album/0aO9zcz6Tf28fWy3PgZ7Ti"
       },
@@ -391,70 +423,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Con Orgullo Por Herencia",
-        "url": "https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 225806,
-      "name": "Cruz de Olvido",
-      "url": "https://open.spotify.com/track/7gFj8NlJJ9KwkFvKaQwzxA"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188487,
-      "name": "Un Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/60iK62Rve3uBk7JxWD1ZBf"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Tu M\u00e9ndigo Recuerdo",
-        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 213923,
-      "name": "Tu M\u00e9ndigo Recuerdo",
-      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "De Plaza en Plaza",
         "url": "https://open.spotify.com/album/3sQvDeYXGWGP5vbeSwfp3G"
       },
@@ -495,6 +463,22 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
         "name": "No Soy de Nadie",
         "url": "https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt"
       },
@@ -507,6 +491,38 @@
       "duration_ms": 238699,
       "name": "Promet\u00ed Olvidarte",
       "url": "https://open.spotify.com/track/04uRe86jTl0kT2YG6kmTGV"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/6CQVfSBO5R7N0ANWdQndUy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188487,
+      "name": "Un Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/60iK62Rve3uBk7JxWD1ZBf"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -531,34 +547,18 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+      "duration_ms": 307640,
+      "name": "La Cima del Cielo",
+      "url": "https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -623,42 +623,6 @@
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Vintage Music No. 54 - LP: Antonio Aguilar",
-        "url": "https://open.spotify.com/album/19AhTvjuoVWOBQyxbN913V"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        },
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
-        }
-      ],
-      "duration_ms": 195192,
-      "name": "Bala Perdida (Ranchera)",
-      "url": "https://open.spotify.com/track/52tbhEsRbLBUiknTgYqPoc"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 307640,
-      "name": "La Cima del Cielo",
-      "url": "https://open.spotify.com/track/6YfR85OhPZ330CQ1Md3Onh"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -699,6 +663,42 @@
       "duration_ms": 228989,
       "name": "Ella Qu\u00e9 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Vintage Music No. 54 - LP: Antonio Aguilar",
+        "url": "https://open.spotify.com/album/19AhTvjuoVWOBQyxbN913V"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
+        }
+      ],
+      "duration_ms": 195192,
+      "name": "Bala Perdida (Ranchera)",
+      "url": "https://open.spotify.com/track/52tbhEsRbLBUiknTgYqPoc"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Y Tenerte Otra Vez",
-        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Me Falta Valor",
-      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "No Soy de Nadie",
         "url": "https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237830,
       "name": "El Autob\u00fas",
       "url": "https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Y Tenerte Otra Vez",
+        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Falta Valor",
+      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
     },
     {
       "added_at": "2024-04-09 17:24:23",

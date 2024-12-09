@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 50 songs - 2 hr 45 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 48 | [Masher](https://open.spotify.com/track/5aqtEq5sJJlrVoPZTjI0Yj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 3:21 |
 | 49 | [Wrong!](https://open.spotify.com/track/0wc0za6oNYTNWWIa2ZdFB2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 2:17 |
 | 50 | [Answering the Phone\* \- Bonus Track](https://open.spotify.com/track/2rvhsOudGG9vRRo5xikTlq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:28 |
+| 51 | [Letter from Belgium](https://open.spotify.com/track/4ntR3OteArnBskcrUbYqkm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:11 |
+| 52 | [All Up the Seething Coast](https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:45 |
 
-Snapshot ID: `AAAANvAqYtMmQ+G1dczzAzv4zXY++1XJ`
+Snapshot ID: `AAAAOAfNjzlyl8cFOy/RPXsfbgazOABt`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 632859,
+  "num_followers": 632888,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAAhUKOu6qGE+Lu5E8h3caPM",
+  "snapshot_id": "Z1OQAAAAAAA3RqpADKVCbmL9hD9u1kEN",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruce Springsteen & The E Street Band - Road Diary",
+        "url": "https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Ghosts - Live at Amalie Arena, Tampa, FL - 2/1/2023",
+      "url": "https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 245360,
       "name": "Lonesome Day",
       "url": "https://open.spotify.com/track/0R9q3imnid244T1ty47MGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruce Springsteen & The E Street Band - Road Diary",
-        "url": "https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Ghosts - Live at Amalie Arena, Tampa, FL - 2/1/2023",
-      "url": "https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU"
     },
     {
       "added_at": null,

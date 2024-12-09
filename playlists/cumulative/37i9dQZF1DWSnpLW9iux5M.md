@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-163 songs - 10 hr 54 min
+164 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 | 2021-12-24 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Christmas with Mahalia](https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0) | 3:24 | 2021-12-24 |  |
 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 | 2021-12-24 |  |
-| [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 | 2021-12-24 |  |
+| [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 | 2021-12-24 | 2024-12-09 |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/7nYI4O4KW5oXYITzggtu6M) | 3:08 | 2021-12-24 | 2024-11-18 |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/7LsohUDYAUvnrsuOBgIQBt) | [J\. Moss](https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/2nt6fN9ycbCmC7HaS5j3W5) | 3:08 | 2023-12-15 | 2024-04-19 |
 | [Jesus Is The Reason For The Season](https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:45 | 2021-12-24 |  |
@@ -147,6 +147,7 @@
 | [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-02 |  |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |
 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 | 2021-12-24 |  |
+| [The Gift](https://open.spotify.com/track/4ZoCtoxfdGVKuz4i49sNIP) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [The Gift](https://open.spotify.com/album/6N6i9REfWKmEpwOyhGgl9M) | 3:23 | 2024-12-08 |  |
 | [The Virgin Mary Had One Son](https://open.spotify.com/track/5wTbamPgzSfU75bmJLiN3W) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The 25th Day Of December](https://open.spotify.com/album/1UOb2Vez7VMxqJWpaMs3Mx) | 2:47 | 2021-12-24 | 2022-11-27 |
 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 | 2023-12-15 |  |
 | [This Christmas \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg) | 3:29 | 2021-12-24 |  |

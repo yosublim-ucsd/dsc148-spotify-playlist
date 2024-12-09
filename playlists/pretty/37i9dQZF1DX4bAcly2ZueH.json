@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52399,
+  "num_followers": 52401,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Novelletten #1",
-        "url": "https://open.spotify.com/album/4ARq7c6yR8tbXdKC3xm5dq"
-      },
-      "artists": [
-        {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
-        }
-      ],
-      "duration_ms": 131953,
-      "name": "Petals in a Breeze",
-      "url": "https://open.spotify.com/track/3TtdSePGpXpmTQDTblgyrv"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "no one else",
         "url": "https://open.spotify.com/album/55GSHcWOrbvL233s62HEPG"
       },
@@ -123,6 +107,22 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
+        "name": "Novelletten #1",
+        "url": "https://open.spotify.com/album/4ARq7c6yR8tbXdKC3xm5dq"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "duration_ms": 131953,
+      "name": "Petals in a Breeze",
+      "url": "https://open.spotify.com/track/3TtdSePGpXpmTQDTblgyrv"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
         "name": "Nujabes PRAY Reflections",
         "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 275195,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 115315,
+      "name": "Sleepy Story.",
+      "url": "https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -155,22 +171,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 115315,
-      "name": "Sleepy Story.",
-      "url": "https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/0XwwbGbT2KM0p9MYbdKmnf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 154838,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3ebNoTCPxye8un6NaRXk69"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "Chroma Velocity",
         "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 158117,
       "name": "Human Related Accident",
       "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Reminisce",
-        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
-      },
-      "artists": [
-        {
-          "name": "\u6cd5\u658eBeats",
-          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
-        }
-      ],
-      "duration_ms": 172833,
-      "name": "Reminisce",
-      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "KUMORI",
         "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163809,
       "name": "KUMORI",
       "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
+      },
+      "artists": [
+        {
+          "name": "\u6cd5\u658eBeats",
+          "url": "https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia"
+        }
+      ],
+      "duration_ms": 172833,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Yura Yura",
-        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
-      },
-      "artists": [
-        {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Yura Yura",
-      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "So Long So Blue",
         "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+        "name": "Yura Yura",
+        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
       },
       "artists": [
         {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+      "duration_ms": 138426,
+      "name": "Yura Yura",
+      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -671,6 +655,22 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -759,42 +759,18 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Day Trip",
-        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
+        "name": "24/7(inst)",
+        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
       },
       "artists": [
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+          "name": "shai",
+          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Day Trip",
-      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "Chips & Chill",
-        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Cristo Redentor",
-      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+      "duration_ms": 141174,
+      "name": "24/7(inst)",
+      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -839,6 +815,46 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
+        "name": "Chips & Chill",
+        "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Cristo Redentor",
+      "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Day Trip",
+        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Day Trip",
+      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
         "name": "Pockets",
         "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "24/7(inst)",
-        "url": "https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9"
-      },
-      "artists": [
-        {
-          "name": "shai",
-          "url": "https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP"
-        }
-      ],
-      "duration_ms": 141174,
-      "name": "24/7(inst)",
-      "url": "https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "flowingtime",
         "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
       },
@@ -1063,26 +1047,6 @@
       "duration_ms": 272293,
       "name": "Colony",
       "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "Dreamwave",
-        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1127,18 +1091,58 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
       "artists": [
         {
           "name": "Laxcity",
           "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Sherry W",
+          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+      "duration_ms": 231500,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Dreamwave",
+        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1159,22 +1163,6 @@
       "duration_ms": 67062,
       "name": "Muse",
       "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1227,6 +1215,38 @@
       "duration_ms": 207613,
       "name": "see",
       "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1295,26 +1315,6 @@
       "duration_ms": 182684,
       "name": "Snow Magic",
       "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        },
-        {
-          "name": "Sherry W",
-          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Suzune",
-        "url": "https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Suzune",
-      "url": "https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl"
-    },
-    {
-      "added_at": "2024-12-03 22:16:47",
-      "album": {
         "name": "Frontin' Me",
         "url": "https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-12-03 22:16:47",
       "album": {
-        "name": "Ouka",
-        "url": "https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA"
+        "name": "Suzune",
+        "url": "https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i"
       },
       "artists": [
         {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
         }
       ],
-      "duration_ms": 184508,
-      "name": "Two Birds",
-      "url": "https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO"
+      "duration_ms": 199090,
+      "name": "Suzune",
+      "url": "https://open.spotify.com/track/1lFqWakB9tzWAp0zkjQYxl"
     },
     {
       "added_at": "2024-12-03 22:16:47",
@@ -1743,6 +1727,22 @@
       "duration_ms": 111500,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/5uh66RD9Fjgx7ZR67cYsSW"
+    },
+    {
+      "added_at": "2024-12-03 22:16:47",
+      "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ"
+      },
+      "artists": [
+        {
+          "name": "cocabona",
+          "url": "https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

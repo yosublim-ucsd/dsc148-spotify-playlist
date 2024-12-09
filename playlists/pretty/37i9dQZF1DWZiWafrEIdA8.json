@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9928,
+  "num_followers": 9937,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 177342,
-      "name": "Text Me",
-      "url": "https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 160104,
       "name": "Understand",
       "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 177342,
+      "name": "Text Me",
+      "url": "https://open.spotify.com/track/1dN4Z7wZTQXLEl33RkMO3a"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -223,6 +223,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "LOVE me",
         "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
       },
@@ -259,42 +279,6 @@
       "duration_ms": 218250,
       "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
       "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 195204,
-      "name": "Martini Blue",
-      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "Beyond Love",
-        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Beyond Love (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -355,6 +339,42 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "Bucket List",
+        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Joker (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 195204,
+      "name": "Martini Blue",
+      "url": "https://open.spotify.com/track/7zDu3l7DDlfSlt20YMKkWo"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "\ube44\ub204",
         "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
       },
@@ -391,22 +411,38 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Bucket List",
-        "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
+        "name": "OHAYO MY NIGHT",
+        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         }
       ],
-      "duration_ms": 199506,
-      "name": "Joker (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "Let's Not Love Each Other",
+      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -435,42 +471,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 242999,
-      "name": "Let's Not Love Each Other",
-      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "OHAYO MY NIGHT",
-        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
-      },
-      "artists": [
-        {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        },
-        {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "OHAYO MY NIGHT",
-      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "Life is Wet",
         "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
       },
@@ -487,6 +487,26 @@
       "duration_ms": 186000,
       "name": "Life is Wet",
       "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "He's next to you, instead of me",
+        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 172350,
+      "name": "He's next to you, instead of me",
+      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -511,22 +531,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "He's next to you, instead of me",
-        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 172350,
-      "name": "He's next to you, instead of me",
-      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
+      "duration_ms": 240840,
+      "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
+      "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -567,30 +591,6 @@
       "duration_ms": 190812,
       "name": "Action! (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
-      "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -639,6 +639,46 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "Black Heart (feat. Leellamarz, BE'O)",
+      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "I don't wanna be your hero",
+        "url": "https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "I don't wanna be your hero",
+      "url": "https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -663,18 +703,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "I don't wanna be your hero",
-        "url": "https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9"
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 160026,
-      "name": "I don't wanna be your hero",
-      "url": "https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr"
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -715,70 +759,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Between Sat & Sun",
-        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "Black Heart (feat. Leellamarz, BE'O)",
-      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        }
-      ],
-      "duration_ms": 135120,
-      "name": "Don\u2032t do That",
-      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -815,18 +795,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+      "duration_ms": 135120,
+      "name": "Don\u2032t do That",
+      "url": "https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -847,6 +831,22 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -915,30 +915,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

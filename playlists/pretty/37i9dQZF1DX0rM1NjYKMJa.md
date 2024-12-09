@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The sound of 2024's Carnival Season
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,839 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,862 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 2 | [Holiday](https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Nelieux](https://open.spotify.com/artist/0gMDsodMcZUuum1iXNMVge) | [Black Keys Riddim](https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g) | 2:17 |
 | 3 | [Carnival](https://open.spotify.com/track/4fmwyrPZ8cLFxOfchNXPf5) | [jussbusscamp records](https://open.spotify.com/artist/396P2eplddPOmYdfdEbCSs), [Ghaza](https://open.spotify.com/artist/0YYAqEPWlk2LpnopbbaF8l) | [Carnival](https://open.spotify.com/album/5mCdl9mYVaiJtqyzgzoAi6) | 3:17 |
 | 4 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
-| 5 | [Heart of Carnival](https://open.spotify.com/track/3Iq1wvKVm62usdyRYSpgll) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MuSiK](https://open.spotify.com/artist/6C7HNY3aVuBoEFPfvLNY7w) | [Heart of Carnival](https://open.spotify.com/album/2N1jemN8hCRdsqFOX5dS5k) | 3:40 |
+| 5 | [Heart of Carnival](https://open.spotify.com/track/3Iq1wvKVm62usdyRYSpgll) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Heart of Carnival](https://open.spotify.com/album/2N1jemN8hCRdsqFOX5dS5k) | 3:40 |
 | 6 | [Mind Off](https://open.spotify.com/track/12TP8c0mlvpZpKo1YhVcKc) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V) | [Mind Off](https://open.spotify.com/album/0BLUeiCJ9m17THomGHIOty) | 3:34 |
 | 7 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 |
 | 8 | [Clock Out](https://open.spotify.com/track/3PI8rjpnZRJxxM2icDEbpB) | [Imran Nerdy](https://open.spotify.com/artist/0ByPgMLbnHIRcq7K8170BI), [Vibez Productionz](https://open.spotify.com/artist/574PPvPSzzVvXs3ahCADNQ) | [Clock Out](https://open.spotify.com/album/5ibA0XpRs4AUr9yXi43uho) | 2:57 |

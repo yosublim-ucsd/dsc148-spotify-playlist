@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 74855,
+  "num_followers": 74879,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABSQ7ueTO084hn+fo98fl46",
+  "snapshot_id": "Z1OQAAAAAABvPZ51jND7FEWhZuRcwVY3",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Under Black Flags We March",
-      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
+      "duration_ms": 122253,
+      "name": "Enter the Machine",
+      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Enter the Machine",
-      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
+      "duration_ms": 280826,
+      "name": "Under Black Flags We March",
+      "url": "https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
       "duration_ms": 212080,
       "name": "I Will Live Again",
       "url": "https://open.spotify.com/track/19lYRLj7L8F6oUejDM7pgX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Earth (Reissue)",
-        "url": "https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 331413,
-      "name": "Fields of Desolation",
-      "url": "https://open.spotify.com/track/78FiDVHeuL49rSjggEdF6g"
     },
     {
       "added_at": null,

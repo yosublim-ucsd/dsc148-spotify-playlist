@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 187071,
       "name": "911",
       "url": "https://open.spotify.com/track/4uwuRnhNrvYcdgc3kRcIPw"
@@ -4508,7 +4508,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 292175,
       "name": "Blood Stain III",
       "url": "https://open.spotify.com/track/7c0ubUKwwvizttVNEV1RMC"
@@ -22129,6 +22129,40 @@
     },
     {
       "album": {
+        "name": "Lion In The Zoo",
+        "url": "https://open.spotify.com/album/6pgiBsLSlJTBjmMXUj84KB"
+      },
+      "artists": [
+        {
+          "name": "Mateo Gargiulo",
+          "url": "https://open.spotify.com/artist/2aJz531BvN6l5szpNaqR4V"
+        },
+        {
+          "name": "The Massholez",
+          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272172,
+      "name": "Lion In The Zoo",
+      "url": "https://open.spotify.com/track/5SylK5NAm8zPMjB1DGiRRW"
+    },
+    {
+      "album": {
         "name": "Lions In A Zoo",
         "url": "https://open.spotify.com/album/4xn10wQHM9sX0mQh6EBWVo"
       },
@@ -29688,6 +29722,32 @@
       "duration_ms": 241789,
       "name": "Pop A Toast",
       "url": "https://open.spotify.com/track/3TEL2gBT4CU84SI33OXSmq"
+    },
+    {
+      "album": {
+        "name": "Pop Toast, Shut up",
+        "url": "https://open.spotify.com/album/4Cp1bz9BE4WscSDkB1gHUs"
+      },
+      "artists": [
+        {
+          "name": "Groove Kennedy",
+          "url": "https://open.spotify.com/artist/2RjNxeIknJYVo86lVSdTP9"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Michael Barber",
+          "url": "https://open.spotify.com/artist/71GYet0CwvLEg9lzuAaPhL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196201,
+      "name": "Pop Toast, Shut up",
+      "url": "https://open.spotify.com/track/7kkPrCmMfAVp1o3mHQWfEe"
     },
     {
       "album": {

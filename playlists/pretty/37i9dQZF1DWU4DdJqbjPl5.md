@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  Tay Iwar
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,178 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,177 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 23 | [Pōseïdøn](https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Pōseïdøn](https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17) | 4:08 |
 | 24 | [Spell](https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:08 |
 | 25 | [Umbrella](https://open.spotify.com/track/0lx4Q2IDhEPu3z0fZQiPVH) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Ose](https://open.spotify.com/artist/4n5kiRbM5NtY5mYmxdxLiw) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:43 |
-| 26 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
+| 26 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
 | 27 | [Take Me](https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Take Me](https://open.spotify.com/album/59JZYS1uK0A5znLlD8XQfQ) | 2:26 |
 | 28 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 |
 | 29 | [Reason](https://open.spotify.com/track/59Dr6KNsWhcygOZ8yr8zLO) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [LOVRBOY](https://open.spotify.com/album/4b6RqYu2RjfGqrcB9NH3Rf) | 3:33 |

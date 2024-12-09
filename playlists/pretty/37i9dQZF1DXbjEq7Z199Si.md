@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Everyone deserves a chance to fly\. Listen to the music from and inspired by Wicked\. Co\-curated by Cynthia Erivo and Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,274 likes - 31 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,215 likes - 31 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -10130,7 +10130,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 168751,
       "name": "Moments",
       "url": "https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I"
@@ -18902,6 +18902,24 @@
       "duration_ms": 150000,
       "name": "Worms on Acid",
       "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+    },
+    {
+      "album": {
+        "name": "Xerrox, Vol.5",
+        "url": "https://open.spotify.com/album/0nXbVpD63ylK8ZfrdELwlb"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Xerrox Ascent II",
+      "url": "https://open.spotify.com/track/0CxJ9rx38Ie7NGO3YEEPgw"
     },
     {
       "album": {

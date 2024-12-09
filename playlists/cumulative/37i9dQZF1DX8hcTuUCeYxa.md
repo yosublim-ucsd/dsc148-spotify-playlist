@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: M\. Byrd
 
-789 songs - 1 day 20 hr 54 min
+790 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Like it was](https://open.spotify.com/track/49o5FlQfn4oYdAns7KnwqI) | [Telquist](https://open.spotify.com/artist/1P7bWg37j6b4baXFeNNzrE) | [Like it was](https://open.spotify.com/album/5V5m78EARrGVd8t2yOyWKv) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [Like Nothing](https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Like Nothing](https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH) | 2:18 | 2024-08-30 | 2024-09-13 |
 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 | 2024-11-14 |  |
+| [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2024-12-05 |  |
 | [Live With It](https://open.spotify.com/track/6ORdjfGB78i3kEd29DWFng) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Live With It](https://open.spotify.com/album/5fDryNMgoqKqxdBXCtAiCI) | 2:37 | 2024-08-29 | 2024-09-27 |
 | [Living Well Is A Lost Art](https://open.spotify.com/track/0CIfB44l677hAA2m8JyfL4) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Living Well Is A Lost Art](https://open.spotify.com/album/5gaMI65leDIV57RSPvaWvv) | 3:29 | 2024-10-17 | 2024-11-15 |
 | [Lonely](https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lonely / Sweet Devil](https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV) | 3:46 | 2024-08-29 | 2024-09-20 |

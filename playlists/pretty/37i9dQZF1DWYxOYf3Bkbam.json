@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 52488,
+  "num_followers": 52521,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+        "name": "Hilvanando Recuerdos",
+        "url": "https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
         }
       ],
-      "duration_ms": 130576,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+      "duration_ms": 159693,
+      "name": "El Gateao",
+      "url": "https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -135,22 +135,6 @@
       "duration_ms": 212828,
       "name": "Por amarte as\u00ed",
       "url": "https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Hilvanando Recuerdos",
-        "url": "https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS"
-      },
-      "artists": [
-        {
-          "name": "Los de Mailin",
-          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "El Gateao",
-      "url": "https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -223,22 +207,34 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Alguien mejor que yo",
-        "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        },
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
         }
       ],
-      "duration_ms": 199233,
-      "name": "Alguien mejor que yo",
-      "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -259,18 +255,22 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+        "name": "Alguien mejor que yo",
+        "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
       },
       "artists": [
         {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
         }
       ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+      "duration_ms": 199233,
+      "name": "Alguien mejor que yo",
+      "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -287,26 +287,6 @@
       "duration_ms": 210453,
       "name": "Seleccion de temas enganchados",
       "url": "https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        },
-        {
-          "name": "El Suppe'r De Oro",
-          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
-        }
-      ],
-      "duration_ms": 208579,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -347,6 +327,26 @@
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        },
+        {
+          "name": "El Suppe'r De Oro",
+          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
+        }
+      ],
+      "duration_ms": 208579,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Si Pudiera",
-        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 173322,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 131813,
       "name": "Pastor Luna y Su Acorde\u00f3n",
       "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Si Pudiera",
+        "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 173322,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
+      },
+      "artists": [
+        {
+          "name": "Los Troperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Km. 11",
+      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
-      },
-      "artists": [
-        {
-          "name": "Los Troperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE"
-        }
-      ],
-      "duration_ms": 202786,
-      "name": "Km. 11",
-      "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
       "artists": [
         {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
         }
       ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
       },
       "artists": [
         {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
         }
       ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -899,6 +899,42 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+        }
+      ],
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -935,18 +971,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
       },
       "artists": [
         {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
         }
       ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -983,42 +1019,6 @@
       "duration_ms": 195146,
       "name": "Siento haberte perdido",
       "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas",
-          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Bien picadito",
-      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Blas Martinez Riera",
+          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Malvita",
+      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Blas Martinez Riera",
-          "url": "https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Malvita",
-      "url": "https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Mi Estrella Perdida",
         "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Noche de Tormenta",
-        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 192042,
-      "name": "La Leyenda de la Brasita de Fuego",
-      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Oraci\u00f3n del Remanso",
         "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 311531,
       "name": "Oraci\u00f3n del Remanso",
       "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Noche de Tormenta",
+        "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        }
+      ],
+      "duration_ms": 192042,
+      "name": "La Leyenda de la Brasita de Fuego",
+      "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Chamam\u00e9 Con Estilo Propio",
-        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        }
-      ],
-      "duration_ms": 156025,
-      "name": "El Petizo Maceta",
-      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "La Chamamecera",
         "url": "https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "A Puro Sapucay",
-        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
+        "name": "Chamam\u00e9 Con Estilo Propio",
+        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
       },
       "artists": [
         {
-          "name": "Los Tatas del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
         }
       ],
-      "duration_ms": 169506,
-      "name": "Creciendo el Gualeguay",
-      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
+      "duration_ms": 156025,
+      "name": "El Petizo Maceta",
+      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
+        "name": "A Puro Sapucay",
+        "url": "https://open.spotify.com/album/1Oqq57n2IOOu7OOflkoZvJ"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "Creciendo el Gualeguay",
+      "url": "https://open.spotify.com/track/1LDKzitnl6PhE4QxQuKeVc"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 186013,
       "name": "Las Penas del Provinciano",
       "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
+        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
+      },
+      "artists": [
+        {
+          "name": "Rosendo y Ofelia",
+          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1439,22 +1455,6 @@
       "duration_ms": 171009,
       "name": "Mi \u00daltima Carta",
       "url": "https://open.spotify.com/track/2dCGUIz3By4HKxOEww1YRu"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
-        "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
-      },
-      "artists": [
-        {
-          "name": "Rosendo y Ofelia",
-          "url": "https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1496,22 +1496,6 @@
       },
       "artists": [
         {
-          "name": "Juancito el Peregrino",
-          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Temple guarani",
-      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
           "name": "Los hermanos Cena",
           "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
         }
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Flor del Litoral",
-      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1559,6 +1543,22 @@
       "duration_ms": 214727,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

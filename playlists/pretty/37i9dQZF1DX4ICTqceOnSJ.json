@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 403630,
+  "num_followers": 403668,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -159,22 +175,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "B\u00e1lsamo",
         "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
       },
@@ -203,6 +203,26 @@
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        },
+        {
+          "name": "Lo Blondo",
+          "url": "https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Impacto",
+      "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -243,26 +263,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "El Segundo Es Felino",
-        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        },
-        {
-          "name": "Lo Blondo",
-          "url": "https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Impacto",
-      "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "La Declaraci\u00f3n",
         "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -327,6 +311,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "El Fin del Mundo",
         "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "El Segundo Es Felino",
+        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 248773,
+      "name": "Man\u00eda Cardiaca",
+      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -375,22 +391,6 @@
       "duration_ms": 159800,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "El Segundo Es Felino",
-        "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 248773,
-      "name": "Man\u00eda Cardiaca",
-      "url": "https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+        "name": "Pedropiedra (Reedici\u00f3n)",
+        "url": "https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN"
       },
       "artists": [
         {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
         }
       ],
-      "duration_ms": 181592,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
+      "duration_ms": 231840,
+      "name": "Inteligencia Dormida",
+      "url": "https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Pedropiedra (Reedici\u00f3n)",
-        "url": "https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Inteligencia Dormida",
-      "url": "https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM"
+      "duration_ms": 181592,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Estalla",
+        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 276893,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -731,22 +763,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Estalla",
-        "url": "https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 276893,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Impronta",
         "url": "https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m"
       },
@@ -775,38 +791,6 @@
       "duration_ms": 158121,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -843,6 +827,38 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 230640,
       "name": "Eres",
       "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Esquemas Juveniles",
-        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 223027,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 222573,
       "name": "Baila",
       "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Esquemas Juveniles",
+        "url": "https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 223027,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c"
     },
     {
       "added_at": "2024-06-14 04:59:00",

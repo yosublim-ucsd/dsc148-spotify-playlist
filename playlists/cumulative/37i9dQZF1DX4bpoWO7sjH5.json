@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Al Mundo Paz (Al\u00e9grense)",
+        "url": "https://open.spotify.com/album/0JdUZVJDDu3vQMCU5hQ6Ai"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250166,
+      "name": "Al Mundo Paz (Al\u00e9grense)",
+      "url": "https://open.spotify.com/track/6DeyRYoxQKoh8k4yU5Njb1"
+    },
+    {
+      "album": {
         "name": "Al Ni\u00f1o Dios",
         "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
@@ -504,6 +522,28 @@
       "duration_ms": 233618,
       "name": "Canela y Mantequilla",
       "url": "https://open.spotify.com/track/4dyOc6n181DQc1C4fGzzOz"
+    },
+    {
+      "album": {
+        "name": "Cantamos Gloria",
+        "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rojas",
+          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
+        },
+        {
+          "name": "Kairy Marquez",
+          "url": "https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227771,
+      "name": "Cantamos Gloria",
+      "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
     },
     {
       "album": {
@@ -1481,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "Este Amor",
+        "url": "https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa"
+      },
+      "artists": [
+        {
+          "name": "Leah Gourlie",
+          "url": "https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX"
+        },
+        {
+          "name": "Nathan Ironside",
+          "url": "https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323750,
+      "name": "Este Amor - Ambient Mix",
+      "url": "https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu"
+    },
+    {
+      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/45o25qubzUh9i87D7pTjJ9"
       },
@@ -1724,7 +1786,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 180066,
       "name": "Gloria En Las Alturas",
       "url": "https://open.spotify.com/track/3lNc3Z1Lei2yQ1NMzFARMi"
@@ -2116,7 +2178,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 242806,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18"
@@ -2192,7 +2254,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 190645,
       "name": "Lucecitas",
       "url": "https://open.spotify.com/track/6WFoSWIYFSIdgFqeRPPAZg"
@@ -3421,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Santa La Noche",
+        "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
+      },
+      "artists": [
+        {
+          "name": "Carla Vidal",
+          "url": "https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253125,
+      "name": "Santa La Noche",
+      "url": "https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui"
+    },
+    {
+      "album": {
         "name": "Santa la Noche",
         "url": "https://open.spotify.com/album/2Vds3tR4KKnNsotTbAd1GQ"
       },
@@ -4046,7 +4126,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 343333,
       "name": "Venid Fieles Todos",
       "url": "https://open.spotify.com/track/3qm8T2tHh51n6Ze4Z5CYPr"

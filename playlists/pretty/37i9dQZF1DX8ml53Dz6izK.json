@@ -1,6 +1,6 @@
 {
   "description": "< insert emo glitter gif here >",
-  "num_followers": 68028,
+  "num_followers": 68038,
   "original_name": "CrySpace",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Insomniatic",
-        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Potential Breakup Song",
-      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 189373,
       "name": "crushcrushcrush",
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Insomniatic",
+        "url": "https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Potential Breakup Song",
+      "url": "https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "While the City Sleeps, We Rule the Streets",
+        "url": "https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI"
+      },
+      "artists": [
+        {
+          "name": "Cobra Starship",
+          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Bring It (Snakes on a Plane)",
+      "url": "https://open.spotify.com/track/2YWDmfu4SAnYGboCRrkjxE"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "Mmhmm",
         "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 206533,
       "name": "Heregoesnothin",
       "url": "https://open.spotify.com/track/4eaLY5pOPsgKzs37woeTRz"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "While the City Sleeps, We Rule the Streets",
-        "url": "https://open.spotify.com/album/0XgX5j5Ne4Tfw4oMdcoNQI"
-      },
-      "artists": [
-        {
-          "name": "Cobra Starship",
-          "url": "https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Bring It (Snakes on a Plane)",
-      "url": "https://open.spotify.com/track/2YWDmfu4SAnYGboCRrkjxE"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
-      },
-      "artists": [
-        {
-          "name": "Hey Monday",
-          "url": "https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "Underdog Alma Mater",
         "url": "https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS"
       },
@@ -1147,6 +1131,38 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
+      },
+      "artists": [
+        {
+          "name": "Hey Monday",
+          "url": "https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/54jGdUgkPfGNVPVj0wlS3v"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "LIGHTS EP",
+        "url": "https://open.spotify.com/album/5XFXJzxheXIL7bCMxM5axD"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 228520,
+      "name": "February Air",
+      "url": "https://open.spotify.com/track/2qE8wtbuZInZ1mMHl8m3Vv"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
         "name": "Let's Cheers To This",
         "url": "https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T"
       },
@@ -1179,38 +1195,6 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "Instant Gratification",
-        "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Death Of A Strawberry",
-      "url": "https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
-        "name": "LIGHTS EP",
-        "url": "https://open.spotify.com/album/5XFXJzxheXIL7bCMxM5axD"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 228520,
-      "name": "February Air",
-      "url": "https://open.spotify.com/track/2qE8wtbuZInZ1mMHl8m3Vv"
-    },
-    {
-      "added_at": "2023-10-20 22:49:42",
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/7GcuimRczCCOblhJr0NgzD"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 182826,
       "name": "Dear Maria, Count Me In",
       "url": "https://open.spotify.com/track/0J69x3mqm7U6tBPKsjpsWR"
+    },
+    {
+      "added_at": "2023-10-20 22:49:42",
+      "album": {
+        "name": "Instant Gratification",
+        "url": "https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Death Of A Strawberry",
+      "url": "https://open.spotify.com/track/0ZcQUwVyXgpUepJsvgOYgk"
     },
     {
       "added_at": "2023-10-20 22:49:42",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-10-20 22:49:42",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls",
-        "url": "https://open.spotify.com/album/3rEl0zv6lbVZiB79uHAQ5y"
+        "name": "Suicide Season",
+        "url": "https://open.spotify.com/album/6bdSj3D5soQXZqlxSn5ZQr"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 197640,
-      "name": "I'd Do Anything",
-      "url": "https://open.spotify.com/track/5KCPpfk3qfw2Gd9DRMCq8Y"
+      "duration_ms": 302560,
+      "name": "Chelsea Smile",
+      "url": "https://open.spotify.com/track/2C5jGbR23YLonV7Lton6fV"
     }
   ],
   "unique_name": "CrySpace",

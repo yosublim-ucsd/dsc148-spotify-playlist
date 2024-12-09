@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,302 likes - 39 songs - 2 hr 40 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,312 likes - 41 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Ire Feelings](https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Rupie Edwards Presents Success Archives \- From Kingston Jamaica to London UK](https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI) | 3:48 |
 | 38 | [It's Only Obvious](https://open.spotify.com/track/20KuHxOYcv1OtrjjUAidEX) | [The Orchids](https://open.spotify.com/artist/6W8VbSclDd31QHMBwoC84H) | [Who Needs Tomorrow](https://open.spotify.com/album/690g8u725awKpCdZNX7iYG) | 2:29 |
 | 39 | [Alonzo](https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [This Time](https://open.spotify.com/album/4UsDilRDkv7adgos4EJlF6) | 5:26 |
+| 40 | [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 |
+| 41 | [One Of Our Girls Has Gone Missing](https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 4:41 |
 
-Snapshot ID: `AAALgWaWNn/utQVBHl3G2cd3wten4Aqz`
+Snapshot ID: `AAALg6Fvi1aB/gpZqIv2CriybYhwTf52`

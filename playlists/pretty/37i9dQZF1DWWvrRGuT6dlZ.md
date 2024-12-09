@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Editor's picks from Fresh Finds Singapore & Malaysia in 2024\. Cover: HOWE\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,777 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

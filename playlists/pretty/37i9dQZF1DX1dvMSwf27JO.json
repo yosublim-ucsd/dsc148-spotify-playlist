@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 565728,
+  "num_followers": 565700,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+        "name": "DEVIL IS A LIE",
+        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+      "duration_ms": 130944,
+      "name": "DEVIL IS A LIE",
+      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -279,18 +271,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
       "artists": [
         {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "GINGER",
-        "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "SUGAR",
-      "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 219954,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "GINGER",
+        "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "NICE OUT",
-        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
-      },
-      "artists": [
-        {
-          "name": "Kilo Kish",
-          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "NICE OUT",
-      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Are You In The Room",
         "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "NICE OUT",
+        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "NICE OUT",
+      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "HEATWAVE",
         "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 219833,
       "name": "THE BOTTOM",
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Love Me Like",
+        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
+      },
+      "artists": [
+        {
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "If You Won't",
+      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1127,22 +1143,6 @@
       "duration_ms": 224933,
       "name": "Millionaire (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Love Me Like",
-        "url": "https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "If You Won't",
-      "url": "https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Far Rockaway",
-        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
-      },
-      "artists": [
-        {
-          "name": "KAMAUU",
-          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
-        }
-      ],
-      "duration_ms": 142566,
-      "name": "Far Rockaway",
-      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 115764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Far Rockaway",
+        "url": "https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0"
+      },
+      "artists": [
+        {
+          "name": "KAMAUU",
+          "url": "https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc"
+        }
+      ],
+      "duration_ms": 142566,
+      "name": "Far Rockaway",
+      "url": "https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Monologues",
+        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+      },
+      "artists": [
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 221613,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Be the One You Love",
         "url": "https://open.spotify.com/album/4vnVALee891bV599C0I6rI"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 223601,
       "name": "Wake up Jacob",
       "url": "https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
-      },
-      "artists": [
-        {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
-        }
-      ],
-      "duration_ms": 221613,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Conveniency",
-        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Conveniency",
-      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 229765,
       "name": "STAY UP",
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Conveniency",
+        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Conveniency",
+      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "VIRGINIA CREEPER",
+        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "VIRGINIA CREEPER",
+      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 180485,
       "name": "C\u00c9LINE",
       "url": "https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
     }
   ],
   "unique_name": "'fit check",

@@ -11450,7 +11450,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 158095,
       "name": "Nightcap",
       "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
@@ -13314,6 +13314,28 @@
       "duration_ms": 170040,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM"
+    },
+    {
+      "album": {
+        "name": "Put It Down",
+        "url": "https://open.spotify.com/album/7AbuaLWUhNrDsIQqCS2Ok0"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Jayelle",
+          "url": "https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
     },
     {
       "album": {
@@ -15268,7 +15290,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
@@ -17586,7 +17608,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 139077,
       "name": "Underground Bass",
       "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"

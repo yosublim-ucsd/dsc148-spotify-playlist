@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 99358,
+  "num_followers": 99389,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
         "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 252428,
       "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
       "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
-        "name": "Don't C\u00f4i",
-        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
-      },
-      "artists": [
-        {
-          "name": "RPT Orijinn",
-          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
-        },
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "Don't C\u00f4i",
-      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -251,22 +247,6 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
         "name": "An Th\u1ea7n",
         "url": "https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 279605,
       "name": "Tim Anh Ghen",
       "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "Don't C\u00f4i",
+        "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
+      },
+      "artists": [
+        {
+          "name": "RPT Orijinn",
+          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
+        },
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "Don't C\u00f4i",
+      "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -475,38 +475,6 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
-        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 167970,
-      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 300718,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -563,6 +547,22 @@
       "duration_ms": 275399,
       "name": "TR\u00ccNH",
       "url": "https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 167970,
+      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Mason Nguyen",
-          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
-        }
-      ],
-      "duration_ms": 158154,
-      "name": "29",
-      "url": "https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
         "name": "Ch\u00ecm S\u00e2u",
         "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
       },
@@ -915,74 +895,6 @@
       "duration_ms": 156000,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
-        "name": "Hai \u0111\u1ee9a nh\u00f3c",
-        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 215850,
-      "name": "Hai \u0111\u1ee9a nh\u00f3c",
-      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
-      },
-      "artists": [
-        {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
-        },
-        {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
-    },
-    {
-      "added_at": "2024-12-04 02:49:26",
-      "album": {
-        "name": "Thi\u00eau Th\u00e2n",
-        "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd"
-        },
-        {
-          "name": "Ch\u00e2u \u0110\u0103ng Khoa",
-          "url": "https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk"
-        },
-        {
-          "name": "Masew",
-          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
-        }
-      ],
-      "duration_ms": 198788,
-      "name": "Thi\u00eau Th\u00e2n",
-      "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -1035,8 +947,8 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
-        "name": "TETVOVEN",
-        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
@@ -1044,17 +956,113 @@
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+          "name": "Mason Nguyen",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
         }
       ],
-      "duration_ms": 197230,
-      "name": "TETVOVEN",
-      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+      "duration_ms": 158154,
+      "name": "29",
+      "url": "https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "Hai \u0111\u1ee9a nh\u00f3c",
+        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 215850,
+      "name": "Hai \u0111\u1ee9a nh\u00f3c",
+      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+      },
+      "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
+        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "C\u00f4ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
+        },
+        {
+          "name": "NICKY",
+          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
+      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
+    },
+    {
+      "added_at": "2024-12-04 02:49:26",
+      "album": {
+        "name": "Thi\u00eau Th\u00e2n",
+        "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd"
+        },
+        {
+          "name": "Ch\u00e2u \u0110\u0103ng Khoa",
+          "url": "https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk"
+        },
+        {
+          "name": "Masew",
+          "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
+        }
+      ],
+      "duration_ms": 198788,
+      "name": "Thi\u00eau Th\u00e2n",
+      "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
     },
     {
       "added_at": "2024-12-04 02:49:26",
@@ -1095,34 +1103,26 @@
     {
       "added_at": "2024-12-04 02:49:26",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
-        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
+        "name": "NGTANOISE",
+        "url": "https://open.spotify.com/album/5dh8bC64DiQUb0o3E73LFc"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+          "name": "VSOUL",
+          "url": "https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q"
         },
         {
-          "name": "Quang H\u00f9ng MasterD",
-          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+          "name": "MFREE",
+          "url": "https://open.spotify.com/artist/3Gx0fp4mXr6YU4DONMHqB8"
         },
         {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        },
-        {
-          "name": "C\u00f4ng D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
-        },
-        {
-          "name": "NICKY",
-          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
+          "name": "TUYEN VO",
+          "url": "https://open.spotify.com/artist/0HhRjPFqN1sqrUpJA7NuDe"
         }
       ],
-      "duration_ms": 256000,
-      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
-      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
+      "duration_ms": 179043,
+      "name": "NGTANOISE",
+      "url": "https://open.spotify.com/track/57FeZINjlat9NLEhYUejmd"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

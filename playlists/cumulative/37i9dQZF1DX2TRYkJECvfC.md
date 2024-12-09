@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-561 songs - 1 day 23 hr 5 min
+562 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,7 @@
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 |  |
 | [Stay](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [For You, Forever](https://open.spotify.com/album/6VD0r8s4NhjszZzoZxcf6S) | 3:53 | 2023-09-08 |  |
 | [Stop That Man](https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ) | [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [Stop That Man](https://open.spotify.com/album/2XFXFozuoCAtegfasbZezP) | 2:50 | 2021-12-08 | 2022-02-22 |
-| [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 |  |
+| [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 | 2024-12-09 |
 | [Sumatra \- Lstn Remix](https://open.spotify.com/track/23jieIC481GBJSSisCISOj) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sumatra \(Lstn Remix\)](https://open.spotify.com/album/0VDPMeq01iUSHoUOm5CGef) | 3:21 | 2021-12-08 | 2022-02-22 |
 | [Summer Heartbreak](https://open.spotify.com/track/0xw0qj3GB1EmVPHNgNQuPk) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN) | [Summer Heartbreak](https://open.spotify.com/album/4UsiZwvSNd0r3RVbVo6xMR) | 3:49 | 2023-03-03 | 2024-07-13 |
 | [Summer Rain](https://open.spotify.com/track/4xA4HIVl08B1IDq3SwmCVH) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Summer Rain](https://open.spotify.com/album/6zNp7UCCpgvmKJOkdgzBtF) | 6:12 | 2021-12-08 | 2022-07-29 |
@@ -487,6 +487,7 @@
 | [Swing Theory \- Radio Edit](https://open.spotify.com/track/1hdg5jyymn9UVOoqi9FY9o) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Swing Theory EP](https://open.spotify.com/album/1ZRQKNxFP6nBWnNOA9ZJOd) | 3:54 | 2021-12-08 | 2023-05-13 |
 | [Synesthesia](https://open.spotify.com/track/4IyPWtUklvJDCG5b7eFZyg) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Synesthesia](https://open.spotify.com/album/1lBVXRRehgnwoMpRm0wwBb) | 4:28 | 2023-09-08 |  |
 | [Takume](https://open.spotify.com/track/3zQwLgmWd0CDRIKZXq9WsW) | [INNX](https://open.spotify.com/artist/5nJed4T0G1U9dZlF5W9Otb) | [Takume](https://open.spotify.com/album/6WDPLQDBa4mjjJQi0rOY0X) | 6:35 | 2021-12-08 |  |
+| [Tales From Beyond](https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Welcome To My World](https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe) | 3:38 | 2024-12-06 |  |
 | [Tali](https://open.spotify.com/track/7AiO8sAwdRa3Q4LdfVJ1TB) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Garcia Smith](https://open.spotify.com/artist/2bM1d2zqQTVageE42BJDia) | [Tali / Cunna](https://open.spotify.com/album/6kRUDhHxKjXtf1wRdcd7Ys) | 6:30 | 2021-12-08 | 2024-07-13 |
 | [Tapisl](https://open.spotify.com/track/1iYxFVF6by0z3X3C9yyTYm) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Tapisl](https://open.spotify.com/album/6ao0OoU3EorF3MTikO6NvU) | 6:41 | 2021-12-08 | 2022-07-29 |
 | [Tapisl](https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [kkompilation vol.1](https://open.spotify.com/album/1YXXvBFYOm0MZSI86xpCYB) | 6:41 | 2022-05-03 | 2023-05-13 |

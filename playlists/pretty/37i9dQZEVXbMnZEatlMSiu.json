@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Taiwan.",
-  "num_followers": 216393,
+  "num_followers": 216405,
   "original_name": "Top 50 - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lue8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LukLoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -65,39 +65,7 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
@@ -113,7 +81,7 @@
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -129,7 +97,75 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
@@ -153,43 +189,7 @@
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "White Christmas (with V of BTS)",
-        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 173033,
-      "name": "White Christmas (with V of BTS)",
-      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "Happy - :D (Remixes)",
         "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
@@ -205,87 +205,7 @@
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "drinks or coffee",
-      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 167748,
-      "name": "two years",
-      "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 154050,
-      "name": "3am",
-      "url": "https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 166742,
-      "name": "gameboy",
-      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 246606,
-      "name": "stay a little longer",
-      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u8449\u60e0\u7f8e",
         "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
@@ -301,103 +221,7 @@
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 184006,
-      "name": "not the same",
-      "url": "https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "call it the end",
-      "url": "https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u534a\u719f\u7406\u60f3",
-        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 254961,
-      "name": "\u96e2\u958b\u7684\u4e00\u8def\u4e0a",
-      "url": "https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 236248,
-      "name": "too bad for us",
-      "url": "https://open.spotify.com/track/3tDF6qjNrabjnb23RB2rpa"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u4f9d\u7136\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/2BvDgFjuzq0BCZOPBeDd1E"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "\u9000\u5f8c",
-      "url": "https://open.spotify.com/track/1QtbOpdb7xBC0EpXA5EqkN"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
@@ -413,7 +237,39 @@
       "url": "https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u534a\u719f\u7406\u60f3",
+        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 254961,
+      "name": "\u96e2\u958b\u7684\u4e00\u8def\u4e0a",
+      "url": "https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -424,152 +280,44 @@
           "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 214950,
-      "name": "dance all night",
-      "url": "https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn"
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+      "duration_ms": 167748,
+      "name": "two years",
+      "url": "https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+      "duration_ms": 154050,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/3y4q6bBdbXsTIaPiwiiUfy"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 143242,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u60c5\u6b4c\u624b",
-        "url": "https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5"
-      },
-      "artists": [
-        {
-          "name": "\u90b1\u8ecd",
-          "url": "https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW"
-        }
-      ],
-      "duration_ms": 208274,
-      "name": "\u904b\u8f49\u4eba\u751f - \u5f71\u96c6\u300a\u83ef\u9e97\u8a08\u7a0b\u8eca\u884c\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC"
@@ -585,23 +333,55 @@
       "url": "https://open.spotify.com/track/1pALOIA4ytESmhl7Fxjdic"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u4f9d\u7136\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/2BvDgFjuzq0BCZOPBeDd1E"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "\u9000\u5f8c",
+      "url": "https://open.spotify.com/track/1QtbOpdb7xBC0EpXA5EqkN"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 166742,
+      "name": "gameboy",
+      "url": "https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT"
@@ -621,7 +401,7 @@
       "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC"
@@ -637,43 +417,79 @@
       "url": "https://open.spotify.com/track/7KoqEF76fGnDYdxTSHLxcm"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
+        "name": "\u60c5\u6b4c\u624b",
+        "url": "https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5"
       },
       "artists": [
         {
-          "name": "\u9ad8\u723e\u5ba3 OSN",
-          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+          "name": "\u90b1\u8ecd",
+          "url": "https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW"
+        }
+      ],
+      "duration_ms": 208274,
+      "name": "\u904b\u8f49\u4eba\u751f - \u5f71\u96c6\u300a\u83ef\u9e97\u8a08\u7a0b\u8eca\u884c\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 246606,
+      "name": "stay a little longer",
+      "url": "https://open.spotify.com/track/5OdI6v2L7Aez4cclpbojiZ"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 180121,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC"
@@ -693,7 +509,23 @@
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC"
@@ -709,23 +541,27 @@
       "url": "https://open.spotify.com/track/1oLmDOpJtIMFdRFBXdnOvj"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u8303\u7279\u897f",
         "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
@@ -741,23 +577,27 @@
       "url": "https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
       },
       "artists": [
         {
-          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
+          "name": "\u9ad8\u723e\u5ba3 OSN",
+          "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
         }
       ],
-      "duration_ms": 222244,
-      "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va"
+      "duration_ms": 180121,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u9b54\u6770\u5ea7",
         "url": "https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3"
@@ -773,7 +613,199 @@
       "url": "https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 184006,
+      "name": "not the same",
+      "url": "https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u5c0b\u627e\u5468\u6770\u502b",
+        "url": "https://open.spotify.com/album/2svyg2JefsZu86XroTyGY7"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 326853,
+      "name": "\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/3797qIRcuMpbsRgdnbSoxw"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 334240,
+      "name": "\u5b89\u975c",
+      "url": "https://open.spotify.com/track/4oSqIlKulWts1oRUIem44V"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 236248,
+      "name": "too bad for us",
+      "url": "https://open.spotify.com/track/3tDF6qjNrabjnb23RB2rpa"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "call it the end",
+      "url": "https://open.spotify.com/track/5a3tLTGA0HIDtrvnszXXBN"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 214950,
+      "name": "dance all night",
+      "url": "https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u5468\u6770\u502b\u7684\u5e8a\u908a\u6545\u4e8b",
+        "url": "https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "\u544a\u767d\u6c23\u7403",
+      "url": "https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
+      "album": {
+        "name": "\u6211\u5f88\u5fd9",
+        "url": "https://open.spotify.com/album/5JNrPPT60TzrqBxsY3hn0A"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "\u84b2\u516c\u82f1\u7684\u7d04\u5b9a",
+      "url": "https://open.spotify.com/track/3JovAXFjc98TkksMfeyIMh"
+    },
+    {
+      "added_at": "2024-12-08 12:47:53",
       "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
         "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
@@ -793,10 +825,10 @@
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "\u8303\u7279\u897f",
-        "url": "https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC"
+        "name": "\u4e0d\u80fd\u8aaa\u7684\u79d8\u5bc6\u96fb\u5f71\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/7eoWv4CgghZ0gvWjjdye98"
       },
       "artists": [
         {
@@ -804,31 +836,15 @@
           "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 334240,
-      "name": "\u5b89\u975c",
-      "url": "https://open.spotify.com/track/4oSqIlKulWts1oRUIem44V"
+      "duration_ms": 296533,
+      "name": "\u4e0d\u80fd\u8aaa\u7684\u79d8\u5bc6",
+      "url": "https://open.spotify.com/track/77jIEebt4z9WzaI6LsntDG"
     },
     {
-      "added_at": "2024-12-07 12:58:16",
+      "added_at": "2024-12-08 12:47:53",
       "album": {
-        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
-        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
-      "url": "https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u5c0b\u627e\u5468\u6770\u502b",
-        "url": "https://open.spotify.com/album/2svyg2JefsZu86XroTyGY7"
+        "name": "\u6770\u502b",
+        "url": "https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON"
       },
       "artists": [
         {
@@ -836,25 +852,9 @@
           "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 326853,
-      "name": "\u8ecc\u8de1",
-      "url": "https://open.spotify.com/track/3797qIRcuMpbsRgdnbSoxw"
-    },
-    {
-      "added_at": "2024-12-07 12:58:16",
-      "album": {
-        "name": "\u5468\u6770\u502b\u7684\u5e8a\u908a\u6545\u4e8b",
-        "url": "https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "\u544a\u767d\u6c23\u7403",
-      "url": "https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23"
+      "duration_ms": 259400,
+      "name": "\u661f\u6674",
+      "url": "https://open.spotify.com/track/1BRoZRAK2XdrSgJ0AJu3eM"
     }
   ],
   "unique_name": "Top 50 - Taiwan",

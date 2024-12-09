@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 237963,
       "name": "Unreasonable Reason",
       "url": "https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo"
@@ -2240,6 +2240,24 @@
       "duration_ms": 226716,
       "name": "\ub0a0\uac1c",
       "url": "https://open.spotify.com/track/1QQkOKDSk8bdR5aqzR0WeL"
+    },
+    {
+      "album": {
+        "name": "The blue color",
+        "url": "https://open.spotify.com/album/3KPsP8XGvy68voyuMRPJzu"
+      },
+      "artists": [
+        {
+          "name": "\uc5b8\ud0c0\uc774\ud2c0",
+          "url": "https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226716,
+      "name": "\ub0a0\uac1c",
+      "url": "https://open.spotify.com/track/1taUg9YqPZjacpSnJTQJzQ"
     },
     {
       "album": {

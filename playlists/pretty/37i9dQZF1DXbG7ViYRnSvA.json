@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 20674,
+  "num_followers": 20690,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Picture This",
         "url": "https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 251200,
       "name": "Lions, Tigers & Bears",
       "url": "https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Complex Simplicity: 15th Anniversary Edition",
         "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 257426,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "IN TIME",
+        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
+      },
+      "artists": [
+        {
+          "name": "Tarrey Torae",
+          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
+        }
+      ],
+      "duration_ms": 225348,
+      "name": "IN TIME",
+      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Catching Dreams",
         "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 374849,
       "name": "Finding Home in Rwanda",
       "url": "https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "IN TIME",
-        "url": "https://open.spotify.com/album/5Unj1ppHWjYhAUK49rqugW"
-      },
-      "artists": [
-        {
-          "name": "Tarrey Torae",
-          "url": "https://open.spotify.com/artist/08oN3COhDNyZrCJv1hu4Pw"
-        }
-      ],
-      "duration_ms": 225348,
-      "name": "IN TIME",
-      "url": "https://open.spotify.com/track/215dPn2vTiquckgM8Izoui"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

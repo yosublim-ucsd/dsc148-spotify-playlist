@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1375461,
+  "num_followers": 1375531,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAB1pek6qWuOtGn65KaitgxY",
+  "snapshot_id": "Z1OQAAAAAADMn6qrQdP+tu8xeccWSC+i",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 202600,
-      "name": "Routines In The Night",
-      "url": "https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ"
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+      "duration_ms": 202600,
+      "name": "Routines In The Night",
+      "url": "https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ"
     },
     {
       "added_at": null,

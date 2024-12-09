@@ -4,12 +4,13 @@
 
 > Mental illness
 
-50 songs - 2 hr 45 min
+52 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaa](https://open.spotify.com/track/6ZaHZR8trkaELFMwbH6wbF) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:59 | 2023-07-21 |  |
 | [aftershocks](https://open.spotify.com/track/17RUojqXdeBFDF1TlrNOsg) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Winter](https://open.spotify.com/album/22eqt3R2kQcQ2g3xzl8sDm) | 4:15 | 2023-07-09 |  |
+| [All Up the Seething Coast](https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:45 | 2024-12-08 |  |
 | [Always Tired](https://open.spotify.com/track/5gRJEKibCgEHT0EyTzCCNN) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Always Tired](https://open.spotify.com/album/1uwuVHWQtLlheh6WxKnjDP) | 3:03 | 2024-02-19 |  |
 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 | 2023-03-26 |  |
 | [Answering the Phone\* \- Bonus Track](https://open.spotify.com/track/2rvhsOudGG9vRRo5xikTlq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:28 | 2024-12-07 |  |
@@ -30,6 +31,7 @@
 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 | 2024-02-19 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2024-10-27 |  |
 | [I\`m OK](https://open.spotify.com/track/6bkzn3e9gtiP0xJTJnQ2eM) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [I\`m OK](https://open.spotify.com/album/2WfSPgV1Bm4RWhP9cEG622) | 3:07 | 2024-10-09 |  |
+| [Letter from Belgium](https://open.spotify.com/track/4ntR3OteArnBskcrUbYqkm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:11 | 2024-12-08 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |
 | [Masher](https://open.spotify.com/track/5aqtEq5sJJlrVoPZTjI0Yj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 3:21 | 2024-11-19 |  |
 | [McCafferty's Bib](https://open.spotify.com/track/65WSrB4IuSAcdAMdbHdjX8) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap) | 2:35 | 2023-03-26 |  |

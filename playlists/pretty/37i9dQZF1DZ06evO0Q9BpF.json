@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 43870,
+  "num_followers": 43884,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAANxsbe+/a6zgrSa5Qf+DRG",
+  "snapshot_id": "Z1OQAAAAAACI2gYAQ+Ak+zCC7e6VvTEi",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salmo 34",
         "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 256305,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luz del Mundo",
+        "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Luz del Mundo",
+      "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Despierta Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1yDNf2X5Z7OzcFgiL9nfbU"
       },
@@ -919,34 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Seguir\u00e9",
-        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 272857,
-      "name": "Yo Te Seguir\u00e9",
-      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
+        },
         {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 227040,
-      "name": "Me Decid\u00ed por Ti",
-      "url": "https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg"
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "added_at": null,
@@ -979,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz del Mundo",
-        "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
       "artists": [
         {
@@ -988,29 +992,25 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 285040,
-      "name": "Luz del Mundo",
-      "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
+      "duration_ms": 227040,
+      "name": "Me Decid\u00ed por Ti",
+      "url": "https://open.spotify.com/track/7MlIR0VI0QOfqclPCmSqzg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+        "name": "Yo Te Seguir\u00e9",
+        "url": "https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+      "duration_ms": 272857,
+      "name": "Yo Te Seguir\u00e9",
+      "url": "https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n"
     },
     {
       "added_at": null,

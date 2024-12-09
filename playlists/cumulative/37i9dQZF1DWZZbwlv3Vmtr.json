@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 104281,
       "name": "Come With A Sparkle",
       "url": "https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8"
@@ -3706,6 +3706,24 @@
       "duration_ms": 136235,
       "name": "Downtime",
       "url": "https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu"
+    },
+    {
+      "album": {
+        "name": "Dr3amScape",
+        "url": "https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Dr3amScape",
+      "url": "https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy"
     },
     {
       "album": {
@@ -7930,7 +7948,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 187317,
       "name": "Last Mission",
       "url": "https://open.spotify.com/track/68eeyMyBLYvpBKuKlGEFgv"
@@ -11130,6 +11148,24 @@
       "duration_ms": 130608,
       "name": "out there",
       "url": "https://open.spotify.com/track/1LpcIXQCaXY5qyNNsSKvYC"
+    },
+    {
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/6NDKjbezHf29zOT3gFzI3D"
+      },
+      "artists": [
+        {
+          "name": "Blumen",
+          "url": "https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147916,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/0MF8wPjQiBbEnJAJ2dO2k7"
     },
     {
       "album": {

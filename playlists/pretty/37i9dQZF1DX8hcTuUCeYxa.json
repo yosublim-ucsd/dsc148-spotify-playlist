@@ -1,6 +1,6 @@
 {
   "description": "Die besten Neuheiten von Alt-Pop bis Indie-Rock. Cover: M. Byrd",
-  "num_followers": 171932,
+  "num_followers": 171977,
   "original_name": "Indie Brandneu",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,22 @@
       "duration_ms": 170557,
       "name": "Follow",
       "url": "https://open.spotify.com/track/0UUYIDuiFXXXx2ZNtdWuP5"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Like You Did Before",
+        "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 187639,
+      "name": "Like You Did Before",
+      "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
     },
     {
       "added_at": "2024-12-05 23:00:00",

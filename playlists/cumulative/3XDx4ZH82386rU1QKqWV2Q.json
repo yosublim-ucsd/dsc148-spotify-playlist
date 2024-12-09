@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "#2027",
+        "url": "https://open.spotify.com/album/0GWGjFro9gvFxxyanay9gi"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        }
+      ],
+      "date_added": "2024-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101298,
+      "name": "BLUEBERRY DREAMS",
+      "url": "https://open.spotify.com/track/5fUIkqXnyr5lxz6Kb925KD"
+    },
+    {
+      "album": {
         "name": "Bluejay",
         "url": "https://open.spotify.com/album/4yHfuJaBgJNnGinMVuHS0p"
       },

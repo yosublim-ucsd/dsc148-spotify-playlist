@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 576094,
+  "num_followers": 576105,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,26 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -211,26 +231,6 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
         "name": "Leaves",
         "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
@@ -263,6 +263,26 @@
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
+        "name": "Hoodie (feat. Alisson Shore)",
+        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "Hoodie (feat. Alisson Shore)",
+      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
       "added_at": "2024-12-04 08:50:44",
@@ -315,26 +335,6 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "Hoodie (feat. Alisson Shore)",
-        "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "Hoodie (feat. Alisson Shore)",
-      "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
         "name": "Kung Wala Ka",
         "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
       },
@@ -363,22 +363,6 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2024-12-04 08:50:44",
@@ -419,6 +403,22 @@
       "duration_ms": 197192,
       "name": "Dati (feat. Skusta Clee)",
       "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2024-12-04 08:50:44",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 269250,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
         "name": "Simula Pa Nung Una",
         "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 255661,
       "name": "Simula Pa Nung Una",
       "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/5RhDcf3sUb46WGHaFy1uDz"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/1lFymAs0a5XGjFVBmkxjQZ"
     },
     {
       "added_at": "2024-12-04 08:50:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
-        }
-      ],
-      "duration_ms": 267786,
-      "name": "Love Moves in Mysterious Ways - Live",
-      "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
         "name": "Abot Langit (Ricovered)",
         "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 177692,
       "name": "Abot Langit - Ricovered",
       "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "duration_ms": 267786,
+      "name": "Love Moves in Mysterious Ways - Live",
+      "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
     },
     {
       "added_at": "2024-12-04 08:50:44",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
+    },
+    {
+      "added_at": "2024-12-04 08:50:44",
+      "album": {
         "name": "Mula sa Malayo",
         "url": "https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "Closer You and I",
-        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Closer You and I",
-      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
-    },
-    {
-      "added_at": "2024-12-04 08:50:44",
-      "album": {
         "name": "Sakote",
         "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-12-04 08:50:44",
       "album": {
-        "name": "Samahan Mo Ako",
-        "url": "https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL"
+        "name": "o ninanais",
+        "url": "https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA"
       },
       "artists": [
         {
-          "name": "Hey Its Je",
-          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 212976,
-      "name": "Samahan Mo Ako",
-      "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"
+      "duration_ms": 252214,
+      "name": "o ninanais",
+      "url": "https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE"
     }
   ],
   "unique_name": "Relax Tayo",

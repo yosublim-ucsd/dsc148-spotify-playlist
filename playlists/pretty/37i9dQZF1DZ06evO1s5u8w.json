@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 189317,
+  "num_followers": 189341,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAAFIgjoneNjsfxZDQSZ3d9G",
+  "snapshot_id": "Z1OQAAAAAAAqJYKkMIOaXuNosqnw8KV0",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pulled Up (Alternate Pop Version) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/7fvYtuJtWz8uA9TiObBgws"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 275500,
-      "name": "Pulled Up (Alternate Pop Version) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/7pB2095AnGgZXOZfHqdHnT"
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Pulled Up (Alternate Pop Version) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/7fvYtuJtWz8uA9TiObBgws"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+      "duration_ms": 275500,
+      "name": "Pulled Up (Alternate Pop Version) - 2024 Remaster",
+      "url": "https://open.spotify.com/track/7pB2095AnGgZXOZfHqdHnT"
     },
     {
       "added_at": null,

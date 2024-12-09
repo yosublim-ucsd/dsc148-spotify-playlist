@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 107536,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "album": {
         "name": "Got Me Feeling",
         "url": "https://open.spotify.com/album/4BTrDK6QAOM64YRyaaPFN3"
       },
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 177120,
       "name": "I Wanna Talk",
       "url": "https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN"
@@ -5908,6 +5926,28 @@
       "duration_ms": 168170,
       "name": "Magic Carpet",
       "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/7dKrKWuGF9vUyj8cUXND7G"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/3Nk2ri6nQaaQakeT0msPuR"
     },
     {
       "album": {

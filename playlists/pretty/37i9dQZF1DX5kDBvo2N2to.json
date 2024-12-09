@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59167,
+  "num_followers": 59165,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "imsochillandcool",
         "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "The Pre-Party",
         "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Someone Was Listening (from Life is Strange)",
         "url": "https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 177428,
       "name": "Someone Was Listening (from Life is Strange)",
       "url": "https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Hur ska jag sova inatt",
-        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 161434,
-      "name": "Hur ska jag sova inatt",
-      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
         "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 180133,
       "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
       "url": "https://open.spotify.com/track/1zHIvkE5jniT18H9IyHQzn"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "I natt \u00e9 hela staden v\u00e5r",
+        "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "I natt \u00e9 hela staden v\u00e5r",
+      "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 164628,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "I natt \u00e9 hela staden v\u00e5r",
-        "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "I natt \u00e9 hela staden v\u00e5r",
-      "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Dance Alone",
-        "url": "https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 158706,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203339,
       "name": "REAL",
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/3Cv4PRHPdzt5A6BUpNnY0H"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 158706,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/51bfC0IWSuuN6x0TKTWcb3"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Dina \u00d6gon \u00c4r Nakna",
-        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
-      },
-      "artists": [
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Dina \u00d6gon \u00c4r Nakna",
-      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Dina \u00d6gon \u00c4r Nakna",
+        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Dina \u00d6gon \u00c4r Nakna",
+      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Apple Cider Vinaigrette",
-        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
-      },
-      "artists": [
-        {
-          "name": "Diane Emerita",
-          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
-        }
-      ],
-      "duration_ms": 224039,
-      "name": "Apple Cider Vinaigrette",
-      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Idioti",
         "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 193327,
       "name": "Idioti",
       "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
     },
     {
       "added_at": "2024-11-08 09:13:14",

@@ -558,6 +558,24 @@
     {
       "album": {
         "name": "Gettin' There",
+        "url": "https://open.spotify.com/album/15XBSuTfxBgZZtKR2PbWaK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Gettin' There",
+      "url": "https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W"
+    },
+    {
+      "album": {
+        "name": "Gettin' There",
         "url": "https://open.spotify.com/album/2AWjtqnJ0AZxIeDZKuVvmR"
       },
       "artists": [
@@ -568,7 +586,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 193000,
       "name": "Gettin' There",
       "url": "https://open.spotify.com/track/64JgqpVpWecb6FSdeBnKzE"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 214666,
       "name": "Good Year For The Outlaw",
       "url": "https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei"
@@ -836,6 +854,24 @@
       "duration_ms": 248725,
       "name": "If Heaven Has A Soundtrack",
       "url": "https://open.spotify.com/track/08N3K0Mhn9AbobnOqZMfmJ"
+    },
+    {
+      "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248746,
+      "name": "If Heaven Has a Soundtrack",
+      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
     },
     {
       "album": {
@@ -1307,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182140,
+      "name": "Speed of Life",
+      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+    },
+    {
+      "album": {
         "name": "Speed Of Life",
         "url": "https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z"
       },
@@ -1618,7 +1672,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 183280,
       "name": "We're Makin' Up",
       "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"

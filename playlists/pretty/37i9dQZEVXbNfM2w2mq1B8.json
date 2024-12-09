@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 16310,
+  "num_followers": 16311,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lue8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LukLoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u0423\u0430\u0443",
         "url": "https://open.spotify.com/album/2K7iBFjPSo8AOtth2pNRl9"
@@ -45,59 +45,7 @@
       "url": "https://open.spotify.com/track/0eCynyX42rcSzLQIg2sHAy"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
-        "url": "https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
-      "url": "https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Ulitsata",
-        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "S nervite sam zle",
-      "url": "https://open.spotify.com/track/143eOEF8oFU1SQXiSZ25kS"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u0421\u0431\u044a\u0440\u043a\u0430 \u0430\u0434\u0440\u0435\u0441\u0430",
         "url": "https://open.spotify.com/album/4cXlYvarzSCZtgE5Elq9rc"
@@ -113,7 +61,23 @@
       "url": "https://open.spotify.com/track/74it9s6hwM1KhN9wgKYgu5"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
+        "url": "https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "\u0414\u0443\u043c \u0422\u0430\u043a",
+      "url": "https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "AMG Isteria",
         "url": "https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL"
@@ -133,7 +97,27 @@
       "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u041e\u043a\u0430\u0434\u0430\u0440",
         "url": "https://open.spotify.com/album/5xx3nU4LyrplNLBLzNVTBG"
@@ -153,43 +137,43 @@
       "url": "https://open.spotify.com/track/3dka3n7xJ9gPiqPhWPy4su"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "Ulitsata",
+        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
         }
       ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+      "duration_ms": 174545,
+      "name": "S nervite sam zle",
+      "url": "https://open.spotify.com/track/143eOEF8oFU1SQXiSZ25kS"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
-        "url": "https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
       },
       "artists": [
         {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
         },
         {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
         }
       ],
-      "duration_ms": 175483,
-      "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
-      "url": "https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4"
+      "duration_ms": 198000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -209,7 +193,27 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Slow Dance (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -233,47 +237,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/65Rz3em8W4ePm6s2hipMpN"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "ZHIVOT MOY",
-        "url": "https://open.spotify.com/album/3PfW1chT92cD1hl3Zq9eAF"
-      },
-      "artists": [
-        {
-          "name": "Fiki",
-          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
-        },
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 208804,
-      "name": "ZHIVOT MOY",
-      "url": "https://open.spotify.com/track/7AitgKOWYpKdIVNm56q4Tt"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -293,7 +257,79 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss"
+      },
+      "artists": [
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
+      "url": "https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "ZHIVOT MOY",
+        "url": "https://open.spotify.com/album/3PfW1chT92cD1hl3Zq9eAF"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
+        },
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 208804,
+      "name": "ZHIVOT MOY",
+      "url": "https://open.spotify.com/track/7AitgKOWYpKdIVNm56q4Tt"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Losha",
         "url": "https://open.spotify.com/album/0K4vDNBQ6yIs06UuOk3sWt"
@@ -309,27 +345,7 @@
       "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Kazah \"NE\"",
-        "url": "https://open.spotify.com/album/04RWL3EciHwZy058yun5eb"
-      },
-      "artists": [
-        {
-          "name": "Fiki",
-          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Kazah \"NE\"",
-      "url": "https://open.spotify.com/track/57CeTw4PsGK1OodCls4P7j"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u041f\u0443\u0448\u0438, \u043f\u0443\u0448\u0438",
         "url": "https://open.spotify.com/album/6xYrQirspZgjqoetOnUS5f"
@@ -349,7 +365,43 @@
       "url": "https://open.spotify.com/track/0336cbGmNVwmytwQh0zNeB"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Mazalyak",
+        "url": "https://open.spotify.com/album/3O5pvkZ7Jrlqz1UN9qain9"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/3ulU1RBrSIiiKhxbeIuvpw"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Mazalyak",
+      "url": "https://open.spotify.com/track/542H35VsHuyhN1mBzDpAaT"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Ulitsata",
         "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
@@ -365,43 +417,43 @@
       "url": "https://open.spotify.com/track/3slJa7NhnfEsmH3DZW7iHd"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Kazah \"NE\"",
+        "url": "https://open.spotify.com/album/04RWL3EciHwZy058yun5eb"
+      },
+      "artists": [
+        {
+          "name": "Fiki",
+          "url": "https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1"
         },
         {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
         }
       ],
-      "duration_ms": 188399,
-      "name": "Slow Dance (feat. Sofia Carson)",
-      "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
+      "duration_ms": 197333,
+      "name": "Kazah \"NE\"",
+      "url": "https://open.spotify.com/track/57CeTw4PsGK1OodCls4P7j"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "\u0411\u041b\u041e\u041a 5",
-        "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
-      },
-      "artists": [
-        {
-          "name": "MOMO RECORDS",
-          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "\u0413-\u041d \u041f\u041e\u0420\u042a\u0427\u041a\u0410",
-      "url": "https://open.spotify.com/track/1UeRaFI9tWAF9gy5hsnxHl"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Mrasnica",
         "url": "https://open.spotify.com/album/6wP5dihV6tPPxQ2HASFU8v"
@@ -417,7 +469,7 @@
       "url": "https://open.spotify.com/track/1LXRWQeHY486xZVgl3uJ4x"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -437,27 +489,55 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "Dokato sartseto bie",
-        "url": "https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
-        },
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 213913,
-      "name": "Ne me zasluzhavash",
-      "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "\u0411\u041b\u041e\u041a 5",
+        "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
+      },
+      "artists": [
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "\u0413-\u041d \u041f\u041e\u0420\u042a\u0427\u041a\u0410",
+      "url": "https://open.spotify.com/track/1UeRaFI9tWAF9gy5hsnxHl"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
+        "url": "https://open.spotify.com/album/7cekQBr7MUbxcUVcb1UTwa"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
+      "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "Moy Si Merak",
         "url": "https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx"
@@ -477,7 +557,7 @@
       "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u0425\u0430\u043c\u0435\u043b\u0435\u043e\u043d",
         "url": "https://open.spotify.com/album/2W96UGgCMcucMFrR1Wn7gM"
@@ -497,7 +577,59 @@
       "url": "https://open.spotify.com/track/7KMmaDOUgX7xg6boaunE6Q"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Dokato sartseto bie",
+        "url": "https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+        },
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 213913,
+      "name": "Ne me zasluzhavash",
+      "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
         "url": "https://open.spotify.com/album/4LkLJgHZ9HnFHnLcHYn6Ed"
@@ -517,23 +649,7 @@
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Siromah",
-        "url": "https://open.spotify.com/album/6HMhKmiWJK0jHPernrd7Mo"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Siromah",
-      "url": "https://open.spotify.com/track/0P9t4y8niPdEfQdtIuqWJK"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "GALENAXX",
         "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
@@ -549,147 +665,7 @@
       "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Dale Baby",
-        "url": "https://open.spotify.com/album/60PSUmuJBrGcg2RWXnxlgB"
-      },
-      "artists": [
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        },
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Dale Baby",
-      "url": "https://open.spotify.com/track/1zK1hzNzGlKcVKdxkp0Rcv"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
-        "url": "https://open.spotify.com/album/7cekQBr7MUbxcUVcb1UTwa"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
-      "url": "https://open.spotify.com/track/42z5ag3XE4nIApxnqnRCCO"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Emanuela",
-        "url": "https://open.spotify.com/album/2ekquCtlTam7ZN0mjVPxzH"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        },
-        {
-          "name": "Jordan",
-          "url": "https://open.spotify.com/artist/1cqkZpQniJhO3wvhxqVz54"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "Ot Moiata Usta",
-      "url": "https://open.spotify.com/track/32OOCMqobtO6NfIpuF9l1K"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "\u041c\u0430\u043c\u0430 \u043c\u0438\u0430",
         "url": "https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q"
@@ -709,78 +685,58 @@
       "url": "https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Siromah",
+        "url": "https://open.spotify.com/album/6HMhKmiWJK0jHPernrd7Mo"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 200000,
+      "name": "Siromah",
+      "url": "https://open.spotify.com/track/0P9t4y8niPdEfQdtIuqWJK"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "Ulitsata",
-        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 215523,
-      "name": "Ne vdigay",
-      "url": "https://open.spotify.com/track/4jBzWeEry7lyvPeR1tQp64"
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
-        "url": "https://open.spotify.com/album/7iw4JcTohH6Ec4pMoLj6JX"
+        "name": "Men Si Tarsil",
+        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
       },
       "artists": [
         {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
         }
       ],
-      "duration_ms": 206000,
-      "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
-      "url": "https://open.spotify.com/track/7FdivsVRlBUagQR4SSQW9i"
+      "duration_ms": 201533,
+      "name": "Dai Mi Vsichko",
+      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0435",
-        "url": "https://open.spotify.com/album/4o3sYDXhSvHcXvpEyF4FJp"
+        "name": "\u041c\u043e\u044f\u0442\u0430 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
+        "url": "https://open.spotify.com/album/6QrIOUASlWIq4MW4tsCGTb"
       },
       "artists": [
         {
@@ -788,16 +744,52 @@
           "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
         },
         {
-          "name": "Sofi Marinova",
-          "url": "https://open.spotify.com/artist/0uQufSOI58CZsze92brlhq"
+          "name": "Tomas",
+          "url": "https://open.spotify.com/artist/48MmYtebtmsS7LjcYwGBWk"
         }
       ],
-      "duration_ms": 206000,
-      "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0435",
-      "url": "https://open.spotify.com/track/3I4DeXZENnp9txN2za4Lyf"
+      "duration_ms": 170666,
+      "name": "\u041c\u043e\u044f\u0442\u0430 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
+      "url": "https://open.spotify.com/track/2niJWeSoQwV4LZtHtj4mpj"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
       "album": {
         "name": "OTKACHALKI",
         "url": "https://open.spotify.com/album/0wxBkakmoiGcrGov64qJZO"
@@ -821,116 +813,108 @@
       "url": "https://open.spotify.com/track/1pRSvQZVxrZ2d4GPjZmlAq"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
-        "url": "https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777"
+        "name": "Centrofuga",
+        "url": "https://open.spotify.com/album/7Ga74OnzbimmtV9bCiERom"
       },
       "artists": [
         {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
         },
         {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+          "name": "Don Mario",
+          "url": "https://open.spotify.com/artist/2lKSCvxuWDRCyImWLIXqre"
         }
       ],
-      "duration_ms": 248000,
-      "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
-      "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
+      "duration_ms": 217816,
+      "name": "Centrofuga",
+      "url": "https://open.spotify.com/track/1lKpsuiY1GKU0Tj7QE8EWX"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "\u041c\u043e\u044f\u0442\u0430 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
-        "url": "https://open.spotify.com/album/6QrIOUASlWIq4MW4tsCGTb"
+        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
       },
       "artists": [
         {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
+    },
+    {
+      "added_at": "2024-12-08 12:47:49",
+      "album": {
+        "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+        "url": "https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
         },
         {
-          "name": "Tomas",
-          "url": "https://open.spotify.com/artist/48MmYtebtmsS7LjcYwGBWk"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
         }
       ],
-      "duration_ms": 170666,
-      "name": "\u041c\u043e\u044f\u0442\u0430 \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0430",
-      "url": "https://open.spotify.com/track/2niJWeSoQwV4LZtHtj4mpj"
+      "duration_ms": 240937,
+      "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+      "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "GALENAXX",
-        "url": "https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Tzanca Uragan",
-          "url": "https://open.spotify.com/artist/3lbZr7dH2UwN4ZBhv0CcXb"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Delta Force",
-      "url": "https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds"
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+        "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 168333,
+      "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
+      "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
-      "added_at": "2024-12-07 12:58:12",
+      "added_at": "2024-12-08 12:47:49",
       "album": {
-        "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
-        "url": "https://open.spotify.com/album/38Jzp2ZUjd3UkBSy7Vemzn"
+        "name": "Ulitsata",
+        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
       },
       "artists": [
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
         }
       ],
-      "duration_ms": 160879,
-      "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
-      "url": "https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS"
-    },
-    {
-      "added_at": "2024-12-07 12:58:12",
-      "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
-      },
-      "artists": [
-        {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
+      "duration_ms": 215523,
+      "name": "Ne vdigay",
+      "url": "https://open.spotify.com/track/4jBzWeEry7lyvPeR1tQp64"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

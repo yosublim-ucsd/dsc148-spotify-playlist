@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 243064,
+  "num_followers": 243086,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "El Tango Lo Siento As\u00ed",
+        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/4bk560hRfrAuBCHOpitRcp"
       },
@@ -135,22 +155,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Our Last Tango (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4"
-      },
-      "artists": [
-        {
-          "name": "Sexteto Mayor",
-          "url": "https://open.spotify.com/artist/6Wvfeq2vPFsjNGxFmcz1nq"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Remolino",
-      "url": "https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Los Lobos del Recuerdo",
         "url": "https://open.spotify.com/album/17BgcItk2ixHXDenSIdA4T"
       },
@@ -167,54 +171,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Tango Lo Siento As\u00ed",
-        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
+        "name": "Our Last Tango (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6KHuXPoSIy51xXU3IB05L4"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+          "name": "Sexteto Mayor",
+          "url": "https://open.spotify.com/artist/6Wvfeq2vPFsjNGxFmcz1nq"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Antologia Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Yira...Yira",
-      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+      "duration_ms": 190573,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -231,6 +199,42 @@
       "duration_ms": 183040,
       "name": "El Choclo",
       "url": "https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "El Firulete",
+        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -267,26 +271,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Firulete",
-        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
-      },
-      "artists": [
-        {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 175626,
       "name": "Desde El Alma - Instrumental",
       "url": "https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Var\u00f3n (Remastered)",
+        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
+      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Var\u00f3n (Remastered)",
-        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+        "name": "Antologia Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
-      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
+      "duration_ms": 168773,
+      "name": "Yira...Yira",
+      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Gallo Ciego - Instrumental",
-      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Tango Collection",
         "url": "https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 655196,
       "name": "Adi\u00f3s Nonino",
       "url": "https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Gallo Ciego - Instrumental",
+      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Manzi, caminos de barro y pampa",
-        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 216465,
-      "name": "Romance de barrio",
-      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
         "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 154794,
       "name": "Por una Cabeza",
       "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Manzi, caminos de barro y pampa",
+        "url": "https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 216465,
+      "name": "Romance de barrio",
+      "url": "https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Una Guitarra Para Gardel",
+        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
+      },
+      "artists": [
+        {
+          "name": "An\u00edbal Arias",
+          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
+        }
+      ],
+      "duration_ms": 132426,
+      "name": "Silbando",
+      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Los Cien Barrios Porte\u00f1os",
         "url": "https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205546,
       "name": "El Coraz\u00f3n al Sur",
       "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Una Guitarra Para Gardel",
-        "url": "https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj"
-      },
-      "artists": [
-        {
-          "name": "An\u00edbal Arias",
-          "url": "https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm"
-        }
-      ],
-      "duration_ms": 132426,
-      "name": "Silbando",
-      "url": "https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+        "name": "Un Gui\u00f1o",
+        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
       },
       "artists": [
         {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+      "duration_ms": 175003,
+      "name": "Un Gui\u00f1o",
+      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Un Gui\u00f1o",
-        "url": "https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Un Gui\u00f1o",
-      "url": "https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1099,6 +1099,34 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        },
+        {
+          "name": "Llu\u00eds Vidal",
+          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
+        },
+        {
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
+      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Tal vez ser\u00e0 su voz",
         "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
       },
@@ -1115,6 +1143,22 @@
       "duration_ms": 262706,
       "name": "Tal vez sera su voz",
       "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1155,34 +1199,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
-        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        },
-        {
-          "name": "Llu\u00eds Vidal",
-          "url": "https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH"
-        },
-        {
-          "name": "Orquestra De Cambra Teatre Lliure",
-          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
-        },
-        {
-          "name": "Josep Pons",
-          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
-      "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
         "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 133760,
       "name": "Si Tu Quisieras",
       "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Detr\u00e1s de los Cerros",
-        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Los Crayones",
-          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Mundo De La Fantas\u00eda",
         "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 207746,
       "name": "El Mundo De La Fantas\u00eda",
       "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Detr\u00e1s de los Cerros",
+        "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Los Crayones",
+          "url": "https://open.spotify.com/artist/1NDpEndAKfNyVFrV6qgiuy"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/5JUyAdVFMa1JCnXabSxj48"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Oto\u00f1o Porte\u00f1o",
-        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
-      },
-      "artists": [
-        {
-          "name": "Ventarr\u00f3n",
-          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Oto\u00f1o porte\u00f1o",
-      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Todo Piazzolla",
         "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196773,
       "name": "Tango Del Angel",
       "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Oto\u00f1o Porte\u00f1o",
+        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
+      },
+      "artists": [
+        {
+          "name": "Ventarr\u00f3n",
+          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Oto\u00f1o porte\u00f1o",
+      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
     },
     {
       "added_at": "2024-08-02 03:00:00",

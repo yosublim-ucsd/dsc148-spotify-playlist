@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAANvAqYtMmQ+G1dczzAzv4zXY++1XJ",
+  "snapshot_id": "AAAAOAfNjzlyl8cFOy/RPXsfbgazOABt",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -811,6 +811,38 @@
       "duration_ms": 148733,
       "name": "Answering the Phone* - Bonus Track",
       "url": "https://open.spotify.com/track/2rvhsOudGG9vRRo5xikTlq"
+    },
+    {
+      "added_at": "2024-12-08 03:31:24",
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Letter from Belgium",
+      "url": "https://open.spotify.com/track/4ntR3OteArnBskcrUbYqkm"
+    },
+    {
+      "added_at": "2024-12-08 07:22:46",
+      "album": {
+        "name": "We Shall All Be Healed",
+        "url": "https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "All Up the Seething Coast",
+      "url": "https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS"
     }
   ],
   "unique_name": "Diseased",

@@ -1,6 +1,6 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 577865,
+  "num_followers": 577976,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Loveless",
         "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Off Your Face",
-      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "She Hangs Brightly",
         "url": "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 384400,
       "name": "She Hangs Brightly",
       "url": "https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2024-10-15 03:40:28",
@@ -251,18 +251,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
       },
       "artists": [
         {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -415,6 +415,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Sugar & Spice",
         "url": "https://open.spotify.com/album/6ukRsxcKxoNNi1PNUui57O"
       },
@@ -429,36 +445,20 @@
       "url": "https://open.spotify.com/track/3zdTA309WHMFZo1l6IAiPu"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-08-09 00:28:42",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
       },
       "artists": [
         {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
         }
       ],
-      "duration_ms": 314706,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
+      "duration_ms": 323613,
+      "name": "When Will You Come Home",
+      "url": "https://open.spotify.com/track/2m4pMnVi3e9HuSwSci6dg8"
     },
     {
       "added_at": "2024-11-12 21:48:59",
@@ -509,42 +509,10 @@
       "url": "https://open.spotify.com/track/6Xixw5h0qlV7U5Fj7dP3cM"
     },
     {
-      "added_at": "2022-08-09 00:28:42",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 323613,
-      "name": "When Will You Come Home",
-      "url": "https://open.spotify.com/track/2m4pMnVi3e9HuSwSci6dg8"
-    },
-    {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Faded Seaside Glamour",
-        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
-      },
-      "artists": [
-        {
-          "name": "Delays",
-          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
       },
       "artists": [
         {
@@ -552,25 +520,9 @@
           "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 290800,
-      "name": "Pearl - Edit",
-      "url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Brickbat",
-        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
-      },
-      "artists": [
-        {
-          "name": "Piroshka",
-          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
-        }
-      ],
-      "duration_ms": 269747,
-      "name": "Everlastingly Yours",
-      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
+      "duration_ms": 314706,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -591,6 +543,38 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Faded Seaside Glamour",
+        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
+      },
+      "artists": [
+        {
+          "name": "Delays",
+          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Brickbat",
+        "url": "https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A"
+      },
+      "artists": [
+        {
+          "name": "Piroshka",
+          "url": "https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28"
+        }
+      ],
+      "duration_ms": 269747,
+      "name": "Everlastingly Yours",
+      "url": "https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Tremolo",
         "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 293840,
       "name": "Swallow (EP Version)",
       "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Sunbathing",
+      "url": "https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -623,34 +623,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
       "artists": [
         {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Sunbathing",
-      "url": "https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM"
-    },
-    {
-      "added_at": "2021-10-01 17:04:55",
-      "album": {
-        "name": "You See Colours",
-        "url": "https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz"
-      },
-      "artists": [
-        {
-          "name": "Delays",
-          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3"
+      "duration_ms": 290800,
+      "name": "Pearl - Edit",
+      "url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -687,6 +671,38 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Anne with an E",
+      "url": "https://open.spotify.com/track/6Vookb0CmTJyKM2Axi6J1Z"
+    },
+    {
+      "added_at": "2021-10-01 17:04:55",
+      "album": {
+        "name": "You See Colours",
+        "url": "https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz"
+      },
+      "artists": [
+        {
+          "name": "Delays",
+          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Shimmering, Warm and Bright",
         "url": "https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 318044,
       "name": "She's Unreal",
       "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Anne with an E",
-      "url": "https://open.spotify.com/track/6Vookb0CmTJyKM2Axi6J1Z"
     },
     {
       "added_at": "2022-08-09 00:18:52",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAABzf8h4dAVqUeLIK8NK5ZA8",
+  "snapshot_id": "Z1OQAAAAAAAg+pp9WG/36Xa2vgdEancq",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila Collection ao Vivo 10 Anos",
-        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 334878,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 334310,
       "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyshila Collection ao Vivo 10 Anos",
+        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 334878,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quero Aprender a Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 326264,
-      "name": "Existe Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -551,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quero Aprender a Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 326264,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 291646,
       "name": "Deus no Controle",
       "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": null,
@@ -599,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 294183,
       "name": "Transformada",
       "url": "https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 402587,
+      "name": "Sonhos N\u00e3o Tem Fim",
+      "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 402587,
-      "name": "Sonhos N\u00e3o Tem Fim",
-      "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 328051,
-      "name": "Basta um Olhar",
-      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -955,28 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Vem",
-        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 403586,
-      "name": "Ele Vem",
-      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
       },
       "artists": [
         {
@@ -984,9 +948,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 313097,
-      "name": "Com o Teu Fogo",
-      "url": "https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG"
+      "duration_ms": 328051,
+      "name": "Basta um Olhar",
+      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
     },
     {
       "added_at": null,
@@ -1011,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 313097,
+      "name": "Com o Teu Fogo",
+      "url": "https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 281471,
       "name": "Mulher Vitoriosa",
       "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Vem",
+        "url": "https://open.spotify.com/album/6gjRM3VHMVsfmCropNjAg0"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 403586,
+      "name": "Ele Vem",
+      "url": "https://open.spotify.com/track/7DaTsKtZb7JwH9aYV2ZSbb"
     },
     {
       "added_at": null,
@@ -1071,18 +1071,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+        "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
+        "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
       "artists": [
         {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 287045,
-      "name": "Som de um Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4nGmblPOv1o8xRmd5Qi9vy"
+      "duration_ms": 326550,
+      "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
+      "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
     }
   ],
   "unique_name": "This Is Eyshila",

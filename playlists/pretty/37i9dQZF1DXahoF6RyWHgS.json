@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 44971,
+  "num_followers": 44976,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Perez Prado",
+        "url": "https://open.spotify.com/album/0AqAcjYhjpkSXd972Ixy3e"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "The Peanut Vendor",
+      "url": "https://open.spotify.com/track/1XYM4w6LHY9DkEKVXjdGzz"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Sympathique",
@@ -179,22 +195,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Perez Prado",
-        "url": "https://open.spotify.com/album/0AqAcjYhjpkSXd972Ixy3e"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "The Peanut Vendor",
-      "url": "https://open.spotify.com/track/1XYM4w6LHY9DkEKVXjdGzz"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Antolog\u00eda...Los Xochimilcas",
         "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 192293,
       "name": "Pulque para dos",
       "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -231,22 +247,6 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/3DZfZ2Us4Wq9X5zXy0itrm"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/6d6HIp4JZDSSgd3u2ilHqy"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Alma de Cantaora",
-        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
-      },
-      "artists": [
-        {
-          "name": "Amparo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
-        }
-      ],
-      "duration_ms": 290093,
-      "name": "Alma de Cantaora",
-      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
@@ -363,6 +347,22 @@
       "duration_ms": 216280,
       "name": "Moliendo caf\u00e9",
       "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Alma de Cantaora",
+        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
+      },
+      "artists": [
+        {
+          "name": "Amparo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
+        }
+      ],
+      "duration_ms": 290093,
+      "name": "Alma de Cantaora",
+      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
       "added_at": "2022-02-04 19:55:03",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/4zE7FbDsTiikGfy09uzgRi"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Mongo Santamaria's Greatest Hits",
+        "url": "https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "X\u00eb\u00ebw (Volumen 1)",
@@ -613,22 +629,6 @@
       "url": "https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -643,6 +643,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Canto",
         "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "Arroz Con Frijoles",
-      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Batazo Batero",
         "url": "https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 298253,
       "name": "Batazo Batero",
       "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Arroz Con Frijoles",
+      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Trio Nuevomexicano",
-        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
-      },
-      "artists": [
-        {
-          "name": "Lone Pi\u00f1on",
-          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "La Xochipitzahuatl",
-      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Trio Nuevomexicano",
+        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
+      },
+      "artists": [
+        {
+          "name": "Lone Pi\u00f1on",
+          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "La Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Bi",
@@ -915,6 +899,22 @@
       "duration_ms": 267480,
       "name": "Apocalypso",
       "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "El Brown Recluse",
-        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
-      },
-      "artists": [
-        {
-          "name": "Charanga Cakewalk",
-          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Pulque",
-      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Mar\u00eda Cristina (Remastered)",
@@ -995,6 +979,22 @@
       "duration_ms": 158467,
       "name": "Maria Cristina - Remastered",
       "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "El Brown Recluse",
+        "url": "https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O"
+      },
+      "artists": [
+        {
+          "name": "Charanga Cakewalk",
+          "url": "https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Pulque",
+      "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/2iVUP0Pp37gy6GBRKm9lcg"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Cuba",
-        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 201827,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "March of the Zapotec & Realpeople: Holland",
@@ -1617,6 +1601,38 @@
       "url": "https://open.spotify.com/track/3NnXt3aUWvKDsnEsjDdmOB"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/2jdasf6mLTfnf4D7HyN7dC"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Tastes Like L.A.",
@@ -1647,22 +1663,6 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/1IgfNMFIkkqSoZpjp1aEf9"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/1j2hwajHISJ0BmrAd7y3AK"
     }
   ],
   "unique_name": "Cocina Tradicional",

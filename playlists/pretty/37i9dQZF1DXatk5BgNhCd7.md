@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Tiago PZK, Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,394 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,511 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 17 | [Bonita](https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Bonita](https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7) | 3:05 |
 | 18 | [Voy A Brindar](https://open.spotify.com/track/6h2OfZy5Q2NP3aBCCby0Eg) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Voy A Brindar](https://open.spotify.com/album/3kRaSYXy8iJG9VtOWLu0Mu) | 2:38 |
 | 19 | [Tren Al Sur](https://open.spotify.com/track/0R2YUDiZNGOaOQT3cBCXeQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pateando Cumbias \(Homenaje a Jorge González\)](https://open.spotify.com/album/3Z2K8Uw0tSnPIcHxxAO2Jk) | 4:19 |
-| 20 | [Corazón corazoncito / Perfecta \- En Vivo Movistar Arena](https://open.spotify.com/track/5LEpqqnRHC6fAoLYj3VLEk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Corazón corazoncito / Perfecta \(En Vivo Movistar Arena\)](https://open.spotify.com/album/6GLnRbMUE4XXBU03V0yIw6) | 6:27 |
+| 20 | [Corazón corazoncito / Perfecta \- En Vivo Movistar Arena, Sesión 5](https://open.spotify.com/track/5LEpqqnRHC6fAoLYj3VLEk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Corazón corazoncito / Perfecta \(En Vivo Movistar Arena, Sesión 5\)](https://open.spotify.com/album/6GLnRbMUE4XXBU03V0yIw6) | 6:27 |
 | 21 | [Cómo Lo Hizo \- No Podrás \- En Vivo](https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cómo Lo Hizo \- No Podrás \(En Vivo\)](https://open.spotify.com/album/1x5XZIoKDX8imxr09pCewy) | 8:36 |
 | 22 | [SUÉLTALA](https://open.spotify.com/track/7xoo20Za3G9FnsmRCyZWEq) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [SUÉLTALA](https://open.spotify.com/album/2pcnkQUeLodCOLQSiVIiOL) | 3:33 |
 | 23 | [Para Navidad](https://open.spotify.com/track/5eWccFpMb86mMocYVKZgsC) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Para Navidad](https://open.spotify.com/album/6hOqfnkjRvUh8MbMRpDQXM) | 2:11 |

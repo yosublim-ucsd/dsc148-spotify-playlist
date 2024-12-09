@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Chill Chicos.
 
-267 songs - 13 hr 54 min
+268 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Granaíco](https://open.spotify.com/track/0WEid1VuBFoCgrxPDjK3P5) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Maestro Espada](https://open.spotify.com/album/3i6B3xwYiAeG7S4yhalD6j) | 4:09 | 2024-09-12 | 2024-11-08 |
 | [GUAYA GUAYA](https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [GUAYA GUAYA](https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe) | 2:28 | 2024-06-27 | 2024-07-24 |
 | [HACER TEATRO](https://open.spotify.com/track/3so52dZJbgrqhU2rBrNiuM) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [HACER TEATRO](https://open.spotify.com/album/4QrD2b9rwY3O8acSduHOan) | 2:39 | 2024-07-11 | 2024-07-27 |
+| [Hartu lerak maldan behera](https://open.spotify.com/track/2tUx06uLaG8lPMJ2zGvGLv) | [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [izaro Gabonetan](https://open.spotify.com/album/3SyXBIytJ1RqrfN0X12phy) | 3:09 | 2024-12-05 |  |
 | [Haría Lo Que Fuera \(Menos Lo Que Tú Quieras\)](https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Haría Lo Que Fuera \(Menos Lo Que Tú Quieras\)](https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH) | 3:42 | 2024-07-11 | 2024-11-29 |
 | [Heavenly](https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:25 | 2024-10-24 |  |
 | [HELLO PITI](https://open.spotify.com/track/02qzGFQ2zbuMPPyDXXs6CB) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [HELLO PITI](https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p) | 2:23 | 2024-06-27 | 2024-09-06 |
@@ -258,7 +259,7 @@
 | [Un Millón de Años](https://open.spotify.com/track/1FwNzcMOscVkseCTpW6aey) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Un Millón de Años](https://open.spotify.com/album/1cpc3zlcpeHCWS9ib1E4dG) | 3:37 | 2024-06-27 | 2024-08-03 |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2024-06-27 | 2024-12-06 |
 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-28 |  |
-| [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 |  |
+| [Valle La Pena](https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i) | [Mustard](https://open.spotify.com/artist/1w47PGjlIC5Zfj1IzZI2t6) | [Valle La Pena](https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio) | 3:03 | 2024-08-08 | 2024-12-09 |
 | [VAPOR Y CIELO](https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [VAPOR Y CIELO](https://open.spotify.com/album/6aDL1lkv9Pm6NEM7ATGEbg) | 3:02 | 2024-11-22 |  |
 | [Vespa Verde Agua](https://open.spotify.com/track/2JIwRrmCSPwr0dutKHhM1Z) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A) | [Vespa Verde Agua](https://open.spotify.com/album/6S34sLuIoNgwBaodiISKmz) | 2:46 | 2024-09-19 |  |
 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 | 2024-10-10 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAAB3gDgTZFvItf59SbCBFaYU",
+  "snapshot_id": "Z1OQAAAAAAChLiuta4CsR4nmO29mFKVe",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde CLN Tololoche Edition",
         "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 119920,
       "name": "Medio Fresa - En Vivo",
       "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
-        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 134184,
-      "name": "Ac\u00e1 Por Tijuana - En Vivo",
-      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
     },
     {
       "added_at": null,
@@ -883,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maserati (En Vivo)",
-        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
+        "name": "Ac\u00e1 Por Tijuana (En Vivo)",
+        "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
       },
       "artists": [
         {
@@ -892,13 +872,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 162474,
-      "name": "El Maserati - En Vivo",
-      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
+      "duration_ms": 134184,
+      "name": "Ac\u00e1 Por Tijuana - En Vivo",
+      "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 196414,
       "name": "This Is The End - En Vivo",
       "url": "https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maserati (En Vivo)",
+        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+        }
+      ],
+      "duration_ms": 162474,
+      "name": "El Maserati - En Vivo",
+      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,

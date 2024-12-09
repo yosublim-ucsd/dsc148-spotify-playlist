@@ -1,29 +1,13 @@
 {
   "description": "New and local indie noise. Cover: Press Club",
-  "num_followers": 59798,
+  "num_followers": 59804,
   "original_name": "Local Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1Gj0AAAAAB/EiUepQqjZsfZhCHYooIf",
+  "snapshot_id": "Z1Yj5gAAAACkl9OZVMf6GMrd4ljPj8Ed",
   "tracks": [
-    {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "Don't Wanna Talk About Love",
-        "url": "https://open.spotify.com/album/0jJwlSGBMUQ2FE4x3yQEkM"
-      },
-      "artists": [
-        {
-          "name": "Forever Ends Here",
-          "url": "https://open.spotify.com/artist/67ai9bHZKueFEXQhqxXzfq"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Don't Wanna Talk About Love",
-      "url": "https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8"
-    },
     {
       "added_at": "2024-12-05 13:00:00",
       "album": {
@@ -103,6 +87,22 @@
       "duration_ms": 213046,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/4OeKxxRK8khI2hEwiQtf65"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "Don't Wanna Talk About Love",
+        "url": "https://open.spotify.com/album/0jJwlSGBMUQ2FE4x3yQEkM"
+      },
+      "artists": [
+        {
+          "name": "Forever Ends Here",
+          "url": "https://open.spotify.com/artist/67ai9bHZKueFEXQhqxXzfq"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Don't Wanna Talk About Love",
+      "url": "https://open.spotify.com/track/1QpdNxqnP2ZQOxaCoDIgq8"
     },
     {
       "added_at": "2024-12-05 13:00:00",

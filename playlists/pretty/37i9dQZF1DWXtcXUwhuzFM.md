@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Karim B ja TUULI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,313 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,311 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 84 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 | 85 | [Pelaa Possum](https://open.spotify.com/track/3eCpYLXmH4jZbmwhJ9CQrL) | [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl) | [Pelaa Possum](https://open.spotify.com/album/1li2eZ9aWthIKgP73d2SWr) | 3:24 |
 | 86 | [Holiday \(with Jonas Brothers & LL COOL J\)](https://open.spotify.com/track/3mIFf7GhQcHH7EB3myFwvd) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Holiday Seasoning \(Deluxe\)](https://open.spotify.com/album/4n9CrSpZoazxPO2OnGyvib) | 3:03 |
-| 87 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/10VTGeDjRRN2DL0d38wLo7) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
+| 87 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
 | 88 | [Focus Ring](https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Focus Ring](https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u) | 2:27 |
 | 89 | [Singing For The Pharaoh](https://open.spotify.com/track/5h6eVfOnND7xsmzBEFK8Ne) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [Singing For The Pharaoh](https://open.spotify.com/album/0SRG9EtxPNfXxPUnbmeYPV) | 3:49 |
 | 90 | [Lugar Perfeito](https://open.spotify.com/track/7L9AtCgNka6hR5HQ0y0aR0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ensaios Da Anitta](https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9) | 2:32 |

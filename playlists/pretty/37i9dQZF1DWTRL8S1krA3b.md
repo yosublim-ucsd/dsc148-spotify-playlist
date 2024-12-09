@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 97 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,703 likes - 97 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 86 | [Country Christmas](https://open.spotify.com/track/0qH1ZauXu4eLWr368fF4LY) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Country Christmas](https://open.spotify.com/album/0XdN7x2UxeQN9u2gpLm6YZ) | 2:39 |
 | 87 | [Come Go With Us](https://open.spotify.com/track/6O4bsFgDPdzkhymihwKAaa) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Come Go With Us](https://open.spotify.com/album/6nElCWjIICuKSS4lg0RUVi) | 6:40 |
 | 88 | [Hard To Wait For Christmas](https://open.spotify.com/track/6rk75ZNDT4yhPx7JP7avuS) | [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D), [Eisele Kaye](https://open.spotify.com/artist/5vlqvaRqGsbhmWNzWu8xJ6) | [Hard To Wait For Christmas](https://open.spotify.com/album/4PyH3RBNtd5fPRInWb7F2G) | 4:00 |
-| 89 | [O Come, O Come Emmanuel \(LIVE\)](https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas \(LIVE\) \[The Cinematic Concert Album\]](https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd) | 4:10 |
+| 89 | [O Come, O Come Emmanuel \- \(LIVE\)](https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas \(LIVE\) \[The Cinematic Concert Album\]](https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd) | 4:10 |
 | 90 | [Jingle Bell Rock](https://open.spotify.com/track/1nN7ch5Ky0HNuVJX5MZygs) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [Jingle Bell Rock](https://open.spotify.com/album/7fAQgVaILNw6qRPE9xUlK1) | 2:08 |
 | 91 | [The Christmas Song](https://open.spotify.com/track/5Yz3PK6opQbQXkhu8hyaVb) | [Sandy Kelly](https://open.spotify.com/artist/1oa3oxPuZiBshVJURL6U30), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Christmas Song](https://open.spotify.com/album/273Jdhdf38P1OD4laaSpEY) | 3:35 |
 | 92 | [Hey Mrs Claus](https://open.spotify.com/track/7lBJWiIb2xleKBPBYOaApu) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Hey Mrs Claus](https://open.spotify.com/album/3uTldWxsHatM0V8UiP8HJp) | 3:20 |

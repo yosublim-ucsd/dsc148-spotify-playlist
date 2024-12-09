@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 186445,
+  "num_followers": 186521,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Shitlist",
-      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "The First Two Records",
         "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 160860,
       "name": "Double Dare Ya",
       "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Shitlist",
+      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
       },
       "artists": [
         {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 235653,
-      "name": "Typical Girls",
-      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -499,34 +499,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
       "artists": [
         {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Nemesisters",
-        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Sweet '69",
-      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
+      "duration_ms": 235653,
+      "name": "Typical Girls",
+      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -543,6 +527,22 @@
       "duration_ms": 95373,
       "name": "Vagina Police",
       "url": "https://open.spotify.com/track/3P2LZ3iAWSWs2oW6gUzGkE"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Nemesisters",
+        "url": "https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Sweet '69",
+      "url": "https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 143666,
       "name": "50ft Queenie",
       "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 195155,
-      "name": "Make America Great Again",
-      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "The Punk Singer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 195155,
+      "name": "Make America Great Again",
+      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Luxury Problem",
         "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 173866,
       "name": "Luxury Problem",
       "url": "https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Fontanelle",
-        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
-      },
-      "artists": [
-        {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Handsome & Gretel",
-      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Handsome & Gretel",
+      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Frenching the Bully",
         "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Luxury Problem",
-        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
       },
       "artists": [
         {
-          "name": "Lunachicks",
-          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Bad Ass Bitch",
-      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+      "duration_ms": 231920,
+      "name": "Just My Kind",
+      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Just My Kind",
-      "url": "https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Desperate, Scared, but Social",
         "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Luxury Problem",
+        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+      },
+      "artists": [
+        {
+          "name": "Lunachicks",
+          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Bad Ass Bitch",
+      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Pottymouth (Remastered)",
-        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
-      },
-      "artists": [
-        {
-          "name": "Bratmobile",
-          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
-        }
-      ],
-      "duration_ms": 99880,
-      "name": "Love Thing",
-      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/27b5zGoTeu3YQO04wGTQg0"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228191,
       "name": "Where's My Wife",
       "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Pottymouth (Remastered)",
+        "url": "https://open.spotify.com/album/0gslg0u8VjLBWPBuInwjsr"
+      },
+      "artists": [
+        {
+          "name": "Bratmobile",
+          "url": "https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L"
+        }
+      ],
+      "duration_ms": 99880,
+      "name": "Love Thing",
+      "url": "https://open.spotify.com/track/0Tun80hNL7L2kwQlroehnb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Smash Hit",
-        "url": "https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI"
-      },
-      "artists": [
-        {
-          "name": "Potty Mouth",
-          "url": "https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw"
-        }
-      ],
-      "duration_ms": 200630,
-      "name": "Smash Hit",
-      "url": "https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Very, Very Powerful Motor",
         "url": "https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198840,
       "name": "In the Summer",
       "url": "https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Smash Hit",
+        "url": "https://open.spotify.com/album/2P2QieqaKge4w2vkN0C8NI"
+      },
+      "artists": [
+        {
+          "name": "Potty Mouth",
+          "url": "https://open.spotify.com/artist/4liUQpCxxhjGMgc33K81Fw"
+        }
+      ],
+      "duration_ms": 200630,
+      "name": "Smash Hit",
+      "url": "https://open.spotify.com/track/1De7fMm1UPurbI47uUhIqS"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Such Friends Are Dangerous",
-        "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
-      },
-      "artists": [
-        {
-          "name": "Excuse 17",
-          "url": "https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "Watchmaker",
-      "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "The Clutch",
         "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190091,
       "name": "The Clutch",
       "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Such Friends Are Dangerous",
+        "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
+      },
+      "artists": [
+        {
+          "name": "Excuse 17",
+          "url": "https://open.spotify.com/artist/0yiYHDCQjggaHJfpD9MZOR"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "Watchmaker",
+      "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Cold Cold Hearts",
-        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
-      },
-      "artists": [
-        {
-          "name": "Cold Cold Hearts",
-          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Any Resemblance...",
-      "url": "https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Warm, In Your Coat",
         "url": "https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 205600,
       "name": "Wrap It Up",
       "url": "https://open.spotify.com/track/54T19pvsrKtFtBCKY49R1I"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Cold Cold Hearts",
+        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
+      },
+      "artists": [
+        {
+          "name": "Cold Cold Hearts",
+          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Any Resemblance...",
+      "url": "https://open.spotify.com/track/40owwnovk1h9EFEtmxIeJO"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1455,22 +1455,6 @@
       "duration_ms": 147160,
       "name": "Half Girl Half Rant",
       "url": "https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Cold Cold Hearts",
-        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
-      },
-      "artists": [
-        {
-          "name": "Cold Cold Hearts",
-          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Cute Boy Discount",
-      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1551,6 +1535,22 @@
       "duration_ms": 190160,
       "name": "Not Too Soon",
       "url": "https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Cold Cold Hearts",
+        "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
+      },
+      "artists": [
+        {
+          "name": "Cold Cold Hearts",
+          "url": "https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Cute Boy Discount",
+      "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
     },
     {
       "added_at": "2024-10-07 20:36:39",

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6494,
+  "num_followers": 6498,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1I+gAAAAADwzg1QCpw2FABu/hDyIxUV",
+  "snapshot_id": "Z1OQAAAAAADcGXJnVv/U3sFqrXAzMcja",
   "tracks": [
     {
       "added_at": null,
@@ -671,46 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oya Come Make We Go",
-        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Oya Come Make We Go",
-      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frenemies",
-        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 241737,
-      "name": "Frenemies",
-      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -727,6 +687,26 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oya Come Make We Go",
+        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Oya Come Make We Go",
+      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
     },
     {
       "added_at": null,
@@ -751,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 191425,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
       },
@@ -787,22 +751,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
       "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+      "duration_ms": 191425,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frenemies",
+        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 241737,
+      "name": "Frenemies",
+      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 296693,
       "name": "U No Holy Pass",
       "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,

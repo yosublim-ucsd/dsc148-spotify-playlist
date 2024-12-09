@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43842,
+  "num_followers": 43841,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Millionaire",
         "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 138190,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Waking Up Easy",
-        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 236808,
-      "name": "Waking Up Easy",
-      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -203,38 +203,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Tea & Sympathy",
-        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
-      },
-      "artists": [
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 156280,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 207906,
       "name": "We're Going Home",
       "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Waking Up Easy",
+        "url": "https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 236808,
+      "name": "Waking Up Easy",
+      "url": "https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Tea & Sympathy",
+        "url": "https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I"
+      },
+      "artists": [
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "duration_ms": 156280,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -383,34 +399,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Everything Is Easy",
-        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
+        "name": "Grand National",
+        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
         }
       ],
-      "duration_ms": 197663,
-      "name": "Everything Is Easy",
-      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+      "duration_ms": 209333,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Grand National",
-        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
+        "name": "Everything Is Easy",
+        "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
       "artists": [
         {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
+      "duration_ms": 197663,
+      "name": "Everything Is Easy",
+      "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Food In The Belly",
         "url": "https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Paint",
         "url": "https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz"
       },
@@ -571,38 +571,6 @@
       "duration_ms": 259964,
       "name": "True Lovers",
       "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Celeste EP",
-        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
-      },
-      "artists": [
-        {
-          "name": "Ezra Vine",
-          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
-        }
-      ],
-      "duration_ms": 203309,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
-      },
-      "artists": [
-        {
-          "name": "The Waifs",
-          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "London Still",
-      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -639,6 +607,38 @@
       "duration_ms": 215493,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Celeste EP",
+        "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
+      },
+      "artists": [
+        {
+          "name": "Ezra Vine",
+          "url": "https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn"
+        }
+      ],
+      "duration_ms": 203309,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n"
+      },
+      "artists": [
+        {
+          "name": "The Waifs",
+          "url": "https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "London Still",
+      "url": "https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Half Mile Harvest (Deluxe)",
+        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 263840,
+      "name": "I Get Up",
+      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Apple Crumble",
         "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
       },
@@ -1083,54 +1099,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "After Hours, Close To Dawn",
-        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
-      },
-      "artists": [
-        {
-          "name": "Kingswood",
-          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Half Mile Harvest (Deluxe)",
-        "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 263840,
-      "name": "I Get Up",
-      "url": "https://open.spotify.com/track/3clLiFEchrm0ElggigjADF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Perennial",
-        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 305120,
-      "name": "Mended",
-      "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Deeper Water",
         "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
       },
@@ -1143,6 +1111,22 @@
       "duration_ms": 272093,
       "name": "Deeper Water",
       "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "After Hours, Close To Dawn",
+        "url": "https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG"
+      },
+      "artists": [
+        {
+          "name": "Kingswood",
+          "url": "https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Perennial",
+        "url": "https://open.spotify.com/album/735RlBqveqycIrQgyld7JK"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Mended",
+      "url": "https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "As You Go",
         "url": "https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 180533,
       "name": "As You Go",
       "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Between You and Me",
-        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
-      },
-      "artists": [
-        {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 201706,
       "name": "You're My Window To The Sky",
       "url": "https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/5dJM7tzRS4BBHUxROSOn26"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/1pZaknf90sVRGNiftfF9X3"
     },
     {
       "added_at": "2023-11-15 02:04:48",

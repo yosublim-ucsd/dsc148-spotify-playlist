@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 624074,
+  "num_followers": 624141,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Sing Like Never Before: The Essential Collection",
-        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
         }
       ],
-      "duration_ms": 256933,
-      "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
-      "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -175,22 +179,18 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+        "name": "Sing Like Never Before: The Essential Collection",
+        "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+      "duration_ms": 256933,
+      "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "Awakening - Live From Chicago",
+        "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 487506,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 295400,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "Awakening - Live From Chicago",
-        "url": "https://open.spotify.com/album/3Qpvw6jAhDlTvM90o4pbft"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 487506,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/3vk0GnIa9jp1B00felbJQE"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "All Because of Mercy",
-      "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "That Was Then, This Is Now",
         "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 197880,
       "name": "That Was Then, This Is Now",
       "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "All Because of Mercy",
+      "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
-      },
-      "artists": [
-        {
-          "name": "Rhett Walker",
-          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
-        }
-      ],
-      "duration_ms": 202943,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Look At God",
         "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "duration_ms": 202943,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Praise God For That",
-        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 192273,
-      "name": "Praise God For That",
-      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Won't He Do It",
         "url": "https://open.spotify.com/album/4u2z3RZJODIY8sM38nm5eF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 183133,
       "name": "Won't He Do It - Single Version",
       "url": "https://open.spotify.com/track/2TyUlM2ElcoGD2HTNIRNYr"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Praise God For That",
+        "url": "https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 192273,
+      "name": "Praise God For That",
+      "url": "https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0"
     },
     {
       "added_at": "2024-06-23 01:51:00",

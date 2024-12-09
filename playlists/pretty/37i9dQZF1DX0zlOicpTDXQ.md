@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,252 likes - 32 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,498 likes - 32 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

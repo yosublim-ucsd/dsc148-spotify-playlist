@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 22218,
+  "num_followers": 22226,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
         "name": "he's just not that into you!",
         "url": "https://open.spotify.com/album/1tzfA5Po3zdgq3vex66DKg"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 179973,
       "name": "see through",
       "url": "https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
         "name": "Hard Guy Confessions",
         "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
       },
@@ -719,22 +703,34 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "SOS (Sex on Sight) (feat. USHER)",
-        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 265057,
-      "name": "SOS (Sex on Sight) (feat. USHER)",
-      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -767,18 +763,42 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "WHY",
-        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+        "name": "SOS (Sex on Sight) (feat. USHER)",
+        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+      "duration_ms": 265057,
+      "name": "SOS (Sex on Sight) (feat. USHER)",
+      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "1:59 (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 192089,
+      "name": "1:59 (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -819,26 +839,6 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "1:59 (feat. Gunna)",
-        "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 192089,
-      "name": "1:59 (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
         "name": "THOUGHT YOU WERE THE ONE",
         "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "JAGUAR II : Deluxe",
-        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 149195,
-      "name": "1900's",
-      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 212107,
       "name": "ecstasy (feat. Seun Kuti)",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 247526,
-      "name": "Think Different",
-      "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
@@ -1249,8 +1233,24 @@
         }
       ],
       "duration_ms": 220865,
-      "name": "Tiny Apartment (with SAINt JHN)",
+      "name": "Tiny Apartment",
       "url": "https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 247526,
+      "name": "Think Different",
+      "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -1303,30 +1303,6 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-12-06 05:35:44",
-      "album": {
-        "name": "Save Your Tears",
-        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -1391,6 +1367,30 @@
       "duration_ms": 228518,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
+    },
+    {
+      "added_at": "2024-12-06 05:35:44",
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
     },
     {
       "added_at": "2024-12-06 05:35:44",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-12-06 05:35:44",
       "album": {
-        "name": "Will I?",
-        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 164081,
-      "name": "Will I?",
-      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+      "duration_ms": 178144,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     }
   ],
   "unique_name": "Cocoa Butter ",

@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Beéle
 
-197 songs - 10 hr 27 min
+198 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Mimosas](https://open.spotify.com/track/0Z4mRtb8Uc8xASEhGUlUyI) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/1O9JEFTFeguhO0YBbwHsMr) | 3:05 | 2022-02-16 | 2022-07-29 |
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-05-12 | 2024-04-19 |
 | [Mimosas \- Remix](https://open.spotify.com/track/07grlLnIM285o7Y69mge5L) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mimosas \(Remix\)](https://open.spotify.com/album/1xsyvauPdMlbEoqnJAAsZ9) | 4:33 | 2022-02-16 | 2024-05-07 |
-| [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 | 2024-12-06 |  |
+| [Modelo](https://open.spotify.com/track/7Ldt4IYQBAiw8QzjYP34V6) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Modelo](https://open.spotify.com/album/1CgiQYftLXs3clJtrNrlmc) | 2:33 | 2024-12-06 | 2024-12-09 |
 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2024-09-20 |  |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2022-02-16 | 2024-09-21 |
 | [Moving On](https://open.spotify.com/track/6R9kmo7MbGMudfLBNRTSnL) | [Fernando H](https://open.spotify.com/artist/4a3JjgyTiSWMjr6tDfjCLH), [Chris Rio](https://open.spotify.com/artist/3zZeoV1PmsfG6sEM1qT9vq) | [Moving On](https://open.spotify.com/album/57c8zm1qssfIRBEjCgNR3W) | 3:06 | 2022-02-16 | 2022-07-29 |
@@ -168,6 +168,7 @@
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-05-26 |  |
 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 | 2024-10-18 | 2024-12-07 |
 | [SOLO CON MI CANCIÓN](https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374) | [AFRICAN LOVER](https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC) | 2:52 | 2022-02-16 | 2023-05-16 |
+| [SOLONELY](https://open.spotify.com/track/6Z3TackFYDr41wDXgfKAkB) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [SOLONELY](https://open.spotify.com/album/2hEt194qb7vBjQBwcMeByW) | 2:28 | 2024-12-06 |  |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-10-25 |  |
 | [Somos 3](https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Somos 3](https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX) | 2:45 | 2024-09-20 |  |
 | [soso \(with Ozuna\)](https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [soso \(with Ozuna\)](https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT) | 3:22 | 2023-05-25 | 2024-09-21 |

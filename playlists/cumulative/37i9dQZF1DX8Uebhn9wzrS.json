@@ -12426,7 +12426,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-09",
       "duration_ms": 126720,
       "name": "Float Freely",
       "url": "https://open.spotify.com/track/6LjrjPvEHSW6fD7hA6UPqr"
@@ -26186,6 +26186,24 @@
       "duration_ms": 127058,
       "name": "Out There",
       "url": "https://open.spotify.com/track/45psDYl0U8tJFTzrEOBypG"
+    },
+    {
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/6NDKjbezHf29zOT3gFzI3D"
+      },
+      "artists": [
+        {
+          "name": "Blumen",
+          "url": "https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147916,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/0MF8wPjQiBbEnJAJ2dO2k7"
     },
     {
       "album": {

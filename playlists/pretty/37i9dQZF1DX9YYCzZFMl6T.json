@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 167,
+  "num_followers": 205,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "Blame It on the Mistletoe",
+      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
+    },
+    {
+      "added_at": "2024-09-02 05:00:00",
+      "album": {
         "name": "The Johnny Cash Family Christmas",
         "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 133640,
       "name": "That Christmasy Feeling",
       "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
-    },
-    {
-      "added_at": "2024-09-02 05:00:00",
-      "album": {
-        "name": "For Christmas",
-        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
-      },
-      "artists": [
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "Blame It on the Mistletoe",
-      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
     },
     {
       "added_at": "2024-09-02 05:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
+        "name": "we did a Christmas thing",
+        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 159784,
+      "name": "Christmas Is All Around",
+      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
+    },
+    {
+      "added_at": "2024-09-02 05:00:00",
+      "album": {
         "name": "Gone for Christmas (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
-    },
-    {
-      "added_at": "2024-09-02 05:00:00",
-      "album": {
-        "name": "we did a Christmas thing",
-        "url": "https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 159784,
-      "name": "Christmas Is All Around",
-      "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
     },
     {
       "added_at": "2024-09-02 05:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
-        "name": "Christmas Whiskey",
-        "url": "https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL"
-      },
-      "artists": [
-        {
-          "name": "Erin Enderlin",
-          "url": "https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj"
-        },
-        {
-          "name": "Chris Canterbury",
-          "url": "https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s"
-        }
-      ],
-      "duration_ms": 220744,
-      "name": "Christmas Whiskey",
-      "url": "https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq"
-    },
-    {
-      "added_at": "2024-09-02 05:00:00",
-      "album": {
         "name": "Christmas Alone (Live from the Blue Room)",
         "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
       },
@@ -723,22 +703,22 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo"
+        "name": "Christmas Whiskey",
+        "url": "https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Erin Enderlin",
+          "url": "https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj"
         },
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Chris Canterbury",
+          "url": "https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s"
         }
       ],
-      "duration_ms": 182333,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM"
+      "duration_ms": 220744,
+      "name": "Christmas Whiskey",
+      "url": "https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq"
     },
     {
       "added_at": "2024-09-02 05:00:00",
@@ -823,18 +803,22 @@
     {
       "added_at": "2024-09-02 05:00:00",
       "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo"
       },
       "artists": [
         {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
+      "duration_ms": 182333,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM"
     },
     {
       "added_at": "2024-09-02 05:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 218386,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr"
+    },
+    {
+      "added_at": "2024-09-02 05:00:00",
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     }
   ],
   "unique_name": "Americana Christmas",

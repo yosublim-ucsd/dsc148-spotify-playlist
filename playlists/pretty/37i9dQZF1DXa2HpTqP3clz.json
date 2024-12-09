@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dolly Parton & Family",
-  "num_followers": 164593,
+  "num_followers": 164609,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Last Slice Of Heaven",
-        "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
-      },
-      "artists": [
-        {
-          "name": "Jack McKeon",
-          "url": "https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Last Slice Of Heaven",
-      "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "On Banjo",
         "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
       },
@@ -331,6 +299,38 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Last Slice Of Heaven",
+        "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
+      },
+      "artists": [
+        {
+          "name": "Jack McKeon",
+          "url": "https://open.spotify.com/artist/17ZEpFdf955itneqYEwJp8"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Last Slice Of Heaven",
+      "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Heartbreak Train",
         "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
       },
@@ -343,54 +343,6 @@
       "duration_ms": 160471,
       "name": "Heartbreak Train",
       "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Alpenglow",
-        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -415,6 +367,54 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Alpenglow",
+        "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Blackgrass: From West Virginia to 125th St",
         "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
       },
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 196677,
+      "name": "Castilleja",
+      "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 196677,
-      "name": "Castilleja",
-      "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -931,22 +931,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+        "name": "Fire in the Dark",
+        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
       "artists": [
         {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+          "name": "Gary Nichols",
+          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
         }
       ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+      "duration_ms": 186000,
+      "name": "Fire in the Dark",
+      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Fire in the Dark",
-        "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
       "artists": [
         {
-          "name": "Gary Nichols",
-          "url": "https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n"
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Fire in the Dark",
-      "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 222302,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "The Drifter",
         "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 171055,
       "name": "Big City",
       "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Trains, Thinkin' and Drinkin'",
-        "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
-      },
-      "artists": [
-        {
-          "name": "J.M. Clifford",
-          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Complicated Man",
-      "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Trains, Thinkin' and Drinkin'",
+        "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
+      },
+      "artists": [
+        {
+          "name": "J.M. Clifford",
+          "url": "https://open.spotify.com/artist/7nvJAcPF5V0cZ5GfYTIGCY"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Complicated Man",
+      "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -1535,26 +1535,6 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Kentucky for Me",
-        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
-      },
-      "artists": [
-        {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Kentucky Gold",
-      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1575,22 +1555,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Kentucky Bluegrassed",
-        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Kentucky Blue",
-      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1607,6 +1571,42 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Kentucky Bluegrassed",
+        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 180570,
+      "name": "Kentucky Blue",
+      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Kentucky for Me",
+        "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Kentucky Gold",
+      "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Donner Pass",
         "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Aced",
-        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
+        "name": "So Much For Forever",
+        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
       },
       "artists": [
         {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Aced",
-      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
+      "duration_ms": 208226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1779,34 +1779,34 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "So Much For Forever",
-        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+        "name": "Aced",
+        "url": "https://open.spotify.com/album/4qHFmnKRkNV3jOtLnd2gsa"
       },
       "artists": [
         {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
+      "duration_ms": 207000,
+      "name": "Aced",
+      "url": "https://open.spotify.com/track/07GA4Wv52g8QnaE0bgfqe7"
     },
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Snake Charmer",
-        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
+        "name": "Hey Blue Eyed Girl",
+        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
       },
       "artists": [
         {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+          "name": "Cody Sherman",
+          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Snake Charmer",
-      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
+      "duration_ms": 154720,
+      "name": "Hey Blue Eyed Girl",
+      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
     }
   ],
   "unique_name": "Grass Roots",
