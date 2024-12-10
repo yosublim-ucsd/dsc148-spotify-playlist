@@ -6,26 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LukLoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LupdIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Spania",
-        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 159194,
-      "name": "Spania",
-      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -41,23 +25,23 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
-        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+        "name": "Spania",
+        "url": "https://open.spotify.com/album/6of64Cn0GSvyv3lxXMNIzc"
       },
       "artists": [
         {
-          "name": "Theo Rose",
-          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         }
       ],
-      "duration_ms": 144303,
-      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
-      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+      "duration_ms": 159194,
+      "name": "Spania",
+      "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "RUSIA",
         "url": "https://open.spotify.com/album/5A9FB5y9AAril6Co8d5V95"
@@ -73,7 +57,23 @@
       "url": "https://open.spotify.com/track/4IjUK9pVwvf04yYUn2EuUJ"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
+      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Anglia",
         "url": "https://open.spotify.com/album/2vFVsOSAxzVKJlQRI0DuHR"
@@ -89,39 +89,7 @@
       "url": "https://open.spotify.com/track/5sFEhVXljNz3VPW404UHey"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Calin Georgescu, Pericol Pentru Democratie",
-        "url": "https://open.spotify.com/album/3bjooISnesYMwqRei1VDWk"
-      },
-      "artists": [
-        {
-          "name": "YourAnonDemo",
-          "url": "https://open.spotify.com/artist/5SgYbEwY9svH1BEboDMnY7"
-        }
-      ],
-      "duration_ms": 162836,
-      "name": "Calin Georgescu, Pericol Pentru Democratie",
-      "url": "https://open.spotify.com/track/4UTv9eYiKyTWq3lzj3UWnQ"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Kylie Jenner",
         "url": "https://open.spotify.com/album/334691RicEmDE1zYDvPk19"
@@ -141,23 +109,7 @@
       "url": "https://open.spotify.com/track/26yMwoEBtLRYAUcKKk0uIY"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Hai sa ne iubim ca nemtii",
-        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 150239,
-      "name": "Hai sa ne iubim ca nemtii",
-      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -177,7 +129,55 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Hai sa ne iubim ca nemtii",
+        "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 150239,
+      "name": "Hai sa ne iubim ca nemtii",
+      "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "E Adev\u0103rat",
+        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
+      },
+      "artists": [
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "duration_ms": 167203,
+      "name": "E Adev\u0103rat",
+      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -193,43 +193,27 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "Lamborghini",
-        "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 172105,
-      "name": "Lamborghini",
-      "url": "https://open.spotify.com/track/4KzxeD91DwTgMu0uArD6tg"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -253,135 +237,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "E Adev\u0103rat",
-        "url": "https://open.spotify.com/album/47NVLn2ih1vv0rFyljSsQa"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 167203,
-      "name": "E Adev\u0103rat",
-      "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Yali, Yali",
-        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Yali, Yali",
-      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "LUCIFER",
-        "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "MAZDA",
-      "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Baklava",
         "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
@@ -401,7 +257,7 @@
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -421,23 +277,119 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Sper Ca Esti Bine",
-      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 172105,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/4KzxeD91DwTgMu0uArD6tg"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "LUCIFER",
+        "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "MAZDA",
+      "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Yali, Yali",
+        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Yali, Yali",
+      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Turbo Orange",
         "url": "https://open.spotify.com/album/4lF62RW4E2we6rlMq7KjGD"
@@ -453,43 +405,39 @@
       "url": "https://open.spotify.com/track/4tKYYeJUKdWxyiWlVqUIj8"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "Merhaba (Stil Turcesc)",
-        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
       },
       "artists": [
         {
-          "name": "Denis Ramniceanu",
-          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Merhaba (Stil Turcesc)",
-      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "P\u0103i naa",
         "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
@@ -509,7 +457,39 @@
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "El chapo",
+        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "El chapo",
+      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -525,7 +505,27 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Merhaba (Stil Turcesc)",
+        "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
+      },
+      "artists": [
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Merhaba (Stil Turcesc)",
+      "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Vreau",
         "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "White Christmas (with V of BTS)",
         "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
@@ -561,23 +561,7 @@
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "El chapo",
-        "url": "https://open.spotify.com/album/1IXu9RGZI6pwjWRlOi2Acq"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "El chapo",
-      "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Amo, Amo",
         "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
@@ -597,55 +581,27 @@
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "Artileria",
+        "url": "https://open.spotify.com/album/6N0s0whEgNwhgplpFl8IvZ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Cine N-a Gresit Vreodata",
-        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
-      },
-      "artists": [
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        },
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
         }
       ],
-      "duration_ms": 198837,
-      "name": "Cine N-a Gresit Vreodata",
-      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
+      "duration_ms": 144927,
+      "name": "Artileria",
+      "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "\u021aine-te bine",
-        "url": "https://open.spotify.com/album/36n7lWke5W4yaRWhqmnk9g"
-      },
-      "artists": [
-        {
-          "name": "Gya",
-          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "\u021aine-te bine",
-      "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "Diss Music Romania",
         "url": "https://open.spotify.com/album/1ld2jfbnBARO7rpxIjUCE7"
@@ -661,7 +617,23 @@
       "url": "https://open.spotify.com/track/00h0W7OACncGvIWVhwGhPX"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Cine N-a Gresit Vreodata",
+        "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 198837,
+      "name": "Cine N-a Gresit Vreodata",
+      "url": "https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "R\u0102GU\u0218IT",
         "url": "https://open.spotify.com/album/4yekIAluccxf3OD0cdN4zW"
@@ -681,107 +653,55 @@
       "url": "https://open.spotify.com/track/5eDUjRGEYTvEtlGUIOR7Mh"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "\u021aine-te bine",
+        "url": "https://open.spotify.com/album/36n7lWke5W4yaRWhqmnk9g"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 150361,
+      "name": "\u021aine-te bine",
+      "url": "https://open.spotify.com/track/5p93LIjxyKzAvwaPXAb3iI"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/0lV1YQj1GhhWZij1La7t1Z"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "AlbertNbn",
-          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 117600,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/6nanWWO9YYAShPnUbC6vQ0"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "X6",
-        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 149000,
-      "name": "X6",
-      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH"
-      },
-      "artists": [
-        {
-          "name": "Misha Miller",
-          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
-      },
-      "artists": [
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "SUNETE 2",
         "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
@@ -805,7 +725,23 @@
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/0lV1YQj1GhhWZij1La7t1Z"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/6nanWWO9YYAShPnUbC6vQ0"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "112 Arabii",
         "url": "https://open.spotify.com/album/2JtgqLU0MwE32Q52GLLdUF"
@@ -821,7 +757,7 @@
       "url": "https://open.spotify.com/track/6ryYkPaIuqPcnlWwJrdMBN"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -841,23 +777,107 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
     },
     {
-      "added_at": "2024-12-08 12:47:47",
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
+      "album": {
+        "name": "X6",
+        "url": "https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "X6",
+      "url": "https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF"
+    },
+    {
+      "added_at": "2024-12-09 12:22:00",
       "album": {
         "name": "FLAWLE$$ - EP",
         "url": "https://open.spotify.com/album/7eSWDIC2TKZDZd5eiuGhhY"
@@ -871,26 +891,6 @@
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
-    },
-    {
-      "added_at": "2024-12-08 12:47:47",
-      "album": {
-        "name": "Artileria",
-        "url": "https://open.spotify.com/album/6N0s0whEgNwhgplpFl8IvZ"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
-        }
-      ],
-      "duration_ms": 144927,
-      "name": "Artileria",
-      "url": "https://open.spotify.com/track/2MKVPm45yAdNEC6R3szoJu"
     }
   ],
   "unique_name": "Top 50 - Romania",

@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 83682,
+  "num_followers": 83720,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
-      },
-      "artists": [
-        {
-          "name": "Marco Bode",
-          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
-        }
-      ],
-      "duration_ms": 114475,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Mi Trompeta",
         "url": "https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 238168,
       "name": "Mi Trompeta",
       "url": "https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
+      },
+      "artists": [
+        {
+          "name": "Marco Bode",
+          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
+        }
+      ],
+      "duration_ms": 114475,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Al\u00f3cate",
-        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
-      },
-      "artists": [
-        {
-          "name": "Kanimals",
-          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
-        }
-      ],
-      "duration_ms": 201543,
-      "name": "Al\u00f3cate",
-      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 196363,
       "name": "Ritmo Suelto",
       "url": "https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Al\u00f3cate",
+        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
+      },
+      "artists": [
+        {
+          "name": "Kanimals",
+          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
+        }
+      ],
+      "duration_ms": 201543,
+      "name": "Al\u00f3cate",
+      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Olokun",
         "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
-      },
-      "artists": [
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Dale Candela Dale Sabor",
         "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 168829,
       "name": "Tambor Azteca",
       "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "DJ Mouse",
+          "url": "https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk"
+        }
+      ],
+      "duration_ms": 185227,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -887,26 +907,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/0GaNnazTQVyVWnFvcXktgJ"
-      },
-      "artists": [
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Aneth",
-          "url": "https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7"
-        }
-      ],
-      "duration_ms": 156401,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/05Wv728G7m1xkaOZKMPs0N"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Teneloa Kuikayotl",
         "url": "https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W"
       },
@@ -927,22 +927,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+        "name": "El \u00daltimo",
+        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
       },
       "artists": [
         {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+          "name": "El Catorce",
+          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
         },
         {
-          "name": "DJ Mouse",
-          "url": "https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk"
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
+      "duration_ms": 300522,
+      "name": "Kombat",
+      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
     }
   ],
   "unique_name": "Fiesta Tribal",

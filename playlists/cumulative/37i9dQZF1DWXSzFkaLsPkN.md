@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai!
 
-244 songs - 13 hr 31 min
+245 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/1xSKxa1J5NHMQBX4wMZW2g) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/2Cm69fZkrq4zy0Yun0M54G) | 3:34 | 2023-10-11 | 2024-04-19 |
 | [Meri Banogi Kya](https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Meri Banogi Kya](https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW) | 3:35 | 2023-05-02 |  |
 | [Meri Jaan](https://open.spotify.com/track/5PHcGIQUchpB8wcNtdNtuP) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Meri Jaan](https://open.spotify.com/album/2Tn82MBBcAdiiwXgCnEqqf) | 3:05 | 2024-09-20 |  |
-| [Meri Kya Khata](https://open.spotify.com/track/6SGrGVVWXclsz51sBRdOcJ) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Meri Kya Khata](https://open.spotify.com/album/0HfCprAllyChcqbQoS5zak) | 3:02 | 2024-10-11 |  |
+| [Meri Kya Khata](https://open.spotify.com/track/6SGrGVVWXclsz51sBRdOcJ) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Meri Kya Khata](https://open.spotify.com/album/0HfCprAllyChcqbQoS5zak) | 3:02 | 2024-10-11 | 2024-12-10 |
 | [Mocaccino](https://open.spotify.com/track/0PWzSjfce4Sqn9sA7FT9CU) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Mocaccino](https://open.spotify.com/album/2I0Y2c7G4Xw8HP7FRVSUbp) | 2:34 | 2023-05-26 | 2023-06-02 |
 | [Mohabbat Ki Wajah](https://open.spotify.com/track/0PJUFbBllJfXujgJ2jGaH0) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Mohabbat Ki Wajah](https://open.spotify.com/album/2oOAR917b5ltiwVngOXmz2) | 3:27 | 2023-10-04 | 2023-10-12 |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-02 | 2023-08-05 |
@@ -207,6 +207,7 @@
 | [Shehron Ke Raaz](https://open.spotify.com/track/5e4uOUdrpFCKC2kwnXWWtY) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/3csm5Bav3rCUdEiXvBV3As) | 2:32 | 2023-05-02 |  |
 | [Shyaam](https://open.spotify.com/track/3QVprZ7fCesGRU2WBf5LzM) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB), [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Shyaam](https://open.spotify.com/album/5cxpX2I1B45sCus9NQQ5W2) | 2:31 | 2024-08-21 | 2024-08-31 |
 | [Silvatein](https://open.spotify.com/track/5OeYzvWGIBIVDImJkgooY3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN) | [Silvatein](https://open.spotify.com/album/7q6vl20OYi24v8aOwCJKee) | 3:00 | 2023-12-15 | 2024-08-21 |
+| [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 | 2024-12-09 |  |
 | [Sorry](https://open.spotify.com/track/0wj0UQuHJ8K3hxoTsAavnk) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Sorry](https://open.spotify.com/album/56gT7wKR7wzbq7w3l5gU7F) | 3:17 | 2024-04-05 |  |
 | [Sorry](https://open.spotify.com/track/5lhaut6siOfKf5qlkDMaY2) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV) | [Sorry](https://open.spotify.com/album/2vrd17KOyWQn8MRuk4ic1a) | 3:17 | 2024-02-26 | 2024-04-03 |
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-07-12 |  |

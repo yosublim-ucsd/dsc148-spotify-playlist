@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAAA2W2S/wb3sicof3zHuUv+S",
+  "snapshot_id": "Z1ThgAAAAAB15Ae8YEq8S9nC4RgVXqY0",
   "tracks": [
     {
       "added_at": null,
@@ -90,15 +90,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "S.A. Martinez",
-          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 191323,
-      "name": "Dark Sky",
-      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
+      "duration_ms": 225012,
+      "name": "Cold Case - Kurt Ballou Mix",
+      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
     },
     {
       "added_at": null,
@@ -158,11 +154,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "S.A. Martinez",
+          "url": "https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy"
         }
       ],
-      "duration_ms": 225012,
-      "name": "Cold Case - Kurt Ballou Mix",
-      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
+      "duration_ms": 191323,
+      "name": "Dark Sky",
+      "url": "https://open.spotify.com/track/1LkC13v4sIOOcvVMRhiljd"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 166943,
-      "name": "Taste Of Gasoline",
-      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+      "duration_ms": 206156,
+      "name": "High Again",
+      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206156,
-      "name": "High Again",
-      "url": "https://open.spotify.com/track/6xIRGEHZJxNobiq6Frf8BB"
+      "duration_ms": 166943,
+      "name": "Taste Of Gasoline",
+      "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
     },
     {
       "added_at": null,

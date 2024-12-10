@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Born Against",
+        "url": "https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194617,
+      "name": "Quiet as a Rat",
+      "url": "https://open.spotify.com/track/16k3poCtMzSsrlYEGwFX1O"
+    },
+    {
+      "album": {
         "name": "Swords",
         "url": "https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g"
       },

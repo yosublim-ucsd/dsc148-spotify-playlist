@@ -1,12 +1,12 @@
 {
   "description": "Holiday cheer from your Disney favorites!",
-  "num_followers": 179127,
+  "num_followers": 179487,
   "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAAA1nKRmHGjoEZMXOJvgDyNi",
+  "snapshot_id": "Z1daCAAAAAA4ylrmRmC381gyfJCbgn5f",
   "tracks": [
     {
       "added_at": "2023-12-18 14:31:42",
@@ -179,6 +179,22 @@
       "duration_ms": 127666,
       "name": "Let it Snow, Let it Snow, Let it Snow",
       "url": "https://open.spotify.com/track/0TVNlaD7qwDybSNxVmXnlj"
+    },
+    {
+      "added_at": "2024-12-09 20:58:48",
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Christmas Present",
+          "url": "https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "It Feels Like Christmas",
+      "url": "https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -491,6 +507,22 @@
       "duration_ms": 138986,
       "name": "Something There",
       "url": "https://open.spotify.com/track/6mDxu0xwhv5tn1oMTNUypu"
+    },
+    {
+      "added_at": "2023-12-18 14:31:42",
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
     },
     {
       "added_at": "2023-12-18 14:31:42",
@@ -2359,22 +2391,6 @@
       "duration_ms": 189933,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/6wBQYLB2ANxGi1gfACyoRL"
-    },
-    {
-      "added_at": "2023-12-18 14:31:42",
-      "album": {
-        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
-        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
-      },
-      "artists": [
-        {
-          "name": "Kermit",
-          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "One More Sleep \u2019til Christmas",
-      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
     },
     {
       "added_at": "2023-12-18 14:31:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,259 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,264 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 23 | [Butterflies](https://open.spotify.com/track/3w3vwLvVxTULEP69npjP6i) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 1:43 |
 | 24 | [Soft Spot \- 955 remix](https://open.spotify.com/track/5ciJ9HpHpBiSVYvlPtsTlS) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Soft Spot \(Deluxe Edition\)](https://open.spotify.com/album/7MPAIROsDKODQCefBDHbTp) | 4:10 |
 | 25 | [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 |
-| 26 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 26 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 27 | [Arctic Tundra \(feat\. Juice WRLD\)](https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 4:29 |
 | 28 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 |
 | 29 | [No More Heroes](https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [No More Heroes](https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t) | 2:24 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Comeback Season](https://open.spotify.com/track/3xYhctgOhRdLjaLejBN5mf) | [Double A\-Ron](https://open.spotify.com/artist/4F2fO13keDtQ3zYtKpxlua) | [Writer's Block](https://open.spotify.com/album/6FSJHZ4Vf76ZewYXZMdty3) | 2:33 |
 | 48 | [DU$K](https://open.spotify.com/track/1lzRntr8YLxCJPaxQn4BED) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [DU$K](https://open.spotify.com/album/5Rurd3EodMjsGbUfELpdgf) | 2:19 |
 
-Snapshot ID: `Z1KE0AAAAAAc6SK3S3Z9u1Hp8vJYo0fI`
+Snapshot ID: `Z1dgswAAAABT299AT+tsmoDgG7/y1qdZ`

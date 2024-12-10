@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: BSB
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,189 likes - 149 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,192 likes - 149 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 17 | [CED and Done](https://open.spotify.com/track/0sVM7emsBENRZHsgQTrVyf) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [When It's All CED and Done](https://open.spotify.com/album/6658QjnoAxPZql2rv7W6w2) | 3:57 |
 | 18 | [Topless](https://open.spotify.com/track/26hOYsHoCJ4E91xzMqLw60) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Courage/勇氣](https://open.spotify.com/album/34WWumaDS2ttXR1L3xGhab) | 2:25 |
 | 19 | [想和妳看最長的電影](https://open.spotify.com/track/3SPAcmPKypmigSitbOT11Q) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [想和妳看最長的電影](https://open.spotify.com/album/6nFNjF1JTgQqLZwZa85RVN) | 2:25 |
-| 20 | [死穴](https://open.spotify.com/track/5GugIRufdtrzgt8kKI2BV6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Victor 劉偉德](https://open.spotify.com/artist/1vQ0dshjYv8NyGOu2KNQsG) | [死穴](https://open.spotify.com/album/5stxelEZPKQnROTp1MvN43) | 3:37 |
+| 20 | [死穴](https://open.spotify.com/track/5GugIRufdtrzgt8kKI2BV6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [死穴](https://open.spotify.com/album/5stxelEZPKQnROTp1MvN43) | 3:37 |
 | 21 | [雨街](https://open.spotify.com/track/2TlRbG25qRKB2u1ApUNUZL) | [ICE杨长青](https://open.spotify.com/artist/1CYOMrOfyYgZjJ9n6KIpQO) | [雨街](https://open.spotify.com/album/3WysbLOmTXHl4G6DQc9jeg) | 2:43 |
 | 22 | [不要擔心我, 你要好好過](https://open.spotify.com/track/0FJUAlDVXA9HJZz3W7dwqc) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [不要擔心我, 你要好好過](https://open.spotify.com/album/6RtDQF4V1F70QWj8cfc68D) | 2:46 |
 | 23 | [自·信](https://open.spotify.com/track/6I7K3bjWM7pLxLEWLeiyjz) | [魏诗莹](https://open.spotify.com/artist/5m8y6TUzduIjG3KQnBGQKH) | [自·信](https://open.spotify.com/album/4mTEKjAHda1Lxtp46YS8pM) | 5:00 |

@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 131293,
       "name": "Benidorm",
       "url": "https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC"
@@ -6256,7 +6256,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 112099,
       "name": "cherry jam",
       "url": "https://open.spotify.com/track/17MZ7B7CShDawWEqaPzvpE"
@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 107247,
       "name": "dima",
       "url": "https://open.spotify.com/track/0mQdsjZxwdFvOKknwlBPZo"
@@ -9678,6 +9678,24 @@
       "duration_ms": 129625,
       "name": "Doze",
       "url": "https://open.spotify.com/track/2oHhz3WhgOpjHBcVkB6znF"
+    },
+    {
+      "album": {
+        "name": "Dr3amScape",
+        "url": "https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Dr3amScape",
+      "url": "https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy"
     },
     {
       "album": {
@@ -13492,7 +13510,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 183858,
       "name": "fruitful",
       "url": "https://open.spotify.com/track/16ZBxJvYhFW3hRu40WG5qO"
@@ -28520,7 +28538,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 132666,
       "name": "Quirky",
       "url": "https://open.spotify.com/track/0usxlpPSwsOD7bdWfpHsGR"
@@ -29348,7 +29366,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 132442,
       "name": "Resting My Eyes",
       "url": "https://open.spotify.com/track/6kw2yo60FfpYIFF52zWwUd"
@@ -39436,7 +39454,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 118378,
       "name": "welcome home",
       "url": "https://open.spotify.com/track/2BgDEtTB2uT6q26llkn3oU"

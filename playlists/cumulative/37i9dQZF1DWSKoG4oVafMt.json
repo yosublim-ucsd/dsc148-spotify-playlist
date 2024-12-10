@@ -14906,7 +14906,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 209373,
       "name": "Saadi Jaan Ve",
       "url": "https://open.spotify.com/track/48yQXfoCpreYL0wNNM58Yw"
@@ -18621,6 +18621,28 @@
     },
     {
       "album": {
+        "name": "Tu Mera",
+        "url": "https://open.spotify.com/album/60aj1P0mY3TV7ldPrjT3rR"
+      },
+      "artists": [
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        },
+        {
+          "name": "Vicky sandhu",
+          "url": "https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tu Mera",
+      "url": "https://open.spotify.com/track/2iUIPDohv8vpGl8hTKTcnc"
+    },
+    {
+      "album": {
         "name": "Tu Na Jaa",
         "url": "https://open.spotify.com/album/6fFZlo1ltq25MrF6GxGlKc"
       },
@@ -18862,6 +18884,32 @@
       "duration_ms": 180645,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/2g5eavuonSiNtugU8uvGZq"
+    },
+    {
+      "album": {
+        "name": "Unsaid Talks",
+        "url": "https://open.spotify.com/album/7jOc0j2KPHV7QpRNlQ0TE7"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Gaurav Dev",
+          "url": "https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9"
+        },
+        {
+          "name": "Kartik Dev",
+          "url": "https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Unsaid Talks",
+      "url": "https://open.spotify.com/track/2br0APajqvBIdnAugjfPbS"
     },
     {
       "album": {

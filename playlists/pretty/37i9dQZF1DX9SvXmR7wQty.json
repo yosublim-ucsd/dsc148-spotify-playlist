@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: SCH",
-  "num_followers": 42990,
+  "num_followers": 42992,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+      "duration_ms": 199000,
+      "name": "MISS LILY'S",
+      "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -367,22 +371,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
       },
       "artists": [
         {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 199000,
-      "name": "MISS LILY'S",
-      "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Je suis fait pour...",
+      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
       },
@@ -547,6 +563,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "IMPOSTEUR",
+        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Les d\u00e9mons de minuit",
+      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "\u00c9videmment",
         "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
       },
@@ -563,22 +595,6 @@
       "duration_ms": 183960,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "IMPOSTEUR",
-        "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
-      },
-      "artists": [
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Les d\u00e9mons de minuit",
-      "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -611,22 +627,6 @@
       "duration_ms": 231213,
       "name": "Tu vas me quitter encore longtemps ?",
       "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Je suis fait pour...",
-      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Muay Tha\u00ef",
-        "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
       "artists": [
         {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
         }
       ],
-      "duration_ms": 185636,
-      "name": "Muay Tha\u00ef",
-      "url": "https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R"
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+        "name": "Muay Tha\u00ef",
+        "url": "https://open.spotify.com/album/4CwlCghB4A1t9iiMZkm1xn"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+      "duration_ms": 185636,
+      "name": "Muay Tha\u00ef",
+      "url": "https://open.spotify.com/track/0EnsKGI61KURQ5PWsc7O1R"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -739,22 +739,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "LA VIE CONTINUE",
-        "url": "https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI"
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA"
       },
       "artists": [
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 217800,
-      "name": "NOUVEAU OPPS",
-      "url": "https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ"
+      "duration_ms": 171038,
+      "name": "Paparigo",
+      "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -775,18 +771,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA"
+        "name": "LA VIE CONTINUE",
+        "url": "https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
         }
       ],
-      "duration_ms": 171038,
-      "name": "Paparigo",
-      "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
+      "duration_ms": 217800,
+      "name": "NOUVEAU OPPS",
+      "url": "https://open.spotify.com/track/1qsD8ypRfaWclvlng2acJQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "MON ANN\u00c9E",
+        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 148024,
+      "name": "MON ANN\u00c9E",
+      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "soleil",
         "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
       },
@@ -875,26 +891,6 @@
       "duration_ms": 159377,
       "name": "soleil",
       "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Ca Va Aller",
-        "url": "https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov"
-      },
-      "artists": [
-        {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 227020,
-      "name": "Ca Va Aller",
-      "url": "https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

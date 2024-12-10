@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Tucker Wetmore
+> Join us in fighting childhood cancer at MusicGives.org\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,572 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,633 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [I'm Drinkin' Tonight](https://open.spotify.com/track/1XGenThkr94VG2LEL3Ivv0) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [JAMO](https://open.spotify.com/album/4B5TCSb6dhO6Ylj7sJzffk) | 3:07 |
 | 100 | [I Love the Way You Love Me](https://open.spotify.com/track/48oLajvNQsUqGHl6r24hMY) | [Walker Montgomery](https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl) | [I Love the Way You Love Me](https://open.spotify.com/album/2XCOqR6y7UzbLmGnhTh4tV) | 3:55 |
 
-Snapshot ID: `Z1KE0AAAAADMGcxDnXZLbeoj8pI2ht1x`
+Snapshot ID: `Z1Z5UAAAAAAblKRU6pXAWNYJMVHakHN1`

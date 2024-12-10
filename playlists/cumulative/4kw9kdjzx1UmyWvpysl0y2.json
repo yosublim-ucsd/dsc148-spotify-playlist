@@ -17743,6 +17743,24 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/27xkRKbfs3scIzNeO3lgRQ"
+      },
+      "artists": [
+        {
+          "name": "Topi",
+          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184918,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/0ICvgo8qnBYhVUqGAycdqG"
+    },
+    {
+      "album": {
         "name": "Wild Time",
         "url": "https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN"
       },

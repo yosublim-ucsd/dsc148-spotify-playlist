@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- 'AANKH' by Sunidhi Chauhan, Rusha & Blizza
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,342 likes - 49 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,466 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Kinni Soni](https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kinni Soni](https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded) | 4:01 |
 | 49 | [Saccha Wala Pyaar](https://open.spotify.com/track/1qrVq9YaqCoPTBvm69WzoW) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Saccha Wala Pyaar](https://open.spotify.com/album/0qptZRUXJeFxZdwfwfdjCY) | 3:31 |
 
-Snapshot ID: `Z1KumQAAAADnr1ERJOpeGfMWImCBZoEg`
+Snapshot ID: `Z1aMXgAAAACUM90AE2SsVcDkqr0HR82t`

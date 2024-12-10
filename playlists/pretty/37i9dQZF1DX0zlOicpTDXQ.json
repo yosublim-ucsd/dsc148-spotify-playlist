@@ -1,12 +1,12 @@
 {
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites! Cover: Sabrina Carpenter in A Nonsense Christmas",
-  "num_followers": 17498,
+  "num_followers": 17686,
   "original_name": "Netflix Holidays Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1NTMwAAAADM2t6zo+o4WQxnLzMt8amh",
+  "snapshot_id": "Z1dcuAAAAAC8WNUNOA1WQM8onAfIGbmH",
   "tracks": [
     {
       "added_at": "2024-12-06 19:40:35",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr"
     },
     {
-      "added_at": "2024-12-06 08:00:00",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 226713,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
-    },
-    {
       "added_at": "2024-11-26 19:12:02",
       "album": {
         "name": "Under the Tree (from \u201cThat Christmas\u201d)",
@@ -57,6 +41,22 @@
       "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
     },
     {
+      "added_at": "2024-12-09 20:47:36",
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 121360,
+      "name": "cindy lou who",
+      "url": "https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr"
+    },
+    {
       "added_at": "2024-11-05 00:33:06",
       "album": {
         "name": "Meet Me Next Christmas",
@@ -71,6 +71,22 @@
       "duration_ms": 163922,
       "name": "Meet Me Next Christmas",
       "url": "https://open.spotify.com/track/71c1qn8GR6xhx7pFjWWcks"
+    },
+    {
+      "added_at": "2024-12-09 20:47:36",
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
     },
     {
       "added_at": "2024-11-05 00:33:06",

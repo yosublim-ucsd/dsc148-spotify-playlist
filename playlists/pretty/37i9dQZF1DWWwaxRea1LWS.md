@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Ease into the Holiday rush with \#SpotifyTBT and these mellow classics\. Cover: James Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,664 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,581 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

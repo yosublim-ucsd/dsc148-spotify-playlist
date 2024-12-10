@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2410,
+  "num_followers": 2409,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAABJ1NHon5Glvc5Hdt1iPVRR",
+  "snapshot_id": "Z1ThgAAAAACAHGI70KHcO7OoOgKMr07v",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
       "duration_ms": 375933,
       "name": "Mine Is Clouds",
       "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "The Dives (Lazarus in Ashes)",
+      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
     }
   ],
   "unique_name": "This Is Nothing",

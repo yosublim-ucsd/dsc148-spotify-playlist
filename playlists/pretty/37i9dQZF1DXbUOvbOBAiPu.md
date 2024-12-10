@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,920 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,928 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 43 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 | 44 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 |
 | 45 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 |
-| 46 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:07 |
+| 46 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:08 |
 | 47 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1xgaC48hV6e4odwQpyxA3v) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Home Alone \(On The Night Before Christmas\) Vol.2](https://open.spotify.com/album/2iUpf7GT75sbxmO9LnBh8W) | 2:06 |
 | 48 | [When loneliness succeeds](https://open.spotify.com/track/7oMQAiYINSnwQwsHt0iqUt) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [When loneliness succeeds](https://open.spotify.com/album/1MGuVSH8mGNkniZFL07M1e) | 4:22 |
 | 49 | [SUCCESS \- Why do you compare your success to other people's ?](https://open.spotify.com/track/14OtnFvv7EtLyU04624tHz) | [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [WHY ME ?](https://open.spotify.com/album/1ejghrTqQ28BeT5ThBMfpM) | 2:59 |

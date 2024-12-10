@@ -4,7 +4,7 @@
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-140 songs - 6 hr 35 min
+141 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Aunt Ruth's Arrival](https://open.spotify.com/track/2cI347aeciNPqHfcWhSzK6) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [A Boy Called Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOPB6M9Auj7qYfJRhxOvQ) | 1:35 | 2024-10-11 |  |
 | [Back to Brooklyn](https://open.spotify.com/track/02EM3FStjDy10CIwYe7anc) | [Dara Taylor](https://open.spotify.com/artist/6DXeA5nK5RwxNAs8a3nHLG) | [Meet Me Next Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0PVoECRcbVY10o85e1fq6l) | 0:39 | 2024-11-08 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:46 | 2024-10-11 |  |
+| [Boxing Day](https://open.spotify.com/track/1vEbeFed1H8kGfX1USRP0y) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [That Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3Cv8O8qXk9otyzajoJ5G1Z) | 1:59 | 2024-12-09 |  |
 | [Bridget Jones's Theme](https://open.spotify.com/track/5Nj4ShWa10M58FJDXpJKsr) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Bridget Jones’s Baby \(Original Motion Picture Score\)](https://open.spotify.com/album/7pI3xA0nYTiOV69T27WqCQ) | 3:29 | 2024-10-11 |  |
 | [Buddy And Santa's Flight](https://open.spotify.com/track/3SugvyBst4nBYn5vhJLvHO) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 1:15 | 2024-10-11 |  |
 | [Buddy's Journey \- From "Elf"](https://open.spotify.com/track/7MQ2qrOZUXnX0gbu6TYUJN) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Elf \(Original Motion Picture Score\)](https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881) | 2:37 | 2024-10-11 |  |

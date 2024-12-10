@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-25",
-  "description": "Music from \"The Apothecary Diaries\" /\u300c\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u65e5\u5411\u590f\u30fb\u30a4\u30de\u30b8\u30ab\u30a4\u30f3\u30d5\u30a9\u30b9\uff0f\u300c\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "name": "The Apothecary Diaries \u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
+  "description": "Music from \"The Apothecary Diaries\" \u00a9\u65e5\u5411\u590f\u30fb\u30a4\u30de\u30b8\u30ab\u30a4\u30f3\u30d5\u30a9\u30b9\uff0f\u300c\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "The Apothecary Diaries",
   "tracks": [
     {
       "album": {
@@ -1018,6 +1018,24 @@
       "duration_ms": 284217,
       "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
       "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u732b\u732b\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/6eOv7Uylkaazu0WU4UsNgB"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f",
+          "url": "https://open.spotify.com/artist/7xLir1K2HcRK1VuNRa2B8k"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64440,
+      "name": "\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u732b\u732b\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/3lK8E489nFS4RXiNOVZy0m"
     },
     {
       "album": {

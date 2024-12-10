@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 281254,
+  "num_followers": 281289,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
-      },
-      "artists": [
-        {
-          "name": "Obie Bermudez",
-          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 224346,
       "name": "No Soy De Aqui, Ni Soy De Alla",
       "url": "https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
+      },
+      "artists": [
+        {
+          "name": "Obie Bermudez",
+          "url": "https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Tres De Copas",
-        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
-      },
-      "artists": [
-        {
-          "name": "Tres de Copas",
-          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Hasta Donde tu vayas",
-      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
-    },
-    {
       "added_at": "2022-03-01 04:08:22",
       "album": {
         "name": "Destino",
@@ -855,6 +839,22 @@
       "duration_ms": 205333,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Tres De Copas",
+        "url": "https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i"
+      },
+      "artists": [
+        {
+          "name": "Tres de Copas",
+          "url": "https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY"
+        }
+      ],
+      "duration_ms": 254786,
+      "name": "Hasta Donde tu vayas",
+      "url": "https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Filio",
-          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
-        }
-      ],
-      "duration_ms": 201743,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 252380,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Filio",
+          "url": "https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj"
+        }
+      ],
+      "duration_ms": 201743,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/2PptHH46AdfiLRh4964cch"
     },
     {
       "added_at": "2021-07-29 16:46:05",

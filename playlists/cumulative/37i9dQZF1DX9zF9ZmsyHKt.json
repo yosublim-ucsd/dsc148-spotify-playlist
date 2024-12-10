@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 224809,
       "name": "Aceita Meu Amor",
       "url": "https://open.spotify.com/track/0uCz530eIv1baO4SpwbzAE"
@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "O Rei Do Techno Brega",
+        "url": "https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX"
+      },
+      "artists": [
+        {
+          "name": "Jurandy",
+          "url": "https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204335,
+      "name": "Chico Preto",
+      "url": "https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q"
+    },
+    {
+      "album": {
         "name": "Encarnado",
         "url": "https://open.spotify.com/album/1pRvKobyyF8tJcb4i9cKb8"
       },
@@ -1272,10 +1290,28 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 166038,
       "name": "Dan\u00e7ando e Beijando",
       "url": "https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH"
+    },
+    {
+      "album": {
+        "name": "Ao Som do Fruto, Vol. 02",
+        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180819,
+      "name": "Dan\u00e7ar Com Itamaraty",
+      "url": "https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I"
     },
     {
       "album": {
@@ -1934,7 +1970,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 114059,
       "name": "Eu Sou Maluca",
       "url": "https://open.spotify.com/track/0uXLhoObImcJmuMsgHFON7"
@@ -2423,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Itamaraty",
+        "url": "https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163832,
+      "name": "Itamaraty",
+      "url": "https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN"
+    },
+    {
+      "album": {
         "name": "Sol e Mar, Vol. 2",
         "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
@@ -2702,6 +2760,24 @@
       "duration_ms": 183000,
       "name": "Marias",
       "url": "https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k"
+    },
+    {
+      "album": {
+        "name": "O Rei Do Techno Brega",
+        "url": "https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX"
+      },
+      "artists": [
+        {
+          "name": "Jurandy",
+          "url": "https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206193,
+      "name": "Marmita",
+      "url": "https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN"
     },
     {
       "album": {
@@ -3377,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/5aWoIA9X1J0tabzygJbgCr"
+      },
+      "artists": [
+        {
+          "name": "Banda Calypso",
+          "url": "https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232133,
+      "name": "Objeto de Desejo",
+      "url": "https://open.spotify.com/track/5TnTDW5cgW23CCRb7RPUdZ"
+    },
+    {
+      "album": {
         "name": "Olha Bem pra Mim",
         "url": "https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59"
       },
@@ -3896,7 +3990,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-31",
+      "date_removed": null,
       "duration_ms": 190641,
       "name": "Pressentimento",
       "url": "https://open.spotify.com/track/08HgZFtetIts1LUVtB6H9M"
@@ -4528,7 +4622,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 193194,
       "name": "Sofro com a saudade",
       "url": "https://open.spotify.com/track/1QueFPbtVKTnwdfci7mmSC"
@@ -5173,6 +5267,42 @@
     },
     {
       "album": {
+        "name": "Ao Som do Fruto, Vol. 02",
+        "url": "https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs"
+      },
+      "artists": [
+        {
+          "name": "Fruto Sensual",
+          "url": "https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229276,
+      "name": "Vem Curtir Com Jackson",
+      "url": "https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9"
+    },
+    {
+      "album": {
+        "name": "Marcantes",
+        "url": "https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX"
+      },
+      "artists": [
+        {
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276526,
+      "name": "Vem Meu Amor",
+      "url": "https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian"
+    },
+    {
+      "album": {
         "name": "Confiss\u00f5es de Camarim",
         "url": "https://open.spotify.com/album/5vjkzHOKWP91WnZDG7cM3V"
       },
@@ -5394,6 +5524,24 @@
       "duration_ms": 201840,
       "name": "\u00c9 Isso A\u00ed",
       "url": "https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tudo pra Mim",
+        "url": "https://open.spotify.com/album/4jQ4walwpL7J8kCW0ZzR8f"
+      },
+      "artists": [
+        {
+          "name": "Banda Paix\u00e3o do Calypso",
+          "url": "https://open.spotify.com/artist/7zDyKhidLb4eNwgDZpYy7m"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251638,
+      "name": "\u00c9 Tudo pra Mim",
+      "url": "https://open.spotify.com/track/7esYGSi17zTkqPA8mQGnHm"
     },
     {
       "album": {

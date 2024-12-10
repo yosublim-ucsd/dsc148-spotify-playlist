@@ -4,7 +4,7 @@
 
 > chilling beats for haunted vibes.
 
-81 songs - 2 hr 47 min
+84 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [elm street](https://open.spotify.com/track/2pWAf8ktMyKob5FU7uqvj1) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [elm street](https://open.spotify.com/album/1X7aEIyyJHzYxBBrlIdOVq) | 1:46 | 2024-10-18 |  |
 | [empty hallways](https://open.spotify.com/track/6dfbnOrZdeHszv3jSVHkq7) | [Almst](https://open.spotify.com/artist/07qY3LqWnWfsCpyJtvWJ57) | [empty hallways](https://open.spotify.com/album/6LIFDs34NUyPMc0nwk00YD) | 2:22 | 2024-11-14 |  |
 | [Falling Stars](https://open.spotify.com/track/1MjUWn8Hm9F03FPoqXs4AX) | [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P), [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [Run!](https://open.spotify.com/album/57n59GNS2R6QEmeHigDap1) | 1:42 | 2024-10-18 |  |
+| [Fantomatic](https://open.spotify.com/track/5PaGXKjXiSh1zqHIYk96DP) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [Fantomatic](https://open.spotify.com/album/0ZaMqVd0mgo5Cz3XZASqI9) | 2:08 | 2024-12-09 |  |
 | [first coven](https://open.spotify.com/track/4SY76GBZJBQm4T2twQmVPQ) | [Okyto](https://open.spotify.com/artist/6VlM65EyQlOkgD845uNtQj) | [burning exhibit](https://open.spotify.com/album/6yQuWTpLzk9I8BdFLTjT4O) | 1:16 | 2024-10-18 |  |
 | [Fright](https://open.spotify.com/track/7wRIVUCYY1rT3HmGWErkZL) | [jaspurrr](https://open.spotify.com/artist/5KL8P2XqxDI8tMI90FEkOG) | [A Symphony of Screams Vol.1](https://open.spotify.com/album/1Un1x4VOQ8qdQ6UevBkuHS) | 2:29 | 2024-10-18 |  |
 | [Ghost in a Pumpkin](https://open.spotify.com/track/75Sl5RkAfPPCgu5Mxkyc9Q) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Spooky Tunes \- Halloween 2024](https://open.spotify.com/album/6hMFYn2AX8mHJ8oXzOVMr6) | 1:47 | 2024-10-18 |  |
@@ -40,11 +41,12 @@
 | [Glowing Pumpkins](https://open.spotify.com/track/6vGenQAhPjefKWHZzTwch2) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A) | [Glowing Pumpkins](https://open.spotify.com/album/7ye5YULIHMp45MuWidKcb5) | 1:53 | 2024-10-18 |  |
 | [Gravewalker](https://open.spotify.com/track/7ACw3nP8TjrWGimJruyit7) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [Gravewalker](https://open.spotify.com/album/6wJDw7AADYtPQJ1hZKMhgf) | 2:19 | 2024-11-14 |  |
 | [Graveyard Chill](https://open.spotify.com/track/6aKK9PvHTyZRlF1UYc0iK3) | [Odd Shapes](https://open.spotify.com/artist/7u2gQnpI4PGGcY4PvIe1Xj) | [Graveyard Chill](https://open.spotify.com/album/13B5yiBoAuooEB9TLgrLsS) | 2:46 | 2024-11-06 |  |
+| [Graveyard Ghosts](https://open.spotify.com/track/02tv3t77zEGWUrI7aMykDJ) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Graveyard Ghosts](https://open.spotify.com/album/4ggiQpmKbn1jkZIE3zFkx4) | 2:01 | 2024-12-09 |  |
 | [Halloween](https://open.spotify.com/track/24zPa39ruDixY6jdorFwKB) | [Jmss](https://open.spotify.com/artist/36SBg8t2alILgIBtN5V2Jb) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 1:43 | 2024-10-18 |  |
 | [Haunted Castle](https://open.spotify.com/track/6o3LoQasybBg2wGldqJkui) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Marvin Frey](https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Haunted Castle](https://open.spotify.com/album/1FTN1wsJ8gAKLcy96j2Mdq) | 2:26 | 2024-10-18 |  |
 | [Haunted Chill](https://open.spotify.com/track/0g3RhDD20tOhvyPapaY4Pk) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 1:25 | 2024-10-18 |  |
 | [Haunted House](https://open.spotify.com/track/7dnDEYl28xeepWeobKuBMr) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53), [Corey J\. Beats](https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS) | [Haunted House](https://open.spotify.com/album/51yJCSSjOXhuxZmjR6tPTC) | 2:24 | 2024-10-18 |  |
-| [Haunted Party](https://open.spotify.com/track/2BcSlshrXASLBY9kPjDGRz) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Alto](https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.3](https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ) | 1:53 | 2024-10-18 |  |
+| [Haunted Party](https://open.spotify.com/track/2BcSlshrXASLBY9kPjDGRz) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Alto](https://open.spotify.com/artist/1qxsFKTu2u0qvv0fqNRv3r), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.3](https://open.spotify.com/album/37PmVSez3koGTLr2ZmUgvJ) | 1:53 | 2024-10-18 | 2024-12-10 |
 | [Haunted Woods](https://open.spotify.com/track/6cYrM33j56dHQmj7P1f4RR) | [eva gomi tenshi](https://open.spotify.com/artist/7JBpVroVCsNZPJeuUMtLnI) | [Trick or Treat?](https://open.spotify.com/album/3XPbg1KbHdfJS6klfUgE6i) | 2:09 | 2024-10-18 |  |
 | [hello\-in.](https://open.spotify.com/track/52KoDdEtA2Tv4sComGsOm1) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [hello\-in.](https://open.spotify.com/album/3clqp0nUFxJ2tzatmuCbhh) | 2:19 | 2024-10-18 |  |
 | [Hidden Spell](https://open.spotify.com/track/0wDV0CmQmVEuuwGTMuFvR3) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Hidden Spell](https://open.spotify.com/album/1G2lrJsyv2TlgvLXUITvxd) | 2:08 | 2024-10-18 |  |
@@ -86,6 +88,7 @@
 | [Under the bed](https://open.spotify.com/track/3m8djpTVksIn7BMBgN5R3U) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Under the bed](https://open.spotify.com/album/2RTe5Yn75l7oSymgxHHt8z) | 2:26 | 2024-11-14 |  |
 | [Under The Pumpkin Moon](https://open.spotify.com/track/2AxVEisUzoRdr8hLvVywyW) | [Bewilder Beats](https://open.spotify.com/artist/1EtWZEN5E5vHJPrnYHvSv5) | [Under The Pumpkin Moon](https://open.spotify.com/album/3ORVRZgFR9EAYllEAbU6sz) | 2:00 | 2024-11-06 |  |
 | [Walpurgis Night](https://open.spotify.com/track/6TNWnncXL8XuSsExku48wd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Spooky Tunes \- Halloween 2024](https://open.spotify.com/album/6hMFYn2AX8mHJ8oXzOVMr6) | 2:15 | 2024-10-18 |  |
+| [Weeeen](https://open.spotify.com/track/66lr1msBMBgaU14WMqcM9f) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Weeeen](https://open.spotify.com/album/0s79hRyHmzaicXGg9OO4cB) | 2:30 | 2024-12-09 |  |
 | [Where Are You?](https://open.spotify.com/track/1sTi9Lj1lqstuPRzMBUBgd) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg) | [A Lofi Chill Halloween](https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U) | 2:18 | 2024-10-18 | 2024-10-25 |
 | [Where Witches Live](https://open.spotify.com/track/5x9HsipDHZEGg3lNkpDzu5) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Where Witches Live](https://open.spotify.com/album/6GXE48b9lr6quy2jvbZepF) | 2:15 | 2024-10-18 |  |
 | [Witches Brew](https://open.spotify.com/track/3HMiak8adJXzM5EvX556ql) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Witches Brew](https://open.spotify.com/album/5uOYaPnZrslcxH1v26FOgH) | 1:49 | 2024-10-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 571801,
+  "num_followers": 571823,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAACBW7xYKu/A5nK9RVOvElFh",
+  "snapshot_id": "Z1ThgAAAAAD9wnOCF+yxrrOsc4y71igv",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
+        "name": "Cores & Valores",
+        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
       },
       "artists": [
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ Cia",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 680880,
-      "name": "Formula M\u00e1gica da Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV"
+      "duration_ms": 123370,
+      "name": "Preto Zica",
+      "url": "https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cores & Valores",
-        "url": "https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m"
+        "name": "1000 Trutas 1000 Tretas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude"
       },
       "artists": [
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ Cia",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 123370,
-      "name": "Preto Zica",
-      "url": "https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B"
+      "duration_ms": 680880,
+      "name": "Formula M\u00e1gica da Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV"
     },
     {
       "added_at": null,

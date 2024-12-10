@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,383 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,381 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 59 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 |
 | 60 | [Overrated](https://open.spotify.com/track/2r0beu8qqFysesex0DhEQf) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Velvet Dreams](https://open.spotify.com/album/5ZcbCtB3uwd2PCNAcQTeZU) | 3:19 |
 | 61 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 |
-| 62 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:07 |
+| 62 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:08 |
 | 63 | [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 |
 | 64 | [Endless Song](https://open.spotify.com/track/0uJVYmVNG3kfmBUlOkRfgU) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Endless Song](https://open.spotify.com/album/3g05Kfwri5zlGLtubDFvrq) | 3:17 |
 | 65 | [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 |

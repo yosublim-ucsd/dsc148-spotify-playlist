@@ -2,7 +2,7 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:49bzE5vRBRIota4qeHtQM8">Skillet</a>
+> Listen to the recent hits of Christian Rock\.  Cover:  Skillet
 
 206 songs - 13 hr 23 min
 

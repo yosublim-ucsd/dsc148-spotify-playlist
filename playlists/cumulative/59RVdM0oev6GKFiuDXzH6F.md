@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-910 songs - 1 day 22 hr 27 min
+911 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [Way Too Good](https://open.spotify.com/track/0SXWJXZmF6mT6uOqQr8rPg) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Way Too Good](https://open.spotify.com/album/3q22v4Q0OmG0ukZVXqSuGZ) | 3:21 | 2023-07-20 | 2023-12-14 |
 | [We Don’t Need](https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:36 | 2024-08-29 |  |
 | [We Enter](https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T) | [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [We Enter](https://open.spotify.com/album/43EyY47jMzKbeq1pHKaGx0) | 2:39 | 2024-01-26 | 2024-09-26 |
+| [We Got The Bass](https://open.spotify.com/track/7ABEZFYxZV6JuhVUXzReGJ) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI) | [We Got The Bass](https://open.spotify.com/album/6NbiC4cOm7ebiw6mRSjPAO) | 3:09 | 2024-12-09 |  |
 | [We House U](https://open.spotify.com/track/15sHpP61Dht32ezVKBrtPg) | [PØP CULTUR](https://open.spotify.com/artist/7lxjUMVAHwmzzPATtuEB9m) | [We House U](https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl) | 2:47 | 2024-02-29 |  |
 | [Weapon](https://open.spotify.com/track/2chLUwM4ofzZxhXIUcVl1P) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Matheo Velez](https://open.spotify.com/artist/6MxFlTSSCQgopzNmiEsaxU) | [Weapon](https://open.spotify.com/album/41WivKU0HKTRVQt59MfTzq) | 2:30 | 2023-12-01 | 2024-10-11 |
 | [Welcome To The Club](https://open.spotify.com/track/0ZvFLTcq9dDuk43l1HARPZ) | [HITAK](https://open.spotify.com/artist/4YqSnfVIQk2sj6o5PyjKKd), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Welcome To The Club](https://open.spotify.com/album/1nAAI143KkwP7uhqoq1h1n) | 2:47 | 2023-04-14 | 2023-05-02 |

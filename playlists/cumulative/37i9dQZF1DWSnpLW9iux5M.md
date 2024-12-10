@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-164 songs - 10 hr 57 min
+165 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Celebrate Me Home](https://open.spotify.com/track/7hty2YjfmJ5PDfsobsljLJ) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Celebrate Christmas](https://open.spotify.com/album/37wbUQgRAczmg3zhbxwHHf) | 3:52 | 2024-11-17 |  |
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 3:52 | 2021-12-24 | 2024-04-19 |
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/7mzQgvrYsw1U1dGYUgCTHH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas Aretha](https://open.spotify.com/album/3JEvXjX2yApZaGLuXjBAc5) | 3:52 | 2021-12-24 | 2024-10-27 |
-| [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 |  |
+| [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 | 2024-12-10 |
 | [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 | 2021-12-24 |  |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2021-12-24 | 2024-11-18 |
 | [Christmas Pick Me Up](https://open.spotify.com/track/3q9CNgt5xOKVGyY8addRH4) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/2dczDUKRUmferBnrzgkCtS) | 3:59 | 2023-12-15 | 2024-04-19 |
@@ -144,6 +144,7 @@
 | [Sweet Little Jesus Boy](https://open.spotify.com/track/7lOXKKbn55lAJuTQIRopL1) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 3:26 | 2021-12-24 |  |
 | [Tell God Thank You](https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Tell God Thank You](https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ) | 3:38 | 2022-12-10 |  |
 | [The Christmas Song](https://open.spotify.com/track/6JPIOL1YBQxaorbxA9MyN6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [R&B Christmas Songs](https://open.spotify.com/album/5ij3UzfTQaLv6etmkHNjaU) | 2:38 | 2021-12-24 | 2024-07-30 |
+| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-08 |  |
 | [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-02 |  |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |
 | [The First Noel](https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT) | [Virtue](https://open.spotify.com/artist/3YXPy18rDwhGJdBjnpYGpa) | [The Real Meaning Of Christmas Volume 2](https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM) | 4:24 | 2021-12-24 |  |

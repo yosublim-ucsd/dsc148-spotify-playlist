@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-47 songs - 2 hr 26 min
+48 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 | 2024-11-09 |  |
 | [Wage Wars Get Rich Die Handsome \(The Jordan Lake Sessions Volume 5\)](https://open.spotify.com/track/4AcfUWv9nT3OP8V4dAZedQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volume 5](https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc) | 2:25 | 2023-01-09 |  |
 | [Weight of the World](https://open.spotify.com/track/3mBzmGcvEytNUsPHmpqtXZ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:13 | 2023-03-23 |  |
+| [Welcome Back, Misery](https://open.spotify.com/track/7oER11s45z5je7hHu7HZC7) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Shipwreck](https://open.spotify.com/album/7oeYBOWTUIRAe6uzbloZFg) | 1:38 | 2024-12-09 |  |
 | [Welcome to the Neighborhood!](https://open.spotify.com/track/4mqtbyIidkZQmpHveD0joq) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Welcome to the Neighborhood!](https://open.spotify.com/album/45otVgvLxy1cQ9UAWWHDJV) | 1:36 | 2023-03-28 |  |
 | [Where Do I Sign?](https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:11 | 2024-02-19 |  |
 | [Where We Belong](https://open.spotify.com/track/3bn7nqO1SDLLYNEnaW8Sjx) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:18 | 2023-03-23 |  |

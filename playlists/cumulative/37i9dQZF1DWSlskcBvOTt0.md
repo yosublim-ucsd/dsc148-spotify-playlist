@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-808 songs - 2 day 23 hr 28 min
+809 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Intuición](https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Sil Romero](https://open.spotify.com/artist/0ZuVGmLXDBzT1XQaUdUoBG) | [Intuición](https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE) | 4:12 | 2022-05-06 | 2023-11-18 |
 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 | 2023-12-01 | 2024-05-11 |
 | [Is It Real \- Tim Engelhardt & Sean Doron Remix](https://open.spotify.com/track/1qjxMcRJ53XetiwsBqrhpF) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Is It Real \(Tim Engelhardt & Sean Doron Remix\)](https://open.spotify.com/album/1MLxlLcf8ZmfcdfUJ7AEi8) | 4:17 | 2024-05-24 | 2024-07-25 |
-| [It's You \- Alex Wann Remix](https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [It’s You \(Alex Wann Remix\)](https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN) | 3:51 | 2024-11-01 |  |
+| [It's You \- Alex Wann Remix](https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [It’s You \(Alex Wann Remix\)](https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN) | 3:51 | 2024-11-01 | 2024-12-10 |
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-08 | 2022-07-22 |
 | [Jameela](https://open.spotify.com/track/73ACKQUKfq1iz7cAgPCUim) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Jameela](https://open.spotify.com/album/0f4XzO7YPKUZtfLHj4BK4f) | 3:09 | 2022-05-20 | 2022-07-03 |
 | [Jellydish](https://open.spotify.com/track/0o5vFkIE7BwQwBhkQ0s8ev) | [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Bi Ba Bü](https://open.spotify.com/album/45qxQ2ACnkIlrWy9UY1HqN) | 8:26 | 2022-02-11 | 2022-07-29 |
@@ -492,6 +492,7 @@
 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 | 2024-06-21 | 2024-10-05 |
 | [My Time With You](https://open.spotify.com/track/1MqiNllDK5JEVV3FrETMQl) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h) | [Lost Desert & Friends III](https://open.spotify.com/album/4I0G615tBSwurLamowdpHD) | 6:49 | 2023-06-23 | 2023-08-07 |
 | [NA NA NA](https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz) | [WAALAAXXX](https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ) | [NA NA NA](https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P) | 7:10 | 2023-10-06 | 2024-03-23 |
+| [Naam](https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0) | [Naam](https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO) | 3:45 | 2024-12-06 |  |
 | [Nabia](https://open.spotify.com/track/1W2eqS5HYJXHIhn7T8lWDZ) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Nabia](https://open.spotify.com/album/47AuV8Pbbz8XYMddhvIU1n) | 8:57 | 2022-07-01 | 2023-03-11 |
 | [Nebelmaschine](https://open.spotify.com/track/1f6YJOTRtxb9EvDd46vrNN) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Nebelmaschine](https://open.spotify.com/album/4IvVSbxqt0zYSWW8PvuVKQ) | 6:47 | 2021-05-07 | 2022-07-23 |
 | [Netzwerk \- Luch Rework](https://open.spotify.com/track/57mzq1SDj5f3gx4j0eDgdj) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Netzwerk \(Luch Rework\)](https://open.spotify.com/album/1TqyZvgULVEdWaV505DrY6) | 4:35 | 2024-11-22 |  |

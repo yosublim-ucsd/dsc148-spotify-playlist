@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.
 
-119 songs - 5 hr 8 min
+122 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 | 2024-06-01 |  |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2023-12-01 |  |
+| [BBL \(feat\. Rob49\)](https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [BBL \(feat\. Rob49\)](https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW) | 2:26 | 2024-12-09 |  |
 | [BBY GOAT](https://open.spotify.com/track/4KcEwOdMjfKDsroYVy6mnp) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [GEMINI!](https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi) | 4:10 | 2024-06-14 |  |
 | [BEAST OUT THE CAGE](https://open.spotify.com/track/5wskdb31Z9aAhtuSkphkF6) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [BEAST OUT THE CAGE](https://open.spotify.com/album/3xyUv8Z7PWHRakcSM1P0zg) | 2:53 | 2024-02-20 |  |
 | [BLOOD DIAMONDS \(feat\. Peysoh\)](https://open.spotify.com/track/03heaSeI0k4pcHhD0v3iqk) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [BLOOD DIAMONDS \(feat\. Peysoh\)](https://open.spotify.com/album/3df0dzVGMVAmlD1irSXAeo) | 2:32 | 2024-11-18 |  |
@@ -103,6 +104,7 @@
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-12 | 2024-02-21 |
 | [Sexiest Soul](https://open.spotify.com/track/1DeFiZgMZh93zAkszWaGVz) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [Sexiest Soul](https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd) | 2:26 | 2024-03-15 | 2024-06-01 |
 | [Shot Caller](https://open.spotify.com/track/6enDzOsAXFajdU3HclV4Cz) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Shot Caller](https://open.spotify.com/album/2iisvKalcg2nTNbYmjBRD8) | 2:31 | 2023-12-01 | 2024-06-19 |
+| [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-09 |  |
 | [Slut](https://open.spotify.com/track/4y09z2lAF40PebZLUmFdNv) | [Jimbo World](https://open.spotify.com/artist/2SOPsk10xOOjO0M1oyNCmu) | [Slut](https://open.spotify.com/album/3nAU88uRQbbuT5hlPBtom3) | 2:22 | 2023-08-11 | 2024-02-21 |
 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 | 2023-07-24 | 2024-05-21 |
 | [soak city \(do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [soak city \(do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 1:54 | 2024-01-19 |  |
@@ -116,6 +118,7 @@
 | [Tidal Wave](https://open.spotify.com/track/0yquoP4Aa49aT2n460pbYU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Tidal Wave](https://open.spotify.com/album/2ltqTkAvRX2n5xfbC6s7ct) | 3:18 | 2024-05-15 |  |
 | [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2024-01-19 |  |
 | [TRAPPii](https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [TRAPPii](https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v) | 2:57 | 2023-09-28 |  |
+| [Tuck Your Chain](https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Tuck Your Chain](https://open.spotify.com/album/6NHj6smgIl0QMuEj0ZFY09) | 2:07 | 2024-12-09 |  |
 | [Turnt](https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Purple Heart](https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz) | 2:45 | 2024-02-20 |  |
 | [UHN UHN](https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [UHN UHN](https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb) | 2:14 | 2023-09-05 | 2024-05-21 |
 | [Underrated](https://open.spotify.com/track/2dMef32kMcuPD3d37r6Gym) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/7rqRBEB0cvYofa2OQgQi4G) | 2:35 | 2024-07-03 |  |

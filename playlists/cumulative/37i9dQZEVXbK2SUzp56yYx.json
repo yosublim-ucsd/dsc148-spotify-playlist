@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -8780,7 +8780,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 171373,
       "name": "Rebel Heart (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5xvjnyg8FHPGRSkbAhjJh6"
@@ -11296,7 +11296,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 160194,
       "name": "U Weren't Here I Really Miss You",
       "url": "https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b"
@@ -12878,6 +12878,24 @@
       "duration_ms": 197368,
       "name": "Zvenit Yanvarskaya Vyuga",
       "url": "https://open.spotify.com/track/5K2aUcoGbQrsdb7T0Rf1C6"
+    },
+    {
+      "album": {
+        "name": "\u0430\u0434\u0440\u0435\u043d\u0430\u043b\u0438\u043d",
+        "url": "https://open.spotify.com/album/7cqsmyBuCgLCorNDnQV8dB"
+      },
+      "artists": [
+        {
+          "name": "erix",
+          "url": "https://open.spotify.com/artist/3dXNCdxW6XcaV5w2affe6B"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148272,
+      "name": "\u0430\u0434\u0440\u0435\u043d\u0430\u043b\u0438\u043d",
+      "url": "https://open.spotify.com/track/5ceS5Kb2YFnWFdkSR34muY"
     },
     {
       "album": {

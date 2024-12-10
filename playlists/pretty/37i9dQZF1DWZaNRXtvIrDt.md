@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Juicy Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,919 likes - 95 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,935 likes - 95 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

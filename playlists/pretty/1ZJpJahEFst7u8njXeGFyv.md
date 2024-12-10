@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 305,723 likes - 226 songs - 14 hr 21 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 305,718 likes - 226 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Prince of Egypt Suite: Part 3](https://open.spotify.com/track/0qk94htJlMYnfs4FlGhBoI) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gan\-Ya Ben\-Gur Akselrod](https://open.spotify.com/artist/1teORouDCbrq9yYxreb2UF), [Rusanda Panfili](https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc), [Pedro Eustache](https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Prince of Egypt Suite](https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA) | 6:20 |
+| 1 | [The Prince of Egypt Suite: Part 3](https://open.spotify.com/track/0qk94htJlMYnfs4FlGhBoI) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gan\-ya Ben\-gur Akselrod](https://open.spotify.com/artist/0j9WXwyTLQR1oU2SMO6Smc), [Rusanda Panfili](https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc), [Pedro Eustache](https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Prince of Egypt Suite](https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA) | 6:20 |
 | 2 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 3 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 4 | [A Christmas Prelude No\. 3](https://open.spotify.com/track/550tiyZbarfuAejjHMSZLO) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Prelude No\. 3](https://open.spotify.com/album/3j3Tcyg9D7DLASJHyx0rTs) | 2:55 |

@@ -4,7 +4,7 @@
 
 > Tony Boy in cover della playlist urban più grande in Italia 🔥
 
-657 songs - 1 day 8 hr 12 min
+658 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-06 |  |
 | [PERSONALE \(feat\. Geolier\)](https://open.spotify.com/track/27sveRwlAkrG0lKGMKA4of) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/7tEHuB4Y4KaSAMB1CjTUho) | 2:33 | 2024-03-07 | 2024-03-22 |
 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 | 2023-12-14 | 2024-03-29 |
+| [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-09 |  |
 | [PILLOLE \(feat\. Sfera Ebbasta & Geolier\)](https://open.spotify.com/track/5wU2NUt1pSAeTIWfXnRRkQ) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:27 | 2024-03-14 | 2024-06-07 |
 | [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-25 | 2022-06-10 |
 | [PIOVE \(Concertos\)](https://open.spotify.com/track/1qvdspvSwXch9dKKV4lT3A) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/12ezRjJUICPhvnJiZQ7A5k) | 2:51 | 2022-12-22 | 2023-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Tiago PZK, Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,511 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,592 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 31 | [Soltera \- Versión Cumbia](https://open.spotify.com/track/3RykXR2psC9zkFoSNnkRv4) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Soltera \(Versión Cumbia\)](https://open.spotify.com/album/7wwHwEwVVpDftnpY4dcT6n) | 2:43 |
 | 32 | [Morena](https://open.spotify.com/track/5MmytWXOm4Cohz09gdA3Js) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Morena](https://open.spotify.com/album/3jwbgB9sBNQBUB6vvpw1pe) | 4:21 |
 | 33 | [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 3:02 |
-| 34 | [Ella es sencilla](https://open.spotify.com/track/7HfEGey240JWeLNYRMcmYp) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF), [GoodLyon](https://open.spotify.com/artist/0FtqfqiXtJAAOGuL85rCqg) | [Ella es sencilla](https://open.spotify.com/album/4aWRI6OSBGjFOH6YsbFijW) | 2:51 |
+| 34 | [Ella es sencilla](https://open.spotify.com/track/7HfEGey240JWeLNYRMcmYp) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF), [GoodLyon](https://open.spotify.com/artist/0FtqfqiXtJAAOGuL85rCqg), [Good Family Crew](https://open.spotify.com/artist/4Oh3wBGJ6oGPbtR61OhNoL) | [Ella es sencilla](https://open.spotify.com/album/4aWRI6OSBGjFOH6YsbFijW) | 2:51 |
 | 35 | [Session Mix 3](https://open.spotify.com/track/6SlU9X523aSWjg5WZ9xATU) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Session Mix 3](https://open.spotify.com/album/47Q1TGOWi1nzROj9nlIj06) | 7:38 |
 | 36 | [Primera Cita](https://open.spotify.com/track/6KC0A7K0FHBbrG0CNwi57N) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Primera Cita](https://open.spotify.com/album/4btW0WmgIWQJOPN9waiF4S) | 3:11 |
 | 37 | [Es Hora de Partir](https://open.spotify.com/track/3YldrdeuX7jqw5NUNhPvLk) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Es Hora de Partir](https://open.spotify.com/album/2zxn2fl7P3gwGFUOsPocDW) | 3:31 |

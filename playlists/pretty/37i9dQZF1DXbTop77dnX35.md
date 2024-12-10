@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,470 likes - 51 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,641 likes - 51 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 18 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 |
 | 19 | [Top Memba](https://open.spotify.com/track/0MunmHLZpiECuO6hUA4a2H) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [LEAK](https://open.spotify.com/album/1dhruIKPFKLhAhmxbtN2ed) | 2:32 |
 | 20 | [Lovin' U](https://open.spotify.com/track/1OzZAsw02pitzWNarjpubU) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Thrill Max](https://open.spotify.com/artist/4aAwLZhHII5PgS4YhjrsRv), [Uloko](https://open.spotify.com/artist/1674s2psVcNDWPwXZ9x1ZP) | [Lovin' U](https://open.spotify.com/album/6jcPTETBV7CATmqvDP7wX2) | 3:26 |
-| 21 | [Laba Laba \(feat\. Fireboy DML & DJ Latitude\)](https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2) | [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC) | [Laba Laba \(feat\. Fireboy DML & DJ Latitude\)](https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE) | 3:24 |
+| 21 | [Laba Laba \(feat\. Fireboy DML\)](https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2) | [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laba Laba \(feat\. Fireboy DML\)](https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE) | 3:24 |
 | 22 | [Riddim](https://open.spotify.com/track/1XKeyeRTrl3wnyV3o3SK8a) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/4Ni4WyZUtGybbEXzeAEmZh) | 3:15 |
 | 23 | [Wait](https://open.spotify.com/track/5ZbteiG9A7q7UoJkGzHELN) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Wait](https://open.spotify.com/album/3774MZeLWsIH70hjja8VTG) | 2:26 |
 | 24 | [Ohene](https://open.spotify.com/track/6IpiQrPyZbFL2T1IO6SLB1) | [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Ohene](https://open.spotify.com/album/2N60XjOoQFUpBFM6EuyyPB) | 2:50 |

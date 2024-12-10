@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 443880,
+  "num_followers": 443912,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAACJRZ2ts4ft7PaAAU6Ob2Kc",
+  "snapshot_id": "Z1ThgAAAAABQ8hhBkubkdGhGVe+P+NKr",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Lo Que Falta",
-        "url": "https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "El Jefe F",
-      "url": "https://open.spotify.com/track/5rsHIUAqXwAsckL3eLvC9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Lo Que Falta",
+        "url": "https://open.spotify.com/album/6FJ6RLY0ozGas2NnTu0Or0"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "El Jefe F",
+      "url": "https://open.spotify.com/track/5rsHIUAqXwAsckL3eLvC9D"
     },
     {
       "added_at": null,

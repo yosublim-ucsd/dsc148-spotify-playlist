@@ -1,13 +1,125 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23808,
+  "num_followers": 23809,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAlzp/Tbc8c9Jwux9OYdmlNbbLVRNpn",
+  "snapshot_id": "AAAl1WsTiYlJiqZ9KuuBkXrTRlNGPjEm",
   "tracks": [
+    {
+      "added_at": "2024-12-09 19:29:22",
+      "album": {
+        "name": "Tuck Your Chain",
+        "url": "https://open.spotify.com/album/6NHj6smgIl0QMuEj0ZFY09"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 127939,
+      "name": "Tuck Your Chain",
+      "url": "https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p"
+    },
+    {
+      "added_at": "2024-12-09 19:29:28",
+      "album": {
+        "name": "BBL (feat. Rob49)",
+        "url": "https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "BBL (feat. Rob49)",
+      "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
+    },
+    {
+      "added_at": "2024-12-09 19:29:49",
+      "album": {
+        "name": "Until I Fall",
+        "url": "https://open.spotify.com/album/3LbOaytRmGQvjlGq4Fyuh9"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        }
+      ],
+      "duration_ms": 133961,
+      "name": "Until I Fall",
+      "url": "https://open.spotify.com/track/0dGvfaUyCXMGJPzuzTpaO5"
+    },
+    {
+      "added_at": "2024-12-09 19:29:57",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/6TMOW6YrWrgtbTJM0jjbEU"
+      },
+      "artists": [
+        {
+          "name": "MBNel",
+          "url": "https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF"
+        }
+      ],
+      "duration_ms": 163329,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/4rFzUF1eUCOpPTvqjWRmsM"
+    },
+    {
+      "added_at": "2024-12-09 19:30:17",
+      "album": {
+        "name": "Tumbleweed",
+        "url": "https://open.spotify.com/album/49dhviXblwnf2Drbb7Kldp"
+      },
+      "artists": [
+        {
+          "name": "Sophia Scott",
+          "url": "https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp"
+        }
+      ],
+      "duration_ms": 189304,
+      "name": "Tumbleweed",
+      "url": "https://open.spotify.com/track/3cnq0cLgzivsNFovclKyE3"
+    },
+    {
+      "added_at": "2024-12-09 19:30:34",
+      "album": {
+        "name": "Stucc In The Hole",
+        "url": "https://open.spotify.com/album/4XeQjdXx5QHBQtYztSniaL"
+      },
+      "artists": [
+        {
+          "name": "Siete7x",
+          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/6sdVfSTQnHBUCzGZJc5Qnx"
+    },
     {
       "added_at": "2024-11-18 18:58:57",
       "album": {

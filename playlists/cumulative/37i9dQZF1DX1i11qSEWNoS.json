@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 121771,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 130664,
       "name": "BELOHNEN",
       "url": "https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 154174,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1"
@@ -1910,6 +1910,24 @@
       "duration_ms": 91554,
       "name": "gagagagaggagaa",
       "url": "https://open.spotify.com/track/6GjPTeiQekMfgG7nElXf1x"
+    },
+    {
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138180,
+      "name": "Gang Baby",
+      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
     },
     {
       "album": {
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 148645,
       "name": "My Heart Goes Boom",
       "url": "https://open.spotify.com/track/3358ODoeU1Ql9ntJXKzo3y"
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 139961,
       "name": "My Immortal",
       "url": "https://open.spotify.com/track/6MzlejwnoVvH0hM0YYjo7B"
@@ -4632,7 +4650,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 117525,
       "name": "Shimmy Shake (That Booty)",
       "url": "https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES"
@@ -5044,7 +5062,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "The Way I Are - Techno Remix",
       "url": "https://open.spotify.com/track/2HaHE0atvHTRKvIzrAnUCD"
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"

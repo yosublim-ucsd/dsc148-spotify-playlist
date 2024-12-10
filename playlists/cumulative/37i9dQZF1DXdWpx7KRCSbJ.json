@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 180666,
       "name": "Contatinho (feat. Luan Santana)",
       "url": "https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT"
@@ -686,6 +686,24 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Eu Mere\u00e7o Ser Feliz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0RKJklVj9ftrifuRNwVLaI"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194090,
+      "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/1lHJDa7IGCYwjf10VcmvFb"
     },
     {
       "album": {

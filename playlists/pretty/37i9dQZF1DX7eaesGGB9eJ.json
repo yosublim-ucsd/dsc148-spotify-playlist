@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 250363,
+  "num_followers": 250440,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
-      },
-      "artists": [
-        {
-          "name": "Fermin IV",
-          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "004",
-      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2NlNxImbfaxJaj8Vg3Gkt0"
+      },
+      "artists": [
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "004",
+      "url": "https://open.spotify.com/track/3WnAJRYtYY0qBX64WF98ah"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df"
       },
@@ -883,8 +883,8 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg"
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

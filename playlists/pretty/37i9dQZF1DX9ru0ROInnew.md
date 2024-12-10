@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,955 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,984 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 70 | [Swaggy](https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Swaggy](https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY) | 4:18 |
 | 71 | [ChuliGang](https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:43 |
 | 72 | [Huracheee](https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Huracheee](https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo) | 4:04 |
-| 73 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
-| 74 | [Robinson Cano](https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Robinson Cano](https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL) | 3:02 |
+| 73 | [Robinson Cano](https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Robinson Cano](https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL) | 3:02 |
+| 74 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
 | 75 | [La Calle](https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3) | [Filarmonick](https://open.spotify.com/artist/1I742yGdZ1y3EO5X6bKo0b), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [La Calle](https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ) | 4:01 |
 | 76 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
 | 77 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 |

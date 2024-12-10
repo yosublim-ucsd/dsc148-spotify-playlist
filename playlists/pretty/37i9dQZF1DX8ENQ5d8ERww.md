@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,201 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,202 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 49 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
 | 50 | [Extra](https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul), [Nativ](https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX) | [Link Up \(Remix\) / Extra](https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm) | 3:13 |
 
-Snapshot ID: `Zwf4aAAAAACM/idkwJ6R++/dKTtIa/mE`
+Snapshot ID: `Z1bebQAAAACCIwhbozaOBLoIVRahPMr8`

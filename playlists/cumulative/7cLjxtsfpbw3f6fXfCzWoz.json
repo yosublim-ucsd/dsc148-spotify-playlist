@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270429,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/2PfkfkaO9okAk0OxC4ggy5"
+    },
+    {
+      "album": {
         "name": "Waterloo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn"
       },

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP"
+    },
+    {
+      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn"
       },

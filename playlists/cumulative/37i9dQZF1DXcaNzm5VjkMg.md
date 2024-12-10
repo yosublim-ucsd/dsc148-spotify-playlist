@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-143 songs - 9 hr 42 min
+145 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1000 Tahun Lamanya](https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Pongki Barata Meets The Stars](https://open.spotify.com/album/38D2z2TJ00G6qViXbvslpy) | 3:52 | 2023-02-03 |  |
 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 | 2023-02-03 |  |
 | [17 Juni](https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK) | [Pascal Meliala](https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Cecilia Morinta](https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S) | [17 Juni](https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM) | 5:32 | 2024-09-09 |  |
-| [247](https://open.spotify.com/track/5oZXijgplVhPkNAvOq9GRS) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [247](https://open.spotify.com/album/0nBsEBAArDn91nyTtiKdRG) | 3:17 | 2024-12-03 |  |
+| [247](https://open.spotify.com/track/5oZXijgplVhPkNAvOq9GRS) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [247](https://open.spotify.com/album/0nBsEBAArDn91nyTtiKdRG) | 3:17 | 2024-12-03 | 2024-12-10 |
 | [Adu Rayu](https://open.spotify.com/track/0mOLyv1GL4sIuzVR1I92Fb) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Adu Rayu](https://open.spotify.com/album/7MQvEjN92cqRdNUCMOKCPA) | 3:27 | 2023-05-03 |  |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-04 |  |
 | [Akan Selalu](https://open.spotify.com/track/1sXiPUDUd3SmTzyRtWbwdB) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Akan Selalu](https://open.spotify.com/album/10B0kajODTZhGZ5EFWYASI) | 4:19 | 2024-12-03 |  |
@@ -136,6 +136,8 @@
 | [Seperti Kisah](https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/1uKJZkkuqBuxDx4KimobBZ) | 4:39 | 2023-02-03 |  |
 | [Soulmate](https://open.spotify.com/track/0FO12KD8xommTnYK9xqLY8) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Cerita Cinta 25 Tahun Kahitna](https://open.spotify.com/album/139rp11ERodJI2teyNKkkN) | 3:31 | 2023-08-16 | 2024-04-19 |
 | [Soulmate](https://open.spotify.com/track/2y3qRsc49ZmSatwK1SVLFi) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Soulmate/Aku, Dirimu, Dirinya](https://open.spotify.com/album/3aJZNOA9p0PWDxmtNyIqXJ) | 3:31 | 2023-02-03 |  |
+| [Suara Hati Seorang Kekasih](https://open.spotify.com/track/5X9OuU8BRgCBNJyxIIFBVG) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Suara Hati Seorang Kekasih](https://open.spotify.com/album/4XjssIpkx3c7PLt0zOh3uT) | 4:10 | 2024-12-09 |  |
+| [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 | 2024-12-09 |  |
 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 | 2023-02-03 |  |
 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 | 2023-02-03 |  |
 | [Terbawa Suasana](https://open.spotify.com/track/2MgcfN4Sp8ougHmasK8EXB) | [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Terbawa Suasana](https://open.spotify.com/album/5ZnqRmmlH1EgJY3GKIfYoL) | 4:10 | 2024-09-27 |  |

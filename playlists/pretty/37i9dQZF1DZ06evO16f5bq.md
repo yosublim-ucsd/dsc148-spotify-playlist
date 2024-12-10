@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,458 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,485 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 47 | [Ponto Final](https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [RELATOS](https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr) | 3:36 |
 | 48 | [Lá no PPG](https://open.spotify.com/track/6Oj0oJD4feRnzrAbcYqURl) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [RICKNELSO](https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR) | 2:45 |
 | 49 | [Fe Blindada](https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Gênio](https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe) | 2:58 |
-| 50 | [Nosso Momento](https://open.spotify.com/track/0JW7E8cOVpddY5pik4Wtil) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Nosso Momento](https://open.spotify.com/album/19GojuGTrUrLoQtqQitNZi) | 2:56 |
+| 50 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 
-Snapshot ID: `Z1OQAAAAAAACGJVJjWV5av4W2Puwq2Cl`
+Snapshot ID: `Z1ThgAAAAADR7AbdscgAsHCFYOci6bea`

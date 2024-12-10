@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-431 songs - 1 day 4 hr 4 min
+432 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Christmas Eve](https://open.spotify.com/track/53aC15UvgXEsdhXEpwL6rQ) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Christmas Eve](https://open.spotify.com/album/4r5X5CaEXaj7Uh0bJYoCkF) | 3:18 | 2023-12-02 | 2024-08-01 |
 | [Christmas Eve](https://open.spotify.com/track/4MNCKUrCsv7VDNabmXCAnv) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Christmas Eve](https://open.spotify.com/album/6MIp6XJV6GWHaVoJ0G1bY8) | 2:51 | 2023-12-15 |  |
 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 | 2023-11-03 | 2024-02-12 |
-| [Christmas Hallelujah](https://open.spotify.com/track/6uFEobKlJuKOMjPl4m9pWe) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Christ Is Born](https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB) | 4:21 | 2024-11-23 |  |
+| [Christmas Hallelujah](https://open.spotify.com/track/6uFEobKlJuKOMjPl4m9pWe) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Christ Is Born](https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB) | 4:21 | 2024-11-23 | 2024-12-10 |
 | [Christmas Has A Name](https://open.spotify.com/track/6k64oyozaA5uxOhptyEDoU) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/1mevxSB1P1OOeE60bMJ1F8) | 3:40 | 2021-12-11 |  |
 | [Christmas In Florida](https://open.spotify.com/track/6uWrLoPQ9S7l06AJJthPbc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Christmas In Florida](https://open.spotify.com/album/2z0Jy5xSewbiOcaxlMzDea) | 2:47 | 2021-12-24 | 2022-07-28 |
 | [Christmas in the Mountains](https://open.spotify.com/track/0wfzeSobPJiekeAWgBQhE9) | [The Primitive Quartet](https://open.spotify.com/artist/3iqTj2ISCCfGIAN2ZyggJO) | [Through the Years, Christmas](https://open.spotify.com/album/5drZy0K2aXgwzbZOvoE4ut) | 1:58 | 2021-12-24 | 2022-07-29 |
@@ -209,6 +209,7 @@
 | [Jesus, Joy Of The Highest Heaven \(A Children's Carol\)](https://open.spotify.com/track/4sJgZRCrlM54j4d0TOOGv6) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Joy: An Irish Christmas](https://open.spotify.com/album/58HAyMpuZMRA1FpmEG1VSO) | 3:27 | 2021-12-24 | 2024-08-01 |
 | [Joy \(To the World\)](https://open.spotify.com/track/6u5QM6f2evRbxBIzqaPe96) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Joy \(To the World\)](https://open.spotify.com/album/4AXXuocsg8dSPVkQWVAmSd) | 3:00 | 2021-12-11 | 2023-02-19 |
 | [Joy \(To the World\) \(feat\. Ryan Ellis\) \- \[Live\]](https://open.spotify.com/track/2WpDKLKJspo20BrMvtNFH7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Gloria \(Live\)](https://open.spotify.com/album/2O4vpLos89lpgFphW2ibFd) | 3:21 | 2021-12-24 | 2024-11-18 |
+| [Joy Down Deep](https://open.spotify.com/track/7qgwTetzQEUkehguE3VYGD) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [Joy Down Deep](https://open.spotify.com/album/2CcgIKNjy0wvCQWIqRdowB) | 3:08 | 2024-12-08 |  |
 | [Joy To Our World](https://open.spotify.com/track/5exp2kacCNgcNnPtbjwY1B) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 3:55 | 2021-12-24 | 2024-04-19 |
 | [Joy To Our World](https://open.spotify.com/track/7lkjISjsGaFWaNtYRfyySU) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/5EG8nCVC46N0fWdeYhevC1) | 3:55 | 2021-12-11 | 2022-10-22 |
 | [Joy to the World](https://open.spotify.com/track/4Fdo10txPItPWmFwFaVpgq) | [Caleb Collins](https://open.spotify.com/artist/7yJDmdXvSih9XGh8alDSfB) | [Christmas](https://open.spotify.com/album/18vGLMKM03hxzNRxvkuMMY) | 3:04 | 2021-12-11 | 2022-07-28 |

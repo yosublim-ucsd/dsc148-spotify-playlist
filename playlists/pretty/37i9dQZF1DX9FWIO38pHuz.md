@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 ### [Nu\-Funk Presents Best Funk of 2024](https://open.spotify.com/playlist/37i9dQZF1DX9FWIO38pHuz)
 
-> Our editors' top picks for the best Blues songs of the year\. Cover: PJ Morton
+> Our editors' top picks for the best Funk songs of the year\. Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,282 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,293 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 49 | [Watch Me Get It Like](https://open.spotify.com/track/0OxC4TyAkd9MjXAQrx9Qdf) | [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [Watch Me Get It Like](https://open.spotify.com/album/1mnWypqJawxa2BelNLfAik) | 2:15 |
 | 50 | [TIANA](https://open.spotify.com/track/3clenG2tAtYdINNWyR4VA8) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [TIANA](https://open.spotify.com/album/3TjWPkQLxE4m5Ok2RvAQEa) | 2:56 |
 
-Snapshot ID: `Z1BIAAAAAACOV0aQkj6JodJRBZ3wMfvT`
+Snapshot ID: `Z1c4vwAAAACzPOKrW/VHV/TfuBgFdFRG`

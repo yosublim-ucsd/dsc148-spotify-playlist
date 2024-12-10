@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,312 likes - 41 songs - 2 hr 48 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,329 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,16 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Ire Feelings](https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Rupie Edwards Presents Success Archives \- From Kingston Jamaica to London UK](https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI) | 3:48 |
 | 38 | [It's Only Obvious](https://open.spotify.com/track/20KuHxOYcv1OtrjjUAidEX) | [The Orchids](https://open.spotify.com/artist/6W8VbSclDd31QHMBwoC84H) | [Who Needs Tomorrow](https://open.spotify.com/album/690g8u725awKpCdZNX7iYG) | 2:29 |
 | 39 | [Alonzo](https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [This Time](https://open.spotify.com/album/4UsDilRDkv7adgos4EJlF6) | 5:26 |
-| 40 | [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 |
-| 41 | [One Of Our Girls Has Gone Missing](https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 4:41 |
+| 40 | [Hope](https://open.spotify.com/track/1roduXdAiUduitAeMDKx7D) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [EXHALO](https://open.spotify.com/album/62BuJJXQKkvbPi1gnpOQI5) | 3:49 |
+| 41 | [Eurostar](https://open.spotify.com/track/0WoZF12IBXLSQDzbQm7Jeb) | [Soundpool](https://open.spotify.com/artist/2vkjEcWfKySAsYcwpRRGn4) | [On High](https://open.spotify.com/album/157hEnA1WdlHwTinWyJlms) | 3:19 |
+| 42 | [One Of Our Girls Has Gone Missing](https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 4:41 |
+| 43 | [Glued to You](https://open.spotify.com/track/7eHZ4xbuOX3FllHC93XpWj) | [Tomorrows Tulips](https://open.spotify.com/artist/4mCKYeRm9x5hj3iPX6Sths) | [When](https://open.spotify.com/album/45CSyFoUwd8LRhN2IWWBoW) | 3:02 |
+| 44 | [Let Me Speak](https://open.spotify.com/track/2r1yGtdhw3O9GmgD1ygTCe) | [Gemma Cullingford](https://open.spotify.com/artist/6WR6hPeb9Qq39fAm88GtcL) | [Let Me Speak](https://open.spotify.com/album/6VE153qE47R8O4ac49XxrM) | 3:37 |
+| 45 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 |
+| 46 | [Hidden Glow](https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv) | [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Daniel Dor](https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ) | [The Garden Suite](https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH) | 2:14 |
+| 47 | [I Wanna Be On Your Mind](https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Scheduled Explosions](https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf) | 2:28 |
+| 48 | [Just Like You](https://open.spotify.com/track/6NBgSY8GgkBSVufy6uPPim) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [Morning Light](https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk) | 4:26 |
+| 49 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 |
+| 50 | [Our Dust](https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 3:29 |
 
-Snapshot ID: `AAALg6Fvi1aB/gpZqIv2CriybYhwTf52`
+Snapshot ID: `AAALjjhCliv4q9aeus1iDC/D8IYSmOrc`

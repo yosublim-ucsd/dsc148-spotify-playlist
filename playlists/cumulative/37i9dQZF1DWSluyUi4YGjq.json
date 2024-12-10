@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO"
+      },
+      "artists": [
+        {
+          "name": "Computer Kill",
+          "url": "https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX"
+    },
+    {
+      "album": {
         "name": "Always Then",
         "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
       },
@@ -6821,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Head Void Tapes",
+        "url": "https://open.spotify.com/album/3KcMlTDkjP3f6FG8gcUIhZ"
+      },
+      "artists": [
+        {
+          "name": "From Indian Lakes",
+          "url": "https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Keep Me (Tapes)",
+      "url": "https://open.spotify.com/track/1SHMUJhKJMD73cmeoag14D"
+    },
+    {
+      "album": {
         "name": "Delaware",
         "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
       },
@@ -8286,7 +8322,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 179562,
       "name": "my little tony",
       "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
@@ -11470,7 +11506,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 204000,
       "name": "Tell Me About It",
       "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"

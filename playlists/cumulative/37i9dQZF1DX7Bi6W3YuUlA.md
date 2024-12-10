@@ -2,7 +2,7 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover:  <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Rod Wave</a>
+> Inspirational hip hop\. Cover:  Rod Wave
 
 469 songs - 23 hr 17 min
 

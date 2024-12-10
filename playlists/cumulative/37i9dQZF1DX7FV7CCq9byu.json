@@ -3747,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "I\u2019ll Write Your Name Across The Sky",
+        "url": "https://open.spotify.com/album/4URHoIUAHWBmCjn8FVzdg4"
+      },
+      "artists": [
+        {
+          "name": "Margaux Flavet",
+          "url": "https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "I\u2019ll Write Your Name Across The Sky",
+      "url": "https://open.spotify.com/track/6jJMo0fOpzmwO7ZRyNWlr1"
+    },
+    {
+      "album": {
         "name": "Jag borde g\u00e5",
         "url": "https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw"
       },

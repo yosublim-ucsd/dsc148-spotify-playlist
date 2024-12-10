@@ -2,7 +2,7 @@
 
 ### [Christian Alt](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
-> Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
+> Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: bodie
 
 236 songs - 14 hr 27 min
 

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Canciones Mamalonas 4",
+        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Chingo De Parientes",
+      "url": "https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf"
+    },
+    {
+      "album": {
         "name": "Con Todo Menos Con Miedo",
         "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 272483,
       "name": "Mi coraz\u00f3n (feat. Mc Davo)",
       "url": "https://open.spotify.com/track/1t9cFXkrMn9ZMKhQO7AWpq"

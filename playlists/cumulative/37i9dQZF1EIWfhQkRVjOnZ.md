@@ -2,9 +2,9 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIW4dh1ZqUeCg>Still Remains</a>
 
-170 songs - 10 hr 25 min
+171 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Meddler](https://open.spotify.com/track/6VuetoBvBkaY8axO16mjCT) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:53 | 2024-07-30 | 2024-10-31 |
 | [Meridian](https://open.spotify.com/track/1P9NqGWdvlx6unZAOwpy3t) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 5:59 | 2024-08-02 | 2024-10-31 |
 | [Monuments](https://open.spotify.com/track/3Hn8ytC1YNKeeIBvYeolvE) | [Corpus Christi](https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR) | [A Feast For Crows](https://open.spotify.com/album/6Tmkg923Sagp74VbheU7Lf) | 3:55 | 2024-07-12 | 2024-07-13 |
-| [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 | 2024-05-18 | 2024-12-09 |
+| [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 | 2024-05-18 |  |
 | [Moving For The Sake Of Motion](https://open.spotify.com/track/0qxAdhIIf3S6Nwq88qp8i0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:15 | 2024-08-07 | 2024-10-13 |
 | [Mr\. And Mrs\. Cuckoldom](https://open.spotify.com/track/7D8tKBeAkBqkFRV27VJpzH) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:52 | 2024-04-23 |  |
 | [My Darkness](https://open.spotify.com/track/3MaVgBLILrrrPHz7MlH9wL) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 4:03 | 2024-04-23 |  |
@@ -118,11 +118,11 @@
 | [Promised Ones](https://open.spotify.com/track/51vQi5byOvH51Kn3hjSJef) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Awakening](https://open.spotify.com/album/7rhHXLzstx2ruhPMCpnD9d) | 3:36 | 2024-07-15 | 2024-11-12 |
 | [Purified](https://open.spotify.com/track/5FbKzmAJhu85W9btvVlCl0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood](https://open.spotify.com/album/7bCll1Hp8b2AyctqT3JY2C) | 3:35 | 2024-05-05 | 2024-05-06 |
 | [Redemption](https://open.spotify.com/track/3G5RbTb3FxQDMP6wxb4zgS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 3:40 | 2024-05-16 |  |
-| [Reflection](https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:11 | 2024-04-23 |  |
+| [Reflection](https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:11 | 2024-04-23 | 2024-12-10 |
 | [Resolution](https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 1:25 | 2024-04-23 |  |
 | [Resolve](https://open.spotify.com/track/7eWjmhuoYWW823zIt6alAu) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [Dreamer](https://open.spotify.com/album/3JYCUUvclCyXZiQC1NPh9L) | 2:54 | 2024-04-23 | 2024-05-16 |
 | [Returning Empty Handed](https://open.spotify.com/track/4rDwTksjXHBngObS3cXAX0) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 4:27 | 2024-05-05 | 2024-05-06 |
-| [Rose Among The Ashes](https://open.spotify.com/track/4jZNdbXOohNNPMRbaybFQS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 2:20 | 2024-05-16 |  |
+| [Rose Among The Ashes](https://open.spotify.com/track/4jZNdbXOohNNPMRbaybFQS) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 2:20 | 2024-05-16 | 2024-12-10 |
 | [Sailor's Prayer](https://open.spotify.com/track/5VA764n0ot5CmvaUHdJrJK) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [8:18](https://open.spotify.com/album/4LCYe1Ummf9H2qRRcsH9qj) | 3:52 | 2024-11-14 | 2024-12-03 |
 | [Saints](https://open.spotify.com/track/1YtHb3yDgwwZDMczpYr20n) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:59 | 2024-04-23 |  |
 | [Sassafras](https://open.spotify.com/track/09CyJ5SqgQhgBazUBktPrF) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [With Roots Above And Branches Below \(Standard Edition\)](https://open.spotify.com/album/3fF0DMCLemCIxQ09OpSq2Y) | 3:15 | 2024-09-13 | 2024-12-03 |
@@ -148,6 +148,7 @@
 | [The Mixture](https://open.spotify.com/track/6Bq9z97LDFXTopPwFvTtJH) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [No Sleep](https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP) | 3:35 | 2024-05-09 | 2024-11-12 |
 | [The New Breed](https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh) | [Oh, Sleeper](https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7) | [Son Of The Morning](https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ) | 3:48 | 2024-05-16 |  |
 | [The Radiance](https://open.spotify.com/track/1Zm7oQOJS1LOLiQeydRQHD) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [The Caitiff Choir](https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb) | 3:15 | 2024-06-11 | 2024-06-20 |
+| [The Worst Is yet to Come](https://open.spotify.com/track/3T8WTbGrVFWI2eWrDqylTI) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [Of Love And Lunacy](https://open.spotify.com/album/6QiKYJ1Fa3n5wE8viOyRea) | 3:50 | 2024-12-10 |  |
 | [There Can Be No Hesitation](https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [Saints](https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj) | 3:35 | 2024-04-23 |  |
 | [Thin Black Lines](https://open.spotify.com/track/5BkhnNgh3uyVrHrDw023Xp) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [Bury Me Alive](https://open.spotify.com/album/1Qsbs4c7I7UC2MjWgKVOWy) | 2:03 | 2024-05-24 | 2024-06-04 |
 | [Thirty and Seven](https://open.spotify.com/track/1EoFJOAMAhkitbduAGRYaj) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:18 | 2024-07-30 | 2024-10-31 |

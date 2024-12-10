@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: V, Park Hyo Shin\(V, 박효신\)\)
 
-214 songs - 12 hr 31 min
+215 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [It's Christmas time](https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p) | 3:50 | 2021-12-21 | 2024-04-04 |
 | [It's Christmas time](https://open.spotify.com/track/4Rsr5I1LQaBWk4tvjkVGcr) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [It's Christmas time](https://open.spotify.com/album/62wnKeijuMQ5rVbHzWsaEx) | 3:50 | 2021-12-21 | 2022-07-29 |
 | [It's Okay, You Can Cry \(Santa Claus is Coming to Town\)](https://open.spotify.com/track/25pl2jxhN9gbkE5y7dXomp) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Seasons](https://open.spotify.com/album/5Dpd69pvi5PJfn5RXVcgpn) | 3:02 | 2021-12-21 | 2022-07-28 |
+| [It’s Beginning To Look A Lot Like Christmas \- 2024 Remaster Version](https://open.spotify.com/track/27HgKA1CTopHjzLThnWl6S) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [J RABBIT CHRISTMAS ALBUM](https://open.spotify.com/album/5aPmwzMnG6IlVRaJfd0DF5) | 3:05 | 2024-12-06 |  |
 | [I’ve Been Naughty, Mr\. Claus](https://open.spotify.com/track/7qYUVzCY85b8UM2GaTXhkN) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 2:20 | 2023-11-15 | 2024-11-11 |
 | [Jingle All Night](https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Jingle All Night](https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi) | 3:17 | 2021-12-21 | 2024-12-04 |
 | [Jingle Bell Love](https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Jingle Bell Love](https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H) | 2:34 | 2024-12-03 |  |
@@ -207,7 +208,7 @@
 | [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 | 2022-08-25 |
 | [Winter Wonderland](https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol: Hun Hun Christmas](https://open.spotify.com/album/3rNQronWYbq9ccgplh8akp) | 4:36 | 2021-12-21 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol : Hun Hun Christmas](https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB) | 4:37 | 2021-12-21 | 2022-11-27 |
-| [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 | 2024-01-08 |  |
+| [Winter's Glow](https://open.spotify.com/track/6ZQ18l5lfQxCPXr5aLwW1h) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Winter's Glow](https://open.spotify.com/album/3XujYn9KX1atnDjVatumH4) | 3:05 | 2024-01-08 | 2024-12-10 |
 | [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 | 2021-12-21 | 2023-01-28 |
 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 | 2021-12-21 |  |
 | [You Are My Christmas](https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [You Are My Christmas](https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM) | 3:50 | 2021-12-21 | 2022-12-08 |

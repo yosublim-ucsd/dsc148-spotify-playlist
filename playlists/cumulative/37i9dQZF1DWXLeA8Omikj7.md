@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,011 songs - 3 day 0 hr 51 min
+1,012 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Lake Okeechobee](https://open.spotify.com/track/1KIX0mqi0DNaBzbxcz8eud) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Lake Okeechobee](https://open.spotify.com/album/1idFCsZkFsAbPr2ebKPlZr) | 3:01 | 2019-06-19\* | 2020-10-21 |
 | [Land, Sea and Sky](https://open.spotify.com/track/0lKz06k1SJmOXwxL2HhV2N) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:28 | 2019-05-26\* | 2020-10-22 |
 | [Landside](https://open.spotify.com/track/0MYcDq74yEMem9mW3m2ELY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Contrast](https://open.spotify.com/album/6DF4x3OXTnKLtmdhH3gxHg) | 6:06 | 2019-06-19\* | 2022-04-20 |
+| [Lapis Manalis](https://open.spotify.com/track/6gW441yrmO9J6wELZmcFZr) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Strange Meridians](https://open.spotify.com/album/5BOeEGhCqLKyX5CE3wwS1F) | 3:55 | 2024-12-04 |  |
 | [Lapland](https://open.spotify.com/track/5wxqdrmFRKdSxisvmgWg17) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Lapland](https://open.spotify.com/album/2Bv9UL2MiDFhRufaLyhFyx) | 4:08 | 2019-06-19\* | 2020-10-22 |
 | [Last \- Moonbase Remix](https://open.spotify.com/track/5XGzBprbMpVbA9eXOTMKvm) | [Polographia](https://open.spotify.com/artist/41Vldqj1RWBrQurBwof2QT), [Moonbase](https://open.spotify.com/artist/0DlvlPWYR10nLdwQgQn9cp) | [Natural Remixes EP](https://open.spotify.com/album/1xaeCWAtH0h5aLWTme3sEf) | 3:24 | 2019-05-26\* | 2020-08-26 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2019-05-26\* |  |
@@ -869,7 +870,7 @@
 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 | 2021-08-27 | 2023-05-06 |
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
 | [The Fall](https://open.spotify.com/track/0DSWzEDLX2QjkBIUzFuQAX) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM) | [The Fall](https://open.spotify.com/album/18Jz4mjnghTjTztG4LQNGJ) | 4:58 | 2024-09-14 | 2024-10-08 |
-| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 |  |
+| [the family we find](https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [the family we find](https://open.spotify.com/album/67zHY0h8gHftAP9SruFsEK) | 4:57 | 2024-06-14 | 2024-12-10 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2023-12-16 |
 | [The Frequency of the Universe](https://open.spotify.com/track/5KfM7YEZPwfW7ooacdlJmm) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/7eNWltkpqeyaNNnbQkbOWt) | 3:45 | 2024-02-02 | 2024-04-19 |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |

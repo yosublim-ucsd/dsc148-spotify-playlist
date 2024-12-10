@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAumKf1nfjo947v0zo86RmST6x4b5d",
+  "snapshot_id": "AAAAxjNo8nRvTFZVmZ/pXA1X4oGVqdEo",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -2229,22 +2229,6 @@
       "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
     },
     {
-      "added_at": "2024-10-27 14:46:40",
-      "album": {
-        "name": "AniCast",
-        "url": "https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I"
-      },
-      "artists": [
-        {
-          "name": "AniCast",
-          "url": "https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I"
-        }
-      ],
-      "duration_ms": 150762,
-      "name": "Giorno's Theme (Jay D Remix by JoRoYT)",
-      "url": "https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo"
-    },
-    {
       "added_at": "2024-10-28 02:30:54",
       "album": {
         "name": "Giorno's Theme",
@@ -2355,6 +2339,86 @@
       "duration_ms": 231481,
       "name": "Prisencolinensinainciusol",
       "url": "https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr"
+    },
+    {
+      "added_at": "2024-12-09 07:37:36",
+      "album": {
+        "name": "Mii Music but It Makes You Uncomfortable",
+        "url": "https://open.spotify.com/album/2kz4djL6zENyQFuTzJ0I1e"
+      },
+      "artists": [
+        {
+          "name": "lukeitslukas",
+          "url": "https://open.spotify.com/artist/6Ep0tsBeSVJhGGMry4bYG3"
+        }
+      ],
+      "duration_ms": 61503,
+      "name": "Mii Music but It Makes You Uncomfortable",
+      "url": "https://open.spotify.com/track/3yJrTG4tycsQ2Uu8KPOFcd"
+    },
+    {
+      "added_at": "2024-12-09 07:42:46",
+      "album": {
+        "name": "Cosmicandy",
+        "url": "https://open.spotify.com/album/68OF44SIppyRCY9NTWrsK2"
+      },
+      "artists": [
+        {
+          "name": "The Orion Experience",
+          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "The Cult of Dionysus",
+      "url": "https://open.spotify.com/track/4zg2zMNSI0W8ipGA32kKp5"
+    },
+    {
+      "added_at": "2024-12-09 09:36:55",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Oj0XnWrDEl3KrwZuMQqVj"
+    },
+    {
+      "added_at": "2024-12-09 11:45:39",
+      "album": {
+        "name": "Blood Capsules / Dub Capsules",
+        "url": "https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 205402,
+      "name": "Blood Capsules",
+      "url": "https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm"
+    },
+    {
+      "added_at": "2024-12-09 11:53:06",
+      "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP"
     }
   ],
   "unique_name": "Questionable Bops",

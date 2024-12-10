@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Jaber
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Fehér Krisztián
 
 83 songs - 4 hr 5 min
 

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Brazilian Caf\u00e9",
+        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Acenda o farol",
+      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
+    },
+    {
+      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb"
       },
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 247146,
       "name": "Planos do C\u00e9u",
       "url": "https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT"

@@ -619,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Nota de Pasion",
+        "url": "https://open.spotify.com/album/1OmgUO1NEPBKKKMCXmI71d"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Nota de Pasion",
+      "url": "https://open.spotify.com/track/6PvMAswOFbnZwWD6UYJV4f"
+    },
+    {
+      "album": {
         "name": "Nota de Pasion (feat. Arcangel)",
         "url": "https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e"
       },

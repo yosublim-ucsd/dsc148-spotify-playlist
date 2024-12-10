@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 ### [Christian Alt](https://open.spotify.com/playlist/37i9dQZF1DX3XfcfEnrDRE)
 
-> Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: <a href="spotify:artist:692n9oP6XtKux7LbSOnkSC">bodie</a>
+> Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,141 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,139 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 84 | [You Are My Sweater](https://open.spotify.com/track/75fkHyheSV8EvhTF1dfT0q) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Pixelated Haze](https://open.spotify.com/album/2SNbcpxpnvfbg7KuxsrB9w) | 2:42 |
 | 85 | [Where Do You Go?](https://open.spotify.com/track/0KyzsOtAo72sPQOwhOXcPY) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb) | [Where Do You Go?](https://open.spotify.com/album/1DiFqTrsEtPJWbUHGUtvHL) | 2:47 |
 
-Snapshot ID: `ZvaY+gAAAADSX7O8ghDQCE36Vjj7Ag64`
+Snapshot ID: `Z1eqZwAAAADrdjf8sdU1716N+x0XaoqA`

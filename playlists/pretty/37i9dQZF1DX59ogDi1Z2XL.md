@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Sean Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,889 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,898 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 73 | [Who Knew?](https://open.spotify.com/track/7r6LLwDFdBDlwLSUnSMSA7) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [perutheproducer](https://open.spotify.com/artist/7HZgGgNEM5zlE19qV12YWK) | [Who Knew?](https://open.spotify.com/album/4999mw3BdQg5hjYBAMn22v) | 1:54 |
 | 74 | [Capital Gains](https://open.spotify.com/track/2URNopbH21ugLNbyt0iX8V) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb), [Pro Dillinger](https://open.spotify.com/artist/7iTgKob0QAhPFudE0itzrY) | [Hare Brained Schemes](https://open.spotify.com/album/19Luu1HN36BKgtr7XxX5Xx) | 3:15 |
 
-Snapshot ID: `Z1KE0AAAAABU173Fn/zerHrYfmgHxKus`
+Snapshot ID: `Z1dCrwAAAADcxSZYDnsRFwq+PrT8zsLm`

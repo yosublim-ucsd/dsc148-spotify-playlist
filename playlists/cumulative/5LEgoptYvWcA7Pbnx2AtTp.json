@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Blood Capsules / Dub Capsules",
+        "url": "https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205402,
+      "name": "Blood Capsules",
+      "url": "https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm"
+    },
+    {
+      "album": {
         "name": "The Paris Swing Box",
         "url": "https://open.spotify.com/album/2djW68ErXMloNYhZaqDZdx"
       },
@@ -406,6 +424,24 @@
       "duration_ms": 262675,
       "name": "Cabinet Man",
       "url": "https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Child's Play",
+      "url": "https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP"
     },
     {
       "album": {
@@ -846,7 +882,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 150762,
       "name": "Giorno's Theme (Jay D Remix by JoRoYT)",
       "url": "https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo"
@@ -1285,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Oj0XnWrDEl3KrwZuMQqVj"
+    },
+    {
+      "album": {
         "name": "What's Your Favorite Scary Movie?",
         "url": "https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U"
       },
@@ -1502,6 +1556,24 @@
       "duration_ms": 221480,
       "name": "Mercy Down",
       "url": "https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5"
+    },
+    {
+      "album": {
+        "name": "Mii Music but It Makes You Uncomfortable",
+        "url": "https://open.spotify.com/album/2kz4djL6zENyQFuTzJ0I1e"
+      },
+      "artists": [
+        {
+          "name": "lukeitslukas",
+          "url": "https://open.spotify.com/artist/6Ep0tsBeSVJhGGMry4bYG3"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61503,
+      "name": "Mii Music but It Makes You Uncomfortable",
+      "url": "https://open.spotify.com/track/3yJrTG4tycsQ2Uu8KPOFcd"
     },
     {
       "album": {
@@ -2220,6 +2292,24 @@
       "duration_ms": 155145,
       "name": "The Cringe (feat. Patton Oswalt)",
       "url": "https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX"
+    },
+    {
+      "album": {
+        "name": "Cosmicandy",
+        "url": "https://open.spotify.com/album/68OF44SIppyRCY9NTWrsK2"
+      },
+      "artists": [
+        {
+          "name": "The Orion Experience",
+          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "The Cult of Dionysus",
+      "url": "https://open.spotify.com/track/4zg2zMNSI0W8ipGA32kKp5"
     },
     {
       "album": {

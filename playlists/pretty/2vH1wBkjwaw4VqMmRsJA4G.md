@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 | 10 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 |
 | 11 | [Girl in My TV](https://open.spotify.com/track/4BL4uNsG60iPTxTl80pe5f) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 3:04 |
 
-Snapshot ID: `AAAAEM4Lt45Rz4TJnjBv+7qdmyt/YPf/`
+Snapshot ID: `AAAAER571ARKwroQhPjg/U+vAt8ZTbSw`

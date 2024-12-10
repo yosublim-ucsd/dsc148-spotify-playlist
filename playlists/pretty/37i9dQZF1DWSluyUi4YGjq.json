@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. cover: Trauma Ray",
-  "num_followers": 186888,
+  "num_followers": 186997,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AV1AAAAAA6YlluvKxOmfnMKpYS8gKY",
+  "snapshot_id": "Z1dfCAAAAAAcAh0ejRPLXDAa5oKNHnC9",
   "tracks": [
     {
       "added_at": "2024-11-01 14:11:12",
@@ -27,18 +27,34 @@
     {
       "added_at": "2024-11-22 05:25:40",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ"
+        "name": "Bullet Train",
+        "url": "https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV"
       },
       "artists": [
         {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
+          "name": "Dream, Ivory",
+          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
         }
       ],
-      "duration_ms": 178240,
-      "name": "4 Shadow",
-      "url": "https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh"
+      "duration_ms": 165000,
+      "name": "Bullet Train",
+      "url": "https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp"
+    },
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "Songs Of A Lost World",
+        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 321101,
+      "name": "All I Ever Am",
+      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "added_at": "2024-11-22 05:25:40",
@@ -57,36 +73,20 @@
       "url": "https://open.spotify.com/track/1X8E5Ad67vg9bNVRAuNHtX"
     },
     {
-      "added_at": "2024-10-25 17:08:37",
+      "added_at": "2024-12-09 21:20:08",
       "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO"
       },
       "artists": [
         {
-          "name": "trauma ray",
-          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+          "name": "Computer Kill",
+          "url": "https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof"
         }
       ],
-      "duration_ms": 192696,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx"
-    },
-    {
-      "added_at": "2024-11-22 05:25:40",
-      "album": {
-        "name": "Bullet Train",
-        "url": "https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV"
-      },
-      "artists": [
-        {
-          "name": "Dream, Ivory",
-          "url": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bullet Train",
-      "url": "https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp"
+      "duration_ms": 208875,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX"
     },
     {
       "added_at": "2024-10-25 17:08:37",
@@ -119,22 +119,6 @@
       "duration_ms": 232968,
       "name": "\u5016\u5b58\u8005",
       "url": "https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT"
-    },
-    {
-      "added_at": "2024-11-01 14:11:12",
-      "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 321101,
-      "name": "All I Ever Am",
-      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
     },
     {
       "added_at": "2024-10-25 17:08:37",
@@ -171,6 +155,22 @@
     {
       "added_at": "2024-10-25 17:08:37",
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "duration_ms": 192696,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
         "name": "Son of the Rambling Dawn",
         "url": "https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW"
       },
@@ -183,6 +183,22 @@
       "duration_ms": 218186,
       "name": "Son of the Rambling Dawn",
       "url": "https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo"
+    },
+    {
+      "added_at": "2024-11-01 14:11:12",
+      "album": {
+        "name": "Angel In The Sand",
+        "url": "https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC"
+      },
+      "artists": [
+        {
+          "name": "Leaving Time",
+          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+        }
+      ],
+      "duration_ms": 148810,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3"
     },
     {
       "added_at": "2024-11-01 14:11:12",
@@ -217,20 +233,36 @@
       "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
     },
     {
-      "added_at": "2024-11-01 14:11:12",
+      "added_at": "2024-11-22 05:25:40",
       "album": {
-        "name": "Angel In The Sand",
-        "url": "https://open.spotify.com/album/6W5o0RyfAcFruntLVD3KVC"
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ"
       },
       "artists": [
         {
-          "name": "Leaving Time",
-          "url": "https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y"
+          "name": "Hotline TNT",
+          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
         }
       ],
-      "duration_ms": 148810,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/1h0YsYLA7gMlfnR51VDYg3"
+      "duration_ms": 178240,
+      "name": "4 Shadow",
+      "url": "https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh"
+    },
+    {
+      "added_at": "2024-12-09 21:20:08",
+      "album": {
+        "name": "Head Void Tapes",
+        "url": "https://open.spotify.com/album/3KcMlTDkjP3f6FG8gcUIhZ"
+      },
+      "artists": [
+        {
+          "name": "From Indian Lakes",
+          "url": "https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Keep Me (Tapes)",
+      "url": "https://open.spotify.com/track/1SHMUJhKJMD73cmeoag14D"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2601,22 +2633,6 @@
       "url": "https://open.spotify.com/track/0MiX0kgljysWBvfwOlGGWN"
     },
     {
-      "added_at": "2023-12-11 17:12:40",
-      "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73"
-    },
-    {
       "added_at": "2024-02-09 00:10:45",
       "album": {
         "name": "Guilt",
@@ -2711,26 +2727,6 @@
       "duration_ms": 224975,
       "name": "Waltz",
       "url": "https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "Tell Me About It",
-        "url": "https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8"
-      },
-      "artists": [
-        {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
-        },
-        {
-          "name": "deary",
-          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Tell Me About It",
-      "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
     },
     {
       "added_at": "2024-01-12 17:24:07",

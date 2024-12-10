@@ -1,13 +1,121 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 19:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANsolbUz8CedyfaMLRrUSR42kemxdd",
+  "snapshot_id": "AAANuJE0OMosvEWTMPg66PqkJaAdPbLP",
   "tracks": [
+    {
+      "added_at": "2024-12-09 09:03:16",
+      "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "When You Say My Name",
+      "url": "https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8"
+    },
+    {
+      "added_at": "2024-12-09 09:03:16",
+      "album": {
+        "name": "Moving Point P",
+        "url": "https://open.spotify.com/album/56nATcQmrGNh9l1czPcTOz"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 196993,
+      "name": "Moving Point P",
+      "url": "https://open.spotify.com/track/27LNM0PKOv9SDZee7mmoDz"
+    },
+    {
+      "added_at": "2024-12-09 19:03:41",
+      "album": {
+        "name": "F*Me",
+        "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 188348,
+      "name": "F*Me",
+      "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
+    },
+    {
+      "added_at": "2024-12-09 09:03:16",
+      "album": {
+        "name": "Like a Friend",
+        "url": "https://open.spotify.com/album/4rKQwAxZj5Ae0jCv08Ggo0"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "duration_ms": 172786,
+      "name": "Like a Friend",
+      "url": "https://open.spotify.com/track/1CM2r7Tu9lD4avsuzC52yL"
+    },
+    {
+      "added_at": "2024-12-09 09:03:16",
+      "album": {
+        "name": "Chopstick",
+        "url": "https://open.spotify.com/album/2fKIl2b2zUW17YU7WjBCEi"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Chopstick",
+      "url": "https://open.spotify.com/track/2MDqwQHCP4wELHzWn9DntV"
+    },
+    {
+      "added_at": "2024-12-09 09:03:16",
+      "album": {
+        "name": "Fragile Eyes",
+        "url": "https://open.spotify.com/album/6ctmeqpjwk8ErkpDXDy4m1"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "Fragile Eyes",
+      "url": "https://open.spotify.com/track/1YbA9Ntw8aeKhum1gIveGJ"
+    },
     {
       "added_at": "2024-12-08 23:03:27",
       "album": {
@@ -65,6 +173,22 @@
       "url": "https://open.spotify.com/track/5l9LLkT21xeETTUPaIZaNH"
     },
     {
+      "added_at": "2024-12-09 04:03:22",
+      "album": {
+        "name": "Training",
+        "url": "https://open.spotify.com/album/4PRjCYbLtujxRE7gWahyWJ"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 100583,
+      "name": "Training",
+      "url": "https://open.spotify.com/track/1SmNP9faKugQu5fMWb8NJW"
+    },
+    {
       "added_at": "2024-12-07 09:02:51",
       "album": {
         "name": "Espresso Macchiato",
@@ -119,6 +243,26 @@
       "duration_ms": 300000,
       "name": "Linger in the Rain",
       "url": "https://open.spotify.com/track/2ZdLhmKydlxXLXL1Hlo4Ex"
+    },
+    {
+      "added_at": "2024-12-09 19:03:41",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5jn0CNAHMNyckhpzdtEGcI"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "Chira",
+          "url": "https://open.spotify.com/artist/2HbrIDW2gU01tG36r2NkDn"
+        }
+      ],
+      "duration_ms": 258545,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/79BZyaVzWdtZfa65A7uMm1"
     },
     {
       "added_at": "2024-12-06 14:04:28",
@@ -763,150 +907,6 @@
       "duration_ms": 265570,
       "name": "White Bikes",
       "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/34mCDqEj5VxCnT6xOzaEQL"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 148489,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/0sCyjvAt304uHjpZ68Tm2U"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "Pure Smile Snake Venom (KFR Remix)",
-        "url": "https://open.spotify.com/album/7ET2kuAugNEuGgIXLdyrbW"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "KFR",
-          "url": "https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK"
-        }
-      ],
-      "duration_ms": 257540,
-      "name": "Pure Smile Snake Venom - KFR Remix",
-      "url": "https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4"
-    },
-    {
-      "added_at": "2024-12-07 04:03:41",
-      "album": {
-        "name": "Risk, Risk, Risk! (Galen Tipton Remix)",
-        "url": "https://open.spotify.com/album/69lE91s8ejJKXZVr5ZItZs"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        },
-        {
-          "name": "galen tipton",
-          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Risk, Risk, Risk! (Galen Tipton Remix)",
-      "url": "https://open.spotify.com/track/02TJLuiBfK5fTBDThkvoBn"
-    },
-    {
-      "added_at": "2024-12-06 19:04:32",
-      "album": {
-        "name": "Table For Glasses",
-        "url": "https://open.spotify.com/album/6sGXAQpMGVTq7fjsoiOAdC"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Table For Glasses",
-      "url": "https://open.spotify.com/track/0TujGu0mONlC3o4P5cvHsY"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "Child Medallion",
-        "url": "https://open.spotify.com/album/3vqzga4ofWukw8yuvd8dOj"
-      },
-      "artists": [
-        {
-          "name": "Pathetic",
-          "url": "https://open.spotify.com/artist/1wUtnIM66rOLpg70aCDY7f"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Child Medallion",
-      "url": "https://open.spotify.com/track/1IHmbysEesVYvZvGZQ296y"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "TESLA WHIP",
-        "url": "https://open.spotify.com/album/0Jq0WzFs1gSXLXdy8Z8nG4"
-      },
-      "artists": [
-        {
-          "name": "Justin Stone",
-          "url": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
-        },
-        {
-          "name": "Beatspeare",
-          "url": "https://open.spotify.com/artist/6mXhpGv8fvFj5OUXtAhqGA"
-        },
-        {
-          "name": "The Noise Unheard",
-          "url": "https://open.spotify.com/artist/6O65oHP5LxTi8581IgxaJ5"
-        }
-      ],
-      "duration_ms": 201095,
-      "name": "TESLA WHIP",
-      "url": "https://open.spotify.com/track/1dXGQNvlXSbFf6PvaDBDU0"
-    },
-    {
-      "added_at": "2024-12-06 19:04:32",
-      "album": {
-        "name": "Can't Hold Me Down",
-        "url": "https://open.spotify.com/album/7ioK2ZwDQF6pvH3E7VpSJn"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 225256,
-      "name": "Can't Hold Me Down",
-      "url": "https://open.spotify.com/track/1sGKLpzG59d2aoXT8V2CDw"
-    },
-    {
-      "added_at": "2024-12-06 09:03:46",
-      "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     }
   ],
   "unique_name": "New Singles Now",

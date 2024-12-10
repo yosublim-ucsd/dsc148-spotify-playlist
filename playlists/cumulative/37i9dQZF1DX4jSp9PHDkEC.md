@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-591 songs - 1 day 15 hr 57 min
+592 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2023-01-17 | 2024-05-02 |
 | [Into the Night](https://open.spotify.com/track/5qkuspnJTd5R5k1pyGBFGd) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:15 | 2023-01-17 | 2024-04-19 |
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 | 2024-08-19 |
+| [It Hurts](https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [It Hurts](https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH) | 3:23 | 2023-01-17 |  |
 | [It Hurts](https://open.spotify.com/track/4vMCeNc8dsCJN4ITQK2NoQ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 3:23 | 2023-01-17 | 2024-04-19 |
 | [It's All About You](https://open.spotify.com/track/4RfIfFS2D4E9tVjuHFlAJF) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/38mNfogFOWzoGS4h8S4OfZ) | 3:20 | 2023-01-17 | 2024-04-19 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [It's Not Just Me, It's Everybody](https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR) | 6:16 | 2023-01-17 | 2024-11-26 |
@@ -474,7 +475,7 @@
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-17 |  |
 | [Start Again](https://open.spotify.com/track/304O5kU729YYScICtyO6q5) | [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Debris](https://open.spotify.com/album/3MS4BBoQZEHOHpuXVw1yiv) | 3:26 | 2023-01-17 | 2024-04-19 |
 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 | 2023-01-17 | 2024-04-19 |
-| [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2023-01-17 |  |
+| [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2023-01-17 | 2024-12-10 |
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2023-01-17 | 2024-04-15 |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2023-01-17 | 2024-04-19 |
 | [Stay](https://open.spotify.com/track/7n5z8f4HkOqo8OioYBsYEA) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Stay](https://open.spotify.com/album/3yeNHm7OxzDXZldWFcd9ka) | 3:58 | 2023-01-17 | 2024-11-08 |

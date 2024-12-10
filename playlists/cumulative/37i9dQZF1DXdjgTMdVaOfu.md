@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdjgTMdVaOfu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdjgTMdVaOfu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdjgTMdVaOfu)
 
-### [The Apothecary Diaries 薬屋のひとりごと](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu)
+### [The Apothecary Diaries](https://open.spotify.com/playlist/37i9dQZF1DXdjgTMdVaOfu)
 
-> Music from "The Apothecary Diaries" /「薬屋のひとりごと」の楽曲を1つのプレイリストで。©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
+> Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-97 songs - 4 hr 16 min
+98 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [いつでも帰っておいで](https://open.spotify.com/track/3YZ9JzzThDjJkaQoBWJjUv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:51 | 2024-03-24 |  |
 | [やり手婆](https://open.spotify.com/track/1CVcvXiWw1hpwfMVgwSpQu) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:33 | 2024-03-24 |  |
 | [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2024-03-24 |  |
+| [アニメ『薬屋のひとりごと』猫猫からのスペシャルメッセージ](https://open.spotify.com/track/3lK8E489nFS4RXiNOVZy0m) | [アニメ『薬屋のひとりごと』](https://open.spotify.com/artist/7xLir1K2HcRK1VuNRa2B8k) | [アニメ『薬屋のひとりごと』猫猫からのスペシャルメッセージ](https://open.spotify.com/album/6eOv7Uylkaazu0WU4UsNgB) | 1:04 | 2024-12-09 |  |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-03-24 |  |
 | [シャコバサボテン](https://open.spotify.com/track/3boXsKsMJ6T2iREprCmHzf) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 2:01 | 2024-03-24 |  |
 | [ホトトギス](https://open.spotify.com/track/63ppnnxSbSz7Uhg0JuZRLA) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TV アニメ『薬屋のひとりごと』オリジナル・サウンドトラック](https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ) | 1:20 | 2024-03-24 |  |

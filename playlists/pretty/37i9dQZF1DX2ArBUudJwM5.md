@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Valeria Lynch en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,539 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,542 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
 | 41 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 |
 | 42 | [Alfonsina y el Mar](https://open.spotify.com/track/6leMNz3SPymTNACEFogR6x) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP), [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx), [Dulce Pontes](https://open.spotify.com/artist/3d5RmASP3q3rt8izEWDt8w) | [Mercedes Florecida](https://open.spotify.com/album/6TNLGCfPxkO3FEoZsoO2sm) | 5:54 |
-| 43 | [Sol y Tierra](https://open.spotify.com/track/5PDckWEqyCxC1E0Wl5Lmc6) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Sue](https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT) | 3:53 |
-| 44 | [Se Dice de Mi](https://open.spotify.com/track/4XYqgPfv3169DGLnkM9aKH) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 2:27 |
+| 43 | [Se Dice de Mi](https://open.spotify.com/track/4XYqgPfv3169DGLnkM9aKH) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 2:27 |
+| 44 | [Sol y Tierra](https://open.spotify.com/track/5PDckWEqyCxC1E0Wl5Lmc6) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY) | [Sue](https://open.spotify.com/album/4bDC7q9gIVO0iodIjnThkT) | 3:53 |
 | 45 | [Malevaje](https://open.spotify.com/track/5l2kLuKmYcR07ySRxBXfqy) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [Susana Rinaldi, “La tana” with everything.](https://open.spotify.com/album/6BRRyUD0AH93k6xJQ1hScb) | 3:57 |
 | 46 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 |
 | 47 | [Quizás, quizás, quizás](https://open.spotify.com/track/2p7jqaFyVsPL4s21bBkQYx) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt), [Daniel Godfrid](https://open.spotify.com/artist/0ebpoasQkwFcOgpFYDHfbY), [Sebastián Espósito](https://open.spotify.com/artist/12VuQ1e4S8kvpOjjwYL8gA), [Paula Pomeraniec](https://open.spotify.com/artist/6d4xFw6B3fc0B7WOC4i6EP), [Facundo Guevara](https://open.spotify.com/artist/6964LUCtdUXz5FyLEeTgK4), [Guillermo Delgado](https://open.spotify.com/artist/4QRweQpTQcbLkCDhtSMU2o), [Manuel Quiroga](https://open.spotify.com/artist/6eVBtKWpUnsTcaWrEW4J5K) | [Quizás, quizás, quizás](https://open.spotify.com/album/0RAW4T23uIpHR3pIEkFcj0) | 2:53 |
 | 48 | [Vive](https://open.spotify.com/track/4y60x6kWOPR9r1bgo6uF4I) | [Ivonne Guzmán](https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY), [Angie Foster](https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf) | [Vive](https://open.spotify.com/album/2fY2vrxTzdrI06Nrd2F5HY) | 3:25 |
-| 49 | [Biromes y Servilletas](https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canción de Viaje](https://open.spotify.com/album/2bUjicqP2vIndWDMpOknCs) | 3:59 |
-| 50 | [Blackbird](https://open.spotify.com/track/2stTWH3mtaztKo60siA11Y) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q), [Ricardo Lew](https://open.spotify.com/artist/32DXCPnu4gvhRa86TviIkH) | [Volumen 2](https://open.spotify.com/album/2taoH1rKlNauSuPAVxhcoO) | 2:33 |
+| 49 | [Blackbird](https://open.spotify.com/track/2stTWH3mtaztKo60siA11Y) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q), [Ricardo Lew](https://open.spotify.com/artist/32DXCPnu4gvhRa86TviIkH) | [Volumen 2](https://open.spotify.com/album/2taoH1rKlNauSuPAVxhcoO) | 2:33 |
+| 50 | [Biromes y Servilletas](https://open.spotify.com/track/3BZwpSz5UixY7NhvLkwNte) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canción de Viaje](https://open.spotify.com/album/2bUjicqP2vIndWDMpOknCs) | 3:59 |
 
 Snapshot ID: `Z1BnCgAAAAAWpcWT3fkxLxyz3XKGHdJ1`

@@ -2,7 +2,7 @@
 
 ### [Nu\-Funk Presents Best Funk of 2024](https://open.spotify.com/playlist/37i9dQZF1DX9FWIO38pHuz)
 
-> Our editors' top picks for the best Blues songs of the year\. Cover: PJ Morton
+> Our editors' top picks for the best Funk songs of the year\. Cover: PJ Morton
 
 189 songs - 11 hr 28 min
 

@@ -4801,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "It Hurts",
+        "url": "https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH"
+      },
+      "artists": [
+        {
+          "name": "Mamalarky",
+          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203013,
+      "name": "It Hurts",
+      "url": "https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA"
+    },
+    {
+      "album": {
         "name": "Pocket Fantasy",
         "url": "https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1"
       },
@@ -8604,7 +8622,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k"

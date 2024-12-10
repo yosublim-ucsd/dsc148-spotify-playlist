@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. <br/><br/>Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,853 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,855 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 81 | [FUN!](https://open.spotify.com/track/4KERVWEQpKPZu4HRGwc7pu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [FUN!](https://open.spotify.com/album/0AjkJWk9zCZW6RnPvBzXUM) | 3:25 |
 | 82 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
 | 83 | [One Way or the Other](https://open.spotify.com/track/6bX80hmB6BJQgHGeCn41OU) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [In Breech](https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC) | 3:57 |
-| 84 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 84 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 85 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 |
 | 86 | [No Long Talk](https://open.spotify.com/track/3Q6FkKIJgwwldSIccSe1PW) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [No Long Talk](https://open.spotify.com/album/7clyjZt9cPvc9J8660jw5Q) | 3:22 |
 | 87 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |

@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Shipwreck",
+        "url": "https://open.spotify.com/album/7oeYBOWTUIRAe6uzbloZFg"
+      },
+      "artists": [
+        {
+          "name": "Shayfer James",
+          "url": "https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Welcome Back, Misery",
+      "url": "https://open.spotify.com/track/7oER11s45z5je7hHu7HZC7"
+    },
+    {
+      "album": {
         "name": "Welcome to the Neighborhood!",
         "url": "https://open.spotify.com/album/45otVgvLxy1cQ9UAWWHDJV"
       },

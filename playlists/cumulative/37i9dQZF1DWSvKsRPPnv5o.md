@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-1,048 songs - 2 day 0 hr 52 min
+1,049 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [Too Many Goats \(feat\. Rick Ross, Nas & Kevin Cossom\)](https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [GOTTI](https://open.spotify.com/album/37y72XuNwuPyzfB9kk2uIc) | 4:15 | 2021-12-03 | 2022-03-18 |
 | [Tootsies](https://open.spotify.com/track/0OQPugEZknTG0zpU92AsOr) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 2:40 | 2022-07-01 | 2022-10-01 |
 | [Top](https://open.spotify.com/track/3qINPOfejlN331MAmdz0XK) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:36 | 2023-08-25 | 2024-06-15 |
+| [TOPLESS](https://open.spotify.com/track/4nMXpLZYke89xP4MV9ClGB) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [DEADSTOCK: ALT ENDING](https://open.spotify.com/album/0VoMhVda2RvI7rwOAPzyv3) | 3:00 | 2024-12-09 |  |
 | [Touchdown \(feat\. Mozzy\)](https://open.spotify.com/track/5IOgrMmzZqAVeKYG1vwm8M) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Joe Peshi](https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [One Three Pack](https://open.spotify.com/album/7pLelaEykl3gGLprwkRkMm) | 3:33 | 2023-05-19 | 2023-05-27 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2023-02-11 |
 | [Toxic Love](https://open.spotify.com/track/0OMF9iLsSu8i2NOhPyOO1W) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Toxic Love](https://open.spotify.com/album/07SVtJh7EtSPqOcYEyYXRn) | 2:03 | 2024-11-22 |  |

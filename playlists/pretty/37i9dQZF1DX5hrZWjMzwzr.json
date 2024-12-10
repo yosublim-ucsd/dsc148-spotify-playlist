@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10082,
+  "num_followers": 10078,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -859,30 +859,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Kr\u00f3l jest nagi",
-        "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
-      },
-      "artists": [
-        {
-          "name": "ReTo",
-          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
-        },
-        {
-          "name": "S\u0142o\u0144",
-          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Kr\u00f3l jest nagi",
-      "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Czarny \u015al\u0105sk",
         "url": "https://open.spotify.com/album/5v2v9p4n6Z1MuGS11wTwfy"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 278636,
       "name": "Czarny \u015al\u0105sk",
       "url": "https://open.spotify.com/track/0YYvmuW2qBIetZ907QPw35"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Kr\u00f3l jest nagi",
+        "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "S\u0142o\u0144",
+          "url": "https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Kr\u00f3l jest nagi",
+      "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
     },
     {
       "added_at": "2024-02-27 08:21:33",

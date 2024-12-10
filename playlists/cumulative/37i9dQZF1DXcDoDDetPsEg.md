@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Skepta
 
-1,379 songs - 2 day 21 hr 54 min
+1,380 songs - 2 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-20 | 2023-08-04 |
 | [pay ur bills](https://open.spotify.com/track/1G3onwb5hFsUifaJQIXb8e) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [pay ur bills](https://open.spotify.com/album/4IvIJ10ma2QkfCpqxNPrXp) | 2:02 | 2023-06-16 | 2023-07-21 |
 | [Payday](https://open.spotify.com/track/3RHnCZgss404tVTvMjdRFs) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Payday](https://open.spotify.com/album/4PoPf1Zg8X4qvH9v9FYWn6) | 3:11 | 2023-03-10 | 2023-04-21 |
+| [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 | 2024-12-09 |  |
 | [Pengtreesha](https://open.spotify.com/track/4WNecVSCkM3VRSc0WhOKjz) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Plug Talk 2](https://open.spotify.com/album/3ebdyJ7OYt9AJ9cGLmF7YV) | 3:01 | 2023-10-19 | 2023-11-18 |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-06 | 2023-03-09 |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-07 | 2023-06-30 |
@@ -1261,7 +1262,7 @@
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-01-13 |
 | [TWIN FLAME](https://open.spotify.com/track/1ypCPdkZ5Woxk1llRwKkXg) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [GOD SAVE THE STREETS](https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM) | 2:56 | 2023-04-21 | 2023-06-30 |
 | [Twin Sisters \(feat\. Skrapz\) \- Edit](https://open.spotify.com/track/1DZjlDnEKkKRIYEIFXQ5EN) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Twin Sisters \(feat\. Skrapz\) \[Edit\]](https://open.spotify.com/album/0lT9O0O6cx7ftjEn3dPNY1) | 3:50 | 2023-12-27 | 2024-01-20 |
-| [Twinning](https://open.spotify.com/track/3IOg57HRjdlwbU3vMhSMKw) | [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Twinning](https://open.spotify.com/album/02mEDPxsLtrCgiFKgUxoyP) | 2:52 | 2024-10-03 |  |
+| [Twinning](https://open.spotify.com/track/3IOg57HRjdlwbU3vMhSMKw) | [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Twinning](https://open.spotify.com/album/02mEDPxsLtrCgiFKgUxoyP) | 2:52 | 2024-10-03 | 2024-12-10 |
 | [Typa Way](https://open.spotify.com/track/277OKlE8bKSaWghuEBz7U7) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc) | [Typa Way](https://open.spotify.com/album/1v8obs02a28Pv1b6Mbjnir) | 3:50 | 2022-03-11 | 2022-05-06 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-22 | 2024-06-08 |
 | [U Get Me?](https://open.spotify.com/track/5FB5FaA0gWIYpJPv3yb8DX) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 2:45 | 2023-05-26 | 2023-06-30 |

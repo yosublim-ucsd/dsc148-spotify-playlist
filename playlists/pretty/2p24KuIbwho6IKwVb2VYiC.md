@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Becky Hill &amp; MK
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,883 likes - 147 songs - 7 hr 43 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,888 likes - 147 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

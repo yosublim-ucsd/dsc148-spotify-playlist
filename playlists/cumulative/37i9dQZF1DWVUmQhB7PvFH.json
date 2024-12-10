@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: S.H.E",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u5f35\u68df\u6a11 (Nicholas Teo)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 281320,
       "name": "\u4e00\u500b\u4eba",
       "url": "https://open.spotify.com/track/4T4Ew1GBmGGRsg3J7JIKyJ"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "\u4e00\u5343\u5e74\u4ee5\u5f8c",
       "url": "https://open.spotify.com/track/7ronMHt2hVGfpag6m27wd9"
@@ -460,6 +460,24 @@
       "duration_ms": 281413,
       "name": "\u4e0d\u5f97\u4e0d\u611b",
       "url": "https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u7b8f",
+        "url": "https://open.spotify.com/album/1gvxloQbIj5EiHJTTDVxk2"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "\u4e0d\u662f\u771f\u7684\u611b\u6211",
+      "url": "https://open.spotify.com/track/7wz6mHHnJXPVpC64CXwlMh"
     },
     {
       "album": {
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 265266,
       "name": "\u591a\u611b\u6211\u4e00\u5929",
       "url": "https://open.spotify.com/track/6m8XaBMtUedRBrZgPW1hMn"
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 246000,
       "name": "\u5982\u679c\u80fd\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/79Ww71HmbwvaHJulGXHdTQ"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 277733,
       "name": "\u5c0d\u7684\u4eba",
       "url": "https://open.spotify.com/track/0tsEr5a7QUap42Rm55Nief"
@@ -1792,6 +1810,24 @@
       "duration_ms": 293933,
       "name": "\u611b*\u8f49\u89d2",
       "url": "https://open.spotify.com/track/1TFGynJGpBUBJBoH4AO26g"
+    },
+    {
+      "album": {
+        "name": "\u7d05\u8272\u5411\u65e5\u8475",
+        "url": "https://open.spotify.com/album/5AxN5TmnZg7OqallJp7Yk5"
+      },
+      "artists": [
+        {
+          "name": "\u7f85\u7f8e\u73b2",
+          "url": "https://open.spotify.com/artist/5B1AaSUIE8FWo6ERw95rLP"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "\u611b\u4e00\u76f4\u9583\u4eae",
+      "url": "https://open.spotify.com/track/0PpjWheZ4Dsb3j8OYuXXnM"
     },
     {
       "album": {
@@ -2512,7 +2548,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 245440,
       "name": "\u67d0\u5e74\u67d0\u6708\u67d0\u4e00\u5929",
       "url": "https://open.spotify.com/track/3nxCXEhBhtEcEQEWKyHehc"
@@ -3093,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "\u4e3b\u6253",
+        "url": "https://open.spotify.com/album/5BZgSf216w35ZC1UKjPevB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Teo",
+          "url": "https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "\u75db\u5f7b\u5fc3\u6249",
+      "url": "https://open.spotify.com/track/1VMG7u0zVW0uSRM9NvdNGt"
+    },
+    {
+      "album": {
         "name": "\u75f4\u5fc3\u7d55\u5c0d",
         "url": "https://open.spotify.com/album/4QujlUn9OTLG4qFxMja90M"
       },
@@ -3342,7 +3396,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 261237,
       "name": "\u7f8e\u9e97\u7684\u8aa4\u6703",
       "url": "https://open.spotify.com/track/6d9O3cEk5YBOoNJhG3Johv"
@@ -3670,7 +3724,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 294026,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
@@ -3706,7 +3760,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 264160,
       "name": "\u9019\u9ebc\u9577\u4e00\u6bb5",
       "url": "https://open.spotify.com/track/2uCeyz6Qon3QuXVmmp44Tf"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 ### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
-> Beyond genre, beyond language, beyond borders\. Cover: Chezile.
+> Beyond genre, beyond language, beyond borders\. Cover: Nafeesisboujee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,033 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,063 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 100 | [Eclipse Total](https://open.spotify.com/track/49FVGx6qN3fNZKWTLCK0Am) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Eclipse Total](https://open.spotify.com/album/6FJCF1I34d1bhWOI06UtHe) | 2:56 |
 | 101 | [Take Your Time](https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z) | [Daveny](https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [Sol](https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T) | 4:12 |
 
-Snapshot ID: `Z1IwcAAAAAAaJvOCYc+PCzr1A2RQ91Ew`
+Snapshot ID: `Z1anDwAAAACKqSFTnOZD8qxa+B/UT4in`

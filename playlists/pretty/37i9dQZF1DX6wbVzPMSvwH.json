@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 252009,
+  "num_followers": 252016,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z06jUAAAAACyu048ql51JnvcYmcPN/d8",
+  "snapshot_id": "Z1arUQAAAABfmoUQvGxXXc48UY7mXIfK",
   "tracks": [
     {
       "added_at": "2024-10-24 12:42:17",
@@ -39,6 +39,30 @@
       "duration_ms": 242090,
       "name": "Kupu - Kupu",
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
+      "added_at": "2024-12-09 08:33:21",
+      "album": {
+        "name": "Rima Raga",
+        "url": "https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR"
+      },
+      "artists": [
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        },
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Rima Raga",
+      "url": "https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl"
     },
     {
       "added_at": "2024-11-13 03:29:43",
@@ -195,6 +219,22 @@
       "duration_ms": 236149,
       "name": "Djakarta",
       "url": "https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ"
+    },
+    {
+      "added_at": "2024-12-09 08:33:21",
+      "album": {
+        "name": "KECANDUAN",
+        "url": "https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI"
+      },
+      "artists": [
+        {
+          "name": "SAMSONS",
+          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "KECANDUAN",
+      "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
     },
     {
       "added_at": "2024-10-24 12:42:17",

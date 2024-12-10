@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 884280,
+  "num_followers": 884395,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAAAyfj2y2OZOslWPl0ySwQ6w",
+  "snapshot_id": "Z1ThgAAAAAD6BLYphGfpWdHvD9bTf+qC",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: My Prerogative",
-        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory (Deluxe)",
         "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 214080,
       "name": "Slumber Party",
       "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: My Prerogative",
+        "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 141853,
-      "name": "Coupure \u00c9lectrique",
-      "url": "https://open.spotify.com/track/31gKPszUkidbiMtgnGzcsi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219226,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4PoTu14Wi2o9l0Rb09gBCa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 141853,
+      "name": "Coupure \u00c9lectrique",
+      "url": "https://open.spotify.com/track/31gKPszUkidbiMtgnGzcsi"
     }
   ],
   "unique_name": "This Is Britney Spears",

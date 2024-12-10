@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-135 songs - 6 hr 8 min
+136 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Ice Dance](https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 1:44 | 2022-11-05 |  |
 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 1:50 | 2021-12-03 |  |
 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2022-12-08 |  |
+| [It Feels Like Christmas](https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY) | [Ghost of Christmas Present](https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:42 | 2024-12-09 |  |
 | [It's All About Heart](https://open.spotify.com/track/21AStETk1yF31eVA7QR8Fz) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw), [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Fozzie](https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw), [Pepe](https://open.spotify.com/artist/79LIIdGsfWO6Ckiuejy2Ba), [Rizzo](https://open.spotify.com/artist/1vROEVubfEqo8fgOqQ9Pn6) | [A Muppets Christmas: Letters to Santa](https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci) | 1:43 | 2021-12-03 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1WQg9VQ8Ytar8RKhdWZvx8) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:44 | 2021-12-03 |  |
 | [It's The Most Wonderful Time of the Year](https://open.spotify.com/track/3ttzw5DKv0aETbCw6mh12C) | [Cinderella](https://open.spotify.com/artist/2Nd5zTQzOxz2UA4HDHc8Yi) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:52 | 2021-12-03 |  |

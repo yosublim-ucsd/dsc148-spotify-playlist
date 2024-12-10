@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music.
 
-394 songs - 1 day 9 hr 15 min
+395 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,8 +62,9 @@
 | [Beacon of Light](https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2) | [Jack Burton](https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ) | [Lake Monger](https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ) | 5:12 | 2023-11-14 | 2023-12-02 |
 | [Beasts](https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Birds & Beasts](https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p) | 10:02 | 2024-06-28 | 2024-09-07 |
 | [Beethoven 250](https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [@0 EP2](https://open.spotify.com/album/7JhFp9EZEw22dpg3P93HiO) | 4:11 | 2021-12-26 | 2023-08-12 |
-| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 |  |
+| [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 | 2022-03-25 | 2024-12-10 |
 | [Belt & Carpet](https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 3:58 | 2023-04-14 |  |
+| [Bio Sewer](https://open.spotify.com/track/3inPfJLR4LowaHdYNK8z1j) | [James Ferraro](https://open.spotify.com/artist/2gjrgz4DNYGrvQOpqLr2nv) | [Troll](https://open.spotify.com/album/4Qbxrp2hxHtJMcg0tznazB) | 4:00 | 2024-09-06 |  |
 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 | 2022-03-04 |  |
 | [Blessed Are The Lovers](https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Lovotic](https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0) | 5:47 | 2022-04-01 |  |
 | [Bluet](https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Bluet](https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP) | 4:51 | 2022-11-11 | 2024-06-20 |

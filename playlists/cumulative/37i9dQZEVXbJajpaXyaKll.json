@@ -2361,6 +2361,28 @@
     },
     {
       "album": {
+        "name": "Boppa Private (Afro House)",
+        "url": "https://open.spotify.com/album/2ZjuRgeUFdna2eL50Jh4H5"
+      },
+      "artists": [
+        {
+          "name": "Dj Jose Gonzalez",
+          "url": "https://open.spotify.com/artist/6YT2cextE84WCA3Hwlc5Eg"
+        },
+        {
+          "name": "Dj Roderick",
+          "url": "https://open.spotify.com/artist/0xt5YPdGAXuZpcvJpuhDC0"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199148,
+      "name": "Boppa Private - Afro House",
+      "url": "https://open.spotify.com/track/6hXu7AenlRd9HZa3OLlV2k"
+    },
+    {
+      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
@@ -8756,7 +8778,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 159146,
       "name": "KD",
       "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
@@ -14754,7 +14776,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"

@@ -2,7 +2,7 @@
 
 ### [Everyday Inspiration](https://open.spotify.com/playlist/37i9dQZF1DXbQ1kpdsa9FU)
 
-> Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: <a href="spotify:artist:4sdhhi6q1Ez9l5PagQsykC">Katy Nichole</a>
+> Everyday\. Every time\.  These are the songs you can count on\. Always\. Cover: Katy Nichole
 
 244 songs - 18 hr 12 min
 

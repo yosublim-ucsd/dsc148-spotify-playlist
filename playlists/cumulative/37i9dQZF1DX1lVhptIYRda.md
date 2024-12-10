@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Dasha
+> Join us in fighting childhood cancer at MusicGives.org\. Cover: Dasha
 
 837 songs - 1 day 21 hr 14 min
 

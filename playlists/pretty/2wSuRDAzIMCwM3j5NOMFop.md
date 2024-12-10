@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 47 songs - 2 hr 26 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 45 | [Some Other Way](https://open.spotify.com/track/1nBBKbMeKLqIcRtYLs8wfW) | [The Extra Lens](https://open.spotify.com/artist/64WVMQetBLvmJi3OVxjt2G) | [Undercard](https://open.spotify.com/album/1WOhneh974qQNY6TGpWN7C) | 2:42 |
 | 46 | [Golden Boy](https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 3:16 |
 | 47 | [Fault Lines](https://open.spotify.com/track/6VitaWNd0Wmtq0PUDrZT1Z) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:38 |
+| 48 | [Welcome Back, Misery](https://open.spotify.com/track/7oER11s45z5je7hHu7HZC7) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Shipwreck](https://open.spotify.com/album/7oeYBOWTUIRAe6uzbloZFg) | 1:38 |
 
-Snapshot ID: `AAAANZxggzx49Hd9D4lrXQSEBEvCNYIr`
+Snapshot ID: `AAAANoAOMxFSa7K0eA20iyHAX8XwKrBe`

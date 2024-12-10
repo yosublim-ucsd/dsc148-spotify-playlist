@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2024](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Updated weekly \| Hardstyle \| Cover: Unsenses
+> Updated weekly \| Hardstyle \| Cover: Radical Redemption, Dimitri K & Nolz
 
 1,243 songs - 2 day 18 hr 26 min
 

@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-722 songs - 1 day 22 hr 41 min
+724 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 | 2021-10-19 | 2023-01-14 |
 | [Alps](https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl) | 5:30 | 2023-06-30 | 2024-01-25 |
 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 | 2023-02-09 | 2023-08-12 |
+| [Always](https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [Always](https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO) | 3:28 | 2024-12-09 |  |
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2021-10-19 | 2023-06-08 |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-27 | 2023-04-01 |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-02-27 | 2023-09-30 |
@@ -380,6 +381,7 @@
 | [Keen on Boys](https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/6dEAN2qal4UKGokw5fdzgV) | 4:53 | 2021-10-19 | 2023-06-08 |
 | [Keen on Boys](https://open.spotify.com/track/1SbeUtO3YCeSGccurWHHBP) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/4qkV5iPkYOzXBveXuFIRQC) | 4:53 | 2021-10-19 | 2022-10-07 |
 | [Keen on Boys](https://open.spotify.com/track/3wZL6ZuuEqz3uJTcblXdLJ) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Lesser Matters](https://open.spotify.com/album/2X1mLosmBKkM765LiX53W7) | 4:53 | 2021-10-19 | 2022-07-29 |
+| [Keep Me \(Tapes\)](https://open.spotify.com/track/1SHMUJhKJMD73cmeoag14D) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Head Void Tapes](https://open.spotify.com/album/3KcMlTDkjP3f6FG8gcUIhZ) | 4:40 | 2024-12-09 |  |
 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 | 2024-02-23 | 2024-08-21 |
 | [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 | 2024-08-20 |  |
 | [Kiss a Girl in Black](https://open.spotify.com/track/5xVUIGxqDzq3Ba4ujCXvXF) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Speeding Away to Someday](https://open.spotify.com/album/6Djpcc40gGpSswN0sRFVNT) | 5:30 | 2024-02-23 | 2024-10-26 |
@@ -459,7 +461,7 @@
 | [Mumble](https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 2:34 | 2021-10-19 | 2022-12-01 |
 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 | 2021-10-19 | 2023-01-14 |
 | [Museum Mind](https://open.spotify.com/track/3hzYIVwWtTmdoR7vFkgXet) | [LOCKSTEP](https://open.spotify.com/artist/1hMq6DAPEJ4MRPzjZ1HsZv) | [Lockstep 1](https://open.spotify.com/album/719CnMMKAVezCKibjiYen4) | 5:25 | 2024-04-05 |  |
-| [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 | 2023-12-11 |  |
+| [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 | 2023-12-11 | 2024-12-10 |
 | [my only fantasy](https://open.spotify.com/track/2OumTMESFfTTtZmESGHFYf) | [.com](https://open.spotify.com/artist/0KMlyqeocN19K1DTl4TpzQ), [Flowerbabe](https://open.spotify.com/artist/09XnRUMmZEc56NuCF343gn) | [my only fantasy](https://open.spotify.com/album/7sVSFEVIU0BlHuYYQX0Exd) | 3:45 | 2023-06-01 | 2023-11-28 |
 | [Mystkluv](https://open.spotify.com/track/7vmjWL7aaCqjT9uJUjafRV) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Mystkluv](https://open.spotify.com/album/497cpaV4Na8AoiPSedOINu) | 2:08 | 2023-02-17 | 2023-08-05 |
 | [Need](https://open.spotify.com/track/1HieMmUMpxrIXtsBBp9zXw) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Need](https://open.spotify.com/album/4vxYphLBQWti1UFMc2ECki) | 2:55 | 2023-11-10 | 2024-02-24 |
@@ -633,7 +635,7 @@
 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 | 2023-03-24 | 2023-05-26 |
 | [Tea Garden](https://open.spotify.com/track/2KYQPlfhrmmrW6RKzkGgbi) | [Sparkler](https://open.spotify.com/artist/5z02NYGqi7UljYwTcRK66K) | [Big Sonic Chill](https://open.spotify.com/album/4AHs5grKVa8hEZ5QC2acDd) | 4:27 | 2023-03-13 | 2023-10-21 |
 | [Tears](https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Pearlty](https://open.spotify.com/album/0UYM7HfTpbX0uG9sDVdeS3) | 4:02 | 2023-02-09 | 2023-07-01 |
-| [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 | 2024-01-12 |  |
+| [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 | 2024-01-12 | 2024-12-10 |
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-30 | 2024-02-24 |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 | 2023-06-17 |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 | 2023-06-08 |

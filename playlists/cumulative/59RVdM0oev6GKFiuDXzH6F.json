@@ -17951,6 +17951,24 @@
     },
     {
       "album": {
+        "name": "We Got The Bass",
+        "url": "https://open.spotify.com/album/6NbiC4cOm7ebiw6mRSjPAO"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "We Got The Bass",
+      "url": "https://open.spotify.com/track/7ABEZFYxZV6JuhVUXzReGJ"
+    },
+    {
+      "album": {
         "name": "We House U",
         "url": "https://open.spotify.com/album/1XU0Z54SlEYhHtRv4lLacl"
       },

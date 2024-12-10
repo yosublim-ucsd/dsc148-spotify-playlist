@@ -1,25 +1,28 @@
 [pretty](/playlists/pretty/0ynuHdDZGi3xe4AXKCbZgJ.md) - cumulative - [plain](/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ynuHdDZGi3xe4AXKCbZgJ)
 
-### [Runaway](https://open.spotify.com/playlist/0ynuHdDZGi3xe4AXKCbZgJ)
+### [Some parents deserve to be shot](https://open.spotify.com/playlist/0ynuHdDZGi3xe4AXKCbZgJ)
 
-> Fugitive flavored trauma
+> Previously known as Runaway
 
-16 songs - 57 min 25 sec
+19 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Bad Child](https://open.spotify.com/track/1qCmZnC1FUpNgOydIzqIPC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Bad Child/Can't Be Happy All The Time](https://open.spotify.com/album/6Z7DGRyzIlsq7kXNXQF3Yd) | 3:41 | 2023-11-20 |  |
 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 | 2023-11-22 |  |
 | [Cao Dai Blowout](https://open.spotify.com/track/0EQ7zZroo7GOnHyMYafHFi) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:08 | 2024-11-10 |  |
+| [Dance Music](https://open.spotify.com/track/4mn30l2lxnohEGT3goNzUR) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 1:57 | 2024-12-09 |  |
 | [Ground Level](https://open.spotify.com/track/4OYbXIPquvyX3GIgdMzY3S) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 2:22 | 2023-10-30 |  |
 | [Hast Thou Considered the Tetrapod](https://open.spotify.com/track/5Kv0LeQ30umm7qvjNAoLck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:22 | 2024-09-15 |  |
 | [I Know You've Come To Take My Toys Away](https://open.spotify.com/track/3rxEmM5drvb2v6SWGN5eTr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 2:10 | 2024-11-14 |  |
 | [Mama](https://open.spotify.com/track/0Zh3tKIphLOvQux4dA6PFZ) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:39 | 2024-10-31 |  |
 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 | 2024-09-16 |  |
-| [Only One Way](https://open.spotify.com/track/21SpIt80LxhJDMclDkmvu5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:01 | 2023-10-30 |  |
+| [Only One Way](https://open.spotify.com/track/21SpIt80LxhJDMclDkmvu5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:01 | 2023-10-30 | 2024-12-10 |
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2023-11-20 |  |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2024-04-08 |  |
 | [Runaway](https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi](https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz) | 3:50 | 2023-11-20 |  |
+| [School](https://open.spotify.com/track/6fnachl7fIn5dqIjakfJ57) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Crime Of The Century \(Remastered\)](https://open.spotify.com/album/2wrHaulTgqqkVKx0k7Kq4r) | 5:35 | 2024-12-09 |  |
+| [The Calling](https://open.spotify.com/track/1vwEgKpkdY63nX0jrrYj9X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:01 | 2024-12-09 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-11-23 |  |
 | [There Is a Light That Never Goes Out \- 2017 Master](https://open.spotify.com/track/3mkS1alZdcdBQuIMad8aee) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead \(Deluxe Edition\)](https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj) | 4:02 | 2024-10-14 |  |
 | [Wasteland](https://open.spotify.com/track/24Qd5OZoCPLkGUrsLcJ3CW) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 3:12 | 2024-10-03 |  |

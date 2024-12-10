@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Negro Impacto",
-  "num_followers": 178378,
+  "num_followers": 178372,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Higher Life",
+        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 198032,
+      "name": "Higher Life",
+      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 180014,
       "name": "U GOTTA (feat. Pharrell)",
       "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Higher Life",
-        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 198032,
-      "name": "Higher Life",
-      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Bando Kid",
+        "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 197455,
+      "name": "Bando Kid",
+      "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Spirit Box",
         "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Bando Kid",
-        "url": "https://open.spotify.com/album/3MJXXZKLhyhbnvNSYy44Xw"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 197455,
-      "name": "Bando Kid",
-      "url": "https://open.spotify.com/track/6YgDbK0EEsKKi0uXWjLaAl"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Miss Independent",
-        "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 126956,
-      "name": "Miss Independent",
-      "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Miss Independent",
+        "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 126956,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "PEACE 2 DA WORLD",
-        "url": "https://open.spotify.com/album/0gOTg0Yi6YMKH7o58VtW17"
-      },
-      "artists": [
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Flight to Brazil",
-      "url": "https://open.spotify.com/track/2nQhrGASooch4Uhzch6qZa"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169228,
       "name": "vinland",
       "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "PEACE 2 DA WORLD",
+        "url": "https://open.spotify.com/album/0gOTg0Yi6YMKH7o58VtW17"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Flight to Brazil",
+      "url": "https://open.spotify.com/track/2nQhrGASooch4Uhzch6qZa"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "FU",
-        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 136917,
-      "name": "FU",
-      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 188006,
       "name": "BAMBI",
       "url": "https://open.spotify.com/track/47CXk0Q9bAMbraj2WZHLQu"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "FU",
+        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 136917,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "dancing",
-        "url": "https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4"
-      },
-      "artists": [
-        {
-          "name": "tn_490",
-          "url": "https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X"
-        }
-      ],
-      "duration_ms": 142058,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 229653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "dancing",
+        "url": "https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4"
+      },
+      "artists": [
+        {
+          "name": "tn_490",
+          "url": "https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X"
+        }
+      ],
+      "duration_ms": 142058,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "DRAMA",
-        "url": "https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ"
-      },
-      "artists": [
-        {
-          "name": "D7",
-          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "DRAMA",
-      "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Bring Me Up",
         "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 142299,
       "name": "Bring Me Up",
       "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ"
+      },
+      "artists": [
+        {
+          "name": "D7",
+          "url": "https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "DRAMA",
+      "url": "https://open.spotify.com/track/0onShXGnisu2meDKLJtzix"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/6i72V24SOOku076TNzxShq"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 195242,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "what it is & what it ain't",
         "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 149103,
       "name": "what it is & what it ain't",
       "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/6i72V24SOOku076TNzxShq"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "duration_ms": 195242,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1051,6 +1051,30 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Chaos Is Her Name",
+        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        },
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        },
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 253012,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Mafone",
         "url": "https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA"
       },
@@ -1063,22 +1087,6 @@
       "duration_ms": 164526,
       "name": "Mafone",
       "url": "https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Chaos Is Her Name",
-        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
-      },
-      "artists": [
-        {
-          "name": "BINA.",
-          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
-        }
-      ],
-      "duration_ms": 220285,
-      "name": "Precious",
-      "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
     },
     {
       "added_at": "2024-11-22 00:00:00",

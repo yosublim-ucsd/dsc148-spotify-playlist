@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YoungBoy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,456 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,458 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stealing Out The Trap](https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi) | 3:46 |
 | 2 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
 | 3 | [Dirty Revolver](https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:03 |
-| 4 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 4 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 5 | [For A Reason](https://open.spotify.com/track/4Fnd3gIheWMWXSbdxjcuOJ) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [For A Reason](https://open.spotify.com/album/2oUKDqojhgfDu1Vfo5r5yw) | 2:27 |
 | 6 | [P.O.P\. \(with Key Nyata & Sauce Walka\)](https://open.spotify.com/track/3cuf6ZRBZLQCf3jKqsT4Cc) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 4:02 |
 | 7 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |

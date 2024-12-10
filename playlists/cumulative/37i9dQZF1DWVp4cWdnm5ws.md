@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: Ysanygo
+> Discover new artists on the horizon this 2024\. Cover: Maki
 
-218 songs - 13 hr 20 min
+220 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Born To Win](https://open.spotify.com/track/0zTmcNKTKyxMohxIvjpIAV) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 2:53 | 2022-03-24 | 2022-12-01 |
 | [Born To Win](https://open.spotify.com/track/6gM4xq1CXli6FC5Qm7pLHl) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/3xpmqNo62myMulZ1MtnTox) | 2:53 | 2022-11-30 | 2023-04-14 |
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-04-13 | 2024-04-03 |
+| [Bughaw](https://open.spotify.com/track/6C8Oy25ieRZqOsSJ6PAb86) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bughaw](https://open.spotify.com/album/2BHCBLxhR5lvCMoLiRMfDv) | 3:53 | 2024-12-09 |  |
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [can't get enough](https://open.spotify.com/track/2RmQWlkPigl7R15u7Mm0fr) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [BEING](https://open.spotify.com/album/1kFYiskcStEnrfLZXqF7Kv) | 3:38 | 2024-04-02 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-15 |  |
@@ -184,6 +185,7 @@
 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 | 2023-04-13 | 2024-04-03 |
 | [SSP \(Saksak Sa Puso\)](https://open.spotify.com/track/4hNKQWQvHOOfxUR0IrGpYG) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [20:20](https://open.spotify.com/album/0TJkShI3cK81IT2dQ70Xbh) | 3:34 | 2024-02-21 | 2024-04-03 |
 | [Strings](https://open.spotify.com/track/1yja0zSvvgJtbV34B02kLG) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 3:20 | 2022-09-29 | 2022-12-01 |
+| [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 | 2024-12-09 |  |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-02 | 2024-04-19 |
 | [Sunday Morning](https://open.spotify.com/track/7iil6fgXBgJcSqbKOKI4dx) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5eQqnyOrLCKl2ptVYevOAL) | 3:44 | 2024-04-05 |  |
 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-05-03 |  |

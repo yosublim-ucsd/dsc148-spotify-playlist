@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 85578,
+  "num_followers": 85597,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-07-19 16:10:35",
       "album": {
-        "name": "Day Ones",
-        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 162089,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
-    },
-    {
-      "added_at": "2024-07-19 16:10:35",
-      "album": {
         "name": "Under The Influence (Jersey Club)",
         "url": "https://open.spotify.com/album/69Iuqg1vXXXUqu9u4JVxFp"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 139415,
       "name": "Under The Influence (Jersey Club)",
       "url": "https://open.spotify.com/track/7DX1v8xI9vPcEfFyIblqnv"
+    },
+    {
+      "added_at": "2024-07-19 16:10:35",
+      "album": {
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
     },
     {
       "added_at": "2024-07-19 16:10:35",

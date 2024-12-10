@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 33 min
+68 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@
 | [Tu Mamá No Me Quiere](https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 4:02 | 2023-01-14 |  |
 | [Tu Mirada](https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:41 | 2023-01-14 |  |
 | [Tú No Sabes Chupar](https://open.spotify.com/track/1Imw8CswIvCg7SmmEtjRAz) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 5:58 | 2023-12-16 | 2024-05-10 |
-| [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 | 2023-01-14 |  |
+| [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 | 2023-01-14 | 2024-12-10 |
 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 | 2023-01-14 |  |
 | [Vaquero Rockanrolero](https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 4:16 | 2024-01-02 | 2024-11-16 |
+| [Volver a Verte](https://open.spotify.com/track/5AtR75XB5duEe6QyaYkz0X) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sobreviviente 33](https://open.spotify.com/album/0U9cpdzH8t5JN7rrkdsM73) | 4:42 | 2024-12-10 |  |
 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 | 2023-01-14 |  |
 | [Y Sufrirás](https://open.spotify.com/track/5cKb6jVvWGIuOBrOrNo97K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:42 | 2023-01-14 |  |
 | [Ya No Te Quiero](https://open.spotify.com/track/2lNmpgbYahhoq600OzGbhA) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 5:08 | 2023-01-14 |  |

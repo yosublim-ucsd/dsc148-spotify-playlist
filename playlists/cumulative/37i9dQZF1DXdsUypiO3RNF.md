@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdsUypiO3RNF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdsUypiO3RNF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdsUypiO3RNF)
 
-### [639 Hz](https://open.spotify.com/playlist/37i9dQZF1DXdsUypiO3RNF)
+### [639 Hz  Heart Chakra Healing](https://open.spotify.com/playlist/37i9dQZF1DXdsUypiO3RNF)
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-95 songs - 4 hr 15 min
+96 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [639 Hz Quantum Waves](https://open.spotify.com/track/0ZiAAJc1PHPMQSla7cvImN) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Open Mindset Solfeggio](https://open.spotify.com/album/75zQejIX7nzbkehdw3NwVh) | 3:00 | 2023-08-07 |  |
 | [639 Hz Release](https://open.spotify.com/track/5YkziyomBXQS6Kh0Zhnm6H) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
 | [639 Hz Rhythm of Kin](https://open.spotify.com/track/2dB2RfoX4Lb3DrK0aJF4NG) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz Rhythm of Kin](https://open.spotify.com/album/5VpIVjuu07WdJarvN8A5Lp) | 2:34 | 2024-03-13 |  |
+| [639 Hz Spiritual Discipline](https://open.spotify.com/track/0uF57Bd4CqhDefLhygLIfD) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [639 Hz Spiritual Discipline](https://open.spotify.com/album/7Isvf7Lu3bUQgTRznATyHC) | 3:28 | 2024-12-09 |  |
 | [639 Hz The Anthem of Connection](https://open.spotify.com/track/6oCLYmIoXXgaSUVD1s37y6) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz The Anthem of Connection](https://open.spotify.com/album/1cLyjr7T2DNLKl8ikluGgc) | 2:30 | 2024-06-11 |  |
 | [639 Hz Tolerance and Love](https://open.spotify.com/track/0feSxi0NaNlAYOGiC1RW2I) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Tolerance](https://open.spotify.com/album/1Bxqf6Q41Gte8MJGXBgJqr) | 2:45 | 2023-03-10 |  |
 | [639 Hz Transitions](https://open.spotify.com/track/4DJ9VfdyefZeSwaIkYkaex) | [Sjoberga](https://open.spotify.com/artist/02hZdM7vbVOrG4Pm8tLsIc) | [639 Hz Transitions](https://open.spotify.com/album/2FU1FoPfeLeXkBfqoD4wK3) | 2:18 | 2023-03-10 |  |

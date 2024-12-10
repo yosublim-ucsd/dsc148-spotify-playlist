@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: RiE MORRiS
 
-2,749 songs - 7 day 8 hr 14 min
+2,750 songs - 7 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [This Wish \- From "Wish"](https://open.spotify.com/track/6uWdq2JkWm76yNBeigEnSb) | [Erika Ikuta](https://open.spotify.com/artist/1oFBCL5yLMgZBoXHsiE4JR) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/2pHrb0sDgNX8wihQAATykv) | 3:25 | 2023-10-31 | 2024-04-17 |
 | [Thoughts](https://open.spotify.com/track/0rq12EH7h5J3zPxYPJOc1A) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [Thoughts](https://open.spotify.com/album/2Agph7QhGyQzKPIDBXkF9p) | 3:37 | 2022-07-26 | 2022-08-03 |
 | [Through thick and thin \- feat\. Ai Yamamoto](https://open.spotify.com/track/0akZODzqRTDX5DB24KwBlx) | [TOMMY HONDA](https://open.spotify.com/artist/2sHNt94yiTqGXeQEKUDX5n), [AI YAMAMOTO](https://open.spotify.com/artist/3wjzqnMReG4Zd61NoqXHMR) | [Through thick and thin \(feat\. Ai Yamamoto\)](https://open.spotify.com/album/6V934JMTbwmEWMGI8ZGPxb) | 2:22 | 2022-07-05 | 2022-07-13 |
+| [ties](https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ties](https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY) | 4:06 | 2024-12-04 |  |
 | [tietie](https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [tietie](https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb) | 3:11 | 2022-10-25 | 2022-11-02 |
 | [Tightrope](https://open.spotify.com/track/19TNKUCodtNmuEnypDZe4u) | [UshioReira](https://open.spotify.com/artist/2oaEUOvg9jABxWwVPUsepm) | [Tightrope](https://open.spotify.com/album/62jFAbJiXtmcALmL7JMAOF) | 4:55 | 2022-07-19 | 2022-07-27 |
 | [Till I Know What Love Is \(I'm Never Gonna Die\)](https://open.spotify.com/track/0duHVljFYUGRddrIORrTsI) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:36 | 2022-08-18 | 2022-08-24 |
@@ -2441,7 +2442,7 @@
 | [最幸のふたり](https://open.spotify.com/track/5ygZY3B09fHWoAzZwYBpxq) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [DRAMAS](https://open.spotify.com/album/1z48j7VLXraAx764gX46gq) | 3:42 | 2024-03-19 | 2024-04-10 |
 | [最後にひとつ](https://open.spotify.com/track/4IsrngG6NYJjPppWrNqwhD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [未成線上](https://open.spotify.com/album/4a1ZiuceJCKjRm6lMdx5gT) | 4:04 | 2024-01-23 | 2024-01-25 |
 | [最後のキスなら](https://open.spotify.com/track/4AuoonTU9oBQu1kFXITcZk) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Hitomi Shimatani](https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18) | [最後のキスなら](https://open.spotify.com/album/4QTzFtYTmRJHHl5ibaZvmB) | 5:26 | 2023-05-09 | 2023-05-17 |
-| [最後のバイバイ。](https://open.spotify.com/track/6GIleTVqnlr59AlzZVka0W) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [最後のバイバイ。](https://open.spotify.com/album/1IyHzXr7Rh4xWf1botendX) | 3:51 | 2023-12-26 |  |
+| [最後のバイバイ。](https://open.spotify.com/track/6GIleTVqnlr59AlzZVka0W) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [最後のバイバイ。](https://open.spotify.com/album/1IyHzXr7Rh4xWf1botendX) | 3:51 | 2023-12-26 | 2024-12-10 |
 | [最終列車で君に会いにゆく](https://open.spotify.com/track/4A2JdTWhKTKOxRwLvg91PE) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [最終列車で君に会いにゆく](https://open.spotify.com/album/4S9DGlG019QxILVaNV32RF) | 4:28 | 2023-01-17 | 2023-01-25 |
 | [月](https://open.spotify.com/track/7DrwN98xjUsoLwbfPbnLRf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT) | 4:12 | 2022-06-07 | 2022-07-25 |
 | [月が涙を流す夜](https://open.spotify.com/track/68CMuQlO03vyQrGVNHTle2) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [月が涙を流す夜](https://open.spotify.com/album/7AyOi29A8SRAcDOojIJBCi) | 3:39 | 2022-10-04 | 2022-10-06 |

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAOAfNjzlyl8cFOy/RPXsfbgazOABt",
+  "snapshot_id": "AAAAOi8KWUJ/usuQqx+kU1ixlueTNeSk",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -843,6 +843,38 @@
       "duration_ms": 225533,
       "name": "All Up the Seething Coast",
       "url": "https://open.spotify.com/track/01vH5I4Vx6SR5gnZxZzEwS"
+    },
+    {
+      "added_at": "2024-12-09 05:33:29",
+      "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 158742,
+      "name": "Pigeon",
+      "url": "https://open.spotify.com/track/21uuus0muRkqa2qSU3NtCD"
+    },
+    {
+      "added_at": "2024-12-09 07:33:03",
+      "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 240491,
+      "name": "I'll Make Cereal",
+      "url": "https://open.spotify.com/track/7cZhrCKZRUPsDEK8PWR727"
     }
   ],
   "unique_name": "Diseased",

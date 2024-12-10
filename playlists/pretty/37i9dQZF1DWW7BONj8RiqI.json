@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 218784,
+  "num_followers": 218836,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "1 On 1",
-        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
-      },
-      "artists": [
-        {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 177925,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "1 On 1",
+        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
+      },
+      "artists": [
+        {
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Hooked on Soca",
-        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
-      },
-      "artists": [
-        {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
-        }
-      ],
-      "duration_ms": 183992,
-      "name": "Hookin' Meh",
-      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Dear Promoter",
         "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
+        "name": "Hooked on Soca",
+        "url": "https://open.spotify.com/album/3XUBXDhv1RsWSAO45DjqTd"
       },
       "artists": [
         {
-          "name": "Teddyson John",
-          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
-        },
-        {
-          "name": "International Stephen",
-          "url": "https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6"
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R"
+      "duration_ms": 183992,
+      "name": "Hookin' Meh",
+      "url": "https://open.spotify.com/track/5ZAKzjJeCTHnK3cGw1PzXa"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -587,6 +567,26 @@
       "duration_ms": 169570,
       "name": "No Apology",
       "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
+      },
+      "artists": [
+        {
+          "name": "Teddyson John",
+          "url": "https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp"
+        },
+        {
+          "name": "International Stephen",
+          "url": "https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -687,6 +687,30 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "King Bubba Mashup, Vol. 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        },
+        {
+          "name": "King Bubba Fm",
+          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Monster Winer",
+      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Studio B Presents Crop Over Hits 2014",
         "url": "https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 181567,
       "name": "How She Like It",
       "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "King Bubba Mashup, Vol. 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        },
-        {
-          "name": "King Bubba Fm",
-          "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Monster Winer",
-      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208615,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Get Soca 2018",
-        "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "Hulk",
-      "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Get Soca 2018",
+        "url": "https://open.spotify.com/album/6DvjxBcIWivJfcJws7qKVc"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "Hulk",
+      "url": "https://open.spotify.com/track/7v3ak3O6tw43jNDAsZxuxR"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "The Carnival Jumbies Experiment",
-        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "Carnival Jumbie",
-      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Mas",
         "url": "https://open.spotify.com/album/0YGuzLO321YLIzfDy4vNqa"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+        "name": "The Carnival Jumbies Experiment",
+        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
       "artists": [
         {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
         }
       ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
+      "duration_ms": 158917,
+      "name": "Carnival Jumbie",
+      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1371,6 +1355,22 @@
       "duration_ms": 169142,
       "name": "DAP (Drink and Party)",
       "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Kool Under Fire",
         "url": "https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 263693,
       "name": "Sak Pas\u00e9",
       "url": "https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Happy Daze Riddim",
-        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
-      },
-      "artists": [
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 230543,
-      "name": "Bless This Party",
-      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 157506,
       "name": "Rukshun",
       "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Happy Daze Riddim",
+        "url": "https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb"
+      },
+      "artists": [
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 230543,
+      "name": "Bless This Party",
+      "url": "https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA"
     },
     {
       "added_at": "2024-08-05 20:03:27",

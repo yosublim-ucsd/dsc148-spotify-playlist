@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla & Camilo en portada.",
-  "num_followers": 87941,
+  "num_followers": 87967,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-12-06 17:36:21",
       "album": {
+        "name": "MUJER\u00d3N",
+        "url": "https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "MUJER\u00d3N",
+      "url": "https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP"
+    },
+    {
+      "added_at": "2024-12-06 17:36:21",
+      "album": {
         "name": "Como Amigos",
         "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 131806,
       "name": "Como Amigos",
       "url": "https://open.spotify.com/track/3G6AGojyBobTlHNibQ4W48"
-    },
-    {
-      "added_at": "2024-12-06 17:36:21",
-      "album": {
-        "name": "MUJER\u00d3N",
-        "url": "https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "MUJER\u00d3N",
-      "url": "https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP"
     },
     {
       "added_at": "2024-12-06 17:36:21",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-12-06 17:36:21",
       "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
-    },
-    {
-      "added_at": "2024-12-06 17:36:21",
-      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "added_at": "2024-12-06 17:36:21",
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": "2024-12-06 17:36:21",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-06 17:36:21",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
-    },
-    {
-      "added_at": "2024-12-06 17:36:21",
-      "album": {
         "name": "Dame Tu Amor",
         "url": "https://open.spotify.com/album/4XNMKxJJbBvcgg3ml5S5Ou"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 156800,
       "name": "Dame Tu Amor",
       "url": "https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix"
+    },
+    {
+      "added_at": "2024-12-06 17:36:21",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
     },
     {
       "added_at": "2024-12-06 17:36:21",

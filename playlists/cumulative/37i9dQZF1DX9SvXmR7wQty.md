@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: SCH
 
-3,001 songs - 6 day 15 hr 36 min
+3,002 songs - 6 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 | 2023-01-13 | 2023-01-28 |
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2022-11-05 |
 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-03-15 | 2024-05-12 |
-| [Ca Va Aller](https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ca Va Aller](https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov) | 3:47 | 2024-11-22 |  |
+| [Ca Va Aller](https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ca Va Aller](https://open.spotify.com/album/4glCGjUMMpuDJCHJZPAGov) | 3:47 | 2024-11-22 | 2024-12-10 |
 | [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 | 2024-01-16 |
 | [CALI](https://open.spotify.com/track/5nkgFuu8rzLZVaKIY4Fdwc) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [FILM!](https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7) | 2:31 | 2022-02-04 | 2022-02-19 |
 | [Cali \(Ayayaye\)](https://open.spotify.com/track/5jvuNeTQI7q78Ki4iWAEHT) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Cali \(Ayayaye\)](https://open.spotify.com/album/7A5iYPRldfzUvFVIg7pbvV) | 2:31 | 2022-01-07 | 2022-01-22 |
@@ -1816,6 +1816,7 @@
 | [Mon allié](https://open.spotify.com/track/5ME26hIRIOBmaJEvqN63W9) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable \(Jusqu'à preuve du contraire\)](https://open.spotify.com/album/1G7blDKlHT0LJZbBkcssoU) | 2:52 | 2021-12-31 | 2022-01-22 |
 | [Mon amour](https://open.spotify.com/track/4586PHt3JWkwRLr6pU4Myf) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:09 | 2023-06-09 | 2023-06-17 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 | 2022-07-29 | 2022-08-27 |
+| [MON ANNÉE](https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [MON ANNÉE](https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi) | 2:28 | 2024-12-06 |  |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-03-16 |
 | [Mon barbier](https://open.spotify.com/track/4RgTeFUhjfpx1jdWkykmUY) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Mon barbier](https://open.spotify.com/album/6k5pHlGIzqimz199lXjrx1) | 3:06 | 2024-07-19 | 2024-07-27 |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-06-16 | 2023-08-26 |

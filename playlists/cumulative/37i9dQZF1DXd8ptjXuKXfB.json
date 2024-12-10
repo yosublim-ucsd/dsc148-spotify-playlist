@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/50HT256QPt4DIkxnLZps0e"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/0JXcCXu1MGlMg7UBsbAv2z"
+    },
+    {
+      "album": {
         "name": "Careful What You Wish For (the doctor said to)",
         "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
       },
@@ -923,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Elvon\u00f3",
+        "url": "https://open.spotify.com/album/2i6ZqGrP6XqVs9PcY614Fi"
+      },
+      "artists": [
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/0LeQFiVe54pSuKw89rvXCh"
+        },
+        {
+          "name": "Miss Mood",
+          "url": "https://open.spotify.com/artist/5RQvpF3WKBeSvmfAQHV5M3"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Elvon\u00f3",
+      "url": "https://open.spotify.com/track/33VzphL9XV0wv8x4kLjNJS"
+    },
+    {
+      "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
@@ -1302,7 +1342,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 189783,
       "name": "g\u00e1t",
       "url": "https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv"
@@ -1450,7 +1490,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
@@ -1639,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Je t'aime",
+        "url": "https://open.spotify.com/album/4p6axNlAfwsmPRaRfVFfWs"
+      },
+      "artists": [
+        {
+          "name": "Szunyog Tess",
+          "url": "https://open.spotify.com/artist/5yNDL3740Khtz4VMFdcdAh"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205301,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/2kvexDnN2GTTQf5tOlwVu6"
+    },
+    {
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -1686,7 +1744,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 160534,
       "name": "J\u00e9zus k\u00e9rlek h\u00edvj\u00e1l fel",
       "url": "https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ"
@@ -2012,7 +2070,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 159512,
       "name": "l\u00e1nc",
       "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
@@ -2202,6 +2260,24 @@
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
+    },
+    {
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "album": {
@@ -2632,7 +2708,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 162833,
       "name": "OL\u00c1' L\u00c9",
       "url": "https://open.spotify.com/track/7vCP4Z6ExneBzzPJTEKWp0"
@@ -2654,6 +2730,24 @@
       "duration_ms": 152500,
       "name": "Ome Robert",
       "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
+    },
+    {
+      "album": {
+        "name": "ULTRA",
+        "url": "https://open.spotify.com/album/1STdDACcAI3oCPsasoBvZ3"
+      },
+      "artists": [
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "ON ME",
+      "url": "https://open.spotify.com/track/0ME5qVfZeFcavPt9WzA9V4"
     },
     {
       "album": {
@@ -3192,7 +3286,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
@@ -3240,6 +3334,24 @@
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
+    },
+    {
+      "album": {
+        "name": "Sok sz\u00e9p l\u00e1ny (Akusztik)",
+        "url": "https://open.spotify.com/album/7n61FcMeRoFUkyyDzOrfzD"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Sok sz\u00e9p l\u00e1ny - Akusztik",
+      "url": "https://open.spotify.com/track/0YFMHK6xmhj0QO5PK8AN4q"
     },
     {
       "album": {

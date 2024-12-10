@@ -2,7 +2,7 @@
 
 ### [Rhythm & Praise](https://open.spotify.com/playlist/37i9dQZF1DX35T8tss1Gxt)
 
-> Where faith meets R&B\. Cover: <a href="spotify:artist:7G7JWOsGhDMily2HtfzcIZ">Evvie Mckinney</a>
+> Where faith meets R&B\. Cover: Evvie Mckinney
 
 583 songs - 1 day 9 hr 56 min
 

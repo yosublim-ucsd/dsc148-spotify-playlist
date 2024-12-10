@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from ROSÉ, Bad Bunny, TV Girl & George Clanton, Roy Woods and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,543 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,545 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Necesito \(Más de ti\)](https://open.spotify.com/track/1gzAZPya6YhtcKG8HedRjv) | [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Necesito \(Más de ti\)](https://open.spotify.com/album/41ruwP0VAiLAzb9juUUpvU) | 3:12 |
 | 80 | [All In](https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [All In](https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot) | 2:57 |
 | 81 | [FORGONE](https://open.spotify.com/track/3nV8xc9FMPSJu0sCZ0gmBO) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [FORGONE](https://open.spotify.com/album/4rERJUyiS9XOS6k5BqHjXV) | 3:45 |
-| 82 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 82 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 83 | [Give Me Luv](https://open.spotify.com/track/5pzhHXU7365ByottrJtOZ7) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Amour](https://open.spotify.com/album/05U0IswNO4kXVYPJuhA4wR) | 2:20 |
 | 84 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 85 | [Cash Only](https://open.spotify.com/track/0sRtWWtsxrztPvnXWD1SM7) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Cash Only](https://open.spotify.com/album/5GdozmjqIYpkSqymsLKc6t) | 2:26 |

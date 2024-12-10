@@ -1393,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "An\u0111eo (From \"Sram\")",
+        "url": "https://open.spotify.com/album/69uqqJ6T4B6OQAhE9gi9cK"
+      },
+      "artists": [
+        {
+          "name": "Miach",
+          "url": "https://open.spotify.com/artist/2JdSKSsIyKoufxXuuuOVUt"
+        },
+        {
+          "name": "Hiljson Mandela",
+          "url": "https://open.spotify.com/artist/05RXYlsCKzkb418GEvYCip"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "An\u0111eo - From \"Sram\"",
+      "url": "https://open.spotify.com/track/4w6fEGrluheE0MtiPUe0hJ"
+    },
+    {
+      "album": {
         "name": "Aperol Spritz",
         "url": "https://open.spotify.com/album/1DS2DwJ7zhehDfDJRq4n7x"
       },
@@ -1760,6 +1782,32 @@
       "duration_ms": 145500,
       "name": "AZR",
       "url": "https://open.spotify.com/track/1NjLNGrLWN5q1A4A3xCra3"
+    },
+    {
+      "album": {
+        "name": "Ba Ba Bad",
+        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Ba Ba Bad",
+      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
       "album": {
@@ -14300,7 +14348,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 141490,
       "name": "M\u00dcNCHNER STR.",
       "url": "https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph"
@@ -17060,7 +17108,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 105899,
       "name": "RID/70 Sch\u00fcsse aus ein TukTuk",
       "url": "https://open.spotify.com/track/2mWVgDTK1fNEUjTiu3xQje"
@@ -18176,6 +18224,24 @@
       "duration_ms": 157714,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
     },
     {
       "album": {
@@ -22096,7 +22162,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 119160,
       "name": "What Have They Done To Us (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2F27IYzFkhhrMChpfhVgPJ"
@@ -22198,7 +22264,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -23320,7 +23386,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 185626,
       "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"

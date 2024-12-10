@@ -4,7 +4,7 @@
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-140 songs - 8 hr 33 min
+144 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Dafne](https://open.spotify.com/track/5tNS0nNzD2exJG1AWDGYCC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Sarajevo](https://open.spotify.com/album/4StNU0zMhfFYHum9gbm93l) | 4:42 | 2024-10-09 | 2024-11-27 |
 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 | 2023-10-31 | 2024-10-10 |
 | [De Mí Enamórate](https://open.spotify.com/track/6jD8PAh3L9RsL2pJvTyANp) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Malditos Pecadores](https://open.spotify.com/album/1kJdw3cb9SX60LsWZcD1ix) | 5:51 | 2023-10-31 | 2024-10-10 |
+| [De Su Vida Me Iré](https://open.spotify.com/track/2o1xzYqSsLMHzCVPdoasbT) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 3:08 | 2024-12-09 |  |
 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 | 2023-10-31 | 2024-10-10 |
 | [Diamantes](https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Diamantes](https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8) | 4:03 | 2024-10-09 |  |
 | [DUMBAI](https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:28 | 2024-11-11 |  |
@@ -69,6 +70,7 @@
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-09 |  |
 | [Imaginación](https://open.spotify.com/track/3fMe9PdNbajE7285bYUaa9) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Imaginación](https://open.spotify.com/album/7BnXJy3LCtSuOtWZd7Lgxz) | 4:22 | 2024-10-09 |  |
 | [Immortality](https://open.spotify.com/track/6tuQgJSjtmbtkWye0Cm4kd) | [Big Big Love](https://open.spotify.com/artist/4nzAyG4UOW7AvdYyJQXxDX) | [Immortality](https://open.spotify.com/album/5oKkO0p75qxXheRnRfElwn) | 5:03 | 2024-10-09 |  |
+| [Inconcluso](https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [B.M.T](https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF) | 2:36 | 2024-12-09 |  |
 | [Inconcluso](https://open.spotify.com/track/6gNabaGwN05HLUTcAfpMAR) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Inconcluso](https://open.spotify.com/album/1wZqSOuo2jzDqg5KTghNvj) | 2:36 | 2024-11-27 |  |
 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-10-31 | 2024-10-10 |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-10-31 | 2024-10-10 |
@@ -105,6 +107,7 @@
 | [Nunca he sabido amar](https://open.spotify.com/track/6MoH16WzQYDHe6Ns2aTFTV) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Nunca he sabido amar](https://open.spotify.com/album/0mC3kvUNRoFRnwgAuE6LY0) | 2:26 | 2024-10-09 |  |
 | [OHH BABY](https://open.spotify.com/track/11pjpFy9m7CQqVBC0A5EPG) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:27 | 2024-10-09 |  |
 | [Ojos Noche](https://open.spotify.com/track/69xKQh7dxKqCe91WbGUhWv) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/3G7BaTdViMUnfyI6H2S2ox) | 4:00 | 2024-10-09 |  |
+| [OTROS LUGARES](https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [UGH / OTROS LUGARES](https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU) | 3:21 | 2024-12-09 |  |
 | [Outro](https://open.spotify.com/track/3HFtCewZzBRxOESSqk1nVn) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 3:08 | 2024-10-09 |  |
 | [Paris Texas](https://open.spotify.com/track/2jKgFHQJHAVfBucrRyb9Jm) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 6:35 | 2023-10-31 | 2024-10-10 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2024-10-09 |  |
@@ -117,6 +120,7 @@
 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 | 2023-10-31 | 2024-10-10 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2024-10-09 |  |
 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 | 2024-10-09 |  |
+| [ROSONES](https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ROSONES](https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL) | 2:57 | 2024-12-09 |  |
 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 | 2024-10-09 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2023-10-31 | 2024-10-10 |
 | [Se fue la luz](https://open.spotify.com/track/39PPT5p915YbhBfa8GWi4H) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/06apbSuVacUMztWSj9USqW) | 3:32 | 2024-10-09 |  |

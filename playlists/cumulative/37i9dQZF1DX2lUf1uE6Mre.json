@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 157659,
       "name": "100 Lieder",
       "url": "https://open.spotify.com/track/3YzN8rggzWjdDEkK2WTUEx"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 144497,
       "name": "Ah Ah",
       "url": "https://open.spotify.com/track/0cktMojlSyXU4tw8EdPIJ3"
@@ -407,6 +407,44 @@
     },
     {
       "album": {
+        "name": "BALLON D'OR",
+        "url": "https://open.spotify.com/album/6U5UrUArfXqSJgZH12DDfC"
+      },
+      "artists": [
+        {
+          "name": "BAR\u00c9",
+          "url": "https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        },
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV"
+        },
+        {
+          "name": "Bayor",
+          "url": "https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne"
+        },
+        {
+          "name": "Kenan",
+          "url": "https://open.spotify.com/artist/3iNULJ7Pzkesh8xo72Xy9e"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "BALLON D'OR",
+      "url": "https://open.spotify.com/track/1cSBFQlsXoEDYhnzhR3CiS"
+    },
+    {
+      "album": {
         "name": "BANDIT",
         "url": "https://open.spotify.com/album/1xqiL9v6vHRyhIl6q5iWc4"
       },
@@ -560,7 +598,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 137515,
       "name": "Benz Series Black",
       "url": "https://open.spotify.com/track/4QuzAPUjXp7Er4gCUUkhUr"
@@ -1083,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "Did You See (feat. Jazeek)",
+        "url": "https://open.spotify.com/album/0R3TxAtqNe52zRMgvXBskY"
+      },
+      "artists": [
+        {
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134170,
+      "name": "Did You See (feat. Jazeek)",
+      "url": "https://open.spotify.com/track/5z1ohvvWduu1jRfiz9IPzU"
+    },
+    {
+      "album": {
         "name": "DILEMIN",
         "url": "https://open.spotify.com/album/5AAUlDsNabwWAHMSnRQdOv"
       },
@@ -1503,6 +1563,46 @@
     },
     {
       "album": {
+        "name": "Houma",
+        "url": "https://open.spotify.com/album/5G1N4YwRF1TsrFpMtwd5PW"
+      },
+      "artists": [
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        },
+        {
+          "name": "Qassem",
+          "url": "https://open.spotify.com/artist/4bZVLoQBUBvGj058GUTaj1"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120317,
+      "name": "Houma",
+      "url": "https://open.spotify.com/track/51dlv2FBCSSlKY9oWTDQoD"
+    },
+    {
+      "album": {
+        "name": "Hyaluron",
+        "url": "https://open.spotify.com/album/3qMVTVqtP6rZfnIIpWZBfr"
+      },
+      "artists": [
+        {
+          "name": "ilo 7araga",
+          "url": "https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130239,
+      "name": "Hyaluron",
+      "url": "https://open.spotify.com/track/1PnpIuEtT1K5zhfOHuEB9J"
+    },
+    {
+      "album": {
         "name": "Imaginando (feat. Morad & MERO)",
         "url": "https://open.spotify.com/album/527fyLtwwJx69yZGobfV2H"
       },
@@ -1716,7 +1816,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 188354,
       "name": "KIWI",
       "url": "https://open.spotify.com/track/1i0Q1EMNlUIsNQloJbtPm8"
@@ -1768,7 +1868,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 198040,
       "name": "K\u00a1K\u00a1",
       "url": "https://open.spotify.com/track/0RH3Zeo1bLOKmtOGi9LZJ2"
@@ -2190,7 +2290,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 194481,
       "name": "MON AMI (feat. MERO, Gu\u00e8 & Emis Killa)",
       "url": "https://open.spotify.com/track/3A4OIQpuwZbSZgGSrdm4LR"
@@ -2867,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0klo8t1m0EMpSNv7L9tQzM"
+      },
+      "artists": [
+        {
+          "name": "Veysel",
+          "url": "https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169179,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4usaWLgpOAmNT8RLWVmNiB"
+    },
+    {
+      "album": {
         "name": "Spotlight (feat. Der Yavuz, MEL, Infinit, Monny & 3imad)",
         "url": "https://open.spotify.com/album/2xZmVUK77wc09hkb9dERbK"
       },
@@ -2898,7 +3016,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 172100,
       "name": "Spotlight (feat. Der Yavuz, MEL, Infinit, Monny & 3imad)",
       "url": "https://open.spotify.com/track/2WUOiiJnic0v3kS33oIyJC"
@@ -2920,7 +3038,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 152241,
       "name": "Star",
       "url": "https://open.spotify.com/track/7FKW2DK9dvY80XR4yjdyBH"
@@ -3340,7 +3458,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 263186,
       "name": "WOLLTEN FREI SEIN (feat. reezy)",
       "url": "https://open.spotify.com/track/7BpQAkjefbApWBUtKmVMjh"
@@ -3516,7 +3634,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 137028,
       "name": "Zelle",
       "url": "https://open.spotify.com/track/0MLKvQX64ZyzNkXJwQ6jZw"

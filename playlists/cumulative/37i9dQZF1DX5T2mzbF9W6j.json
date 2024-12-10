@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Burning Down (with Joe Jonas)",
+        "url": "https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179437,
+      "name": "Burning Down (with Joe Jonas)",
+      "url": "https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1"
+    },
+    {
+      "album": {
         "name": "Burza",
         "url": "https://open.spotify.com/album/1r3coAqjoaun1O5t0CymGj"
       },
@@ -865,6 +887,24 @@
     },
     {
       "album": {
+        "name": "WITCH TAROHORO",
+        "url": "https://open.spotify.com/album/5EU47I0ltSvyZLflPsTYjz"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146896,
+      "name": "GAJA",
+      "url": "https://open.spotify.com/track/2tTpcgfEjfOGU5kGmht6yA"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -1290,7 +1330,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 199830,
       "name": "Kissing A Ghost",
       "url": "https://open.spotify.com/track/7sc6rmCT7xvI4we4U9dPPQ"
@@ -1360,7 +1400,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 210711,
       "name": "Kwiaty",
       "url": "https://open.spotify.com/track/0ppPlaEg7IM8qOfIZ6pOHR"
@@ -1618,7 +1658,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 158214,
       "name": "na drog\u0119",
       "url": "https://open.spotify.com/track/5VP3ANDH0beDalUwWwgwoR"
@@ -1636,7 +1676,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 215069,
       "name": "Na st\u00f3\u0142",
       "url": "https://open.spotify.com/track/30wdu4fIGIR34hjmu2NqvU"
@@ -1900,7 +1940,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 196594,
       "name": "Ostatni Dzie\u0144",
       "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
@@ -1948,10 +1988,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 209171,
       "name": "Pada deszcz",
       "url": "https://open.spotify.com/track/4I5vcOq58yehX0CXsJ0KuZ"
+    },
+    {
+      "album": {
+        "name": "Pali si\u0119",
+        "url": "https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140820,
+      "name": "Pali si\u0119",
+      "url": "https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC"
     },
     {
       "album": {
@@ -2010,10 +2068,28 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 188478,
       "name": "POMALUJ M\u00d3J \u015aWIAT",
       "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
+    },
+    {
+      "album": {
+        "name": "Prince Charming",
+        "url": "https://open.spotify.com/album/5yfDkEZAj11yWvFmJi6gu6"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153908,
+      "name": "Prince Charming",
+      "url": "https://open.spotify.com/track/2qAcsOUzEdhBB9bqTmA4hn"
     },
     {
       "album": {
@@ -2028,7 +2104,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 160519,
       "name": "Przy Tobie",
       "url": "https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL"
@@ -2448,7 +2524,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 185597,
       "name": "Szybkie tempo",
       "url": "https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0"
@@ -2636,6 +2712,24 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "The Great Magician",
+        "url": "https://open.spotify.com/album/63t10xbFmyLIsLoush60io"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183687,
+      "name": "The Great Magician",
+      "url": "https://open.spotify.com/track/0HsrY6SXmgQUYEEV6frJ8M"
     },
     {
       "album": {

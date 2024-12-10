@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: DEAN, FKJ\)
+> Trendy & Chill Korean R&B music\. \(Cover: MELOH, VVON\)
 
 780 songs - 1 day 17 hr 29 min
 

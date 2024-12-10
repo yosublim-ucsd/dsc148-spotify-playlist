@@ -8833,6 +8833,24 @@
     },
     {
       "album": {
+        "name": "Strange Meridians",
+        "url": "https://open.spotify.com/album/5BOeEGhCqLKyX5CE3wwS1F"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235049,
+      "name": "Lapis Manalis",
+      "url": "https://open.spotify.com/track/6gW441yrmO9J6wELZmcFZr"
+    },
+    {
+      "album": {
         "name": "Lapland",
         "url": "https://open.spotify.com/album/2Bv9UL2MiDFhRufaLyhFyx"
       },
@@ -16334,7 +16352,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 297009,
       "name": "the family we find",
       "url": "https://open.spotify.com/track/4mRizEvssoz0Gyjey3igaJ"

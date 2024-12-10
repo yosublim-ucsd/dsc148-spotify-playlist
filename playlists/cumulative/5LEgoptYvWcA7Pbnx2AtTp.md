@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-148 songs - 8 hr 24 min
+153 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2024-10-09 |  |
 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 | 2024-05-28 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
+| [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 | 2024-12-09 |  |
 | [Booty Swing](https://open.spotify.com/track/64yyY22zIihs01OpURdsh8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Paris Swing Box](https://open.spotify.com/album/2djW68ErXMloNYhZaqDZdx) | 3:16 | 2023-11-15 |  |
 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 | 2024-10-08 |  |
 | [Bread](https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Bread](https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV) | 1:42 | 2024-04-08 |  |
@@ -30,6 +31,7 @@
 | [Business Man](https://open.spotify.com/track/0Ugvi8H89YmbBkSOx9VgUj) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 3:02 | 2022-05-06 |  |
 | [C'est la vie](https://open.spotify.com/track/0UhWFmdlrBSmZ7A6bFD8L9) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:14 | 2024-02-19 |  |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-08-01 |  |
+| [Child's Play](https://open.spotify.com/track/5oZSfXG5yRE8MhRGn5CxfP) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 3:39 | 2024-12-09 |  |
 | [Come Along](https://open.spotify.com/track/17q1nFo1UQvXiQ8TD7aI8H) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Come Along](https://open.spotify.com/album/5vxcQ2itLPBAhiPSRMN4ls) | 3:39 | 2022-05-06 |  |
 | [Comics](https://open.spotify.com/track/6mW6lEKUw4or42IEwBCXJe) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:32 | 2023-06-03 |  |
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2024-10-09 |  |
@@ -53,7 +55,7 @@
 | [Funk da Netflix: onde tudo começou](https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4) | [Hefty](https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk) | [Tudum Remix](https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss) | 0:30 | 2024-04-29 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2024-09-20 |  |
 | [Giorno's Theme](https://open.spotify.com/track/0oFPCGIO4t2cmOkksXknoD) | [Friedrich Habetler](https://open.spotify.com/artist/3VudC1DraV4LjIdLzpqQ80) | [Giorno's Theme](https://open.spotify.com/album/6UDDr9aZsmprJXfgU48Lqa) | 5:06 | 2024-10-28 |  |
-| [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 | 2024-10-27 |  |
+| [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 | 2024-10-27 | 2024-12-10 |
 | [Godspeed](https://open.spotify.com/track/0Jbe7lcwFY5DgX4abMPigH) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:43 | 2023-03-23 |  |
 | [Goodnight Socialite](https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:19 | 2023-01-07 |  |
 | [H.S](https://open.spotify.com/track/130XZ5bHECnpHvUeUkEPlg) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [H.S](https://open.spotify.com/album/7kcjzW149228s4dQmIIPUu) | 3:57 | 2023-11-20 |  |
@@ -78,6 +80,7 @@
 | [internet drama part 6 \(can u get pregante...?\)](https://open.spotify.com/track/1xTZAmsXYIg3fp3i5pci5k) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:58 | 2024-06-19 |  |
 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/63vL5oxWrlvaJ0ayNaQnbX) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:33 | 2022-05-06 |  |
 | [kid drama part 1 \(dear diary\)](https://open.spotify.com/track/5JEVgraZCZil9ByyhbqiDE) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:39 | 2024-06-19 |  |
+| [Killer Queen \- Remastered 2011](https://open.spotify.com/track/6Oj0XnWrDEl3KrwZuMQqVj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 2:59 | 2024-12-09 |  |
 | [Killers Walk](https://open.spotify.com/track/7vKWix5Csqu54sC0EmvB3Z) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 2:09 | 2024-10-19 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:34 | 2024-09-20 |  |
 | [Lay All Your Love On Me](https://open.spotify.com/track/5WGatOLP3uqV4mh8jkloUv) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [AAAH!BBA](https://open.spotify.com/album/6etdJTw0gFbGOwQdb94lqo) | 4:40 | 2022-05-06 |  |
@@ -90,6 +93,7 @@
 | [Lovers \(Live A Little Longer\)](https://open.spotify.com/track/0mb5Q9w5GJKU7HClkEzHpy) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 3:30 | 2024-09-20 |  |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2024-10-17 |  |
 | [Mercy Down](https://open.spotify.com/track/2K3uissFwVVgAxC8E7fCl5) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Hope and a Hand Grenade](https://open.spotify.com/album/5wGp1HqFB2WPrLT5asYwVz) | 3:41 | 2023-03-23 |  |
+| [Mii Music but It Makes You Uncomfortable](https://open.spotify.com/track/3yJrTG4tycsQ2Uu8KPOFcd) | [lukeitslukas](https://open.spotify.com/artist/6Ep0tsBeSVJhGGMry4bYG3) | [Mii Music but It Makes You Uncomfortable](https://open.spotify.com/album/2kz4djL6zENyQFuTzJ0I1e) | 1:01 | 2024-12-09 |  |
 | [Mr\. Fear](https://open.spotify.com/track/5XeIQO9gGkGo54naYVVeJP) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 4:06 | 2023-10-28 |  |
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-05-13 |  |
 | [My Mama Said](https://open.spotify.com/track/7IHKr96kTrygmAoLyu4zMw) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:15 | 2024-09-19 |  |
@@ -129,6 +133,7 @@
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2024-10-09 |  |
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |
 | [The Cringe \(feat\. Patton Oswalt\)](https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Patton Oswalt](https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy) | [Crazy Ex\-Girlfriend: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2iDGoikRLMHrmEHe6p1T8P) | 2:35 | 2024-10-14 |  |
+| [The Cult of Dionysus](https://open.spotify.com/track/4zg2zMNSI0W8ipGA32kKp5) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Cosmicandy](https://open.spotify.com/album/68OF44SIppyRCY9NTWrsK2) | 3:05 | 2024-12-09 |  |
 | [The Home Depot Beat](https://open.spotify.com/track/4euxYgIl5XEqUj5WB9lHNq) | [The Home Depot](https://open.spotify.com/artist/7tzPysmGf12PwEIQ8toFU6) | [The Home Depot Beat](https://open.spotify.com/album/3cflHXbTyEWMDg1ylyO7SS) | 0:35 | 2022-05-06 |  |
 | [The Lady and the Tiger](https://open.spotify.com/track/1jVGFo4Bw14GDGc1ht4G4n) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:55 | 2022-05-06 |  |
 | [The March Of The Black Queen \- Remastered 2011](https://open.spotify.com/track/3meWD39fJLCiIFKV6TFzSL) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II](https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL) | 6:32 | 2023-03-21 |  |

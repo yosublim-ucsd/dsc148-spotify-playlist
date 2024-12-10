@@ -2,7 +2,7 @@
 
 ### [AfroGospel](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 
-> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Guest curated this week by: <a href="spotify:artist:79MTG7HPurBgQ0ilwJ4AgM">Moses Bliss</a>
+> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Moses Bliss
 
 364 songs - 18 hr 43 min
 

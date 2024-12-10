@@ -4,7 +4,7 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-29 songs - 1 day 0 hr 12 min
+34 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1704: Hockey Dad Poses as Delta Force Agent to Scam Parents part 1](https://open.spotify.com/episode/0sWz317aIGbSt7tTqDRLAl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 34:24 | 2024-10-03 |  |
 | [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 41:27 | 2024-10-03 |  |
 | [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 27:31 | 2024-11-13 |  |
+| [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 45:29 | 2024-12-09 |  |
 | [Are NBA Fans Too Eager To "Blow It Up"?](https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 52:11 | 2024-10-03 |  |
 | [Being a Swiftie: Right or Wrong?](https://open.spotify.com/episode/6mN7QxeUT0UPQURmox9Zrz) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 40:25 | 2024-11-13 |  |
 | [Black People Love Conspiracy Theories ft\. Langston Kerman & David Gborie](https://open.spotify.com/episode/4fo5EbeBW4HLc6HgFVw3C5) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 52:14 | 2024-10-03 |  |
@@ -26,6 +27,8 @@
 | [Dating rizz in your 30s](https://open.spotify.com/episode/2AnakWvJxTmFWE9WwqEud6) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 54:35 | 2024-10-03 |  |
 | [Does The NBA Have A Scoring Problem?](https://open.spotify.com/episode/1tDjmo2fqz4XWKkggGogkz) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 54:32 | 2024-10-03 |  |
 | [Don’t date “successful” people.](https://open.spotify.com/episode/0zD3h3vvBFKfsnrMfmFJUR) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 51:55 | 2024-10-03 |  |
+| [EARLY NBA All Star Selections](https://open.spotify.com/episode/1dOjPLfdlN7M2hP8FkFZsw) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:13:55 | 2024-12-09 |  |
+| [Holiday Foods FT\. Toya Coleman](https://open.spotify.com/episode/3iTTW3moIDcERkPZqCSUIl) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 52:02 | 2024-12-09 |  |
 | [I Tried To Summarize Every NBA Team In 45 Minutes](https://open.spotify.com/episode/1VcPEF8oJoPO7oNzHHHXor) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 49:00 | 2024-10-03 |  |
 | [I'm Single\. Again.](https://open.spotify.com/episode/7BHn9T7O3W62Lsi5HLob9r) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:08:11 | 2024-10-03 |  |
 | [Love Is Blind SZN 7 FT\. Garrick Bernard](https://open.spotify.com/episode/7a8Kx5gvf0xNq1uRKLq4m8) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 1:13:02 | 2024-11-13 |  |
@@ -33,8 +36,10 @@
 | [Nepo Babies: Right or Wrong? ](https://open.spotify.com/episode/3ABKivR25DeLsDI6Ruv96Y) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 50:54 | 2024-10-03 |  |
 | [Networking as an Introvert.](https://open.spotify.com/episode/2A4qXznNALKVNONM5mSiUV) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:13:09 | 2024-10-03 |  |
 | [Ranking The 25 Best NBA Players Under 25 Years Old](https://open.spotify.com/episode/7wjPh9sATTgDCEtRhG6uBp) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 54:39 | 2024-10-03 |  |
+| [Situationships ft\. Average Fashion Blogger \(Courtney Parchman!!\)](https://open.spotify.com/episode/2IXAw0vsAMZq86KPU75KI7) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 46:40 | 2024-12-09 |  |
 | [Stay at Home Moms: Right or Wrong? ](https://open.spotify.com/episode/4z7GDCimO1aNQKmGVDiIbo) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 45:03 | 2024-10-03 |  |
 | [The \*truth\* behind my layoff](https://open.spotify.com/episode/5dx0lZpyakzdrmSzUKJEkP) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 58:44 | 2024-10-03 |  |
+| [This is the last episode](https://open.spotify.com/episode/5S1vj9DxAcilZKw0hbzkzu) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:22:02 | 2024-12-09 |  |
 | [Tipping Culture: Right or Wrong?](https://open.spotify.com/episode/1yTCmcyV3dZlF8L68YuVsT) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 40:55 | 2024-10-03 |  |
 | [White Lies Ft\. Caleb Hearon: Right or Wrong?](https://open.spotify.com/episode/1Y9Ncz9bQTJRaVdrZkoxfi) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 44:22 | 2024-10-03 |  |
 

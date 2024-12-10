@@ -1,6 +1,6 @@
 {
   "description": "The future hits of today. \nCover: FirstKlaz",
-  "num_followers": 78437,
+  "num_followers": 78462,
   "original_name": "Bubblin'",
   "owner": {
     "name": "Spotify",
@@ -135,7 +135,7 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+        "name": "Laba Laba (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE"
       },
       "artists": [
@@ -144,16 +144,16 @@
           "url": "https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
           "name": "DJ Latitude",
           "url": "https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
       "duration_ms": 204444,
-      "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+      "name": "Laba Laba (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2"
     },
     {

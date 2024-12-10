@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 131210,
+  "num_followers": 131263,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 251293,
       "name": "Doin' it Right (feat. Panda Bear)",
       "url": "https://open.spotify.com/track/36c4JohayB9qd64eidQMBi"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
+        "name": "In Vitro - Volume One",
+        "url": "https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40"
+      },
+      "artists": [
+        {
+          "name": "Claro Intelecto",
+          "url": "https://open.spotify.com/artist/47YmGWaq0LIbK64RWleEEh"
+        }
+      ],
+      "duration_ms": 372924,
+      "name": "Peace of Mind (Electrosoul)",
+      "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3l5ahNH1dS4casarZMH3GR"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 212586,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
-        "name": "In Vitro - Volume One",
-        "url": "https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40"
-      },
-      "artists": [
-        {
-          "name": "Claro Intelecto",
-          "url": "https://open.spotify.com/artist/47YmGWaq0LIbK64RWleEEh"
-        }
-      ],
-      "duration_ms": 372924,
-      "name": "Peace of Mind (Electrosoul)",
-      "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
     },
     {
       "added_at": "2024-07-10 08:31:19",

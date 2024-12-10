@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Cover: Tiscore, 89ers",
+  "description": "The biggest Dance hits and the ones to come. Cover: Gabry Ponte ",
   "name": "Main Stage",
   "tracks": [
     {
@@ -876,7 +876,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 161600,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4rw616UMBTUoEPOxBTvu8U"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 160874,
       "name": "Butzemann",
       "url": "https://open.spotify.com/track/02f3D5d3XZw3icIBVvgYb6"
@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Cornfield Chase",
+        "url": "https://open.spotify.com/album/0PHJCZoDz7ik1bzrOnTEWi"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/2RqVeoxgtf7KdpDSz7hn45"
+    },
+    {
+      "album": {
         "name": "Count to 10",
         "url": "https://open.spotify.com/album/23eMDbvr2YtYqMuxiQrA9E"
       },
@@ -2714,6 +2732,28 @@
       "duration_ms": 141596,
       "name": "Count to 10",
       "url": "https://open.spotify.com/track/6EKnLmVxgp2iSrRT8YPYPU"
+    },
+    {
+      "album": {
+        "name": "COUTURE",
+        "url": "https://open.spotify.com/album/5cVCSRpK6jN4WRn8XD0vtF"
+      },
+      "artists": [
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        },
+        {
+          "name": "Lili Pistorius",
+          "url": "https://open.spotify.com/artist/4oKt0SXvXeiNnlvbugRzWY"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127960,
+      "name": "COUTURE",
+      "url": "https://open.spotify.com/track/47Uku01FqdlEtUi5WjCH95"
     },
     {
       "album": {
@@ -3392,7 +3432,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 163764,
       "name": "Die Eine",
       "url": "https://open.spotify.com/track/4ushe0EJJOOFveRbXF48RZ"
@@ -4072,7 +4112,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 221607,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/6JjSReyiX0pm6PkdqjP8nB"
@@ -4420,7 +4460,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 203307,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
@@ -4912,7 +4952,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
@@ -5205,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
       },
@@ -5386,7 +5444,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 285472,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
@@ -7051,6 +7109,28 @@
     },
     {
       "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
+    },
+    {
+      "album": {
         "name": "Jack (One More Round)",
         "url": "https://open.spotify.com/album/3HooEXc4g2o0ZEvGnBU0b6"
       },
@@ -7316,7 +7396,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 162359,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3P0cwc2OPm7UUkXw9OyCA2"
@@ -8648,7 +8728,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 168800,
       "name": "Meet Her At The Love Parade",
       "url": "https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT"
@@ -9895,6 +9975,28 @@
     },
     {
       "album": {
+        "name": "Nur Der Rave",
+        "url": "https://open.spotify.com/album/4vZQCO4FhS9d96dWfGDQFm"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "MYT",
+          "url": "https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152300,
+      "name": "Nur Der Rave",
+      "url": "https://open.spotify.com/track/6IX5t9kJOG9eYRMrKHyLi2"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/1W4Ubpu9smoA6FK1AjM5Ui"
       },
@@ -10460,7 +10562,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 137592,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/3o56QtQiW1m2Uaeri2XzJj"
@@ -11767,6 +11869,28 @@
     },
     {
       "album": {
+        "name": "Said & Done",
+        "url": "https://open.spotify.com/album/7bL9G7NoaOBxNSxKVOtUjq"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Said & Done",
+      "url": "https://open.spotify.com/track/2RyHGy4fZLSaKm6K0jQFOm"
+    },
+    {
+      "album": {
         "name": "Sailor's Melody",
         "url": "https://open.spotify.com/album/4tOpYbxSSHryjfh2q39kvG"
       },
@@ -12139,6 +12263,24 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ"
+      },
+      "artists": [
+        {
+          "name": "Sacha Harland",
+          "url": "https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144081,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "album": {
         "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
@@ -12166,6 +12308,28 @@
       "duration_ms": 135706,
       "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "album": {
+        "name": "Shimmy Shake (That Booty)",
+        "url": "https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "740 Boyz",
+          "url": "https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117525,
+      "name": "Shimmy Shake (That Booty)",
+      "url": "https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES"
     },
     {
       "album": {
@@ -13190,6 +13354,24 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "album": {
+        "name": "Tell Me How You Feel",
+        "url": "https://open.spotify.com/album/0dnwR9OacvH4oqudahvvWn"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Tell Me How You Feel",
+      "url": "https://open.spotify.com/track/67Fd5ebP2WxWnYPcvlQAKN"
     },
     {
       "album": {
@@ -14538,6 +14720,28 @@
       "duration_ms": 175960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
+    },
+    {
+      "album": {
+        "name": "We Are The People (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "We Are The People - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP"
     },
     {
       "album": {

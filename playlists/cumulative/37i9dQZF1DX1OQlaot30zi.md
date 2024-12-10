@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Geolier, Rondo, Nitro e tanti altri! 🔥
 
-4,591 songs - 8 day 13 hr 45 min
+4,592 songs - 8 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2488,7 +2488,7 @@
 | [MASHALLAH](https://open.spotify.com/track/22WYQTGU6FSlvoUqnS5bjF) | [Grelmos](https://open.spotify.com/artist/1u50IuLSHEITB0XFdcMUyY) | [MASHALLAH](https://open.spotify.com/album/1TdFiqQSBhSjZ7f04YA8Nb) | 2:26 | 2023-04-27 | 2023-05-19 |
 | [Masi](https://open.spotify.com/track/5rzY7Fhp6GRHRETLKQ2DIr) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Masi](https://open.spotify.com/album/6Cfy80YmIGJBbeusQUeMKo) | 2:38 | 2022-05-26 | 2022-06-03 |
 | [Masri \(feat\. ZiYou\)](https://open.spotify.com/track/1hfd9La1uFtxQAY9OzDVBL) | [Vnubi](https://open.spotify.com/artist/1Q9xOa8YwVuNBwkR2HFii8), [Nesti](https://open.spotify.com/artist/7fUBZgfNvdE2zssOFOZHsj), [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [Masri \(feat\. ZiYou\)](https://open.spotify.com/album/39qXLgjvzRDEKdSDFW2hFX) | 2:37 | 2023-11-17 | 2023-12-01 |
-| [MASSA](https://open.spotify.com/track/3gQqUQwoF9t1TpCFNNSgx2) | [Rosolo Roso](https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg), [G Coal](https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces) | [MASSA](https://open.spotify.com/album/574d5MW5hAaDc3D05LLTfa) | 1:55 | 2024-11-14 |  |
+| [MASSA](https://open.spotify.com/track/3gQqUQwoF9t1TpCFNNSgx2) | [Rosolo Roso](https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg), [G Coal](https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces) | [MASSA](https://open.spotify.com/album/574d5MW5hAaDc3D05LLTfa) | 1:55 | 2024-11-14 | 2024-12-10 |
 | [Massafghanistan](https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf) | 2:32 | 2023-06-15 | 2023-07-14 |
 | [Masta Killa](https://open.spotify.com/track/3ZIBQoGf31owNscGaavwnn) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [RollzRois](https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR), [Gionni Gioielli](https://open.spotify.com/artist/3mYX7vBPyawVDzf3ORen1z), [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH) | [The Greaters](https://open.spotify.com/album/5wzvLDiCVHiruXeU1ywLyP) | 3:46 | 2023-08-31 | 2023-09-15 |
 | [Masterplan](https://open.spotify.com/track/08YQQrs9QO4CYeAUIoytyi) | [Skinny Raise](https://open.spotify.com/artist/5fZpAjsKrfxMKeaNp8sBw1), [Engeezo](https://open.spotify.com/artist/37Dc9bTVhOPVXpzpfBVrfY), [Don Rizzo](https://open.spotify.com/artist/7Ihs4PufllG9LQekV9QCmo), [Dee Jay Park](https://open.spotify.com/artist/3dJIHjJFoNkWyPUfdqOpel) | [Masterplan](https://open.spotify.com/album/5jlJPGMVsI8jV98uZk4cEH) | 3:15 | 2022-10-13 | 2022-10-21 |
@@ -3205,6 +3205,7 @@
 | [Pezzi Che Cadono \(feat\. Tony Boy\)](https://open.spotify.com/track/3ck23O4wJjSdl1q7WpFWmk) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:28 | 2024-04-18 | 2024-05-24 |
 | [PEZZI DA 10](https://open.spotify.com/track/37StlBIFP0Qw5YOmADCEmP) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [PEZZI DA 10](https://open.spotify.com/album/7LJTpClYzAd1MHKP25qq7f) | 2:01 | 2022-06-16 | 2022-07-01 |
 | [PEZZI DA 100](https://open.spotify.com/track/3vjzGdgsChCiOPoliSxwpV) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [PEZZI DA 100](https://open.spotify.com/album/3Kb3D6Hibc8SFqIuVGeJRq) | 2:14 | 2023-01-26 | 2023-02-24 |
+| [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-09 |  |
 | [PEZZI DOPO PEZZI](https://open.spotify.com/track/5rZoinby6z1Aa2Oz87oxWI) | [Violla](https://open.spotify.com/artist/2jzgsKSfsLmr7t3gNy2Sck), [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur) | [PEZZI DOPO PEZZI](https://open.spotify.com/album/7KwMazLVogQ0isVelXY9vx) | 2:46 | 2024-08-01 | 2024-09-20 |
 | [Pezzo di Terra](https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [Pezzo di Terra](https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu) | 2:34 | 2023-12-01 | 2023-12-22 |
 | [PEZZO LATINO](https://open.spotify.com/track/09iBQQfyvuPgFvE6lUC4eO) | [ALE](https://open.spotify.com/artist/7svBLRa8JtDnUuY3B6GGGj) | [PEZZO LATINO](https://open.spotify.com/album/3DSYxccHjsZcMoXZSnXhLI) | 2:47 | 2022-06-23 | 2022-07-01 |

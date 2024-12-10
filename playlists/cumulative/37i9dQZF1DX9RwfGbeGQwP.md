@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,500 songs - 2 day 8 hr 27 min
+1,501 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [Dusty Conscience](https://open.spotify.com/track/3FXTtPNNAXOgUiOtkSfAdW) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Next Year in Rio](https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0) | 2:26 | 2022-01-27 | 2022-06-10 |
 | [Earth](https://open.spotify.com/track/6NyXnrxqnsbJYqe64YUGt7) | [Little Green Dot](https://open.spotify.com/artist/0Tuzcf3XyorC725ZtcQRoK) | [Glo\-Fi](https://open.spotify.com/album/17vTmYvfvLzHGHEaAFsvkC) | 3:13 | 2022-01-27 | 2022-10-15 |
 | [easy concept](https://open.spotify.com/track/2E7ASr0d58hNmCyaFAtree) | [ikonum](https://open.spotify.com/artist/3a01t2hhZUSOBDPSagl8T5) | [lush life](https://open.spotify.com/album/3buZGjT6wTO9689UwkFmFC) | 1:55 | 2022-01-27 | 2022-09-30 |
+| [Echoes Of The Forest](https://open.spotify.com/track/2DzEO3SgDFGRBDjskmw5ZT) | [YorBeatz](https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR) | [Echoes of the Forest](https://open.spotify.com/album/2DoYNCWGY3fx9q75O1lB5w) | 2:43 | 2024-12-06 |  |
 | [Effortless](https://open.spotify.com/track/2uECuFneO3YfJjEv3kz68w) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Effortless](https://open.spotify.com/album/1ZK2ZibOj6CggnPP2arjLx) | 2:35 | 2022-05-13 | 2022-11-26 |
 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 | 2023-11-17 |  |
 | [El Puerto](https://open.spotify.com/track/7BHfkCu0u6HbbDRtF2M4df) | [Nelly Lang](https://open.spotify.com/artist/3yH3UFanIqAoYmtq7uFW4w) | [El Puerto](https://open.spotify.com/album/191zsQ0jLQ3wu4Ne2AcKHM) | 1:51 | 2022-06-17 |  |
@@ -1218,7 +1219,7 @@
 | [starry night](https://open.spotify.com/track/4CvWJJdqIkE03l4P6PcXLc) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [Honeycrisp](https://open.spotify.com/album/25exJu8A2PIVrDg2kXRwov) | 1:41 | 2022-07-01 | 2022-12-10 |
 | [starwish](https://open.spotify.com/track/0DRManbKs2yPnpLuuvfcZn) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [starwish](https://open.spotify.com/album/29kjxua5Rhr7rQ2iVxpPm5) | 2:01 | 2022-09-30 | 2024-05-18 |
 | [Steady](https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Steady](https://open.spotify.com/album/6mNT3HUDIwel5R9r4H8DEc) | 2:20 | 2023-01-13 | 2024-10-16 |
-| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 |  |
+| [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 | 2023-11-17 | 2024-12-10 |
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-01-27 | 2022-10-29 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-09-02 | 2024-05-18 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-01-27 | 2022-11-12 |

@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "That Christmas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Cv8O8qXk9otyzajoJ5G1Z"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119093,
+      "name": "Boxing Day",
+      "url": "https://open.spotify.com/track/1vEbeFed1H8kGfX1USRP0y"
+    },
+    {
+      "album": {
         "name": "Bridget Jones\u2019s Baby (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/7pI3xA0nYTiOV69T27WqCQ"
       },

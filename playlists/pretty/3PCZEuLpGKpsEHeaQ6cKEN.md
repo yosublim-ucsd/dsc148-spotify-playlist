@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Brando
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,193 likes - 141 songs - 7 hr 12 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,185 likes - 141 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:07 |
+| 1 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:08 |
 | 2 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 |
 | 3 | [I'm Going Out](https://open.spotify.com/track/3FtePlEjMR59KrxqDnNTQ6) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [I'm Going Out](https://open.spotify.com/album/6uNEGUjeTz61yt3IsXkbOH) | 2:29 |
 | 4 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 |

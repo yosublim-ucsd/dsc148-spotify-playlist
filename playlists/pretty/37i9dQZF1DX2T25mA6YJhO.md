@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Cala Vento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,189 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,217 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 70 | [Romance Extremo](https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Romance Extremo](https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5) | 2:24 |
 | 71 | [Poetas de Cristal](https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Poetas de Cristal](https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX) | 3:32 |
 | 72 | [El Campeón en tus ojos](https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j) | [Caballo Prieto Azabache](https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3) | [El Campeón en tus ojos](https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC) | 2:43 |
-| 73 | [Perdiendo el tiempo](https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Perdiendo el tiempo](https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c) | 2:46 |
+| 73 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
 | 74 | [¡Que te pares!](https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [¡Que te pares!](https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4) | 3:13 |
-| 75 | [COMERTE](https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO) | [Barder](https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY) | [COMERTE](https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz) | 2:38 |
+| 75 | [Perdiendo el tiempo](https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Perdiendo el tiempo](https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c) | 2:46 |
 | 76 | [Piropos](https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs) | [Naitinain](https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy), [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Piropos](https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE) | 2:34 |
 | 77 | [Ganas de verte](https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y) | [Pagafantas](https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV), [Lucía Moreno](https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V) | [Ganas de verte](https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM) | 2:54 |
 | 78 | [Intemperie](https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1) | [Noche](https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR), [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Intemperie](https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM) | 2:51 |
 | 79 | [Adelante](https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Adelante](https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ) | 4:00 |
 | 80 | [Entre las nubes](https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii) | [Hipergéminis](https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn) | [Entre las nubes](https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ) | 2:35 |
-| 81 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
-| 82 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
+| 81 | [Al Final](https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw) | [Muro María](https://open.spotify.com/artist/5INts4xs8Jf1Rpnkd6Zd2Y) | [Al Final](https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa) | 3:04 |
+| 82 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
 | 83 | [Rob Gordon](https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7) | [Becarios](https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU) | [Rob Gordon](https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR) | 2:03 |
 | 84 | [Sangre Azul](https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov) | [Sangre Azul](https://open.spotify.com/album/1OBsztOdnUhP3yKinajdEG) | 2:24 |
 | 85 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 |

@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Tucker Wetmore
+> Join us in fighting childhood cancer at MusicGives.org\. Cover: Tucker Wetmore
 
 2,323 songs - 5 day 5 hr 39 min
 

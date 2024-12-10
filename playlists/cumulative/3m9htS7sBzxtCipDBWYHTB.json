@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240491,
+      "name": "I'll Make Cereal",
+      "url": "https://open.spotify.com/track/7cZhrCKZRUPsDEK8PWR727"
+    },
+    {
+      "album": {
         "name": "The Jordan Lake Sessions: Volumes 3 and 4",
         "url": "https://open.spotify.com/album/2oQ3dQki5q8qGmJdM9lAxu"
       },

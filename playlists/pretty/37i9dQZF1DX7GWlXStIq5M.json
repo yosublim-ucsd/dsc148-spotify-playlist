@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hiran",
-  "num_followers": 372841,
+  "num_followers": 372836,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,42 @@
     {
       "added_at": "2024-12-06 14:27:00",
       "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/2l5bUr8qR6Az6TNLPzAYqX"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 216876,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/42khSD2cPF1lTJFw72k7A9"
+    },
+    {
+      "added_at": "2024-12-06 14:27:00",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 165034,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
+    },
+    {
+      "added_at": "2024-12-06 14:27:00",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -987,22 +1023,22 @@
     {
       "added_at": "2024-12-06 14:27:00",
       "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/2l5bUr8qR6Az6TNLPzAYqX"
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
       "artists": [
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         },
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 216876,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/42khSD2cPF1lTJFw72k7A9"
+      "duration_ms": 159999,
+      "name": "passarela",
+      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
     },
     {
       "added_at": "2024-12-06 14:27:00",
@@ -1027,38 +1063,18 @@
     {
       "added_at": "2024-12-06 14:27:00",
       "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+        "name": "Amigos nunca devem",
+        "url": "https://open.spotify.com/album/7MGFyly48Gyz77J73B7jXh"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
         }
       ],
-      "duration_ms": 159999,
-      "name": "passarela",
-      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
-    },
-    {
-      "added_at": "2024-12-06 14:27:00",
-      "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 165034,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
+      "duration_ms": 161738,
+      "name": "Amigos nunca devem",
+      "url": "https://open.spotify.com/track/2KNK4cM9bF5aGN1sYiQLPQ"
     },
     {
       "added_at": "2024-12-06 14:27:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-12-06 14:27:00",
       "album": {
-        "name": "Sad Baile",
-        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 170614,
-      "name": "Sad Baile",
-      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
-    },
-    {
-      "added_at": "2024-12-06 14:27:00",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-12-06 14:27:00",
       "album": {
+        "name": "Sad Baile",
+        "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        }
+      ],
+      "duration_ms": 170614,
+      "name": "Sad Baile",
+      "url": "https://open.spotify.com/track/2ef1I6bGG8K0AHQaqGKiVA"
+    },
+    {
+      "added_at": "2024-12-06 14:27:00",
+      "album": {
         "name": "Deixe-me Ir",
         "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 219534,
       "name": "Deixe-me Ir",
       "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
-    },
-    {
-      "added_at": "2024-12-06 14:27:00",
-      "album": {
-        "name": "Amigos nunca devem",
-        "url": "https://open.spotify.com/album/7MGFyly48Gyz77J73B7jXh"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 161738,
-      "name": "Amigos nunca devem",
-      "url": "https://open.spotify.com/track/2KNK4cM9bF5aGN1sYiQLPQ"
     },
     {
       "added_at": "2024-12-06 14:27:00",

@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: The Great(\ub354 \uadf8\ub808\uc774\ud2b8)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 92781,
+  "num_followers": 92796,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
-        "url": "https://open.spotify.com/album/1GtpQlCKGVslJZAqNQKvNf"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 238920,
-      "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
-      "url": "https://open.spotify.com/track/63moAzI1vHyDIhYmpF3FIy"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Why isn't love always easy? (Romance 101 X JOY)",
         "url": "https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221040,
       "name": "Why isn't love always easy? (Romance 101 X JOY)",
       "url": "https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
+        "url": "https://open.spotify.com/album/1GtpQlCKGVslJZAqNQKvNf"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 238920,
+      "name": "Thirtieth Midnight (Romance 101 X YOUNHA)",
+      "url": "https://open.spotify.com/track/63moAzI1vHyDIhYmpF3FIy"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Sweet Love (She is My Type\u2661 X Crush)",
-        "url": "https://open.spotify.com/album/67ePLSZ390IdSZcQnY7Gm2"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Sweet Love (She is My Type\u2661 X Crush)",
-      "url": "https://open.spotify.com/track/6pdQ3ZOlqKj6j2Kh0FptOD"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Never Loved This Way Before (From \u201cOdd Girl Out\u201d [Original Soundtrack])",
         "url": "https://open.spotify.com/album/5LfgBPnKXHErPlbLBdQyvG"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259346,
       "name": "Never Loved This Way Before",
       "url": "https://open.spotify.com/track/0WbOmRgxeIScXc0H50zjIx"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Sweet Love (She is My Type\u2661 X Crush)",
+        "url": "https://open.spotify.com/album/67ePLSZ390IdSZcQnY7Gm2"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Sweet Love (She is My Type\u2661 X Crush)",
+      "url": "https://open.spotify.com/track/6pdQ3ZOlqKj6j2Kh0FptOD"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "With You (No Office Romance! X Young K (DAY6)) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv"
+        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         }
       ],
-      "duration_ms": 237253,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv"
+      "duration_ms": 187306,
+      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
+      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -755,22 +771,6 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-        "url": "https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz"
-      },
-      "artists": [
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Plum Blossom (Webtoon 'Return of The Blossoming Blade', Pt. 3)",
-      "url": "https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Lee Doona Project Part 2",
-        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
-      },
-      "artists": [
-        {
-          "name": "Lee Doona",
-          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Something I want to tell you only.",
-      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "The Extra (One of a Kind Romance)",
         "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 175480,
       "name": "The Extra (One of a Kind Romance)",
       "url": "https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Lee Doona Project Part 2",
+        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
+      },
+      "artists": [
+        {
+          "name": "Lee Doona",
+          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Something I want to tell you only.",
+      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Webtoon YeonNom OST Part.4",
-        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
-        }
-      ],
-      "duration_ms": 244986,
-      "name": "I'm into you, I mean Love you",
-      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 201645,
       "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
       "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Webtoon YeonNom OST Part.4",
+        "url": "https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "I'm into you, I mean Love you",
+      "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Warm Black Tea (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
-      },
-      "artists": [
-        {
-          "name": "THE NEW SIX",
-          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
-      "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Only you (Romance 101 X Yang Yo Seop)",
         "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "Warm Black Tea (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4qbWHHolrtV3k5UUhvPOGc"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Beautiful world (Warm Black Tea Original Soundtrack)",
+      "url": "https://open.spotify.com/track/14iSjtKMGWN8lGsaOgBZwm"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
         "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
       },
@@ -1211,26 +1211,6 @@
       "duration_ms": 207560,
       "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
       "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
-        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "An da eun",
-          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Spring Is Come By Chance",
-      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "Spring Is Come By Chance (Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun)",
+        "url": "https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "An da eun",
+          "url": "https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Spring Is Come By Chance",
+      "url": "https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "A Beautiful Farewell - I am Re:Born #1",
         "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 250211,
       "name": "A Beautiful Farewell",
       "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "Naver Webtoon Nano Machine OST Part. 1",
-        "url": "https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2"
-      },
-      "artists": [
-        {
-          "name": "YOARI",
-          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "Moonlit Nights",
-      "url": "https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 230853,
       "name": "Love Diary (Back to You X Lee MinHyuk)",
       "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Naver Webtoon Nano Machine OST Part. 1",
+        "url": "https://open.spotify.com/album/5qqWPVuJ70t82SMsADUdW2"
+      },
+      "artists": [
+        {
+          "name": "YOARI",
+          "url": "https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Moonlit Nights",
+      "url": "https://open.spotify.com/track/0qOCfz4ZOaZcEyLsO9igVm"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
+        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
+      },
+      "artists": [
+        {
+          "name": "Oisobagi",
+          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "I Like You, But Got Tired of Liking You",
+      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
         "name": "Just stay with me (Feat. Swan) (Webtoon 'Marriage Or Death' X San E)",
         "url": "https://open.spotify.com/album/7yoZ8HEjrawNnnLoHSNekd"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
+        "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
       },
       "artists": [
         {
-          "name": "Oisobagi",
-          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
+          "name": "Kim Kyung Rok",
+          "url": "https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb"
         }
       ],
-      "duration_ms": 256314,
-      "name": "I Like You, But Got Tired of Liking You",
-      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
+      "duration_ms": 231426,
+      "name": "Sand Castle",
+      "url": "https://open.spotify.com/track/3onn360zmsghT2igHXp4qt"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Love Revolution (Lee Kyung-woo Theme) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe"
+        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
       },
       "artists": [
         {
-          "name": "Kim Kyung Rok",
-          "url": "https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 231426,
-      "name": "Sand Castle",
-      "url": "https://open.spotify.com/track/3onn360zmsghT2igHXp4qt"
+      "duration_ms": 185533,
+      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
+      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-        "url": "https://open.spotify.com/album/6PHhUSO7Zm0sXfnEvKuAAU"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Dear You (She is My Type\u2661 X Standing Egg)",
-      "url": "https://open.spotify.com/track/1ZS9bG6yv6Bu6TVzHUUCv4"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "An Old Love Story (2021) (Romance 101 X KCM)",
         "url": "https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 266829,
       "name": "An Old Love Story (2021) (Romance 101 X KCM)",
       "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Remember my love (Bunny and Guys X Solji)",
-        "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
-      },
-      "artists": [
-        {
-          "name": "Solji",
-          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Remember my love (Bunny and Guys X Solji)",
-      "url": "https://open.spotify.com/track/4oBgJxXgZjd9b46yt6sCEO"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
         "url": "https://open.spotify.com/album/4ycFxbIJKkWZYf0KDs2TYT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 240640,
       "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
       "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Remember my love (Bunny and Guys X Solji)",
+        "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Remember my love (Bunny and Guys X Solji)",
+      "url": "https://open.spotify.com/track/4oBgJxXgZjd9b46yt6sCEO"
     },
     {
       "added_at": "2024-11-12 09:00:00",

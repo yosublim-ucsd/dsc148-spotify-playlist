@@ -343,6 +343,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Scarpe",
+        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
+      },
+      "artists": [
+        {
+          "name": "SANTACHIARA",
+          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Scarpe",
+      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "senza parole",
         "url": "https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 161785,
       "name": "senza parole",
       "url": "https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Scarpe",
-        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
-      },
-      "artists": [
-        {
-          "name": "SANTACHIARA",
-          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Scarpe",
-      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Il contrario",
-        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
-      },
-      "artists": [
-        {
-          "name": "Anna Carol",
-          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Il contrario",
-      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "bimbapazza",
         "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 170880,
       "name": "sconosciuti",
       "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Il contrario",
+        "url": "https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq"
+      },
+      "artists": [
+        {
+          "name": "Anna Carol",
+          "url": "https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Il contrario",
+      "url": "https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Piccolo Tornado",
-        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Toscano",
-          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Piccolo Tornado",
-      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "TUFFO",
         "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Piccolo Tornado",
+        "url": "https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Toscano",
+          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Piccolo Tornado",
+      "url": "https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Campari",
         "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 161500,
       "name": "Campari",
       "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "i miei fiumi",
+        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "i miei fiumi",
+      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -647,18 +663,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "i miei fiumi",
-        "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
+        "name": "Pasquale (guarda i cantieri)",
+        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
       "artists": [
         {
-          "name": "Adelasia",
-          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+          "name": "Primogenito",
+          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
         }
       ],
-      "duration_ms": 184534,
-      "name": "i miei fiumi",
-      "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+      "duration_ms": 154200,
+      "name": "Pasquale (guarda i cantieri)",
+      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -675,22 +691,6 @@
       "duration_ms": 156857,
       "name": "Un'ora di sole",
       "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Pasquale (guarda i cantieri)",
-        "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
-      },
-      "artists": [
-        {
-          "name": "Primogenito",
-          "url": "https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Pasquale (guarda i cantieri)",
-      "url": "https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Ondeggiando",
         "url": "https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 154046,
       "name": "Ondeggiando",
       "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -935,6 +935,38 @@
       "duration_ms": 179384,
       "name": "Un Titolo Migliore",
       "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "La Storia Della Nostra Vita",
+        "url": "https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp"
+      },
+      "artists": [
+        {
+          "name": "Spacehippiez",
+          "url": "https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh"
+        }
+      ],
+      "duration_ms": 166868,
+      "name": "La Storia Della Nostra Vita",
+      "url": "https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "anna se la sente ancora",
+        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
+      },
+      "artists": [
+        {
+          "name": "UmbertoC\u00ec.",
+          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
+        }
+      ],
+      "duration_ms": 180334,
+      "name": "anna se la sente ancora",
+      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -987,22 +1019,6 @@
       "duration_ms": 158239,
       "name": "brivido",
       "url": "https://open.spotify.com/track/7ogFh2buoHssnAQ3q52aYg"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "anna se la sente ancora",
-        "url": "https://open.spotify.com/album/5b7Hqnr6lTD7ysog0V1ydq"
-      },
-      "artists": [
-        {
-          "name": "UmbertoC\u00ec.",
-          "url": "https://open.spotify.com/artist/06rvZEui77RILgRsHtze9I"
-        }
-      ],
-      "duration_ms": 180334,
-      "name": "anna se la sente ancora",
-      "url": "https://open.spotify.com/track/55pIIycoz95xFDf9aSAeEK"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 169747,
       "name": "Farci la guerra",
       "url": "https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Se non passasse aria",
-        "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
-      },
-      "artists": [
-        {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
-        }
-      ],
-      "duration_ms": 202793,
-      "name": "Se non passasse aria",
-      "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
     }
   ],
   "unique_name": "Scuola Indie",

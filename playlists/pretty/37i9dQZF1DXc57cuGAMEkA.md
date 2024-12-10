@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ROSÉ, ONE OK ROCK, Ado, Khalid, and more! cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,455 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,457 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 50 | [How Long](https://open.spotify.com/track/3tXrir3yIIl4si3OqZv6KA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [How Long](https://open.spotify.com/album/4biEI0rFdj9ZCUpIWKQQ9Q) | 2:58 |
 | 51 | [Stealing Out The Trap](https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi) | 3:46 |
 | 52 | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y) | 3:20 |
-| 53 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 53 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 54 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 |
 | 55 | [To The Moon \(feat\. André 3000\)](https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [To The Moon](https://open.spotify.com/album/4MmutoIv3fuQNKRBDoKjK0) | 7:46 |
 | 56 | [Sorrowful Rhodes](https://open.spotify.com/track/1IlfiJbfFXTpPeAIYP90XU) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Sorrow](https://open.spotify.com/album/0UyiCjA9y7TGW2VxBqFkPB) | 6:01 |

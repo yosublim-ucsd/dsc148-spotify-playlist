@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Provinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,370 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,386 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 65 | [Do You Feel This Way?](https://open.spotify.com/track/0x2n6LKPEogsW5EJUliWDi) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Do You Feel This Way?](https://open.spotify.com/album/78ayuXHTpSzTX1iBkIHuxT) | 2:29 |
 | 66 | [Bigger One](https://open.spotify.com/track/6qdwVzuulzd5WeI5FRcn7d) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [BITTER](https://open.spotify.com/album/4jN3Q7y7K6D05COT1ta86z) | 1:57 |
 | 67 | [HEARTLESS GROOVE](https://open.spotify.com/track/2Jdqq6NYQyFbmcB1HuVsHB) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [SOMETIMES I WONDER](https://open.spotify.com/album/2s4PysCbGXDMHdoS2dl3aD) | 4:59 |
-| 68 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 68 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 69 | [Weiter Als Der Himmel](https://open.spotify.com/track/1g5p9aVj1kEp0ZoB8unPjQ) | [VALENTIN](https://open.spotify.com/artist/4S0lBY3WbWoZoDtVbKtxBF), [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Le Rubrique](https://open.spotify.com/artist/1OTqGpGQZ4922Oomm7EAEv), [Wir sind Kinder](https://open.spotify.com/artist/47PbNZFKRWqKqpYo7eNCw7) | [Weiter Als Der Himmel](https://open.spotify.com/album/6cNmK5YghCZ1CCthliKW9X) | 4:06 |
 | 70 | [Singing For The Pharaoh](https://open.spotify.com/track/5h6eVfOnND7xsmzBEFK8Ne) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [Singing For The Pharaoh](https://open.spotify.com/album/0SRG9EtxPNfXxPUnbmeYPV) | 3:49 |
 | 71 | [Focus Ring](https://open.spotify.com/track/0iEAcbaxs4v3HHnAWFoswA) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Focus Ring](https://open.spotify.com/album/1tQNXI0HKvZRNIGCwsY11u) | 2:27 |

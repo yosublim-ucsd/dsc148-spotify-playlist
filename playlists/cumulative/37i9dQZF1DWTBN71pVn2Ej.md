@@ -2,7 +2,7 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with AIRTIGHT \(pictured\), Split Chain, Footballhead, Ivory Daze and more.
+> The shape of noise to come with MERCURY \(pictured\), TNL VZN, Footballhead, Flycatcher and more.
 
 751 songs - 1 day 18 hr 52 min
 

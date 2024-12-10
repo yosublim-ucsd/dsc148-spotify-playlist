@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 ### [Hardstyle Adrenaline! 2024](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Updated weekly \| Hardstyle \| Cover: Unsenses
+> Updated weekly \| Hardstyle \| Cover: Radical Redemption, Dimitri K & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,060 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,103 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Global Revolution \- Hard Destiny Remix](https://open.spotify.com/track/2GXXFU0YOSKU4xWLVUxi5Q) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Hard Destiny](https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR) | [Global Revolution \(Hard Destiny Remix\)](https://open.spotify.com/album/6LKcolPM3bBXgJj4mqpC1v) | 2:31 |
 | 100 | [My Beautiful Fantasy \(Kronos Remix\)](https://open.spotify.com/track/2F3dGroX2eQehPdb8qoM10) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [My Beautiful Fantasy \(Kronos Remix\)](https://open.spotify.com/album/7ujAlt20GGG7lZM8rzGYd9) | 3:27 |
 
-Snapshot ID: `Z1LK9gAAAACPiFzV0bxozWd2u4d+fHF+`
+Snapshot ID: `Z1bHsgAAAACZCOP5JjusVye4DhJd1/yN`

@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 186521,
+  "num_followers": 186587,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Sick'em",
-        "url": "https://open.spotify.com/album/39vMdABPceCzciL1mlolsg"
-      },
-      "artists": [
-        {
-          "name": "7 Year Bitch",
-          "url": "https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Dead Men Don't Rape",
-      "url": "https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Call the Doctor (Remastered)",
         "url": "https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 156986,
       "name": "I Wanna Be Your Joey Ramone",
       "url": "https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Sick'em",
+        "url": "https://open.spotify.com/album/39vMdABPceCzciL1mlolsg"
+      },
+      "artists": [
+        {
+          "name": "7 Year Bitch",
+          "url": "https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Dead Men Don't Rape",
+      "url": "https://open.spotify.com/track/4iGxxqZaZ2Z0YFiXgd8n8O"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Frenching the Bully",
-        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
+        "name": "Dry",
+        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
       },
       "artists": [
         {
-          "name": "The Gits",
-          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 177960,
-      "name": "Second Skin",
-      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
+      "duration_ms": 198200,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Dry",
-        "url": "https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo"
+        "name": "Desperate, Scared, but Social",
+        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Emily's Sassy Lime",
+          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
         }
       ],
-      "duration_ms": 198200,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
+      "duration_ms": 111266,
+      "name": "Mr. Moneybag$",
+      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Desperate, Scared, but Social",
-        "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
+        "name": "Frenching the Bully",
+        "url": "https://open.spotify.com/album/0x27NVxUSjXYF4oHDDlboO"
       },
       "artists": [
         {
-          "name": "Emily's Sassy Lime",
-          "url": "https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe"
+          "name": "The Gits",
+          "url": "https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m"
         }
       ],
-      "duration_ms": 111266,
-      "name": "Mr. Moneybag$",
-      "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+      "duration_ms": 177960,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/6pfQbtWvs7PtSBDGxLEyGB"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "The Clutch",
-        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
-      },
-      "artists": [
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 190091,
-      "name": "The Clutch",
-      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Such Friends Are Dangerous",
         "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 188226,
       "name": "Watchmaker",
       "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "The Clutch",
+        "url": "https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 190091,
+      "name": "The Clutch",
+      "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
       "added_at": "2024-10-07 20:36:39",

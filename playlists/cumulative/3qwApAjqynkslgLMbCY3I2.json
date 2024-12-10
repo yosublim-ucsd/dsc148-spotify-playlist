@@ -167,6 +167,28 @@
     },
     {
       "album": {
+        "name": "Havana (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/5chBPOVY2I0bG5V3igb5QL"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216896,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb"
+    },
+    {
+      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },

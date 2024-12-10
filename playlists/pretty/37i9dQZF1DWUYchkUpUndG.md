@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=TKXoI9YCQWOWO598u3NCWA>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,816 likes - 94 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,830 likes - 94 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 6 | [King Of Glory \- Remix](https://open.spotify.com/track/0Ql5f3zAUFKARSvD3ycge0) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [King Of Glory](https://open.spotify.com/album/7qKoP26vIeLv1Ebb4TahGd) | 3:39 |
 | 7 | [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 |
 | 8 | [Ikem](https://open.spotify.com/track/6wmXdauRkQP75Hev0re6Ka) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Ikem x Holy](https://open.spotify.com/album/5xEPon8RueonRcOMbzqWlp) | 2:54 |
-| 9 | [We Were Foreigners](https://open.spotify.com/track/5f1uULOMQtScfM8ez5WRBn) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [We Were Foreigners](https://open.spotify.com/album/54X3NnwNsQHHwDMytuj8JL) | 4:38 |
+| 9 | [We Were Foreigners](https://open.spotify.com/track/5f1uULOMQtScfM8ez5WRBn) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [We Were Foreigners](https://open.spotify.com/album/54X3NnwNsQHHwDMytuj8JL) | 4:38 |
 | 10 | [EZE](https://open.spotify.com/track/7vPZqtEfsbyW8h2gwWejRo) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [EZE](https://open.spotify.com/album/35YRnzMNmf4n6ssfblYmAT) | 2:37 |
 | 11 | [God Is Helping Me](https://open.spotify.com/track/6vD6qQCQGnsQ7Zu4MgQ8mc) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [God Is Helping Me](https://open.spotify.com/album/6GiRAq6f96not1HXR2Ou85) | 5:24 |
 | 12 | [Everyday](https://open.spotify.com/track/6eWgZYqH8JiaXKiaJnx7UN) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Favblings](https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI) | [Everyday](https://open.spotify.com/album/5oLRRUvdXhZCmyXNCPWXTq) | 2:44 |

@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 241666,
       "name": "Bahon Mein Chale Aao",
       "url": "https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 272066,
       "name": "Bahon Mein Chale Aao - With Dialogues",
       "url": "https://open.spotify.com/track/1USgQR8R6W4rRtSZYrSyS1"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 261933,
       "name": "Baiyan Na Dharo",
       "url": "https://open.spotify.com/track/08V6xwUrInGvvhdHk4967W"
@@ -1224,6 +1224,24 @@
       "duration_ms": 216373,
       "name": "Duniya Men Hum Aaye Hain (From \"Mother India\")",
       "url": "https://open.spotify.com/track/4Xgc3rkvIbbG7cyH8o7N6S"
+    },
+    {
+      "album": {
+        "name": "Junglee",
+        "url": "https://open.spotify.com/album/5ARwehzejEF3vZYox3gQw5"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206893,
+      "name": "Ehsan Tera Hoga Mujh Par",
+      "url": "https://open.spotify.com/track/1SMNDZ0CR4W27fCU8Remqq"
     },
     {
       "album": {

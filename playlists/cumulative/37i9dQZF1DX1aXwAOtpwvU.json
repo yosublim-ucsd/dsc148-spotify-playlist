@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:07EyVrrbqIAHNLw9FEnQUs\">Lotta</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover:  <a href=\"spotify:artist:5RwiBwEEW5dOXGUlEVA0LT\">stickxr</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
@@ -696,6 +696,24 @@
       "duration_ms": 127366,
       "name": "Daj\u0119 Ci s\u0142owo",
       "url": "https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF"
+    },
+    {
+      "album": {
+        "name": "Daleko st\u0105d",
+        "url": "https://open.spotify.com/album/6mSqRLq4Ju5SVHlNFIJQzS"
+      },
+      "artists": [
+        {
+          "name": "Dziwna Wiosna",
+          "url": "https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271725,
+      "name": "Daleko st\u0105d",
+      "url": "https://open.spotify.com/track/5V8OKHgCznsrd5eCqUdwIe"
     },
     {
       "album": {
@@ -1227,6 +1245,28 @@
     },
     {
       "album": {
+        "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/09VBO00Nq8UBvPNB07XWJS"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155244,
+      "name": "HAHA HAHA",
+      "url": "https://open.spotify.com/track/0Px8wBHDvZydtAhEPi0c1h"
+    },
+    {
+      "album": {
         "name": "HAPPY END",
         "url": "https://open.spotify.com/album/7aH5yAXPDt26R31Tee0gZE"
       },
@@ -1246,7 +1286,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 175563,
       "name": "HAPPY END",
       "url": "https://open.spotify.com/track/2wltbuo1BJPEyz8DFwxFbL"
@@ -1812,7 +1852,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 177646,
       "name": "Maria, Maria (Agora Muzyka Live Sessions)",
       "url": "https://open.spotify.com/track/6OtpTU9SgpVZbiYBEqkzLD"
@@ -2195,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "nerw",
+        "url": "https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226250,
+      "name": "nerw",
+      "url": "https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND"
+    },
+    {
+      "album": {
         "name": "Nic nie wida\u0107 po mnie",
         "url": "https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ"
       },
@@ -2246,7 +2304,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 156444,
       "name": "Nie Dzwo\u0144 Do Mnie",
       "url": "https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk"
@@ -2589,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Pali si\u0119",
+        "url": "https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140820,
+      "name": "Pali si\u0119",
+      "url": "https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC"
+    },
+    {
+      "album": {
         "name": "P\u0119tla",
         "url": "https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I"
       },
@@ -2676,7 +2752,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 269190,
       "name": "Peter Pan (Prometh Remix)",
       "url": "https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq"
@@ -3502,6 +3578,24 @@
       "duration_ms": 179647,
       "name": "Tortury",
       "url": "https://open.spotify.com/track/171JR2rZMLiIALNAKOWcSu"
+    },
+    {
+      "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106300,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv"
     },
     {
       "album": {

@@ -10882,6 +10882,28 @@
     {
       "album": {
         "name": "ICON",
+        "url": "https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "PEZZI DA 100 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k"
+    },
+    {
+      "album": {
+        "name": "ICON",
         "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
       },
       "artists": [

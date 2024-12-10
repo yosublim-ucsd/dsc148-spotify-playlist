@@ -6,8 +6,68 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAa0dN7P5xW3G+owTnPh//0WblpI5AK",
+  "snapshot_id": "AAAa1xF+r6g5PEjnry/1/UmdEpLXx6S5",
   "tracks": [
+    {
+      "added_at": "2024-12-09 19:28:00",
+      "album": {
+        "name": "Tuck Your Chain",
+        "url": "https://open.spotify.com/album/6NHj6smgIl0QMuEj0ZFY09"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 127939,
+      "name": "Tuck Your Chain",
+      "url": "https://open.spotify.com/track/7ASEXMIz2V19u6OC3So05p"
+    },
+    {
+      "added_at": "2024-12-09 19:27:54",
+      "album": {
+        "name": "Slave",
+        "url": "https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 138450,
+      "name": "Slave",
+      "url": "https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb"
+    },
+    {
+      "added_at": "2024-12-09 19:28:14",
+      "album": {
+        "name": "BBL (feat. Rob49)",
+        "url": "https://open.spotify.com/album/6WF6Fl2wDrxWIe9AGkMBbW"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "BBL (feat. Rob49)",
+      "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
+    },
     {
       "added_at": "2024-12-03 22:59:21",
       "album": {

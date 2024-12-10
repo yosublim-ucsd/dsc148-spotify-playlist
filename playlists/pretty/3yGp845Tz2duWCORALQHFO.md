@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,794 likes - 56 songs - 3 hr 5 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,791 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 28 | [Sunrise Ibiza](https://open.spotify.com/track/7HC4xYtHe2sdNItMSVLimH) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Aviell](https://open.spotify.com/artist/0kDQTSQc6kfBReNI6RZvRP), [Alternoize Dj](https://open.spotify.com/artist/274pNoffpwzfXxAY8VK2bn) | [Sunrise Ibiza](https://open.spotify.com/album/0pLbikXL7wBhG0SLBBpTNF) | 3:21 |
 | 29 | [Cornfield Chase](https://open.spotify.com/track/2RqVeoxgtf7KdpDSz7hn45) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Cornfield Chase](https://open.spotify.com/album/0PHJCZoDz7ik1bzrOnTEWi) | 2:54 |
 | 30 | [We.Are \- Markus Schulz In Search of Sunrise Remix](https://open.spotify.com/track/2gljWji20bIJ5LaagI9k7j) | [Bart Claessen](https://open.spotify.com/artist/6E5ESwox3QUQ4ewUKo9D2c), [Who.is](https://open.spotify.com/artist/1egg8tEQa2akD2Bop07rhB), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [We.Are \(Markus Schulz In Search of Sunrise Remix\)](https://open.spotify.com/album/5XFEBV8yeogui0rigmCA2Y) | 3:19 |
-| 31 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:07 |
+| 31 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:08 |
 | 32 | [Power](https://open.spotify.com/track/2Rm5DkM9BfwlXE5EGYavES) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Eternity](https://open.spotify.com/album/0xGXU9S5bgOYaTY6XSglC9) | 3:06 |
 | 33 | [Tidal](https://open.spotify.com/track/1GuzDwcXYhFBIhVWkFKDPT) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Tidal](https://open.spotify.com/album/7BjOp0EwGizivvkqcDlZU8) | 3:30 |
 | 34 | [Valerie](https://open.spotify.com/track/78IApFVx1V4KINyZnIXjoi) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Valerie](https://open.spotify.com/album/4dYCFK8K9PQSL0SZ1DSgJD) | 2:21 |

@@ -5319,6 +5319,32 @@
     },
     {
       "album": {
+        "name": "Sitara",
+        "url": "https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX"
+      },
+      "artists": [
+        {
+          "name": "Aashiq Khan",
+          "url": "https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        },
+        {
+          "name": "Denny",
+          "url": "https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186009,
+      "name": "Sitara",
+      "url": "https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs"
+    },
+    {
+      "album": {
         "name": "Siyah",
         "url": "https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3"
       },

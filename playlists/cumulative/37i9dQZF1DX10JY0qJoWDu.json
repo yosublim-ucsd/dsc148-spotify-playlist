@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Christmas Present",
+          "url": "https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "It Feels Like Christmas",
+      "url": "https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY"
+    },
+    {
+      "album": {
         "name": "A Muppets Christmas: Letters to Santa",
         "url": "https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci"
       },

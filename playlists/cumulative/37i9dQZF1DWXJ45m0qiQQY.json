@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Fantomatic",
+        "url": "https://open.spotify.com/album/0ZaMqVd0mgo5Cz3XZASqI9"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Fantomatic",
+      "url": "https://open.spotify.com/track/5PaGXKjXiSh1zqHIYk96DP"
+    },
+    {
+      "album": {
         "name": "burning exhibit",
         "url": "https://open.spotify.com/album/6yQuWTpLzk9I8BdFLTjT4O"
       },
@@ -641,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Ghosts",
+        "url": "https://open.spotify.com/album/4ggiQpmKbn1jkZIE3zFkx4"
+      },
+      "artists": [
+        {
+          "name": "Robot Age",
+          "url": "https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121406,
+      "name": "Graveyard Ghosts",
+      "url": "https://open.spotify.com/track/02tv3t77zEGWUrI7aMykDJ"
+    },
+    {
+      "album": {
         "name": "A Lofi Chill Halloween",
         "url": "https://open.spotify.com/album/6qGsZqAsyOerkRALDUlE9U"
       },
@@ -744,7 +780,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 113538,
       "name": "Haunted Party",
       "url": "https://open.spotify.com/track/2BcSlshrXASLBY9kPjDGRz"
@@ -1570,6 +1606,24 @@
       "duration_ms": 135483,
       "name": "Walpurgis Night",
       "url": "https://open.spotify.com/track/6TNWnncXL8XuSsExku48wd"
+    },
+    {
+      "album": {
+        "name": "Weeeen",
+        "url": "https://open.spotify.com/album/0s79hRyHmzaicXGg9OO4cB"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "Weeeen",
+      "url": "https://open.spotify.com/track/66lr1msBMBgaU14WMqcM9f"
     },
     {
       "album": {

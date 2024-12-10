@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-419 songs - 23 hr 2 min
+420 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 | 2023-12-23 |
 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 | 2023-02-24 | 2023-06-08 |
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
-| [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 |  |
+| [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 | 2024-12-10 |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 | 2023-03-03 | 2023-12-09 |
 | [Ninnindale](https://open.spotify.com/track/3mL8ySikFxmXJeoh5epDAF) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Shashank shetty](https://open.spotify.com/artist/022NSbvjt2BPMhkVffP9CA) | [Ninnindale](https://open.spotify.com/album/0d6Tg4unwqjwxFKP4RkXw8) | 3:45 | 2024-11-08 |  |
@@ -426,6 +426,7 @@
 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 | 2023-08-16 | 2023-09-07 |
 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 | 2023-07-10 | 2023-07-25 |
 | [YENO AGIDHE\-2](https://open.spotify.com/track/4hnEJMQNmphymiCNEtmx7N) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [YENO AGIDHE\-2](https://open.spotify.com/album/4qrvxKZpcx8gEcCTJTteAi) | 2:48 | 2024-03-01 | 2024-07-13 |
+| [Yochane](https://open.spotify.com/track/2brkkHIqBkOyFbBhliF4VI) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Yochane](https://open.spotify.com/album/4vq6pnKd7sBJZXuXzLkthV) | 3:15 | 2024-12-09 |  |
 | [Zari Zari Panche Uttu DJ \- DJ Version](https://open.spotify.com/track/6ijmugaN1k88ZQNxCQsCtf) | [Madeen SK](https://open.spotify.com/artist/5Fus9DmicWjQslWMQlVNgB), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Spoorthi Jithender](https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad), [Lasya](https://open.spotify.com/artist/3nFDEpKawzTa38sZ6XXuFx), [Tony Kick](https://open.spotify.com/artist/5dmuoctzzOKykZWLw1n5Wu), [Dj Srinu](https://open.spotify.com/artist/0kHjYVT8TNPF5PFf6rJrNz) | [Zari Zari Panche Uttu DJ \(DJ Version\)](https://open.spotify.com/album/3OP4xJCLZPC3uiqjGFVzP0) | 3:52 | 2023-06-21 | 2024-01-23 |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

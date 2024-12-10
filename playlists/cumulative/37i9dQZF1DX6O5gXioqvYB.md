@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Giulia Mei
 
-240 songs - 11 hr 47 min
+241 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [La metà](https://open.spotify.com/track/2mxb9ZHTc9BL1lwOcqmE9B) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [BUIO](https://open.spotify.com/album/4iZjs32KpHJmRKduhU5Zar) | 3:24 | 2024-06-27 | 2024-07-05 |
 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 | 2024-11-26 |  |
 | [La ricompensa](https://open.spotify.com/track/4Iwrxf8056IIMKNBaunQIe) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [La ricompensa della mangusta](https://open.spotify.com/album/66ajbNAO32d4StVtbkQJnP) | 3:20 | 2024-10-03 | 2024-10-21 |
+| [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2024-12-05 |  |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 |  |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
@@ -197,7 +198,7 @@
 | [sconosciuti](https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [sconosciuti](https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv) | 2:50 | 2024-11-28 |  |
 | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 | 2024-11-22 |
 | [se io morissi per stanotte?](https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [se io morissi per stanotte?](https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf) | 2:41 | 2024-11-07 | 2024-11-17 |
-| [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 |  |
+| [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 | 2024-12-10 |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [Semisconosciuti](https://open.spotify.com/track/5Il2AawB6pNota6d5EdcIG) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Flegreo](https://open.spotify.com/album/0ZDTef1KRMVbq9eSrZO1x9) | 3:53 | 2024-10-10 |  |
 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 | 2024-08-29 |  |

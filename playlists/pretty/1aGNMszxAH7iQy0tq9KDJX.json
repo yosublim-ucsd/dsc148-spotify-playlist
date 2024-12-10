@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAHfvp73tvlqRhriTIrcnJZmhjBqwJ",
+  "snapshot_id": "AAAAH9kVgs1yH1JrWr59CeC60jqU2EAk",
   "tracks": [
     {
       "added_at": "2022-05-06 11:17:48",
@@ -443,6 +443,38 @@
       "duration_ms": 210653,
       "name": "Song for Ted Sallis",
       "url": "https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d"
+    },
+    {
+      "added_at": "2024-12-09 07:36:56",
+      "album": {
+        "name": "This Is Home",
+        "url": "https://open.spotify.com/album/0eB1tOktFK5AtA9YBYSXRu"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "This Is Home",
+      "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
+    },
+    {
+      "added_at": "2024-12-09 07:37:16",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1VsBid0LZVPoNokDiJqROg"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 269897,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3XRALl9CNCnjjbCZid2L9w"
     }
   ],
   "unique_name": "Gemder",

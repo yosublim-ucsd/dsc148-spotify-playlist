@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby,  Rich Amiri, Smino and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,974 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,127 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Pass Me a Dub](https://open.spotify.com/track/05DwY4vk0mL3PLIUBrxI05) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Pass Me a Dub](https://open.spotify.com/album/27zLU9QuMGGARRYgH4zypY) | 2:17 |
 | 24 | [X\-Mas Bag](https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [X\-Mas Bag](https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES) | 2:21 |
 | 25 | [Bigger Than Life](https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Bigger Than Life](https://open.spotify.com/album/2TXd69tah0li3nZkwIhPYP) | 4:20 |
-| 26 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
+| 26 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 27 | [Tyla](https://open.spotify.com/track/5JFOylCiD2CCfmMtaVECfv) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/4mpTd22gLh4zNxJZJbcOxO) | 2:03 |
 | 28 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 |
 | 29 | [Hope It's Real](https://open.spotify.com/track/1htKRT8MxlKzqBhmVK4drv) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Warhol.SS](https://open.spotify.com/artist/3O7mUqVuHmLJqHXbFiQY62) | [Hope It's Real](https://open.spotify.com/album/6ZftmyiykfcUAiAllvGjjd) | 2:40 |

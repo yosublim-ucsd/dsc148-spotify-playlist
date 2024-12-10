@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22312,
+  "num_followers": 22329,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALg6Fvi1aB/gpZqIv2CriybYhwTf52",
+  "snapshot_id": "AAALjjhCliv4q9aeus1iDC/D8IYSmOrc",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL"
     },
     {
+      "added_at": "2024-12-09 16:13:06",
+      "album": {
+        "name": "EXHALO",
+        "url": "https://open.spotify.com/album/62BuJJXQKkvbPi1gnpOQI5"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 229353,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1roduXdAiUduitAeMDKx7D"
+    },
+    {
       "added_at": "2024-12-09 00:58:15",
       "album": {
         "name": "On High",
@@ -675,6 +691,142 @@
       "duration_ms": 281933,
       "name": "One Of Our Girls Has Gone Missing",
       "url": "https://open.spotify.com/track/37qi9hfTkbglVa35sXK66h"
+    },
+    {
+      "added_at": "2024-12-09 16:58:59",
+      "album": {
+        "name": "When",
+        "url": "https://open.spotify.com/album/45CSyFoUwd8LRhN2IWWBoW"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Tulips",
+          "url": "https://open.spotify.com/artist/4mCKYeRm9x5hj3iPX6Sths"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Glued to You",
+      "url": "https://open.spotify.com/track/7eHZ4xbuOX3FllHC93XpWj"
+    },
+    {
+      "added_at": "2024-12-09 17:11:13",
+      "album": {
+        "name": "Let Me Speak",
+        "url": "https://open.spotify.com/album/6VE153qE47R8O4ac49XxrM"
+      },
+      "artists": [
+        {
+          "name": "Gemma Cullingford",
+          "url": "https://open.spotify.com/artist/6WR6hPeb9Qq39fAm88GtcL"
+        }
+      ],
+      "duration_ms": 217672,
+      "name": "Let Me Speak",
+      "url": "https://open.spotify.com/track/2r1yGtdhw3O9GmgD1ygTCe"
+    },
+    {
+      "added_at": "2024-12-09 22:17:53",
+      "album": {
+        "name": "Cafe Tom Tom",
+        "url": "https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN"
+      },
+      "artists": [
+        {
+          "name": "Cities Aviv",
+          "url": "https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX"
+        }
+      ],
+      "duration_ms": 110009,
+      "name": "Silver & Ice",
+      "url": "https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV"
+    },
+    {
+      "added_at": "2024-12-09 23:21:16",
+      "album": {
+        "name": "The Garden Suite",
+        "url": "https://open.spotify.com/album/0UccFpMfqmge5fNISVNHdH"
+      },
+      "artists": [
+        {
+          "name": "Nitai Hershkovits",
+          "url": "https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN"
+        },
+        {
+          "name": "Daniel Dor",
+          "url": "https://open.spotify.com/artist/1MKHZ2XG5GkCmLK7VMGjIZ"
+        }
+      ],
+      "duration_ms": 134700,
+      "name": "Hidden Glow",
+      "url": "https://open.spotify.com/track/712k1F2RhljxhqVAVRlvnv"
+    },
+    {
+      "added_at": "2024-12-09 23:28:35",
+      "album": {
+        "name": "Scheduled Explosions",
+        "url": "https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf"
+      },
+      "artists": [
+        {
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "I Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt"
+    },
+    {
+      "added_at": "2024-12-10 00:34:11",
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/6NBgSY8GgkBSVufy6uPPim"
+    },
+    {
+      "added_at": "2024-12-10 01:07:33",
+      "album": {
+        "name": "This Weather",
+        "url": "https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt"
+      },
+      "artists": [
+        {
+          "name": "Yoshika Colwell",
+          "url": "https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM"
+        },
+        {
+          "name": "The Vernon Spring",
+          "url": "https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm"
+        }
+      ],
+      "duration_ms": 229149,
+      "name": "No Ideology",
+      "url": "https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k"
+    },
+    {
+      "added_at": "2024-12-10 01:56:52",
+      "album": {
+        "name": "One Of Our Girls (Has Gone Missing)",
+        "url": "https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ"
+      },
+      "artists": [
+        {
+          "name": "A.C. Marias",
+          "url": "https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Our Dust",
+      "url": "https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm"
     }
   ],
   "unique_name": "thoughts never said aloud",

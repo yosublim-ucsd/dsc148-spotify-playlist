@@ -1,15 +1,35 @@
 {
   "description": "as gigas da net",
-  "num_followers": 1464828,
+  "num_followers": 1464954,
   "original_name": "Hits da Internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxpRgwAAAACM9l8pJCK8w0talcGtd+rt",
+  "snapshot_id": "Z1deAAAAAABmR2GrN4bfBISCLFaHe7FR",
   "tracks": [
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
+      "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
+    },
+    {
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
@@ -25,7 +45,23 @@
       "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
+      "album": {
+        "name": "Brazilian Caf\u00e9",
+        "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Acenda o farol",
+      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj"
+    },
+    {
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Piseiro Hawaiano",
         "url": "https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS"
@@ -49,27 +85,7 @@
       "url": "https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
-      "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
-      },
-      "artists": [
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 192755,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
-    },
-    {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Do Jeito Que Voc\u00ea Mete",
         "url": "https://open.spotify.com/album/3CrUjWfFQTKOJLm84bETqM"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/5CtXR89REICvEZljUEK8r1"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Eu sou Cantor N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "EU TAVA AQUI PENSANDO (VERS\u00c3O BH)",
         "url": "https://open.spotify.com/album/1HRR7iat9PtjXAV2tnib8y"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/5Mvbg6AVUyvkRf0AzBrLY4"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
         "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Ritmada Interestelar",
         "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "300 no 7",
         "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Vou Passar Gelinho",
         "url": "https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "LAST NIGHT VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "MTG CHIHIRO",
         "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Nem Ligo Pro Amor",
         "url": "https://open.spotify.com/album/4aDHZ1X3DFmHBVV4RkNNaN"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/5rIv8Ya5G1bLQoXwIKTn80"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Brota no meu Setor",
         "url": "https://open.spotify.com/album/1TAj3VWxeKgoxBbVvj34Rx"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/3t7pLiF7cakKBduLdbcXgn"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "QUERO VER SE VOC\u00ca TEM ATITUDE",
         "url": "https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Machuquei",
         "url": "https://open.spotify.com/album/7jIx5u4CbPvoTVJSucx86K"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6GS4LfVknh458V4z6llLRa"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Mtg Forr\u00f3 e Desmantelo",
         "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Medley Put4ria Avan\u00e7ada",
         "url": "https://open.spotify.com/album/58k3YgPnHa7XWEFOc4ggTd"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/47jm3FEv1cfE97ILQsqfPq"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Pira\u00e7\u00e3o 2.0",
         "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
@@ -677,35 +693,7 @@
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
-      "album": {
-        "name": "MTG - Mega das Tchutchucas 2",
-        "url": "https://open.spotify.com/album/547whR3WlZWzCFXSckVqHG"
-      },
-      "artists": [
-        {
-          "name": "Davi Lemos DJ",
-          "url": "https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL"
-        },
-        {
-          "name": "MALHA FUNK",
-          "url": "https://open.spotify.com/artist/7Aoq22DL55gHycti1JPL4z"
-        },
-        {
-          "name": "Os Ca\u00e7adores",
-          "url": "https://open.spotify.com/artist/0kD0mHs63ci8Zw1vvPDjYx"
-        },
-        {
-          "name": "Pansa Beats",
-          "url": "https://open.spotify.com/artist/4oxPArmOSLN23wu2qy72xZ"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "MTG - Mega das Tchutchucas 2",
-      "url": "https://open.spotify.com/track/0c0QqyqhoiUVco4LdZjTdX"
-    },
-    {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Nao Precisa Negar (Versao Bh)",
         "url": "https://open.spotify.com/album/3hSgTBraHNphRUibWxxoPr"
@@ -729,7 +717,7 @@
       "url": "https://open.spotify.com/track/608yE6rUD9cKsb7oqfRgGi"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
@@ -761,7 +749,7 @@
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "A Cara das Vaquejadas 3.0",
         "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
@@ -777,7 +765,7 @@
       "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "De 10 Mulher 11 \u00c9 Maluca",
         "url": "https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe"
@@ -805,7 +793,7 @@
       "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
@@ -837,7 +825,7 @@
       "url": "https://open.spotify.com/track/24R0oyjvhV4HIFFvoK3XkP"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Desacato",
         "url": "https://open.spotify.com/album/0pJN3wcy6eveGD29QGBJt8"
@@ -877,7 +865,7 @@
       "url": "https://open.spotify.com/track/1fzaUKQv7sgGW0udQVghSW"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "MAGR\u00c3O SUPREMO",
         "url": "https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi"
@@ -901,7 +889,7 @@
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Rol\u00e9 na Favela de Nave",
         "url": "https://open.spotify.com/album/1m42RnQb6QKdchutofb4mH"
@@ -937,7 +925,7 @@
       "url": "https://open.spotify.com/track/1m5nbZiPpCIi9J2irLNoxh"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "O Cara Do Momento",
         "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
@@ -969,7 +957,7 @@
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "DAN\u00c7A PRA ME PROVOCAR",
         "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
@@ -989,7 +977,7 @@
       "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
@@ -1017,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Alcateia",
         "url": "https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok"
@@ -1037,7 +1025,7 @@
       "url": "https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "DENTRO DA HILUX",
         "url": "https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU"
@@ -1061,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
@@ -1093,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "POCPOC",
         "url": "https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX"
@@ -1109,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "T\u00e1 OK",
         "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
@@ -1129,7 +1117,7 @@
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "O Fant\u00e1stico Mundo De Nattan (Ao Vivo)",
         "url": "https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ"
@@ -1149,7 +1137,7 @@
       "url": "https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Cad\u00ea o After? Pt. 1",
         "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
@@ -1169,7 +1157,7 @@
       "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
     },
     {
-      "added_at": "2024-10-24 13:54:11",
+      "added_at": "2024-12-09 21:15:44",
       "album": {
         "name": "Let's Go 4",
         "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"

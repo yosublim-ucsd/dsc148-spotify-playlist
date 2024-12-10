@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Anuv Jain
 
-327 songs - 18 hr 29 min
+328 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Shokaleo](https://open.spotify.com/track/3qnHZS4qvzcq4J2vLzlgcU) | [Farooque Bhai Project](https://open.spotify.com/artist/6MHzMgnUHxw8eac1qaVXjH) | [Obostha Bujhe Bebostha](https://open.spotify.com/album/34Q8TuadeSiHqHRoD5XC7i) | 2:07 | 2022-05-20 | 2022-09-02 |
 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 | 2022-05-20 | 2023-07-25 |
 | [sick of love](https://open.spotify.com/track/2LGEb04cnweMm8wUehz1Qd) | [Kehard](https://open.spotify.com/artist/6bQNj9hzQAggybweFsY8G8), [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy), [Hypx](https://open.spotify.com/artist/0dawqbUeQnvKVNWbjDYYww) | [sick of love](https://open.spotify.com/album/0bYYALbE5axhl27IgGqLL9) | 2:08 | 2022-05-20 | 2023-01-13 |
+| [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 | 2024-12-09 |  |
 | [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 | 2022-09-01 | 2023-01-20 |
 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 | 2023-01-12 |  |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-05-20 | 2022-12-29 |

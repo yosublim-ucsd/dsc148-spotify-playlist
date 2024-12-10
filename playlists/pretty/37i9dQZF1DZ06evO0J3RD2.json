@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 7933,
+  "num_followers": 7936,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1OQAAAAAACXrK1btfh6w2DIcbrEzlYT",
+  "snapshot_id": "Z1ThgAAAAADzCZ2xLbGuJ83rBEvwI6x3",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbed Wire Body",
-        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 208023,
-      "name": "Barbed Wire Body",
-      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+      "duration_ms": 237558,
+      "name": "No Silhouette",
+      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 237558,
-      "name": "No Silhouette",
-      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
     },
     {
       "added_at": null,

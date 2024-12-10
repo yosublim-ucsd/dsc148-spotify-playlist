@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: David Bisbal",
-  "num_followers": 278107,
+  "num_followers": 278286,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+        "name": "Querido Santa Claus",
+        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+      "duration_ms": 202500,
+      "name": "Querido Santa Claus",
+      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -539,6 +539,22 @@
       "duration_ms": 236440,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -575,6 +591,22 @@
       "duration_ms": 158629,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Joy To The World (Spanglish Version)",
+        "url": "https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 146841,
+      "name": "Joy To The World - Spanglish Version",
+      "url": "https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -627,22 +659,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Querido Santa Claus",
-        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Querido Santa Claus",
-      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "La Clave",
         "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
@@ -655,38 +671,6 @@
       "duration_ms": 137472,
       "name": "La Clave",
       "url": "https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Joy To The World (Spanglish Version)",
-        "url": "https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 146841,
-      "name": "Joy To The World - Spanglish Version",
-      "url": "https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Emmanuel Jingle Bell Rocks",
-        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 325397,
-      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
-      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Emmanuel Jingle Bell Rocks",
+        "url": "https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 325397,
+      "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
+      "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
       },
@@ -731,54 +731,6 @@
       "duration_ms": 189204,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Otro a\u00f1o +",
-        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 100231,
-      "name": "Otro a\u00f1o +",
-      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Somos Navidad",
-        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
-      },
-      "artists": [
-        {
-          "name": "KYEN?ES?",
-          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "El A\u00f1o Viejo",
-      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "WISHLIST",
-        "url": "https://open.spotify.com/album/1ENeIp4Z0IO1EEx1Zh01n5"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "WISHLIST",
-      "url": "https://open.spotify.com/track/6BWThf1mJv1Q7OzdlxqDaV"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -831,6 +783,54 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Otro a\u00f1o +",
+        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 100231,
+      "name": "Otro a\u00f1o +",
+      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "WISHLIST",
+        "url": "https://open.spotify.com/album/1ENeIp4Z0IO1EEx1Zh01n5"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "WISHLIST",
+      "url": "https://open.spotify.com/track/6BWThf1mJv1Q7OzdlxqDaV"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Navisad",
         "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
-        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237869,
-      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Alegr\u00eda",
         "url": "https://open.spotify.com/album/1rwh1yj0SrvoS7cbVjIl4k"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 202846,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
+        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 237869,
+      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -943,34 +943,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq"
+        "name": "mi \u00fanico deseo",
+        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 175100,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Diciembre Fr\u00edo",
-        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
-      },
-      "artists": [
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        },
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
         }
       ],
-      "duration_ms": 176086,
-      "name": "Diciembre Fr\u00edo",
-      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
+      "duration_ms": 186947,
+      "name": "mi \u00fanico deseo",
+      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -991,6 +979,22 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Diciembre Fr\u00edo",
+        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Diciembre Fr\u00edo",
+      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1023,6 +1027,22 @@
       "duration_ms": 187668,
       "name": "Otra Navidad :(",
       "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 175100,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1075,22 +1095,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "mi \u00fanico deseo",
-        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
       },
       "artists": [
         {
-          "name": "Nashy-Nashai",
-          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
-        },
-        {
-          "name": "NEON16",
-          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
         }
       ],
-      "duration_ms": 186947,
-      "name": "mi \u00fanico deseo",
-      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
+      "duration_ms": 206000,
+      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
+      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ya Es Navidad",
-        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "A La Nanita Nana",
-      "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 160312,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Ya Es Navidad",
+        "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "A La Nanita Nana",
+      "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Navidad Sin Ti (Radio Version)",
+        "url": "https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Navidad Sin Ti - Radio Version",
+      "url": "https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Mix Navide\u00f1o",
         "url": "https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV"
       },
@@ -1343,42 +1359,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Navidad Sin Ti (Radio Version)",
-        "url": "https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl"
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4"
       },
       "artists": [
         {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Navidad Sin Ti - Radio Version",
-      "url": "https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Regres\u00e9 Para Navidad",
-        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "Ander",
+          "url": "https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc"
         },
         {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+          "name": "Romo One",
+          "url": "https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Regres\u00e9 Para Navidad",
-      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
+      "duration_ms": 215064,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM"
     }
   ],
   "unique_name": "Feliz Navidad",

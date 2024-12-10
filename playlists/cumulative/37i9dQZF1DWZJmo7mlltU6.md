@@ -2,7 +2,7 @@
 
 ### [borderless](https://open.spotify.com/playlist/37i9dQZF1DWZJmo7mlltU6)
 
-> Beyond genre, beyond language, beyond borders\. Cover: Chezile.
+> Beyond genre, beyond language, beyond borders\. Cover: Nafeesisboujee.
 
 958 songs - 2 day 4 hr 32 min
 

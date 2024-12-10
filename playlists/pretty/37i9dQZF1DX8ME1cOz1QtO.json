@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 100110,
+  "num_followers": 100144,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Rubycon (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 1037451,
-      "name": "Rubycon - Pt. 1 / Remastered 2018",
-      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Pinnacles",
         "url": "https://open.spotify.com/album/7yakNQ1ZV8v8e7KJvcZ5eg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 264893,
       "name": "The Light Cone",
       "url": "https://open.spotify.com/track/4n8AWw119F9hrrtjpP5sU4"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Rubycon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 1037451,
+      "name": "Rubycon - Pt. 1 / Remastered 2018",
+      "url": "https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Phaedra (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 477322,
-      "name": "Movements Of A Visionary - Remastered 2018",
-      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Spectrum Suite (Bonus Version) [Remastered]",
         "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 206146,
       "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
       "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "New Age Of Earth",
-        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 762666,
-      "name": "Ocean Of Tenderness",
-      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -731,18 +699,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Keys To Imagination",
-        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+        "name": "New Age Of Earth",
+        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
       "artists": [
         {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 399066,
-      "name": "Looking Glass",
-      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+      "duration_ms": 762666,
+      "name": "Ocean Of Tenderness",
+      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -759,6 +727,38 @@
       "duration_ms": 317733,
       "name": "The Third Wave - Love In The Waves",
       "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Keys To Imagination",
+        "url": "https://open.spotify.com/album/6dMdlfK0kNBcJhadkzPO3n"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 399066,
+      "name": "Looking Glass",
+      "url": "https://open.spotify.com/track/6zyoBj7fXtPLB20ovcdbS5"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Phaedra (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 477322,
+      "name": "Movements Of A Visionary - Remastered 2018",
+      "url": "https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Hergest Ridge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1161586,
-      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
-      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Valley In The Clouds",
         "url": "https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215666,
       "name": "Valley In The Clouds",
       "url": "https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Hergest Ridge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1161586,
+      "name": "Hergest Ridge Part One - 2010 Mix / Previously Unreleased",
+      "url": "https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Missa Gaia - Earth Mass",
-        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
-      },
-      "artists": [
-        {
-          "name": "Paul Winter",
-          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "For The Beauty Of The Earth - Instrumental",
-      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Fresh Aire I",
         "url": "https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 153706,
       "name": "Interlude II",
       "url": "https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Missa Gaia - Earth Mass",
+        "url": "https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru"
+      },
+      "artists": [
+        {
+          "name": "Paul Winter",
+          "url": "https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "For The Beauty Of The Earth - Instrumental",
+      "url": "https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
-      },
-      "artists": [
-        {
-          "name": "Judith Tripp",
-          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
-        }
-      ],
-      "duration_ms": 399560,
-      "name": "Li Sun",
-      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Lydglimt",
         "url": "https://open.spotify.com/album/37ixvLulBM547iKlOYXna0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 189146,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Judith Tripp",
+          "url": "https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ"
+        }
+      ],
+      "duration_ms": 399560,
+      "name": "Li Sun",
+      "url": "https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Ages",
         "url": "https://open.spotify.com/album/1qJneJpWOOFSWUQckJZSaX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 672226,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/1a1yDt54OpU4uvEcdIACac"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Schoener, Eberhard: Meditation",
-        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
+        "name": "The First Seven Days",
+        "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
       },
       "artists": [
         {
-          "name": "Eberhard Schoener",
-          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
         }
       ],
-      "duration_ms": 1049000,
-      "name": "Meditation: I. Part I",
-      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
+      "duration_ms": 376333,
+      "name": "Oceans And Continents",
+      "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "The First Seven Days",
-        "url": "https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1"
+        "name": "Schoener, Eberhard: Meditation",
+        "url": "https://open.spotify.com/album/3YUWFn0j9YmB8BQjMUvAlb"
       },
       "artists": [
         {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+          "name": "Eberhard Schoener",
+          "url": "https://open.spotify.com/artist/4qJqNV3gKCl9cgitoUPujz"
         }
       ],
-      "duration_ms": 376333,
-      "name": "Oceans And Continents",
-      "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
+      "duration_ms": 1049000,
+      "name": "Meditation: I. Part I",
+      "url": "https://open.spotify.com/track/3jmVssDLvTVSRTVZQzCZcW"
     },
     {
       "added_at": "2023-08-18 14:02:54",

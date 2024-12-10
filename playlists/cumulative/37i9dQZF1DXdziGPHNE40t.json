@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 164816,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy"
@@ -2760,6 +2760,24 @@
       "duration_ms": 181249,
       "name": "Fading Skies",
       "url": "https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn"
+    },
+    {
+      "album": {
+        "name": "Faelleshaven",
+        "url": "https://open.spotify.com/album/09ODQ6boVCHlsARYiJV3rf"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253059,
+      "name": "Faelleshaven",
+      "url": "https://open.spotify.com/track/53USGewhM8Uehqyxqg4CM2"
     },
     {
       "album": {
@@ -6739,6 +6757,24 @@
     },
     {
       "album": {
+        "name": "Reimagine",
+        "url": "https://open.spotify.com/album/3jBOhHMWIVsCGsexc7JgGy"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ"
+    },
+    {
+      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/2BMJLFX0u1cvluUuTGq8Zy"
       },
@@ -8586,7 +8622,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 236151,
       "name": "Someone",
       "url": "https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe"
@@ -9324,7 +9360,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 211712,
       "name": "The Arch",
       "url": "https://open.spotify.com/track/48nronuTEKEYv3uZK4d21X"
@@ -9612,7 +9648,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 206523,
       "name": "The Light Over Chesapeake Bay",
       "url": "https://open.spotify.com/track/5ZU9TV5L4zo40G6VdXbLOQ"
@@ -10620,7 +10656,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 200000,
       "name": "Walk Beside Me",
       "url": "https://open.spotify.com/track/7eyXx9ngV1jkChWMPuR6al"
@@ -11520,7 +11556,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-10",
       "duration_ms": 299029,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs"

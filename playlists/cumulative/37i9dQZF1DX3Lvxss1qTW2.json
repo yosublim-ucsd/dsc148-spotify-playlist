@@ -2689,7 +2689,7 @@
     },
     {
       "album": {
-        "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+        "name": "Laba Laba (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/2iIG2djJDvizd7D94LANOE"
       },
       "artists": [
@@ -2698,19 +2698,19 @@
           "url": "https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
           "name": "DJ Latitude",
           "url": "https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204444,
-      "name": "Laba Laba (feat. Fireboy DML & DJ Latitude)",
+      "name": "Laba Laba (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/1bRwmEGpI2B6Z0W0xZYAj2"
     },
     {

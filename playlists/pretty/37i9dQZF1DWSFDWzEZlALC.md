@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Nina Chuba
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,367 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,552 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 |
+| 1 | [Walzer](https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk) | 3:21 |
 | 2 | [morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [morgen](https://open.spotify.com/album/1QuXsDeoXxLjRAOseNjHIY) | 3:47 |
-| 3 | [Walzer](https://open.spotify.com/track/6SowVm0zmhrJrbRgM4Rutz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Walzer](https://open.spotify.com/album/1uYi1qfEzRX7xMgaM88uNk) | 3:21 |
-| 4 | [Forrest Gump](https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Forrest Gump](https://open.spotify.com/album/5Bb9HWapSIWIacN4iVuLKZ) | 3:52 |
+| 3 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 |
+| 4 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 |
 | 5 | [Fenster zum Hof](https://open.spotify.com/track/1yAh0ZVv86lZb2kdVOugjC) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh) | [Fenster zum Hof](https://open.spotify.com/album/5Ouzj8yhLALlpNlxDDojvD) | 2:47 |
-| 6 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
-| 7 | [neue Notiz](https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [neue Notiz](https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX) | 2:09 |
-| 8 | [Frost an deinem Fenster](https://open.spotify.com/track/5wy79pCGzl95RFHyjgWxVs) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Frost an deinem Fenster](https://open.spotify.com/album/3DC5TFf1M5I2RvGlwKtcYc) | 2:33 |
+| 6 | [Forrest Gump](https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Forrest Gump](https://open.spotify.com/album/5Bb9HWapSIWIacN4iVuLKZ) | 3:52 |
+| 7 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 8 | [neue Notiz](https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [neue Notiz](https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX) | 2:09 |
 | 9 | [wie du tanzt](https://open.spotify.com/track/5RH8NDRlcgUVgtYcqHltXm) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr), [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [I HATE KATLIX](https://open.spotify.com/album/3aUWSTDOEuyEkRCm35w6T9) | 2:37 |
-| 10 | [An meinen Händen klebt Blut](https://open.spotify.com/track/7rYTxiT8J5da9TuepUBsY7) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [An meinen Händen klebt Blut](https://open.spotify.com/album/78HyowIMj3FFxHhQUH7tvh) | 2:59 |
-| 11 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 |
-| 12 | [Kaputt](https://open.spotify.com/track/6WcoNRqn0qQwENrZtdu5r6) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kaputt](https://open.spotify.com/album/73XBDICD2Sh25w7K29XRS4) | 2:17 |
-| 13 | [nachtwind](https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [Immerland \(Teil 2\)](https://open.spotify.com/album/4WYApIUdlpjhuOtlC69sIz) | 2:43 |
-| 14 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 |
-| 15 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 |
+| 10 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 |
+| 11 | [An meinen Händen klebt Blut](https://open.spotify.com/track/7rYTxiT8J5da9TuepUBsY7) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [An meinen Händen klebt Blut](https://open.spotify.com/album/78HyowIMj3FFxHhQUH7tvh) | 2:59 |
+| 12 | [Montag](https://open.spotify.com/track/6afDt2mkum1Vr04mAIkAwO) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Montag](https://open.spotify.com/album/0XhoOk9IsZJl2flKOgfg5j) | 3:05 |
+| 13 | [Frost an deinem Fenster](https://open.spotify.com/track/5wy79pCGzl95RFHyjgWxVs) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Frost an deinem Fenster](https://open.spotify.com/album/3DC5TFf1M5I2RvGlwKtcYc) | 2:33 |
+| 14 | [Kaputt](https://open.spotify.com/track/6WcoNRqn0qQwENrZtdu5r6) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kaputt](https://open.spotify.com/album/73XBDICD2Sh25w7K29XRS4) | 2:17 |
+| 15 | [nachtwind](https://open.spotify.com/track/0IVReH1UE1km4MjSmsNigf) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26) | [Immerland \(Teil 2\)](https://open.spotify.com/album/4WYApIUdlpjhuOtlC69sIz) | 2:43 |
 | 16 | [Ich hab Angst](https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Ich hab Angst](https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ) | 3:01 |
 | 17 | [Freispiel](https://open.spotify.com/track/1pBSWR9cfofvXT8ZJgGq65) | [Loco Candy](https://open.spotify.com/artist/1DFCsVPAp4ncza5L9H2GYd) | [Freispiel](https://open.spotify.com/album/0iaiGGpiQr4wz3HhBNHdgu) | 2:05 |
 | 18 | [Denkst du noch an mich?](https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC) | [Tom Blanc](https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3) | [Denkst du noch an mich?](https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
 | 75 | [Innenhof](https://open.spotify.com/track/57IRJnCO1pkHBdSBL4e08X) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Innenhof](https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7) | 2:31 |
 
-Snapshot ID: `Z1IwcAAAAACQWupCYqs42m8fHbBx8oSg`
+Snapshot ID: `Z1cLDQAAAAAa9Jdj/gD9p2hVTkuZ6MFE`

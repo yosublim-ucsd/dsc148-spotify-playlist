@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Cover: Mensa & DJEZJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,247 likes - 61 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,270 likes - 61 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

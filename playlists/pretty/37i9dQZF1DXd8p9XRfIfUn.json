@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 77458,
+  "num_followers": 77462,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": "2024-11-06 01:24:47",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2024-11-06 01:24:47",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2024-11-06 01:24:47",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "Pal' Otro A\u00f1o",
-        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
+        "name": "Imposible",
+        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
       },
       "artists": [
         {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 150894,
-      "name": "Pal' Otro A\u00f1o",
-      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+      "duration_ms": 187411,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
     },
     {
       "added_at": "2024-11-06 01:24:47",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-11-06 01:24:47",
       "album": {
-        "name": "Imposible",
-        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
+        "name": "Pal' Otro A\u00f1o",
+        "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 187411,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
+      "duration_ms": 150894,
+      "name": "Pal' Otro A\u00f1o",
+      "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,595 likes - 97 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,853 likes - 97 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 96 | [Zamaana](https://open.spotify.com/track/6lsm8EHNoxB4AbhindOSub) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Zamaana](https://open.spotify.com/album/1t0TxWQNKZrpUOomGJDBSv) | 2:39 |
 | 97 | [Stormrider](https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji) | [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Stormrider](https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva) | 2:17 |
 
-Snapshot ID: `Z0mgJAAAAABQL5uyQyw2jDi0dElusIwA`
+Snapshot ID: `Z1bTRgAAAACR5j93UNsv83QVhA8X68FW`

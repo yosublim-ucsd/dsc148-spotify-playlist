@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 514487,
+  "num_followers": 514613,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
-        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Houdini - Adam Port Mix",
-      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Barcelonia",
         "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 192786,
       "name": "Matahale",
       "url": "https://open.spotify.com/track/1t2prKx2l2b4mxsk3rlhaD"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Who's That Girl (JL & Afterman Mix)",
-        "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
-      },
-      "artists": [
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        },
-        {
-          "name": "Afterman",
-          "url": "https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD"
-        },
-        {
-          "name": "Jl & Afterman",
-          "url": "https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa"
-        }
-      ],
-      "duration_ms": 320624,
-      "name": "Who's That Girl - JL & Afterman Mix",
-      "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Silence of Love (Reznik Remix)",
         "url": "https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3"
       },
@@ -1771,6 +1747,30 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Who's That Girl (JL & Afterman Mix)",
+        "url": "https://open.spotify.com/album/2xbVMj7lxxj9ILbKRrq4q7"
+      },
+      "artists": [
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Afterman",
+          "url": "https://open.spotify.com/artist/7bU8y1gp9Kz9zpoMCVENvD"
+        },
+        {
+          "name": "Jl & Afterman",
+          "url": "https://open.spotify.com/artist/4KvIoQiPcOkNMzHfBGO5Oa"
+        }
+      ],
+      "duration_ms": 320624,
+      "name": "Who's That Girl - JL & Afterman Mix",
+      "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
       },
@@ -1787,6 +1787,26 @@
       "duration_ms": 248135,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "More Than You Know (Mont Rouge Remix)",
+        "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "duration_ms": 405853,
+      "name": "More Than You Know - Mont Rouge Remix",
+      "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1831,26 +1851,6 @@
       "duration_ms": 211202,
       "name": "H\u00e9roe de M\u00e9xico",
       "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "More Than You Know (Mont Rouge Remix)",
-        "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        }
-      ],
-      "duration_ms": 405853,
-      "name": "More Than You Know - Mont Rouge Remix",
-      "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Dakar",
         "url": "https://open.spotify.com/album/2PRUftf1n9Bu1Om6xMBQH2"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 224000,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/7eaIM9KWmC70NUnOeYUHuz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2151,6 +2151,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2175,22 +2195,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+        "name": "W4U (feat. Jen)",
+        "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
       },
       "artists": [
         {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
         },
         {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE"
         }
       ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+      "duration_ms": 239492,
+      "name": "W4U (feat. Jen)",
+      "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2211,6 +2231,34 @@
       "duration_ms": 191250,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
+        "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Kevin Di Serna",
+          "url": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+        }
+      ],
+      "duration_ms": 284461,
+      "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
+      "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2283,26 +2331,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "W4U (feat. Jen)",
-        "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
-      },
-      "artists": [
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE"
-        }
-      ],
-      "duration_ms": 239492,
-      "name": "W4U (feat. Jen)",
-      "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Boy You Got Me",
         "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
       },
@@ -2315,74 +2343,6 @@
       "duration_ms": 207141,
       "name": "Boy You Got Me",
       "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
-        "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        },
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Kevin Di Serna",
-          "url": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
-        }
-      ],
-      "duration_ms": 284461,
-      "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
-      "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Light Down",
-        "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
-      },
-      "artists": [
-        {
-          "name": "Meloko",
-          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
-        },
-        {
-          "name": "Garla",
-          "url": "https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ"
-        }
-      ],
-      "duration_ms": 274576,
-      "name": "Light Down",
-      "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Citadelle",
-        "url": "https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Maline Aura",
-          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Citadelle",
-      "url": "https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2435,6 +2395,46 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Light Down",
+        "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
+      },
+      "artists": [
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Garla",
+          "url": "https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ"
+        }
+      ],
+      "duration_ms": 274576,
+      "name": "Light Down",
+      "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Citadelle",
+        "url": "https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Citadelle",
+      "url": "https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "La Casa",
         "url": "https://open.spotify.com/album/6RZPyHpndtGVCh8BfYYByV"
       },
@@ -2447,6 +2447,22 @@
       "duration_ms": 278319,
       "name": "La Casa",
       "url": "https://open.spotify.com/track/6b0UBPyEOSEmSH24Hw4ovw"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Longlivedad",
+        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Longlivedad",
+      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2483,22 +2499,6 @@
       "duration_ms": 191812,
       "name": "Promised Land - Solomun Remix",
       "url": "https://open.spotify.com/track/04BIRcOMlj5DBtjXOBqW7s"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Longlivedad",
-        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Longlivedad",
-      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2543,30 +2543,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/78DAt8TfxZFuA9bszrMu30"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "DJ VITOTO",
-          "url": "https://open.spotify.com/artist/6Yr8wYy6BC4h2BbVLAL5aF"
-        },
-        {
-          "name": "Zano",
-          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/48ZWrSQx1KWJlpSf7xVERc"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Kiss Me Hard (Adam Ten Remix)",
         "url": "https://open.spotify.com/album/57EvaqsfOIfKbhXBJmvCXw"
       },
@@ -2587,6 +2563,30 @@
       "duration_ms": 320975,
       "name": "Kiss Me Hard - Adam Ten Remix",
       "url": "https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/78DAt8TfxZFuA9bszrMu30"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "DJ VITOTO",
+          "url": "https://open.spotify.com/artist/6Yr8wYy6BC4h2BbVLAL5aF"
+        },
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/48ZWrSQx1KWJlpSf7xVERc"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2675,22 +2675,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "It\u2019s You (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN"
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
       },
       "artists": [
         {
-          "name": "FCL",
-          "url": "https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
         }
       ],
-      "duration_ms": 231884,
-      "name": "It's You - Alex Wann Remix",
-      "url": "https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1"
+      "duration_ms": 225245,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
     }
   ],
   "unique_name": "Tantra",

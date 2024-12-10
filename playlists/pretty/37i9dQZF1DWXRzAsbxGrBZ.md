@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,114 likes - 50 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,175 likes - 50 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 7 | [Ratata](https://open.spotify.com/track/2lMTb7VeVVkQrhIz8uS8dP) | [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [FKA Moses](https://open.spotify.com/artist/5bb2nnYAjXPhXXGjv0uHK3), [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Ratata](https://open.spotify.com/album/4lmS4HsuJ9TgUa7AMLaDV0) | 5:50 |
 | 8 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
 | 9 | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/track/2Mk7kt5qF8ueIAmk2vAZff) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Redemial Sounds Sessions \#001 \(Mixed by Buddynice\)](https://open.spotify.com/album/23Okqx3zwsLYLggZDwUtQJ) | 1:04:10 |
-| 10 | [Sensitive \(feat\. Lily McKenzie\)](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 |
-| 11 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
-| 12 | [Imizi YoBaba](https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Imizi YoBaba](https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs) | 6:28 |
+| 10 | [Imizi YoBaba](https://open.spotify.com/track/0TaQCJsB8uS5oUjUkPMMa3) | [Soulfreakah](https://open.spotify.com/artist/33LgECnJ6qzEvBzzp4TNAn), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Imizi YoBaba](https://open.spotify.com/album/7j5rY3B00sNgt44X46ipbs) | 6:28 |
+| 11 | [Sensitive \(feat\. Lily McKenzie\)](https://open.spotify.com/track/00fG8oeJxajguXsXrFtR9t) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Emotions](https://open.spotify.com/album/39taI2bbSNT7fnGryosOcA) | 3:40 |
+| 12 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 13 | [How ?](https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Sabrina Chyld](https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU) | [Bruno & The Birds](https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD) | 6:37 |
 | 14 | [Recall](https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io) | [Recall](https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF) | 6:13 |
 | 15 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 44 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
 | 45 | [Red Lips Swaying Hips](https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips](https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp) | 7:11 |
 | 46 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 |
-| 47 | [Middle of Dezemba](https://open.spotify.com/track/0AGJGvE5EIpEdStPqSrg2F) | [Lebo Lukewarm](https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB) | [Middle of Dezemba](https://open.spotify.com/album/6UIa4mWQEvnjKrykESROn4) | 7:19 |
-| 48 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
-| 49 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
+| 47 | [Nades](https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF) | [Bones](https://open.spotify.com/artist/40Vr9VUq5tVrKOOsd68ojn), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Mohaus, Vol\. 2](https://open.spotify.com/album/5jHezALSoHZvaqEjDurYDI) | 6:42 |
+| 48 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
+| 49 | [Middle of Dezemba](https://open.spotify.com/track/0AGJGvE5EIpEdStPqSrg2F) | [Lebo Lukewarm](https://open.spotify.com/artist/3b55NPzRM7Zz0hqmt9dpaB) | [Middle of Dezemba](https://open.spotify.com/album/6UIa4mWQEvnjKrykESROn4) | 7:19 |
 | 50 | [Dawnlands](https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2) | [El Payo](https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU) | [Nkaoza EP](https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg) | 6:09 |
 
 Snapshot ID: `ZyQL8AAAAADNQlzC1X52hPuSi7yswk52`
