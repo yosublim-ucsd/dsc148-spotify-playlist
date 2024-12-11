@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-88 songs - 5 hr 48 min
+89 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Million Dreams](https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Love Like This](https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc) | 4:20 | 2021-09-24 |  |
 | [A Million Dreams](https://open.spotify.com/track/7i6fhlzpTeObDTsISlsU8Z) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Love Like This](https://open.spotify.com/album/2TkixrYStkFHg2Sf3PrhpW) | 4:20 | 2023-06-30 | 2024-04-19 |
 | [A Thousand Years \(From "The Twilight Saga: Breaking Dawn, Pt\. 1"\)](https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Act Two](https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ) | 4:05 | 2021-09-24 |  |
+| [Across the Stars](https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT), [Michel Tirabosco](https://open.spotify.com/artist/3krpKIjqQEDwS3HhirVijg) | [The Sound of Heaven](https://open.spotify.com/album/5al1TnP3jdoRnRHmQ1BU16) | 5:07 | 2024-12-10 |  |
 | [Adagio](https://open.spotify.com/track/1nKTvd5PQrvh9OJ2UuSfMB) | [Laura Bretan](https://open.spotify.com/artist/0Y6f7SArenwsTGRonkDGj0) | [World I See](https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ) | 4:08 | 2021-09-24 |  |
 | [Air en sol](https://open.spotify.com/track/6mP0PMfnTzvf4dSNU8W1ts) | [Giorgia Fumanti](https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N) | [Essence](https://open.spotify.com/album/4paZQWd1xdBnBAsVwROUIt) | 3:50 | 2021-09-24 |  |
 | [Air sur la corde de Sol \- Suite pour orchestre No 3, BWV 1068](https://open.spotify.com/track/5ivf8uOExXktY0aMgwFodc) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Giorgia Fumanti](https://open.spotify.com/artist/19Jsb6i9xKolWGXZznN93N), [Galante Media Orchestra](https://open.spotify.com/artist/1ASeREkK4uVDkwcdPrCh4A), [Stefano Galante](https://open.spotify.com/artist/2KSGgRdG0PkOeTwGtOYQuH) | [Essence](https://open.spotify.com/album/0SYTw49dOIYEHG6iarQa7u) | 3:48 | 2022-06-17 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6592,
+  "num_followers": 6598,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Dix mille matins",
-        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
+        "name": "Ton ami",
+        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
       },
       "artists": [
         {
-          "name": "Daniel Boucher",
-          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        },
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 296026,
-      "name": "La d\u00e9sise",
-      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
+      "duration_ms": 154105,
+      "name": "Ton ami",
+      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -695,22 +699,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Ton ami",
-        "url": "https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R"
+        "name": "Dix mille matins",
+        "url": "https://open.spotify.com/album/4A6XlPUNis093jnOYZsTKh"
       },
       "artists": [
         {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        },
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Daniel Boucher",
+          "url": "https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX"
         }
       ],
-      "duration_ms": 154105,
-      "name": "Ton ami",
-      "url": "https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB"
+      "duration_ms": 296026,
+      "name": "La d\u00e9sise",
+      "url": "https://open.spotify.com/track/5tolMesLH4lIK2dTrCHmXO"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "TPL",
-        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
-      },
-      "artists": [
-        {
-          "name": "GreenWoodz",
-          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "GONE!",
-      "url": "https://open.spotify.com/track/1f6faWBcD3XnsF7ugFPhuk"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "DEUIL(S)",
         "url": "https://open.spotify.com/album/2RbMQsEyyWE0WWik6Gv3wY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 198181,
       "name": "MONDE",
       "url": "https://open.spotify.com/track/439n0UuRVlJKRxGKH8XqWw"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "TPL",
+        "url": "https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "GONE!",
+      "url": "https://open.spotify.com/track/1f6faWBcD3XnsF7ugFPhuk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Portraits de famine",
-        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "BO Y Z Vol.2",
         "url": "https://open.spotify.com/album/4tXyRGC1FcO6FXdpFUGfRW"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 154506,
       "name": "Belly (feat. Dinos)",
       "url": "https://open.spotify.com/track/35uC41Ry5HFEQtel6BKHbj"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Portraits de famine",
+        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 229253,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/6RSUIrQvidRiMwNIKQTze0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Anyway, Mommy Love",
-        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 191603,
-      "name": "Anyway, Mommy Love",
-      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Anyway, Mommy Love",
+        "url": "https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 191603,
+      "name": "Anyway, Mommy Love",
+      "url": "https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7a s'invente pas",
-        "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
-      },
-      "artists": [
-        {
-          "name": "Alex Burger",
-          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
-        }
-      ],
-      "duration_ms": 143253,
-      "name": "Du country dans le ravin",
-      "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "La fess\u00e9e",
         "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 237691,
       "name": "La fess\u00e9e",
       "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c7a s'invente pas",
+        "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
+      },
+      "artists": [
+        {
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
+        }
+      ],
+      "duration_ms": 143253,
+      "name": "Du country dans le ravin",
+      "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fleur de cactus (Face A)",
-        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
-      },
-      "artists": [
-        {
-          "name": "King Melrose",
-          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
-        }
-      ],
-      "duration_ms": 213961,
-      "name": "Western",
-      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "O\u00d9 EST PASS\u00c9 ZEUDOG ?",
         "url": "https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 196253,
       "name": "J'AI FAILLI",
       "url": "https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fleur de cactus (Face A)",
+        "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
+      },
+      "artists": [
+        {
+          "name": "King Melrose",
+          "url": "https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91"
+        }
+      ],
+      "duration_ms": 213961,
+      "name": "Western",
+      "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Bons Times Bad Times",
-        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
-      },
-      "artists": [
-        {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "salades",
-      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Erreur",
         "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 199415,
       "name": "Erreur",
       "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Bons Times Bad Times",
+        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "salades",
+      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "R.B.",
-        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
-      },
-      "artists": [
-        {
-          "name": "Population II",
-          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
-        }
-      ],
-      "duration_ms": 289959,
-      "name": "R.B.",
-      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "On frap la route?",
         "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 172000,
       "name": "Holla",
       "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "R.B.",
+        "url": "https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "duration_ms": 289959,
+      "name": "R.B.",
+      "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dylan",
-          "url": "https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY"
-        },
-        {
-          "name": "Emma Wizz",
-          "url": "https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE"
-        }
-      ],
-      "duration_ms": 223454,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "D\u00e9sol\u00e9 mouvement geste",
         "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 250813,
       "name": "Il a plu il a neig\u00e9",
       "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dylan",
+          "url": "https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY"
+        },
+        {
+          "name": "Emma Wizz",
+          "url": "https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE"
+        }
+      ],
+      "duration_ms": 223454,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
     },
     {
       "added_at": "2024-06-19 20:38:05",

@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Check this out",
+        "url": "https://open.spotify.com/album/4Q4mLQjz6tvhWa3qHQ7Y1f"
+      },
+      "artists": [
+        {
+          "name": "*Luna",
+          "url": "https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254425,
+      "name": "Check this out (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0DOTvaMaYceKachQIEDsO7"
+    },
+    {
+      "album": {
         "name": "Cool Me Down",
         "url": "https://open.spotify.com/album/7avzZLbLGXYURolcpMqaCd"
       },
@@ -488,7 +510,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 165153,
       "name": "Daybreaker (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/7nYvOPJG0Zo2xtwWINW8Eb"
@@ -828,7 +850,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 272533,
       "name": "Game Changer (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/1ivgrSF0MSfFIsqoKABPHg"
@@ -1004,7 +1026,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 230992,
       "name": "injured pride (feat. Nakumo)",
       "url": "https://open.spotify.com/track/2rM9md7scSpE2uJZh9xXCA"
@@ -1074,7 +1096,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 201230,
       "name": "Just 1dB Louder (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3lC2Bk7MW7K0TVBwKCn2F1"
@@ -1194,6 +1216,24 @@
       "duration_ms": 218437,
       "name": "LiFE",
       "url": "https://open.spotify.com/track/4jZyC6VCAurHqWqgdhPOQI"
+    },
+    {
+      "album": {
+        "name": "SECRET.",
+        "url": "https://open.spotify.com/album/6JP1CSVqUGcrbdTGawgERy"
+      },
+      "artists": [
+        {
+          "name": "Osanzi",
+          "url": "https://open.spotify.com/artist/5sGhbLKSiDfJXWg8A0B7fX"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221253,
+      "name": "LiFE (Album Edit)",
+      "url": "https://open.spotify.com/track/1oEAvL0AOjfHk3iXNeVZeY"
     },
     {
       "album": {
@@ -2431,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "\u3057\u3093\u304b\u3057\u3093\u304b\u3057\u3093\u304b",
+        "url": "https://open.spotify.com/album/3dJMBG9pAbIX9BdIr2ELIF"
+      },
+      "artists": [
+        {
+          "name": "\u539f\u53e3\u6c99\u8f14",
+          "url": "https://open.spotify.com/artist/4rbv36RvcUBr74hfRCcyIp"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "\u3057\u3093\u304b\u3057\u3093\u304b\u3057\u3093\u304b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4irvh5PItOnmPyl20kqdg8"
+    },
+    {
+      "album": {
         "name": "\u3081\u3050\u308a\u30a2\u30a4",
         "url": "https://open.spotify.com/album/5eNurOEbi4uUnfM7z5g8cw"
       },
@@ -2578,6 +2640,32 @@
       "duration_ms": 157309,
       "name": "\u30a2\u30d0\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/304nRCbGj1Z7EdrtgmyREu"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3055\u306d\u308b\u307e\u305f\u305f\u304d",
+        "url": "https://open.spotify.com/album/16WF49J4znpPj0Kqok2KUg"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3048\u306c",
+          "url": "https://open.spotify.com/artist/2rbZcnXFVM4EJmU4MyZmwr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "\u30a2\u30de\u30c9\u30a4\u30c9\u30ea\u30c3\u30d7 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3qFArOuTwJb2b3Ice2vquh"
     },
     {
       "album": {
@@ -3264,7 +3352,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 281142,
       "name": "\u30d1\u30a4\u30ed (feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3\u30fb\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/2rCQxPWvN0mYfErkcn8unY"
@@ -4086,6 +4174,24 @@
       "duration_ms": 267306,
       "name": "\u604b\u3059\u308b\u2606\u30d3\u30fc\u30e0",
       "url": "https://open.spotify.com/track/43fdUr1bBMtG2vL7PRwjug"
+    },
+    {
+      "album": {
+        "name": "\u604b\u611b\u5de5\u5834",
+        "url": "https://open.spotify.com/album/3EOqhag1jUzUxpF50NbqSf"
+      },
+      "artists": [
+        {
+          "name": "tepe",
+          "url": "https://open.spotify.com/artist/2Dc4S00e5Toq28b7HT9VOu"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189933,
+      "name": "\u604b\u611b\u5de5\u5834",
+      "url": "https://open.spotify.com/track/2xCq5KdCsJyP9rNKyzBoXu"
     },
     {
       "album": {

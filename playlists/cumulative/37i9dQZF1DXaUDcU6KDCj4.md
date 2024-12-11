@@ -2,7 +2,7 @@
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Hildegard & Helena Deland
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Hildegard
 
 2,605 songs - 6 day 13 hr 9 min
 

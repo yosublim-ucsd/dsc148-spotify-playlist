@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Hildegard & Helena Deland
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Hildegard
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,730 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,819 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Cheers to Good Friends](https://open.spotify.com/track/6ShcaqMvlBcdsiZr23fDzk) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Cheers to Good Friends](https://open.spotify.com/album/3AM4TFfJFGUwKKZtHVoph2) | 2:35 |
 | 150 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 
-Snapshot ID: `Z1KE0AAAAAB2itgrZpK9qlqYVQBpn2Rs`
+Snapshot ID: `Z1h6SQAAAADnVqK2SQBFFlBxgRwjaj3m`

@@ -2293,6 +2293,32 @@
     },
     {
       "album": {
+        "name": "Chakales y Flaytes",
+        "url": "https://open.spotify.com/album/6xIg145U1IcmXhRyxv44FO"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Royer De Tepito",
+          "url": "https://open.spotify.com/artist/6GaXlfeWz9gMe7UjWA5gLz"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Chakales y Flaytes",
+      "url": "https://open.spotify.com/track/0QMXEY3JET51tmh23T1yg3"
+    },
+    {
+      "album": {
         "name": "Chakalona",
         "url": "https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi"
       },

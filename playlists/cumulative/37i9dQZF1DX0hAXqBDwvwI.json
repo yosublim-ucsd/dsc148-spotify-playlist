@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
@@ -2222,6 +2222,24 @@
       "duration_ms": 246000,
       "name": "FLY HIGH!!",
       "url": "https://open.spotify.com/track/46otlpQFL4eQA99CserOcP"
+    },
+    {
+      "album": {
+        "name": "Crazy Crazy / Fly Higher",
+        "url": "https://open.spotify.com/album/64thyWJFmAQVIGBDicbijf"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198386,
+      "name": "Fly Higher",
+      "url": "https://open.spotify.com/track/677LgZoTudjik89LdA3PxT"
     },
     {
       "album": {

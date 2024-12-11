@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 190746,
       "name": "AM Sunset",
       "url": "https://open.spotify.com/track/06ZwqZmTvUVclp1a7a1Wka"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 176058,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 141045,
       "name": "Confidencen",
       "url": "https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 140960,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/3dJynjqNyED7rRYfjKhMZQ"
@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
@@ -6146,7 +6146,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 141309,
       "name": "Keep a light",
       "url": "https://open.spotify.com/track/2HiOk8q1M0bbRr5RNrXeR0"
@@ -6938,7 +6938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 152670,
       "name": "Like no other",
       "url": "https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW"
@@ -7302,7 +7302,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 155501,
       "name": "Luisa",
       "url": "https://open.spotify.com/track/4vjJEZHhvFvH8l2ZyKMHwI"
@@ -9610,7 +9610,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 139113,
       "name": "Quiver and Wince",
       "url": "https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb"
@@ -10816,7 +10816,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 125596,
       "name": "Sol",
       "url": "https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj"
@@ -11270,6 +11270,24 @@
       "duration_ms": 151516,
       "name": "Spro\u0308ssling",
       "url": "https://open.spotify.com/track/1g6ezK2BBrM9R97O8SlJsW"
+    },
+    {
+      "album": {
+        "name": "Squares",
+        "url": "https://open.spotify.com/album/7CdcOB80Mr91dRp6tsv9B4"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Squares",
+      "url": "https://open.spotify.com/track/2S7tKTNzlT6uNDOMQwXTTb"
     },
     {
       "album": {
@@ -12022,7 +12040,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 126268,
       "name": "The Green isle",
       "url": "https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t"
@@ -12310,7 +12328,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 153979,
       "name": "Those Nights",
       "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
@@ -12652,7 +12670,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 146050,
       "name": "Until You",
       "url": "https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h"
@@ -13974,6 +13992,24 @@
       "duration_ms": 185671,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/5P3BsY0X3coRVobCcaDLRh"
+    },
+    {
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/0dHwSbG86FO8aiGFrBrmFr"
+      },
+      "artists": [
+        {
+          "name": "Quinn Sage",
+          "url": "https://open.spotify.com/artist/4k3ooZfSTsaIT5DPGL2dhz"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162231,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/6EpvQk0cm34OCHYSTs4UU9"
     },
     {
       "album": {

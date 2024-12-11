@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=TKXoI9YCQWOWO598u3NCWA>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,830 likes - 94 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,847 likes - 94 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

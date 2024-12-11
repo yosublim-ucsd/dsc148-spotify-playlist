@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-346 songs - 1 day 9 hr 33 min
+347 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Tasty Nozoid](https://open.spotify.com/track/6eKX3bxCD8TROFZJbjNo2Q) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Elderberry](https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX) | 1:58 | 2023-10-02 | 2024-02-28 |
 | [Technology Is Twisting My Mind](https://open.spotify.com/track/64HocyB5tlyG5OM57fHwKs) | [Oscar Escapa](https://open.spotify.com/artist/57BUm7y9qlP1Jp1bcA7yn3), [Linear Phase](https://open.spotify.com/artist/2M9Cp6P5YbYgthPSGTURYX) | [Technology Is Twisting My Mind EP](https://open.spotify.com/album/2hDV3xRQ5ndqhtbJYbY462) | 5:15 | 2024-11-20 |  |
 | [Test](https://open.spotify.com/track/5LYdIak09ufeAgW51Jisfz) | [Hybrasil](https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI) | [Test & Push](https://open.spotify.com/album/4xSRyzSwMRyaV1Cv8WfQJn) | 6:35 | 2024-09-18 | 2024-12-07 |
+| [That Place](https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg) | [Vikthor](https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO) | [That Place](https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE) | 7:06 | 2024-12-10 |  |
 | [The Badman](https://open.spotify.com/track/4WZygtJvWrQnW1hwe70UKg) | [Hertz](https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7) | [Barracuda](https://open.spotify.com/album/10VdzgSXSHjr88uwuJa343) | 5:46 | 2024-09-18 |  |
 | [The Deepness](https://open.spotify.com/track/0iH86XIUAfiMdToNLI0sLq) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Deepness](https://open.spotify.com/album/5z7r33ciQsIU7gQgE23De5) | 7:21 | 2024-06-03 | 2024-11-21 |
 | [The Dust Arrival](https://open.spotify.com/track/1A4d4nfAMLGhpCQmxiE1fS) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \- EP](https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4) | 5:19 | 2023-02-13 | 2023-08-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Adán Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,279 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,284 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 33 | [It's Okey](https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [It's Okey](https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9) | 3:17 |
 | 34 | [CASI](https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE) | [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [CASI](https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu) | 2:26 |
 | 35 | [Mi Gente](https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E) | [Mare Advertencia](https://open.spotify.com/artist/0T0ypGd1eq9npIDWMMTt7J) | [Mi Gente](https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV) | 2:52 |
-| 36 | [Salmos](https://open.spotify.com/track/3iVSrLMgMJRremITvXnmWz) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Salmos](https://open.spotify.com/album/6Rfot8iuv3rd9wpVvBkI32) | 3:35 |
-| 37 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |
-| 38 | [MPD](https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [MPD](https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o) | 3:11 |
-| 39 | [Cxrtier](https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [Cxrtier](https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC) | 4:04 |
+| 36 | [NADA QUE TEMER](https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg) | [MC Ari](https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW), [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [L'Xuasma](https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO) | [NADA QUE TEMER](https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ) | 2:46 |
+| 37 | [Cxrtier](https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [Cxrtier](https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC) | 4:04 |
+| 38 | [Salmos](https://open.spotify.com/track/3iVSrLMgMJRremITvXnmWz) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Salmos](https://open.spotify.com/album/6Rfot8iuv3rd9wpVvBkI32) | 3:35 |
+| 39 | [MPD](https://open.spotify.com/track/2nC58QdbBDnGHok2mwUz7k) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [MPD](https://open.spotify.com/album/4lBsypSzJV7FKTOry1OS4o) | 3:11 |
 | 40 | [Manantial](https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu) | [AEME](https://open.spotify.com/artist/1BvuliS0keIKrgH8dvvJQM), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [Manantial](https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3) | 3:14 |
 | 41 | [DIME](https://open.spotify.com/track/48QeXQXJUfRf3WNkqAf3o9) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Niko RST](https://open.spotify.com/artist/51Kf7rHbmDtPij3BOcjhJd) | [DIME](https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE) | 3:43 |
 | 42 | [25 Horas](https://open.spotify.com/track/0oHynHWTNut3T6Fmt2aVZg) | [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm) | [25 Horas](https://open.spotify.com/album/7IPkZfiNCCBWYj8InLxr0x) | 2:53 |

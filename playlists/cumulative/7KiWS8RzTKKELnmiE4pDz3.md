@@ -4,7 +4,7 @@
 
 > 
 
-829 songs - 1 day 15 hr 52 min
+830 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Plastic](https://open.spotify.com/track/1D0FXktMId8ocFISiXoGNG) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Flawless](https://open.spotify.com/album/3G9AmxmuqKPVRrcr0X7ns3) | 2:56 | 2023-02-02 | 2023-04-12 |
 | [Player](https://open.spotify.com/track/35x7wRh6EKz8g2z0i2ePIF) | [0oDarksideo0](https://open.spotify.com/artist/2C6jKeAzoqfAyS1C2icx5j) | [Lost Files 4 \*Ken\*](https://open.spotify.com/album/2OrIEj7JEItUOW8wITjiSt) | 2:25 | 2023-01-11 | 2023-05-09 |
 | [Player](https://open.spotify.com/track/54oNnhlEHJhvEmVutaB5hE) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:20 | 2023-01-07 | 2023-12-14 |
+| [POA](https://open.spotify.com/track/52SuMdAYS2jvKQhODi0ARY) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:08 | 2024-12-10 |  |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-27 | 2023-03-01 |
 | [Pole Up](https://open.spotify.com/track/5EIXidjeXvKcPvCIMbmdu1) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [Pole Up](https://open.spotify.com/album/1Byq2kGSGvZgBbJpakcX8L) | 2:06 | 2023-01-07 | 2023-12-14 |
 | [Pop Star](https://open.spotify.com/track/0gxIctWpV2oR6XvnNrR7rH) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 2:23 | 2023-07-12 | 2023-12-14 |

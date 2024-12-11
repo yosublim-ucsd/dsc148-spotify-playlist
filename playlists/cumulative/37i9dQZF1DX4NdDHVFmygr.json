@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 142310,
       "name": "BAMBARA",
       "url": "https://open.spotify.com/track/5EBSvoppcZtLqZ7kif2Mhz"
@@ -2140,6 +2140,28 @@
       "duration_ms": 220444,
       "name": "DRAILL",
       "url": "https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2"
+    },
+    {
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "D\u00e9sert",
+      "url": "https://open.spotify.com/track/1aiXeh3DcFxD0tu8TdjH8j"
     },
     {
       "album": {
@@ -5230,7 +5252,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 158677,
       "name": "MARADONA - Remix",
       "url": "https://open.spotify.com/track/1eiL5AM3hsfhrmXkfSKlfj"
@@ -6268,6 +6290,24 @@
       "duration_ms": 188408,
       "name": "Premier amour",
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
+    },
+    {
+      "album": {
+        "name": "Psychologue",
+        "url": "https://open.spotify.com/album/6Ro6eqJkkWKKbYef8pKdOh"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182773,
+      "name": "Psychologue",
+      "url": "https://open.spotify.com/track/0qS4qhRKL177FnJofUIwQx"
     },
     {
       "album": {

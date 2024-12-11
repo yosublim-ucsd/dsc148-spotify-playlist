@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Chevon",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Maverick Mom",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 212378,
       "name": "Hot Dog Planet",
       "url": "https://open.spotify.com/track/5IqW5D8dcQWg39nEzf1mac"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 183200,
       "name": "jabber",
       "url": "https://open.spotify.com/track/5ucYLXCSafpbzkaPKeXmWX"
@@ -2814,6 +2814,24 @@
       "duration_ms": 257409,
       "name": "kajitsukyoso",
       "url": "https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I"
+    },
+    {
+      "album": {
+        "name": "Kakegaenai",
+        "url": "https://open.spotify.com/album/2ETYCWpxVSYkYFHeLZ0ely"
+      },
+      "artists": [
+        {
+          "name": "Arakezuri",
+          "url": "https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203939,
+      "name": "Kakegaenai",
+      "url": "https://open.spotify.com/track/5M89VjU2SFExv2IQniNeP9"
     },
     {
       "album": {
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 201000,
       "name": "L\u016bcifer",
       "url": "https://open.spotify.com/track/1RtC6BpTJcChw0901aHqXu"
@@ -3992,7 +4010,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 169491,
       "name": "My Way",
       "url": "https://open.spotify.com/track/2xUsIWnfQyforCmrmC3gn3"
@@ -4392,6 +4410,24 @@
       "duration_ms": 215744,
       "name": "ONGAKU JUNBISHITSU",
       "url": "https://open.spotify.com/track/0LjJBLSJzWj3g1SWbmu3we"
+    },
+    {
+      "album": {
+        "name": "ongakunankakikanakuteiiyouni",
+        "url": "https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "ongakunankakikanakuteiiyouni",
+      "url": "https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP"
     },
     {
       "album": {
@@ -5342,7 +5378,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 252333,
       "name": "Shutter Chance",
       "url": "https://open.spotify.com/track/3NI2lmWC7DgQs1tMSKARpv"
@@ -5702,7 +5738,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 179026,
       "name": "SUMMER PLANNING",
       "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
@@ -5972,7 +6008,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 293211,
       "name": "The Gleaming City",
       "url": "https://open.spotify.com/track/1kpl2ElUdYkT3O43cNI9SB"
@@ -6174,7 +6210,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 199588,
       "name": "Vague",
       "url": "https://open.spotify.com/track/6iJJbCq59pV2gkmPIjOaKB"
@@ -6271,6 +6307,24 @@
     },
     {
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/26eluELAmbngGNrvH1dkv3"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/1UiehiP8oINZzEbyuafNuv"
+    },
+    {
+      "album": {
         "name": "wind e.p.",
         "url": "https://open.spotify.com/album/1MtCi1jcGMGrQsEvq1xEro"
       },
@@ -6300,7 +6354,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 263413,
       "name": "Winter song",
       "url": "https://open.spotify.com/track/3gJid4kMZMA9yj646WbEGU"
@@ -6394,6 +6448,24 @@
       "duration_ms": 203293,
       "name": "Yell",
       "url": "https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K"
+    },
+    {
+      "album": {
+        "name": "Yellow Messenger",
+        "url": "https://open.spotify.com/album/2qck3Yt7XtR91CWWY8bCN5"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215017,
+      "name": "Yellow Messenger",
+      "url": "https://open.spotify.com/track/3IBcBXPf6yrUE5Y7nd8s3W"
     },
     {
       "album": {
@@ -6732,7 +6804,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 201140,
       "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
       "url": "https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk"
@@ -7560,7 +7632,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 229986,
       "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/5bahvNcLpmfTgbk05thpER"
@@ -7686,7 +7758,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 224020,
       "name": "\u30a2\u30d6\u30e9\u30ab\u30bf\u30d6\u30e9",
       "url": "https://open.spotify.com/track/12yyNcfJMYfk9Bht74re7y"
@@ -7974,7 +8046,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 264387,
       "name": "\u30aa\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/2kgGo6iOGvgVZadv8JYqy1"
@@ -8424,7 +8496,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 233442,
       "name": "\u30b7\u30ca\u30e2\u30f3",
       "url": "https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg"
@@ -8586,7 +8658,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 218000,
       "name": "\u30b8\u30e3\u30fc\u30cb\u30fc",
       "url": "https://open.spotify.com/track/4NsVI3vhKcTteWevJyyUJg"
@@ -8838,7 +8910,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 251440,
       "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
       "url": "https://open.spotify.com/track/5CgGj8pJIvPiX9hHsi1WCa"
@@ -8946,7 +9018,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 194813,
       "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
@@ -9828,7 +9900,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 181170,
       "name": "\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6Qeyk5x8Vb8sktphQJoejG"
@@ -10555,6 +10627,24 @@
     },
     {
       "album": {
+        "name": "\u30ef\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/6vqEmvuNYwh8EUuk6WYsrK"
+      },
+      "artists": [
+        {
+          "name": "Cidergirl",
+          "url": "https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "\u30ef\u30b4\u30f3",
+      "url": "https://open.spotify.com/track/5roUCXqvMpilr43JipuuFf"
+    },
+    {
+      "album": {
         "name": "\u30ef\u30fc\u30eb\u30c9",
         "url": "https://open.spotify.com/album/6imGT2DvcwbGE6B6kIa11M"
       },
@@ -10818,7 +10908,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 225256,
       "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/2ofXUTtrhwCWgsX3ia3Kvt"
@@ -10872,7 +10962,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 286225,
       "name": "\u5024\u5343\u91d1",
       "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
@@ -11374,7 +11464,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 238429,
       "name": "\u541b\u3068\u7656",
       "url": "https://open.spotify.com/track/4bpZMZWxnYc9zDejhHgjbN"
@@ -11957,6 +12047,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/3F2QjXIUBauMdSa0ER8ZZh"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u3068\u30e1",
+          "url": "https://open.spotify.com/artist/66yrLdRscnShf6ZIKqUltg"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "\u597d\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/7HILvUeTTd1UZW8qEHjQHl"
+    },
+    {
+      "album": {
         "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
         "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
       },
@@ -12404,7 +12512,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "\u611b\u306e\u4e7e\u71e5\u6a5f",
       "url": "https://open.spotify.com/track/4LB2LhjrQf7OXzO4MSSpeJ"
@@ -12620,7 +12728,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 224651,
       "name": "\u65c5\u8def",
       "url": "https://open.spotify.com/track/4DDn9TyqXKb8oatJEUzxAf"
@@ -12962,7 +13070,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 205239,
       "name": "\u6709\u7dda\u30e9\u30b8\u30aa\u3067\u50d5\u306e\u6b4c\u304c\u6d41\u308c\u3066\u3044\u305f\u3089\u3057\u3044",
       "url": "https://open.spotify.com/track/4uSA7MVSIiSPyNby6XHhcS"

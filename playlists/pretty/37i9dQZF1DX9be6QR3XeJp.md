@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: jasmine.4.t
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,895 likes - 216 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,881 likes - 216 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 90210,
+  "num_followers": 90229,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,26 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "Contigo At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
+      },
+      "artists": [
+        {
+          "name": "Elida Rodrigues",
+          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
+        },
+        {
+          "name": "S\u00e9rgio Lopes",
+          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+        }
+      ],
+      "duration_ms": 243714,
+      "name": "Contigo At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
         "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 187937,
       "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
       "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "Louvor Ra\u00edz",
-        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Maximus Records",
-          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Oliveira Verdadeira",
-      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -407,22 +407,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Contigo At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
+        "name": "Louvor Ra\u00edz",
+        "url": "https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF"
       },
       "artists": [
         {
-          "name": "Elida Rodrigues",
-          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "S\u00e9rgio Lopes",
-          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+          "name": "Maximus Records",
+          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
         }
       ],
-      "duration_ms": 243714,
-      "name": "Contigo At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
+      "duration_ms": 254000,
+      "name": "Oliveira Verdadeira",
+      "url": "https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "Chuva de Poder",
-        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rodrigues",
-          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Chuva de Poder",
-      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
         "name": "Triunfo de Gl\u00f3ria",
         "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
+        "name": "Chuva de Poder",
+        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
       },
       "artists": [
         {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
         }
       ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
+      "duration_ms": 196000,
+      "name": "Chuva de Poder",
+      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -559,6 +543,22 @@
       "duration_ms": 216127,
       "name": "N\u00e3o Saia do Meu Lado",
       "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
+      },
+      "artists": [
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        }
+      ],
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2024-11-22 03:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-22 03:01:00",
       "album": {
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
+      },
+      "artists": [
+        {
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+    },
+    {
+      "added_at": "2024-11-22 03:01:00",
+      "album": {
         "name": "Vou Embora pro C\u00e9u",
         "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 214786,
       "name": "Vou Embora pro C\u00e9u",
       "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
-    },
-    {
-      "added_at": "2024-11-22 03:01:00",
-      "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
     },
     {
       "added_at": "2024-11-22 03:01:00",

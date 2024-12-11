@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-112 songs - 4 hr 57 min
+113 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 | 2023-09-27 | 2023-10-25 |
 | [Oh Come All Ye Faithful \(Strings\)](https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA) | [Jennifer Saran](https://open.spotify.com/artist/6jVs08HTU1scgge7NaxAed) | [Merry Christmas, You Are Loved](https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw) | 0:55 | 2021-11-19 | 2023-09-28 |
 | [Oh Tannenbaum](https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Oh Tannenbaum](https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh) | 3:03 | 2024-10-22 |  |
+| [Once In Royal David's City \- Cover](https://open.spotify.com/track/03L6Nsi30mkQCV4J8NIKOa) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Once In Royal David's City \(Cover\)](https://open.spotify.com/album/6TYn9cCxYAO4POz6wNfzAx) | 1:42 | 2024-12-10 |  |
 | [Once In Royal Davids City](https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:52 | 2021-11-19 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-11-19 |  |
 | [Sans Day Carol](https://open.spotify.com/track/0MgmWPH6FK4xH6TEfDjsac) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [The Joy of Christmas](https://open.spotify.com/album/4GxRbhZWUu5yFL9fr6IztU) | 2:08 | 2024-11-06 |  |

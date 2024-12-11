@@ -4,7 +4,7 @@
 
 > und macht laune
 
-261 songs - 12 hr 12 min
+262 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Unendlichkeit \(Remix\)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [The Boy The G](https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO) | [Unendlichkeit \(Remix\)](https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o) | 2:52 | 2023-10-28 |  |
 | [UNISEXKLO](https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [UNISEXKLO](https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6) | 2:06 | 2024-11-18 |  |
 | [Up, Up, Up \(Nobody's perfect\)](https://open.spotify.com/track/1WYDoHtHLJ3mt3SRohiYto) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp) | [Up, Up, Up \(Nobody’s perfect\)](https://open.spotify.com/album/1kO0Z2pXZXPagFnuBcXwby) | 2:06 | 2024-05-10 | 2024-09-28 |
-| [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-11-10 |  |
+| [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-11-10 | 2024-12-11 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-16 | 2024-11-12 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
 | [Von Party zu Party](https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO) | [SXTN](https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3) | [Leben am Limit](https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h) | 3:44 | 2023-07-21 |  |
@@ -269,5 +269,6 @@
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-07-21 | 2023-09-04 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-09-08 |  |
 | [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 |  |
+| [ZOOM CALL](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [ZOOM CALL](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 | 2024-12-09 |  |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

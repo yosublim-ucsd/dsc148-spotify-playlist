@@ -8319,6 +8319,32 @@
     },
     {
       "album": {
+        "name": "Powerhouse (Feat. Sanjay Dutt)",
+        "url": "https://open.spotify.com/album/3PQQ2b6RbARcBU8NFESL0s"
+      },
+      "artists": [
+        {
+          "name": "Bhupinder Babbal",
+          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
+        },
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174074,
+      "name": "Powerhouse (Feat. Sanjay Dutt)",
+      "url": "https://open.spotify.com/track/2cGtNmEJ0lwrUebjTzAio3"
+    },
+    {
+      "album": {
         "name": "Powerplay",
         "url": "https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE"
       },

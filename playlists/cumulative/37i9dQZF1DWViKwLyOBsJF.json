@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Once In Royal David's City (Cover)",
+        "url": "https://open.spotify.com/album/6TYn9cCxYAO4POz6wNfzAx"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Young",
+          "url": "https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102220,
+      "name": "Once In Royal David's City - Cover",
+      "url": "https://open.spotify.com/track/03L6Nsi30mkQCV4J8NIKOa"
+    },
+    {
+      "album": {
         "name": "Piano Christmas",
         "url": "https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv"
       },

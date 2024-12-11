@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-1,049 songs - 2 day 0 hr 55 min
+1,050 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Aint The Regulars](https://open.spotify.com/track/2bFPBrijd9qGaNefdCUvDb) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Aint The Regulars](https://open.spotify.com/album/0V6HZvkZGRXGxw8QPgEwUN) | 2:19 | 2023-12-15 | 2024-01-06 |
 | [AIN’T NOTHIN](https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [NOT HARD 2 UNDERSTAND](https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw) | 3:22 | 2023-12-08 | 2024-05-18 |
 | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/track/6McVbBFuyOF532MX7Mc1zm) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [AIN’T ON SHIT \(feat\. Lil Zay Osama\)](https://open.spotify.com/album/5OMKyOOGz3VVJKIzLs1XFP) | 2:27 | 2023-10-27 | 2023-11-04 |
+| [All 10](https://open.spotify.com/track/7iCkpEdPra4Dwex4nwguaD) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Tweaker Mode](https://open.spotify.com/album/5JOH23VgkXBfaGPjVTPcux) | 2:34 | 2024-12-10 |  |
 | [All Blue](https://open.spotify.com/track/17mVb5scsMo19AmV1r5rNr) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [All Blue](https://open.spotify.com/album/6HE5aKHcsorSzReD3VCFWq) | 2:28 | 2022-07-22 | 2022-09-10 |
 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 | 2024-10-18 |  |
 | [ALLAT](https://open.spotify.com/track/1KdfIM1ZvzSWBGuk7n1Hie) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD) | [ALLAT](https://open.spotify.com/album/6Va3zluiLcnhrMfRjTArjU) | 2:23 | 2023-11-10 |  |

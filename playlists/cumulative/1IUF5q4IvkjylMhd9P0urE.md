@@ -4,7 +4,7 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-726 songs - 1 day 17 hr 53 min
+728 songs - 1 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Knife Edge](https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Confidenza \(Original Soundtrack\)](https://open.spotify.com/album/2DpwYA58Qs00nRl59i4eiL) | 3:19 | 2024-09-07 |  |
 | [Kodek](https://open.spotify.com/track/1heVHvWk8pSxpyXQgj5y7M) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Kodek](https://open.spotify.com/album/4w48yDok6G3U1fxEI0ebKB) | 3:38 | 2023-07-03 | 2023-12-08 |
 | [Kula](https://open.spotify.com/track/5V7Smb2yZ9tPLWJPRvhJ3X) | [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE) | [Habitat 48](https://open.spotify.com/album/62NrwStVJI3odV4cmXZ95m) | 2:41 | 2024-09-07 |  |
+| [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 | 2024-12-10 |  |
 | [L.F.O.](https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [L.F.O.](https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA) | 4:31 | 2023-05-23 | 2023-10-20 |
 | [La no Musicbox](https://open.spotify.com/track/158Ao8OwubT0mgr5zXin1K) | [DJ Bboy](https://open.spotify.com/artist/0jAw7gyaUsMHA1Ml5G19iO) | [Tulipa](https://open.spotify.com/album/2PK6n1QufF7TFzdxoiWesv) | 2:24 | 2024-09-07 |  |
 | [La Noche se Apaga](https://open.spotify.com/track/4mXDi6pxCx95OZLf3ocavG) | [TAYHANA](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg), [Aggromance](https://open.spotify.com/artist/5ZnK3B4GLZJsoibFQqUae3) | [La Noche se Apaga](https://open.spotify.com/album/5lPCJbL3hcXJZd70ar4CvU) | 5:35 | 2024-12-09 |  |
@@ -581,6 +582,7 @@
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-09-07 |  |
 | [Satisfy](https://open.spotify.com/track/0EWUew0pxdYClLrBIRDu3x) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [In Transit](https://open.spotify.com/album/3Hpduk2uMFN021IlWCjgFJ) | 3:00 | 2022-09-16 | 2022-11-09 |
 | [Satisfy You](https://open.spotify.com/track/5kEw87BEeUlM4Y3z7e31wq) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Satisfy You](https://open.spotify.com/album/5tkytLQFtBzhfXtXhrWVYg) | 3:27 | 2024-01-29 | 2024-09-08 |
+| [Say what you mean](https://open.spotify.com/track/6IvwPQPywjDyK5a6pSqL5Z) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Say what you mean](https://open.spotify.com/album/3Xb60HqihT6OcCLEtrF8Nj) | 2:36 | 2024-12-10 |  |
 | [Scatta Scatta](https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Scatta Scatta](https://open.spotify.com/album/5YnANprNm0DTEVVsJE6bRP) | 3:15 | 2022-11-08 | 2023-01-19 |
 | [Scorpio Sun](https://open.spotify.com/track/10CRTxsoDvwgBygdKsyhQE) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ) | [From The Floor To The Booth](https://open.spotify.com/album/2frqao7MHXrHmYrijCWlm0) | 5:46 | 2022-09-16 | 2022-11-09 |
 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 | 2023-04-13 | 2023-08-04 |

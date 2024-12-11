@@ -4,7 +4,7 @@
 
 > Music From "BEASTARS"! 主題歌、挿入歌、サントラで辿る「BEASTARS」の世界! \(C\) 板垣巴留（秋田書店）／BEASTARS製作委員
 
-116 songs - 4 hr 21 min
+117 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Devour this…](https://open.spotify.com/track/1CFVFZQyoezEIbFgO5Y8xt) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:42 | 2022-01-17 | 2023-03-15 |
 | [Everyday life](https://open.spotify.com/track/0udxdic6rVIh2jXdzi4VWd) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 1:40 | 2022-01-17 | 2023-03-15 |
 | [Everyday life](https://open.spotify.com/track/33mwrNDTrnG27fEa59wlFv) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 1:40 | 2022-01-17 | 2022-07-29 |
+| [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 | 2024-12-10 |  |
 | [Fighting animals](https://open.spotify.com/track/4LI5nMBKs8TRWm4iVIrezS) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック](https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH) | 1:42 | 2022-01-17 | 2023-03-15 |
 | [Genuine friendship](https://open.spotify.com/track/2eHPTnhv207dPziRFNORHL) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI) | 2:20 | 2022-01-17 | 2022-07-29 |
 | [Genuine friendship](https://open.spotify.com/track/35hfe7QgMykeqB8uB5Xt0B) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [TVアニメ「BEASTARS」オリジナルサウンドトラック2](https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX) | 2:20 | 2022-01-17 | 2023-03-15 |

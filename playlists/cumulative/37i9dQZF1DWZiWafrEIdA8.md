@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-243 songs - 14 hr 20 min
+244 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-05-23 | 2022-07-28 |
 | [Daydreaming](https://open.spotify.com/track/1hOahzGzbUO28mcIfHWhOE) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:22 | 2022-05-23 | 2022-07-29 |
 | [Dayoff \(Feat\. Hawoong, Donutman\)](https://open.spotify.com/track/1bTyV3e0x0H5uPxww4oNT6) | [WavyCake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G), [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [MINDWAVE](https://open.spotify.com/album/48YHug0G2KH2pN3hl2FcYt) | 3:34 | 2022-05-23 | 2022-07-27 |
+| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2024-11-29 |  |
 | [Don't Worry \(prod\. Jflow\)](https://open.spotify.com/track/3Dboahq6vbELGlh4SvI4xH) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [W.O.L.F](https://open.spotify.com/album/2kDDEktmAY3EZCYmGwnF1o) | 4:21 | 2022-06-03 | 2022-07-22 |
 | [Don′t do That](https://open.spotify.com/track/5OiD0uUNxZkSyG3opReDlx) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:15 | 2024-07-02 |  |
 | [dot](https://open.spotify.com/track/1UdVq1sK4CCUyANAftBg7p) | [Tuifu](https://open.spotify.com/artist/3Xv6OHY9QmNHflRXw3fwQx) | [dot](https://open.spotify.com/album/0WuSQaQIAt8Tr4f9TVrZuk) | 3:41 | 2022-05-23 | 2022-07-27 |
@@ -229,7 +230,7 @@
 | [When it rains](https://open.spotify.com/track/4r5VubfzbqVjQHgbgthqAU) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/1BfyVADByjeX8o6eI1u5Et) | 3:34 | 2022-05-23 | 2022-07-23 |
 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 | 2022-05-23 | 2024-07-03 |
 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 | 2024-07-02 |  |
-| [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2024-07-02 |  |
+| [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2024-07-02 | 2024-12-11 |
 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 | 2024-07-02 |  |
 | [winter night \(Feat\. DUT2\)](https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:11 | 2022-05-23 | 2024-04-23 |
 | [wish](https://open.spotify.com/track/1i8Gii2k5VTJqf8UNEve9U) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:41 | 2022-05-23 | 2022-07-26 |

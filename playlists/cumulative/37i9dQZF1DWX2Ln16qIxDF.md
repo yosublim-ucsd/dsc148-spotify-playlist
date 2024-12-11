@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más trendy, o sea LIT killah & Paulo Londra
 
-651 songs - 1 day 9 hr 6 min
+652 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo) | 3:12 | 2024-03-14 | 2024-04-06 |
 | [10percs](https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [10percs](https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE) | 2:06 | 2024-03-22 | 2024-06-08 |
 | [1Amor](https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Spotify Singles](https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51) | 2:32 | 2023-09-01 | 2023-10-10 |
+| [2.0](https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [COSMIC KID](https://open.spotify.com/album/7M3tTNeYiYamVgZur0HIap) | 1:49 | 2024-12-10 |  |
 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 | 2024-09-20 | 2024-11-21 |
 | [24](https://open.spotify.com/track/0WSmDYN1aVmc7jHiLL4v0P) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [24](https://open.spotify.com/album/2Gb8O121vEjCFFQ1EAQmYy) | 3:43 | 2023-08-25 | 2023-09-02 |
 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 | 2023-05-12 | 2023-06-30 |

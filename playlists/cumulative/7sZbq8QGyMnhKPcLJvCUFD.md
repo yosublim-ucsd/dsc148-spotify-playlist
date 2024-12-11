@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-641 songs - 1 day 8 hr 30 min
+642 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [What I Say \- Thorne Remix](https://open.spotify.com/track/1t54AP4CUYAG0gScKyWDlq) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [What I Say \(Thorne Remix\)](https://open.spotify.com/album/3fA3glGee0K59Lm08CVElv) | 3:08 | 2023-03-10 | 2023-08-10 |
 | [What I Want](https://open.spotify.com/track/4qpxyKNLO2NT6f5q5pefRI) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [What I Want](https://open.spotify.com/album/5PBxydJZJ4dTwLuUB2F76K) | 2:10 | 2023-07-20 | 2023-08-10 |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-25 | 2023-04-28 |
+| [What You Did](https://open.spotify.com/track/5XEONEp0zR8hUQitG66IxA) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [What You Did](https://open.spotify.com/album/16hPDvuC9mngcirBytn3YG) | 3:26 | 2024-12-10 |  |
 | [What You Gonna Do](https://open.spotify.com/track/4vmgwpTfj1TsOwCNKnl6Ro) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [What You Gonna Do](https://open.spotify.com/album/0QUZjVOZFGsf6xsCxbWXxn) | 3:05 | 2023-02-01 | 2023-04-28 |
 | [What's The Problem?](https://open.spotify.com/track/0yt5NPqjpgI9FcSXhe22Nv) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [What's The Problem?](https://open.spotify.com/album/5ud4Pyj0zSeUtQRxiB037g) | 2:28 | 2023-12-26 | 2024-07-19 |
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 | 2023-04-28 |

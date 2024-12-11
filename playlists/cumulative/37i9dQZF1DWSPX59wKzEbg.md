@@ -4,7 +4,7 @@
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-57 songs - 3 hr 15 min
+58 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [When a Child Is Born](https://open.spotify.com/track/69tL2L2sPoHr9W2LA0yVdm) | [Zacar](https://open.spotify.com/artist/4HGIHdROFZSUh70VsKcyoE), [Jay](https://open.spotify.com/artist/5FtUCtiM58XfWegbXeKJJd), [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [The Christmas Collection](https://open.spotify.com/album/3Hn4INUvIfBYrEeuCLQNq2) | 2:58 | 2023-12-08 |  |
 | [Whence Is That Goodly Fragrance?](https://open.spotify.com/track/38ex27W7uuqGLpA8uON7NE) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [English Session Orchestra](https://open.spotify.com/artist/1MGuD9PeS6Pk2dqogvUWGb) | [The Christmas Album](https://open.spotify.com/album/2Z9hhgfRH3odCijDUnxina) | 3:28 | 2023-12-08 |  |
 | [White Christmas](https://open.spotify.com/track/32OwQk43RF56KnNp0LmlYh) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii), [Rolando Villazón](https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq), [Slovak National Symphony Orchestra](https://open.spotify.com/artist/6h3cTiy3fjPf9moXgQIWeX), [Allan Wilson](https://open.spotify.com/artist/6KVBv8xrYZTaK5szysZaDK) | [Feliz Navidad](https://open.spotify.com/album/3gtn9bNOxS2E7eNRuwA5Tx) | 2:46 | 2023-12-08 |  |
+| [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [White Christmas \(feat\. Sofia Carson\)](https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8) | 3:58 | 2024-12-10 |  |
 | [Winter Morning](https://open.spotify.com/track/79kVlOJRnLShwIYbmwX2rm) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb), [Ernst Ravnaas](https://open.spotify.com/artist/1TeDTqiKm1eHAcVx7EwOiQ), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Mack J Wilberg](https://open.spotify.com/artist/11PuDJ6g7ft35AXQcXX144), [The Tabernacle Orchestra at Temple Square](https://open.spotify.com/artist/1167VG9MloptyRsjuGh9Ie) | [Winter Morning](https://open.spotify.com/album/28ihDyYZ8yD7hDeGF7aPlX) | 3:59 | 2023-12-08 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0Gn78ptOlon3LodbtfUGKY) | [Felix Bernard](https://open.spotify.com/artist/4us59Bx720z6eLFe7FeoEA), [Jonas Kaufmann](https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB), [Cologne Studio Big Band](https://open.spotify.com/artist/0q8Q59M2tTlesHd6xsWAh7), [Wieland Reissmann](https://open.spotify.com/artist/3pWegp2nsK9laZBRNujnAJ) | [It's Christmas!](https://open.spotify.com/album/5c811s084DjncLFm7LBv2q) | 2:18 | 2023-12-08 |  |
 

@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-135 songs - 5 hr 30 min
+137 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [O Christmas Tree](https://open.spotify.com/track/0MLQUwQoS19BsLUPA6e9X9) | [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [O Christmas Tree](https://open.spotify.com/album/556MZq4fufq4ZqNfDPqUTR) | 2:22 | 2022-11-11 | 2023-09-14 |
 | [O Christmas Tree](https://open.spotify.com/track/1o4OWH9X9vCLdXovc9srBf) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [O Christmas Tree](https://open.spotify.com/album/330srj378ZK3zv8SgU0gnO) | 2:43 | 2022-11-11 | 2023-11-18 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/2Xbwz90RmiyjxpEwb7mDBB) | [Benjamin Kind](https://open.spotify.com/artist/0BA7zez00ansnG7yhRhHGo) | [Christmas Gems](https://open.spotify.com/album/5xYvzhwYal0LGfQxkcyXGx) | 2:19 | 2024-11-20 |  |
+| [O Come All Ye Faithful](https://open.spotify.com/track/2YahtbkRZgJca59Zwynzhb) | [Lewis Knight](https://open.spotify.com/artist/7gLoi2AS98NhhbhJBxd3bn) | [O Come All Ye Faithful](https://open.spotify.com/album/1aSRGQmhjPwBUAijeLCaXV) | 2:52 | 2024-12-10 |  |
 | [O Come O Come Emmanuel \(Guitar Version\)](https://open.spotify.com/track/1Pt6RJNt2czMZh1JBHWOke) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Christmas Classics on Guitar, Vol\. 1](https://open.spotify.com/album/0HLYPlAeius3rPL4ihsswM) | 2:38 | 2021-12-22 | 2024-04-19 |
 | [O Come O Come Emmanuel \(Guitar Version\)](https://open.spotify.com/track/5SnfBCzQuFdVYnHDIl6csn) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Christmas Classics on Guitar, Vol\. 1](https://open.spotify.com/album/0d0EcsmVJ5pCGduav8AHmv) | 2:38 | 2021-12-22 |  |
 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/2dBAE3QlE85uEVQtjrTY72) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/1n7liT9IF0lI3YwwwD4zkc) | 2:27 | 2021-12-22 | 2024-04-19 |
@@ -113,6 +114,7 @@
 | [One December Night](https://open.spotify.com/track/6xgqGs263ednVh1U69IYPt) | [Paul Van De Vlasakker](https://open.spotify.com/artist/65UwmvLXL5ZiP8fJi2UgpP) | [Christmas Without Words \(Acoustic Fingerstyle Guitar\)](https://open.spotify.com/album/6bwML2qC1rmknLNhkbfSBr) | 3:07 | 2024-06-10 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/0RLU4TvqviwS2f1KkU34DK) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Jingle Bell Rock](https://open.spotify.com/album/7gEXzGjALzCSU1Jbx6cXg3) | 1:31 | 2021-12-22 |  |
 | [Rockin' Around The Christmas Tree \- Acoustic Guitar](https://open.spotify.com/track/5BRPS39y0IsB5ViInBUh0K) | [Anders Roy](https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0) | [Rockin' Around The Christmas Tree \(Acoustic Guitar\)](https://open.spotify.com/album/338Xrr0xz8becYpUOZM1bm) | 3:00 | 2024-11-06 |  |
+| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/7HmYPar8eJKdNs38HE5upN) | [Vaughn Harper](https://open.spotify.com/artist/2YUFKvzH2Jyywza7FS0yBG) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/1rucgGQ0TAoIaftY0x3r7J) | 2:40 | 2024-12-10 |  |
 | [Rudolph, the Red Nosed Reindeer](https://open.spotify.com/track/0keP3g5YayJKSCpvWBFq8L) | [Rainer Mafra](https://open.spotify.com/artist/3dQhfgaI14vW8Jc5mzmO5C) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:22 | 2021-12-22 |  |
 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/22ryli4Zoq2J0FfaTb3pMA) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Holly Jolly Christmas](https://open.spotify.com/album/4PTcZmhz8FQ8PtMpmM1biP) | 2:47 | 2022-11-11 |  |
 | [Santa Claus is Coming to Town](https://open.spotify.com/track/3E7fNt0yiBwdqzUxQhWCFy) | [Tommy Englund](https://open.spotify.com/artist/4GggdE9cVWvlG7OyusbefC) | [Santa Claus is Coming to Town](https://open.spotify.com/album/0oENAzxK49AAxVDk2ogJR6) | 1:41 | 2021-12-22 | 2023-09-14 |

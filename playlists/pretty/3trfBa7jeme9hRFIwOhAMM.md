@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,377 likes - 42 songs - 2 hr 15 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,376 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 41 | [Flying](https://open.spotify.com/track/23tSVCziOnXVAyayQt0Bi7) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Flying](https://open.spotify.com/album/5eSJZsLtK2qQsogB82R2bw) | 3:04 |
 | 42 | [Bassline Rumble](https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Bassline Rumble](https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY) | 2:55 |
 
-Snapshot ID: `AAAH7uvPhsGS19f2SqZN46AJ1PaVM6Ed`
+Snapshot ID: `AAAH8ETw67/l+vhu+4zt5VTB7zr+JBsq`

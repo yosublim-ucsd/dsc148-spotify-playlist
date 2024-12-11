@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: Hanabie.",
+  "description": "The biggest rock artists in Japan right now!  Cover: Ichika Nito",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 212864,
       "name": "30minutes",
       "url": "https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY"
+    },
+    {
+      "album": {
+        "name": "47climax",
+        "url": "https://open.spotify.com/album/5gVq4dLaXN9IvvPlkXcDG6"
+      },
+      "artists": [
+        {
+          "name": "FUNKIST",
+          "url": "https://open.spotify.com/artist/5bsH582oaAKCAcPMkOP2Vu"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300173,
+      "name": "47climax",
+      "url": "https://open.spotify.com/track/1SXYqNHRY5EjglT1TDAbNR"
     },
     {
       "album": {
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 173554,
       "name": "Crossroad",
       "url": "https://open.spotify.com/track/74F5UHKtbUtxye16GdYMp1"
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 201599,
       "name": "I",
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
@@ -6510,6 +6528,28 @@
       "duration_ms": 160894,
       "name": "Metamorphose Love",
       "url": "https://open.spotify.com/track/4A3PPYTWMWGowHVq5ilvOt"
+    },
+    {
+      "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/7yQhaIIs7VV60pO79RGKJR"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        },
+        {
+          "name": "Feryquitous",
+          "url": "https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230823,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/3mTxOnbwSgGx0hrhIigDBc"
     },
     {
       "album": {
@@ -9436,6 +9476,24 @@
       "duration_ms": 282466,
       "name": "Shiroi Koibitotachi [2022 Remaster]",
       "url": "https://open.spotify.com/track/3lVj9Znb5F2BpHMZmp1Id2"
+    },
+    {
+      "album": {
+        "name": "SHU",
+        "url": "https://open.spotify.com/album/5odhciH5mEjq1bjPXsBrOz"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309854,
+      "name": "SHU",
+      "url": "https://open.spotify.com/track/6QBHJcLzW4ah8YMhZoMJTe"
     },
     {
       "album": {

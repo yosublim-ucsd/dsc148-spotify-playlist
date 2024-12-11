@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Dec 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
@@ -8391,6 +8391,24 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb"
+    },
+    {
+      "album": {
         "name": "Open \u266deta v6.1",
         "url": "https://open.spotify.com/album/4ek8IhAOKX6AVDPVsV6jEh"
       },
@@ -11488,7 +11506,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 131250,
       "name": "Chill Guy Freestyle",
       "url": "https://open.spotify.com/track/54okB8LVgim8FftzpuUgXV"
@@ -23343,6 +23361,28 @@
     },
     {
       "album": {
+        "name": "Gentle Monster",
+        "url": "https://open.spotify.com/album/0DfC3ofnQAlq6KDGlqpcSd"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165790,
+      "name": "Gentle Monster",
+      "url": "https://open.spotify.com/track/7gTeb0pjpmNj8RFKHVFq4k"
+    },
+    {
+      "album": {
         "name": "GENTO - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/2nFsAuUMHqbAnJ2FeWomv3"
       },
@@ -31252,7 +31292,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 218453,
       "name": "In The Grey",
       "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
@@ -32128,7 +32168,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 145866,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4bYTWJm6jDyVA68YAyI6JX"
@@ -35414,6 +35454,24 @@
       "duration_ms": 174000,
       "name": "Like Love",
       "url": "https://open.spotify.com/track/5S6ES4NNFABuAhyvxSuZOx"
+    },
+    {
+      "album": {
+        "name": "Like You Did Before",
+        "url": "https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187639,
+      "name": "Like You Did Before",
+      "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
     },
     {
       "album": {
@@ -41060,6 +41118,28 @@
       "duration_ms": 149741,
       "name": "Nail in a wooden trunk",
       "url": "https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN"
+    },
+    {
+      "album": {
+        "name": "NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Anime ver.)",
+        "url": "https://open.spotify.com/album/54zfFV5w8eETYMws3n3rjA"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61591,
+      "name": "NAKAMA feat. AI (Dragon Ball DAIMA Ending Theme - Anime ver.)",
+      "url": "https://open.spotify.com/track/3b8YkPNHw7R7TGDTMpawTU"
     },
     {
       "album": {
@@ -49801,6 +49881,32 @@
     },
     {
       "album": {
+        "name": "Rise at Nightfall (YMIR Remix)",
+        "url": "https://open.spotify.com/album/5GgliAkoNJVTsWI3gQ3B5b"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243222,
+      "name": "Rise at Nightfall - YMIR Remix",
+      "url": "https://open.spotify.com/track/4vEw2pfX18zyTsD48huSpK"
+    },
+    {
+      "album": {
         "name": "Risin' Above the Need / Where Do We Go When We Die?",
         "url": "https://open.spotify.com/album/3juNsJb1nVWIwS2vijhYfd"
       },
@@ -52878,7 +52984,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 158453,
       "name": "Sick N Tied",
       "url": "https://open.spotify.com/track/3KrH0ie8p2l5ArQKJFCYTT"
@@ -54472,6 +54578,24 @@
       "duration_ms": 99870,
       "name": "SOMETHING'S ENDING",
       "url": "https://open.spotify.com/track/1l4cXAvpPh0k4xTJR7TZZm"
+    },
+    {
+      "album": {
+        "name": "somethingelse",
+        "url": "https://open.spotify.com/album/2oBiFJAFEuJHQSKf0Y1C1h"
+      },
+      "artists": [
+        {
+          "name": "sniper2004",
+          "url": "https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100482,
+      "name": "somethingelse",
+      "url": "https://open.spotify.com/track/7EKw2imXNnGUU0W13T8TSi"
     },
     {
       "album": {
@@ -60284,7 +60408,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 185294,
       "name": "The Problem",
       "url": "https://open.spotify.com/track/3bXUEuVG1SZX69Kt88yzIh"
@@ -66570,7 +66694,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 265570,
       "name": "White Bikes",
       "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
@@ -67711,6 +67835,32 @@
     },
     {
       "album": {
+        "name": "WSZYSTKO MIJA",
+        "url": "https://open.spotify.com/album/14zjan9MfMAAyNfQhf09Z6"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Lonzo",
+          "url": "https://open.spotify.com/artist/6JvRmFNWWCAJkGB6QTTX8E"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199069,
+      "name": "WSZYSTKO MIJA",
+      "url": "https://open.spotify.com/track/6XK2NHIhrIaS7rexbiiiq7"
+    },
+    {
+      "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/2R0ZoawSIxeykFOJqAmqrs"
       },
@@ -68614,6 +68764,24 @@
       "duration_ms": 184860,
       "name": "Your Name",
       "url": "https://open.spotify.com/track/1ulcToO6wgxQmcGvSifkmq"
+    },
+    {
+      "album": {
+        "name": "Your Name In Lights",
+        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Your Name In Lights",
+      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
     },
     {
       "album": {
@@ -69692,7 +69860,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 267040,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u65e5\u3058\u3083\u306a\u304f\u3066\u3044\u3044\u304b\u3089",
       "url": "https://open.spotify.com/track/6RkW1REvjaQ6PHy4Md83rS"

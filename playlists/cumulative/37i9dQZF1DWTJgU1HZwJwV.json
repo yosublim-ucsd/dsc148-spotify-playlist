@@ -5747,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Nossa Vida",
+        "url": "https://open.spotify.com/album/0r6lndciqLPRTojX8Rdo4H"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147377,
+      "name": "Nossa Vida",
+      "url": "https://open.spotify.com/track/1kPxyBKwVi8Bpv8pUsBFKN"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX"
       },
@@ -8348,6 +8366,24 @@
       "duration_ms": 106493,
       "name": "The Lights",
       "url": "https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod"
+    },
+    {
+      "album": {
+        "name": "The Lowest Point",
+        "url": "https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t"
+      },
+      "artists": [
+        {
+          "name": "Sam Stone",
+          "url": "https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151145,
+      "name": "The Lowest Point",
+      "url": "https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv"
     },
     {
       "album": {

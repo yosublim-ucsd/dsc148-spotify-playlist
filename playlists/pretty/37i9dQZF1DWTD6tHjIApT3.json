@@ -1,15 +1,191 @@
 {
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: RiE MORRiS",
-  "num_followers": 114969,
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
+  "num_followers": 114978,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0/MAQAAAADytbyTsug/GWa/nbVjWI9w",
+  "snapshot_id": "Z1hXcAAAAAC8F3RT9i/xhHdl58vaOJ1/",
   "tracks": [
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Faster than me",
+        "url": "https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 158838,
+      "name": "Faster than me",
+      "url": "https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u308f\u3092\u3093",
+        "url": "https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 270900,
+      "name": "\u308f\u3092\u3093",
+      "url": "https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "adieu 4",
+        "url": "https://open.spotify.com/album/6F2xtnKwIOQKWJUL9k19WP"
+      },
+      "artists": [
+        {
+          "name": "adieu",
+          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "\u307b\u3057\u304f\u305a",
+      "url": "https://open.spotify.com/track/6kl8sN4izdPJ6SNkDs4IlO"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "\u9769\u547d",
+      "url": "https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
+      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Feel Like This",
+        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 367706,
+      "name": "\u9b5a\u670d\u8a18",
+      "url": "https://open.spotify.com/track/3LYWRJZPlQibvqehe5TOkC"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u5927\u304d\u306a\u7389\u306d\u304e\u306e\u4e0b\u3067",
+        "url": "https://open.spotify.com/album/2RaFh9lrzs3Rz5g673yw0O"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        }
+      ],
+      "duration_ms": 274261,
+      "name": "\u5927\u304d\u306a\u7389\u306d\u304e\u306e\u4e0b\u3067",
+      "url": "https://open.spotify.com/track/4stYPN0wX9KSOf3DKkXYGQ"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 185896,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+        "url": "https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+      "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u604b\u3092\u3057\u3066",
+        "url": "https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "duration_ms": 363461,
+      "name": "\u604b\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3rMqO35Fau6K2G662vp9f6"
@@ -29,207 +205,27 @@
       "url": "https://open.spotify.com/track/6topXSGgYh6TwuMuvrS4hT"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
+        "name": "EMPT MILE",
+        "url": "https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 185896,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/55TarCmm2umLi8nd0db4tZ"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "adieu 4",
-        "url": "https://open.spotify.com/album/6F2xtnKwIOQKWJUL9k19WP"
-      },
-      "artists": [
-        {
-          "name": "adieu",
-          "url": "https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "\u307b\u3057\u304f\u305a",
-      "url": "https://open.spotify.com/track/6kl8sN4izdPJ6SNkDs4IlO"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "blue night",
-        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "escape",
-      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "AlwayS",
-        "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
-      },
-      "artists": [
-        {
-          "name": "NiziU",
-          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
-        }
-      ],
-      "duration_ms": 260746,
-      "name": "AlwayS",
-      "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
-        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2",
-      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "A.O.R - Adult Oriented Romance",
-        "url": "https://open.spotify.com/album/4IQrudl1W0S3dPN1ROFhKX"
-      },
-      "artists": [
-        {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
-        }
-      ],
-      "duration_ms": 271079,
-      "name": "\u307e\u305f\u4f1a\u3044\u306b\u884c\u304f\u304b\u3089",
-      "url": "https://open.spotify.com/track/4OJ4SC7lLzfU7fNlNoNbjM"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u30a2\u30ab\u30a4\u30ed",
-        "url": "https://open.spotify.com/album/6uh3L9f5J6OamYhp4VkAwP"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 248265,
-      "name": "\u30a2\u30ab\u30a4\u30ed",
-      "url": "https://open.spotify.com/track/5VZnu1y78R281GShmN43TN"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u60aa\u3044\u4eba",
-        "url": "https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY"
-      },
-      "artists": [
-        {
-          "name": "\u6226\u6144\u304b\u306a\u306e",
-          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "\u60aa\u3044\u4eba",
-      "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
-        "url": "https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
-      "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u4eca\u591c\u306fHearty Party (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/3PQ48cj9CeKNdkOZthBeDt"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "TEMPLIME",
+          "url": "https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6"
         },
         {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "Tota",
+          "url": "https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi"
         }
       ],
-      "duration_ms": 292750,
-      "name": "\u4eca\u591c\u306fHearty Party (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/38lA3pwmZVRNQ9OTeYv6ec"
+      "duration_ms": 231071,
+      "name": "SKYDRIVE - Feat. \u3068\u305f",
+      "url": "https://open.spotify.com/track/2gxDoCMchaYAPs6M4VlHkI"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u591c\u306b\u30c0\u30f3\u30b9 (10th Anniversary MIX)",
-        "url": "https://open.spotify.com/album/4FJms174QzHJ9GAIFiccks"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        },
-        {
-          "name": "TAAR",
-          "url": "https://open.spotify.com/artist/7MMmb0i2DjUg6Umom4nrh4"
-        }
-      ],
-      "duration_ms": 298888,
-      "name": "\u591c\u306b\u30c0\u30f3\u30b9 - (10th Anniversary MIX)",
-      "url": "https://open.spotify.com/track/4ZzKBwjoZg59Q48tw5Pupe"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Pick you up",
-        "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 218839,
-      "name": "Pick you up",
-      "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u661f\u8857\u306e\u99c5\u3067",
         "url": "https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv"
@@ -245,43 +241,55 @@
       "url": "https://open.spotify.com/track/6JgazBWIYH1tHOuGEcxLes"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "Beyond (From \"Moana 2\"/Japanese Soundtrack Version)",
-        "url": "https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w"
+        "name": "A.O.R - Adult Oriented Romance",
+        "url": "https://open.spotify.com/album/4IQrudl1W0S3dPN1ROFhKX"
       },
       "artists": [
         {
-          "name": "Tomona Yabiku",
-          "url": "https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz"
-        },
-        {
-          "name": "Mari Natsuki",
-          "url": "https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay"
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Beyond - From \"Moana 2\"/Japanese Soundtrack Version",
-      "url": "https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz"
+      "duration_ms": 271079,
+      "name": "\u307e\u305f\u4f1a\u3044\u306b\u884c\u304f\u304b\u3089",
+      "url": "https://open.spotify.com/track/4OJ4SC7lLzfU7fNlNoNbjM"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "\u30a2\u30ab\u30a4\u30ed",
-        "url": "https://open.spotify.com/album/5VPIhSD1DhBxxC3BhkSsDX"
+        "name": "blue night",
+        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
       },
       "artists": [
         {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 156266,
-      "name": "UnSaid",
-      "url": "https://open.spotify.com/track/3ywmjRImJp7Mc6p54cineY"
+      "duration_ms": 216706,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "ALL I WANT",
+        "url": "https://open.spotify.com/album/4DMwnH5hGsVVdsfM1A3WGj"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u624b\u53cb\u68a8\u5948",
+          "url": "https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k"
+        }
+      ],
+      "duration_ms": 196065,
+      "name": "ALL I WANT",
+      "url": "https://open.spotify.com/track/7sLo7H915ClIKTnq7FdBkY"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u6674\u308b",
         "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
@@ -297,23 +305,7 @@
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "NEW ERA",
         "url": "https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2"
@@ -329,7 +321,23 @@
       "url": "https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Trooper Salute",
+        "url": "https://open.spotify.com/album/4tWPQG4iw4sSp6LxSdnsYG"
+      },
+      "artists": [
+        {
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+        }
+      ],
+      "duration_ms": 299332,
+      "name": "\u5e7d\u4f53\u96e2\u8131",
+      "url": "https://open.spotify.com/track/6taQL5v1zYP8CSQxGmscEJ"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u6669\u9910\u6b4c",
         "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
@@ -345,7 +353,39 @@
       "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "This weekend",
+        "url": "https://open.spotify.com/album/2e4WXpgjZKUIfhvrbS46Bq"
+      },
+      "artists": [
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        }
+      ],
+      "duration_ms": 192271,
+      "name": "This weekend",
+      "url": "https://open.spotify.com/track/1QI2vxmvQyoRsYrrzoGttb"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
@@ -361,55 +401,7 @@
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u521d\u604b\u30ad\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "\u521d\u604b\u30ad\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
-        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
-      },
-      "artists": [
-        {
-          "name": "suis from Yorushika",
-          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
-      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "it\u2019s okay",
-        "url": "https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 146935,
-      "name": "it\u2019s okay",
-      "url": "https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u591c\u660e\u3051\u306e\u3042\u306a\u305f\u3078",
         "url": "https://open.spotify.com/album/033g2GrsxkouVAvlxcQH1P"
@@ -425,7 +417,7 @@
       "url": "https://open.spotify.com/track/22pLeTfTvGsM0SCBgw60Hb"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Lucif\u00e9rine",
         "url": "https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4"
@@ -441,23 +433,7 @@
       "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Mint Cherry Cake",
-        "url": "https://open.spotify.com/album/6sGRvRO6PVRuB8lKKSXmcJ"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 165292,
-      "name": "Mint Cherry Cake",
-      "url": "https://open.spotify.com/track/2oRAgGoq3YVCnJZA4lxXgZ"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
         "url": "https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb"
@@ -473,39 +449,59 @@
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "RUBY POP",
-        "url": "https://open.spotify.com/album/4hqJmt2QoyXsAvIMsHbRYd"
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
       },
       "artists": [
         {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 158932,
-      "name": "Poppin' Run",
-      "url": "https://open.spotify.com/track/5i2yNVp1fdqSwOGEMcDLnX"
+      "duration_ms": 213533,
+      "name": "\u4eba\u9b5a\u59eb (bonus track)",
+      "url": "https://open.spotify.com/track/7ei2qLxNYGg6pgmUEinpiL"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "SIDE EYE",
-        "url": "https://open.spotify.com/album/3s6P4CJa1sOB0QQ3IBlraX"
+        "name": "Slow dawn",
+        "url": "https://open.spotify.com/album/6fxzbumdRv2AqTR3YKpKxV"
       },
       "artists": [
         {
-          "name": "\u7532\u7530\u307e\u3072\u308b",
-          "url": "https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP"
+          "name": "Somewhere",
+          "url": "https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2"
         }
       ],
-      "duration_ms": 187761,
-      "name": "SIDE EYE",
-      "url": "https://open.spotify.com/track/45pE4ELWrsy63jiX58S02N"
+      "duration_ms": 218000,
+      "name": "Slow dawn",
+      "url": "https://open.spotify.com/track/7A3ov0DG3Vtis5tqCsKxmG"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u3042\u3053\u304c\u308c",
+        "url": "https://open.spotify.com/album/2n1HeuaOvLCtqz5XIRqSqd"
+      },
+      "artists": [
+        {
+          "name": "MIMiNARI",
+          "url": "https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv"
+        },
+        {
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+        }
+      ],
+      "duration_ms": 190327,
+      "name": "\u3042\u3053\u304c\u308c",
+      "url": "https://open.spotify.com/track/6VIOBuM3iL0mA6VNuLUzAh"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
         "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u5730\u7344\u604b\u6587",
         "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
@@ -537,7 +533,55 @@
       "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u521d\u604b\u30ad\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 132472,
+      "name": "\u521d\u604b\u30ad\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+        "url": "https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb"
+      },
+      "artists": [
+        {
+          "name": "suis from Yorushika",
+          "url": "https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "\u82e5\u8005\u306e\u3059\u3079\u3066",
+      "url": "https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "it\u2019s okay",
+        "url": "https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 146935,
+      "name": "it\u2019s okay",
+      "url": "https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/6ZiDAkFSWrnERzsSnto80l"
@@ -553,55 +597,7 @@
       "url": "https://open.spotify.com/track/7fcEOJGsOOVyz8XeDwvLRZ"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
-        "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 218580,
-      "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
-      "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u304a\u306f\u3088\u3046 \u305f\u3060\u3044\u307e \u304a\u3084\u3059\u307f",
-        "url": "https://open.spotify.com/album/2mAd1FoQewULeod0o4DR6V"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30a4\u30e9\u30f4\u30df\u30fc",
-          "url": "https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "\u304a\u306f\u3088\u3046 \u305f\u3060\u3044\u307e \u304a\u3084\u3059\u307f",
-      "url": "https://open.spotify.com/track/0NDh2sw7wTzxuj5ttGbBg7"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Anytime Anywhere",
-        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 230449,
-      "name": "Anytime Anywhere",
-      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u3072\u3085\u308b\u308a\u3089\u3071\u3063\u3071",
         "url": "https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY"
@@ -617,7 +613,39 @@
       "url": "https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 218580,
+      "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Anytime Anywhere",
+        "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 230449,
+      "name": "Anytime Anywhere",
+      "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u8a31\u5a5a\u3063\u304d\u3085\u3093",
         "url": "https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO"
@@ -633,7 +661,7 @@
       "url": "https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
@@ -649,7 +677,7 @@
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
         "url": "https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft"
@@ -665,7 +693,23 @@
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Episode X",
+        "url": "https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Episode X",
+      "url": "https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u76f8\u601d\u76f8\u611b",
         "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
@@ -681,23 +725,7 @@
       "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "MIRROR",
-      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
         "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
@@ -713,7 +741,7 @@
       "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u6b69\u9053\u6a4b",
         "url": "https://open.spotify.com/album/6QoUQr1AwzQwKla2iyRjHf"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/2j0DHd8nwPOkxx9UsccKka"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/19Yn54AlytsVPjLKGeWsQy"
@@ -745,7 +773,7 @@
       "url": "https://open.spotify.com/track/4YXAXnmmqGgzxR2qyg3702"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u8349\u3005\u4e0d\u4e00",
         "url": "https://open.spotify.com/album/5j2oeI2nHU04LSJtPAVGIp"
@@ -761,7 +789,39 @@
       "url": "https://open.spotify.com/track/4OLNvriCyOCDt0DLM0u9CZ"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "MIRROR",
+      "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "AlwayS",
+        "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "AlwayS",
+      "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
         "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
@@ -777,7 +837,7 @@
       "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u9b54\u6027\u306e\u5973A",
         "url": "https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn"
@@ -793,7 +853,7 @@
       "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u516d\u7b49\u661f",
         "url": "https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv"
@@ -809,7 +869,7 @@
       "url": "https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30eb\u30d0\u30fc\u30c8",
         "url": "https://open.spotify.com/album/0SlZ8UoV2wgNqDZNMTpgD0"
@@ -825,7 +885,7 @@
       "url": "https://open.spotify.com/track/1w3837OMA0xxpFqqMtL7B5"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "HEART BEAT",
         "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
@@ -841,7 +901,7 @@
       "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "EYES ON YOU",
         "url": "https://open.spotify.com/album/744FY3ysIEHKSVJU1pFg2L"
@@ -857,7 +917,7 @@
       "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Value",
         "url": "https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf"
@@ -873,7 +933,7 @@
       "url": "https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30b5\u30de\u30e9\u30d6",
         "url": "https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq"
@@ -889,7 +949,7 @@
       "url": "https://open.spotify.com/track/307iThLshjnMdUev0bqlr8"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "I want tomorrow to come",
         "url": "https://open.spotify.com/album/3Dp5ilZ9iLzcWX0aWm0wAJ"
@@ -905,7 +965,7 @@
       "url": "https://open.spotify.com/track/0V1dCs8UaoRLpGd6TTuZ4w"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u865a\u4eee\u306e\u4e00\u5ff5\u6d77\u99ac\u306b\u8a17\u3059",
         "url": "https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr"
@@ -921,7 +981,7 @@
       "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u732b\u306b\u30b8\u30a7\u30e9\u30b7\u30fc",
         "url": "https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO"
@@ -937,7 +997,23 @@
       "url": "https://open.spotify.com/track/6Qr07C97QliK35ZQGs941S"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Pick you up",
+        "url": "https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 218839,
+      "name": "Pick you up",
+      "url": "https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
@@ -953,7 +1029,7 @@
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u50d5\u3089\u3057\u3055",
         "url": "https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL"
@@ -969,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "TWO MOON",
         "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
@@ -985,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Party!!",
         "url": "https://open.spotify.com/album/0BzdZCI8stoC86McgK9GWZ"
@@ -1001,7 +1077,23 @@
       "url": "https://open.spotify.com/track/1UQkdcHjg13HiAXeVfOjmk"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u60aa\u3044\u4eba",
+        "url": "https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY"
+      },
+      "artists": [
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "\u60aa\u3044\u4eba",
+      "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30cf\u30df\u30f3\u30b0",
         "url": "https://open.spotify.com/album/17eurvWkXobPOJpJZsrbLw"
@@ -1017,55 +1109,7 @@
       "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u3054\u3081\u3093\u306d",
-        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
-      },
-      "artists": [
-        {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "\u3054\u3081\u3093\u306d",
-      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u66f2\u540d\u306f\u307e\u3060\u306a\u3044\u3067\u3059",
-        "url": "https://open.spotify.com/album/0cZ4gKQONihKOC9UOLtMex"
-      },
-      "artists": [
-        {
-          "name": "Aogumo",
-          "url": "https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO"
-        }
-      ],
-      "duration_ms": 178049,
-      "name": "\u66f2\u540d\u306f\u307e\u3060\u306a\u3044\u3067\u3059",
-      "url": "https://open.spotify.com/track/4aCPE37Q7R8OsFuwpEm4s6"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Blues in the Closet",
-        "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
-      },
-      "artists": [
-        {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Blues in the Closet",
-      "url": "https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
         "url": "https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja"
@@ -1081,7 +1125,7 @@
       "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u3059\u306a\u3044\u3071\u30fc\u3002",
         "url": "https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp"
@@ -1097,7 +1141,55 @@
       "url": "https://open.spotify.com/track/0taluMnYokviw9ujgOslXV"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u3054\u3081\u3093\u306d",
+        "url": "https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "\u3054\u3081\u3093\u306d",
+      "url": "https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Blues in the Closet",
+        "url": "https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Blues in the Closet",
+      "url": "https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u66f2\u540d\u306f\u307e\u3060\u306a\u3044\u3067\u3059",
+        "url": "https://open.spotify.com/album/0cZ4gKQONihKOC9UOLtMex"
+      },
+      "artists": [
+        {
+          "name": "Aogumo",
+          "url": "https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO"
+        }
+      ],
+      "duration_ms": 178049,
+      "name": "\u66f2\u540d\u306f\u307e\u3060\u306a\u3044\u3067\u3059",
+      "url": "https://open.spotify.com/track/4aCPE37Q7R8OsFuwpEm4s6"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u6708\u5149\u6d74",
         "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
@@ -1113,7 +1205,7 @@
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo"
@@ -1129,23 +1221,7 @@
       "url": "https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
-        "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 206425,
-      "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
-      "url": "https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS"
@@ -1161,7 +1237,7 @@
       "url": "https://open.spotify.com/track/0cYmeHq9kiCIvbatYNCmMK"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u3056\u3089\u3081",
         "url": "https://open.spotify.com/album/4HT3Yf8OgUAtfCK7TfyjZB"
@@ -1177,7 +1253,23 @@
       "url": "https://open.spotify.com/track/2FUtiVlT3BnqzHYd21Gy2e"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+        "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 206425,
+      "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
+      "url": "https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30ca\u30a4\u30b9\u30a2\u30a4\u30c7\u30a3\u30a2\uff01",
         "url": "https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU"
@@ -1193,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
@@ -1209,71 +1301,7 @@
       "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6",
-        "url": "https://open.spotify.com/album/58nTT4CITrAMzza9lmz6pl"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 227467,
-      "name": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6",
-      "url": "https://open.spotify.com/track/3Pfy9zJN4PiJ7ZtOkIFzIH"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 215490,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "Server Down",
-        "url": "https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 141633,
-      "name": "Server Down",
-      "url": "https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 278360,
-      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "HATE ME",
         "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
@@ -1289,7 +1317,55 @@
       "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6",
+        "url": "https://open.spotify.com/album/58nTT4CITrAMzza9lmz6pl"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "duration_ms": 227467,
+      "name": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c6",
+      "url": "https://open.spotify.com/track/3Pfy9zJN4PiJ7ZtOkIFzIH"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "Server Down",
+        "url": "https://open.spotify.com/album/6XnczifFK6aqhY3fxcNleq"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 141633,
+      "name": "Server Down",
+      "url": "https://open.spotify.com/track/4Wr6BagMS3ZYgRkRhwOOsN"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af\u304a\u3044\u3067\u3088",
         "url": "https://open.spotify.com/album/1fIFn0zrMwPOPE6PvOnWZj"
@@ -1305,7 +1381,7 @@
       "url": "https://open.spotify.com/track/6STSaKAtqIo3ESxNgPoyba"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
         "url": "https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG"
@@ -1325,7 +1401,23 @@
       "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 202042,
+      "name": "Ginger",
+      "url": "https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u611b\u697d",
         "url": "https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a"
@@ -1345,23 +1437,23 @@
       "url": "https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+        "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/6zOqqKnGbkgGl4xuiogr59"
       },
       "artists": [
         {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 202042,
-      "name": "Ginger",
-      "url": "https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc"
+      "duration_ms": 278360,
+      "name": "\u50d5\u3089\u306f\u3044\u304d\u3082\u306e\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/6MBQNIHgRaxIuStAZqSeqO"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30e6\u30ea\u30a4\u30ab",
         "url": "https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0"
@@ -1377,7 +1469,7 @@
       "url": "https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "We All Lie",
         "url": "https://open.spotify.com/album/49CnHwBiS216An5m4r81qL"
@@ -1393,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6aZdiWyBdyuSq9i50YjZe8"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u5b9d\u8005",
         "url": "https://open.spotify.com/album/4urlo8qlVk7bwSKlwcDIc2"
@@ -1409,7 +1501,7 @@
       "url": "https://open.spotify.com/track/1htuhBLEvnY2s2k9juFQJG"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
         "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
@@ -1425,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u307e\u305a\u306f\u4eca\u65e5\u304b\u3089",
         "url": "https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw"
@@ -1441,7 +1533,7 @@
       "url": "https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
         "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
@@ -1457,7 +1549,7 @@
       "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Break out of your bubble",
         "url": "https://open.spotify.com/album/2B107XMs9iWc611wxsyX5p"
@@ -1473,7 +1565,7 @@
       "url": "https://open.spotify.com/track/1VquaVORRRCldISHOOJg7d"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u30a2\u30a4\u30ef\u30ca",
         "url": "https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM"
@@ -1489,23 +1581,7 @@
       "url": "https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "I want tomorrow to come (Special Edition)",
-        "url": "https://open.spotify.com/album/70YzcydxXKcrw3ErYKYNJq"
-      },
-      "artists": [
-        {
-          "name": "\u6afb\u574246",
-          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "19\u6b73\u306e\u30ac\u30ec\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/3Ule6qlH6klo2T3y1Zlgtt"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "\u306d\u3048\u3001\u3061\u3083\u3093\u3068\u805e\u3044\u3066\u308b\uff1f",
         "url": "https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM"
@@ -1521,7 +1597,23 @@
       "url": "https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0"
     },
     {
-      "added_at": "2024-12-04 03:26:57",
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "I want tomorrow to come (Special Edition)",
+        "url": "https://open.spotify.com/album/70YzcydxXKcrw3ErYKYNJq"
+      },
+      "artists": [
+        {
+          "name": "\u6afb\u574246",
+          "url": "https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "19\u6b73\u306e\u30ac\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/3Ule6qlH6klo2T3y1Zlgtt"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
       "album": {
         "name": "Girls Don't Cry",
         "url": "https://open.spotify.com/album/7mJx4L9dG3j0JmkX6TqwSv"
@@ -1539,102 +1631,6 @@
       "duration_ms": 207520,
       "name": "Girls Don't Cry",
       "url": "https://open.spotify.com/track/0zTK07FEVTVvmF0PF3Bp9k"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "With",
-        "url": "https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE"
-      },
-      "artists": [
-        {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "With",
-      "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u611b\u30cb\u54b2\u82b1",
-        "url": "https://open.spotify.com/album/7aFleZUf1KAfpLX1cUgsC6"
-      },
-      "artists": [
-        {
-          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "\u661f\u5bc2\u591c",
-      "url": "https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "happy ever after",
-        "url": "https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 226100,
-      "name": "happy ever after",
-      "url": "https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
-        "url": "https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS"
-      },
-      "artists": [
-        {
-          "name": "Leina",
-          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
-        }
-      ],
-      "duration_ms": 201411,
-      "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
-      "url": "https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF"
-    },
-    {
-      "added_at": "2024-12-04 03:26:57",
-      "album": {
-        "name": "ties",
-        "url": "https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY"
-      },
-      "artists": [
-        {
-          "name": "\u91ce\u7530\u611b\u5b9f",
-          "url": "https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7"
-        }
-      ],
-      "duration_ms": 246033,
-      "name": "ties",
-      "url": "https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4"
     }
   ],
   "unique_name": "Women's Voice",

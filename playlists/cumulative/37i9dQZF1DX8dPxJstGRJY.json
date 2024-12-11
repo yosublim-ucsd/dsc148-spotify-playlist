@@ -81,6 +81,36 @@
     },
     {
       "album": {
+        "name": "The Sound of Heaven",
+        "url": "https://open.spotify.com/album/5al1TnP3jdoRnRHmQ1BU16"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        },
+        {
+          "name": "Johann Strauss Orchestra",
+          "url": "https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT"
+        },
+        {
+          "name": "Michel Tirabosco",
+          "url": "https://open.spotify.com/artist/3krpKIjqQEDwS3HhirVijg"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Across the Stars",
+      "url": "https://open.spotify.com/track/0hFAV2aMp79a8ew4O5sv2X"
+    },
+    {
+      "album": {
         "name": "World I See",
         "url": "https://open.spotify.com/album/0CMAg8EvRIOtvSJKZEKFlQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2024 ZEROBASEONE THE FIRST TOUR \[TIMELESS WORLD\] IN JAPAN』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,424 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,435 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-809 songs - 2 day 23 hr 31 min
+810 songs - 2 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2022-12-02 | 2024-03-13 |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-09 | 2024-09-28 |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-30 | 2024-04-19 |
+| [The Seeker](https://open.spotify.com/track/0etftxgY4S9lSTTiZ04ViE) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [The Seeker](https://open.spotify.com/album/2PGFQXKxViLzMRMtzK2ErM) | 2:49 | 2024-12-06 |  |
 | [The Silence](https://open.spotify.com/track/5I2bl8yVsQ6F7CNnh2P9dc) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [The Silence](https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn) | 7:31 | 2022-07-01 | 2022-07-04 |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-19 | 2024-04-13 |
 | [The Stars](https://open.spotify.com/track/6XZrEFdwo0cnbwy24llaLI) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Meta\_](https://open.spotify.com/artist/4b2jMQx1533SIiypVXVJ8J) | [The Stars](https://open.spotify.com/album/1jIkwcwYO2x3bw4qlXJ5KT) | 5:48 | 2023-08-04 | 2023-08-26 |
@@ -734,7 +735,7 @@
 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 | 2024-04-19 | 2024-07-06 |
 | [Told You](https://open.spotify.com/track/4UHPdV0a90USlUxUgnXIU2) | [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [Moser](https://open.spotify.com/artist/65SpeN8U0BX9M36pxgiigT), [Dyve](https://open.spotify.com/artist/1u2imct5j7WJaYoVCA1sKE) | [Told You](https://open.spotify.com/album/1pBrVcrcW1nUUZIT3w2xUN) | 4:02 | 2024-02-02 | 2024-10-26 |
 | [Tomorrow Never Comes](https://open.spotify.com/track/4Tvaj8JLT7ZJirW0ecS5fj) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Tomorrow Never Comes](https://open.spotify.com/album/1079gJBzcgvMazB8hlc2if) | 7:48 | 2021-04-21 | 2022-07-14 |
-| [Tomorrow's Dusk](https://open.spotify.com/track/6i0s4IJiM6hzhh4eBbtnme) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Tomorrow's Dusk](https://open.spotify.com/album/2hzxVpKQcsBizZWAYUUrSG) | 4:01 | 2024-10-04 |  |
+| [Tomorrow's Dusk](https://open.spotify.com/track/6i0s4IJiM6hzhh4eBbtnme) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Tomorrow's Dusk](https://open.spotify.com/album/2hzxVpKQcsBizZWAYUUrSG) | 4:01 | 2024-10-04 | 2024-12-11 |
 | [Tormenta](https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Tormenta](https://open.spotify.com/album/1dSn5KBjSQjs4pL4Qixw3Y) | 3:09 | 2023-09-29 | 2024-09-28 |
 | [Transhumanism \- Transhumanism Project \(3/3\)](https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Transhumanism \- Transhumanism Project \(3/3\)](https://open.spotify.com/album/66uGV21DSQjZPb8ItzXgYt) | 7:04 | 2022-07-22 | 2022-08-04 |
 | [Travelers](https://open.spotify.com/track/7g0E8PZTeRA6NghamzQHfc) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Dicko Fils](https://open.spotify.com/artist/6gKDb7SO4kOI65oVwcunH6) | [Globe Trotter, Vol.1](https://open.spotify.com/album/32kngqUC4ThQAVJGRGUw8T) | 4:24 | 2021-04-21 | 2022-11-28 |

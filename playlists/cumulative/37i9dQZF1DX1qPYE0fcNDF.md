@@ -4,7 +4,7 @@
 
 > Hip\-Hop and Happy Holidays!
 
-85 songs - 4 hr 47 min
+86 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dipset X\-mas Time](https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 4:01 | 2019-12-20 | 2023-12-24 |
 | [Dipset X\-mas Time](https://open.spotify.com/track/5TiZO9v3hLqILmfatAJMV0) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do) | 4:01 | 2019-12-20 |  |
 | [Dipset X\-mas Time](https://open.spotify.com/track/5zc0SK5YxNWsIHWr7YxJaR) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO) | 4:01 | 2023-12-15 | 2024-04-19 |
-| [For Christmas](https://open.spotify.com/track/3wDiFajnQ1hxMP8nQ8vaTc) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [For Christmas](https://open.spotify.com/album/1IGfaD2okQY6fy0ONciDhn) | 2:53 | 2023-12-15 |  |
+| [For Christmas](https://open.spotify.com/track/3wDiFajnQ1hxMP8nQ8vaTc) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [For Christmas](https://open.spotify.com/album/1IGfaD2okQY6fy0ONciDhn) | 2:53 | 2023-12-15 | 2024-12-11 |
 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 | 2019-12-20 |  |
 | [Ho Ho Ho \- Dirty Christmas](https://open.spotify.com/track/4n3HlzRZxEwxqHXADt758Y) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Ho Ho Ho \(Dirty Christmas\)](https://open.spotify.com/album/7A35Sr7YgnUhANiQ6QYhUq) | 3:14 | 2019-12-20 |  |
 | [Hustlaz Holiday](https://open.spotify.com/track/0GWLNSnKmzKcmTL2AGqeCb) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Church In These Streets](https://open.spotify.com/album/5RHakS5UXhhnyT96maP8ic) | 3:27 | 2019-12-20 |  |
@@ -88,6 +88,7 @@
 | [Thug Holiday](https://open.spotify.com/track/5I3uXbWBJhkZ62znIU6XEq) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Thug Holiday \(Edited Version\)](https://open.spotify.com/album/3Yf1EXnBKpfdd1LMycHWWL) | 4:54 | 2019-12-20 | 2022-12-24 |
 | [Warm Jamaican Christmas](https://open.spotify.com/track/60aWxtMGD2eHPNJPxJ9nae) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/3SwlJpUtODj1sV4TbjBWOM) | 3:26 | 2019-12-20 |  |
 | [Warm Jamaican Christmas](https://open.spotify.com/track/6UNafF4pyLMcbU8PEoH1DN) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Warm Jamaican Christmas](https://open.spotify.com/album/0Q7ATQbWchMJ6q2v1O77gt) | 3:26 | 2022-12-23 | 2024-04-19 |
+| [What A Christmas](https://open.spotify.com/track/62qOnbFxUVcxzBLZmr9uAG) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [What A Christmas](https://open.spotify.com/album/3P8vjeolpgmNAvqE22nXLL) | 3:10 | 2024-12-10 |  |
 | [What You Want for Christmas](https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34) | [Quad City DJ's, The 69 Boyz and K\-Nock](https://open.spotify.com/artist/1bRPz3I9pDLcEd8t5sncKe) | [All Star Christmas](https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH) | 4:35 | 2019-12-20 |  |
 | [Why'd You Leave Me On Christmas](https://open.spotify.com/track/0HAJpzhta0QljXSpzSQKmm) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj) | [Santa Hooked Me Up](https://open.spotify.com/album/52djrCpCLCWE7LZOLVwR3v) | 3:53 | 2019-12-20 | 2022-12-03 |
 | [X\-Mas Bag](https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [X\-Mas Bag](https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES) | 2:21 | 2024-12-06 |  |

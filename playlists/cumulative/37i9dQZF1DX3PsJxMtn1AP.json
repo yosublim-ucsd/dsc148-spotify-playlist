@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Ataque de P\u00e1nico",
+        "url": "https://open.spotify.com/album/6muMyNYTYIChMTn790YxZI"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225490,
+      "name": "Ataque de P\u00e1nico",
+      "url": "https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -7712,7 +7730,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 264646,
       "name": "\u30b5\u30a6\u30ca\u597d\u304d\u3059\u304e\u3001\u3088\u308a\u6df1\u304f",
       "url": "https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6"

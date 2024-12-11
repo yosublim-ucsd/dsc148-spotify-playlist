@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,168 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,197 likes - 132 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 3 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 |
 | 4 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 |
 | 5 | [Reborn](https://open.spotify.com/track/3jHwfPbqqMBRABSbqbWhlf) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Reborn](https://open.spotify.com/album/0c8uRnt3eEMJWxDotxoK8G) | 4:30 |
-| 6 | [出撃！デスティニー](https://open.spotify.com/track/4hRwSXQJEi0CtyF2Q9fvT4) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 1:21 |
-| 7 | [航行するミレニアム](https://open.spotify.com/track/4F1LiP4RwiWzH4viDnXKOI) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 2:20 |
+| 6 | [HOT](https://open.spotify.com/track/5QF8FlDV0lRg7JMbxUQ67z) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HOT](https://open.spotify.com/album/3zk6lCrfOlMf5BEJjOSwrb) | 3:03 |
+| 7 | [出撃！デスティニー](https://open.spotify.com/track/4hRwSXQJEi0CtyF2Q9fvT4) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 1:21 |
 | 8 | [対決の刻](https://open.spotify.com/track/26Eu3sztahcJ35RpJ21Ki3) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 4:18 |
 | 9 | [ACROSS THE WORLD](https://open.spotify.com/track/174kT94aK54zCC0aIdEMz9) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ACROSS THE WORLD](https://open.spotify.com/album/6YWZhGWLwLUnZssY6XkVQM) | 4:14 |
 | 10 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/1tuMDuMSHZ9V2SQveJCuPS) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [1000000000000](https://open.spotify.com/album/4YSUF18ShAYt1ltHyWj3Y9) | 4:18 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 131 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 132 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 
-Snapshot ID: `ZoSXpgAAAABt8FpvfKpn23zs4FD77CYE`
+Snapshot ID: `Z1hXcAAAAADhZfPRO/nJ+WqLFymRLzU+`

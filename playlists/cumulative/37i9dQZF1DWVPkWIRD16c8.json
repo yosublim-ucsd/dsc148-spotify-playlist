@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/2sh5VqJzBNfQofLryZ6wXc"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149395,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/2BaiIMe5rDnis4jsM9cv2T"
+    },
+    {
+      "album": {
         "name": "Where The Joy Is",
         "url": "https://open.spotify.com/album/4zuIzG6tqt3ovxM1BC5Yyc"
       },
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -342,6 +378,24 @@
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6fi4EXq3CANPvDXhAggmGn"
+    },
+    {
+      "album": {
+        "name": "Everything Good",
+        "url": "https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202164,
+      "name": "Can't Lose",
+      "url": "https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp"
     },
     {
       "album": {
@@ -490,6 +544,24 @@
       "duration_ms": 215555,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/64mFiDTrYuDVXONvfRKyen"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193100,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
     },
     {
       "album": {
@@ -1271,6 +1343,28 @@
     },
     {
       "album": {
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "album": {
         "name": "Dark Is The Way, Light Is A Place",
         "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
       },
@@ -1358,6 +1452,24 @@
       "duration_ms": 172621,
       "name": "Learning To Let Go",
       "url": "https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm"
+    },
+    {
+      "album": {
+        "name": "Fading West",
+        "url": "https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP"
     },
     {
       "album": {
@@ -1993,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Pixelated Haze",
+        "url": "https://open.spotify.com/album/4lVXsPxYhzuWh7G3mESWxA"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243410,
+      "name": "Pixelated Haze",
+      "url": "https://open.spotify.com/track/0TAnTKt4tctgu3LLzbXzWl"
+    },
+    {
+      "album": {
         "name": "Dead Or Alive Pt. 2",
         "url": "https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh"
       },
@@ -2056,6 +2186,24 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "album": {
+        "name": "The Anatomy of the Tongue In Cheek",
+        "url": "https://open.spotify.com/album/3c66mTgkyVJTBHeD7ggmso"
+      },
+      "artists": [
+        {
+          "name": "Relient K",
+          "url": "https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Pressing On",
+      "url": "https://open.spotify.com/track/0A8l9HtLpBBeVTMCmi0g5c"
     },
     {
       "album": {
@@ -2530,7 +2678,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207901,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/5nHI8nKWPcuLvhdg50Y0ey"
@@ -2588,6 +2736,24 @@
       "duration_ms": 183197,
       "name": "Strength Of My Heart",
       "url": "https://open.spotify.com/track/7aaNiUh38R0cKOp67sKMcJ"
+    },
+    {
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216583,
+      "name": "Sweeter",
+      "url": "https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto"
     },
     {
       "album": {
@@ -3132,7 +3298,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
@@ -3212,6 +3378,24 @@
       "duration_ms": 159357,
       "name": "Way back",
       "url": "https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9"
+    },
+    {
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "We Could Run Away",
+      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
     },
     {
       "album": {

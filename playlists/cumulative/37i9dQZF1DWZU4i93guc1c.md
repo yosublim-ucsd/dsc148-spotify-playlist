@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Lely45
 
-224 songs - 11 hr 45 min
+225 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 | 2024-10-04 | 2024-12-07 |
 | [Кошенята](https://open.spotify.com/track/6I4cPoBwb34VYc69MlUJ6a) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Кошенята](https://open.spotify.com/album/0Ttcj9hFr2X2gz8HQmzETd) | 2:31 | 2024-06-27 | 2024-07-13 |
 | [Крапки](https://open.spotify.com/track/2HZPl4Vz3VaX2YkD8KrTIH) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Крапки](https://open.spotify.com/album/5DV4tLX2dIJoAyQjTtKInh) | 2:30 | 2024-10-04 | 2024-10-19 |
+| [крига](https://open.spotify.com/track/5SfbIKHUMO1f1lTOTHyaN9) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [крига](https://open.spotify.com/album/3xrdwbsn8sCNSLUZRkifnG) | 3:24 | 2024-12-06 |  |
 | [кричу](https://open.spotify.com/track/6U6aJfWvRWd3NH5sWHrUWq) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [кричу](https://open.spotify.com/album/0JlwNaMDZRM5RxbWK3IRmn) | 3:39 | 2024-11-07 |  |
 | [крок](https://open.spotify.com/track/4tICTIM71M223AWw7v3Myq) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [крок](https://open.spotify.com/album/5Yddc3e2Iisvj1mKLpxzZh) | 3:43 | 2024-12-06 |  |
 | [Луги](https://open.spotify.com/track/2A6RrJHuuKUvGKbDoPqSDW) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Луги](https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm) | 3:07 | 2024-06-27 | 2024-07-13 |
@@ -122,7 +123,7 @@
 | [На самоті](https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [На самоті](https://open.spotify.com/album/786cElizhWDpDRC44iXLmT) | 5:36 | 2024-12-06 |  |
 | [На самоті](https://open.spotify.com/track/7zshbb3VovaEaQR47csaEQ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [На самоті](https://open.spotify.com/album/0MMu0fyYHvn4xl5I566v1O) | 2:01 | 2024-06-27 | 2024-07-27 |
 | [Навесні](https://open.spotify.com/track/0WXJRCeH5CRbFUAq7pyvqM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [Навесні](https://open.spotify.com/album/7CWR6kNbMJ9hZpO0Dh1bcC) | 2:39 | 2024-06-27 | 2024-10-26 |
-| [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 | 2024-06-27 |  |
+| [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 | 2024-06-27 | 2024-12-11 |
 | [Найсумніші пісні](https://open.spotify.com/track/2P45bHQL4hN5e9EtKvTbaz) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Квартира 25](https://open.spotify.com/album/08LOzABdC5Fem8StK3QZwy) | 2:36 | 2024-06-27 | 2024-07-29 |
 | [Напряжно](https://open.spotify.com/track/0hhzD69nOJ2qTAR1AFIzsr) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Оля Шурова](https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf) | [Напряжно](https://open.spotify.com/album/557EwH5HgfHVzPch88XjXi) | 2:05 | 2024-06-27 | 2024-12-07 |
 | [Не дивись на мене](https://open.spotify.com/track/6z6cvRLKENuywiD5jCRuoc) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Не дивись на мене](https://open.spotify.com/album/1FQ8jGe2pDS7hFYL0Ze5KG) | 3:33 | 2024-06-27 |  |

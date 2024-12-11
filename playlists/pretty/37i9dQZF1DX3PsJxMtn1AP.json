@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 75111,
+  "num_followers": 75110,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0iAjgAAAABfGoOE6elK8ZJBiFXt/hE8",
+  "snapshot_id": "Z1iF3QAAAABbRAP+caqrRcJMSS7iuuyT",
   "tracks": [
     {
       "added_at": "2024-11-28 14:39:10",
@@ -79,6 +79,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2024-12-10 18:18:05",
+      "album": {
+        "name": "Ataque de P\u00e1nico",
+        "url": "https://open.spotify.com/album/6muMyNYTYIChMTn790YxZI"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 225490,
+      "name": "Ataque de P\u00e1nico",
+      "url": "https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4"
     },
     {
       "added_at": "2024-10-24 20:31:52",
@@ -759,22 +775,6 @@
       "duration_ms": 308072,
       "name": "Too Timid",
       "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
-    },
-    {
-      "added_at": "2024-06-27 17:50:28",
-      "album": {
-        "name": "Ethereal Essence (Selected Version)",
-        "url": "https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C"
-      },
-      "artists": [
-        {
-          "name": "Cornelius",
-          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
-        }
-      ],
-      "duration_ms": 264646,
-      "name": "\u30b5\u30a6\u30ca\u597d\u304d\u3059\u304e\u3001\u3088\u308a\u6df1\u304f",
-      "url": "https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6"
     },
     {
       "added_at": "2024-07-11 23:31:20",

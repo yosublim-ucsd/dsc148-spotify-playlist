@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAggwWnATVZnxM230GHbPl8",
+  "snapshot_id": "AAAAAAAAAADCLfl6gNBOk1EedjWP6s7f",
   "tracks": [
     {
       "added_at": "2024-12-06 03:00:00",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
       },
       "artists": [
         {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 66994,
-      "name": "Como el Viento - En Vivo 2014",
-      "url": "https://open.spotify.com/track/22WbIa6zMIdafITpPgtqAV"
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
       },
@@ -111,22 +95,6 @@
       "duration_ms": 237647,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/7kxKxF9WUqhN9wF288xje4"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 312546,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -163,38 +131,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Welcome To Shepherds Bush (Live)",
-        "url": "https://open.spotify.com/album/1NCnDEf1jdXXmJTPv76uAL"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Jumpin' Jack Flash - Live",
-      "url": "https://open.spotify.com/track/4sx0PloiRzd7fx183GJRNa"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Live at Third Man Records",
-        "url": "https://open.spotify.com/album/2Xb9e6tsByJTcyIITGXcPy"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 258307,
-      "name": "Narc - Live",
-      "url": "https://open.spotify.com/track/2tNDGRYvXb1lCTVLXW0y0G"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
@@ -215,6 +151,38 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 312546,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Live at Third Man Records",
+        "url": "https://open.spotify.com/album/2Xb9e6tsByJTcyIITGXcPy"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 258307,
+      "name": "Narc - Live",
+      "url": "https://open.spotify.com/track/2tNDGRYvXb1lCTVLXW0y0G"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "White Bikes",
         "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
       },
@@ -231,18 +199,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "The Passenger (Live at Montreux Jazz Festival 2023)",
-        "url": "https://open.spotify.com/album/4jX6V8kfYu2UK765kB00x4"
+        "name": "Welcome To Shepherds Bush (Live)",
+        "url": "https://open.spotify.com/album/1NCnDEf1jdXXmJTPv76uAL"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 341098,
-      "name": "The Passenger - Live at Montreux Jazz Festival 2023",
-      "url": "https://open.spotify.com/track/7EGiyx3gI7YBgSFgOZFbXl"
+      "duration_ms": 311280,
+      "name": "Jumpin' Jack Flash - Live",
+      "url": "https://open.spotify.com/track/4sx0PloiRzd7fx183GJRNa"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -259,6 +227,22 @@
       "duration_ms": 281212,
       "name": "Love My Way",
       "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "The Passenger (Live at Montreux Jazz Festival 2023)",
+        "url": "https://open.spotify.com/album/4jX6V8kfYu2UK765kB00x4"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 341098,
+      "name": "The Passenger - Live at Montreux Jazz Festival 2023",
+      "url": "https://open.spotify.com/track/7EGiyx3gI7YBgSFgOZFbXl"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -283,6 +267,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 269365,
+      "name": "Huairuro - En Vivo 2014",
+      "url": "https://open.spotify.com/track/2F6h4vHUfKRUD3b3UIcP1I"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Generation No Surrender",
         "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 167354,
       "name": "Generation No Surrender",
       "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Chemical (Acoustic)",
+        "url": "https://open.spotify.com/album/4jLqTTwXGyaT5qR3w0uOJA"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Chemical - Acoustic",
+      "url": "https://open.spotify.com/track/0cAhteGuvdmcQrtrW1Lu41"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -323,34 +339,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Chemical (Acoustic)",
-        "url": "https://open.spotify.com/album/4jLqTTwXGyaT5qR3w0uOJA"
+        "name": "Sin T\u00e1lamo",
+        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Chemical - Acoustic",
-      "url": "https://open.spotify.com/track/0cAhteGuvdmcQrtrW1Lu41"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
-      },
-      "artists": [
+          "name": "Charly Humos",
+          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
+        },
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "TanatosLakactus",
+          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
+      "duration_ms": 210731,
+      "name": "Buler\u00eda (feat. Matiah Chinaski)",
+      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -383,26 +391,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Sin T\u00e1lamo",
-        "url": "https://open.spotify.com/album/0ONZFIEDIQ6KHcGiZUaLPS"
+        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
+        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
       },
       "artists": [
         {
-          "name": "Charly Humos",
-          "url": "https://open.spotify.com/artist/6wXGA2oUrvclMPaM2BcAlO"
-        },
-        {
-          "name": "TanatosLakactus",
-          "url": "https://open.spotify.com/artist/3eQz4bgYBJhzEPJZOnYapD"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Buler\u00eda (feat. Matiah Chinaski)",
-      "url": "https://open.spotify.com/track/0g5oUUZpgPE1zMznLdgdf8"
+      "duration_ms": 245373,
+      "name": "Ring Out Solstice Bells - 2024 Remix",
+      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Navidad De Locos",
-        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
-      },
-      "artists": [
-        {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
-        }
-      ],
-      "duration_ms": 176432,
-      "name": "Navidad De Locos",
-      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 174288,
       "name": "Ra\u00edces",
       "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Navidad De Locos",
+        "url": "https://open.spotify.com/album/4qIqAhnvpFt5ncwSJgGUjk"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 176432,
+      "name": "Navidad De Locos",
+      "url": "https://open.spotify.com/track/1zYDbrR060iDpuprwnBGQw"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -523,22 +523,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Romance in F Minor, Op. 5",
-        "url": "https://open.spotify.com/album/2WWWbrtNOFvXCFFHNdRBMa"
+        "name": "Sky Restaurant",
+        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luis Kolodin",
-          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
         }
       ],
-      "duration_ms": 308262,
-      "name": "Romance in F Minor, Op. 5",
-      "url": "https://open.spotify.com/track/4vibnldJQSaLbndJH08OMP"
+      "duration_ms": 223933,
+      "name": "Sky Restaurant",
+      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -563,6 +559,26 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Romance in F Minor, Op. 5",
+        "url": "https://open.spotify.com/album/2WWWbrtNOFvXCFFHNdRBMa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luis Kolodin",
+          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
+        }
+      ],
+      "duration_ms": 308262,
+      "name": "Romance in F Minor, Op. 5",
+      "url": "https://open.spotify.com/track/4vibnldJQSaLbndJH08OMP"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Angels In The Snow (Discotastique! Mix)",
         "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 193623,
       "name": "Angels In The Snow - Discotastique! Mix",
       "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Sky Restaurant",
-        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Sky Restaurant",
-      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "So Sensitive",
+      "url": "https://open.spotify.com/track/3zTdhXiKHycgeVJDCNUC0R"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Live At 55",
         "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 249506,
       "name": "South California Purples (Short Version) - Live",
       "url": "https://open.spotify.com/track/1Qgd5TylepuMfySqqKyWad"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "So Sensitive",
-      "url": "https://open.spotify.com/track/3zTdhXiKHycgeVJDCNUC0R"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Mercedes Sosa en New York, 1974",
-        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 236379,
-      "name": "Cuando Tenga la Tierra (En Vivo NY)",
-      "url": "https://open.spotify.com/track/2HK4kHLBfeWn6cWBOnOXPL"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Agradecida",
         "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 250514,
       "name": "Agradecida",
       "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Mercedes Sosa en New York, 1974",
+        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 236379,
+      "name": "Cuando Tenga la Tierra (En Vivo NY)",
+      "url": "https://open.spotify.com/track/2HK4kHLBfeWn6cWBOnOXPL"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Universal Tales",
+        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Universal - Orchestral Version",
+      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -867,38 +883,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Universal Tales",
-        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Universal - Orchestral Version",
-      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "London - Live",
-        "url": "https://open.spotify.com/album/4Z9ms2S9xEWUh7oI9MUgVt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 285293,
-      "name": "Big Mistake - Live",
-      "url": "https://open.spotify.com/track/6NjGlnFFutDm4lPe6QXsGx"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Otaku",
-        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
+        "name": "London - Live",
+        "url": "https://open.spotify.com/album/4Z9ms2S9xEWUh7oI9MUgVt"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 198066,
-      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
-      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
+      "duration_ms": 285293,
+      "name": "Big Mistake - Live",
+      "url": "https://open.spotify.com/track/6NjGlnFFutDm4lPe6QXsGx"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 214718,
       "name": "La Hoja del Sol",
       "url": "https://open.spotify.com/track/3WuoYJBaOKZppiMk9bU3g5"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Otaku",
+        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
+      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
     },
     {
       "added_at": "2024-12-06 03:00:00",

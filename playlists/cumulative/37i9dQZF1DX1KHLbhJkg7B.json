@@ -5445,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "Sand In My Boots",
+        "url": "https://open.spotify.com/album/5aVfMWa43PH8NRVVcfaPVE"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256212,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/2rbzYW7Cc2UUFbIyzHQtfL"
+    },
+    {
+      "album": {
         "name": "Say Something - Spotify Singles (Live from Spotify House)",
         "url": "https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls"
       },
@@ -5942,7 +5960,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 233386,
       "name": "State Trooper",
       "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"

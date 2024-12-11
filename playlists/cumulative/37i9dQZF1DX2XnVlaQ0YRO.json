@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 129097,
       "name": "Frosty Walk",
       "url": "https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 90708,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/6USpra5zijwWTiEGxgRWFu"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 118508,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/3P8Dk5A8HGA9YU23a54sCJ"
@@ -1356,6 +1356,24 @@
       "duration_ms": 140571,
       "name": "Jingle Jungle",
       "url": "https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A"
+    },
+    {
+      "album": {
+        "name": "Jingle, Jingle, Jingle",
+        "url": "https://open.spotify.com/album/2VIyMwOjBaPdioqs30aRH5"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145375,
+      "name": "Jingle, Jingle, Jingle",
+      "url": "https://open.spotify.com/track/5dp4pULKdDODsz5O4id78A"
     },
     {
       "album": {
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 123529,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/1R0mvLnoaalcSUnkmX0HfY"
@@ -2433,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Snow Fall",
+        "url": "https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz"
+      },
+      "artists": [
+        {
+          "name": "Lyonti",
+          "url": "https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125869,
+      "name": "Snow Fall",
+      "url": "https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ"
+    },
+    {
+      "album": {
         "name": "Snowflakes Falling",
         "url": "https://open.spotify.com/album/2QVtKjHLLHFrHDTQJLEw03"
       },
@@ -2844,6 +2880,24 @@
       "duration_ms": 115687,
       "name": "WINTER",
       "url": "https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr"
+    },
+    {
+      "album": {
+        "name": "Winter rose",
+        "url": "https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS"
+      },
+      "artists": [
+        {
+          "name": "cmd f",
+          "url": "https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Winter rose",
+      "url": "https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE"
     },
     {
       "album": {

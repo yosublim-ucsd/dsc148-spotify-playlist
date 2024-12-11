@@ -1,32 +1,28 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 33062,
+  "num_followers": 33074,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwAuBwAAAAD781KcOjXVF+4AYEQrdDAM",
+  "snapshot_id": "Z1ialAAAAAD+BrCVwJaTloutOE5YTP+b",
   "tracks": [
     {
-      "added_at": "2024-10-04 18:03:51",
+      "added_at": "2024-12-10 19:46:28",
       "album": {
-        "name": "Mixarama",
-        "url": "https://open.spotify.com/album/7td4ZCxydvmaFLyQRl4Bzg"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN"
       },
       "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
         {
           "name": "Vesica Piscis",
           "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Incendio de Amor",
-      "url": "https://open.spotify.com/track/6UpTLTfmAeC1IHIsBHcNYd"
+      "duration_ms": 200799,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/3A78WpoH8cs834OAPZbyqj"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -85,20 +81,20 @@
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
     },
     {
-      "added_at": "2024-10-04 18:03:51",
+      "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Esfera",
-        "url": "https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 226910,
-      "name": "Esfera",
-      "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -115,22 +111,6 @@
       "duration_ms": 254826,
       "name": "De Viaje",
       "url": "https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -165,22 +145,6 @@
       "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
     },
     {
-      "added_at": "2024-10-04 18:03:51",
-      "album": {
-        "name": "Sailor",
-        "url": "https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1o A Marte",
-          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Sailor",
-      "url": "https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4"
-    },
-    {
       "added_at": "2024-09-27 06:00:00",
       "album": {
         "name": "Organs",
@@ -199,6 +163,22 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "added_at": "2024-10-04 18:03:51",
+      "album": {
+        "name": "Sailor",
+        "url": "https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Sailor",
+      "url": "https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -251,38 +231,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Amor de Furgoneta",
-        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 192865,
-      "name": "Amor de Furgoneta",
-      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Hazy Youth",
-      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -299,18 +247,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lejos de M\u00ed",
-        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
+        "name": "Amor de Furgoneta",
+        "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
       "artists": [
         {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
         }
       ],
-      "duration_ms": 196630,
-      "name": "Lejos de M\u00ed",
-      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
+      "duration_ms": 192865,
+      "name": "Amor de Furgoneta",
+      "url": "https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -331,18 +279,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sintetica",
-        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
       "artists": [
         {
-          "name": "Nudozurdo",
-          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
         }
       ],
-      "duration_ms": 273493,
-      "name": "Mil Espejos",
-      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
+      "duration_ms": 182745,
+      "name": "Hazy Youth",
+      "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -359,6 +307,58 @@
       "duration_ms": 550600,
       "name": "La Caja Del Diablo",
       "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
+    },
+    {
+      "added_at": "2024-10-04 18:03:51",
+      "album": {
+        "name": "Mixarama",
+        "url": "https://open.spotify.com/album/7td4ZCxydvmaFLyQRl4Bzg"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "Incendio de Amor",
+      "url": "https://open.spotify.com/track/6UpTLTfmAeC1IHIsBHcNYd"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lejos de M\u00ed",
+        "url": "https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 196630,
+      "name": "Lejos de M\u00ed",
+      "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sintetica",
+        "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
+      },
+      "artists": [
+        {
+          "name": "Nudozurdo",
+          "url": "https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0"
+        }
+      ],
+      "duration_ms": 273493,
+      "name": "Mil Espejos",
+      "url": "https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "BILLY",
         "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Rizoma",
         "url": "https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 382522,
       "name": "Lo Bonito de la Muerte",
       "url": "https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD"
+    },
+    {
+      "added_at": "2024-10-04 18:03:51",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/0bIlVh4N9g9NkWhez98eG4"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 226910,
+      "name": "Esfera",
+      "url": "https://open.spotify.com/track/43OncoXjYE1JS3YMv0D66y"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -563,22 +579,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sur La Terre",
-        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
         }
       ],
-      "duration_ms": 196331,
-      "name": "Sur la terre",
-      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -623,6 +623,22 @@
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -819,22 +835,6 @@
       "duration_ms": 237087,
       "name": "Lazy Lovers",
       "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "sky of fading lights",
-        "url": "https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N"
-      },
-      "artists": [
-        {
-          "name": "A Rose Dying In The Rain",
-          "url": "https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG"
-        }
-      ],
-      "duration_ms": 510028,
-      "name": "et\u00e9rea",
-      "url": "https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

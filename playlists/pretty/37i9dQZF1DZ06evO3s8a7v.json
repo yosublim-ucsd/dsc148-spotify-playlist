@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42393,
+  "num_followers": 42405,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ThgAAAAAB9LStSsQ6NZy5he7+T/Q+i",
+  "snapshot_id": "Z1YzAAAAAAAx/AA5QK/CL18j8uH9dxcM",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
+      "duration_ms": 169500,
+      "name": "HENNESSY",
+      "url": "https://open.spotify.com/track/2oosV1qUeTsmCW9qtsauYB"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 169500,
-      "name": "HENNESSY",
-      "url": "https://open.spotify.com/track/2oosV1qUeTsmCW9qtsauYB"
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
     },
     {
       "added_at": null,

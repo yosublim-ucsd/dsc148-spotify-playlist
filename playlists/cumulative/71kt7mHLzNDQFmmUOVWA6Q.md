@@ -4,7 +4,7 @@
 
 > Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
-265 songs - 14 hr 57 min
+266 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-03-16 | 2024-05-24 |
 | [What You Like](https://open.spotify.com/track/1yvY0N4RVMK6mY9ukm2ekt) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [What You Like](https://open.spotify.com/album/1hhftFq45ulSaeNhma5h7T) | 2:38 | 2024-03-16 | 2024-05-24 |
 | [WHAT'S THAT](https://open.spotify.com/track/1dPY9TSdQsHbDVXtwDRIKP) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity](https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu) | 2:36 | 2024-08-01 |  |
+| [When the World Ends](https://open.spotify.com/track/1xgdu50Xr4HX7iLk1B5FZJ) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [MV//MNT VOL\. 03](https://open.spotify.com/album/5cydhzJbPncpJEpdyuuNgF) | 2:49 | 2024-12-10 |  |
 | [Work Work](https://open.spotify.com/track/16YLfNCZczeQ48HPYklWiR) | [PIERI](https://open.spotify.com/artist/6ieMOnAUmVIEjspgbWnqEX) | [AGROLOVE](https://open.spotify.com/album/3SC5vnlaNsNfTuVGzAowoR) | 1:46 | 2024-03-16 | 2024-05-24 |
 | [Worlds Collide \- Edison Cole Remix](https://open.spotify.com/track/3JqpIjrQfmW68YkpxXWPL4) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Edison Cole](https://open.spotify.com/artist/2OJbBoEtM6pqm96ke1vNiY) | [Worlds Collide \(Remixes\)](https://open.spotify.com/album/40auuSwkeRLnHuc7lQS3Hu) | 3:12 | 2024-08-01 |  |
 | [Yao Ming](https://open.spotify.com/track/7r4NNuEmD47CJ5iK0bo4hQ) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [GEORGE](https://open.spotify.com/album/5YYgmFU4aVssLNV0ISnZuv) | 2:58 | 2024-08-01 |  |

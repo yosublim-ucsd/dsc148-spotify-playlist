@@ -13269,6 +13269,24 @@
     },
     {
       "album": {
+        "name": "Tropique",
+        "url": "https://open.spotify.com/album/0DZNBxHIyrnAwiJot1wiTt"
+      },
+      "artists": [
+        {
+          "name": "Muriel Dacq",
+          "url": "https://open.spotify.com/artist/5hqvbA1LcyFLRhTQGZQzKP"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "Tropique",
+      "url": "https://open.spotify.com/track/3QNQl3VaVsxBhnExIMrPvi"
+    },
+    {
+      "album": {
         "name": "Roforofo Fight",
         "url": "https://open.spotify.com/album/4XWCXD0Dp7DmogggcLNfyP"
       },

@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Castle",
       "url": "https://open.spotify.com/track/0WUs4bOtcRF52R9BaXsZn1"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 140224,
       "name": "clear my mind",
       "url": "https://open.spotify.com/track/7rP9HuRgLcz174Kvh3RDwS"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 104281,
       "name": "Come With A Sparkle",
       "url": "https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8"
@@ -4010,6 +4010,24 @@
       "duration_ms": 106697,
       "name": "Early rise",
       "url": "https://open.spotify.com/track/0Xc8uXfsxcNMj2y1IKwo2T"
+    },
+    {
+      "album": {
+        "name": "Echoes of the Forest",
+        "url": "https://open.spotify.com/album/2DoYNCWGY3fx9q75O1lB5w"
+      },
+      "artists": [
+        {
+          "name": "YorBeatz",
+          "url": "https://open.spotify.com/artist/7IOCjf2dqm6jzhCAUAX4uR"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163312,
+      "name": "Echoes Of The Forest",
+      "url": "https://open.spotify.com/track/2DzEO3SgDFGRBDjskmw5ZT"
     },
     {
       "album": {
@@ -7446,7 +7464,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 117239,
       "name": "Jazzy Love",
       "url": "https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq"
@@ -10284,7 +10302,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 136803,
       "name": "Never Wing",
       "url": "https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H"

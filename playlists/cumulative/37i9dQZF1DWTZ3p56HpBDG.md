@@ -2,9 +2,9 @@
 
 ### [No Borders](https://open.spotify.com/playlist/37i9dQZF1DWTZ3p56HpBDG)
 
-> Best of South Asian diaspora\. Cover: Raf Saperra
+> Best of South Asian diaspora\. Cover: Ali Zafar, Danny Zee, T.I
 
-240 songs - 12 hr 33 min
+243 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2024-04-12 |  |
 | [Love Thing](https://open.spotify.com/track/78TKGVxtnLNEn26m3FEk1S) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Love Thing](https://open.spotify.com/album/4XJo3d8fB1yHEU1TaweCWs) | 3:51 | 2021-11-10 | 2022-06-21 |
 | [Love to the Fiends](https://open.spotify.com/track/01poU2k8Q1Nj29X2Xrk958) | [Shaker The Baker](https://open.spotify.com/artist/3UXtwB67vete8MwnVSlrPO), [M.E.E.Z](https://open.spotify.com/artist/0EApWAg3HC8VBdCKKGxapM) | [Love to the Fiends](https://open.spotify.com/album/3shrpWDWQj5Wa1ghlG4nt0) | 3:03 | 2022-05-20 | 2022-10-07 |
+| [Lovely Bukhaar](https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Lovely Bukhaar](https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO) | 3:24 | 2024-12-10 |  |
 | [Lover Boy](https://open.spotify.com/track/1fCHffQ4QJ1kRtQTRpR78V) | [King Acne](https://open.spotify.com/artist/1Xh7NfBiZq2PAyTaKNQ1K8) | [Lover Boy](https://open.spotify.com/album/1Pd1lUjWCm2ZJ7HFb3DfEE) | 3:48 | 2021-11-10 | 2022-07-19 |
 | [Mad Dreams](https://open.spotify.com/track/2Yvo61WicgVinjoUOthyjx) | [Vidya Vox](https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN) | [Mad Dreams](https://open.spotify.com/album/4eDS6fgdzXoWmEsBbov4DO) | 3:11 | 2021-11-10 | 2022-07-19 |
 | [Mama](https://open.spotify.com/track/18SFyxDgdM3256wVI67BEx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Mama](https://open.spotify.com/album/0w7WlmpM5oWDCKwZ78nQ6J) | 4:00 | 2021-11-10 | 2022-05-27 |
@@ -154,6 +155,7 @@
 | [Moments](https://open.spotify.com/track/4Xj05yq3cCARyLibGgID9q) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3), [Sahra](https://open.spotify.com/artist/2qhmnPujuMQoW2IGmdMGhH) | [Olympas](https://open.spotify.com/album/3GVXuN5iZvhuSzDVk8Iin7) | 2:58 | 2021-11-10 | 2022-07-19 |
 | [Mood](https://open.spotify.com/track/1hyDfFecpM9cGPHN1Zdp4X) | [HMG](https://open.spotify.com/artist/6diGZumAY3ubVA7L6e8iBR), [Jake Vicious](https://open.spotify.com/artist/4uzponaVyeBeZ9oSlaGBrA), [Anjali Taneja](https://open.spotify.com/artist/1A7CIDrLklSiVgGJjdhdDX) | [Mood](https://open.spotify.com/album/4Rb2HAAZ4h27W3A1VUjbNs) | 2:32 | 2021-11-10 | 2022-07-19 |
 | [Moving On](https://open.spotify.com/track/2NEAXiGwUBozXTsZ09eFkH) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Moving On](https://open.spotify.com/album/7lMzAaOXc0b3Mc2lnx6rV6) | 3:17 | 2021-11-10 | 2022-05-27 |
+| [Munda on the Rise](https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Munda on the Rise](https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso) | 3:33 | 2024-12-10 |  |
 | [Muscle Memory](https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Muscle Memory](https://open.spotify.com/album/0Fl07QjsJOeWNP6E9NCGNm) | 2:48 | 2021-11-10 | 2022-07-19 |
 | [My Own Way](https://open.spotify.com/track/7fzskZbbwD9Ftsn5GXEk3i) | [Esther Eden](https://open.spotify.com/artist/51mIT66wqhRNMHACFzatPI) | [My Own Way](https://open.spotify.com/album/6HD8K3zNheEDbRsIrgGe1C) | 2:54 | 2021-11-10 | 2022-05-27 |
 | [Nain Milaa](https://open.spotify.com/track/4XYckqREtbI5s829IGsuoi) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj), [Kamal Sanghera](https://open.spotify.com/artist/5Ws8gRFVT1u8awd7A6S5ZD) | [Nain Milaa](https://open.spotify.com/album/3Mf9G0j9h8VmzZvVIcfZoZ) | 2:38 | 2024-03-20 | 2024-04-13 |
@@ -184,6 +186,7 @@
 | [Ranjha](https://open.spotify.com/track/0MeQfsHeZW0y3LMecQOcIM) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Taj Aulakh](https://open.spotify.com/artist/30LIEt0kX9a11tyu1Z46Qs) | [5 Deadly Venomz](https://open.spotify.com/album/5acqqEhCjJGAwQdzZROohH) | 2:56 | 2024-04-15 |  |
 | [Reborn](https://open.spotify.com/track/7nxmLcB0292ykcISnFHIVG) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [Reborn](https://open.spotify.com/album/5xLCpi7Pzi0e79mdzE3nLF) | 2:22 | 2024-11-08 |  |
 | [Reezons](https://open.spotify.com/track/2pud8BG8Dpg5vNBkfe2TiR) | [OM](https://open.spotify.com/artist/1HRU2ePXvkG1Lyn1xPhSNS) | [Reezons](https://open.spotify.com/album/6uzkaLYSAPbN4G8CPHseJI) | 3:00 | 2021-11-10 | 2022-07-19 |
+| [Rich Man](https://open.spotify.com/track/3qLLJgjpy1cscJqQvCW3M2) | [Ajii](https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8) | [Rich Man](https://open.spotify.com/album/606EtVD2fp9rAGcUKdaGEV) | 2:43 | 2024-12-10 |  |
 | [Rise](https://open.spotify.com/track/3vCuMkt8hRqydQ6K8v2LXo) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L) | [Rise](https://open.spotify.com/album/48xj93YvPgOVurNmI4eGRO) | 3:17 | 2021-11-10 | 2022-05-27 |
 | [Runway](https://open.spotify.com/track/4ZaHyIlvsFha9mxQGfoWOf) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj), [Victor Dysayon](https://open.spotify.com/artist/7juH6y1N1CM4CThwQPTJba) | [Runway](https://open.spotify.com/album/5i5702SWwgegop4Qxz7AoS) | 3:18 | 2024-07-02 | 2024-09-10 |
 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 | 2022-01-20 | 2022-07-19 |

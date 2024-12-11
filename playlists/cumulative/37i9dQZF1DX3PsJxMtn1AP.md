@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-399 songs - 1 day 1 hr 28 min
+400 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Arrecifes](https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Arrecifes](https://open.spotify.com/album/6Zqq3zDBPi1NdYp2yYE7lr) | 2:54 | 2024-02-02 | 2024-04-16 |
 | [Ashufak Shay \(feat\. Rashid Al Najjar\)](https://open.spotify.com/track/1fkAf0B2cB2DKx9dhYembk) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [Rashid Al Najjar](https://open.spotify.com/artist/1zQpUGJVs1xCLcMSu63SGD) | [Ashufak Shay \(feat\. Rashid Al Najjar\)](https://open.spotify.com/album/2NoIIJGa6SZ1QxVOwju35e) | 3:21 | 2023-04-13 | 2023-06-15 |
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-04-07 | 2023-10-11 |
+| [Ataque de Pánico](https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Ataque de Pánico](https://open.spotify.com/album/6muMyNYTYIChMTn790YxZI) | 3:45 | 2024-12-10 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-24 | 2023-10-24 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-24 | 2023-09-13 |
 | [Bad Kids](https://open.spotify.com/track/0gjcEL2CTKu3fT9qMVVu2w) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 3:26 | 2024-07-11 |  |
@@ -406,6 +407,6 @@
 | [Youuuuu](https://open.spotify.com/track/2jQlx9UVhARfTXWqnLqMmX) | [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Slime Patrol](https://open.spotify.com/album/7kxTCzlRdVtLeUpVhVGDJh) | 2:08 | 2024-03-05 | 2024-03-23 |
 | [Zero to Sixty](https://open.spotify.com/track/1MNVD317QVs6Zuuy4qNQyN) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub), [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Long Light](https://open.spotify.com/album/6Wajam2rsFZ31LJvkTEtWl) | 4:48 | 2024-01-11 | 2024-04-16 |
 | [Índigo](https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA) | [SEVENESTO](https://open.spotify.com/artist/2Vt899iZ2UknL3rdjNIEkN) | [Índigo](https://open.spotify.com/album/3lD8cKHQpYN6YFAogSaUoV) | 3:11 | 2023-03-29 | 2023-05-10 |
-| [サウナ好きすぎ、より深く](https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence \(Selected Version\)](https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C) | 4:24 | 2024-06-27 |  |
+| [サウナ好きすぎ、より深く](https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence \(Selected Version\)](https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C) | 4:24 | 2024-06-27 | 2024-12-11 |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

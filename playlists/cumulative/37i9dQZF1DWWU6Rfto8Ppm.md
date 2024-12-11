@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-469 songs - 1 day 3 hr 53 min
+470 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4aEOz6ZpXh3wF4FOdJHOPV) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Escápate Conmigo \(Remix\)](https://open.spotify.com/album/12hBTtSdHrsNO17m4VemTy) | 2:47 | 2022-07-27 | 2024-04-19 |
 | [Escápate Conmigo \- Remix](https://open.spotify.com/track/4ijX6zDZKYdgACPwva2y0d) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Wolfine](https://open.spotify.com/album/1WR53EURavK2pIVJwS6qbv) | 2:47 | 2022-10-12 | 2022-11-13 |
 | [Eso Ehh..!!!](https://open.spotify.com/track/7uCZiUZqnKSGBnr3YZTcxA) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:15 | 2021-12-17 | 2022-01-11 |
-| [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo y Dálmata](https://open.spotify.com/artist/3yd3t8LSNFIy2YNr7rZnxG), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3) | 4:31 | 2021-12-17 |  |
+| [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Ñejo y Dálmata](https://open.spotify.com/artist/3yd3t8LSNFIy2YNr7rZnxG), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3) | 4:31 | 2021-12-17 | 2024-12-11 |
 | [Esta Noche de Travesuras](https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [Mi Trayectoria](https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB) | 3:30 | 2023-10-05 | 2024-02-06 |
 | [Estar Enamorado](https://open.spotify.com/track/2RFDO2apMKOOytAWsNHmyH) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Mas Lunaticos](https://open.spotify.com/album/7EI3hMAmYWir6aVZtSxW5J) | 3:40 | 2021-12-17 | 2022-08-13 |
 | [Estar Enamorado](https://open.spotify.com/track/465du48rE48BymmBdfvxc2) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw) | 3:41 | 2023-10-05 | 2024-04-19 |
@@ -314,6 +314,7 @@
 | [Permitame](https://open.spotify.com/track/1nkigJQgXmEKKJQWkiXwes) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Perreando en la Casa](https://open.spotify.com/album/219WqxfbsIdbNbc8TXiFAW) | 3:05 | 2022-10-12 | 2022-11-13 |
 | [Permitame](https://open.spotify.com/track/4uJSxi5beZ9GSzq5OKH09h) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [La Melodia De La Calle](https://open.spotify.com/album/49Ff1eCn22aFRuI5avDtZ6) | 3:05 | 2021-12-17 |  |
 | [Pobre Diabla](https://open.spotify.com/track/26RZ3DhnVlytdG6N1oxW1E) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Gold Series "The Last Don"](https://open.spotify.com/album/3hKDEHUzH1GmdohemezsEw) | 4:12 | 2021-12-17 | 2022-07-29 |
+| [Ponte Pa Mi](https://open.spotify.com/track/4NCLHXgKBCuFAf6m20sFKj) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 3:29 | 2024-11-13 |  |
 | [Por Amar A Ciegas](https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:54 | 2021-12-17 |  |
 | [Porque Me Tratas Así?](https://open.spotify.com/track/6NoFVCCFpjWsHVYvinUeZG) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Pose](https://open.spotify.com/track/5BB5zjzCzo9M3uOKzhiXZB) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr) | 3:37 | 2021-12-17 | 2022-07-29 |

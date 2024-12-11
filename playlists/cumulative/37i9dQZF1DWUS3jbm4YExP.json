@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Big Smile (Pose For Me) [Extended Mix]",
+        "url": "https://open.spotify.com/album/0a68rokQArw4XZr15shvCB"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
+      "url": "https://open.spotify.com/track/450XNiNcM3YzfKVliMiePe"
+    },
+    {
+      "album": {
         "name": "Binbo\u011fa",
         "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
       },
@@ -7141,6 +7163,32 @@
     },
     {
       "album": {
+        "name": "La Noche (Paul A. George Remix)",
+        "url": "https://open.spotify.com/album/7dCYwJeKRrasgznPZDxE1y"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Antonio Lizana",
+          "url": "https://open.spotify.com/artist/4T7mpZdg9qTc5wRVcmrGpL"
+        },
+        {
+          "name": "Paul A. George",
+          "url": "https://open.spotify.com/artist/08GEZmyd9tj1myQvEV5K4A"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416142,
+      "name": "La Noche - Paul A. George Remix",
+      "url": "https://open.spotify.com/track/62kbiZm7alamIjuQU4lHPN"
+    },
+    {
+      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -7398,7 +7446,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 254291,
       "name": "Letter to the Martyrs",
       "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
@@ -13800,7 +13848,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"

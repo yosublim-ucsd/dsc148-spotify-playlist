@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-136 songs - 9 hr 0 min
+137 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cetam](https://open.spotify.com/track/0zRHtg2RwQ6v6xZBCXeKyR) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Lura](https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc) | [Cetam](https://open.spotify.com/album/7LzbjP6z1iS4YWUjh2Ppuj) | 3:40 | 2023-09-25 | 2023-11-11 |
 | [Cetam](https://open.spotify.com/track/2MLB1Yr7ZCXP54kjWSwVNX) | [Lura](https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [MULTICOLOR](https://open.spotify.com/album/28trbUyNBxZsVaLhWpwCjI) | 3:40 | 2023-11-10 |  |
 | [Choose Love \- Synematik Remix](https://open.spotify.com/track/1mn0Gp5CoKtlsMCEc89QDQ) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Synematik](https://open.spotify.com/artist/35WTtFW3bwCshTiZUd8k5H) | [Choose Love \(Synematik Remix\)](https://open.spotify.com/album/1aV8lZKPSOe8REki2GDnk3) | 2:33 | 2022-04-29 | 2022-06-01 |
-| [Crosseyed and Painless](https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:28 | 2021-12-28 |  |
+| [Crosseyed and Painless](https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:28 | 2021-12-28 | 2024-12-11 |
 | [Cucala](https://open.spotify.com/track/1W2br69NXrIXRt0hEymD3z) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Celia](https://open.spotify.com/album/0RV0acsVSRtBj0ngVHfzDD) | 3:19 | 2021-12-28 | 2022-10-13 |
 | [dans nos murs \(feat\. Angélique Kidjo\)](https://open.spotify.com/track/1agkIHecFermCzDuxMrzDC) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [La grande désillusion](https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS) | 3:21 | 2023-04-08 | 2023-08-01 |
 | [Different \(feat\. Damian Marley & Angelique Kidjo\)](https://open.spotify.com/track/6F5bERiTAIAVAP8ZUh0tqE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:16 | 2021-12-28 | 2024-10-30 |
@@ -65,6 +65,7 @@
 | [Itarafo](https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 4:45 | 2023-02-23 |  |
 | [Iwoya \(feat\. Dave Matthews\)](https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 3:46 | 2021-12-28 |  |
 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 | 2022-10-12 | 2024-02-22 |
+| [JERUSALEMA](https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [JERUSALEMA](https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au) | 5:29 | 2024-12-11 |  |
 | [Jike'lemaweni](https://open.spotify.com/track/2ORBalkbIaHkQyAPIyd4Qq) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Zenzile: The Reimagination of Miriam Makeba](https://open.spotify.com/album/4bOmiBWCHR9keNl8nY1297) | 4:28 | 2022-03-13 | 2023-06-28 |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-09-01 |  |
 | [Keep Rising \- The Woman King](https://open.spotify.com/track/7iWpBQjJWsJJfm3g8GFi7I) | [Jessy Wilson](https://open.spotify.com/artist/16mVBCP9OKYqPuGlzS61uP), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Keep Rising \(The Woman King\)](https://open.spotify.com/album/1ekbLXEL0o8JQT9yX8piWJ) | 3:14 | 2022-09-20 |  |

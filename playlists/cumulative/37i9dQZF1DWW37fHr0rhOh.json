@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: <a href=\"spotify:artist:4B43yyRlfQgDEhDPq35wUc\">The Nelons</a>",
+  "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: The Nelons",
   "name": "Faithful Melodies",
   "tracks": [
+    {
+      "album": {
+        "name": "Praise & Worship: More Than A Hollow Hallelujah",
+        "url": "https://open.spotify.com/album/4DhwZKd4ZfV41G6bDoERZC"
+      },
+      "artists": [
+        {
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353453,
+      "name": "(More Than A) Hollow Hallelujah",
+      "url": "https://open.spotify.com/track/7tbdulhnyIxuxpT3dRO149"
+    },
     {
       "album": {
         "name": "Amazing Grace",
@@ -214,7 +232,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 255573,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/0LH08OJwwPnBIHO74jh1yK"
@@ -236,6 +254,24 @@
       "duration_ms": 240533,
       "name": "Child Of The King",
       "url": "https://open.spotify.com/track/4pyQY3O1OyxlEJoAftiILY"
+    },
+    {
+      "album": {
+        "name": "Count Your Blessings (Instead of Sheep)",
+        "url": "https://open.spotify.com/album/5KDyvyijeOS40UGel2yfSf"
+      },
+      "artists": [
+        {
+          "name": "The Martins",
+          "url": "https://open.spotify.com/artist/5C8kymLzxGEAPJ3aNdFciB"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202991,
+      "name": "Count Your Blessings (Instead of Sheep)",
+      "url": "https://open.spotify.com/track/02A8Nfnd6Th0CvjaI8wxRk"
     },
     {
       "album": {
@@ -369,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Something to Shout About",
+        "url": "https://open.spotify.com/album/3BKfJbxH7wTIkpF1L3PZ9J"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176550,
+      "name": "Go Tell",
+      "url": "https://open.spotify.com/track/4up36rNyfsFzZaQlTXlbvW"
+    },
+    {
+      "album": {
         "name": "God Doesn't Know",
         "url": "https://open.spotify.com/album/3WoJE6xCMDtEEl2YiK5yzk"
       },
@@ -384,6 +438,24 @@
       "duration_ms": 202040,
       "name": "God Doesn't Know",
       "url": "https://open.spotify.com/track/4Mv10QQoBECuT1KquvB5ap"
+    },
+    {
+      "album": {
+        "name": "Grateful for the Gospel",
+        "url": "https://open.spotify.com/album/1JvcrhIjNDCEib9Enzgtlo"
+      },
+      "artists": [
+        {
+          "name": "Brian Free & Assurance",
+          "url": "https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207827,
+      "name": "God Who Redeems",
+      "url": "https://open.spotify.com/track/5XWbqp5JY4T42XWQXhnwBu"
     },
     {
       "album": {
@@ -532,7 +604,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
@@ -583,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Goodness Of God",
+        "url": "https://open.spotify.com/album/7qFpFhAFsApj3GhBBIeOkI"
+      },
+      "artists": [
+        {
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Goodness Of God",
+      "url": "https://open.spotify.com/track/2cQSEWIpWdfcGwqw79kqMx"
+    },
+    {
+      "album": {
         "name": "Grateful for the Gospel",
         "url": "https://open.spotify.com/album/1cfGHnbdJeMVlTvVMylv19"
       },
@@ -594,7 +684,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 223581,
       "name": "Grateful for the Gospel",
       "url": "https://open.spotify.com/track/2rfvqGg9B8deUo9ZqjGV1k"
@@ -916,6 +1006,24 @@
       "duration_ms": 218000,
       "name": "I Want to Live Like Jesus",
       "url": "https://open.spotify.com/track/3l9JyJD74ogvMZkHNqLscS"
+    },
+    {
+      "album": {
+        "name": "No Better Time",
+        "url": "https://open.spotify.com/album/3klKNICuTXz8Ob2Rc9UMgv"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Heirs",
+          "url": "https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I Went Down",
+      "url": "https://open.spotify.com/track/4mVgZGOqjA2LGTKdfIpYJY"
     },
     {
       "album": {
@@ -1263,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Long, Long Road",
+        "url": "https://open.spotify.com/album/29JmmHsEJlnIqV6qcgp6mi"
+      },
+      "artists": [
+        {
+          "name": "The Perrys",
+          "url": "https://open.spotify.com/artist/1xRTBMpX8h8nOZ60Gg98gU"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171671,
+      "name": "Long, Long Road",
+      "url": "https://open.spotify.com/track/2uM6GTHc8ay9NSwqbl0sQl"
+    },
+    {
+      "album": {
         "name": "Mansions",
         "url": "https://open.spotify.com/album/6h7BCcJpmV3LOUeyt2a6By"
       },
@@ -1604,7 +1730,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 224746,
       "name": "Peace in Trusting",
       "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
@@ -1813,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/1yWVKUYEJlYsj9b7IFUSx9"
+      },
+      "artists": [
+        {
+          "name": "Gold City",
+          "url": "https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205162,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1tQi88s5DT5rE9hit2zwYe"
+    },
+    {
+      "album": {
         "name": "Shine: The Darker The Night The Brighter The Light",
         "url": "https://open.spotify.com/album/4esWUIAc9vy68wRD31euit"
       },
@@ -1886,7 +2030,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 139000,
       "name": "Saints Will Rise",
       "url": "https://open.spotify.com/track/7yH3lg37aT7n0MM0hRDSbn"
@@ -2002,6 +2146,24 @@
       "duration_ms": 176733,
       "name": "Small Town Someone (Lunch)",
       "url": "https://open.spotify.com/track/5ngoN6vSMn3G0yEcfJVFfT"
+    },
+    {
+      "album": {
+        "name": "Decades, Vol. 3 & 4",
+        "url": "https://open.spotify.com/album/0iNw0FN61LYOptSMSHh5dK"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/4PYdJQUN1pFsPJJcsJ4hvo"
     },
     {
       "album": {
@@ -2239,6 +2401,36 @@
     },
     {
       "album": {
+        "name": "A Little Bit of Heaven",
+        "url": "https://open.spotify.com/album/3X178jY7PC6DJNKYzQAuMm"
+      },
+      "artists": [
+        {
+          "name": "Lauren, Amber & Kenna",
+          "url": "https://open.spotify.com/artist/06UsS22KG2H4l7brfRo9bq"
+        },
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        },
+        {
+          "name": "Amber Eppinette Saunders",
+          "url": "https://open.spotify.com/artist/6rkjIsvVIy74BEZFjnBMqL"
+        },
+        {
+          "name": "Kenna Turner West",
+          "url": "https://open.spotify.com/artist/2Xlx8qrPLqmZbifn6PE5s5"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "That Kind of Friend",
+      "url": "https://open.spotify.com/track/0Xjle8D7PwPY8IAF6pYSrN"
+    },
+    {
+      "album": {
         "name": "Welcome Home",
         "url": "https://open.spotify.com/album/4kHhfCyyuKu3LZ1S9lb633"
       },
@@ -2398,6 +2590,24 @@
       "duration_ms": 250333,
       "name": "The Healer Hasn't Lost His Touch",
       "url": "https://open.spotify.com/track/0ky8kcKp6QrNAKTiGfoHxN"
+    },
+    {
+      "album": {
+        "name": "The Mind of Christ",
+        "url": "https://open.spotify.com/album/3HkGkY5fFSSwkELLb3VIwA"
+      },
+      "artists": [
+        {
+          "name": "Jody McBrayer",
+          "url": "https://open.spotify.com/artist/0W1MCOTk9HHZh8LU02N2Dw"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259752,
+      "name": "The Mind of Christ",
+      "url": "https://open.spotify.com/track/5c7zQ2Fao4NjEVob6YEoC0"
     },
     {
       "album": {
@@ -2772,7 +2982,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 213586,
       "name": "We Are The Church",
       "url": "https://open.spotify.com/track/1R5hVj9XSrRfswx96pe2HP"
@@ -2974,6 +3184,24 @@
       "duration_ms": 132093,
       "name": "You Can Find What I Found",
       "url": "https://open.spotify.com/track/6RjPfdvN9rkSyQGpH6KGBL"
+    },
+    {
+      "album": {
+        "name": "Live In Memphis",
+        "url": "https://open.spotify.com/album/6999L6XkvhdlpSrlyfoGb5"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186262,
+      "name": "You'll Find Him There - Live",
+      "url": "https://open.spotify.com/track/75kw62TR6z5CEfynWUbBO3"
     },
     {
       "album": {

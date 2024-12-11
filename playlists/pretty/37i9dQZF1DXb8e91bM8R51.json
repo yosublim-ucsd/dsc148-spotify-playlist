@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52044,
+  "num_followers": 52049,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "MICHAEL (Deluxe)",
+        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "YES!",
+      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "MICHAEL (Deluxe)",
-        "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "YES!",
-      "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -2171,30 +2171,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "What's Mine (feat. Mick Jenkins) [Remix]",
-        "url": "https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8"
-      },
-      "artists": [
-        {
-          "name": "Ridgio",
-          "url": "https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt"
-        },
-        {
-          "name": "Mark Battles",
-          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "What's Mine (feat. Mick Jenkins) [Remix]",
-      "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "LORD FORGIVE ME",
         "url": "https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh"
       },
@@ -2219,6 +2195,30 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+        "url": "https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8"
+      },
+      "artists": [
+        {
+          "name": "Ridgio",
+          "url": "https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "What's Mine (feat. Mick Jenkins) [Remix]",
+      "url": "https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe"
     },
     {
       "added_at": "2024-11-08 03:01:00",

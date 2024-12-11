@@ -2,7 +2,7 @@
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:5X77nNxT45eR0OshjmAvKa">Mac Powell</a>
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Mac Powell
 
 487 songs - 1 day 6 hr 7 min
 

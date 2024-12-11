@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-308 songs - 11 hr 56 min
+309 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 | 2022-11-11 |  |
 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 | 2021-12-20 |  |
 | [Snow City](https://open.spotify.com/track/269xrav6hQlQ3YS7ZqokHa) | [Toni Palermo](https://open.spotify.com/artist/38vR4Z1kT7jqSEoDQ1Roxh) | [Snow City](https://open.spotify.com/album/6ruWROcRNTaTlOxdBy0Dm5) | 1:51 | 2022-12-16 |  |
+| [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 | 2024-12-10 |  |
 | [Snowfall](https://open.spotify.com/track/1GK8IGST7h1RoDYl2x8981) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:56 | 2021-12-20 |  |
 | [Snowfall](https://open.spotify.com/track/3IL8NIwz2vZpy7fettGnZk) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/7kjEh0io2Hs7CHyKK0k853) | 2:56 | 2021-12-20 | 2022-08-04 |
 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 | 2021-12-20 | 2024-04-19 |

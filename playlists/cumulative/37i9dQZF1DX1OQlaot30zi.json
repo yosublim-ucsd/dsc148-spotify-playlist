@@ -11840,7 +11840,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 165721,
       "name": "BIMBA",
       "url": "https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo"
@@ -13316,6 +13316,24 @@
       "duration_ms": 102069,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob"
+    },
+    {
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb"
     },
     {
       "album": {

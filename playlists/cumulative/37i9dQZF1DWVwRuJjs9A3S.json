@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
       },
@@ -3040,6 +3058,24 @@
       "duration_ms": 258186,
       "name": "Hum Hum",
       "url": "https://open.spotify.com/track/7ykt0KVowBOoMEesXLGGzQ"
+    },
+    {
+      "album": {
+        "name": "From the Inside (Music from the Original TV Series Fr\u00e5n Insidan)",
+        "url": "https://open.spotify.com/album/1pfCalC7U1clnlIbuafOyB"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219359,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0gM3NjVrHk8IfhOXnKvJnR"
     },
     {
       "album": {

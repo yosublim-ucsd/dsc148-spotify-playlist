@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,264 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,268 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [Stealing Out The Trap](https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi) | 3:46 |
 | 37 | [SICKÄ](https://open.spotify.com/track/2oEh5hk6PuM8sdffCvEefm) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [SICKÄ](https://open.spotify.com/album/5cBNgNA2vgNNjB1wF7Ko3p) | 2:15 |
 | 38 | [How Long](https://open.spotify.com/track/3tXrir3yIIl4si3OqZv6KA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [How Long](https://open.spotify.com/album/4biEI0rFdj9ZCUpIWKQQ9Q) | 2:58 |
-| 39 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:29 |
+| 39 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:14 |
 | 40 | [Bigger Than Life](https://open.spotify.com/track/5idprenxXotKSz5dFHUM6e) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Bigger Than Life](https://open.spotify.com/album/2TXd69tah0li3nZkwIhPYP) | 4:20 |
 | 41 | [Let it Go Baby](https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Let it Go Baby](https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5) | 3:25 |
 | 42 | [TMU pt\. I](https://open.spotify.com/track/0gmO51ioIuvy362zdQVX9t) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [TMU pt\. I](https://open.spotify.com/album/0dUU5QyfSmGO5XvqVsiB4Y) | 3:13 |

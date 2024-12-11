@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-425 songs - 1 day 0 hr 45 min
+427 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-01 | 2024-08-30 |
 | [Blockbuster Stereotypes](https://open.spotify.com/track/5tdhZOFvk4RKixIDx4Qtxb) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Blockbuster Stereotypes](https://open.spotify.com/album/4X7idbpXjBQnk5VXvof32T) | 2:29 | 2024-11-21 |  |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-11-01 |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-10 |  |
 | [Blue Ruin](https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust](https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW) | 4:10 | 2024-11-21 |  |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-12 | 2024-11-15 |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-27 | 2024-08-23 |
@@ -169,6 +170,7 @@
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/1ydamkZTTwrTPkmCnZ471z) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/album/5LewEYjVCv8jZ644IUtBCL) | 3:07 | 2024-06-27 | 2024-07-27 |
 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 | 2024-08-15 | 2024-09-06 |
 | [Hum Hum](https://open.spotify.com/track/7ykt0KVowBOoMEesXLGGzQ) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [VII](https://open.spotify.com/album/4ZTeNzwwljEbisqTq5zZlQ) | 4:18 | 2024-08-08 | 2024-09-13 |
+| [Hurricane](https://open.spotify.com/track/0gM3NjVrHk8IfhOXnKvJnR) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/1pfCalC7U1clnlIbuafOyB) | 3:39 | 2024-12-10 |  |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 | 2024-11-15 |
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 |  |
 | [Hösten](https://open.spotify.com/track/65Am6nqheamqdvPcpyz47o) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Hösten](https://open.spotify.com/album/2JCUV7tSFVGrHoddIqL9Hm) | 4:44 | 2024-10-31 |  |

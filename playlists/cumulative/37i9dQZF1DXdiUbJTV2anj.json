@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "bands and tracks on the rise in heavy music. Cover: 200 Stab Wounds",
+  "description": "bands and tracks on the rise in heavy music. Cover: CANDY",
   "name": "New Blood",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
@@ -204,6 +204,24 @@
       "duration_ms": 235426,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/7sBDYK0rlUxrTSQq4tnVLJ"
+    },
+    {
+      "album": {
+        "name": "From The New World",
+        "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245320,
+      "name": "Aquila",
+      "url": "https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ"
     },
     {
       "album": {
@@ -680,7 +698,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 109090,
       "name": "Carry My Own Torch",
       "url": "https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 112768,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 225152,
       "name": "Divination",
       "url": "https://open.spotify.com/track/6GTe0kb9Q1e2FtLk7orlBS"
@@ -1487,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "FUHAI",
+        "url": "https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        },
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193553,
+      "name": "FUHAI",
+      "url": "https://open.spotify.com/track/2i3N4t7Ke0ZGfckg5EieqL"
+    },
+    {
+      "album": {
         "name": "Future Proof",
         "url": "https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd"
       },
@@ -1664,7 +1704,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 284456,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7"
@@ -1934,7 +1974,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
@@ -2046,6 +2086,24 @@
       "duration_ms": 206720,
       "name": "Light up the Sky",
       "url": "https://open.spotify.com/track/1rS8aSBVuN23jol7N1yCPU"
+    },
+    {
+      "album": {
+        "name": "Live Not Fantasize",
+        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Live Not Fantasize",
+      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
     },
     {
       "album": {
@@ -2240,7 +2298,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 243874,
       "name": "Malady",
       "url": "https://open.spotify.com/track/3cD4OgJyoj28hvnjdw7BqG"
@@ -2475,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Vended",
+        "url": "https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Nihilism",
+      "url": "https://open.spotify.com/track/2JDPR8ZjXGGUHmqKTpJzcm"
+    },
+    {
+      "album": {
         "name": "Gone With The Flow",
         "url": "https://open.spotify.com/album/3jN00mERREzn8a5zSJE19L"
       },
@@ -2516,6 +2592,24 @@
       "duration_ms": 202657,
       "name": "No Cure",
       "url": "https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM"
+    },
+    {
+      "album": {
+        "name": "No Place for You",
+        "url": "https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX"
+      },
+      "artists": [
+        {
+          "name": "ZUK\u00d8",
+          "url": "https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "No Place for You",
+      "url": "https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS"
     },
     {
       "album": {
@@ -2732,6 +2826,42 @@
       "duration_ms": 236460,
       "name": "Poisoned Apple",
       "url": "https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB"
+    },
+    {
+      "album": {
+        "name": "Primitive",
+        "url": "https://open.spotify.com/album/2UM5crfGgcP091UDXfZHsN"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210417,
+      "name": "Primitive",
+      "url": "https://open.spotify.com/track/0TdYGyJIBeP03IzYbY62U4"
+    },
+    {
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
     },
     {
       "album": {
@@ -3734,7 +3864,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 254671,
       "name": "The Perfect Memory (Phantasm of Aura)",
       "url": "https://open.spotify.com/track/3zMrw4riP8Y0iN8tfce9wB"
@@ -4076,7 +4206,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 447100,
       "name": "Venom & Cadmium",
       "url": "https://open.spotify.com/track/50BIIRCIkkWA6R37v2lp3v"
@@ -4098,7 +4228,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 197043,
       "name": "Vortex of the Severed Dead (feat. Devourment)",
       "url": "https://open.spotify.com/track/2uVZI2LVCqX3pQhxlUyPzi"

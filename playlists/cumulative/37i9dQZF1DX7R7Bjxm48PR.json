@@ -2403,6 +2403,28 @@
     },
     {
       "album": {
+        "name": "Theta Eclipse",
+        "url": "https://open.spotify.com/album/3nPUlSAKbsIIJb2xmpTV72"
+      },
+      "artists": [
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        },
+        {
+          "name": "Sonic Apothecary",
+          "url": "https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Theta Eclipse",
+      "url": "https://open.spotify.com/track/0QPw8YFWkEVau7QPMblndW"
+    },
+    {
+      "album": {
         "name": "Thoughts",
         "url": "https://open.spotify.com/album/2oPHDcjLlUIi7mDVwwxysV"
       },

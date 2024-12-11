@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ
 
-342 songs - 23 hr 50 min
+343 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 | 2022-07-27 | 2023-03-02 |
 | [Hikari no Hate \(feat\. Aina The End\)](https://open.spotify.com/track/0IF2evtzFoRvcgfj805Nkd) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 6:26 | 2022-12-06 | 2024-01-12 |
 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 | 2023-04-21 | 2024-04-19 |
+| [HOT](https://open.spotify.com/track/5QF8FlDV0lRg7JMbxUQ67z) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HOT](https://open.spotify.com/album/3zk6lCrfOlMf5BEJjOSwrb) | 3:03 | 2024-12-10 |  |
 | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/track/1jGRCbz8D1prxGRbSy4Xir) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [AYA](https://open.spotify.com/artist/5XboRZlTHep5d4fC6AmZkW) | [I CAN'T DO ANYTHING\-宇宙よ\-](https://open.spotify.com/album/4ADBrrYkMVaEBe4IP4Jqcl) | 5:24 | 2022-07-27 |  |
 | [I Wanna Go To A Place...](https://open.spotify.com/track/7EFJ1ugMxOC2UzIXH9G7XU) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [ROSE ALBUM](https://open.spotify.com/album/2CrjeeVRKQmFY22ntJBFW8) | 5:08 | 2024-01-11 |  |
 | [ignited \-イグナイテッド\-](https://open.spotify.com/track/3PLKngOPCO0D40dJdefwRQ) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [vertical infinity](https://open.spotify.com/album/2jI5qiLWmetKrWEd25nxBu) | 3:11 | 2022-07-27 | 2024-04-19 |
@@ -342,7 +343,7 @@
 | [罠](https://open.spotify.com/track/1flOkQIJUm6j8XluuFEJCy) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [BEST THE BACK HORN](https://open.spotify.com/album/0yaafXyRahYiHyT69hiP3v) | 4:22 | 2022-07-27 |  |
 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 | 2022-07-27 |  |
 | [翔べ！フリーダム](https://open.spotify.com/track/4VlIw7jWgkVl7mZ4AobD92) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 3](https://open.spotify.com/album/36EhBfneJa6KCyZoy4qK26) | 1:45 | 2024-01-27 |  |
-| [航行するミレニアム](https://open.spotify.com/track/4F1LiP4RwiWzH4viDnXKOI) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 2:20 | 2024-01-25 |  |
+| [航行するミレニアム](https://open.spotify.com/track/4F1LiP4RwiWzH4viDnXKOI) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [『機動戦士ガンダムSEED FREEDOM』オリジナルサウンドトラック](https://open.spotify.com/album/1yFgXwm2dpfMPtdy5cLqGd) | 2:20 | 2024-01-25 | 2024-12-11 |
 | [覚醒シン・アスカ](https://open.spotify.com/track/7CX8iF94cbuiZT9DTBqJPg) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 2](https://open.spotify.com/album/5kSfKduD6kLQ76JmOpeh24) | 1:49 | 2024-01-27 |  |
 | [遠い記憶](https://open.spotify.com/track/2OwfPv0pQUegppj9xNW79U) | [Megumi Shiina](https://open.spotify.com/artist/6gp9jw7DuN6VFhpYoZzu4X) | [遠い記憶](https://open.spotify.com/album/33Vbs8fOIG5nAEkgxtqyJV) | 4:14 | 2022-07-27 | 2023-06-10 |
 | [遠雷 〜遠くにある明かり〜](https://open.spotify.com/track/2BY3sslLXvGBoRmlVxQGGt) | [HIGH and MIGHTY COLOR](https://open.spotify.com/artist/68vPeaQOlnY1aA3iBKCEpG) | [参](https://open.spotify.com/album/5zmnBCHxv3euQ8Hm9j974K) | 4:24 | 2024-01-11 |  |

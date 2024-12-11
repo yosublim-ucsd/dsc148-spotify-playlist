@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6673,
+  "num_followers": 6672,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "LUMOS",
+        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
+      },
+      "artists": [
+        {
+          "name": "AEONIT",
+          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
+        }
+      ],
+      "duration_ms": 157666,
+      "name": "LUMOS",
+      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 229320,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "LUMOS",
-        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
-      },
-      "artists": [
-        {
-          "name": "AEONIT",
-          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "LUMOS",
-      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "36.5 (Summer without you)",
-        "url": "https://open.spotify.com/album/0MdwGsLpCn0fDFksq5Bqvz"
-      },
-      "artists": [
-        {
-          "name": "SOONHO",
-          "url": "https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4"
-        }
-      ],
-      "duration_ms": 224630,
-      "name": "36.5 (Summer without you)",
-      "url": "https://open.spotify.com/track/2iDnAtbo9PJCezRvVYjw5i"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 182031,
       "name": "CAPTAIN",
       "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "36.5 (Summer without you)",
+        "url": "https://open.spotify.com/album/0MdwGsLpCn0fDFksq5Bqvz"
+      },
+      "artists": [
+        {
+          "name": "SOONHO",
+          "url": "https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4"
+        }
+      ],
+      "duration_ms": 224630,
+      "name": "36.5 (Summer without you)",
+      "url": "https://open.spotify.com/track/2iDnAtbo9PJCezRvVYjw5i"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "KHAMAI",
-        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
-      },
-      "artists": [
-        {
-          "name": "HUNJIYA",
-          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "TALK2ME! (feat. pH-1)",
-      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 171967,
       "name": "SKIP (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "KHAMAI",
+        "url": "https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR"
+      },
+      "artists": [
+        {
+          "name": "HUNJIYA",
+          "url": "https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 205856,
+      "name": "TALK2ME! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6tCVRuYVGG6L5tjeOcxaqR"
     },
     {
       "added_at": "2024-11-06 07:05:36",

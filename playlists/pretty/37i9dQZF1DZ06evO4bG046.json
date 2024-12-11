@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33960,
+  "num_followers": 33967,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ThgAAAAADzp53AVz7jjLh9cxGbFjyg",
+  "snapshot_id": "Z1YzAAAAAADMaRfKHMQ3OrDJepv452Ui",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 296026,
-      "name": "Mambo de Machaguay",
-      "url": "https://open.spotify.com/track/7eDAcrYSFM2vNWrCefc9Sm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 421311,
       "name": "Mira Ni\u00f1ita (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/6Lg1r56wubG76t2fOF9iNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 296026,
+      "name": "Mambo de Machaguay",
+      "url": "https://open.spotify.com/track/7eDAcrYSFM2vNWrCefc9Sm"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Takirari del Puerto",
-      "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 345096,
       "name": "Todos Juntos (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/5E8fsTZfvnj7tuRvCnV4SV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 220373,
-      "name": "Aconcagua",
-      "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palomita Blanca",
         "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 166240,
       "name": "Donde Estabas T\u00fa",
       "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 328733,
-      "name": "Desde un Barrial",
-      "url": "https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palomita Blanca",
         "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 170160,
       "name": "Verg\u00fcenza Ajena",
       "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Desde un Barrial",
+      "url": "https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 254973,
-      "name": "P\u00e1jaro Errante",
-      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Macha y el Bloque Depresivo",
         "url": "https://open.spotify.com/album/0xgXqrSz4tx4uapKr46R5J"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 158640,
       "name": "Verguenza Ajena",
       "url": "https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "P\u00e1jaro Errante",
+      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
+        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 32914,
+      "name": "El Pasillo del C\u00f3ndor - En Vivo 2014",
+      "url": "https://open.spotify.com/track/3VqyFnVNNe030MDH6XR6b2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 252122,
       "name": "Ni\u00f1a Serrana (En Vivo) - 2024 Remasterizado",
       "url": "https://open.spotify.com/track/5sFEFAxRykBNA1xQRrzzRl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Ma\u00f1ana Me Voy Pa'l Norte",
-      "url": "https://open.spotify.com/track/2NUvZ1avmNuYnupNQ0vlA4"
     }
   ],
   "unique_name": "This Is Los Jaivas",

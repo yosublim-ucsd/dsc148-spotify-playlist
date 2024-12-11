@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-524 songs - 1 day 1 hr 3 min
+525 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Pindan Aale](https://open.spotify.com/track/5CyXssn2W8QqeXolleUepo) | [Ekam Chanoli](https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik), [Ruby Chatha](https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Pindan Aale](https://open.spotify.com/album/7cw7zQh0pg48ooMQicWvrX) | 4:12 | 2024-08-12 | 2024-08-21 |
 | [PMCM](https://open.spotify.com/track/120E9faVdT9sp4t8QIGZoo) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [PMCM](https://open.spotify.com/album/370ByUPt1uNGn2erT5vYdd) | 2:58 | 2024-07-03 | 2024-07-10 |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-08-22 |
+| [Powerhouse \(Feat\. Sanjay Dutt\)](https://open.spotify.com/track/2cGtNmEJ0lwrUebjTzAio3) | [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Powerhouse \(Feat\. Sanjay Dutt\)](https://open.spotify.com/album/3PQQ2b6RbARcBU8NFESL0s) | 2:54 | 2024-12-10 |  |
 | [Powerplay](https://open.spotify.com/track/304NwJLBI13meQEv2gvoB0) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Powerplay](https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE) | 3:24 | 2024-08-23 |  |
 | [Punjab](https://open.spotify.com/track/3rHWjldztRlz9qjmNBLIf5) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Punjab](https://open.spotify.com/album/7fUILa4pyo0qFQmfc1VXpZ) | 3:39 | 2024-07-26 | 2024-12-06 |
 | [Puthe Kamm](https://open.spotify.com/track/4HYvIbn8pJfRuliUgAzPr5) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Janta Toor](https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K), [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Puthe Kamm](https://open.spotify.com/album/49pgzd02VxYIe6HfQBlIOo) | 2:40 | 2023-12-01 | 2023-12-08 |

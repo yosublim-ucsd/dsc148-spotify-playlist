@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-234 songs - 9 hr 5 min
+238 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/19HFJbFIXHqnKx2bGs2CpM) | [Serenata Moss](https://open.spotify.com/artist/3W4A8cV0hV5vutTRDgWuMi) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/1NwSAwzqZ2YMCCg0HTrUJ8) | 3:18 | 2023-10-18 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/44UxMZm026GEwmv3kLwJO8) | [Carina Sanches Fajardo](https://open.spotify.com/artist/2vkFC7073df7wWAdbdKZHe) | [All I Want for Christmas Is You](https://open.spotify.com/album/0DbmJx7EbFtHvX7DVnpwTJ) | 3:36 | 2021-12-14 | 2022-10-15 |
 | [All I Want for Christmas is You](https://open.spotify.com/track/4K87zsyimy9SQdwCFkV1w5) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Christmas Classics](https://open.spotify.com/album/4fVf2Q2pChGdysRejDKd4E) | 1:49 | 2022-10-14 | 2023-09-27 |
+| [All I Want For Christmas is You \- Cover](https://open.spotify.com/track/0F1o5Komjj1RXDceIDyVdI) | [Forrest St\. Marie](https://open.spotify.com/artist/1sN2yaH4cGJ4a951vNgdFR) | [All I Want For Christmas is You \(Cover\)](https://open.spotify.com/album/1QeZioeBRk5Lfum86keCXu) | 2:42 | 2024-12-10 |  |
 | [Amazing Grace](https://open.spotify.com/track/5o4iMbbgXDeBiQSCp8Tiuu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Amazing Grace](https://open.spotify.com/album/1YLi7u0pZkzyQ20IN2Er7B) | 2:20 | 2023-10-03 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/63oMhXotlb3tV6Eo3yS7PH) | [Billy Celeste](https://open.spotify.com/artist/1n51Mk3pf4ClfYeGse5wHH) | [Angels From The Realms Of Glory](https://open.spotify.com/album/01iabXApdRYsxv5h9OuoBD) | 1:47 | 2021-12-14 | 2023-09-27 |
 | [Angels of the Realm of Glory](https://open.spotify.com/track/608iWUJbqrBPmnHOm8KAjl) | [Merlin Willow](https://open.spotify.com/artist/5KjBTnxi0FvGCQYslA0T9N) | [Angels of the Realm of Glory](https://open.spotify.com/album/2juXfSADucR4whF57T6skl) | 2:49 | 2024-12-06 |  |
@@ -91,6 +92,7 @@
 | [Fairytale of New York](https://open.spotify.com/track/3KOJjkgH7r5nHamhCAmmb5) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 3:33 | 2021-12-14 | 2023-09-27 |
 | [Feels Like Christmas](https://open.spotify.com/track/2TUxiQHM6JocQHuwBaLzKc) | [Ido Mann](https://open.spotify.com/artist/6e05PHr5LS2M4fm6P7ClAz) | [Ido Mann](https://open.spotify.com/album/4qlZCXAc5E4hcpi2y7tkB5) | 3:17 | 2021-12-14 |  |
 | [Feliz Navidad](https://open.spotify.com/track/4afmKejOTVzBOLNezi5GmY) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Feliz Navidad](https://open.spotify.com/album/0VQHzPSNjidMAO82wPtUmn) | 1:57 | 2024-12-06 |  |
+| [Feliz Navidad \- Cover](https://open.spotify.com/track/1dnRPulmODyLH8TM5suWwZ) | [Meadow Bryce](https://open.spotify.com/artist/4ARAeBMCVRKxSKJOflrRyF) | [Feliz Navidad \(Cover\)](https://open.spotify.com/album/6uU6jMou8csG4QOZg2GXVQ) | 2:22 | 2024-12-10 |  |
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-11-09 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/64sp1vbfMJpq58nOsVvKp3) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [Frosty the Snowman](https://open.spotify.com/album/6ZvEgjDE8TaK2Yp6n3PWSn) | 2:09 | 2023-10-18 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5OHltEpNbPgAL86eI75kQ8) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [I'll Be Home For Christmas](https://open.spotify.com/album/1UImeaHyAC0r6MKa4Pt2XD) | 2:03 | 2022-10-14 | 2023-10-19 |
@@ -174,6 +176,7 @@
 | [Oh Christmas Tree](https://open.spotify.com/track/2Tgnu0yfBZdOUshJHND7Mr) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Oh Christmas Tree](https://open.spotify.com/album/2U3JUK5LEXsxPZ2cW32TYs) | 2:08 | 2023-10-24 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
 | [Oh Tannenbaum](https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Oh Tannenbaum](https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh) | 3:03 | 2024-10-22 |  |
+| [Once In Royal David's City \- Cover](https://open.spotify.com/track/03L6Nsi30mkQCV4J8NIKOa) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [Once In Royal David's City \(Cover\)](https://open.spotify.com/album/6TYn9cCxYAO4POz6wNfzAx) | 1:42 | 2024-12-10 |  |
 | [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 | 2023-09-27 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 | 2021-12-14 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/4kj7JyUL487ht0NUkRcQIG) | [Burt Wood](https://open.spotify.com/artist/3QJnQeIYNxumOaUw8hGRkI) | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/album/48XSv4GCs2YW8WCQSOz3kg) | 3:16 | 2024-12-06 |  |
@@ -200,6 +203,7 @@
 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 | 2021-12-14 |  |
 | [That's Christmas To Me](https://open.spotify.com/track/2RJynd5Zo2jM2uThsr0nt2) | [Wolfgang Hesse](https://open.spotify.com/artist/0DA4ip8spL0eleah5T7Xoz) | [Wolfgang Hesse](https://open.spotify.com/album/7LQuSNfNniF4uHmJxC1ruS) | 3:06 | 2021-12-14 |  |
 | [That's What Christmas Means to Me](https://open.spotify.com/track/789xr10ZwnEighCCC6GSgk) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [That's What Christmas Means to Me](https://open.spotify.com/album/04avF6dTu7wmP1sSlNlg1I) | 3:35 | 2024-11-06 |  |
+| [The Christmas song](https://open.spotify.com/track/7avWN6l5PLdMjs5fBS7ZFC) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [The Christmas song](https://open.spotify.com/album/5CQrtgYjMdlNQHeGvdJQ6F) | 3:42 | 2024-12-10 |  |
 | [The Christmas Song \(arr\. piano\)](https://open.spotify.com/track/4bcrfPo51Gy2OGF37J9ysl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 4:10 | 2021-12-14 |  |
 | [The Christmas Song \- felt piano version](https://open.spotify.com/track/4m7JoKf3KGq2BIFp0xjBMy) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY), [Christmas Piano Instrumental](https://open.spotify.com/artist/6gG2Sish6nE9tfU6pBxXOu) | [Christmas \(Instrumental Piano Music\)](https://open.spotify.com/album/7mtTPuE0HUn803QibRWkn8) | 2:31 | 2024-11-19 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/5qm8v8lXIIrsZUXeM7JgCj) | [Hampus Bjorklund](https://open.spotify.com/artist/4oAJ4PcUscttZvT2beypMS) | [The Christmas Waltz](https://open.spotify.com/album/2KDD5kHV5lhvU97AE1sXtG) | 2:47 | 2022-10-14 |  |

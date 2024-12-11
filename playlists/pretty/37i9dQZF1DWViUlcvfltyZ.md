@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Les Votives in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,762 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,761 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monster](https://open.spotify.com/track/2Imf5A0uAWGe8P1Rf8ZIK3) | [Les Votives](https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5) | [Monster](https://open.spotify.com/album/0iJrCqDHPcq8Y88qQEWpmi) | 2:18 |
 | 2 | [Eraserhead](https://open.spotify.com/track/2ZuwigNV0Yw9yshkr0wtDQ) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [Isobel](https://open.spotify.com/album/2mYgFhon7a8Px1LMx7jwhr) | 3:30 |
-| 3 | [Senza paura](https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Senza paura](https://open.spotify.com/album/6sGXPl6dJGW8MDOhzcqiG0) | 3:10 |
-| 4 | [Da Solo](https://open.spotify.com/track/12VJ148Eh5UjrTuFau79B8) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Da Solo](https://open.spotify.com/album/0DtDZPYvODVD6of7IQS5y7) | 2:50 |
-| 5 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 |
+| 3 | [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 |
+| 4 | [Senza paura](https://open.spotify.com/track/6Q2OUfhKR4gFBKrD48Lwt3) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Senza paura](https://open.spotify.com/album/6sGXPl6dJGW8MDOhzcqiG0) | 3:10 |
+| 5 | [Da Solo](https://open.spotify.com/track/12VJ148Eh5UjrTuFau79B8) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Da Solo](https://open.spotify.com/album/0DtDZPYvODVD6of7IQS5y7) | 2:50 |
 | 6 | [LA FINE](https://open.spotify.com/track/4Ku4hyAVPbS1uDuISpcIvr) | [PITONI](https://open.spotify.com/artist/47FmploiTJhA9BABtpnpAI) | [/ PITONI](https://open.spotify.com/album/58eEaLxYIII0tCljXTaZu5) | 2:34 |
 | 7 | [Rampicanti](https://open.spotify.com/track/53A1OWZenFhTVhzuGHi6fG) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Rampicanti](https://open.spotify.com/album/0l8Yd9IeNKED3u1axpA3rE) | 2:44 |
 | 8 | [Pista nera](https://open.spotify.com/track/4DZ2RDJhKKRjFmJiI3ddka) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pista Nera](https://open.spotify.com/album/7dgA2BZvQiG6n4Y4L0upP3) | 3:27 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [non mi guardavi nemmeno](https://open.spotify.com/track/3DqwilpSwz1ElbRhFvUIBe) | [Fear Of Apathy](https://open.spotify.com/artist/69xmomZwZqYGTSYPoWiUML) | [non mi guardavi nemmeno](https://open.spotify.com/album/0eT6RoM3l688rLKFfMd5Z9) | 3:18 |
 | 95 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 |
 
-Snapshot ID: `Z1LbGAAAAAClT/bFyxDYRrVSlPrjWxFW`
+Snapshot ID: `Z1gqgwAAAADNpKQ0qD71/VWo36GWqSm3`

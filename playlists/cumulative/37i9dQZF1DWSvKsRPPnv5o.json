@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Tweaker Mode",
+        "url": "https://open.spotify.com/album/5JOH23VgkXBfaGPjVTPcux"
+      },
+      "artists": [
+        {
+          "name": "Younginsosleaze",
+          "url": "https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154070,
+      "name": "All 10",
+      "url": "https://open.spotify.com/track/7iCkpEdPra4Dwex4nwguaD"
+    },
+    {
+      "album": {
         "name": "All Blue",
         "url": "https://open.spotify.com/album/6HE5aKHcsorSzReD3VCFWq"
       },

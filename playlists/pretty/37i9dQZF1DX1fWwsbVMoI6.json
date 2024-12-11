@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 120988,
+  "num_followers": 121010,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
         "name": "Mejor Que Nunca...Sola Hay Una...!",
         "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 243533,
       "name": "Voy a Buscarme un Amor",
       "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -795,22 +795,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Hasta Que Duela la Cabeza",
-        "url": "https://open.spotify.com/album/1bbiTYC8vWdhGCXRMpaDGG"
+        "name": "El Baile de la Serpiente",
+        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
       },
       "artists": [
         {
-          "name": "Agua Bella",
-          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
-        },
-        {
-          "name": "Handa",
-          "url": "https://open.spotify.com/artist/4LpZfYp1BP3igeRu8RHAYq"
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
         }
       ],
-      "duration_ms": 160867,
-      "name": "Hasta Que Duela la Cabeza",
-      "url": "https://open.spotify.com/track/6DmuJ7Wl9TrBquH5MH1DF4"
+      "duration_ms": 209293,
+      "name": "Juraste Querrerme",
+      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -831,18 +827,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+        "name": "Solo Hay Una...!",
+        "url": "https://open.spotify.com/album/0eKI4Krwfk5MNigWz1W3aW"
       },
       "artists": [
         {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+          "name": "Agua Bella",
+          "url": "https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+      "duration_ms": 213466,
+      "name": "Luna Bonita",
+      "url": "https://open.spotify.com/track/0LXiA5VilShPoZkcam7EP6"
     }
   ],
   "unique_name": "Cumbias de Oro",

@@ -1355,6 +1355,28 @@
     },
     {
       "album": {
+        "name": "White Christmas (feat. Sofia Carson)",
+        "url": "https://open.spotify.com/album/2bZ93x1Mm5INldKT3aLPk8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "White Christmas (feat. Sofia Carson)",
+      "url": "https://open.spotify.com/track/7BsPghb8l6oQq0tXzFfTNV"
+    },
+    {
+      "album": {
         "name": "Winter Morning",
         "url": "https://open.spotify.com/album/28ihDyYZ8yD7hDeGF7aPlX"
       },

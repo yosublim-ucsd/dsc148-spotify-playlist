@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 116080,
+  "num_followers": 116101,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ThgAAAAAASMd0mQwNZPP64ctuRBxo5",
+  "snapshot_id": "Z1YzAAAAAACxv2mby8x5Ivz4h2iPLrjz",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+        "name": "Hand Springs",
+        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 126413,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
+      "duration_ms": 176045,
+      "name": "Hand Springs",
+      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hand Springs",
-        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 176045,
-      "name": "Hand Springs",
-      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
+      "duration_ms": 126413,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+        "name": "City Lights (Previously Unreleased)",
+        "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 306453,
-      "name": "Black Jack Davey",
-      "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
+      "duration_ms": 290693,
+      "name": "City Lights - Previously Unreleased",
+      "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City Lights (Previously Unreleased)",
-        "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 290693,
-      "name": "City Lights - Previously Unreleased",
-      "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
+      "duration_ms": 306453,
+      "name": "Black Jack Davey",
+      "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
     },
     {
       "added_at": null,

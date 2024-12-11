@@ -109,6 +109,24 @@
     },
     {
       "album": {
+        "name": "COSMIC KID",
+        "url": "https://open.spotify.com/album/7M3tTNeYiYamVgZur0HIap"
+      },
+      "artists": [
+        {
+          "name": "COSMIC KID",
+          "url": "https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109644,
+      "name": "2.0",
+      "url": "https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD"
+    },
+    {
+      "album": {
         "name": "20 LABIOS",
         "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
       },

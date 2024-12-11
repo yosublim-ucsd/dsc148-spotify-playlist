@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Stoned Level & MUERTE
 
-851 songs - 1 day 23 hr 16 min
+852 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Defeatist](https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Defeatist](https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS) | 3:34 | 2024-10-11 |  |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
 | [Delete Me](https://open.spotify.com/track/64qzMqWdnPXObrRhC2XP4d) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Dead Man Walking Pt\. 2](https://open.spotify.com/album/3qMvqbU8YpFQkRit1vWatZ) | 4:24 | 2024-11-04 |  |
+| [Deleted](https://open.spotify.com/track/6XHTvts7otpFvh4hENku42) | [Lumasi](https://open.spotify.com/artist/0y5sfSvE19x3r3nVUKYbIN), [SCHMUX](https://open.spotify.com/artist/6e1ufxNs457HAQbwt0tOKb) | [Deleted](https://open.spotify.com/album/279JoiCrD2OxSbleoFaVXN) | 3:02 | 2024-12-06 |  |
 | [Delusional](https://open.spotify.com/track/4f2a45202MGqyp7ZkC1Qu8) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Delusional](https://open.spotify.com/album/0mTgHGtaN63xXRd9PTFjed) | 2:58 | 2024-05-17 |  |
 | [Demisaur](https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Demisaur](https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [Demise](https://open.spotify.com/track/0j055WaD6Tdt0sCO7yT1f8) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Into The Dark](https://open.spotify.com/album/6oOhjdvkVDfzXdTOTXmyJ5) | 2:24 | 2024-03-15 | 2024-05-18 |
@@ -655,7 +656,7 @@
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 | 2023-10-04 |
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
 | [Selecta](https://open.spotify.com/track/0ZVJQ6cRV4N5FaRpeS6f3H) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [VAMPIRE WEAPON: MIDNIGHT](https://open.spotify.com/album/0RgGfU50FirKB8Du60MTA1) | 3:20 | 2024-11-08 |  |
-| [SENSATION](https://open.spotify.com/track/62aa8Kzjpu51dmKCJiwP8I) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [SENSATION](https://open.spotify.com/album/73ld8UKbwhBZraFB4uMWWL) | 3:38 | 2024-08-02 |  |
+| [SENSATION](https://open.spotify.com/track/62aa8Kzjpu51dmKCJiwP8I) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [SENSATION](https://open.spotify.com/album/73ld8UKbwhBZraFB4uMWWL) | 3:38 | 2024-08-02 | 2024-12-11 |
 | [Senses](https://open.spotify.com/track/5GhdLDTh0BslJx45SmXtWx) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Senses](https://open.spotify.com/album/528AOUAXpxheUivis06m99) | 2:52 | 2023-08-04 | 2023-10-26 |
 | [Set Fire](https://open.spotify.com/track/1x9txwXoNMai6cJsldwF8A) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Set Fire](https://open.spotify.com/album/2Rjb2p6LBWIeb0QyHnOwVE) | 3:53 | 2023-06-09 | 2023-08-03 |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |

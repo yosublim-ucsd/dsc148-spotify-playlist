@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 176027,
+  "num_followers": 176052,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Hanging On",
         "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+        "name": "Phase Zero",
+        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Morgan Delt",
+          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
         }
       ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+      "duration_ms": 311280,
+      "name": "Some Sunsick Day",
+      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -975,22 +991,6 @@
       "duration_ms": 252375,
       "name": "Althea",
       "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Karma For Cheap",
-        "url": "https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Heart Slows Down",
-      "url": "https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH"
     }
   ],
   "unique_name": "Psych & Groove",

@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243989,
+  "num_followers": 243996,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Cranes in the Sky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 268875,
+      "name": "Cranes in the Sky - Spotify Singles",
+      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Room Full Of Love",
         "url": "https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 239600,
       "name": "Room Full Of Love",
       "url": "https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "Cranes in the Sky (Spotify Singles)",
-        "url": "https://open.spotify.com/album/260Kae28MIGcLpp248A869"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Cranes in the Sky - Spotify Singles",
-      "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "In My Heart In My Veins",
-        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Time Ain't On Our Side",
-      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "NICE GIRLS",
         "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "In My Heart In My Veins",
+        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Time Ain't On Our Side",
+      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Waiting On You",
         "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 163555,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "2 Sides of a Rose",
-        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Quite Like Me",
-      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
+        "name": "2 Sides of a Rose",
+        "url": "https://open.spotify.com/album/15iYjOGjCRbHsdEcOK2LRn"
       },
       "artists": [
         {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
         }
       ],
-      "duration_ms": 152195,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
+      "duration_ms": 146938,
+      "name": "Quite Like Me",
+      "url": "https://open.spotify.com/track/4WGD85PdTdh32UBUUu3Hqb"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1007,6 +991,22 @@
       "duration_ms": 215152,
       "name": "Slide",
       "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB"
+      },
+      "artists": [
+        {
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
         "name": "Silky Feels",
         "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 179123,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+        "name": "10%",
+        "url": "https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Sar\u00e0h Phenom",
+          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
         }
       ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+      "duration_ms": 171999,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "10%",
-        "url": "https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW"
-      },
-      "artists": [
-        {
-          "name": "Sar\u00e0h Phenom",
-          "url": "https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G"
-        }
-      ],
-      "duration_ms": 171999,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
         "name": "LOML",
         "url": "https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf"
       },
@@ -1231,26 +1231,6 @@
       "duration_ms": 177760,
       "name": "LOML",
       "url": "https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd"
-    },
-    {
-      "added_at": "2024-12-05 10:25:46",
-      "album": {
-        "name": "ANTICIPATE",
-        "url": "https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK"
-      },
-      "artists": [
-        {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
-        },
-        {
-          "name": "Cait Harris",
-          "url": "https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0"
-        }
-      ],
-      "duration_ms": 152138,
-      "name": "ANTICIPATE",
-      "url": "https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1271,18 +1251,22 @@
     {
       "added_at": "2024-12-05 10:25:46",
       "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+        "name": "ANTICIPATE",
+        "url": "https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK"
       },
       "artists": [
         {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Cait Harris",
+          "url": "https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
+      "duration_ms": 152138,
+      "name": "ANTICIPATE",
+      "url": "https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp"
     },
     {
       "added_at": "2024-12-05 10:25:46",
@@ -1315,6 +1299,22 @@
       "duration_ms": 254737,
       "name": "City's Burning",
       "url": "https://open.spotify.com/track/1rgz9BcN7gaURoxJn74sz6"
+    },
+    {
+      "added_at": "2024-12-05 10:25:46",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     },
     {
       "added_at": "2024-12-05 10:25:46",

@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Angel's Tales",
+        "url": "https://open.spotify.com/album/7uVyXH9S2wsJ35NiabGfOd"
+      },
+      "artists": [
+        {
+          "name": "Sigrid Vega",
+          "url": "https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150124,
+      "name": "Angel's Tales",
+      "url": "https://open.spotify.com/track/0dcRaLA6CQ2LhT9DK3E5X1"
+    },
+    {
+      "album": {
         "name": "Awaiting the Festive Night",
         "url": "https://open.spotify.com/album/2LP5tFktuJb2HuGXk32cnS"
       },
@@ -495,6 +513,24 @@
     },
     {
       "album": {
+        "name": "He Is Near",
+        "url": "https://open.spotify.com/album/5L583RmMoftX92GbeeK88U"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bergfeld",
+          "url": "https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159902,
+      "name": "He Is Near",
+      "url": "https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX"
+    },
+    {
+      "album": {
         "name": "He Shall Feed His Flock",
         "url": "https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ"
       },
@@ -564,6 +600,24 @@
       "duration_ms": 206666,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/5jTAJBqOZQIFp0gndvqR75"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/5qSQ9AIHgT3mg8UkMRrdXR"
+      },
+      "artists": [
+        {
+          "name": "Passerina Caerulea",
+          "url": "https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177089,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/0Wf4gthDt7BQTUx7GCj8DD"
     },
     {
       "album": {

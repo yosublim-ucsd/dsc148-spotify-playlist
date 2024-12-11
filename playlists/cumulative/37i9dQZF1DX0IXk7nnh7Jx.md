@@ -2,7 +2,7 @@
 
 ### [Indie Spirit](https://open.spotify.com/playlist/37i9dQZF1DX0IXk7nnh7Jx)
 
-> Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:1FYE37rOHOrxO1lHAQUkCl">Antoine Bradford</a>
+> Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Antoine Bradford
 
 662 songs - 1 day 14 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,631,596 likes - 120 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,631,858 likes - 120 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 82 | [Everything \(feat\. JES\)](https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:00 |
 | 83 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
 | 84 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
-| 85 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
-| 86 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
-| 87 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
-| 88 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 |
+| 85 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
+| 86 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
+| 87 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 |
+| 88 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
 | 89 | [Halcyon and On and On](https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1T7efw93w96udljrPyL44G) | 9:27 |
 | 90 | [Put Your Hands Up for Detroit \- MC Mario Edit](https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1) | 6:33 |
 | 91 | [Traffic \- Radio Edit](https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 2:57 |

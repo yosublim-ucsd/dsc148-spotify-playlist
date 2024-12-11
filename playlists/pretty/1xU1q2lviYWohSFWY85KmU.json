@@ -6,8 +6,124 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEKOve9m2bdCpmklIEH6T5U9hyVBGA",
+  "snapshot_id": "AAAENwcEVCJS9qGxhjtahfHS+Dia8tg+",
   "tracks": [
+    {
+      "added_at": "2024-12-10 07:21:39",
+      "album": {
+        "name": "\u30d5\u30a9\u30fc\u30ea\u30f3\u30c0\u30a6\u30fb\u30a8\u30f3\u30c9\u30eb\u30d5\u30a3\u30f3",
+        "url": "https://open.spotify.com/album/6YwnP3Ty7zFQ6BVJQ1RE0r"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u7530\u30e8\u30b7\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/485Om6PyJZx5lQa5sQP89O"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "\u30d5\u30a9\u30fc\u30ea\u30f3\u30c0\u30a6\u30fb\u30a8\u30f3\u30c9\u30eb\u30d5\u30a3\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2J2dWPn0KOubUnrDjSjd27"
+    },
+    {
+      "added_at": "2024-12-10 07:21:55",
+      "album": {
+        "name": "\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3yyO8wBC769LE2jYD1Hxng"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u85e4\u539f\u6750\u6599",
+          "url": "https://open.spotify.com/artist/6XDQIrzjzBmRPZG988yhdI"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 170487,
+      "name": "\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9\u30b8\u30e3\u30fc\u30cb\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/37T4Y4zqDOqrJnvZtBR6xv"
+    },
+    {
+      "added_at": "2024-12-10 07:22:06",
+      "album": {
+        "name": "\u30ad\u30e9\u30fc\u30b7\u30e7\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/59Z4shLuQj3JOyeEkiWRXT"
+      },
+      "artists": [
+        {
+          "name": "camel-leon",
+          "url": "https://open.spotify.com/artist/17CNaeWqxguGeFQgGykE9S"
+        },
+        {
+          "name": "\u3057\u3083\u3044\u3068",
+          "url": "https://open.spotify.com/artist/4aVCiCYKjY00z3HYXjiKsK"
+        },
+        {
+          "name": "8ULLET",
+          "url": "https://open.spotify.com/artist/1A5Air0TggRL0cBKmfEDYg"
+        },
+        {
+          "name": "GUMI",
+          "url": "https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu"
+        },
+        {
+          "name": "\u7fbd\u7d2f",
+          "url": "https://open.spotify.com/artist/21N6KdZrWD4SqITQAb4qBI"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "\u30ad\u30e9\u30fc\u30b7\u30e7\u30c3\u30c8 (feat. GUMI, \u7fbd\u7d2f)",
+      "url": "https://open.spotify.com/track/3izUNG7zZRcd37NF2mfYvz"
+    },
+    {
+      "added_at": "2024-12-10 07:22:16",
+      "album": {
+        "name": "\u899a\u9192\u306e\u30e1\u30ed\u30c7\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/1AmFQ74udHDywtTaaeQSVJ"
+      },
+      "artists": [
+        {
+          "name": "0-9",
+          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "\u899a\u9192\u306e\u30e1\u30ed\u30c7\u30a3\u30fc (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/0bQ6J0fYCi1ngFhn9AhZBp"
+    },
+    {
+      "added_at": "2024-12-10 07:22:27",
+      "album": {
+        "name": "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2z8r7Yb1ywUxANZLtNxq5h"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30b7\u30c9",
+          "url": "https://open.spotify.com/artist/7eg5X3kd4WuiLhPmufCNdI"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "\u30de\u30a4\u30af\u30ed\u30a2\u30b0\u30ec\u30c3\u30b7\u30e7\u30f3 (feat. \u93e1\u97f3\u30ea\u30f3&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/01sxUWllXlznEL713AXV5B"
+    },
     {
       "added_at": "2024-12-03 08:15:50",
       "album": {
@@ -719,106 +835,6 @@
       "duration_ms": 189789,
       "name": "Old Fashion (feat. \u590f\u8272\u82b1\u68a8)",
       "url": "https://open.spotify.com/track/0ZBh3WECxgP19HT9YRXm6y"
-    },
-    {
-      "added_at": "2024-10-01 07:28:58",
-      "album": {
-        "name": "\u53ef\u54c0\u60f3\u306f\u30ab\u30ef\u30a4\u30a4",
-        "url": "https://open.spotify.com/album/72EKf7sCmEBndgwa10m2ND"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u3064\u3042\u304f\u307e",
-          "url": "https://open.spotify.com/artist/07CEMzeMoCr76xtB6iglc0"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "\u53ef\u54c0\u60f3\u306f\u30ab\u30ef\u30a4\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3XMdy3CIayAbtcqMrQVbUl"
-    },
-    {
-      "added_at": "2024-10-01 07:28:14",
-      "album": {
-        "name": "\u50d5\u306f\u8003\u3048\u308b\u306e\u3092\u3084\u3081\u305f\u3044",
-        "url": "https://open.spotify.com/album/5Jc5a9LoxV8vZBZSzK2vIv"
-      },
-      "artists": [
-        {
-          "name": "\u8584\u5869\u6307\u6570",
-          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u50d5\u306f\u8003\u3048\u308b\u306e\u3092\u3084\u3081\u305f\u3044 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/3KPRkl4JFZZowxEKT8lMlK"
-    },
-    {
-      "added_at": "2024-10-01 07:28:32",
-      "album": {
-        "name": "\u98df\u6750\u306e\u591a\u3044\u6599\u7406\u5e97",
-        "url": "https://open.spotify.com/album/1I4E1KWwm6w9x3EwJEWFe5"
-      },
-      "artists": [
-        {
-          "name": "mothy",
-          "url": "https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "\u30a2\u30c8\u30ea\u30a8 \u30aa\u30eb\u30ed\u30fc\u30b8\u30e5 (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/4GqCCDadU9Vdo0iNd0XKJO"
-    },
-    {
-      "added_at": "2024-10-01 07:28:46",
-      "album": {
-        "name": "iceQuarium -Cotton Candy-",
-        "url": "https://open.spotify.com/album/5MNe2kFZuP8pkj7IYbf0Ce"
-      },
-      "artists": [
-        {
-          "name": "irucaice",
-          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Cotton Candy Serenade (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6ZPEMOtsLTHYjpeFj44oUo"
-    },
-    {
-      "added_at": "2024-10-01 07:29:13",
-      "album": {
-        "name": "noise",
-        "url": "https://open.spotify.com/album/0jK0BGbPm6l87eXU8Faf9M"
-      },
-      "artists": [
-        {
-          "name": "201",
-          "url": "https://open.spotify.com/artist/5ZmeivaI3cdO14b8UlOVAm"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "noise (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/5zQcOtmHVZHZT8cnYXdU1B"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

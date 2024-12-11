@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-73 songs - 3 hr 8 min
+76 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 | 2024-03-20 |  |
 | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/track/5kC4N5H8YCjcaK00gys1n7) | [Orphan Collective](https://open.spotify.com/artist/4PibzND7lx6W7zXHGiXxLP) | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/album/133mlcPnxlE5qSMPym2Cq1) | 2:45 | 2024-03-20 |  |
 | [And Can It Be That I Should Gain \- Piano](https://open.spotify.com/track/7ahdNh4B5iAAS4Rt32CPQH) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:24 | 2024-03-20 |  |
+| [Angel's Tales](https://open.spotify.com/track/0dcRaLA6CQ2LhT9DK3E5X1) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Angel's Tales](https://open.spotify.com/album/7uVyXH9S2wsJ35NiabGfOd) | 2:30 | 2024-12-10 |  |
 | [Awaiting the Festive Night](https://open.spotify.com/track/5310iSrHA5iw5G4YUcIEhV) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Awaiting the Festive Night](https://open.spotify.com/album/2LP5tFktuJb2HuGXk32cnS) | 2:45 | 2024-11-29 |  |
 | [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 | 2024-09-03 |  |
 | [Awakening](https://open.spotify.com/track/1vaIoBWMdNDI2qccIqA9Li) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:54 | 2024-03-20 |  |
@@ -35,10 +36,12 @@
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
 | [Grace](https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Grace](https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U) | 2:18 | 2024-07-29 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
+| [He Is Near](https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX) | [Andrea Bergfeld](https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl) | [He Is Near](https://open.spotify.com/album/5L583RmMoftX92GbeeK88U) | 2:39 | 2024-12-10 |  |
 | [He Shall Feed His Flock](https://open.spotify.com/track/2jZ8tqe6R2EmZZei0f2UPa) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [He Shall Feed His Flock](https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ) | 2:38 | 2024-10-22 |  |
 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 | 2024-03-20 |  |
 | [Holy One Where Art Though](https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Holy One Where Art Though](https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht) | 2:03 | 2024-09-24 |  |
 | [How Great Thou Art](https://open.spotify.com/track/5jTAJBqOZQIFp0gndvqR75) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [How Great Thou Art](https://open.spotify.com/album/5nBnV844JGJgufUEmm3rVH) | 3:26 | 2024-11-06 |  |
+| [I Believe](https://open.spotify.com/track/0Wf4gthDt7BQTUx7GCj8DD) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [I Believe](https://open.spotify.com/album/5qSQ9AIHgT3mg8UkMRrdXR) | 2:57 | 2024-12-10 |  |
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
 | [I Surrender All](https://open.spotify.com/track/1Hk1qNA1BZRWfLZ3TIYdLn) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [I Surrender All](https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2) | 2:10 | 2024-03-20 |  |
 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 | 2024-03-20 |  |

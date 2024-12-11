@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: YoungBoy Never Broke Again
 
-974 songs - 2 day 1 hr 25 min
+974 songs - 2 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/track/1LkVouG5VCmvA6Nf4klKMt) | [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I DON'T GO TO HIGHSCHOOL](https://open.spotify.com/album/5DugO8A3mcSdepXCMoIZQq) | 2:55 | 2024-03-07 | 2024-03-29 |
 | [I DONT KNOW](https://open.spotify.com/track/0o3cqGULoX8R5nWDnVnARk) | [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mi Yama](https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa) | 2:51 | 2023-12-08 | 2024-01-26 |
 | [I Get Around \- Remix](https://open.spotify.com/track/12rXTgqinsF8umz1AB6kUh) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye), [Battlecat](https://open.spotify.com/artist/2W7vXpIPRDkFiYOy8dCvZe), [Howard Johnson](https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt), [Khris Kellow](https://open.spotify.com/artist/5E0snjJKAbt3gyi0NJlqOc), [Paul Arnold](https://open.spotify.com/artist/6NB8fgE1MoxcIdicnLNON5) | [Strictly 4 My N.I.G.G.A.Z..\. \(Expanded Edition\)](https://open.spotify.com/album/1OWVxa79HkgHGOX8qt9Vxf) | 6:03 | 2023-03-16 | 2023-07-21 |
-| [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:29 | 2024-11-29 |  |
+| [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:14 | 2024-11-29 |  |
 | [I Know](https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [I Know](https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln) | 1:56 | 2024-09-05 | 2024-11-08 |
 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/5S14RsWa0spDpV6ek557Wa) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/3z3jThgipmiUWDf9RzRPrU) | 3:04 | 2024-10-01 |  |
 | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/album/35WsRcsKXK9VkwgWrLs2Is) | 2:25 | 2023-10-05 | 2023-10-23 |

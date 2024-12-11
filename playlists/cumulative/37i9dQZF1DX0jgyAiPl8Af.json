@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 154228,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2"
@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "Northampton",
+        "url": "https://open.spotify.com/album/1ltXX0U0dMf2eGSDTogMIG"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135499,
+      "name": "Northampton",
+      "url": "https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ"
+    },
+    {
+      "album": {
         "name": "Northern Lights",
         "url": "https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L"
       },
@@ -11730,6 +11748,24 @@
       "duration_ms": 219000,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1"
+    },
+    {
+      "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133758,
+      "name": "Soft Rain",
+      "url": "https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4"
     },
     {
       "album": {
@@ -14754,7 +14790,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 159242,
       "name": "Yesteryear",
       "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"

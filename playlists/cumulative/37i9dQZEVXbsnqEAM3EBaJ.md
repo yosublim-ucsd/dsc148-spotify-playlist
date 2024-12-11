@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,085 songs - 5 day 23 hr 7 min
+2,086 songs - 5 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Come On! \- Live At Terminal 5](https://open.spotify.com/track/4RNAi4GkUHNJy0RWOwBJES) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Come On! \(Live at Terminal 5\)](https://open.spotify.com/album/6Nfh1kmD4mHjyXpAloEJUr) | 1:31 | 2024-02-23 | 2024-03-17 |
 | [Communicate](https://open.spotify.com/track/1QXKrmZ3J4wicyZAblPUrA) | [Kirlian Camera](https://open.spotify.com/artist/6b5KqGQYLUb3NuD2G6W2Op) | [Communicate](https://open.spotify.com/album/4op7FALzRcCFTPzTSOcOp2) | 6:06 | 2023-03-31 | 2023-04-09 |
 | [Communication \- Polar Session '01](https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [The Rest Of The Best \- Vol\. 2](https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui) | 4:20 | 2024-09-06 | 2024-11-09 |
-| [Como el Viento \- En Vivo 2014](https://open.spotify.com/track/22WbIa6zMIdafITpPgtqAV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 1:06 | 2024-12-06 |  |
+| [Como el Viento \- En Vivo 2014](https://open.spotify.com/track/22WbIa6zMIdafITpPgtqAV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 1:06 | 2024-12-06 | 2024-12-11 |
 | [Como Te Lo Explico](https://open.spotify.com/track/2tE7TyKve9U2kkYEGqMr0b) | [LPC](https://open.spotify.com/artist/26ZyZfHEwAKy6zgzUeL88m), [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T) | [Como Te Lo Explico](https://open.spotify.com/album/28XxKrYr7FMqpHB6UjYUah) | 2:44 | 2024-11-08 | 2024-11-24 |
 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:40 | 2024-02-16 | 2024-02-24 |
 | [Coney Island Baby \- Live](https://open.spotify.com/track/5KP5MAyH27baIHYWu5Bj6y) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Live 76](https://open.spotify.com/album/1ow8kQSYz5M2nqCWWasM0t) | 9:05 | 2023-09-08 | 2023-09-20 |
@@ -793,6 +793,7 @@
 | [Hot Rails To Hell \- Live](https://open.spotify.com/track/4TbSWPR1D2y0cc01Z6lk2g) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Hot Rails To Hell \(Live\)](https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE) | 5:00 | 2024-07-19 | 2024-08-10 |
 | [House of the Risin' Sun](https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 5:09 | 2024-04-12 | 2024-05-05 |
 | [How Could We Know \(feat\. Simon Climie & Daniel Santiago\)](https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t), [Simon Climie](https://open.spotify.com/artist/3HISkAiDX0gaSSUDZej38A), [Daniel Santiago](https://open.spotify.com/artist/7xk2FyMhjJrRvT8MNuBrUi) | [Moon River / How Could We Know](https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT) | 4:19 | 2023-07-14 | 2023-08-12 |
+| [Huairuro \- En Vivo 2014](https://open.spotify.com/track/2F6h4vHUfKRUD3b3UIcP1I) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Concierto Acústico \(En Vivo 2014\)](https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq) | 4:29 | 2024-12-06 |  |
 | [Human \- Accapella Version](https://open.spotify.com/track/0CrBLW25dHSjbzDhZ0lKjw) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Human](https://open.spotify.com/album/6eDULzAgKI7kIWRSY9R6zy) | 2:03 | 2023-09-15 | 2023-09-30 |
 | [Hungry For Heaven \- Live](https://open.spotify.com/track/1xF1dRfgBJ01K9bDdTI9mV) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Come Down With Fire \(Live Worcester '85\)](https://open.spotify.com/album/6tXAizr8Jira8h88pHpDEc) | 4:00 | 2023-08-25 | 2023-08-27 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-02 | 2023-07-02 |

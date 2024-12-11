@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-185 songs - 9 hr 2 min
+186 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [JAPANESE NINJA](https://open.spotify.com/track/00HIKUJ3NMsxnvFuLuQiSf) | [LeMu](https://open.spotify.com/artist/2Fs2BmbyNv5W969MZKe2kM), [P¥TA](https://open.spotify.com/artist/3YVzbws07cdeBA8ZisKzqX), [Will](https://open.spotify.com/artist/3muGOz0Xarz7aRbHp1QOSu), [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe) | [LeMu TAPE](https://open.spotify.com/album/2AIUvGSCl36rMXwiRH1IaV) | 2:22 | 2022-11-19 | 2024-04-19 |
 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 | 2022-11-19 | 2024-01-16 |
 | [KASSARAINA](https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [busy](https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I) | 2:25 | 2024-08-07 | 2024-11-12 |
+| [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 | 2024-12-10 |  |
 | [Kawasaki Drift](https://open.spotify.com/track/1fbMGnVgmS72f4CUWnPTMU) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/1BgFgc9JWJbvn50Jyj3rfV) | 4:37 | 2024-02-27 | 2024-04-19 |
 | [Kawasaki Drift](https://open.spotify.com/track/2zWJKBSNKyy0kEc78V9CAW) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/4yWFSxfJsvkgkR0o6JeD1a) | 4:37 | 2022-11-19 | 2024-04-04 |
 | [Kawasaki Drift](https://open.spotify.com/track/651z4p0RWGLrleAdBhd2os) | [BAD HOP](https://open.spotify.com/artist/3FCZbxRcaSgYfklG2HCFh2) | [BAD HOP HOUSE](https://open.spotify.com/album/7H4uMwNDrQRF4I3NjGtAiw) | 4:37 | 2024-02-27 | 2024-07-25 |
@@ -134,7 +135,7 @@
 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 | 2024-02-27 |  |
 | [Reach](https://open.spotify.com/track/5F5W0KSTnU7KtqSXo2ietC) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/0zDHeNjmu86yjx2KvSji61) | 2:41 | 2022-11-19 | 2023-05-24 |
 | [Reach \(feat\. Candee\)](https://open.spotify.com/track/3X1fSTjP1yFkSVMCDid9CF) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [FLESHNESS SZN](https://open.spotify.com/album/4n79rDs1Vg5II9XkHD3LQ7) | 2:41 | 2024-02-27 | 2024-11-29 |
-| [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 | 2024-04-24 |  |
+| [Red Bull 64 Bars](https://open.spotify.com/track/18nTSkuJ1QqmGWje7Vg0kN) | [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt), [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Red Bull 64 Bars](https://open.spotify.com/album/2buaIfo9ZtnKuK0K8QuRKF) | 2:10 | 2024-04-24 | 2024-12-11 |
 | [Rental Gold Tesla](https://open.spotify.com/track/57c39ZELVgjZ3BavaMMTgS) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [Rental Gold Tesla](https://open.spotify.com/album/0pfyM76zqYelvBcfKQQ6Zz) | 2:44 | 2024-02-27 | 2024-04-19 |
 | [ROCK SHIT](https://open.spotify.com/track/0XAteuqb6RYFAM1gzpSqss) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [T\-Pablow](https://open.spotify.com/artist/0wygiZev26irRopIBGuoTR) | [MUSA](https://open.spotify.com/album/0zy1Zin37EdvVRWeqCUNSb) | 2:58 | 2022-11-19 | 2023-05-24 |
 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 | 2022-11-19 | 2024-02-14 |

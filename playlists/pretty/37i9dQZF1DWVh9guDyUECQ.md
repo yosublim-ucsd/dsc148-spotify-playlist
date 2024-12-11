@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 ### [Flow Cristiano](https://open.spotify.com/playlist/37i9dQZF1DWVh9guDyUECQ)
 
-> Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau,</a>  <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra,</a> y <a href="spotify:artist:5qzVmbbH3gdkxI0C0fZ1Us">DesXa</a>
+> Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau, Lizzy Parra, y DesXa
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,079 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,096 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 84 | [Te Amo](https://open.spotify.com/track/4AsMWEUctX6jWcADHOoxR8) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Josue Alcequiez](https://open.spotify.com/artist/6SdULwXUdGRFmdAHDUWsuW) | [Te Amo](https://open.spotify.com/album/3SeqaHkucZVCWkfyKaOnbt) | 3:52 |
 | 85 | [Gozo Yo Quería](https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF) | [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [Gozo Yo Quería](https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN) | 3:08 |
 
-Snapshot ID: `ZqNi+wAAAAAye1IvPgIMKmkWcFINSycc`
+Snapshot ID: `Z1epOAAAAAC/ofhJVHrkHd8gBKuhu0GV`

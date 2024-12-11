@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 129923,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 107724,
       "name": "I can feel it",
       "url": "https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS"
@@ -11366,7 +11366,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 114285,
       "name": "If It Rains",
       "url": "https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J"
@@ -15344,7 +15344,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 208000,
       "name": "mind storm",
       "url": "https://open.spotify.com/track/1tO4Mw2K6AhUZuXk01JUFp"
@@ -15932,7 +15932,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 121677,
       "name": "Moonshire",
       "url": "https://open.spotify.com/track/3AugGTPQycheCuKlwrCqau"
@@ -16416,6 +16416,24 @@
       "duration_ms": 138080,
       "name": "My Kind Of Club",
       "url": "https://open.spotify.com/track/6styRj3YNO2j31nY2ZBR3i"
+    },
+    {
+      "album": {
+        "name": "my silly cat",
+        "url": "https://open.spotify.com/album/652hDF48SsAjltY1HmAR9J"
+      },
+      "artists": [
+        {
+          "name": "seeya",
+          "url": "https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "my silly cat",
+      "url": "https://open.spotify.com/track/2WPD65K7Qdga94OQDH8Hoh"
     },
     {
       "album": {
@@ -17384,7 +17402,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-01",
+      "date_removed": null,
       "duration_ms": 111549,
       "name": "nonkina",
       "url": "https://open.spotify.com/track/3K8m1rfEpFP6fLHrEcWFYp"
@@ -23148,7 +23166,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Steady",
       "url": "https://open.spotify.com/track/2eRAIYu9VmN2JaoTBciv5O"
@@ -23354,7 +23372,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 152250,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/5bboSEWwYsIEvusO64B0R9"
@@ -24459,6 +24477,24 @@
     },
     {
       "album": {
+        "name": "swing the morning away",
+        "url": "https://open.spotify.com/album/1AuZlcWPkOC6Hv6LNWVsKZ"
+      },
+      "artists": [
+        {
+          "name": "ninetytwo.",
+          "url": "https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "swing the morning away",
+      "url": "https://open.spotify.com/track/0NJdY9aWRqnPiSA0Yy3AN9"
+    },
+    {
+      "album": {
         "name": "Swirl it please",
         "url": "https://open.spotify.com/album/6cDBCFnk3iCIHEJDpVnPiM"
       },
@@ -24600,7 +24636,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 143116,
       "name": "Tadpole Siesta",
       "url": "https://open.spotify.com/track/2xquNsrIK07H6MhXtdlNVF"
@@ -25064,7 +25100,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 125486,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj"
@@ -25804,7 +25840,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 120407,
       "name": "time voyager",
       "url": "https://open.spotify.com/track/5Id0D63jXhclkF1rmXZNLf"
@@ -25956,7 +25992,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 134457,
       "name": "Tortilla Monday",
       "url": "https://open.spotify.com/track/37wRNwFhzLSkYx3CrSi9JI"
@@ -27094,7 +27130,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 99000,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/43WE9XdOjh3T65qYjtcJQj"
@@ -27926,6 +27962,28 @@
       "duration_ms": 187764,
       "name": "Willow Whip",
       "url": "https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq"
+    },
+    {
+      "album": {
+        "name": "Willy Wonkerson",
+        "url": "https://open.spotify.com/album/0WFt8taNq4pliMd7fUjLWl"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129715,
+      "name": "Willy Wonkerson",
+      "url": "https://open.spotify.com/track/27qc2sgOlvAx8nsHUEgKNE"
     },
     {
       "album": {

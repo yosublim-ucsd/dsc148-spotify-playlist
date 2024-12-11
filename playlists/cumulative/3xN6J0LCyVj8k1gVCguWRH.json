@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 198500,
       "name": "10 Steps",
       "url": "https://open.spotify.com/track/6jYweBeTaTM9Ipyjit2fl4"
@@ -25372,7 +25372,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 169736,
       "name": "found a way",
       "url": "https://open.spotify.com/track/6V1BEBSn2UGeN5HF1aBgla"
@@ -25836,7 +25836,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 222857,
       "name": "FRFS",
       "url": "https://open.spotify.com/track/2MOIfm6dznK772rXegA1yp"
@@ -30508,6 +30508,28 @@
       "duration_ms": 140558,
       "name": "Here",
       "url": "https://open.spotify.com/track/0u30fnLtlD0lSWKdPd8P7T"
+    },
+    {
+      "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/37ZWHnpIJGBelDvUdYGE7c"
+      },
+      "artists": [
+        {
+          "name": "Arthur Walsh",
+          "url": "https://open.spotify.com/artist/5IgbE2AXwFrKeVa1T2wwCk"
+        },
+        {
+          "name": "Leah Nawy",
+          "url": "https://open.spotify.com/artist/6CZGNe7USySKA5vVUXfcaP"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239328,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5rrKfEnerPJCb6F14iYgoj"
     },
     {
       "album": {
@@ -54986,7 +55008,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 252688,
       "name": "Play With Fire",
       "url": "https://open.spotify.com/track/4cMId9pIYQoMswTEdzpSik"
@@ -77398,7 +77420,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 213500,
       "name": "What's a Little Snow?",
       "url": "https://open.spotify.com/track/1oKh6OZhIm7oWt7WemTYYt"

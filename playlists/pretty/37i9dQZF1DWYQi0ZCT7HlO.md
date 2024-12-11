@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,634 likes - 77 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,930 likes - 77 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Christmas Song](https://open.spotify.com/track/4s7RK1po6cVNGfT5cI9IJo) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Deck The Halls](https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ) | 3:14 |
 | 2 | [White Christmas](https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [A Cozy Christmas Evening](https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW) | 2:20 |
-| 3 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 |
-| 4 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7) | 3:26 |
-| 5 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 |
-| 6 | [Once In Royal Davids City \- Fireplace](https://open.spotify.com/track/2g4m5doLtTAKa8GdU8VdKi) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 2:51 |
-| 7 | [Joy To the World \(Fireside\)](https://open.spotify.com/track/1W74Qnoa3kp4uTTlIcTTPL) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Joy To the World \(Fireside\)](https://open.spotify.com/album/1Y8vgvwHus0sIg4lIwnKHo) | 2:26 |
-| 8 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 |
-| 9 | [O Christmas Tree \(Fireside\)](https://open.spotify.com/track/0Zvi3AZ3nhWcziyGBfrtDi) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [O Christmas Tree \(Fireside\)](https://open.spotify.com/album/5HEi2OEFIBDCEK4M8mtFRD) | 1:57 |
+| 3 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7) | 3:26 |
+| 4 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 |
+| 5 | [Joy To the World \(Fireside\)](https://open.spotify.com/track/1W74Qnoa3kp4uTTlIcTTPL) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Joy To the World \(Fireside\)](https://open.spotify.com/album/1Y8vgvwHus0sIg4lIwnKHo) | 2:26 |
+| 6 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 |
+| 7 | [Once In Royal Davids City \- Fireplace](https://open.spotify.com/track/2g4m5doLtTAKa8GdU8VdKi) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 2:51 |
+| 8 | [O Christmas Tree \(Fireside\)](https://open.spotify.com/track/0Zvi3AZ3nhWcziyGBfrtDi) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [O Christmas Tree \(Fireside\)](https://open.spotify.com/album/5HEi2OEFIBDCEK4M8mtFRD) | 1:57 |
+| 9 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU) | [The Guy Downstairs](https://open.spotify.com/artist/4xE3jQ2KgDqoKkz4F4GFud) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE) | 2:50 |
 | 10 | [Christmas Time Is Here \- Fireplace Lullaby Version](https://open.spotify.com/track/5n86SwBqhl4tAowONYOPda) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Upon a Christmas Moon \(Fireplace Lullaby Version\)](https://open.spotify.com/album/0NtgrsRqorpoujGIW1boVE) | 2:26 |
-| 11 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 |
-| 12 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
-| 13 | [Silent Night](https://open.spotify.com/track/3rhMXpVLDZAkCtr7v37aIV) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Silent Night](https://open.spotify.com/album/5EuDMAeoizBYVUtkwR9OY7) | 2:16 |
+| 11 | [Silent Night](https://open.spotify.com/track/3rhMXpVLDZAkCtr7v37aIV) | [Ishara](https://open.spotify.com/artist/15d9b7prVI2d9DuWUesJ6Q) | [Silent Night](https://open.spotify.com/album/5EuDMAeoizBYVUtkwR9OY7) | 2:16 |
+| 12 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 |
+| 13 | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [12 Days of Christmas \(Fireside\)](https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS) | 4:05 |
 | 14 | [The Holly and the Ivy](https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x) | [Impi Pasanen](https://open.spotify.com/artist/6aWTceMkjIYTXKrtEPNkIz) | [The Holly and the Ivy](https://open.spotify.com/album/5oYr5TiYW2g8VDUyVrcTqK) | 1:48 |
 | 15 | [Angels We Have Heard on High](https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX) | [Troy Emi](https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ) | [Angels We Have Heard on High](https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9) | 3:24 |
 | 16 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD) | 3:09 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 76 | [Good King Wenceslas \- Fireside Christmas](https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:01 |
 | 77 | [Where are you Christmas](https://open.spotify.com/track/57MY9r6qFLirorQLs7T0ks) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Home by Christmas](https://open.spotify.com/album/7yqj1JebK54UjJ6SC5d2Bx) | 3:09 |
 
-Snapshot ID: `Z1KE0AAAAAD1z1/Kkcmttrr9X26JWum2`
+Snapshot ID: `Z1g88QAAAACByM+Sa9Of7pPkoJk4Rn1+`

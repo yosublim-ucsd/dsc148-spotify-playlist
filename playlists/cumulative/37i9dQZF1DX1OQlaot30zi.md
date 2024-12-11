@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Geolier, Rondo, Nitro e tanti altri! 🔥
 
-4,592 songs - 8 day 13 hr 48 min
+4,593 songs - 8 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [Bimba](https://open.spotify.com/track/6O0URMZLhNyS2d6Ip1jOTC) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Bimba](https://open.spotify.com/album/1CcFA7IhlmVv9OwyfzKHbg) | 2:28 | 2023-06-01 | 2023-06-16 |
 | [BIMBA](https://open.spotify.com/track/1UaJjk9YK45CpkbPi8G2gN) | [DONDA](https://open.spotify.com/artist/7v4K4bjUtsfqPxsPKwcQgU) | [BIMBA](https://open.spotify.com/album/51FEFplKqpX4ctMZovtvcS) | 2:46 | 2024-03-07 | 2024-03-15 |
 | [Bimba](https://open.spotify.com/track/1bWzv2TNJrRLE2L6w8qX2M) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bimba](https://open.spotify.com/album/4I52eMbRnqpUZPaBtkqgbR) | 2:39 | 2024-02-15 | 2024-03-15 |
-| [BIMBA](https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [BIMBA](https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas) | 2:45 | 2024-11-14 |  |
+| [BIMBA](https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [BIMBA](https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas) | 2:45 | 2024-11-14 | 2024-12-11 |
 | [BIMBO \(feat\. Silent Bob\)](https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [1998](https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm) | 2:46 | 2023-11-23 | 2023-12-22 |
 | [BIPOLAR](https://open.spotify.com/track/3F6hKt2Lln4Cb3DvTL4OXv) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [BIPOLAR](https://open.spotify.com/album/4xkX4hTEYkdYLHNqtyRRaW) | 2:35 | 2023-11-17 | 2023-12-01 |
 | [BIPOLARE](https://open.spotify.com/track/0UseLzHVZSNJRdnINiEEEP) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [BIPOLARE](https://open.spotify.com/album/7y0OivEigmUDQAlQkqX4gU) | 2:48 | 2023-02-16 | 2023-03-10 |
@@ -631,6 +631,7 @@
 | [BOUGIE](https://open.spotify.com/track/2YMwrPboAWRL4Vc8PvTK9a) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [BOUGIE](https://open.spotify.com/album/2UOmVVBsrML5CIxX8c3BH3) | 1:43 | 2024-02-01 | 2024-02-16 |
 | [BOULEVARD](https://open.spotify.com/track/1p0nj7KYY9GlxiuC4M0EGh) | [Sinner](https://open.spotify.com/artist/5IZnIQ3sQQfVh37K6vzUh9) | [BOULEVARD](https://open.spotify.com/album/6zsxI1yPwrdJL0TUlt73eI) | 2:50 | 2024-09-26 | 2024-10-11 |
 | [BOUNCE](https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob) | [Baronetto](https://open.spotify.com/artist/0pwPxQ42me7zkEVBthrPf0) | [BOUNCE](https://open.spotify.com/album/3YFdkeBLZU1X6COJy78Qhl) | 1:42 | 2024-02-22 | 2024-03-08 |
+| [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2024-12-10 |  |
 | [Bounce](https://open.spotify.com/track/6t5IVmLNsd5vEkLRcvrTOe) | [ILLNANDO](https://open.spotify.com/artist/3olkQEbc0QBZW1S9nFq3h8), [KosmoKrew](https://open.spotify.com/artist/11kJyrEEcK3ei750URYTIH) | [Bounce](https://open.spotify.com/album/3KpmHkEuqBQw7Trwt4WcZx) | 2:18 | 2023-11-17 | 2023-12-01 |
 | [BOX](https://open.spotify.com/track/1b7t2b2VvhqELWYbPgUwNy) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [BOX](https://open.spotify.com/album/22xPf88okQhsx5cA4Fbwji) | 2:21 | 2023-11-09 | 2023-11-24 |
 | [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 | 2024-11-08 | 2024-11-29 |

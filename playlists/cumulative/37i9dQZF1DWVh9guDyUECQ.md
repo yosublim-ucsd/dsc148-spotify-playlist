@@ -2,7 +2,7 @@
 
 ### [Flow Cristiano](https://open.spotify.com/playlist/37i9dQZF1DWVh9guDyUECQ)
 
-> Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau,</a>  <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra,</a> y <a href="spotify:artist:5qzVmbbH3gdkxI0C0fZ1Us">DesXa</a>
+> Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau, Lizzy Parra, y DesXa
 
 381 songs - 22 hr 18 min
 

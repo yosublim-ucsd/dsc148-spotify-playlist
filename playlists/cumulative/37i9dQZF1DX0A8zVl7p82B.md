@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Sabrina Carpenter
 
-274 songs - 15 hr 5 min
+277 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dear Santa](https://open.spotify.com/track/6U8QFYAKBNbAl1HOVW0xch) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/1isojn5RpxnqQ2vYeMu4ck) | 3:48 | 2021-12-24 | 2022-07-29 |
 | [Dear Santa](https://open.spotify.com/track/5zqzV32ifPJ9XhqfyjYrBy) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dear Santa](https://open.spotify.com/album/2hhMU1z6iEq0UxYMBdp9xp) | 2:49 | 2023-10-27 |  |
 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 | 2021-12-24 | 2022-10-26 |
+| [December 25th](https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [December 25th](https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6) | 3:51 | 2024-12-10 |  |
 | [Deck the Halls](https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:37 | 2021-12-24 | 2022-10-26 |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 | 2023-10-06 |  |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 | 2021-12-24 | 2022-07-29 |
@@ -145,6 +146,7 @@
 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 | 2022-11-11 | 2023-12-08 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-24 | 2022-10-26 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-24 |  |
+| [Kissing In the Cold \- Mistletoe Version](https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold \(Mistletoe Version\)](https://open.spotify.com/album/70bD1wKCGexlprV4huDo5M) | 4:01 | 2024-12-10 |  |
 | [Last Christmas \- Remastered](https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:27 | 2021-12-24 |  |
 | [Let It Snow](https://open.spotify.com/track/67ysoHKWwlQXSaqxefj0Ey) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:13 | 2021-12-24 | 2022-12-08 |
 | [Let It Snow \(with Babyface\)](https://open.spotify.com/track/3BhlC2eX8obANfmLEwo1ia) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Let It Snow \(with Babyface\)](https://open.spotify.com/album/0mGgMEeDac12bcX7XwkH4M) | 1:58 | 2021-12-24 |  |
@@ -267,6 +269,7 @@
 | [White Christmas](https://open.spotify.com/track/6ufGxYHEaHNoF3Wvr3xMuj) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [White Christmas](https://open.spotify.com/album/4FBLqxwj4oy8mbRrNwjzdR) | 2:06 | 2021-12-24 | 2024-11-12 |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/3xONtQKJ7gVv77fGLKC3Kb) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B) | [Caméléon \(Deluxe Edition\)](https://open.spotify.com/album/1xKo2KKccXTTmV8cqKFRBf) | 3:36 | 2021-12-24 | 2022-10-26 |
 | [White Christmas \(with Shy'm\)](https://open.spotify.com/track/54fvgxr5WYXNsnmKwMc7S1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Shy'm](https://open.spotify.com/artist/37vrZ22ryfsMP8bPttLjpD) | [White Christmas \(with Shy'm\)](https://open.spotify.com/album/3uTPJvoA6ck9juIaDCytSH) | 3:36 | 2021-12-24 | 2022-07-29 |
+| [White Christmas \(with V of BTS\)](https://open.spotify.com/track/7134tEHq45eL6am9oVazZU) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas \(with V of BTS\)](https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L) | 2:53 | 2024-12-10 |  |
 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 | 2021-12-24 |  |
 | [Why Couldn't It Be Christmas Every Day?](https://open.spotify.com/track/6xauj1HlVItuBYOOhQaoiY) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [HAPPINESS is…Christmas!](https://open.spotify.com/album/6CMgL701fxsN5Qb6pZN49j) | 4:19 | 2021-12-24 | 2022-10-26 |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-24 | 2022-10-26 |

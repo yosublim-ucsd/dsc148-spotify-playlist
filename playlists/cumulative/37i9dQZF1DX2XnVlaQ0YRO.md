@@ -4,7 +4,7 @@
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-165 songs - 6 hr 21 min
+168 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 | 2024-10-17 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5aplSXqxGAsfsplGBaxk0w) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [A Very Lofi Christmas](https://open.spotify.com/album/5VcaJd6u7O07L728tIMtbn) | 1:32 | 2024-10-17 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 | 2024-10-17 |  |
-| [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 | 2024-10-17 |  |
+| [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 | 2024-10-17 | 2024-12-11 |
 | [frozen waterfall](https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [frozen waterfall](https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047) | 2:08 | 2024-10-17 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 | 2024-10-17 |  |
 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/4Z1b5iTNWlJNwht7gdQ9Mz) | [Philter Roads](https://open.spotify.com/artist/7v83XDBFkdsBRUCRDHe8Ke) | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/album/5GtJBKrIfm62ovAwoufnQ7) | 1:48 | 2024-10-17 |  |
@@ -75,14 +75,15 @@
 | [Ice Skating](https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:06 | 2024-10-17 |  |
 | [Ice Town](https://open.spotify.com/track/21xsIpj7Oooy2qp9IHoL1k) | [Yellowbase](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 3:02 | 2024-10-17 |  |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/2eLHITisbzNK8FA6W7d51V) | [DJ Carol](https://open.spotify.com/artist/3raipqm7bm4EkhMYssAo0U) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7xEfLRvlPdubpUoq3DXrBG) | 2:00 | 2024-10-17 |  |
-| [It's Christmas](https://open.spotify.com/track/6USpra5zijwWTiEGxgRWFu) | [MARVELA](https://open.spotify.com/artist/4pwb4ubL2wViiDZdgTfcQj) | [It's Christmas](https://open.spotify.com/album/71qVmapMxPbapGpnXVo8W3) | 1:30 | 2024-10-17 |  |
+| [It's Christmas](https://open.spotify.com/track/6USpra5zijwWTiEGxgRWFu) | [MARVELA](https://open.spotify.com/artist/4pwb4ubL2wViiDZdgTfcQj) | [It's Christmas](https://open.spotify.com/album/71qVmapMxPbapGpnXVo8W3) | 1:30 | 2024-10-17 | 2024-12-11 |
 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 | 2024-10-17 |  |
-| [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3P8Dk5A8HGA9YU23a54sCJ) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/album/0wdNbd1PIno82hdAU6evdb) | 1:58 | 2024-10-17 |  |
+| [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/3P8Dk5A8HGA9YU23a54sCJ) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/album/0wdNbd1PIno82hdAU6evdb) | 1:58 | 2024-10-17 | 2024-12-11 |
 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 | 2024-10-17 |  |
 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 | 2024-10-17 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/4s3YgTALPz8Bwte1SNIlql) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Jingle Bell Rock](https://open.spotify.com/album/1awx8ghYTCxbZybSV00F5m) | 2:09 | 2024-10-17 | 2024-11-22 |
 | [Jingle Bells](https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f) | [Holiday Beats](https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3) | [Jingle Bells](https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL) | 2:44 | 2024-10-17 |  |
 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 | 2024-10-17 |  |
+| [Jingle, Jingle, Jingle](https://open.spotify.com/track/5dp4pULKdDODsz5O4id78A) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Jingle, Jingle, Jingle](https://open.spotify.com/album/2VIyMwOjBaPdioqs30aRH5) | 2:25 | 2024-12-10 |  |
 | [JOY](https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C) | [Max Mix](https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka) | [JOY](https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg) | 3:09 | 2024-10-17 |  |
 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 | 2024-10-17 |  |
 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 | 2024-10-17 |  |
@@ -92,7 +93,7 @@
 | [Like It's Christmas](https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp) | [Rödälv](https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l) | [Like It's Christmas](https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO) | 2:37 | 2024-10-17 |  |
 | [Marshmallow World](https://open.spotify.com/track/0UU2xw7qhzjTrh6Ifr1wm3) | [Rexiphy](https://open.spotify.com/artist/2VBt6bj5gfN2M78KmEXzOK) | [Marshmallow World](https://open.spotify.com/album/27CLPf7kRjBBEcEPmVoE47) | 2:17 | 2024-10-17 |  |
 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 | 2024-10-17 |  |
-| [Mary's Boy Child](https://open.spotify.com/track/1R0mvLnoaalcSUnkmX0HfY) | [Haysway](https://open.spotify.com/artist/1mAXssFEZlSvaPUk8j37Jc) | [Haysway](https://open.spotify.com/album/5ZlR8BTWjgxzTGrjFSV24F) | 2:03 | 2024-10-17 |  |
+| [Mary's Boy Child](https://open.spotify.com/track/1R0mvLnoaalcSUnkmX0HfY) | [Haysway](https://open.spotify.com/artist/1mAXssFEZlSvaPUk8j37Jc) | [Haysway](https://open.spotify.com/album/5ZlR8BTWjgxzTGrjFSV24F) | 2:03 | 2024-10-17 | 2024-12-11 |
 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 | 2024-10-17 |  |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2LseCWmzYc9mNZY7AGZ6Qc) | [Moose & Finley](https://open.spotify.com/artist/1GHeBVCBIXcN9YTtQJjblV) | [Merry Christmas Everyone](https://open.spotify.com/album/7sDIQNhqLJG9CpP5Jc8pkd) | 2:14 | 2024-10-17 |  |
 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 | 2024-10-17 |  |
@@ -142,6 +143,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/2j8FSM3mItIqzkvN5Ljfz9) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Lofi Christmas](https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P) | 2:01 | 2024-10-17 |  |
 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 | 2024-10-17 |  |
 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 | 2024-10-17 |  |
+| [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 | 2024-12-10 |  |
 | [Snowflakes Falling](https://open.spotify.com/track/4dst2H6GqLCXQ1PdtaXSru) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Snowflakes Falling](https://open.spotify.com/album/2QVtKjHLLHFrHDTQJLEw03) | 2:06 | 2024-10-17 |  |
 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 | 2024-10-17 |  |
 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 | 2024-10-17 |  |
@@ -165,6 +167,7 @@
 | [White Christmas](https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg) | [Jazztroopers](https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI) | [Mistletoe Melodies](https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs) | 2:20 | 2024-11-14 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/7rT9HRjKHAc2RwaSjOvCYV) | [AmbieNeon](https://open.spotify.com/artist/5yoZBQ9Q1iokNQDr2dwShe) | [White Winter Hymnal](https://open.spotify.com/album/07ITGwL40r7XBRuMOotZNH) | 2:37 | 2024-10-17 |  |
 | [WINTER](https://open.spotify.com/track/0RUtIX5IX91i5lHWC9agsr) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [WINTER](https://open.spotify.com/album/4lWv5w3qgxaw1eV7bP2EYg) | 1:55 | 2024-10-17 |  |
+| [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 | 2024-12-10 |  |
 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 | 2024-10-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 | 2024-10-17 |  |
 | [winter wonderland](https://open.spotify.com/track/3Xo8cKrayKwxlJ1F1hRvOQ) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [winter wonderland](https://open.spotify.com/album/63nmxHaeTmjlL2zNYBThJd) | 1:56 | 2024-10-17 |  |

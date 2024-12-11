@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3134,
+  "num_followers": 3136,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ThgAAAAACYAXt9GpcR5mWoAoCY+0vs",
+  "snapshot_id": "Z1YzAAAAAAAiDVwE/tIyeY/kNUEvXhlf",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
         "url": "https://open.spotify.com/album/2hiGavzPxodvstp41CauLv"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 179084,
       "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
       "url": "https://open.spotify.com/track/6g2P7z0NPbiVF1orkYVtFr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     },
     {
       "added_at": null,

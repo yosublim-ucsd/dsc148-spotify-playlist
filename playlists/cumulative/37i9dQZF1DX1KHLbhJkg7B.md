@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-415 songs - 1 day 1 hr 56 min
+416 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 | 2023-12-01 | 2024-04-19 |
 | [Rocket Man](https://open.spotify.com/track/2SKSUxtD60P62m9sG6QUhL) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Restoration: The Songs Of Elton John And Bernie Taupin](https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP) | 4:47 | 2021-12-10 | 2022-09-15 |
 | [Run](https://open.spotify.com/track/2RRUtmzxskvu9dPAJqVX6M) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy), [ENZI](https://open.spotify.com/artist/61sy3aPmHy18yg0Bjp8s8L) | [Run](https://open.spotify.com/album/6z3nq9k1HgzzvNPxek9pOn) | 4:47 | 2022-04-01 | 2022-06-13 |
+| [Sand In My Boots](https://open.spotify.com/track/2rbzYW7Cc2UUFbIyzHQtfL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Sand In My Boots](https://open.spotify.com/album/5aVfMWa43PH8NRVVcfaPVE) | 4:16 | 2024-12-06 |  |
 | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls) | 3:34 | 2024-08-01 | 2024-11-16 |
 | [Seminole Wind](https://open.spotify.com/track/5W8AbCPIxgy6sJ29OjAV7G) | [American Young](https://open.spotify.com/artist/5qgwXZgnJnxS83T5CtqkLg) | [Seminole Wind](https://open.spotify.com/album/1lFm9MeyQcuCZiu5szg6Dv) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 | 2022-08-05 |  |
@@ -315,7 +316,7 @@
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2022-03-25 | 2022-04-19 |
 | [Sparks Fly](https://open.spotify.com/track/5vdvzc4drsamBYXaSF8l5u) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Sparks Fly](https://open.spotify.com/album/4zprx6Kbn9U7ca2JxakMxh) | 4:21 | 2022-03-25 | 2022-07-26 |
 | [Stand By Your Man](https://open.spotify.com/track/7vwKEYNGO94DzmkRc5Oqwp) | [Jessica Chastain](https://open.spotify.com/artist/4NTQfilj8qEZ14xqtpF8KF), [Michael Shannon](https://open.spotify.com/artist/2OlqaV8zhR61Koqs94cC89) | [George & Tammy \(Original Series Soundtrack\)](https://open.spotify.com/album/3vGFVncIwTikRP8iloLpwT) | 2:45 | 2022-12-16 | 2023-06-03 |
-| [State Trooper](https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [State Trooper / 10\-38 \(Full Band Version\)](https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm) | 3:53 | 2024-09-27 |  |
+| [State Trooper](https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [State Trooper / 10\-38 \(Full Band Version\)](https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm) | 3:53 | 2024-09-27 | 2024-12-11 |
 | [Stay](https://open.spotify.com/track/2WS83LPXX6angsFsmUHies) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Stay](https://open.spotify.com/album/4RQynGVaqBsnvntk8Dap5r) | 4:48 | 2022-03-25 | 2022-04-15 |
 | [Stay](https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n) | 3:45 | 2022-07-29 | 2024-08-03 |
 | [Stay](https://open.spotify.com/track/7HCpV8ksGTbXRRq91RceRl) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/0QoBtGuvBvCZirZiPPYxpB) | 3:45 | 2023-11-03 | 2024-04-19 |

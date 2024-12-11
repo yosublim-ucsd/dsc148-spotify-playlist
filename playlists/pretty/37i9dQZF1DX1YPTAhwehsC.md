@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,621 likes - 96 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,654 likes - 96 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 91 | [Isley Money](https://open.spotify.com/track/52IhqMGqUaGxsiRYfLFbU2) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [Isley Money](https://open.spotify.com/album/70eFEmX0qHE1fMcxdAvghS) | 3:26 |
 | 92 | [They Said He Had A Gun \(feat\. Joey Bada$$ & KayCyy\)](https://open.spotify.com/track/4ald2OIdRZctAeVGn9eJri) | [Casanova](https://open.spotify.com/artist/6dXsR7VDJvXnF1LTZlwULx), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [I GET IT NOW](https://open.spotify.com/album/0bvPqOHWoiG9QERvd3dLjy) | 3:33 |
 | 93 | [Dont Wanna C Me Rich](https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Dont Wanna C Me Rich](https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu) | 2:21 |
-| 94 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:29 |
+| 94 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:14 |
 | 95 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/0ZivdfG1msTj7A2UixMx9T) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:40 |
 | 96 | [Big Dog](https://open.spotify.com/track/5MjSfB61yXqBMz2yRrY9vR) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [Big Dog](https://open.spotify.com/album/1N9k3SYJcmzarGYohamLiD) | 2:01 |
 

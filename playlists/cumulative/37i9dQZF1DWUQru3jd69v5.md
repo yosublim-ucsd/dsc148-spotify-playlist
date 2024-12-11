@@ -4,7 +4,7 @@
 
 > Gheba in cover della playlist con la nuova generazione del rap italiano.
 
-1,453 songs - 2 day 14 hr 20 min
+1,454 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Bottega Veneta](https://open.spotify.com/track/46rwIGBkC812sMw6Mx7by6) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Bottega Veneta](https://open.spotify.com/album/7Ij9dmVsAUTvqDUWWybEew) | 2:41 | 2023-02-23 | 2023-03-09 |
 | [BOUGIE](https://open.spotify.com/track/2YMwrPboAWRL4Vc8PvTK9a) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [BOUGIE](https://open.spotify.com/album/2UOmVVBsrML5CIxX8c3BH3) | 1:43 | 2024-02-01 | 2024-02-09 |
 | [BOUNCE](https://open.spotify.com/track/2gEAaRaCZo6MKx3JDed9ob) | [Baronetto](https://open.spotify.com/artist/0pwPxQ42me7zkEVBthrPf0) | [BOUNCE](https://open.spotify.com/album/3YFdkeBLZU1X6COJy78Qhl) | 1:42 | 2024-02-22 | 2024-03-08 |
+| [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2024-12-10 |  |
 | [BOX](https://open.spotify.com/track/1b7t2b2VvhqELWYbPgUwNy) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [BOX](https://open.spotify.com/album/22xPf88okQhsx5cA4Fbwji) | 2:21 | 2023-11-09 | 2023-11-23 |
 | [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 | 2024-11-07 |  |
 | [BOY](https://open.spotify.com/track/56Mxkk2FpNTkg9cCoRXjRs) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [BOY](https://open.spotify.com/album/20XcplC26XNhRAabYXk9K2) | 2:58 | 2024-10-17 | 2024-11-29 |

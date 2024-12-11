@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [クリスマスの日じゃなくていいから](https://open.spotify.com/track/6RkW1REvjaQ6PHy4Md83rS) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [クリスマスの日じゃなくていいから](https://open.spotify.com/album/2gmHW4KyqlXI8cPihREQbC) | 4:27 |
 | 80 | [Our Xmas](https://open.spotify.com/track/0AAYFhzwYDPPF2q3ceoNWw) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Our Xmas](https://open.spotify.com/album/77r5uw8GMDdaKaZ0jl7ZKH) | 3:52 |
 
-Snapshot ID: `Z1dxugAAAAA4jMNZJNfmFUbFaBIk8Vxi`
+Snapshot ID: `Z1hIxAAAAACZxaO+Xs3ImExQppC0RZ/x`

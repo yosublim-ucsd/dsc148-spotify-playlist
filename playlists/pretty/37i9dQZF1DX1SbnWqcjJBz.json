@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 119511,
+  "num_followers": 119535,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 193163,
       "name": "SuperLove",
       "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",

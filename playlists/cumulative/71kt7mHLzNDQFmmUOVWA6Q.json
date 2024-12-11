@@ -5137,6 +5137,32 @@
     },
     {
       "album": {
+        "name": "MV//MNT VOL. 03",
+        "url": "https://open.spotify.com/album/5cydhzJbPncpJEpdyuuNgF"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "When the World Ends",
+      "url": "https://open.spotify.com/track/1xgdu50Xr4HX7iLk1B5FZJ"
+    },
+    {
+      "album": {
         "name": "AGROLOVE",
         "url": "https://open.spotify.com/album/3SC5vnlaNsNfTuVGzAowoR"
       },

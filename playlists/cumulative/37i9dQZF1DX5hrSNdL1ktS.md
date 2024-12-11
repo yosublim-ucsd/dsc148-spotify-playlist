@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Mont y Bellakath en portada
 
-686 songs - 1 day 9 hr 50 min
+687 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Causa y Efecto](https://open.spotify.com/track/2C83HVLQBbVCQWLXAyB9ba) | [Alex Sp](https://open.spotify.com/artist/7e1ohjVfANpybCcXZTgxlI), [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Causa y Efecto](https://open.spotify.com/album/0i3LDfdEG9hLKrNs8RsALQ) | 3:17 | 2023-03-31 | 2023-07-22 |
 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 | 2023-03-31 | 2023-05-20 |
 | [Chakaleo](https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Chakaleo](https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz) | 3:03 | 2023-09-29 | 2024-06-15 |
+| [Chakales y Flaytes](https://open.spotify.com/track/0QMXEY3JET51tmh23T1yg3) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Royer De Tepito](https://open.spotify.com/artist/6GaXlfeWz9gMe7UjWA5gLz) | [Chakales y Flaytes](https://open.spotify.com/album/6xIg145U1IcmXhRyxv44FO) | 2:48 | 2024-12-06 |  |
 | [Chakalona](https://open.spotify.com/track/6LxKefLfvUJQ4gDifOmajM) | [De la Rosa Mx](https://open.spotify.com/artist/5vqTcQeQsS5ypqWxufGUOo), [Flowker Slick](https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Chakalona](https://open.spotify.com/album/67EjstfrVdX0ogEFfsYSFi) | 2:48 | 2023-12-01 | 2024-01-27 |
 | [Champagne O Cerveza](https://open.spotify.com/track/2RsGtPL49HyVUQIp9cb98S) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Dany El Nise](https://open.spotify.com/artist/5x3F32PI0v0SdjilxDgQt8) | [Champagne O Cerveza](https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX) | 2:28 | 2024-06-07 | 2024-06-22 |
 | [CHANEL REAL](https://open.spotify.com/track/4YE774jIKvocYDSB7Jwa5W) | [Ray Menace](https://open.spotify.com/artist/6sZ33pbSr5zOnfMK1jGqld), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Sou El Flotador](https://open.spotify.com/artist/4zhRp8eBXDLLmToDwAsLgK) | [Chanel](https://open.spotify.com/album/6mZNaNVmSCyWS5Ja8ONC8U) | 2:47 | 2023-07-28 | 2024-01-20 |

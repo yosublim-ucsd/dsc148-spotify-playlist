@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,173 likes - 134 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267 likes - 134 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 3 | [Glasgow Love Theme](https://open.spotify.com/track/2dz5fCXiNZk4W5Qptpmfgm) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 2:05 |
 | 4 | [Suite from the Polar Express](https://open.spotify.com/track/27Nr83gnl0z6YDHfWklXV0) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Polar Express \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4iEg2hitHOT0fRpsReCqAH) | 6:02 |
 | 5 | [Overture \- \(The Nightmare Before Christmas\)](https://open.spotify.com/track/2tzKOvqBZIpUeQnBHEI5Q3) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [The Nightmare Before Christmas](https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm) | 1:47 |
-| 6 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
-| 7 | [Overture](https://open.spotify.com/track/6BVCXnUKFEuIKMggkFVH8a) | [Paul Williams](https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 2:29 |
+| 6 | [Overture](https://open.spotify.com/track/6BVCXnUKFEuIKMggkFVH8a) | [Paul Williams](https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 2:29 |
+| 7 | [Christmas at Hogwarts](https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:55 |
 | 8 | [Trelew, Cornwall, England](https://open.spotify.com/track/5lfnVdkjUpDFzHfRh3PYom) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 1:49 |
 | 9 | [Gumption](https://open.spotify.com/track/207Bvb5saweIULXphE94Y8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:45 |
 | 10 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xWMTR2Zu8L.md) - [plain]
 | 133 | [Snow Scene](https://open.spotify.com/track/7aX3yA8NGtHqo7TjLYFdg4) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 1:32 |
 | 134 | [Antarctica](https://open.spotify.com/track/77DzKSTUqfrIxc1Y776aHB) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Penguins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lnDyf5b6lGAlBfAU2ak4k) | 0:49 |
 
-Snapshot ID: `Z1a+GQAAAACH2Sm5v7z4lt09pEoFRY7M`
+Snapshot ID: `Z1gkNQAAAABLmlwrgXUA8hacF+bzsp2E`

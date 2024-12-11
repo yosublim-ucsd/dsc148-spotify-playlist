@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bhairathi Ranagal",
-  "num_followers": 61413,
+  "num_followers": 61442,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1atywAAAADhYKA1nTOUldftbjSgw8y+",
+  "snapshot_id": "Z1fjSAAAAAAVJVM65YsIG+a0gKDnEMD9",
   "tracks": [
     {
       "added_at": "2024-11-07 07:34:58",
@@ -119,6 +119,30 @@
       "duration_ms": 164869,
       "name": "Gaayab (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
       "url": "https://open.spotify.com/track/3bHl9auciGbTn7BceAaC5B"
+    },
+    {
+      "added_at": "2024-12-10 06:44:24",
+      "album": {
+        "name": "Saedu Saedu (From \"Maryade Prashne\")",
+        "url": "https://open.spotify.com/album/47AEd1QMaJcXkCRXe22OqD"
+      },
+      "artists": [
+        {
+          "name": "Arjun Ramu",
+          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        },
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "duration_ms": 215728,
+      "name": "Saedu Saedu (From \"Maryade Prashne\")",
+      "url": "https://open.spotify.com/track/6AShQ3Vx5wrWqEptlB8a5O"
     },
     {
       "added_at": "2024-12-02 13:04:23",
@@ -1679,22 +1703,6 @@
       "duration_ms": 300003,
       "name": "Kaavaliga (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/3DlaCpCBStOojTwaHEyKuW"
-    },
-    {
-      "added_at": "2024-10-11 11:06:29",
-      "album": {
-        "name": "Sommasilli Pothunnave (A Muddu Bangari)",
-        "url": "https://open.spotify.com/album/2BiickJykWulEmnJbctchA"
-      },
-      "artists": [
-        {
-          "name": "Ravi Billur",
-          "url": "https://open.spotify.com/artist/48nqifmZuibF0kQMLpOCW1"
-        }
-      ],
-      "duration_ms": 230301,
-      "name": "Sommasilli Pothunnave - A Muddu Bangari",
-      "url": "https://open.spotify.com/track/1jsn10YL6ZqoA2Tj08X7dq"
     },
     {
       "added_at": "2024-10-16 06:22:39",

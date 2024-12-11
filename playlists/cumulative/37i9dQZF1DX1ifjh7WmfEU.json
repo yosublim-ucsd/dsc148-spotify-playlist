@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Orchard Moon",
+        "url": "https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "Orchard Moon",
+      "url": "https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79"
+    },
+    {
+      "album": {
         "name": "Ordinary Day",
         "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
       },
@@ -4252,6 +4270,24 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "album": {
+        "name": "Trail of the Ants",
+        "url": "https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU"
+      },
+      "artists": [
+        {
+          "name": "Vibrante",
+          "url": "https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172326,
+      "name": "Trail of the Ants",
+      "url": "https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt"
     },
     {
       "album": {

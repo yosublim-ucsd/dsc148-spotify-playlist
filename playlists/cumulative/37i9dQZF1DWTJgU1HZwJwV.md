@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-528 songs - 22 hr 22 min
+530 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-28 | 2023-06-23 |
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-09 |  |
 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 | 2022-06-17 | 2022-08-05 |
+| [Nossa Vida](https://open.spotify.com/track/1kPxyBKwVi8Bpv8pUsBFKN) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nossa Vida](https://open.spotify.com/album/0r6lndciqLPRTojX8Rdo4H) | 2:27 | 2024-12-10 |  |
 | [Nostalgia](https://open.spotify.com/track/3nCXrX86dijsLaCS7jzLlB) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Nostalgia](https://open.spotify.com/album/1z0H1oKZ2DSHvjpG4dDbMX) | 3:36 | 2022-10-07 | 2023-04-29 |
 | [Notturno No\. 3](https://open.spotify.com/track/7LUEs2TTMSiQiZAEYhOI63) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Notturno No\. 3](https://open.spotify.com/album/019lCBtr2ly5sXuIFzc5Du) | 2:16 | 2022-09-02 | 2023-08-25 |
 | [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 | 2023-08-18 |
@@ -469,6 +470,7 @@
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 | 2023-06-23 |
 | [The Good Choice](https://open.spotify.com/track/3G4ExFqeptnGm7581Aqj82) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [The Good Choice](https://open.spotify.com/album/5LdhdJSDjnRnxaB3cUl6Ka) | 3:56 | 2022-06-17 | 2023-05-20 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-23 |
+| [The Lowest Point](https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [The Lowest Point](https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t) | 2:31 | 2024-12-10 |  |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |

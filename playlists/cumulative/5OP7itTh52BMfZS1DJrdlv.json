@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 186414,
       "name": "Give Love This Year",
       "url": "https://open.spotify.com/track/6SLl91xkvg78d5Lpyfj8gU"
@@ -1468,6 +1468,24 @@
     {
       "album": {
         "name": "Merry Xmas Everybody",
+        "url": "https://open.spotify.com/album/7cXMFYNCEh5rFiwK7kTglA"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "Merry Xmas Everybody",
+      "url": "https://open.spotify.com/track/0z5jr9YE1siursT3dJUwDV"
+    },
+    {
+      "album": {
+        "name": "Merry Xmas Everybody",
         "url": "https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy"
       },
       "artists": [
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 205033,
       "name": "Tangled in Tinsel",
       "url": "https://open.spotify.com/track/7yAs6GOr6RKjfinavy167N"
@@ -2078,6 +2096,24 @@
       "duration_ms": 223671,
       "name": "The Christmas Sweater",
       "url": "https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261304,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3"
     },
     {
       "album": {

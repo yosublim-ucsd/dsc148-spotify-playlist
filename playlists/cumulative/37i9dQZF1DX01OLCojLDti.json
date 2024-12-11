@@ -159,6 +159,32 @@
     },
     {
       "album": {
+        "name": "Bubble Rise / Special Color\u3010\u7b2c2\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4QBufEwABzma54oHu0TEzX"
+      },
+      "artists": [
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u30a6\u30a3\u30fc\u30f3\u30fb\u30de\u30eb\u30ac\u30ec\u30fc\u30c6 (CV.\u7d50\u90a3)",
+          "url": "https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW"
+        },
+        {
+          "name": "\u9b3c\u585a\u51ac\u6bec (CV.\u5742\u5009 \u82b1)",
+          "url": "https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261243,
+      "name": "Bubble Rise",
+      "url": "https://open.spotify.com/track/32u9beG6FFtb5JVDRH5izh"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30bf\u30df\u30f3SUMMER! / Chance Day, Chance Way! (\u7b2c6\u8a71\u76e4)",
         "url": "https://open.spotify.com/album/2amqKXVS3ZZ6G3RMGnikXF"
       },
@@ -174,6 +200,24 @@
       "duration_ms": 215431,
       "name": "Chance Day, Chance Way!",
       "url": "https://open.spotify.com/track/2VGTOU2aAC9KnB0TK6rC13"
+    },
+    {
+      "album": {
+        "name": "DAISUKI FULL POWER",
+        "url": "https://open.spotify.com/album/4Iapc6S2Ee4O4ntomE2Igw"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247726,
+      "name": "DAISUKI FULL POWER",
+      "url": "https://open.spotify.com/track/2TyMixo6q2jstl9WxvPm0d"
     },
     {
       "album": {
@@ -228,6 +272,36 @@
       "duration_ms": 238426,
       "name": "Day1",
       "url": "https://open.spotify.com/track/7EIAw2TDdQM7WkhzFuozzU"
+    },
+    {
+      "album": {
+        "name": "\u7d76\u5bfe\u7684LOVER / Dazzling Game\u3010\u7b2c6\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        },
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u30a6\u30a3\u30fc\u30f3\u30fb\u30de\u30eb\u30ac\u30ec\u30fc\u30c6 (CV.\u7d50\u90a3)",
+          "url": "https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW"
+        },
+        {
+          "name": "\u9b3c\u585a\u51ac\u6bec (CV.\u5742\u5009 \u82b1)",
+          "url": "https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280795,
+      "name": "Dazzling Game",
+      "url": "https://open.spotify.com/track/74bGUJe47gsq7m1Vm9FM84"
     },
     {
       "album": {
@@ -368,7 +442,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 214305,
       "name": "Dreamer Coaster - \u6f81\u8c37\u304b\u306e\u3093 Ver.",
       "url": "https://open.spotify.com/track/1xiqPO3GW5Z9TweNzNdC1i"
@@ -440,7 +514,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 215409,
       "name": "FANTASTiC",
       "url": "https://open.spotify.com/track/5izlH6xpEMvlBiusUYA9zp"
@@ -576,6 +650,24 @@
       "duration_ms": 194873,
       "name": "Including you",
       "url": "https://open.spotify.com/track/0OlRisnrGMqUWIsJrTaBav"
+    },
+    {
+      "album": {
+        "name": "Let's be ONE",
+        "url": "https://open.spotify.com/album/7s3LovT9EoD7YnaGK3lKY6"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237830,
+      "name": "Let's be ONE",
+      "url": "https://open.spotify.com/track/1zDYHe160Z4NXdFNTZQQOx"
     },
     {
       "album": {
@@ -894,28 +986,10 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 205902,
       "name": "Second Sparkle",
       "url": "https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV"
-    },
-    {
-      "album": {
-        "name": "Shekira",
-        "url": "https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM"
-      },
-      "artists": [
-        {
-          "name": "Liella!",
-          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
-        }
-      ],
-      "date_added": "2024-01-09",
-      "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
-      "duration_ms": 262056,
-      "name": "Shekira",
-      "url": "https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE"
     },
     {
       "album": {
@@ -948,10 +1022,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 266875,
       "name": "Sing\uff01Shine\uff01Smile\uff01",
       "url": "https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn"
+    },
+    {
+      "album": {
+        "name": "Bubble Rise / Special Color\u3010\u7b2c3\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227381,
+      "name": "Special Color",
+      "url": "https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU"
     },
     {
       "album": {
@@ -1219,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Bubble Rise / Special Color\u3010\u7b2c2\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4QBufEwABzma54oHu0TEzX"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215343,
+      "name": "\u3044\u3064\u3082\u306e\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0wPdHuWWJM1MD5hpfhcoXw"
+    },
+    {
+      "album": {
         "name": "\u672a\u6765\u306f\u98a8\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/1ed9Zbcs5HRr7QIg9VTTez"
       },
@@ -1338,10 +1448,28 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 262056,
       "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
       "url": "https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262056,
+      "name": "\u30b7\u30a7\u30ad\u30e9\u2606\u2606\u2606",
+      "url": "https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE"
     },
     {
       "album": {
@@ -1374,7 +1502,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 203101,
       "name": "\u30ce\u30f3\u30d5\u30a3\u30af\u30b7\u30e7\u30f3!!",
       "url": "https://open.spotify.com/track/0wmhZDwpQ5GrHmUw0gptpB"
@@ -1468,6 +1596,24 @@
       "duration_ms": 209467,
       "name": "\u30d3\u30bf\u30df\u30f3SUMMER\uff01",
       "url": "https://open.spotify.com/track/2J3Ysm4IPXulMfvwP7em3s"
+    },
+    {
+      "album": {
+        "name": "Bubble Rise / Special Color\u3010\u7b2c3\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274401,
+      "name": "\u30d5\u30a1\u30a4\u30c6\u30a3\u30f3\u30b0\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1Qmpzifdz5LvVBk3kKTI64"
     },
     {
       "album": {
@@ -1630,7 +1776,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 301870,
       "name": "\u59cb\u307e\u308a\u306f\u541b\u306e\u7a7a",
       "url": "https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM"
@@ -1792,7 +1938,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 231685,
       "name": "\u672a\u6765\u4e88\u5831\u30cf\u30ec\u30eb\u30e4\uff01",
       "url": "https://open.spotify.com/track/0posBXcIeMLyjrYsSHR01P"
@@ -1924,10 +2070,40 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 238014,
       "name": "\u79c1\u306eSymphony - 2023Ver.",
       "url": "https://open.spotify.com/track/48G3gVCSvekCASVHf4Uacu"
+    },
+    {
+      "album": {
+        "name": "\u7d76\u5bfe\u7684LOVER / Dazzling Game\u3010\u7b2c6\u8a71\u76e4\u3011",
+        "url": "https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        },
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u30a6\u30a3\u30fc\u30f3\u30fb\u30de\u30eb\u30ac\u30ec\u30fc\u30c6 (CV.\u7d50\u90a3)",
+          "url": "https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW"
+        },
+        {
+          "name": "\u9b3c\u585a\u51ac\u6bec (CV.\u5742\u5009 \u82b1)",
+          "url": "https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269369,
+      "name": "\u7d76\u5bfe\u7684LOVER",
+      "url": "https://open.spotify.com/track/17oby8h5rK1OepOgeALfsZ"
     },
     {
       "album": {
@@ -2014,10 +2190,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 223480,
       "name": "\u8ffd\u3044\u304b\u3051\u308b\u5922\u306e\u5148\u3067",
       "url": "https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr"
+    },
+    {
+      "album": {
+        "name": "Let's be ONE",
+        "url": "https://open.spotify.com/album/7s3LovT9EoD7YnaGK3lKY6"
+      },
+      "artists": [
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228012,
+      "name": "\u9752\u6625HOPPERS",
+      "url": "https://open.spotify.com/track/7r7rLLgXfOuLeeW6R7CCzF"
     },
     {
       "album": {

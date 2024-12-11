@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > There's no stopping the game\. Listen to the music from Squid Game, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,032 likes - 24 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,049 likes - 24 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

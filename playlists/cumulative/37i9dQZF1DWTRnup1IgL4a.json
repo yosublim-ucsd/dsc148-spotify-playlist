@@ -3829,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133758,
+      "name": "Soft Rain",
+      "url": "https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4"
+    },
+    {
+      "album": {
         "name": "Softly Falling - Guitar Version",
         "url": "https://open.spotify.com/album/4YsBZRtkKjwetx2CJtrnAr"
       },

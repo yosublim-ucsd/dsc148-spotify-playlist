@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-226 songs - 13 hr 18 min
+229 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [abcdefu \(arr\. piano\)](https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [abcdefu \(arr\. piano\)](https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2) | 2:41 | 2022-02-11 |  |
 | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/track/3tjcfuKQ71cu6fQTwzBNnv) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Rowena Calvert](https://open.spotify.com/artist/5vg0ucoBJjqBXYU4eun1q0), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Lysandre Ménard](https://open.spotify.com/artist/5Is7r23SF0uCXeFzwOMZW5) | [Across The Universe \(Arr\. Lawson\)](https://open.spotify.com/album/7HXVpWl09KTOsLM39pW5o5) | 3:50 | 2021-11-19 |  |
 | [Adore You \(arr\. string quartet\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/0ovIP1mWermyLY91w6SMnh) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Adore You \(arr\. string quartet\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/3JBaruXKMRHbPsnGIwmsaq) | 3:18 | 2021-11-19 | 2023-09-30 |
+| [All Alone on Christmas](https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All Alone on Christmas](https://open.spotify.com/album/5EcpnZGAYJ1w8s68bKQK00) | 4:24 | 2024-12-10 |  |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-08 | 2024-04-19 |
 | [All Of Me](https://open.spotify.com/track/364awD0WkGUrHqvV92NLvd) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/58i8rbysdhVemJzgFtP5Bo) | 3:18 | 2021-11-19 |  |
 | [America \(Arr\. for Piano by Noah Luna\)](https://open.spotify.com/track/7oXj6NwhbxjHM7FirgQUQ2) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [This Land](https://open.spotify.com/album/0IXW2nCmhfprq7V4HwYhxE) | 3:09 | 2024-09-04 |  |
@@ -153,6 +154,7 @@
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-04-14 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-07-08 | 2024-04-19 |
 | [Nothing Else Matters \- Instrumental Version](https://open.spotify.com/track/3RxE3PASwabEJSolUs1hh0) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/43ZBK0wkWhW6v5Pdx7ht6d) | 4:45 | 2021-11-19 |  |
+| [Now We Are Free \(Arr\. Piano\) \- from "Gladiator"](https://open.spotify.com/track/32DOR9FunwPXFYyTAXzYQj) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Now We Are Free \(Arr\. Piano\) \[from "Gladiator"\]](https://open.spotify.com/album/5XdnldcWyrm9wBSMNtoQvN) | 2:44 | 2024-12-10 |  |
 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
 | [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 | 2024-03-01 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 | 2023-09-30 |
@@ -212,6 +214,7 @@
 | [Typa Girl \- String Quartet Version](https://open.spotify.com/track/0PvPB4YkMAvqdPu27xpqHm) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Typa Girl \(String Quartet Version\)](https://open.spotify.com/album/0k65v7B6jV6ugzU5NBaUka) | 3:20 | 2024-10-11 |  |
 | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/track/1wBkkzmmI89hiSAvEhKsFO) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Un\-break My Heart \(arr\. piano\)](https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8) | 2:43 | 2021-11-19 | 2023-09-30 |
 | [Unholy](https://open.spotify.com/track/5COQiZO96OTpgWPLOglz4N) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Unholy](https://open.spotify.com/album/0kdzhwPZRoeJ5Ta8Y4Vfq5) | 3:09 | 2022-12-09 | 2023-09-30 |
+| [Until I Found You](https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Until I Found You](https://open.spotify.com/album/4eaBzs8PLXM6xde6VnnHwr) | 2:35 | 2024-12-10 |  |
 | [Vampire](https://open.spotify.com/track/5y4aQFRElzXJCJi0T6ol6C) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Vampire](https://open.spotify.com/album/2rs0qLNt0Z1itHycvLZfDE) | 3:41 | 2023-09-29 |  |
 | [Vampire \- Scary String Quartet Version](https://open.spotify.com/track/2KpLqvnKKlmw0tatXBBcsX) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Vampire \(Scary String Quartet Version\)](https://open.spotify.com/album/3HEO526E82jR3GyMGf5Mzz) | 3:40 | 2024-11-08 |  |
 | [Veridis quo](https://open.spotify.com/track/0GLR6oEa3L4AUft3XBk0L4) | [Guy\-Manuel de Homem\-Christo](https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Pulse](https://open.spotify.com/album/3V4SxOn6qK58LEA3c5afo8) | 2:47 | 2024-10-18 |  |

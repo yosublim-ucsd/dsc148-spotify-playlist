@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-347 songs - 17 hr 0 min
+348 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Dat It](https://open.spotify.com/track/3dpNm5Z9JFt5It1gAWfvZX) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 4:46 | 2023-08-22 | 2023-09-01 |
 | [Day After](https://open.spotify.com/track/16Dlzc8aUsqzI6oDseP04u) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [Myuga](https://open.spotify.com/artist/1PGBkdt38wLMukl1HUX6ED) | [Day After](https://open.spotify.com/album/4F2kBATpwTeKETYpX57u68) | 2:22 | 2024-08-23 |  |
 | [Decay](https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Recurring \(Live At King's Place\)](https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y) | 5:20 | 2024-10-11 |  |
+| [Deck the Halls](https://open.spotify.com/track/536Yb4Zqm9EKCWMjGgLOjk) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/4kqmATkG8Og9CE3udxvu6h) | 1:36 | 2024-12-06 |  |
 | [deep space](https://open.spotify.com/track/3z2yk7iknisHQOeN6dhoH6) | [trees of sleep](https://open.spotify.com/artist/4PlHxeFd0jqHReZRnrtpz3) | [delaye](https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK) | 1:30 | 2023-08-22 | 2024-08-24 |
 | [Destiny](https://open.spotify.com/track/3BrRYzSKc8oLFBeFmyXm4G) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Destiny](https://open.spotify.com/album/5kH5Eq898z06gEUNGjWFIL) | 2:43 | 2024-10-11 |  |
 | [Diamond Exchange](https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Dots and Thoughts](https://open.spotify.com/album/7zlyNkcxef1R97lbzto7Ti) | 3:25 | 2023-08-22 | 2024-11-15 |
@@ -233,7 +234,7 @@
 | [Our Roots](https://open.spotify.com/track/5hyiQ4AumhGO8aRQkAelVl) | [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Our Roots](https://open.spotify.com/album/5ZWzcsoDKr9s5KUW30BAv1) | 1:39 | 2024-11-08 | 2024-12-02 |
 | [out and about with my love at the weekend](https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z) | [Akassia](https://open.spotify.com/artist/6ricu3j0F0VOuEOR08jGw5), [Samuel Williams](https://open.spotify.com/artist/08QnqhAnx6UeOtHjxdk2bv) | [out and about with my love at the weekend](https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd) | 2:19 | 2023-08-22 |  |
 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 | 2024-08-30 |  |
-| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 |  |
+| [Oxygen](https://open.spotify.com/track/5qcDfHSushPMsjE34DCnp1) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Oxygen](https://open.spotify.com/album/7pbdEPDDrqlFPxCMydb51z) | 2:19 | 2024-11-22 | 2024-12-11 |
 | [Oyster Jam](https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [Oyster Jam](https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b) | 2:37 | 2024-02-23 |  |
 | [P\_Optimist](https://open.spotify.com/track/02MFno0s2lpD3rycI7cllL) | [Butterscotch](https://open.spotify.com/artist/3wERNpNVW3TOG6pwSf5RTD) | [P\_Optimist](https://open.spotify.com/album/03OFznjG6SjQ7WMViYD6xK) | 1:43 | 2024-03-01 |  |
 | [Palmers \- Alfa Mist Remix](https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT) | [JSPHYNX](https://open.spotify.com/artist/3jy2pJyyUcddwipP6wqR8l), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Palmers / King Cobra \(Alfa Mist Remix, JSPHYNX Remix\)](https://open.spotify.com/album/4dbnO6XL2Y9VpFEM4X4KVi) | 3:29 | 2023-10-13 | 2024-08-24 |

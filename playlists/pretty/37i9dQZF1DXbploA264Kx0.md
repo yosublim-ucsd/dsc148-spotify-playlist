@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: DEW
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,473 likes - 61 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,475 likes - 61 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

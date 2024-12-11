@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: A\. Nayaka, Nyoman Paul
 
-646 songs - 1 day 17 hr 54 min
+647 songs - 1 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Sendiri](https://open.spotify.com/track/07WgdW3oqegtibITmSAPEy) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [Sendiri](https://open.spotify.com/album/4opY4vkF1iyUOq8Qa7BLfZ) | 4:37 | 2024-11-21 |  |
 | [Senin](https://open.spotify.com/track/2wzGTjK8OAEuFpSh55XZrM) | [Made Aurellia](https://open.spotify.com/artist/5X5Jcfm3nfIAlpVvQlFbS4) | [Senin](https://open.spotify.com/album/4lAO61MUICjslzQ0kaaMGZ) | 3:30 | 2024-02-15 | 2024-03-22 |
 | [Senja Kala Itu](https://open.spotify.com/track/0I0oskzM8APHsjHeccZwnc) | [Hiranya](https://open.spotify.com/artist/2qF8KVdfgswp7r9Atf4XXp) | [Senja Kala Itu](https://open.spotify.com/album/3MCA0xGtfAvWVGTGIybY0h) | 3:33 | 2024-06-27 | 2024-07-19 |
+| [Senja Teduh Pelita \- Unplugged](https://open.spotify.com/track/6s3hkiLTPjhLy27Is1pVTz) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita \(Unplugged\)](https://open.spotify.com/album/2oJEg2EW2YBs9WdMPalTck) | 3:51 | 2024-12-05 |  |
 | [Senyam\-Senyum](https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Senyam\-Senyum](https://open.spotify.com/album/3l1KxK7hYKPoUZWHpFXACB) | 3:51 | 2024-09-19 | 2024-11-15 |
 | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R) | 3:39 | 2024-09-19 | 2024-11-08 |
 | [Senyumin Dulu Aja](https://open.spotify.com/track/2DpWJsNrCjkXkk7aW3lC9A) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senyumin Dulu Aja](https://open.spotify.com/album/6ZHe5db0j2FZrxuu6tqsb2) | 2:35 | 2024-10-24 |  |

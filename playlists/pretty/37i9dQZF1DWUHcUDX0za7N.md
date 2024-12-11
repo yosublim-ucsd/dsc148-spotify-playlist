@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Bils
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,729 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,742 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 65 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
 | 66 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 | 67 | [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 |
-| 68 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
-| 69 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 68 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 69 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
 | 70 | [Burn](https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Burn](https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV) | 1:26 |
 
 Snapshot ID: `Z1KNxwAAAACRrCa7asBt9krjLK0bBrf3`

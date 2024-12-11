@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 94482,
+  "num_followers": 94522,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Best of",
-        "url": "https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq"
-      },
-      "artists": [
-        {
-          "name": "Didier Barbelivien",
-          "url": "https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq"
-        },
-        {
-          "name": "F\u00e9lix Gray",
-          "url": "https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h"
-        }
-      ],
-      "duration_ms": 254813,
-      "name": "\u00c0 toutes les filles",
-      "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Bruxelles (Version acoustique)",
         "url": "https://open.spotify.com/album/2UA3lHDTFLYMAXH7nj2gp5"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 178680,
       "name": "Bruxelles - Version acoustique",
       "url": "https://open.spotify.com/track/7qfS3qSvzl7A2lBjlr6W4z"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Best of",
+        "url": "https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq"
+      },
+      "artists": [
+        {
+          "name": "Didier Barbelivien",
+          "url": "https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq"
+        },
+        {
+          "name": "F\u00e9lix Gray",
+          "url": "https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h"
+        }
+      ],
+      "duration_ms": 254813,
+      "name": "\u00c0 toutes les filles",
+      "url": "https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr"
     }
   ],
   "unique_name": "Douce France",

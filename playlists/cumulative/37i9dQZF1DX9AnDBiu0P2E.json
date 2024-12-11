@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 181133,
       "name": "It's Been Too Long",
       "url": "https://open.spotify.com/track/1hvMgi5y919TAFuOHyEd0j"
@@ -802,6 +802,24 @@
       "duration_ms": 308533,
       "name": "No Other",
       "url": "https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unending",
+        "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/190sFbvbNbpA9Ewx4XL9uz"
     },
     {
       "album": {
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 232848,
       "name": "Two Against Three",
       "url": "https://open.spotify.com/track/40SQcnUa05M7AdEFyBtUKs"
@@ -1252,6 +1270,24 @@
       "duration_ms": 288120,
       "name": "Wildflowers & Wine",
       "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
+    },
+    {
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9AnDBiu0P2E"

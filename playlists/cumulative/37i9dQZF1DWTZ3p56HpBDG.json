@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of South Asian diaspora. Cover: Raf Saperra",
+  "description": "Best of South Asian diaspora. Cover: Ali Zafar, Danny Zee, T.I",
   "name": "No Borders",
   "tracks": [
     {
@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Lovely Bukhaar",
+        "url": "https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204155,
+      "name": "Lovely Bukhaar",
+      "url": "https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH"
+    },
+    {
+      "album": {
         "name": "Lover Boy",
         "url": "https://open.spotify.com/album/1Pd1lUjWCm2ZJ7HFb3DfEE"
       },
@@ -2942,6 +2960,32 @@
       "duration_ms": 197280,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/2NEAXiGwUBozXTsZ09eFkH"
+    },
+    {
+      "album": {
+        "name": "Munda on the Rise",
+        "url": "https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso"
+      },
+      "artists": [
+        {
+          "name": "Danny Zee",
+          "url": "https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Munda on the Rise",
+      "url": "https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5"
     },
     {
       "album": {
@@ -3550,6 +3594,24 @@
       "duration_ms": 180805,
       "name": "Reezons",
       "url": "https://open.spotify.com/track/2pud8BG8Dpg5vNBkfe2TiR"
+    },
+    {
+      "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/606EtVD2fp9rAGcUKdaGEV"
+      },
+      "artists": [
+        {
+          "name": "Ajii",
+          "url": "https://open.spotify.com/artist/06jm2zgKhLkjCOWyt120j8"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163276,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/3qLLJgjpy1cscJqQvCW3M2"
     },
     {
       "album": {

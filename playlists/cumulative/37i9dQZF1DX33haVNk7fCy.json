@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 186000,
       "name": "Aisi Jagah Le Ja",
       "url": "https://open.spotify.com/track/72Da3bpEW7Ula475ldLmrC"
@@ -2575,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Noorie (Two Sides)",
+        "url": "https://open.spotify.com/album/4aRgIuT1Ic1qP9z5Ol0JdF"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212330,
+      "name": "Noorie (Two Sides)",
+      "url": "https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz"
+    },
+    {
+      "album": {
         "name": "O Bedardeya (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/7kXEDaT5yy8IUT7Fmqs1i2"
       },
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 275133,
       "name": "Tujhe Bhoolna Toh Chaaha",
       "url": "https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-09",
+      "date_removed": null,
       "duration_ms": 288152,
       "name": "Wafa Na Raas Aayee",
       "url": "https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof"

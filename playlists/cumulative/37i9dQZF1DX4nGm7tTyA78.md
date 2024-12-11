@@ -2,7 +2,7 @@
 
 ### [Trapstorno](https://open.spotify.com/playlist/37i9dQZF1DX4nGm7tTyA78)
 
-> Trap latino que alimenta tu espíritu\. Foto:   <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
+> Trap latino que alimenta tu espíritu\. Foto:   Redimi2
 
 114 songs - 7 hr 17 min
 

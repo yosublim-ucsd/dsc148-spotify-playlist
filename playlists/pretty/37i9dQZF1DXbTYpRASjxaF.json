@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132740,
+  "num_followers": 132741,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,30 @@
     {
       "added_at": "2024-12-06 23:44:18",
       "album": {
-        "name": "PABLO",
-        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
+        "name": "Bag",
+        "url": "https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP"
       },
       "artists": [
         {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "CHF",
-          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+          "name": "Cassin",
+          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 150000,
-      "name": "PABLO",
-      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
+      "duration_ms": 224680,
+      "name": "Bag",
+      "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
     },
     {
       "added_at": "2024-12-06 23:44:18",
@@ -707,30 +715,22 @@
     {
       "added_at": "2024-12-06 23:44:18",
       "album": {
-        "name": "Bag",
-        "url": "https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP"
+        "name": "PABLO",
+        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
         },
         {
-          "name": "Cassin",
-          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Bag",
-      "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
+      "duration_ms": 150000,
+      "name": "PABLO",
+      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
     },
     {
       "added_at": "2024-12-06 23:44:18",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-12-06 23:44:18",
       "album": {
+        "name": "Bala da Coruja",
+        "url": "https://open.spotify.com/album/16o1NNfY3fbjUM0oaVsyMQ"
+      },
+      "artists": [
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Velloso",
+          "url": "https://open.spotify.com/artist/5iIc1bz0IBPFdN5V5DjKrD"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "duration_ms": 166034,
+      "name": "Bala da Coruja",
+      "url": "https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo"
+    },
+    {
+      "added_at": "2024-12-06 23:44:18",
+      "album": {
         "name": "Sorento",
         "url": "https://open.spotify.com/album/0cH0pjhCL9u5qJHkACqQCu"
       },
@@ -1103,30 +1127,6 @@
       "duration_ms": 117125,
       "name": "Remessa Estrangeira - Remix",
       "url": "https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN"
-    },
-    {
-      "added_at": "2024-12-06 23:44:18",
-      "album": {
-        "name": "Bala da Coruja",
-        "url": "https://open.spotify.com/album/16o1NNfY3fbjUM0oaVsyMQ"
-      },
-      "artists": [
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Velloso",
-          "url": "https://open.spotify.com/artist/5iIc1bz0IBPFdN5V5DjKrD"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
-        }
-      ],
-      "duration_ms": 166034,
-      "name": "Bala da Coruja",
-      "url": "https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo"
     },
     {
       "added_at": "2024-12-06 23:44:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 31218,
+  "num_followers": 31228,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1ThgAAAAADvJqgsE8ZQTtAJQa1O6VwF",
+  "snapshot_id": "Z1YzAAAAAABhF0QQvcXn1Gn6WiRztXyp",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 266615,
-      "name": "Qu\u00edmicos",
-      "url": "https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 175813,
       "name": "Mi Droga Favorita",
       "url": "https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 266615,
+      "name": "Qu\u00edmicos",
+      "url": "https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz"
     },
     {
       "added_at": null,

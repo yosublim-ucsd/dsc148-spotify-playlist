@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 292440,
       "name": "Fun! Fun! Festa!",
       "url": "https://open.spotify.com/track/6lEsKbmCYQftBozkzK2QP4"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 252546,
       "name": "ONE to DREAM\uff01",
       "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-11",
       "duration_ms": 248240,
       "name": "Secret Ornament",
       "url": "https://open.spotify.com/track/6nSVJPehM47RC9E4IjI4qg"
@@ -3028,6 +3028,44 @@
       "duration_ms": 244720,
       "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
       "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4 NEED YOU\uff08FOR WONDERFUL STORY\uff09",
+        "url": "https://open.spotify.com/album/1kEKLArEhl8xU95FmZLuSa"
+      },
+      "artists": [
+        {
+          "name": "765PRO ALLSTARS",
+          "url": "https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk"
+        },
+        {
+          "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30ac\u30fc\u30eb\u30ba",
+          "url": "https://open.spotify.com/artist/77l2335Jbrp4DUCWcDKfdE"
+        },
+        {
+          "name": "\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
+          "url": "https://open.spotify.com/artist/3wwXUcmJHjUEvDK9jcvPsi"
+        },
+        {
+          "name": "SideM",
+          "url": "https://open.spotify.com/artist/6AzZEbK2TNyU22XamXPtA8"
+        },
+        {
+          "name": "\u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR"
+        },
+        {
+          "name": "\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/4Dkexg0MHU4Pzppo4f1C64"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445530,
+      "name": "\u30a2\u30a4 NEED YOU\uff08FOR WONDERFUL STORY\uff09",
+      "url": "https://open.spotify.com/track/04vUozb7sdAaoRUdqkECcC"
     },
     {
       "album": {

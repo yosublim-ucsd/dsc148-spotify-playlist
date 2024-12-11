@@ -6157,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "That Place",
+        "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
+      },
+      "artists": [
+        {
+          "name": "Vikthor",
+          "url": "https://open.spotify.com/artist/0QCUDjsKGe3VqKtxl2rXkO"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426666,
+      "name": "That Place",
+      "url": "https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg"
+    },
+    {
+      "album": {
         "name": "Barracuda",
         "url": "https://open.spotify.com/album/10VdzgSXSHjr88uwuJa343"
       },

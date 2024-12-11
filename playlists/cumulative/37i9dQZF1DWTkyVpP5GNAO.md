@@ -2,7 +2,7 @@
 
 ### [Alabanza y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
-> Dale a Dios toda la gloria y alabanza! Foto: <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9<br/>">Christine D'Clario</a>
+> Dale a Dios toda la gloria y alabanza! Foto: <br/>Christine D'Clario
 
 172 songs - 16 hr 24 min
 

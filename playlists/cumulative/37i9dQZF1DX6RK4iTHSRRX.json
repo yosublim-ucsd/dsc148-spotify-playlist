@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/1aSRGQmhjPwBUAijeLCaXV"
+      },
+      "artists": [
+        {
+          "name": "Lewis Knight",
+          "url": "https://open.spotify.com/artist/7gLoi2AS98NhhbhJBxd3bn"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/2YahtbkRZgJca59Zwynzhb"
+    },
+    {
+      "album": {
         "name": "Christmas Classics on Guitar, Vol. 1",
         "url": "https://open.spotify.com/album/0HLYPlAeius3rPL4ihsswM"
       },
@@ -1908,6 +1926,24 @@
       "duration_ms": 180882,
       "name": "Rockin' Around The Christmas Tree - Acoustic Guitar",
       "url": "https://open.spotify.com/track/5BRPS39y0IsB5ViInBUh0K"
+    },
+    {
+      "album": {
+        "name": "Rudolph The Red Nosed Reindeer",
+        "url": "https://open.spotify.com/album/1rucgGQ0TAoIaftY0x3r7J"
+      },
+      "artists": [
+        {
+          "name": "Vaughn Harper",
+          "url": "https://open.spotify.com/artist/2YUFKvzH2Jyywza7FS0yBG"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160698,
+      "name": "Rudolph The Red Nosed Reindeer",
+      "url": "https://open.spotify.com/track/7HmYPar8eJKdNs38HE5upN"
     },
     {
       "album": {
