@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: TINI
 
-810 songs - 1 day 16 hr 35 min
+811 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 | 2024-02-24 |
 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-06 | 2024-10-26 |
 | [Café](https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Café](https://open.spotify.com/album/4xWKfkBOyOca4gEy1Vvd7g) | 3:13 | 2022-04-01 | 2022-07-09 |
+| [capaz \(merengueton\)](https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [capaz \(merengueton\)](https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV) | 2:53 | 2024-12-11 |  |
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2023-10-27 | 2024-04-06 |
 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 | 2022-09-23 | 2022-12-10 |
 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 | 2023-09-01 | 2024-04-06 |
@@ -711,7 +712,7 @@
 | [TBT](https://open.spotify.com/track/213uZJMRoRXXthd2xBYW4D) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [TBT](https://open.spotify.com/album/1PYSxOUcVNmB2mBRLLFEhH) | 2:38 | 2023-10-27 | 2024-02-12 |
 | [Te Elegiré](https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Te Elegiré](https://open.spotify.com/album/7tPSBcVdJ4YIWIMEAAZOsM) | 3:56 | 2022-10-07 | 2022-12-10 |
 | [Te Espero Sentada](https://open.spotify.com/track/4bEY1yu9hUoDslA1oc9OIa) | [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [En Otra Vida](https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD) | 2:44 | 2024-05-03 | 2024-06-22 |
-| [Te Hice Un Reggae](https://open.spotify.com/track/55pb3ivPdoG9pk3MY3jQDy) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Te Hice Un Reggae](https://open.spotify.com/album/6vfx7UDOvo3Smffaygj88x) | 2:48 | 2024-09-20 |  |
+| [Te Hice Un Reggae](https://open.spotify.com/track/55pb3ivPdoG9pk3MY3jQDy) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Te Hice Un Reggae](https://open.spotify.com/album/6vfx7UDOvo3Smffaygj88x) | 2:48 | 2024-09-20 | 2024-12-12 |
 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 | 2024-01-12 | 2024-04-06 |
 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 | 2023-03-03 | 2023-05-19 |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-20 | 2023-12-02 |

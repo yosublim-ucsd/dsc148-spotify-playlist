@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,272 likes - 34 songs - 1 day 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,270 likes - 34 songs - 1 day 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 9 | [NBA Contenders or Pretenders](https://open.spotify.com/episode/6FRtTHMIQOEyTBE4d3DkkX) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 1:08:04 |
 | 10 | [Networking as an Introvert.](https://open.spotify.com/episode/2A4qXznNALKVNONM5mSiUV) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 1:13:09 |
 | 11 | [Black People Love Paramore ft\. Hayley Williams \(!!!!!\)](https://open.spotify.com/episode/4AX6JpjSgfm6kDHozDqOUq) | [Black People Love Paramore](https://open.spotify.com/show/0aNC945DJjS2GbgAqRc1v3) | [Black People Love Paramore](https://open.spotify.com/album/0aNC945DJjS2GbgAqRc1v3) | 17:12 |
-| 12 | [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 38:56 |
+| 12 | [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 39:56 |
 | 13 | [White Lies Ft\. Caleb Hearon: Right or Wrong?](https://open.spotify.com/episode/1Y9Ncz9bQTJRaVdrZkoxfi) | [I'm Right You're Wrong](https://open.spotify.com/show/6wu9msV7ZBaOledxroPzmj) | [I'm Right You're Wrong](https://open.spotify.com/album/6wu9msV7ZBaOledxroPzmj) | 44:22 |
 | 14 | [Ranking The 25 Best NBA Players Under 25 Years Old](https://open.spotify.com/episode/7wjPh9sATTgDCEtRhG6uBp) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 54:39 |
 | 15 | [Dating rizz in your 30s](https://open.spotify.com/episode/2AnakWvJxTmFWE9WwqEud6) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/show/0sJAtVorz8TsYDzzyM04cq) | [Joy of Missing Out \(JOMO\)](https://open.spotify.com/album/0sJAtVorz8TsYDzzyM04cq) | 54:35 |

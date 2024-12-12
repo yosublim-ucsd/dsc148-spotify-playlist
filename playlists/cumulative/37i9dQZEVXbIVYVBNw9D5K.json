@@ -1883,7 +1883,7 @@
     },
     {
       "album": {
-        "name": "A\u00e7\u0131k Adres (Sayg\u01311)",
+        "name": "A\u00e7\u0131k Adres (SAYGI1)",
         "url": "https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL"
       },
       "artists": [
@@ -1900,7 +1900,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 277514,
-      "name": "A\u00e7\u0131k Adres - Sayg\u01311",
+      "name": "A\u00e7\u0131k Adres - SAYGI1",
       "url": "https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv"
     },
     {
@@ -3314,6 +3314,28 @@
       "duration_ms": 196222,
       "name": "Bi Daha Bi Daha",
       "url": "https://open.spotify.com/track/6LsfvgCDhypMTR0ODFjoT1"
+    },
+    {
+      "album": {
+        "name": "Bi Polar (SAYGI1)",
+        "url": "https://open.spotify.com/album/5NigO6UVsrHOL56lSWRhOa"
+      },
+      "artists": [
+        {
+          "name": "\u015eara Kaplan",
+          "url": "https://open.spotify.com/artist/0iG1fA0dve7VU4uuqZY09V"
+        },
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bi Polar - SAYGI1",
+      "url": "https://open.spotify.com/track/0aVCvzCsi8Cj34zTyTaRvB"
     },
     {
       "album": {
@@ -4878,7 +4900,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -5554,7 +5576,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -14672,7 +14694,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 174000,
       "name": "Onlar Anlamaz Halden",
       "url": "https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB"

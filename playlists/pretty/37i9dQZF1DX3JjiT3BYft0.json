@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 73440,
+  "num_followers": 73466,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "TARINAI/\u30c8\u30ec\u30e2\u30ed\u30a2\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 219633,
-      "name": "TARINAI",
-      "url": "https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 252600,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "TARINAI/\u30c8\u30ec\u30e2\u30ed\u30a2\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 219633,
+      "name": "TARINAI",
+      "url": "https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK"
     },
     {
       "added_at": "2024-12-10 15:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-12-10 15:00:00",
       "album": {
-        "name": "-N-E-M-E-S-I-S-",
-        "url": "https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35"
-      },
-      "artists": [
-        {
-          "name": "RAISE A SUILEN",
-          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
-        }
-      ],
-      "duration_ms": 267900,
-      "name": "-N-E-M-E-S-I-S-",
-      "url": "https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF"
-    },
-    {
-      "added_at": "2024-12-10 15:00:00",
-      "album": {
         "name": "\u590f\u306b\u9589\u3058\u3053\u3081\u3066",
         "url": "https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 261635,
       "name": "\u590f\u306b\u9589\u3058\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0"
+    },
+    {
+      "added_at": "2024-12-10 15:00:00",
+      "album": {
+        "name": "-N-E-M-E-S-I-S-",
+        "url": "https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "duration_ms": 267900,
+      "name": "-N-E-M-E-S-I-S-",
+      "url": "https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF"
     },
     {
       "added_at": "2024-12-10 15:00:00",

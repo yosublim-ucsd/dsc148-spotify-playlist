@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-239 songs - 12 hr 45 min
+240 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-26 | 2024-02-01 |
 | [Drugs From Amsterdam \- Reinier Zonneveld Remix](https://open.spotify.com/track/3lBsiMe2z1zIrXz3xcUxhs) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/4hdHSpgwZ89L8c4q2oaoco) | 3:53 | 2023-08-11 | 2023-10-27 |
 | [Dudadu \- Remix](https://open.spotify.com/track/1v7IYDSkzrw3dHm89nS54V) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu \(Remix\)](https://open.spotify.com/album/59MJX4jPYt1zzNWvOc4J7m) | 3:02 | 2024-07-26 | 2024-09-18 |
-| [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-13 |  |
+| [eat, sleep, slay, 🔁](https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [eat, sleep, slay, 🔁](https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h) | 2:29 | 2024-09-13 | 2024-12-12 |
 | [Elevate \- Original Mix](https://open.spotify.com/track/4WxCuOB9TmEVLqmlRgd19D) | [SRVD](https://open.spotify.com/artist/2nhdOVEJpiDFkwcaBxpWCP), [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Patrick Mason](https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0) | [Elevate](https://open.spotify.com/album/2qGIRzjAMjubg9552YZTOI) | 8:13 | 2023-08-11 | 2023-08-15 |
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-11 | 2023-09-04 |
 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 | 2024-02-16 | 2024-08-20 |
@@ -177,6 +177,7 @@
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-10 | 2024-06-08 |
 | [Pyramid Rave](https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Pyramid Rave / Feel The Energy](https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR) | 2:36 | 2024-07-12 | 2024-11-11 |
 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 | 2023-11-17 | 2024-06-07 |
+| [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 | 2024-12-06 |  |
 | [Ravarp](https://open.spotify.com/track/0abnHEEma5xkWazffnRpni) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Ravarp](https://open.spotify.com/album/6VYrX3so9Z3gquODJ6SVp8) | 3:47 | 2024-01-26 | 2024-04-28 |
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2023-08-11 |  |
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-06-07 |  |

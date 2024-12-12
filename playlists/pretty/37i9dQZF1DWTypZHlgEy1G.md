@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,072 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,069 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 45 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED) | [Lucienne Delyle](https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM) | [Mon amant de St Jean](https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB) | 3:09 |
 | 46 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
 | 47 | [Tu verras](https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [L'Essentiel Studio 1962 \- 1985](https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW) | 3:13 |
-| 48 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
-| 49 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
+| 48 | [Les feuilles mortes](https://open.spotify.com/track/30bqPdEUBZhn44u10awaup) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Yves Montand \- Les feuilles mortes](https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE) | 3:23 |
+| 49 | [Les rupins](https://open.spotify.com/track/4hOj5cF3vQ6lNOKkOLQdef) | [Catherine Sauvage](https://open.spotify.com/artist/4NjkPdOPwWlQBF59ff6YoV) | [Heritage \- Jolie Môme \- Philips \(1961\)](https://open.spotify.com/album/3cmSgfLLDmlPguaIk8L4A9) | 2:46 |
 | 50 | [Les roses blanches](https://open.spotify.com/track/1BQXfo0ZYVqOUndPef2pAi) | [Berthe Silva](https://open.spotify.com/artist/72UR9TdmSwOx2wLoNMrP9t) | [Deluxe: Les roses blanches](https://open.spotify.com/album/3Rkjk3ZZYfGygICKyhqN6j) | 3:26 |
 | 51 | [À quoi ça sert l'amour ?](https://open.spotify.com/track/2oqwC0tbMG9fs37V1Jw6xd) | [Theo Sarapo](https://open.spotify.com/artist/1LLt7Ip3DCW2oAP4Z1V1zj), [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Les 100 plus belles chansons d'Edith Piaf](https://open.spotify.com/album/52Djt5ovSZlf5o2pfRFsdN) | 2:27 |
 | 52 | [Cœur de parisienne](https://open.spotify.com/track/16bV2DdifOepotmlnEjNQZ) | [Arletty](https://open.spotify.com/artist/5ouVGmB18Ok71seyDU6g91) | [Mon homme](https://open.spotify.com/album/0wttZ0qGZeO95j5NOIDRF5) | 2:39 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 65 | [Douce France](https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Platinum](https://open.spotify.com/album/4WDKGsDi7616S6Egs0quLq) | 3:12 |
 | 66 | [La poupée qui fait non](https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 3:13 |
 | 67 | [Mon vieux](https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [Mon Vieux](https://open.spotify.com/album/1i0NyVofMiqLPfZwiiQ79f) | 3:32 |
-| 68 | [Vous permettez, monsieur ?](https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv) | [Adamo](https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon) | [Le disque d'or \(Remastered\)](https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh) | 3:02 |
+| 68 | [Vous permettez, monsieur ?](https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Le disque d'or \(Remastered\)](https://open.spotify.com/album/79M1hsJkTEt1mOfiIi97Qh) | 3:02 |
 | 69 | [Emmenez Moi](https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 3:32 |
 | 70 | [Avec le temps](https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E) | [Léo Ferré](https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo) | [Avec Le Temps \- Les Chansons D'Amour](https://open.spotify.com/album/641Qma5hnSs1OqudP24cfD) | 4:26 |
 | 71 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |

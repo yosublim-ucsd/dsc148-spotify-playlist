@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-361 songs - 14 hr 22 min
+363 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Reminiscence](https://open.spotify.com/track/1FwYuCPPEepHIWydsi37gI) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:32 | 2021-06-27 | 2022-07-29 |
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2022-07-05 | 2023-05-16 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-05-15 |  |
+| [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2023-05-15 |  |
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
@@ -312,6 +313,7 @@
 | [Sparkles](https://open.spotify.com/track/49iaI2NVe2c0iz4YzpzeB3) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Sparkles](https://open.spotify.com/album/1XQuLySsbrFuKnGjsdpI8r) | 3:20 | 2021-06-27 | 2023-05-16 |
 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2024-08-20 |  |
 | [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 | 2023-05-15 |  |
+| [spirit of the wind](https://open.spotify.com/track/0549bpR4RTWXJXkAecXx7C) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [spirit of the wind](https://open.spotify.com/album/6dBOiti1FbGEQHDVQ2r1Ro) | 2:12 | 2024-12-11 |  |
 | [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-05-15 | 2023-08-16 |
 | [Stardust](https://open.spotify.com/track/4o1iW5KY6ZPFC3ebxdVgKz) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [Stardust](https://open.spotify.com/album/2Ajngx1iJWxYSt79nqU3Sg) | 2:20 | 2024-05-29 |  |
 | [Still Asleep](https://open.spotify.com/track/7iDgSWnBmHuTY34utvzO1B) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [A Second to Forget](https://open.spotify.com/album/61awMZmOvF8IKVIlSSFA4V) | 2:08 | 2022-07-05 | 2023-05-16 |

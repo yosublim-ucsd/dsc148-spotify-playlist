@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 66198,
+  "num_followers": 66230,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
+        "name": "Behemoth",
+        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Behemoth",
-        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
         "name": "Ice Cold",
         "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
       },
@@ -875,6 +875,38 @@
       "duration_ms": 123428,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
+      },
+      "artists": [
+        {
+          "name": "CJDJ",
+          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
+        }
+      ],
+      "duration_ms": 125567,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
+      "added_at": "2024-12-06 00:00:00",
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -899,18 +931,18 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -931,38 +963,6 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2024-12-06 00:00:00",
-      "album": {
-        "name": "Bass",
-        "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
-      },
-      "artists": [
-        {
-          "name": "CJDJ",
-          "url": "https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS"
-        }
-      ],
-      "duration_ms": 125567,
-      "name": "Bass",
-      "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
       "added_at": "2024-12-06 00:00:00",

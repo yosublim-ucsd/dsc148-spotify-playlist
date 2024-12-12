@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Souto MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,782 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,780 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 4 | [Te Amo Tanto](https://open.spotify.com/track/0n84fiW6wrwaMw6Xq5CEgM) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [6º Último](https://open.spotify.com/album/2gdCiraegon8PisGhtttGI) | 2:42 |
 | 5 | [Maçonaria do Boombap](https://open.spotify.com/track/6HUlwa5UaUqGI5iIjNH6sQ) | [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Igor Bidi](https://open.spotify.com/artist/1oCAVVaWwRObYk7fDJFNwr) | [Maçonaria do Boombap](https://open.spotify.com/album/6GjjO15aKiZePDWZZsH1Uk) | 2:57 |
 | 6 | [Quer me encontrar](https://open.spotify.com/track/7KNWlXPjSSesksxLBtE7Oq) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [Quer me encontrar](https://open.spotify.com/album/38XAGI9p7BQCvM6T9B3wU2) | 1:48 |
-| 7 | [Identidade Preta](https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Identidade Preta](https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT) | 3:15 |
+| 7 | [Identidade Preta](https://open.spotify.com/track/5D3rKwPcJ6ZbeNY2Ppi3S2) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Identidade Preta](https://open.spotify.com/album/5Wtbc24c9VciTVTlEwTKWT) | 3:15 |
 | 8 | [\#SV 09 \- Raflow / Nasci pra ser](https://open.spotify.com/track/2QCa8ZLC1ZKqMjzLhh5jRY) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 09 \- Raflow / Nasci pra ser](https://open.spotify.com/album/11YU7N2GD9nTsMKZlZC82g) | 2:25 |
 | 9 | [Perfil \#99 \- Estrela da Manhã](https://open.spotify.com/track/1dudnhBfQ1OOUIbg5Rittt) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [IWally](https://open.spotify.com/artist/3UbSniv4jXwMGcVA0OwHo5) | [Perfil \#99 \- Estrela da Manhã](https://open.spotify.com/album/5wFFKZUI6hnjJT1UwTOc0l) | 3:40 |
 | 10 | [Mary Madalena](https://open.spotify.com/track/2fRo1ftUovGHSqDSVi9YcA) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Mary Madalena](https://open.spotify.com/album/08TqIiclYI5jy7Dbu1bECt) | 4:21 |

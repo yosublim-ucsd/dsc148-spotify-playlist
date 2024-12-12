@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,268 likes - 200 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,284 likes - 200 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 18 | [Exoplanet](https://open.spotify.com/track/6j1ChNSkJNqz8xgbXCS2xW) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Bubby Lewis](https://open.spotify.com/artist/2foDHsfpet3NNYdYhfK8Fc), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Natural Resolve](https://open.spotify.com/album/3Cx9pTCk3Mif9TGYCXM1k2) | 2:16 |
 | 19 | [Ascendence](https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY), [Svoy](https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO) | [Ascendence](https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV) | 3:54 |
 | 20 | [First Lemonade](https://open.spotify.com/track/6qhHMnTIFQ5ZJbzXTP36tP) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [First Lemonade](https://open.spotify.com/album/54FufUN5eZagqdaM3Zc9xs) | 2:41 |
-| 21 | [Love for Sale \- Ornithology Remix](https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Love for Sale \(Ornithology Remix\)](https://open.spotify.com/album/0Q7mdGkEJD9IO4VGXo1e3s) | 2:21 |
+| 21 | [Love For Sale \- Ornithology Remix](https://open.spotify.com/track/0IwASeCcdCtSdbSOSnhW4B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Love for Sale \(Ornithology Remix\)](https://open.spotify.com/album/0Q7mdGkEJD9IO4VGXo1e3s) | 2:21 |
 | 22 | [I love Matheus Jardim](https://open.spotify.com/track/4HThlhDETUfaEzSwbTlBTD) | [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Stephanie Weninger](https://open.spotify.com/artist/0naw9jdvmNaBSWy0c7gZTl), [Lorenz Widauer](https://open.spotify.com/artist/3GCogPAlzFjPkoi9lLC9jk), [Danylo Dmyterko](https://open.spotify.com/artist/3asJmPYfPALxleeAVRUZ6L), [Matheus Jardim](https://open.spotify.com/artist/5yc5ZDHC1HZna6AARIeoQD) | [I love Matheus Jardim](https://open.spotify.com/album/3xr2w7aJ9SoIQZylGnqkS1) | 2:02 |
 | 23 | [Mars and Its Moons](https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [48thSt](https://open.spotify.com/artist/0cB7mWWQDeeZ33j3qAMCiU) | [Black Life, Red Planet](https://open.spotify.com/album/6C9mnXb8ZXTo5Qsat9mZ0K) | 4:42 |
 | 24 | [Regular Groove \- Remix](https://open.spotify.com/track/5v83Hcu9AS6YO2qtwWPVBY) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Ayjay Nils](https://open.spotify.com/artist/5KQNqrksTsuOyxQjp00Pe4) | [Regular Groove \(Remix\)](https://open.spotify.com/album/6LPk4HK9Z2Jyr6avSUczQZ) | 4:34 |

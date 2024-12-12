@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Tiago PZK, Grupo Frontera
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,664 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,730 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 19 | [Tren Al Sur](https://open.spotify.com/track/0R2YUDiZNGOaOQT3cBCXeQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Pateando Cumbias \(Homenaje a Jorge González\)](https://open.spotify.com/album/3Z2K8Uw0tSnPIcHxxAO2Jk) | 4:19 |
 | 20 | [Corazón corazoncito / Perfecta \- En Vivo Movistar Arena, Sesión 5](https://open.spotify.com/track/5LEpqqnRHC6fAoLYj3VLEk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [Lauri](https://open.spotify.com/artist/5DkMnet9UIBiZY5TlAPsKo) | [Corazón corazoncito / Perfecta \(En Vivo Movistar Arena, Sesión 5\)](https://open.spotify.com/album/6GLnRbMUE4XXBU03V0yIw6) | 6:27 |
 | 21 | [Cómo Lo Hizo \- No Podrás \- En Vivo](https://open.spotify.com/track/7iweOnBgTeHU1VPSVQRyIC) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cómo Lo Hizo \- No Podrás \(En Vivo\)](https://open.spotify.com/album/1x5XZIoKDX8imxr09pCewy) | 8:36 |
-| 22 | [SUÉLTALA](https://open.spotify.com/track/7xoo20Za3G9FnsmRCyZWEq) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [SUÉLTALA](https://open.spotify.com/album/2pcnkQUeLodCOLQSiVIiOL) | 3:33 |
+| 22 | [SUÉLTALA](https://open.spotify.com/track/7xoo20Za3G9FnsmRCyZWEq) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [SUÉLTALA](https://open.spotify.com/album/2pcnkQUeLodCOLQSiVIiOL) | 3:32 |
 | 23 | [Para Navidad](https://open.spotify.com/track/5eWccFpMb86mMocYVKZgsC) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Para Navidad](https://open.spotify.com/album/6hOqfnkjRvUh8MbMRpDQXM) | 2:11 |
 | 24 | [AVIONES CON BENGALAS](https://open.spotify.com/track/7FCdTMsLUeU68G8EUjz654) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [AVIONES CON BENGALAS](https://open.spotify.com/album/2bAzCG8b69oV0W232PZtcE) | 2:50 |
 | 25 | [Hombre Malvado](https://open.spotify.com/track/6J8AOENqdUglgzpD4T6Pn3) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Hombre Malvado](https://open.spotify.com/album/5fnztBNdSyfqGkcRILbVtY) | 2:43 |

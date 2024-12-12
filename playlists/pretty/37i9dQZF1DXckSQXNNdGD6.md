@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Ojete Calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,206 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,207 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 14 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
 | 15 | [PRIVADO](https://open.spotify.com/track/5MbMMTyoIjSX6iC7sm1eJS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [EL NENE, VOL\. 1](https://open.spotify.com/album/2BBpvXStR1P4uoVmtce2kx) | 2:19 |
 | 16 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
-| 17 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 |
+| 17 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 |
 | 18 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 |
-| 19 | [Vértigo](https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Vértigo](https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe) | 2:24 |
+| 19 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 |
 | 20 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
 | 21 | [FANCY](https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [FANCY](https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH) | 2:23 |
 | 22 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 43 | [Kandinsky \(Rencor\)](https://open.spotify.com/track/5ukZjGNnjnfc75tDlofiYr) | [K1ZA](https://open.spotify.com/artist/4Om3ZoQAy1yw4caBOvMT2F), [VendettaBeats\_](https://open.spotify.com/artist/1evGGiRZmXK379IxR4NI8V) | [Kandinsky \(Rencor\)](https://open.spotify.com/album/40Jb3gCCaQTigGUHDpJInV) | 2:09 |
 | 44 | [Mi corazón](https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [002](https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w) | 4:04 |
 | 45 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 |
-| 46 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
-| 47 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
+| 46 | [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 |
+| 47 | [Gente De Mierda](https://open.spotify.com/track/3nUHxleuIMVyXLtc2TQBbl) | [PUTOCHINOMARICÓN](https://open.spotify.com/artist/6Fyalbcq6ADX28ADcWlQgf) | [Corazón De Cerdo Con Ginseng Al Vapor](https://open.spotify.com/album/3a2ZZYOBT3IjMSJ6Gd4LSn) | 2:20 |
 | 48 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
-| 49 | [CULPA MÍA](https://open.spotify.com/track/3uMbgrHyfc40oN5pJISXzr) | [Elliott Vell](https://open.spotify.com/artist/0d4UVDQCabLBc2ezvAvYzA) | [CULPA MÍA](https://open.spotify.com/album/5toRg2jz8bjlggQt8M7Klc) | 2:47 |
+| 49 | [Querió](https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Querió](https://open.spotify.com/album/0dxN4OVXvTLLOdWsMJ3Es8) | 2:13 |
 | 50 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 |
 
 Snapshot ID: `Z1BuqgAAAAD2iXGesDPNk+xSwKPV7NTr`

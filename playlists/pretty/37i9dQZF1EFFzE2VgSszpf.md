@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 18 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 |
 | 19 | [Nobody Other](https://open.spotify.com/track/4Sqkfwcm0HsUMlmmmZYTim) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:18 |
 | 20 | [Joy](https://open.spotify.com/track/5kK4NGiSPo3S2azAeStKF8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:07 |
-| 21 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
-| 22 | [NOTHING TO ME](https://open.spotify.com/track/06lMiszDlc039Ti5XRV590) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 4:25 |
+| 21 | [NOTHING TO ME](https://open.spotify.com/track/06lMiszDlc039Ti5XRV590) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 4:25 |
+| 22 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 |
 | 23 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 |
 | 24 | [Another Time Lover](https://open.spotify.com/track/4nKdilQJL8BcWZXGJZzm7G) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 3:38 |
 | 25 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 44 | [California Holiday](https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 4:40 |
 | 45 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `AbjzFgAAAAAkZDh+bftn/UDC+f1X29xZ`
+Snapshot ID: `Abj4wAAAAAAQfSmeJjM0Se1CFAMr7O/b`

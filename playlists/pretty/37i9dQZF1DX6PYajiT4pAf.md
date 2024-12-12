@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Bunny y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,004 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,019 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 39 | [De Donde Vengo](https://open.spotify.com/track/2R8BvlmiqolfY79r2rRzgJ) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [De Donde Vengo](https://open.spotify.com/album/3tqGlBtsGHgFgtKunxT4we) | 3:13 |
 | 40 | [Gaultier Freestyle](https://open.spotify.com/track/0zaJ8JjZ36BMnKFZ6D0l1g) | [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LO QUE NOS QUEDA DE GUAPOS](https://open.spotify.com/album/73YCxZFDNxY1N0Y2AwbecK) | 2:25 |
 | 41 | [Amantes de la noche](https://open.spotify.com/track/12ByeW4Zrk21JMAKAT0w2M) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Amantes de la noche](https://open.spotify.com/album/3OY9eUyvhV8Qvdj0LACQnU) | 3:11 |
-| 42 | [Y si no hay mañana?](https://open.spotify.com/track/6102PrXYPMAGr0uhvKsW0X) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Y si no hay mañana?](https://open.spotify.com/album/0oQXnuN0uoVl6c2iUt6hA2) | 2:30 |
+| 42 | [Y Si No Hay Mañana?](https://open.spotify.com/track/6102PrXYPMAGr0uhvKsW0X) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d), [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ) | [Y Si No Hay Mañana?](https://open.spotify.com/album/0oQXnuN0uoVl6c2iUt6hA2) | 2:30 |
 | 43 | [Llegó La Navidad](https://open.spotify.com/track/3hZpYle50ZLiEHHc3sInc7) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O) | [Llegó La Navidad](https://open.spotify.com/album/0g1t7Rf3sgXa0vE0Lumj2t) | 3:57 |
 | 44 | [VOY A LO MÍO](https://open.spotify.com/track/4t3nU4gzRW6MdmUG0LRTev) | [Flowtiago](https://open.spotify.com/artist/51U0VfysnTpUUDwXgDjdfi) | [VOY A LO MÍO](https://open.spotify.com/album/4gDrHZyYVBwOCN7zJXTJ2k) | 3:04 |
 | 45 | [Jean Blau](https://open.spotify.com/track/1P21dQqCpaF9LKXxTuG7Jn) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Jean Blau](https://open.spotify.com/album/6HWFQAjHklgLMgGGJePsXN) | 3:17 |

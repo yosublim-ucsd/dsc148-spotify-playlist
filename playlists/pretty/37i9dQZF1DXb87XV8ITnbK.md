@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,389 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,416 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 32 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 |
 | 33 | [03 Curated by Seol In A](https://open.spotify.com/track/6xWJWEoGjOpM7EKwvNFM9m) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:19 |
 | 34 | [90's Love](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:33 |
-| 35 | [Kick It 4 Now](https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [BOYHOOD](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) | 2:55 |
+| 35 | [Kick It 4 Now](https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [BOYHOOD](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) | 2:55 |
 | 36 | [Ring Ring Ring](https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-US](https://open.spotify.com/album/0Lztj1OhIc36IZ72Tefv9i) | 3:06 |
 | 37 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
 | 38 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 |

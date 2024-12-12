@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Arabesk Par\u00e7alar",
+        "url": "https://open.spotify.com/album/7nDBTGFcpgBJ7pO2oEk96m"
+      },
+      "artists": [
+        {
+          "name": "Cem Pilevneli",
+          "url": "https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196617,
+      "name": "Arabesk Par\u00e7alar",
+      "url": "https://open.spotify.com/track/7vQqKSxS9Ja02vsUXxPMIL"
+    },
+    {
+      "album": {
         "name": "Asi",
         "url": "https://open.spotify.com/album/0yoxluWtV2dTiJ1zUch5k5"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 168133,
       "name": "N'olur Gelsen",
       "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"

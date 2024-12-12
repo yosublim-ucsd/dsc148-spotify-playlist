@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "premier amour",
+        "url": "https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "premier amour",
+      "url": "https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH"
+    },
+    {
+      "album": {
         "name": "Providential",
         "url": "https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx"
       },

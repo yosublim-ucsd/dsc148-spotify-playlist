@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/7wkijuYzRl2NLikrxIKeIg"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199104,
+      "name": "Ahhhh Shit Gah Damn",
+      "url": "https://open.spotify.com/track/4v5H9VnpVrH7YSkRzWo2Po"
+    },
+    {
+      "album": {
         "name": "riBBon",
         "url": "https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw"
       },
@@ -4131,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244616,
+      "name": "Meet Me Outside",
+      "url": "https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU"
+    },
+    {
+      "album": {
         "name": "Shadow of a Doubt",
         "url": "https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI"
       },
@@ -5316,6 +5360,24 @@
       "duration_ms": 185413,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX"
+    },
+    {
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153020,
+      "name": "Party Girl Anthem",
+      "url": "https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0"
     },
     {
       "album": {

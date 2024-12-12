@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from ROSÉ \(pictured\), Hozier, Sam Fender and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,026 likes - 114 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,025 likes - 114 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [Weight Of Love](https://open.spotify.com/track/4oZFbiHjc9zyT5gfce0rA1) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Weight of Love](https://open.spotify.com/album/1BLv0BqYyWjXSBaWD2upZm) | 3:21 |
 | 96 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
 | 97 | [Hard To Come Back](https://open.spotify.com/track/1UDUTcIudrSTylbKaOc0PE) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Hard To Come Back](https://open.spotify.com/album/4JEYYlS3SsuBFQGyiICONN) | 3:30 |
-| 98 | [Magic power](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic power](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 98 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 99 | [Pain Away](https://open.spotify.com/track/5a0NvHhS0BUHwbMDG5HfUA) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Pain Away](https://open.spotify.com/album/0RtFCXDMvtcW6fYRQPGSvN) | 6:02 |
 | 100 | [Someday we'll meet on Brooklyn Bridge \(until then bitch wtf\)](https://open.spotify.com/track/4cOZWqedZPsiU1EwvuI7tH) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [NY ILY](https://open.spotify.com/album/1IEb15iOYgaxC1BLlgSj6P) | 1:37 |
 | 101 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |

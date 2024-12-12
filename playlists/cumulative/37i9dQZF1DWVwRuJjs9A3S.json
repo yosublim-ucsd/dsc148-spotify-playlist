@@ -1424,12 +1424,12 @@
       },
       "artists": [
         {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
-        },
-        {
           "name": "GUZO",
           "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        },
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
         }
       ],
       "date_added": "2024-11-28",

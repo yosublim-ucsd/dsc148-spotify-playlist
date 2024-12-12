@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 ### [RADAR US 2024](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new artists this year, featuring our newest RADAR artist Bossman Dlow
+> The most exciting new artists this year, featuring our newest RADAR artist BossMan Dlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,286 likes - 76 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,325 likes - 76 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 75 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
 | 76 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
 
-Snapshot ID: `Z1hzkAAAAADTeOStvhKgO90Z8kuCADd8`
+Snapshot ID: `Z1mkpAAAAACxLqcUPhIt4vpvEKUySeU1`

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Taylor Acorn
 
-836 songs - 1 day 19 hr 2 min
+837 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [BETTER OFF DEAD](https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:35 | 2022-07-07 | 2023-03-18 |
 | [better than this](https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [better than this](https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK) | 2:58 | 2024-03-08 |  |
 | [Betterman](https://open.spotify.com/track/1OJX5Rkvu0NfzIywy4Re9U) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:59 | 2022-03-17 | 2022-07-13 |
-| [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-04-07 |  |
+| [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-04-07 | 2024-12-12 |
 | [Big Vibe](https://open.spotify.com/track/2PngCwZWLZNCu7c0hXc4jm) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Big Vibe](https://open.spotify.com/album/0gUxDoPxN62xIQrtbWeCCS) | 3:38 | 2022-03-24 | 2022-07-19 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2022-03-17 | 2022-07-29 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-07-07 | 2023-03-18 |
@@ -540,6 +540,7 @@
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-06-30 | 2022-08-02 |
 | [nostalgic \(luvsick\)](https://open.spotify.com/track/1DQj87dLf0PPrpEjvBgHXP) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [nostalgic \(luvsick\)](https://open.spotify.com/album/5DHL2kzqmvPTRwE5JJbUsK) | 2:45 | 2022-03-17 | 2022-06-14 |
 | [Not Alone but Not with You](https://open.spotify.com/track/5hZO5WBJ7VMz32k5cWJqrR) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Not Alone but Not with You](https://open.spotify.com/album/2u0yO4hKy30s3HzMBBe6Il) | 2:48 | 2022-03-24 | 2022-04-15 |
+| [Not Sorry](https://open.spotify.com/track/4QP0AlgrhqOsOZE8MfxHzG) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Not Sorry](https://open.spotify.com/album/0YFlVIxOhQRKiNCpY5wE4G) | 2:56 | 2024-10-11 |  |
 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 | 2023-10-06 |  |
 | [Nothing Breaks Like A Heart](https://open.spotify.com/track/2ERicIur5ytRZhi554bMsr) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/26KH76C2A8lS48PEQ3JZHD) | 3:41 | 2022-03-17 | 2022-04-20 |
 | [Nothing Else Matters](https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [Nothing Else Matters](https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w) | 6:35 | 2022-03-24 | 2022-04-18 |

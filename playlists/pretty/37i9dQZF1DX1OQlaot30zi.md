@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Rkomi, Geolier, Rondo, Nitro e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,665 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,697 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tutti i giorni](https://open.spotify.com/track/5z1XCZMzScqeqCe4iUh3WA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:18 |
-| 2 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 |
+| 2 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 |
 | 3 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
 | 4 | [odio, quindi sono.](https://open.spotify.com/track/4UTx1CIrOJUR9VZ6lwCtK8) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [odio, quindi sono.](https://open.spotify.com/album/6IDuJVEt2aKMUfLodfTuB0) | 2:07 |
 | 5 | [FERRARI \(from "Uonderbois"\)](https://open.spotify.com/track/6RJW9DiBr1RDjgT4GdCSp7) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [ROOM9](https://open.spotify.com/artist/3k3lLcA3Yy5tW7yhdFaDzU) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ) | 2:43 |

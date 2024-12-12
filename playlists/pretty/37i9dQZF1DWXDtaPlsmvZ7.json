@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 112774,
+  "num_followers": 112805,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -663,24 +663,8 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Te Robar\u00e9",
-        "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
       },
       "artists": [
         {
@@ -688,17 +672,29 @@
           "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
         },
         {
-          "name": "Mozthaza",
-          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
-        },
-        {
-          "name": "Megablock",
-          "url": "https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw"
+          "name": "Max Fernandez",
+          "url": "https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51"
         }
       ],
-      "duration_ms": 210050,
-      "name": "Te Robare",
-      "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
+      "duration_ms": 103284,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -787,18 +783,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
+        "name": "Te Robar\u00e9",
+        "url": "https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C"
       },
       "artists": [
         {
-          "name": "Maricarmen Marin",
-          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+          "name": "CantoParaBailar",
+          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
+        },
+        {
+          "name": "Mozthaza",
+          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
+        },
+        {
+          "name": "Megablock",
+          "url": "https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw"
         }
       ],
-      "duration_ms": 229779,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
+      "duration_ms": 210050,
+      "name": "Te Robare",
+      "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -819,6 +823,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb"
+      },
+      "artists": [
+        {
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
+        }
+      ],
+      "duration_ms": 229779,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Jurabas Tu",
         "url": "https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 191205,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
-      },
-      "artists": [
-        {
-          "name": "CantoParaBailar",
-          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
-        },
-        {
-          "name": "Max Fernandez",
-          "url": "https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51"
-        }
-      ],
-      "duration_ms": 103284,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
+        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 196556,
       "name": "Y como es el",
       "url": "https://open.spotify.com/track/1yBWVlFXC1AJ24UwuL147W"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
-        "url": "https://open.spotify.com/album/2zTSfpbKycKhOo3hwh8OEj"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/5XyItd5rFfdtoJsWHxON5x"
     },
     {
       "added_at": "2022-05-06 18:26:25",

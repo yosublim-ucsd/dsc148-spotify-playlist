@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,065 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,079 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 23 | [J'entends siffler le train](https://open.spotify.com/track/0nxE1Ed9fbfLw6oVHR6N3N) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Nouvelle Vague](https://open.spotify.com/album/3RD8OwrRIVqE37lTzqD0XD) | 3:23 |
 | 24 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
 | 25 | [Ces bottes sont faites pour marcher](https://open.spotify.com/track/3YagVqK6nD7lz7T6knjKVy) | [Eileen](https://open.spotify.com/artist/2AocfyglsHV2wP3IobPCyH) | [Salut les copains](https://open.spotify.com/album/53zZVigzEiUdLMAQQhs5Zj) | 2:33 |
-| 26 | [Mes mains sur tes hanches](https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v) | [Adamo](https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon) | [20 Chansons D'or](https://open.spotify.com/album/6BbnudpBxhrGGLTHfc3nC0) | 2:58 |
+| 26 | [Mes mains sur tes hanches](https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [20 Chansons D'or](https://open.spotify.com/album/6BbnudpBxhrGGLTHfc3nC0) | 2:58 |
 | 27 | [Souvenirs, souvenirs](https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Souvenirs, Souvenirs](https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL) | 2:09 |
 | 28 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 |
 | 29 | [Le temps de l'amour](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise Hardy \(Tous les garçons et les filles\)](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |

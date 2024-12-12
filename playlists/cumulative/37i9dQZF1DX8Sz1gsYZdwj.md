@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-213 songs - 10 hr 10 min
+214 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2023-02-28 | 2023-04-01 |
 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 | 2021-11-09 | 2022-02-01 |
 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 | 2021-11-09 | 2023-04-01 |
+| [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 | 2024-12-11 |  |
 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 | 2023-09-29 |  |
 | [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Debussy: Préludes Books 1 & 2](https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE) | 2:30 | 2021-11-09 | 2022-07-29 |
 | [Préludes / Book 1, L\. 117: 8\. La fille aux cheveux de lin](https://open.spotify.com/track/200gL9XQL8v2qF7aMPEJqf) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Rodolphe Kars](https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj) | [Classical Music for the Background: Debussy](https://open.spotify.com/album/1Sgj1bRUQWgp1FAzUbAtMn) | 2:30 | 2022-06-21 | 2022-11-12 |

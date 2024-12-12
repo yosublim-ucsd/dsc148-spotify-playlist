@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Disco Dancer
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,727 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,728 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 30 | [Gunmaster G\-9](https://open.spotify.com/track/6kAVYOf6CbuLO7odHTiRJu) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Annette Pinto](https://open.spotify.com/artist/1iAJP0fds4MdLGjha2ahDt) | [Surakksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y96C5codhCZcwTr8inaLU) | 5:17 |
 | 31 | [Dance Dance \- Duet](https://open.spotify.com/track/56bc1nyaqAvnEa6dT4UqHu) | [Salma Agha](https://open.spotify.com/artist/7liaWSL1uPVjIrnYSFDB6V), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 3:14 |
 | 32 | [Kasam Paida Karnewale](https://open.spotify.com/track/2tLBrpJMO18jFGGgbuzvUQ) | [Salma Agha, Bappi Lahiri, Chorus, Vijay Benedict](https://open.spotify.com/artist/4mT0O2ROvB6iOgP88gy1Bc) | [Kasam Paida Karnewale Ki](https://open.spotify.com/album/3TfLldnWadz6Ge9auIgY3J) | 6:24 |
-| 33 | [Tonight Pyar Karo \- Dilwaala / Soundtrack Version](https://open.spotify.com/track/319BDWEAkwIc3EaP3CkHHj) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Dilwaala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3STlTkACurScBBxK9wyt8r) | 7:15 |
+| 33 | [Tonight Pyar Karo \- From Dilwaala](https://open.spotify.com/track/319BDWEAkwIc3EaP3CkHHj) | [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR), [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Dilwaala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3STlTkACurScBBxK9wyt8r) | 7:15 |
 | 34 | [Udi Baba](https://open.spotify.com/track/4cdy3F7hCRFN8HvVIdOFTq) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Vidhaata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UaPWSo0xzoG0X82x7TZdw) | 6:23 |
 | 35 | [Aao Na \- Album \- Disco Deewane](https://open.spotify.com/track/2AGXWUWXVW6DhJrYKh6URU) | [Nazia Hassan](https://open.spotify.com/artist/24KTBDEHtwwayNVpFuR9Vg) | [Disco Deewane](https://open.spotify.com/album/5r0Od0pl5HlKmlEgnnYOkl) | 4:09 |
 | 36 | [Jawani Ka Khazana](https://open.spotify.com/track/5qaf3C1AnZgvuGnuY8SMgL) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:57 |

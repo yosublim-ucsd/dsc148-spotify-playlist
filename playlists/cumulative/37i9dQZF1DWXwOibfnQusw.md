@@ -4,7 +4,7 @@
 
 > Music Cristiana para toda la familia!
 
-30 songs - 1 hr 32 min
+33 songs - 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [Cantaré De Tu Amor](https://open.spotify.com/track/3gvQe9l5zzT6JCZKt41M4C) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:44 | 2024-07-29 |  |
 | [Canto Y Danzo](https://open.spotify.com/track/0Qz876escsK5OE7Kh9GlUx) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [El Soñador José](https://open.spotify.com/album/29HHbyXKvWniZ1Rvr96qFP) | 2:38 | 2024-07-29 |  |
 | [Como Jesús Crecía](https://open.spotify.com/track/6GB6oHGwVjhs4SMBtNjXCa) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [Como Jesús Crecía](https://open.spotify.com/album/2u65Dk4dr6tNs1Ecp4qyCd) | 3:25 | 2024-07-29 |  |
+| [Creo en Ti](https://open.spotify.com/track/1RQnDgL3pRJzMUhog19Rol) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Creo en Ti](https://open.spotify.com/album/3BPOlDBdVoKcKSIkyjzk1V) | 3:22 | 2024-12-11 |  |
 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 | 2024-07-29 |  |
-| [David](https://open.spotify.com/track/3PTIIq2YdFK9rA27qRqvKX) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta y Rie 3: La Salvacion Llego](https://open.spotify.com/album/2K5F34TEadxMstfXadOzCV) | 4:03 | 2024-07-29 |  |
+| [David](https://open.spotify.com/track/3PTIIq2YdFK9rA27qRqvKX) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta y Rie 3: La Salvacion Llego](https://open.spotify.com/album/2K5F34TEadxMstfXadOzCV) | 4:03 | 2024-07-29 | 2024-12-12 |
 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 | 2024-07-29 |  |
 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 | 2024-07-29 |  |
 | [El Amor de Dios](https://open.spotify.com/track/6i1GoQfwJdUvfibndDr5wE) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [La Colección](https://open.spotify.com/album/7IGAlGGKOpouXhOr9QY4oZ) | 3:02 | 2024-07-29 |  |
@@ -29,10 +30,12 @@
 | [Jesús, Mi Salvador](https://open.spotify.com/track/3ryVGls7EECMk2qlXySJDm) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 4:20 | 2024-07-29 |  |
 | [La Creación](https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N) | [Generación 12 Kids](https://open.spotify.com/artist/7jfaTHsGjDNbLdpdJI29TK) | [La Creación](https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC) | 3:09 | 2024-07-29 |  |
 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 | 2024-07-29 |  |
-| [Me Gusta \(I Like To\)](https://open.spotify.com/track/1Q08ubt8wyjJCduE4aWgmK) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Pequeña Fiesta de Alabanza](https://open.spotify.com/album/2ZwuvMSmaDsKm3MON6B8o1) | 2:54 | 2024-07-29 |  |
+| [Me Gusta \(I Like To\)](https://open.spotify.com/track/1Q08ubt8wyjJCduE4aWgmK) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Pequeña Fiesta de Alabanza](https://open.spotify.com/album/2ZwuvMSmaDsKm3MON6B8o1) | 2:54 | 2024-07-29 | 2024-12-12 |
 | [Mi Amigo Jesús](https://open.spotify.com/track/0EnosQiDCS467jQAvdEudf) | [La Patrulla del Rey](https://open.spotify.com/artist/1vrY5zhvK8YoWb5WO2FI4k), [Daniel Donoso](https://open.spotify.com/artist/1m82ijq3dIHYWlTIhj02Ge) | [Mi Amigo Jesús](https://open.spotify.com/album/5aACZqsXDA7iOFX1rE0Vgj) | 3:03 | 2024-07-29 |  |
+| [Pegao \- Kids](https://open.spotify.com/track/6FpZ4f3xXCbArrZHkvv0av) | [Luis Fabián](https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2), [Emma Peña](https://open.spotify.com/artist/4cSINVqJU0O5L7UgmS5jyi) | [Pegao \(Kids\)](https://open.spotify.com/album/2xpbPqzlMUcNKQ4KTiCsuI) | 4:00 | 2024-12-11 |  |
 | [Si Eres Salvo](https://open.spotify.com/track/6LY9UlVswxc4R3RtzSxouF) | [Coro Infantil Cristiano](https://open.spotify.com/artist/6E0LodQTq30M17K3nPLuwn) | [Musica Cristiana Para Niños Vol\. 2](https://open.spotify.com/album/5DYOxnikvoQMkOW0jWqLME) | 1:04 | 2024-07-29 |  |
-| [Siempre Que Me Muevo](https://open.spotify.com/track/0Fgw63W36eo8Ucq1jQVRxN) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 3:11 | 2024-07-29 |  |
+| [Siempre Que Me Muevo](https://open.spotify.com/track/0Fgw63W36eo8Ucq1jQVRxN) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 3:11 | 2024-07-29 | 2024-12-12 |
+| [Siempre Que Me Muevo](https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Siempre Que Me Muevo](https://open.spotify.com/album/3OpO3LBKii51mIGwH8uxBz) | 3:06 | 2024-12-11 |  |
 | [Soldado Soy de Jesus \- Infantil](https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:00 | 2024-07-29 |  |
 | [Tanto, Tanto](https://open.spotify.com/track/5BCH1ZplYx6KHsXN59Mn9e) | [Xtreme Kids](https://open.spotify.com/artist/6cf6SfcHT6kRhSFghWqEId) | [Jesús Es Super Fuerte](https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP) | 3:13 | 2024-07-29 |  |
 | [Todo Lo Hizo Jesus](https://open.spotify.com/track/39XKrFt3TEHoh4CBm52ZcG) | [Francisco Orantes](https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE) | [Con Amor A Los Niños 2](https://open.spotify.com/album/1bGAL0orPv8S5ZM11wbRV3) | 3:16 | 2024-07-29 |  |

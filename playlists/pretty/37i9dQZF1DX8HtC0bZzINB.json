@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 100410,
+  "num_followers": 100412,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Bul Beni",
-        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
+        "name": "Pofuduk",
+        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
       },
       "artists": [
         {
           "name": "Ezhel",
           "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 154173,
-      "name": "Bul Beni",
-      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
+      "duration_ms": 142855,
+      "name": "Pofuduk",
+      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -455,22 +459,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Pofuduk",
-        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
+        "name": "Bul Beni",
+        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
       },
       "artists": [
         {
           "name": "Ezhel",
           "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 142855,
-      "name": "Pofuduk",
-      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
+      "duration_ms": 154173,
+      "name": "Bul Beni",
+      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
     },
     {
       "added_at": "2024-07-08 08:41:13",

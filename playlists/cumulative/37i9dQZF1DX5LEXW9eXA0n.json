@@ -20982,7 +20982,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 275000,
       "name": "To my distant friend",
       "url": "https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy"
@@ -21254,6 +21254,24 @@
       "duration_ms": 218179,
       "name": "Tree",
       "url": "https://open.spotify.com/track/6GvZ3jcbYhdsKeZGLnwE76"
+    },
+    {
+      "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "album": {

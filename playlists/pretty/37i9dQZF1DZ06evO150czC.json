@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20765,
+  "num_followers": 20774,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAABzzDrxdLfI76V+/qSldtYk",
+  "snapshot_id": "Z1eEgAAAAADehZwg0gsDG5mUzDb1YOJt",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguenta Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
       },
@@ -275,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
       "artists": [
         {
@@ -284,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 290481,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -307,22 +323,6 @@
       "duration_ms": 324893,
       "name": "Job",
       "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00fastico Esta\u00e7\u00f5es Ver\u00e3o - Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/34N0c8TFf0u5vSN5lVFbz7"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 300196,
       "name": "Metade do Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/4YwzfaloVUC1JXkSSYNBaz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,043 songs - 4 day 19 hr 42 min
+2,044 songs - 4 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1366,6 +1366,7 @@
 | [Play It Cool](https://open.spotify.com/track/3AUbzUkd6WtADkQhPkv6Y5) | [Markus Martinez](https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0), [DØSHI](https://open.spotify.com/artist/6Qq7ljz7f3hMO8uWDIDcuS) | [Play It Cool](https://open.spotify.com/album/4v7WCGOjx96P2QwLDeCn74) | 2:39 | 2023-12-22 | 2024-01-06 |
 | [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/track/3QiokeqGnSusb9wbl7rtsV) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Play Me \(feat\. Everyone You Know\)](https://open.spotify.com/album/44XyYHHyZUyRuisxaX5Xvo) | 2:55 | 2022-07-29 | 2022-08-06 |
 | [Playgirl](https://open.spotify.com/track/2jSVEKqpZeurg7TOw7rhyu) | [Forbid](https://open.spotify.com/artist/2ohXUD9RjzrInO4lKKSXJ0) | [Playgirl](https://open.spotify.com/album/7n5GXUnDUYgC6xDl5QrGZG) | 3:15 | 2024-06-13 | 2024-07-08 |
+| [Playing Games](https://open.spotify.com/track/67253yLADMwQMXyzUV4aOj) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Third Place](https://open.spotify.com/album/393Rpf1n6DxTvlmNF3h2b9) | 3:33 | 2024-12-11 |  |
 | [Playin’ Around](https://open.spotify.com/track/3FJbcgGXTXqVsdbqTUSkCB) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB), [Samuele Scelfo](https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H) | [Playin’ Around](https://open.spotify.com/album/01rvS6mmGjIslWyEVT1Hco) | 2:33 | 2023-01-13 | 2023-01-22 |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-04 | 2023-08-12 |
 | [Poison \- Miane Remix](https://open.spotify.com/track/1d3Eb4PWk24woAfg2YaDsd) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/51TtzHlZRMD7Vxky2YUOPW) | 2:32 | 2022-11-05 | 2022-11-12 |

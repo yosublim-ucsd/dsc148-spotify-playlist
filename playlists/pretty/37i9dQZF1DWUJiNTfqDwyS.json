@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Gojira",
-  "num_followers": 378376,
+  "num_followers": 378387,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 380640,
       "name": "Simple Man - 2005 Remaster",
       "url": "https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/5NWxOLcBy2QEaNnTUgpIzy"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Gimme Shelter",
-        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
+        "name": "Get Lucky",
+        "url": "https://open.spotify.com/album/2Eoaduo9ZMLpHLgPu0TYOF"
       },
       "artists": [
         {
-          "name": "PAIN",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 238317,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/4vByc3cAAtDeY1IsenYxze"
     }
   ],
   "unique_name": "Metal Covers",

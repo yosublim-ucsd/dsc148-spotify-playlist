@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain]
 
 > Tranquil flute music from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,117 likes - 150 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,237 likes - 150 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

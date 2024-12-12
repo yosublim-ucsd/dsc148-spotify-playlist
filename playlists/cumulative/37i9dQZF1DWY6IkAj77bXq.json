@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Aspect of Mind",
+        "url": "https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0"
+      },
+      "artists": [
+        {
+          "name": "Kunushevci",
+          "url": "https://open.spotify.com/artist/2Etal9cBcsTP6maAdJEWZl"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "Aspect of Mind",
+      "url": "https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq"
+    },
+    {
+      "album": {
         "name": "Aube",
         "url": "https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 181846,
       "name": "Beautiful Awakening",
       "url": "https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul"
@@ -434,6 +452,24 @@
       "duration_ms": 164210,
       "name": "Blissful",
       "url": "https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP"
+    },
+    {
+      "album": {
+        "name": "Blue Dreams",
+        "url": "https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175423,
+      "name": "Blue Dreams",
+      "url": "https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 160000,
       "name": "Easy Mind",
       "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
@@ -1589,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Gust Of Emotion",
+        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Gust Of Emotion",
+      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
+    },
+    {
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
       },
@@ -1852,7 +1906,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 196748,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/4HyKtaIP1Lozq8Bs8JKQKa"
@@ -2580,7 +2634,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 178500,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
@@ -3840,7 +3894,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 162028,
       "name": "Unawareness",
       "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"

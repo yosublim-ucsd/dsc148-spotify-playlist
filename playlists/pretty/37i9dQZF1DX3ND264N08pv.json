@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 77908,
+  "num_followers": 77923,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "Viens je t'emm\u00e8ne",
+        "url": "https://open.spotify.com/album/0yjaLZtMyOWb0Y4o6ziT03"
+      },
+      "artists": [
+        {
+          "name": "D-Frek",
+          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
+        }
+      ],
+      "duration_ms": 194937,
+      "name": "Viens je t'emm\u00e8ne",
+      "url": "https://open.spotify.com/track/4nKtQohelkyxRL4YMXarlq"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 176937,
       "name": "The End",
       "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "Viens je t'emm\u00e8ne",
-        "url": "https://open.spotify.com/album/0yjaLZtMyOWb0Y4o6ziT03"
-      },
-      "artists": [
-        {
-          "name": "D-Frek",
-          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
-        }
-      ],
-      "duration_ms": 194937,
-      "name": "Viens je t'emm\u00e8ne",
-      "url": "https://open.spotify.com/track/4nKtQohelkyxRL4YMXarlq"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -407,26 +407,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "BANG BANG",
-        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 168003,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "In Synergy",
         "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 180571,
       "name": "Game Of Hate",
       "url": "https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/4NknmJjW2wUwfdZiAJksX4"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 168003,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/3EpRJN0najsfQrBCsTtVWI"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "The Apocalypse",
-        "url": "https://open.spotify.com/album/0isNxwaR0jiaJwNMrGRUiZ"
-      },
-      "artists": [
-        {
-          "name": "ALBINO",
-          "url": "https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b"
-        },
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "The Apocalypse",
-      "url": "https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "HYPER",
         "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
+        "name": "The Apocalypse",
+        "url": "https://open.spotify.com/album/0isNxwaR0jiaJwNMrGRUiZ"
+      },
+      "artists": [
+        {
+          "name": "ALBINO",
+          "url": "https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b"
+        },
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "The Apocalypse",
+      "url": "https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
         "name": "Meteor",
         "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
@@ -839,22 +839,18 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "The Light (Defqon.1 2024 BLACK OST)",
-        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
       },
       "artists": [
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        },
-        {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 215785,
-      "name": "The Light (Defqon.1 2024 BLACK OST)",
-      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -879,18 +875,38 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+        "name": "The Light (Defqon.1 2024 BLACK OST)",
+        "url": "https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
+      "duration_ms": 215785,
+      "name": "The Light (Defqon.1 2024 BLACK OST)",
+      "url": "https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 202575,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 202575,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
       },
@@ -947,26 +947,6 @@
       "duration_ms": 175800,
       "name": "Raven",
       "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
-    },
-    {
-      "added_at": "2024-11-18 18:24:11",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -991,22 +971,22 @@
     {
       "added_at": "2024-11-18 18:24:11",
       "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         },
         {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
+      "duration_ms": 195600,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5"
     },
     {
       "added_at": "2024-11-18 18:24:11",
@@ -1027,6 +1007,26 @@
       "duration_ms": 188000,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
+    },
+    {
+      "added_at": "2024-11-18 18:24:11",
+      "album": {
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-11-18 18:24:11",

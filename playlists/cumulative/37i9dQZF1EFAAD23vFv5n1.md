@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 6 hr 5 min
+134 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Appassire](https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Appassire](https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX) | 2:46 | 2024-09-15 |  |
 | [Asfalto](https://open.spotify.com/track/0h6zzKCpqIQwCetFJWhd8f) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:45 | 2024-04-29 |  |
 | [asimmetrico v10](https://open.spotify.com/track/79w1RDXWcQxtgjWn3ca4iZ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:04 | 2024-04-29 |  |
+| [Baby](https://open.spotify.com/track/6pGsdKu9meinWCqFDiD94g) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:13 | 2024-12-11 |  |
 | [Baciami baciami](https://open.spotify.com/track/3Dg0rXmO0ALolVkIQwW7mO) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:41 | 2024-04-29 |  |
 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 | 2024-04-29 |  |
 | [Banana](https://open.spotify.com/track/7lfhbKPw3ne71I57lAGQXV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Banana](https://open.spotify.com/album/0Rt92Xa4ng0V0cmmXCPf9Y) | 1:51 | 2024-09-23 |  |
@@ -36,6 +37,7 @@
 | [Cose che si dicono](https://open.spotify.com/track/0NITryefiKERw6elK9pvnU) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:22 | 2024-05-19 |  |
 | [CRISI v8](https://open.spotify.com/track/3ZITsuxamXIoDlyy4Fi2Wt) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:13 | 2024-04-29 |  |
 | [Crocefisso](https://open.spotify.com/track/1QcuCNj4hNFyRNaqvazuSN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:54 | 2024-04-29 |  |
+| [Direzione](https://open.spotify.com/track/11t5LWMbPP6uNxxw5mFzfh) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:53 | 2024-12-11 |  |
 | [Disobbedisco](https://open.spotify.com/track/4GvkPq3xIcX1UoAVMjGJVG) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Disobbedisco](https://open.spotify.com/album/4yhNHgYzSssaWqzRCgacgM) | 1:46 | 2024-04-29 |  |
 | [DNA](https://open.spotify.com/track/2MJAVrhgJRMK0ONG3N9vpv) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:09 | 2024-04-29 |  |
 | [Draghi](https://open.spotify.com/track/6L3KJV18NMuSz9QLoamsZQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Draghi](https://open.spotify.com/album/5C2FXB6ueDnXQnrZTgQ61J) | 3:32 | 2024-04-29 |  |
@@ -59,8 +61,10 @@
 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 |  |
 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 | 2024-04-29 |  |
 | [Giovani Wannabe](https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:34 | 2024-04-29 |  |
+| [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 | 2024-12-11 |  |
 | [GONNA v5](https://open.spotify.com/track/4CZjgU3YPOiSOqhCIupbhC) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:20 | 2024-04-29 |  |
 | [Hotel Corallo](https://open.spotify.com/track/7tjhWatS9Fha34m8Q9YxKW) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 3:29 | 2024-06-06 |  |
+| [ILY](https://open.spotify.com/track/3xNSenRNckAgpYwgUmCraR) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 2:50 | 2024-12-11 |  |
 | [incantesimi v96](https://open.spotify.com/track/4c77bLupkvrEB6bpmfqFAQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:56 | 2024-04-29 |  |
 | [Incubi](https://open.spotify.com/track/1a8LhS7N0s1HOjJVKlNW31) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:18 | 2024-04-29 |  |
 | [Indico](https://open.spotify.com/track/2jtjPf6vm3hqlO8xGHRN3A) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:55 | 2024-04-29 |  |
@@ -109,11 +113,13 @@
 | [Puoi \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/53uRmYY1yOtme8h215KzOm) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:46 | 2024-04-29 |  |
 | [Radical](https://open.spotify.com/track/29cNIWFw9RJzd4OXsJLCNB) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Radical](https://open.spotify.com/album/7lg6FSoBd77TI3KViyOPoT) | 2:59 | 2024-04-29 | 2024-10-21 |
 | [Radical](https://open.spotify.com/track/2dk6mSHg6VUT7nFfmgGJVa) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:59 | 2024-10-20 |  |
+| [RADIOHEAD](https://open.spotify.com/track/6U8kBbvNRofmeErSEkuowj) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:23 | 2024-12-11 |  |
 | [Regole \(feat\. Carl Brave\)](https://open.spotify.com/track/4odsEF1NXdEeHMzAxcyFKc) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:03 | 2024-04-29 |  |
 | [Ricomincio da tre \(feat\. Fulminacci\)](https://open.spotify.com/track/1Kgamo1ceMHjNvizIFNavf) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CRUSH](https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5) | 3:12 | 2024-04-29 |  |
 | [Ricordati Il Mio Nome](https://open.spotify.com/track/5LxFrMAagVjtAaiYvZ3y3O) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 1:36 | 2024-04-29 |  |
 | [Ricordi](https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:23 | 2024-04-29 |  |
-| [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-10-22 |  |
+| [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-10-22 | 2024-12-12 |
+| [Romantico Ma Muori](https://open.spotify.com/track/0CCWIksRK4Q3um834dNG3a) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 2:46 | 2024-12-11 |  |
 | [Sad Love](https://open.spotify.com/track/3dln34GJ0WsCKixaM1ZoDV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:24 | 2024-04-29 |  |
 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 | 2024-04-29 |  |
 | [Scelte Sbagliate](https://open.spotify.com/track/0m2yFNIjmifqV4aJiYEaSK) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Scelte Sbagliate](https://open.spotify.com/album/69N3eqTYOS0XO2H21bOU3S) | 2:58 | 2024-05-18 |  |

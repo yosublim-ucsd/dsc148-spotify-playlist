@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Öwnboss, Glockenbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,456 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,485 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 36 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
 | 37 | [To France](https://open.spotify.com/track/0Gu2P26kDlGToKeVdVDdmU) | [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [Chris Deelay](https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5) | [To France](https://open.spotify.com/album/7zVzvrDRrhNY5Hny65IjZa) | 2:22 |
 | 38 | [Majnuna](https://open.spotify.com/track/0vRJHjSohvyNnhSQ3HI1Sl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Randoree](https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa) | [Majnuna](https://open.spotify.com/album/74GnYkFWUuQkU7C6Mkbi0d) | 1:38 |
-| 39 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
+| 39 | [It Feels So Good](https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO) | 2:40 |
 | 40 | [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 |
 | 41 | [Alibi \- Tiësto Remix](https://open.spotify.com/track/28mTF5uRWpndySLabPPTZL) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Alibi \(Tiësto Remix\)](https://open.spotify.com/album/2Zh6Oz9pR5zYF3vEno5jV5) | 2:58 |
 | 42 | [Take Ya B](https://open.spotify.com/track/5gqUKrzZUmE3LrQo25iECz) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [Take Ya B](https://open.spotify.com/album/6wpqspqkKxbuJ5lgT4cpke) | 3:24 |

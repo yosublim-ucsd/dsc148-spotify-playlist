@@ -4,13 +4,13 @@
 
 > Have the loveliest little day.
 
-457 songs - 1 day 3 hr 37 min
+458 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16\-18 \- Why You Lacking Energy?](https://open.spotify.com/track/3AbBhCBOitsqgevecNDRbV) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [16\-18 \(Why You Lacking Energy?\)](https://open.spotify.com/album/0F0WaWSKKhjdcJUt0lkaCH) | 3:18 | 2022-06-22 | 2022-07-27 |
 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2023-09-29 | 2024-08-07 |
-| [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 | 2024-07-12 |  |
+| [2much2soon](https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y), [AJSF](https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1) | [2much2soon](https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo) | 3:01 | 2024-07-12 | 2024-12-12 |
 | [501](https://open.spotify.com/track/5Tp6cM02TFg9K1aLKjbeQO) | [Mehalah Ray](https://open.spotify.com/artist/2FyrB3pGnBmM38dqsu4qXK) | [501](https://open.spotify.com/album/02SQmWh56gUEjYFWJjrzhO) | 3:14 | 2022-03-19 | 2022-04-16 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2024-03-22 |  |
 | [A Little Less Bored](https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0) | [Sir Simon](https://open.spotify.com/artist/66s4j0fEi6h0xeQfbh54FP) | [A Little Less Bored](https://open.spotify.com/album/4YbZzBoYBVEZeEceOu85iP) | 3:13 | 2021-11-12 | 2022-07-27 |
@@ -389,6 +389,7 @@
 | [The Breeze](https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Fate](https://open.spotify.com/album/1DW0xzBKWQZnXv4Ypt25LZ) | 3:59 | 2024-03-28 |  |
 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 | 2024-02-18 |  |
 | [The Call](https://open.spotify.com/track/6covI0tCdNCKqp7yoKeUtD) | [Honey Moon](https://open.spotify.com/artist/1BuCh3XyQ6QfIecry9IcUl) | [The Call](https://open.spotify.com/album/03w1adHMnGMw8QSDphpZI2) | 3:39 | 2022-04-08 | 2022-04-23 |
+| [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 | 2024-03-22 |  |
 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 | 2024-02-18 | 2024-06-01 |
 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 | 2023-09-29 |  |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2023-02-03 |  |

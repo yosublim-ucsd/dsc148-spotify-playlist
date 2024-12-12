@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 797590,
+  "num_followers": 797705,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
-      },
-      "artists": [
-        {
-          "name": "Saive",
-          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
-        },
-        {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1031,22 +1011,6 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1087,6 +1051,26 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
+      },
+      "artists": [
+        {
+          "name": "Saive",
+          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+        },
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Perreo (Edit)",
         "url": "https://open.spotify.com/album/6vflECfIgd02x0qNbHpCFi"
       },
@@ -1107,6 +1091,30 @@
       "duration_ms": 164000,
       "name": "Perreo (Edit)",
       "url": "https://open.spotify.com/track/7zAnkRwQJYaWA6LiHeyai3"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Searching for God",
+        "url": "https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        },
+        {
+          "name": "David Satori",
+          "url": "https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF"
+        },
+        {
+          "name": "GLITTER COWBOY",
+          "url": "https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Searching for God",
+      "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1151,6 +1159,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -1171,26 +1195,18 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Searching for God",
-        "url": "https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y"
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
       "artists": [
         {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        },
-        {
-          "name": "David Satori",
-          "url": "https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF"
-        },
-        {
-          "name": "GLITTER COWBOY",
-          "url": "https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ"
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Searching for God",
-      "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1211,22 +1227,6 @@
       "duration_ms": 408750,
       "name": "Isoc\u00e8le",
       "url": "https://open.spotify.com/track/1vTA55KnE5wEsI8E5tp5jc"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Barullo",
-        "url": "https://open.spotify.com/album/0DX3e9I4Y5xz0HwGEawcLF"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "Ant\u00eda Ameixeiras",
-          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "S\u00edsamo",
-      "url": "https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Man Dies Alone",
         "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
       },
@@ -1399,18 +1379,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+        "name": "Barullo",
+        "url": "https://open.spotify.com/album/0DX3e9I4Y5xz0HwGEawcLF"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Ant\u00eda Ameixeiras",
+          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
         }
       ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+      "duration_ms": 206533,
+      "name": "S\u00edsamo",
+      "url": "https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1431,18 +1415,38 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Gotta Let You Go (Radio Mix)",
+        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Gotta Let You Go",
+      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1467,22 +1471,18 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Gotta Let You Go (Radio Mix)",
-        "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "El Mukuka",
-          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 178536,
-      "name": "Gotta Let You Go",
-      "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2024-11-15 10:17:57",

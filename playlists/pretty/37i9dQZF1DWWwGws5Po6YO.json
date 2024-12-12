@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
-  "num_followers": 45504,
+  "num_followers": 45580,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "Continuum 1",
         "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 447000,
-      "name": "25\u00b0C",
-      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+        "name": "Raw Silk Uncut Wood",
+        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
       },
       "artists": [
         {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+      "duration_ms": 600386,
+      "name": "Raw Silk Uncut Wood",
+      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
       "artists": [
         {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
         }
       ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Bassin Bleu",
-        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 359398,
-      "name": "Bassin Bleu",
-      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "Healing Is A Miracle - Extended Versions",
+        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 640034,
+      "name": "Inspirit - Extended Version",
+      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "Selected Works Preview",
         "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Healing Is A Miracle - Extended Versions",
-        "url": "https://open.spotify.com/album/0u6QdELDIZpZ9QTVhIKN9d"
+        "name": "Bassin Bleu",
+        "url": "https://open.spotify.com/album/7tO4ykRDZ6vtuo5c3bmeyB"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
         }
       ],
-      "duration_ms": 640034,
-      "name": "Inspirit - Extended Version",
-      "url": "https://open.spotify.com/track/6lboNI9Zzftv0XV5ycodA7"
+      "duration_ms": 359398,
+      "name": "Bassin Bleu",
+      "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Island Alchemy",
         "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 618138,
       "name": "Myg",
       "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Evensong: Canticles for the Earth",
-        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
-      },
-      "artists": [
-        {
-          "name": "Meg Bowles",
-          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
-        }
-      ],
-      "duration_ms": 351493,
-      "name": "Berceuse for a Star Child",
-      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
         "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
       },
@@ -1247,6 +1231,42 @@
       "duration_ms": 1792000,
       "name": "Sino Algo Que Produce Sombras?",
       "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Evensong: Canticles for the Earth",
+        "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
+      },
+      "artists": [
+        {
+          "name": "Meg Bowles",
+          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
+        }
+      ],
+      "duration_ms": 351493,
+      "name": "Berceuse for a Star Child",
+      "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Humidity",
+        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Nana Pi",
+          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Humidity",
+      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Humidity",
-        "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Nana Pi",
-          "url": "https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Humidity",
-      "url": "https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Nine Spells",
         "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
       },
@@ -1335,38 +1335,6 @@
       "duration_ms": 236286,
       "name": "Cross-Contamination",
       "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 405570,
-      "name": "fountainhead",
-      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Blink a Few Times to Clear Your Eyes",
-        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
-      },
-      "artists": [
-        {
-          "name": "Grand River",
-          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
-        }
-      ],
-      "duration_ms": 431187,
-      "name": "Canopies",
-      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1411,6 +1379,38 @@
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+      },
+      "artists": [
+        {
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        }
+      ],
+      "duration_ms": 405570,
+      "name": "fountainhead",
+      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Blink a Few Times to Clear Your Eyes",
+        "url": "https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2"
+      },
+      "artists": [
+        {
+          "name": "Grand River",
+          "url": "https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO"
+        }
+      ],
+      "duration_ms": 431187,
+      "name": "Canopies",
+      "url": "https://open.spotify.com/track/0a0eoEjS94xyr0fohWBs1Y"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Trian",
-        "url": "https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS"
-      },
-      "artists": [
-        {
-          "name": "Claire M Singer",
-          "url": "https://open.spotify.com/artist/19vNq14qOd4uJFqXvSNTfo"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Ce\u00f2",
-      "url": "https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Sky Flesh",
         "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 300000,
       "name": "Harmonices Infinity",
       "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Trian",
+        "url": "https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS"
+      },
+      "artists": [
+        {
+          "name": "Claire M Singer",
+          "url": "https://open.spotify.com/artist/19vNq14qOd4uJFqXvSNTfo"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "Ce\u00f2",
+      "url": "https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv"
     },
     {
       "added_at": "2024-10-22 11:05:55",

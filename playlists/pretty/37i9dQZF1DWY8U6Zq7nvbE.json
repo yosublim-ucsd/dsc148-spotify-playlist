@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2435073,
+  "num_followers": 2435037,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "all night long",
-        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
-      },
-      "artists": [
-        {
-          "name": "Gracie Schram",
-          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "all night long",
-      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 223874,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "what if",
-        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "what if",
-      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
+        "name": "what if",
+        "url": "https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq"
+      },
+      "artists": [
+        {
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "what if",
+      "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
         "name": "When I Get There",
         "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 233150,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
-      },
-      "artists": [
-        {
-          "name": "Claire McCarty",
-          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
-        }
-      ],
-      "duration_ms": 169437,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -395,18 +379,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Claire McCarty",
+          "url": "https://open.spotify.com/artist/28GfREYBUSkSAz6dloYO6K"
         }
       ],
-      "duration_ms": 176542,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+      "duration_ms": 169437,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -439,6 +423,22 @@
       "duration_ms": 189732,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 176542,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
       "artists": [
         {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+          "name": "Nora Levario",
+          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
         }
       ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+      "duration_ms": 178966,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
       },
       "artists": [
         {
-          "name": "Nora Levario",
-          "url": "https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw"
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
         }
       ],
-      "duration_ms": 178966,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Ghost - acoustic",
         "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 151374,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
         "name": "Out Of My Head And Back In My Bed",
         "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2024-10-18 08:01:52",

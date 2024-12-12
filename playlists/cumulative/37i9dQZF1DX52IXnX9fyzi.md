@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-502 songs - 21 hr 43 min
+503 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Tournon](https://open.spotify.com/track/7eKZVHMsyq7BtPJA2O2xvE) | [Pazice](https://open.spotify.com/artist/5so0FZWVgBOL7MDkSueVCj) | [Tournon](https://open.spotify.com/album/0Wk3Fd60WAcDGFZf5esowg) | 2:09 | 2022-04-27 | 2024-04-04 |
 | [Tout Doucement](https://open.spotify.com/track/3q3LCzKr47um4mipbkIplC) | [Marianna Zsuska](https://open.spotify.com/artist/3xUOva5IZhjyBHYJrgM8wJ) | [Tout Doucement](https://open.spotify.com/album/7rUlpRcwrhFkCWUotNDn6a) | 2:22 | 2022-04-14 | 2022-07-16 |
 | [Toys around](https://open.spotify.com/track/0E6dS91D3AYdAKRKTCB5YI) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Toys around](https://open.spotify.com/album/2J6h1TwztBf2EgC7lknGFa) | 2:17 | 2022-10-26 | 2024-10-02 |
+| [Trail of the Ants](https://open.spotify.com/track/0AJoJx7R6E1IAx0no0C5wt) | [Vibrante](https://open.spotify.com/artist/2t36dGg0m10xF5OxOUG6MY) | [Trail of the Ants](https://open.spotify.com/album/3JaSdZJaMkCEc5gw6AgYBU) | 2:52 | 2024-12-11 |  |
 | [Tranquil Landscape](https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Tranquil Landscape](https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta) | 3:07 | 2024-02-02 |  |
 | [Transnistria](https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Transnistria](https://open.spotify.com/album/7nEu7TPJYmOmvOvhG1mUf2) | 1:56 | 2022-04-14 | 2022-09-15 |
 | [Tristesse](https://open.spotify.com/track/4OfvGX9v55SOo2HvLcaqJF) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Bodi's Modus](https://open.spotify.com/album/2WbdFjoGJQPUuVW5yLzWjx) | 3:12 | 2022-04-14 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-526 songs - 1 day 4 hr 43 min
+528 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Priest](https://open.spotify.com/track/6VAlmgM31jc1K7SZrmECRS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:13 | 2024-02-27 |  |
 | [Problem Child](https://open.spotify.com/track/02wIS2Kt8hiL7KrSND7usU) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Taking One for the Team](https://open.spotify.com/album/0cDtMoDHC3Pja0V1qrfBdT) | 3:41 | 2024-02-27 |  |
 | [Prosecco](https://open.spotify.com/track/21RpxKRagsCUsiqJe2zg9Z) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 | 2024-02-27 |  |
+| [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 | 2024-12-11 |  |
 | [Pulling Strings \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/7A0JaeuvnZtv88l2qe9hBT) | [Jason Schmidt](https://open.spotify.com/artist/3XWZn3j3TsvomsnkHoSzCI), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:55 | 2024-02-27 |  |
 | [Pulse](https://open.spotify.com/track/6eydXgcKH53OSL8zWAScHq) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Pulse](https://open.spotify.com/album/3CYt8obLnsidlBTPB1OLHJ) | 3:08 | 2024-02-27 |  |
 | [Put A Diamond In It](https://open.spotify.com/track/3gorRpgFSxRa3iEy5IJeYn) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 3:09 | 2024-02-27 |  |
@@ -466,6 +467,7 @@
 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 | 2024-02-27 |  |
 | [The Kind Of Lover I Am](https://open.spotify.com/track/7jFnNIYbnBeC229ESa8ck0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:09 | 2024-02-27 |  |
 | [The Other Side](https://open.spotify.com/track/3wRXZHoIwbKWYa6URKJ0hN) | [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Second Chance \(Deluxe\)](https://open.spotify.com/album/5FFVCYPpuIAxH4pKowKiR3) | 4:16 | 2024-02-27 |  |
+| [The Point](https://open.spotify.com/track/70QAlstCJ0tRfvo6MkDup4) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 2:43 | 2024-12-11 |  |
 | [The Powerpuff Girls Theme Song \(From "The Powerpuff Girls"\) \- Cover](https://open.spotify.com/track/20y58fuNWqhtHRQ6FN2VjP) | [Kids Superstars](https://open.spotify.com/artist/3SJmOjz3pGeZWrnfHuenDO) | [Netkids, Vol.2 \(Deluxe Edition\)](https://open.spotify.com/album/35oeuIwNaEAU7Wb6SruTEa) | 0:52 | 2024-02-27 |  |
 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 | 2024-02-27 |  |
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2024-03-26 |  |

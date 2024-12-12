@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,925 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,931 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 53 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
 | 54 | [Moonlight Gambler](https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:54 |
 | 55 | [Kisses Sweeter Than Wine](https://open.spotify.com/track/617WaAaVKKOPyYbx04p74h) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Kisses Sweeter Than Wine](https://open.spotify.com/album/2mNxmv5IcoHvwkU7TIAcSI) | 2:13 |
-| 56 | [I Get So Lonely \(When I Dream About You\)](https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC) | [The Four Knights](https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74) | [Oh Baby! Best Of Volume 1 1951\-1954](https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2) | 2:07 |
-| 57 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 |
+| 56 | [Rock and Roll Waltz \- Remastered](https://open.spotify.com/track/1BM4CPEcrkIENsOj8Mp9vd) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/42EkqVk8JTuxWuX1Olhs6h) | 2:58 |
+| 57 | [I Get So Lonely \(When I Dream About You\)](https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC) | [The Four Knights](https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74) | [Oh Baby! Best Of Volume 1 1951\-1954](https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2) | 2:07 |
 | 58 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
 | 59 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
 | 60 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |

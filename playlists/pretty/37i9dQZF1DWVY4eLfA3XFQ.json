@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring IDRIS \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 640308,
+  "num_followers": 640375,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -897,24 +897,28 @@
       "url": "https://open.spotify.com/track/2wMaAledVg5K34rwel94lv"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
+      "added_at": "2024-11-01 05:19:33",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
         }
       ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -953,24 +957,24 @@
       "url": "https://open.spotify.com/track/2ZvNbJB9aVsmaHqwXQLGqX"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
+      "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1333,6 +1337,22 @@
       "url": "https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
+    },
+    {
       "added_at": "2024-11-01 05:19:33",
       "album": {
         "name": "Percolator (Chris Lake & Bontan Remixes)",
@@ -1351,22 +1371,6 @@
       "duration_ms": 199714,
       "name": "Percolator - Chris Lake Remix",
       "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "In The Streets",
-        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "In The Streets",
-      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1833,46 +1837,6 @@
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "When The Bass Kicks In",
-        "url": "https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Teko",
-          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
-        }
-      ],
-      "duration_ms": 193139,
-      "name": "When The Bass Kicks In",
-      "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "GETAWAY",
-        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 163871,
-      "name": "GETAWAY",
-      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "FUKINASTY / Look, Alright",
@@ -1895,6 +1859,46 @@
       "duration_ms": 177923,
       "name": "FUKINASTY",
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "GETAWAY",
+        "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "duration_ms": 163871,
+      "name": "GETAWAY",
+      "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "When The Bass Kicks In",
+        "url": "https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        }
+      ],
+      "duration_ms": 193139,
+      "name": "When The Bass Kicks In",
+      "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1949,22 +1953,6 @@
       "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Lights Out",
@@ -1979,6 +1967,22 @@
       "duration_ms": 218437,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -2121,38 +2125,6 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
-        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215192,
-      "name": "Freaky Feed Me",
-      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Tarantula (Max Styler Remix)",
@@ -2171,6 +2143,38 @@
       "duration_ms": 201243,
       "name": "Tarantula - Max Styler Remix",
       "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Freaky Feed Me / Outlaws (feat. Audio Bullys & Olly Burden)",
+        "url": "https://open.spotify.com/album/0XIJC8hJTQVMZ6Ys6NfziW"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215192,
+      "name": "Freaky Feed Me",
+      "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2229,6 +2233,38 @@
       "url": "https://open.spotify.com/track/4aPdbCnM9rUD6njBcmku9B"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "D.A.N.C.E",
+        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "D.A.N.C.E",
+      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
+    },
+    {
       "added_at": "2024-11-01 05:19:33",
       "album": {
         "name": "Something Real",
@@ -2251,38 +2287,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "D.A.N.C.E",
-        "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
-      },
-      "artists": [
-        {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 155156,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7"
       },
@@ -2295,22 +2299,6 @@
       "duration_ms": 185000,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/1InA5Yfl0vpkI4ljpiXlqt"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Sex Sells",
-        "url": "https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Sex Sells",
-      "url": "https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2327,6 +2315,22 @@
       "duration_ms": 178900,
       "name": "Jump N Twist",
       "url": "https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Sex Sells",
+        "url": "https://open.spotify.com/album/2bTwF2WMPq7DjK8aoC9ZSQ"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Sex Sells",
+      "url": "https://open.spotify.com/track/3RfxKkaMLWzKC5fE7jHSGs"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2381,20 +2385,28 @@
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/0AK8WQVhKdyuRxQZpsFNUz"
+        "name": "COPY ME",
+        "url": "https://open.spotify.com/album/05vj36c9zDX5pDwmEn7DPe"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "Nao Kawamura",
+          "url": "https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2"
+        },
+        {
+          "name": "Anne Futagami",
+          "url": "https://open.spotify.com/artist/30o8SxkhhVXJbqfuz8stn7"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
+      "duration_ms": 267605,
+      "name": "COPY ME",
+      "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
     }
   ],
   "unique_name": "Tech House Operator",

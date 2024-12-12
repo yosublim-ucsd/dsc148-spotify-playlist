@@ -2,14 +2,16 @@
 
 ### [BLEACH](https://open.spotify.com/playlist/37i9dQZF1DXbIwKIKzFFPk)
 
-> Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
+> Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-97 songs - 5 hr 52 min
+103 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["4BLM\_101\_Chokkaku"](https://open.spotify.com/track/7EPpxuf35P66PG5OanwvnR) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 4:05 | 2022-10-06 |  |
 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 | 2022-10-06 |  |
+| [1106 TYBW CH united](https://open.spotify.com/track/3duulixDjQhzgXeSvkLYqA) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:19 | 2024-12-12 |  |
+| [1130 TYBW full orchestra choir](https://open.spotify.com/track/2fu4MJym740h2HZrAglZBW) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 2:41 | 2024-12-12 |  |
 | [a requiem](https://open.spotify.com/track/2XoM32LdvrywWh3ORT48Fz) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 2:27 | 2022-10-06 |  |
 | [ALONES](https://open.spotify.com/track/0iy10nabE2s3PtReQqCGrY) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ALONES](https://open.spotify.com/album/5naYuVLG3O0pRkknlgJ8zu) | 4:21 | 2022-10-06 |  |
 | [Always be with me in mind](https://open.spotify.com/track/1LHCYacwsOlAvYXagFZ4oZ) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:17 | 2022-10-06 | 2022-12-14 |
@@ -22,6 +24,7 @@
 | [chAngE](https://open.spotify.com/track/4dW80zBgl9BfWxi5upKgt1) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [chAngE](https://open.spotify.com/album/1ZHD1VLdV9IiCOhCX7ebew) | 4:09 | 2022-10-06 |  |
 | [CHU\-BURA](https://open.spotify.com/track/1QhuzdwZoBRosGL23nuO6N) | [KELUN](https://open.spotify.com/artist/6nteBNcTu3uxmOYz2Iro7o) | [CHU\-BURA](https://open.spotify.com/album/6MutdUcjr79lhdEDSpeOtM) | 4:34 | 2022-10-06 |  |
 | [clavar la espada](https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 3:39 | 2022-10-06 |  |
+| [Cometh the hour \- avant garde 2023](https://open.spotify.com/track/2qECI47hHx61BnnEF7E2Xc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:05 | 2024-12-12 |  |
 | [cops'n robbers](https://open.spotify.com/track/19pJcdQA78S75KCadE990y) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 1:20 | 2022-10-06 | 2022-12-14 |
 | [creeping shadows](https://open.spotify.com/track/5r7DkkPIs7qXFbtoUEfjcn) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:21 | 2022-10-06 |  |
 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 | 2022-10-06 |  |
@@ -52,6 +55,8 @@
 | [Nothing Can Be Explained \(vocal ver.\)](https://open.spotify.com/track/0XZV1dLrhHyWGFuv87U9ZZ) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 3:27 | 2022-10-06 |  |
 | [Number One \(vocal ver.\)](https://open.spotify.com/track/4BKetvTh5lMcIDlv9tYQgW) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 4:56 | 2022-10-06 |  |
 | [Number One \- Bankai](https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [Number One \- Bankai](https://open.spotify.com/album/5Mw54lDeLc8jfflOUf5dKQ) | 4:36 | 2022-12-13 |  |
+| [Number One \- Bankai](https://open.spotify.com/track/3w5Fha9feEdRp6FZ29tU2O) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 4:46 | 2024-12-12 |  |
+| [On the precipice \- orchestra 2022](https://open.spotify.com/track/3H9YXcstt9Zhr760pyeIVM) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 2:02 | 2024-12-12 |  |
 | [on the precipice of defeat](https://open.spotify.com/track/32SYEk2ksN8iQtz50AtHYj) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 1](https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD) | 2:57 | 2022-10-06 |  |
 | [POWER TO STRIVE](https://open.spotify.com/track/6oJfbR19mNWigjpCYBfuwY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 4](https://open.spotify.com/album/4Ts2JxoesNxryyiBGphX6a) | 2:19 | 2022-10-06 |  |
 | [Principio de lucha](https://open.spotify.com/track/2L5qMBCehiabKLwRs2Cp8b) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:29 | 2022-10-06 |  |
@@ -65,6 +70,7 @@
 | [Sky chord〜大人になる君へ〜](https://open.spotify.com/track/5aTzTSuqEK2iEHnYStp1TJ) | [Shion Tsuji](https://open.spotify.com/artist/4nEJOLgBBjsWUWBMgs3IZG) | [Sky chord〜大人になる君へ〜](https://open.spotify.com/album/6X8YqYIJuQA5zsHIgIGC4A) | 4:24 | 2022-10-06 |  |
 | [Song for...](https://open.spotify.com/track/1ZdjRumIPWUHrCFvloHh7o) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [Song for...](https://open.spotify.com/album/27LH8WxWxmpURPhQzieMIT) | 5:00 | 2022-10-06 |  |
 | [soundscape to ardor](https://open.spotify.com/track/6UdgxspGnRdQ1t6nxCNAFG) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:48 | 2022-10-06 |  |
+| [Soundscape to ardor \- harp 2022](https://open.spotify.com/track/6UZc6aE3Dx1hXcHOa7zvYq) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack Ⅰ](https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N) | 2:53 | 2024-12-12 |  |
 | [Stand Up Be Strong \(Pt\. I\)](https://open.spotify.com/track/72ipPCGWlVXLbh7rZNwh26) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH Fade to Black Original Soundtrack](https://open.spotify.com/album/7nF6pqES1y12VrEnXaGAdk) | 2:24 | 2022-10-06 |  |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-09 |  |
 | [STAY BEAUTIFUL](https://open.spotify.com/track/26uQJZlQ0fcDgq2fJrYBZk) | [Diggy\-MO'](https://open.spotify.com/artist/5GIMsbiSrVJB8dtSeCKY78) | [STAY BEAUTIFUL](https://open.spotify.com/album/2TvUpABENYOk4pcJHwqU34) | 4:46 | 2022-10-06 |  |

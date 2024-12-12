@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover \- Prateeksha Srivastava and Priyanshi Srivastava
 
-904 songs - 2 day 1 hr 36 min
+905 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Everybody Dances To Techno \(Bulli Bainbridge Remix\)](https://open.spotify.com/track/30EYAtDZzwHQQtTJDYXQPu) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ) | [Everybody Dances To Techno \(Bulli Bainbridge Remix\)](https://open.spotify.com/album/7htat6llhvTRAQqauWv0bt) | 2:48 | 2024-05-31 | 2024-07-06 |
 | [Faasle](https://open.spotify.com/track/6F7oLEn3bg46mFhRZ2hy9U) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Faasle](https://open.spotify.com/album/4VuNeUPldnLv7MYO8DOh3D) | 3:14 | 2024-10-25 |  |
 | [Falling Again](https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk) | [Raman](https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8) | [Falling Again](https://open.spotify.com/album/7gXy5Nm7ZRKLzAdFgD2sCi) | 3:48 | 2023-12-01 | 2023-12-09 |
+| [Fanaa](https://open.spotify.com/track/47OAd1FD5sbqn1QVUPRBzb) | [Harmaan Nazim](https://open.spotify.com/artist/2houjCeBb27grJMrMv1swc), [Sarbarish Majumder](https://open.spotify.com/artist/0vPFuipZOpQ4bdAVqR0bs5) | [Fanaa](https://open.spotify.com/album/200SvOTUZmQiqNy3sJBLAP) | 4:46 | 2024-12-06 |  |
 | [Farishtey](https://open.spotify.com/track/1k3i030OvSLAjHf4wv4pf2) | [Siddhant Goenka](https://open.spotify.com/artist/4kgBKXp1xa4tHOwH0MEGdP) | [Farishtey](https://open.spotify.com/album/14fQu5HUVoOZJfd0ApAAuo) | 3:21 | 2024-01-12 | 2024-02-24 |
 | [Farzipaney](https://open.spotify.com/track/1oYNeXaGc3PV5RXlFsHtoX) | [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Farzipaney](https://open.spotify.com/album/0JqQvHfOy2uz5rcHFresMq) | 3:48 | 2024-03-08 | 2024-04-19 |
 | [Feelings](https://open.spotify.com/track/0GP7XgKRqaGsUf0ILvTaDt) | [BAWA](https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR) | [Feelings](https://open.spotify.com/album/2PLq0SQ3zJzt6N7y301pAG) | 2:27 | 2024-01-12 | 2024-02-03 |
@@ -324,7 +325,7 @@
 | [I'm Lost](https://open.spotify.com/track/5WfRAy9N9zpqNABjETWsan) | [Karthik Sambhapur](https://open.spotify.com/artist/3mnwuCeoiNmqQ8sSnNcApJ), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [I'm Lost](https://open.spotify.com/album/6syl0p9pfqObU5mqHwLmDP) | 1:37 | 2023-12-01 | 2023-12-23 |
 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 | 2024-06-28 | 2024-08-03 |
 | [Ibadat](https://open.spotify.com/track/5dVAIwFQL6zh42WhG68ySk) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Ibadat](https://open.spotify.com/album/3jIftDearbbeAnE7Sad8Kd) | 3:02 | 2024-02-23 | 2024-03-30 |
-| [Ik Dafa](https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr), [Kshitij Bhatt](https://open.spotify.com/artist/6HIl9sGdHUrp3IbgnZY5nY), [Edoardo Grassi](https://open.spotify.com/artist/5fqbTsNtJvCUAgunByRDnp) | [Ik Dafa](https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN) | 3:18 | 2024-11-29 |  |
+| [Ik Dafa](https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr), [Kshitij Bhatt](https://open.spotify.com/artist/6HIl9sGdHUrp3IbgnZY5nY), [Edoardo Grassi](https://open.spotify.com/artist/5fqbTsNtJvCUAgunByRDnp) | [Ik Dafa](https://open.spotify.com/album/0cTTS1ZqfV4L5QzecWI7UN) | 3:18 | 2024-11-29 | 2024-12-12 |
 | [Imtihaan](https://open.spotify.com/track/6IT15HLHYs10jq6VOtNwh7) | [Mehak Kaur](https://open.spotify.com/artist/3BKyvED3cIdsCwC2c0hB3V), [Chetna](https://open.spotify.com/artist/7FpN5hS8hNphK0l1X5JxrA), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22) | [Imtihaan](https://open.spotify.com/album/5gm9Iht544NL4K6Yydbx89) | 3:17 | 2024-03-01 | 2024-04-13 |
 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 | 2023-09-29 | 2023-11-18 |
 | [Intezaar](https://open.spotify.com/track/4rin9gU1VxcCESXSGDWF7C) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Neendein](https://open.spotify.com/album/2duQj52ixWnH9cppsg7e63) | 2:36 | 2024-04-12 | 2024-06-08 |

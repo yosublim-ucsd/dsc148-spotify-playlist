@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,719 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,746 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 38 | [Reimemonster \(feat\. Ferris MC\)](https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy) | [Afrob](https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c), [Ferris MC](https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk) | [Rolle mit Hip Hop](https://open.spotify.com/album/6bGk9TnHYMTKsQBpASDu3q) | 3:36 |
 | 39 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
 | 40 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
-| 41 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
-| 42 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 |
-| 43 | [Susanne Zur Freiheit](https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw) | [Fischmob](https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1) | [Power](https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu) | 4:12 |
-| 44 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
+| 41 | [Grüne Brille](https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:50 |
+| 42 | [Ich bin jung und brauche das Geld \(feat\. G\-Style\)](https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [G\-Style](https://open.spotify.com/artist/1lrKKCgkhEG5hY0ogEifVs) | [Ich bin jung und brauche das Geld](https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV) | 4:26 |
+| 43 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
+| 44 | [Susanne Zur Freiheit](https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw) | [Fischmob](https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1) | [Power](https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu) | 4:12 |
 | 45 | [Das Urteil](https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 5:11 |
 | 46 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
 | 47 | [Safari](https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm) | [Blumentopf](https://open.spotify.com/artist/3aVwqkJqkpiRLbM0dVqOz6) | [Großes Kino](https://open.spotify.com/album/3DGtfZr0LuTO6zDMyCUscU) | 4:08 |
 | 48 | [Wenn der Vorhang fällt \(feat\. Wasi\)](https://open.spotify.com/track/5GEPmgYRf9e1hcnsbfG9Rz) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Wasi](https://open.spotify.com/artist/2NtMdOeRgyQObljg0UO3Ft) | [Quadratur des Kreises](https://open.spotify.com/album/3cm3ll1OWaYnTjAsCCvG7W) | 4:15 |
-| 49 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
+| 49 | [Die Abrechnung](https://open.spotify.com/track/3fGDoRUzlcfbawlW6aCXlz) | [Eko Fresh](https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D), [German Dream Allstars](https://open.spotify.com/artist/4v4APTxh7SMlIW7kshRjc5) | [German Dream Allstars](https://open.spotify.com/album/0I3oXP3UnoBGzKAsyPpvxi) | 5:01 |
 | 50 | [Let's Go](https://open.spotify.com/track/1EebWRQAfXwltoDXH2QVK5) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Deluxe Records \- Let's Go](https://open.spotify.com/album/64hi8ncvzVl16X6b5QG2Ff) | 2:48 |
 
 Snapshot ID: `Z1beeAAAAACNHUpVsJXWxRyv3Rdp5I9k`

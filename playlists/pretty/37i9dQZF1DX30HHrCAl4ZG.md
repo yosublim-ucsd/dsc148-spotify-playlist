@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Sharon Van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,236 likes - 108 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,228 likes - 108 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 86 | [Glimpse](https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Glimpse](https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm) | 3:16 |
 | 87 | [Like Nothing](https://open.spotify.com/track/230rjTVkPndyWDJRmyJ4Af) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Like Nothing](https://open.spotify.com/album/6hC1SzHo16p4n8H5JeMIMH) | 2:18 |
 | 88 | [Fantasy](https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Fantasy](https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ) | 4:47 |
-| 89 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
+| 89 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 90 | [Leave A Message \(w/ aldn\)](https://open.spotify.com/track/0WEfQELwVnvx7NutDMr8JZ) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Leave A Message \(w/ aldn\)](https://open.spotify.com/album/0x9LF4xvgEPN511yeQCC3V) | 2:27 |
 | 91 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 |
 | 92 | [sleep study for horses](https://open.spotify.com/track/1dizt9gJSBpZ7FElSHASmt) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [growing old & dying in your sleep](https://open.spotify.com/album/38LAeyGzoZKOYTFwzTky4U) | 4:22 |

@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Days On End",
+        "url": "https://open.spotify.com/album/3fsJkD4GuO8IAQBzxMr0cV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208476,
+      "name": "Days On End",
+      "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
+    },
+    {
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -2423,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168398,
+      "name": "Pieces Of You",
+      "url": "https://open.spotify.com/track/5bQrrbXqR6MDnuyYYuoq7S"
+    },
+    {
+      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -3474,6 +3510,24 @@
       "duration_ms": 216045,
       "name": "Upside Down (feat. Grouplove)",
       "url": "https://open.spotify.com/track/64BbMZRSlJsWRMZAHKnf1u"
+    },
+    {
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192407,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/2soAYfuES5KYsYaBXc1Y9T"
     },
     {
       "album": {

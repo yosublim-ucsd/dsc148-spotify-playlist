@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 61912,
+  "num_followers": 61966,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAAJCu8qB8faByPdUKz/xsIf",
+  "snapshot_id": "Z1eEgAAAAAC+yWTxvHnFsbktMmKxde9X",
   "tracks": [
     {
       "added_at": null,
@@ -1143,6 +1143,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Para\u00edso Que Me Cerca",
+      "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 232096,
+      "name": "Gigantes",
+      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas No Topo 1",
         "url": "https://open.spotify.com/album/32yvq4xZ6Guokmoj0OmdEw"
       },
@@ -1183,54 +1231,6 @@
       "duration_ms": 398478,
       "name": "Poetas No Topo 1",
       "url": "https://open.spotify.com/track/2fQkVgq60aTQbVU1alltey"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 232096,
-      "name": "Gigantes",
-      "url": "https://open.spotify.com/track/6HCOXcDsQnUjQl5FQJvMvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Para\u00edso Que Me Cerca",
-      "url": "https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2"
     },
     {
       "added_at": null,

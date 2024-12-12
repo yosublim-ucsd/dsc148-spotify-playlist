@@ -1449,24 +1449,6 @@
     },
     {
       "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6BbnudpBxhrGGLTHfc3nC0"
-      },
-      "artists": [
-        {
-          "name": "Adamo",
-          "url": "https://open.spotify.com/artist/26ycUCO6mpGAZPw9yHzhon"
-        }
-      ],
-      "date_added": "2021-07-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178266,
-      "name": "Mes mains sur tes hanches",
-      "url": "https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v"
-    },
-    {
-      "album": {
         "name": "Singles + Faces B 1964-1966",
         "url": "https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF"
       },
@@ -1500,6 +1482,24 @@
       "duration_ms": 178266,
       "name": "Mes mains sur tes hanches",
       "url": "https://open.spotify.com/track/5J1vSiDuzEbnkfRLw6T19H"
+    },
+    {
+      "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6BbnudpBxhrGGLTHfc3nC0"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178266,
+      "name": "Mes mains sur tes hanches",
+      "url": "https://open.spotify.com/track/7pYErbyVO59xUZQC08FI2v"
     },
     {
       "album": {

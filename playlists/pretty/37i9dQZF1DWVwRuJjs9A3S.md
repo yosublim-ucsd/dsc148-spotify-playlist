@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Timothée Chalamet
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,385 likes - 106 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,387 likes - 106 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 8 | [Wake Me Up](https://open.spotify.com/track/4qR6ZdTuHGeXdWcKJB7sUA) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Wake Me Up](https://open.spotify.com/album/3IjmE1mPSh09HyJXUtElAN) | 4:15 |
 | 9 | [Gemini](https://open.spotify.com/track/7sWJH0BFbKtV81TWb82lke) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Gemini](https://open.spotify.com/album/7I7f1XESFbZbMvURZ3h7k9) | 4:44 |
 | 10 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
-| 11 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA), [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 |
+| 11 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 |
 | 12 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 13 | [Blockbuster Stereotypes](https://open.spotify.com/track/5tdhZOFvk4RKixIDx4Qtxb) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Blockbuster Stereotypes](https://open.spotify.com/album/4X7idbpXjBQnk5VXvof32T) | 2:29 |
 | 14 | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR) | 3:40 |

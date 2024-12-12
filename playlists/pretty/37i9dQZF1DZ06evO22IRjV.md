@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,018 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,021 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [遥か彼方](https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 4:02 |
 | 50 | [我物語](https://open.spotify.com/track/6Z6WQkTZiGX0nWRhENBi3H) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [CONTiNUE](https://open.spotify.com/album/0eIsz8eZgH87x9ZVSRyirR) | 4:01 |
 
-Snapshot ID: `Z1YzAAAAAACqBqR2HCjo6xRkfossl6AW`
+Snapshot ID: `Z1eEgAAAAAAtjUiAu8lNfkj7ovaEdHxQ`

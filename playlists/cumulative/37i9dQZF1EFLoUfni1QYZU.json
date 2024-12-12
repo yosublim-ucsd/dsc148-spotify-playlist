@@ -562,6 +562,24 @@
     {
       "album": {
         "name": "Superficial",
+        "url": "https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/02OJatulbRVfNyyMzB4eMC"
+    },
+    {
+      "album": {
+        "name": "Superficial",
         "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
       },
       "artists": [
@@ -572,7 +590,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 174960,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0"
@@ -770,10 +788,28 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 213263,
       "name": "I'll Do It",
       "url": "https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/0uXhy2A4GqHT0QGiY5MHNi"
     },
     {
       "album": {
@@ -788,7 +824,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 210346,
       "name": "I'll Do It",
       "url": "https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB"
@@ -1064,6 +1100,24 @@
     {
       "album": {
         "name": "Superficial",
+        "url": "https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "Look How I'm Doin",
+      "url": "https://open.spotify.com/track/1QSeNW2uVPy0gYxdQgVXah"
+    },
+    {
+      "album": {
+        "name": "Superficial",
         "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
       },
       "artists": [
@@ -1074,7 +1128,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 208173,
       "name": "Look How I'm Doin",
       "url": "https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd"
@@ -2335,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/2BDORsyFdITMl6VK2S0Vyx"
+    },
+    {
+      "album": {
         "name": "Lost On You",
         "url": "https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f"
       },
@@ -2574,6 +2646,24 @@
     {
       "album": {
         "name": "Lost On You",
+        "url": "https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251307,
+      "name": "You Want It All",
+      "url": "https://open.spotify.com/track/4dLbEpntPe9g56No8EV6rB"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
         "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
       },
       "artists": [
@@ -2584,7 +2674,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 251307,
       "name": "You Want It All",
       "url": "https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4"

@@ -640,10 +640,28 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 152764,
       "name": "Chains",
       "url": "https://open.spotify.com/track/3Tjzaw3s36JkLACh1XY2Yi"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30a7\u30a4\u30f3\u30ba\u30fb\u30aa\u30d6\u30fb\u30e9\u30f4\u3001\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3\u30fb\u30a4\u30e4\u30fc\u30ba 1962-1964",
+        "url": "https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "CHAINS",
+      "url": "https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k"
     },
     {
       "album": {
@@ -1076,10 +1094,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 168573,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3cv3KYemlKiULGa8DPJnDj"
+      },
+      "artists": [
+        {
+          "name": "Teddy Randazzo",
+          "url": "https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168576,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4H4HjQzUdn4KXqO1mDxqVh"
     },
     {
       "album": {
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 134040,
       "name": "Go Away Little Girl",
       "url": "https://open.spotify.com/track/2kwuLiLoJb0XRjKmHGZFdF"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 131264,
       "name": "Go Away Little Girl (2023 Remastered)",
       "url": "https://open.spotify.com/track/3TNJOWgzYMYtTbVJfD8sPE"
@@ -2212,7 +2248,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 147053,
       "name": "I've Got Bonnie",
       "url": "https://open.spotify.com/track/2hM0XV24liNkxUrErtomeq"
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 147733,
       "name": "I've Got Bonnie",
       "url": "https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0"
@@ -2417,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Playlist: The Best Of Little Eva",
+        "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Just a Little Girl",
+      "url": "https://open.spotify.com/track/0nrcvwY0ZK9slURiw5iDca"
+    },
+    {
+      "album": {
         "name": "The Incredible Little Eva",
         "url": "https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo"
       },
@@ -2428,7 +2482,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 177706,
       "name": "Just a Little Girl",
       "url": "https://open.spotify.com/track/19qa09WjiwykZ9YFi6pEJE"
@@ -2453,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "The Loco-Motion",
+        "url": "https://open.spotify.com/album/52S2Bfn5L5v5W1X8ltnj7I"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152006,
+      "name": "Keep Your Hands off My Baby",
+      "url": "https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI"
+    },
+    {
+      "album": {
         "name": "The Incredible Little Eva",
         "url": "https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo"
       },
@@ -2464,7 +2536,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 152093,
       "name": "Keep Your Hands off My Baby",
       "url": "https://open.spotify.com/track/5DKc9MXYFqwSlKDModKgF9"
@@ -2579,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Playlist: The Best Of Little Eva",
+        "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Let's Start the Party Again",
+      "url": "https://open.spotify.com/track/0JvPb6ORbV97cYyvtZsqSP"
+    },
+    {
+      "album": {
         "name": "The Incredible Little Eva",
         "url": "https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo"
       },
@@ -2590,7 +2680,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 168733,
       "name": "Let's Start the Party Again",
       "url": "https://open.spotify.com/track/7kD0nK8s5uPVf43t4o5lpU"
@@ -4913,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Playlist: The Best Of Little Eva",
+        "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119066,
+      "name": "What I Gotta Do (To Make You Jealous)",
+      "url": "https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU"
+    },
+    {
+      "album": {
         "name": "The Incredible Little Eva",
         "url": "https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo"
       },
@@ -4924,7 +5032,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 119080,
       "name": "What I Gotta Do (To Make You Jealous)",
       "url": "https://open.spotify.com/track/6ehylQ8st5zdD8JM7Q3Z9w"
@@ -5068,10 +5176,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 153623,
       "name": "Will Power",
       "url": "https://open.spotify.com/track/6w1b6BImXLSrtK5ZhytOs2"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30a7\u30a4\u30f3\u30ba\u30fb\u30aa\u30d6\u30fb\u30e9\u30f4\u3001\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3\u30fb\u30a4\u30e4\u30fc\u30ba 1962-1964",
+        "url": "https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ"
+      },
+      "artists": [
+        {
+          "name": "The Cookies",
+          "url": "https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "WILL POWER",
+      "url": "https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4"
     },
     {
       "album": {

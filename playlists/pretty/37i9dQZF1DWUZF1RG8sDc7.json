@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 139881,
+  "num_followers": 139980,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Super Vallenatos 2008",
+        "url": "https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
         "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 294546,
       "name": "En Carne Propia",
       "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Super Vallenatos 2008",
-        "url": "https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w"
-      },
-      "artists": [
-        {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe"
     },
     {
       "added_at": "2024-03-28 01:45:52",

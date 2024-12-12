@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 142293,
       "name": "A Defining Moment",
       "url": "https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod"
@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Absentia",
+        "url": "https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mays",
+          "url": "https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161375,
+      "name": "Absentia",
+      "url": "https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR"
+    },
+    {
+      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/0GPaw2ltzhkjwsVCZaeiDx"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 187026,
       "name": "Along The Willows",
       "url": "https://open.spotify.com/track/20odG080Gaefa2UXl1XZsy"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 138953,
       "name": "Arco",
       "url": "https://open.spotify.com/track/4ysEkzrj9qDMgO9o7834S0"
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 138897,
       "name": "Back There",
       "url": "https://open.spotify.com/track/4sav44BLXb9QUdI4Bul1OV"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 137489,
       "name": "Beck",
       "url": "https://open.spotify.com/track/2gx4U9R8v4vZBcxKIV8oLz"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 143920,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 147500,
       "name": "Chiral",
       "url": "https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 135017,
       "name": "Consolation",
       "url": "https://open.spotify.com/track/10J0Gos6S2zgLbTdmWMAAz"
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 122784,
       "name": "Corrente",
       "url": "https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw"
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 177311,
       "name": "Distant Nights",
       "url": "https://open.spotify.com/track/571Mm5to0AsIT7IPCM5B3E"
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 148600,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ"
@@ -4172,7 +4190,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 139250,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 124723,
       "name": "Feeling for the next",
       "url": "https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw"
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 131032,
       "name": "Fiori d'inverno",
       "url": "https://open.spotify.com/track/2btWmph1fQnDcnzYBJNKmI"
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 135473,
       "name": "Here And There",
       "url": "https://open.spotify.com/track/2MAUyX6uUTlRBNwOnVDqSe"
@@ -5988,7 +6006,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 190250,
       "name": "Husk",
       "url": "https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 155130,
       "name": "Into the Clouds",
       "url": "https://open.spotify.com/track/3wOfAFp0qCR8SWsjfSVoev"
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 134278,
       "name": "Jeg l\u00e6nges",
       "url": "https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK"
@@ -6802,7 +6820,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 196312,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/5D4IkgtTqwgA4hr0gqqeW2"
@@ -6928,7 +6946,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 152555,
       "name": "Keszthely",
       "url": "https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F"
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 132780,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4"
@@ -7810,7 +7828,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 127000,
       "name": "Longitude",
       "url": "https://open.spotify.com/track/4I1mxtKEEH8SKcwumA3rZr"
@@ -8152,7 +8170,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 125385,
       "name": "Ma danse avec toi",
       "url": "https://open.spotify.com/track/0DZwhqf4al0ykWMR9azxz5"
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 214630,
       "name": "Melancholy",
       "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
@@ -8674,7 +8692,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 145027,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/1HNWHlc0OfRnCCeoLAwKzJ"
@@ -8818,7 +8836,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 145933,
       "name": "My beloved",
       "url": "https://open.spotify.com/track/0RG3MSnGOZLDB7ksmWlzDc"
@@ -9052,7 +9070,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 133500,
       "name": "Nature Shift",
       "url": "https://open.spotify.com/track/7a27uUbJdvi6R0n0Z3LF56"
@@ -9232,7 +9250,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 127000,
       "name": "Nordanvind",
       "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
@@ -11122,7 +11140,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 182407,
       "name": "Rhyl Sands",
       "url": "https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt"
@@ -11140,7 +11158,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 175763,
       "name": "Rh\u00f4ne",
       "url": "https://open.spotify.com/track/7xjXwre2UJf8M7GpTvEoIT"
@@ -11608,7 +11626,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 161712,
       "name": "Santos - Lisbon",
       "url": "https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm"
@@ -11864,7 +11882,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 166857,
       "name": "Semele",
       "url": "https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q"
@@ -12728,7 +12746,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 183809,
       "name": "Stars above Andorra",
       "url": "https://open.spotify.com/track/6sRiCZOtYsQn8aBeZEVZcF"
@@ -12970,7 +12988,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 137387,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik"
@@ -13280,7 +13298,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 147577,
       "name": "Tannheimer Tal",
       "url": "https://open.spotify.com/track/1amrAsnnNF1T3asupLTlyu"
@@ -14080,7 +14098,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 133990,
       "name": "The Seventh",
       "url": "https://open.spotify.com/track/6zcqQGrFvzNacJmzAm8Ga0"
@@ -14120,6 +14138,24 @@
       "duration_ms": 136482,
       "name": "The Taste of Snow",
       "url": "https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf"
+    },
+    {
+      "album": {
+        "name": "The Time Remains",
+        "url": "https://open.spotify.com/album/2f5bbjS8nhLHdcVBOhyoxs"
+      },
+      "artists": [
+        {
+          "name": "Sean Larson",
+          "url": "https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "The Time Remains",
+      "url": "https://open.spotify.com/track/3epjWAlUkdNkDrpDL1wNPS"
     },
     {
       "album": {
@@ -14368,7 +14404,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 121732,
       "name": "Toivoa",
       "url": "https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q"
@@ -14606,7 +14642,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 213828,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1be0V9RlpP8vsE78U54E8f"
@@ -14624,7 +14660,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 131500,
       "name": "Trois Temps",
       "url": "https://open.spotify.com/track/4Fn5tV0lVP6ZniRzXwSWEe"
@@ -15794,7 +15830,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 140000,
       "name": "When the leaves start to fall",
       "url": "https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI"
@@ -15902,7 +15938,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 191482,
       "name": "Wieder Zusammen",
       "url": "https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb"

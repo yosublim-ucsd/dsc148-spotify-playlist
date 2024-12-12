@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-564 songs - 1 day 9 hr 43 min
+566 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Let U Go](https://open.spotify.com/track/5n3HwrDGRlUT7SrJCWM4yf) | [Ashley Parker Angel](https://open.spotify.com/artist/1wLeBWSGyI3mnTeiDAcgjP) | [Soundtrack To Your Life](https://open.spotify.com/album/3YczBWpkOC4VexF3vriCJF) | 3:38 | 2024-01-29 | 2024-10-20 |
 | [Lie...It's Alright](https://open.spotify.com/track/2WXfnVVF6PnNDo6FwUIIu5) | [Bo Bice](https://open.spotify.com/artist/2Q1FIPavG8WZF33kqIP3sy) | [The Real Thing](https://open.spotify.com/album/4g0TGHOAnACPsqCwSoOR4m) | 3:29 | 2024-01-29 |  |
 | [Light Up The World](https://open.spotify.com/track/1Et2wMhDPqbu5y4sGRt6Ue) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 6](https://open.spotify.com/album/5nvqVolAZnL9C1i5j6qDKS) | 3:43 | 2024-01-29 |  |
+| [Lithonia](https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:58 | 2024-12-11 |  |
 | [Lonely Dancers](https://open.spotify.com/track/2zg5ClMcmqNIBrHATdxftp) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:28 | 2024-04-07 |  |
 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 | 2024-02-11 | 2024-04-08 |
 | [Loser Like Me](https://open.spotify.com/track/3iAvTn62s7rvE6hm6fFodt) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 5](https://open.spotify.com/album/1i0wfrZnAkum5eEJnV62pp) | 3:19 | 2024-01-29 |  |
@@ -331,6 +332,7 @@
 | [Lust For Life](https://open.spotify.com/track/63dmjj2yFwSfofkAcV5DTQ) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/2zR2n9Pw8TqyfrhFke3no8) | 5:18 | 2024-01-29 | 2024-02-02 |
 | [Lust For Life \(with The Weeknd\)](https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 | 2024-02-01 |  |
 | [Making Out](https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Manifest](https://open.spotify.com/album/5xZ3XLMOTu5v2A9GV7LeJP) | 3:10 | 2024-01-29 |  |
+| [Man in The Moon](https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:54 | 2024-12-11 |  |
 | [Masquerade](https://open.spotify.com/track/4mNDJjAllo55akNIewGJxT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:48 | 2024-01-29 |  |
 | [Mateo](https://open.spotify.com/track/6n2geOyYHOGZtpITVmrWoo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 2:49 | 2024-01-29 |  |
 | [Me No Want Miseria \(Take Me To The End\)](https://open.spotify.com/track/6uBkYWJOVvEt0ZHWjp0wWp) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 4:48 | 2024-01-29 |  |

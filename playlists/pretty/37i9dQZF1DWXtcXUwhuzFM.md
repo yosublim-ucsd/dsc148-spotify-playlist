@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Karim B ja TUULI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,302 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,297 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 52 | [Stealing Out The Trap](https://open.spotify.com/track/5B6OXFlHUztKf6SQxpUaVy) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Just Got A Lot On My Shoulders](https://open.spotify.com/album/4Jr8lg2QUD5oY8hCsnPYEi) | 3:46 |
 | 53 | [Vain Elämää](https://open.spotify.com/track/4zMnVsjgT44YKLseu0DDmw) | [219osok](https://open.spotify.com/artist/7pa9yV91OIhOYb3BGAYvjC), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Vain Elämää](https://open.spotify.com/album/5R6mA60dVaPMoTeGOXMrVR) | 2:44 |
 | 54 | [Sister](https://open.spotify.com/track/4Hinsho6izFJGgTZffKRJt) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Sister](https://open.spotify.com/album/3NBWFcwXL6oIVqnniuUXdy) | 3:17 |
-| 55 | [All I Want Is You \(Tell Me That It's True\)](https://open.spotify.com/track/7M5biY77BJIN3nZyK4KHZl) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s) | [All I Want Is You \(Tell Me That It's True\)](https://open.spotify.com/album/4lPPdne1pLYXrhC7cOdxME) | 2:57 |
+| 55 | [All I Want Is You \(Tell Me That It's True\)](https://open.spotify.com/track/7M5biY77BJIN3nZyK4KHZl) | [The Moontwins](https://open.spotify.com/artist/5MGAGvXzmpPKmLXqliwi6s), [PK Keränen](https://open.spotify.com/artist/2bC9jxae44eoG0o0WoFcl5), [Leija Lautamaja](https://open.spotify.com/artist/36dcqkWwVi2Qm901dedz8V) | [All I Want Is You \(Tell Me That It's True\)](https://open.spotify.com/album/4lPPdne1pLYXrhC7cOdxME) | 2:57 |
 | 56 | [CAVE \- Partiboi69 & X CLUB\. Remix](https://open.spotify.com/track/3G8v8bUaefnLn5BRWSSb1i) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [CAVE \(Partiboi69 & X CLUB\. Remix\)](https://open.spotify.com/album/4o1KIagUFPxvmvsObnRLvT) | 3:11 |
 | 57 | [Kings of pop'n'roll](https://open.spotify.com/track/6MgTddVVd4Z2lXcuV1CRp4) | [Erakossa](https://open.spotify.com/artist/1SkqpNg8gZEovWkmsODPkJ) | [Kings of pop'n'roll](https://open.spotify.com/album/7hj4DzNE1o38nSO144bbux) | 2:32 |
 | 58 | [Call It What You Want: Unplugged](https://open.spotify.com/track/04dH73ysktO1P571FtGCDb) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Call It What You Want: Unplugged](https://open.spotify.com/album/3IAIhxaj0u2gUMmjjBDzQs) | 2:26 |

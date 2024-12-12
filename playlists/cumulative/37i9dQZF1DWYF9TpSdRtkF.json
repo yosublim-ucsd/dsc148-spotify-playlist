@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 248680,
       "name": "Just be myself!!",
       "url": "https://open.spotify.com/track/7f6KcplqyqS7iUYqM6zhVj"
@@ -4604,7 +4604,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
@@ -6225,6 +6225,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
+        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        }
+      ],
+      "date_added": "2024-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288186,
+      "name": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30a2\u30e9\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/4fvBf6A061a1364jO63KWR"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
         "url": "https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe"
       },
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 301093,
       "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
@@ -7758,7 +7776,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 305120,
       "name": "\u8679\u8272letters",
       "url": "https://open.spotify.com/track/4uqBeio8KU8GgiI7cBpf6X"
@@ -7794,7 +7812,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

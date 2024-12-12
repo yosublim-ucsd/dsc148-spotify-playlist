@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,018 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 37 | [Blow, Gabriel](https://open.spotify.com/track/7eELxl83zS3Gh1u59apnw3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 2:23 |
 | 38 | [Bad Company](https://open.spotify.com/track/646Yt78fgHq9FC6J9V57Ph) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:54 |
 | 39 | [You Got To Move](https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:19 |
-| 40 | [Children of Zion](https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 7:09 |
-| 41 | [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 |
+| 40 | [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 |
+| 41 | [Children of Zion](https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 7:09 |
 | 42 | [I Am The True Vine](https://open.spotify.com/track/6QywcyuDWYOtFjwSLX0cXf) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:15 |
 | 43 | [Lord, I Wish I Could See](https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:03 |
-| 44 | [Lost Boy In The Wilderness](https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:59 |
-| 45 | [Oh Lord, Search My Heart](https://open.spotify.com/track/6ENSef1OmWlsqq0p73Wn22) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 3:11 |
-| 46 | [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 |
-| 47 | [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 |
-| 48 | [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 |
-| 49 | [I've Done All My Singing For My Lord](https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 3:37 |
-| 50 | [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 |
+| 44 | [Oh Lord, Search My Heart](https://open.spotify.com/track/6ENSef1OmWlsqq0p73Wn22) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 3:11 |
+| 45 | [Lost Boy In The Wilderness](https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:59 |
+| 46 | [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 |
+| 47 | [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 |
+| 48 | [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 |
+| 49 | [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 |
+| 50 | [I Will Do My Last Singing In This Land Somewhere \- Live](https://open.spotify.com/track/7BAQwosh8trsBlifQL83hk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Folk Music At Newport](https://open.spotify.com/album/7MveVlx4cgdTfWWxTVS2no) | 4:49 |
 
-Snapshot ID: `Z1YzAAAAAACEnGm/8Hr0L15rZ7VPsrrl`
+Snapshot ID: `Z1eEgAAAAAAIFVHoTNofJjLK6wngxOr2`

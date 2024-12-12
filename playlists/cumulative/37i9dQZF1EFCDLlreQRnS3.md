@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-136 songs - 7 hr 6 min
+137 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 | 2024-01-29 |  |
 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 | 2024-10-02 |  |
 | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/track/3heHkofB4rcPXF75FF482N) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Under My Skin \(feat\. Charlotte Jane\)](https://open.spotify.com/album/7ClTxzoITkU65S1D41hJBQ) | 2:40 | 2024-01-29 |  |
-| [Under Pressure](https://open.spotify.com/track/0DoYf6Azd416hdC4RJiExF) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Under Pressure](https://open.spotify.com/album/4s0vlvFbClAyq32ZhA6c5d) | 2:34 | 2024-07-03 |  |
+| [Under Pressure](https://open.spotify.com/track/0DoYf6Azd416hdC4RJiExF) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Under Pressure](https://open.spotify.com/album/4s0vlvFbClAyq32ZhA6c5d) | 2:34 | 2024-07-03 | 2024-12-12 |
+| [Under Pressure](https://open.spotify.com/track/0H2096XKeIVMymGYigmTLs) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Remedy](https://open.spotify.com/album/7mLzjOOe1B2CUZURCaTRCH) | 2:34 | 2024-12-11 |  |
 | [Under The Influence](https://open.spotify.com/track/4HjJ8y3A5fPE5EY42v6oUn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Under The Influence](https://open.spotify.com/album/0Ltfj4RLfRD1oEC5a2C7Q7) | 2:54 | 2024-01-29 |  |
 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 | 2024-01-29 |  |
 | [Wasteland](https://open.spotify.com/track/4SqEUovs3DtWvOBdvkPudU) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Modern Melancholia](https://open.spotify.com/album/6eZHeiNCsuok4Tg5xxRwZa) | 2:53 | 2024-09-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Les Votives in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,761 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,759 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

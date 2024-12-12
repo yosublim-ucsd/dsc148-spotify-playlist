@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143229,
+      "name": "7.5G",
+      "url": "https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0"
+    },
+    {
+      "album": {
         "name": "[BUMP] Pick Me Up",
         "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"

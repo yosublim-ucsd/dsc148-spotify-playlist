@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: 1788\-L
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 504 likes - 101 songs - 5 hr 45 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 503 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

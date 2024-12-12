@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Aline Barros, Isaias Saad",
-  "num_followers": 1103014,
+  "num_followers": 1103121,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
+    },
+    {
+      "added_at": "2024-12-06 03:01:00",
+      "album": {
         "name": "Ele Cumprir\u00e1",
         "url": "https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 456654,
       "name": "Ele Cumprir\u00e1",
       "url": "https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo"
-    },
-    {
-      "added_at": "2024-12-06 03:01:00",
-      "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2024-12-06 03:01:00",
+      "album": {
         "name": "Ningu\u00e9m Pode Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2024-12-06 03:01:00",
-      "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
+        "name": "A Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 621079,
+      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
+    },
+    {
+      "added_at": "2024-12-06 03:01:00",
+      "album": {
         "name": "Nada Al\u00e9m do Sangue (Ao Vivo)",
         "url": "https://open.spotify.com/album/4x1x5UjNbzoKb3yfDTevRv"
       },
@@ -819,22 +835,18 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
-        "name": "Inflama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
+        "name": "Mem\u00f3rias Deluxe",
+        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
       },
       "artists": [
         {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 411976,
-      "name": "Inflama - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+      "duration_ms": 271073,
+      "name": "Louvemos Ao Senhor",
+      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -855,34 +867,22 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
-        "name": "A Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3N9HP3H0D3Bk8G14mj4JhT"
+        "name": "Inflama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 621079,
-      "name": "Uma Hora \u00e9 Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wqR00j3EwhCORlq8sHYgp"
-    },
-    {
-      "added_at": "2024-12-06 03:01:00",
-      "album": {
-        "name": "Mem\u00f3rias Deluxe",
-        "url": "https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y"
-      },
-      "artists": [
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 271073,
-      "name": "Louvemos Ao Senhor",
-      "url": "https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa"
+      "duration_ms": 411976,
+      "name": "Inflama - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
-        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "John Dias",
-          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
-        }
-      ],
-      "duration_ms": 398188,
-      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
-    },
-    {
-      "added_at": "2024-12-06 03:01:00",
-      "album": {
         "name": "Estou Te Esperando (Ao Vivo)",
         "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 411745,
       "name": "Estou Te Esperando (Ao Vivo)",
       "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2024-12-06 03:01:00",
+      "album": {
+        "name": "\u00c1guas Purificadoras/Oceanos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "John Dias",
+          "url": "https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc"
+        }
+      ],
+      "duration_ms": 398188,
+      "name": "\u00c1guas Purificadoras/Oceanos - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -983,26 +983,22 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
-        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
       "artists": [
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         },
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 309590,
-      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": "2024-12-06 03:01:00",
@@ -1027,22 +1023,26 @@
     {
       "added_at": "2024-12-06 03:01:00",
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+      "duration_ms": 309590,
+      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
     },
     {
       "added_at": "2024-12-06 03:01:00",

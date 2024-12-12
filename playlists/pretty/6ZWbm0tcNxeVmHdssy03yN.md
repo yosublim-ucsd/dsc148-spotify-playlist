@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 45,379 likes - 89 songs - 4 hr 40 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 45,390 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 88 | [Locked Doors, Empty Home](https://open.spotify.com/track/649l5KSf3Qh4klms2dPznd) | [Joshua Grant](https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y) | [Locked Doors, Empty Home](https://open.spotify.com/album/6z4blm0wsxOsMxMBs3hRqc) | 3:31 |
 | 89 | [LUV U BAD](https://open.spotify.com/track/1YN3S90FAYB0DiZxea7raS) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [LUV U BAD](https://open.spotify.com/album/3gthOa8INrosAGfiIeycdd) | 2:25 |
 
-Snapshot ID: `AAAYWp4WYiZv1fPblH8vBDBWDp/cJtz8`
+Snapshot ID: `AAAYXcBDtHK8SCAqmYTCUXFEsY71hdqe`

@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 112173,
       "name": "Aiko",
       "url": "https://open.spotify.com/track/4fFxOZyWvb5jREQ5v5umOC"
@@ -8264,7 +8264,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 147434,
       "name": "dough",
       "url": "https://open.spotify.com/track/6l1kRdkEN1HELF9Bbr70Lg"
@@ -10630,7 +10630,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 160800,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2qjxsoS1sm5uodUJg4ry3F"
@@ -18581,6 +18581,24 @@
     },
     {
       "album": {
+        "name": "long rhodes",
+        "url": "https://open.spotify.com/album/7BYaYzYH1arPNAvZViXbO8"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200764,
+      "name": "long rhodes",
+      "url": "https://open.spotify.com/track/5Us3GNsgSUT6u49qOKr9Hw"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/7ov9vbUqrWogXtJIF9EEQC"
       },
@@ -19596,6 +19614,24 @@
       "duration_ms": 145116,
       "name": "Maca",
       "url": "https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE"
+    },
+    {
+      "album": {
+        "name": "machine",
+        "url": "https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz"
+      },
+      "artists": [
+        {
+          "name": "aroramo",
+          "url": "https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "machine",
+      "url": "https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng"
     },
     {
       "album": {
@@ -26386,7 +26422,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 154400,
       "name": "Run For My Rainbow",
       "url": "https://open.spotify.com/track/5Imdl8AAMxyGuqjoeBGiBd"
@@ -30378,7 +30414,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 163076,
       "name": "Sunday Left Overs",
       "url": "https://open.spotify.com/track/3beZyLCDeTAXa1mrBrPiBI"
@@ -32912,7 +32948,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 129877,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/6e8JBnPiEaNClEyBRfaMJt"

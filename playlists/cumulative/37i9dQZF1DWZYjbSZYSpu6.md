@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Lyn x ISU\(린 x 이수\)\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LEE DAE WHI, GRASS\(이대휘, 그래쓰\)\)
 
-242 songs - 14 hr 27 min
+243 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Run](https://open.spotify.com/track/6opXD2UKoKmnKquzahxHlU) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [Run](https://open.spotify.com/album/3aThzZkq4C1HYbGGENpp8v) | 3:46 | 2022-03-24 | 2022-04-21 |
 | [RUN \(with GRAY\)](https://open.spotify.com/track/0vwVGoBPYRRBnw2z8Nyssi) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Jinah Restaurant Full Course](https://open.spotify.com/album/3YJ7luJijCzYELjuaAsaEb) | 3:46 | 2022-07-25 | 2022-09-28 |
 | [Sad Movie](https://open.spotify.com/track/4HslmW13aoxjBnnMVFxUdL) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq) | [Love Tape](https://open.spotify.com/album/6A8Dj6IhOrpOHfWwgh4YBw) | 3:43 | 2022-04-21 | 2022-07-17 |
+| [SATELLITE](https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [SATELLITE](https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW) | 2:45 | 2024-12-11 |  |
 | [Say Yes](https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) | 3:38 | 2022-03-24 |  |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-25 | 2024-04-19 |
 | [See you \- with Noair, Nason](https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG) | 3:06 | 2022-03-24 | 2022-07-29 |
@@ -210,7 +211,7 @@
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-04-21 |  |
 | [U \(feat\. ARIAZ, 시현 & ESON\)](https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [ARIAZ](https://open.spotify.com/artist/7F4X79mifvL5ke5KxaqYFi), [시현](https://open.spotify.com/artist/6cR7tnVNB3blGX4miHEE6t), [ESON](https://open.spotify.com/artist/0VIAKQLmpZM9Hq5ZVo1jXo) | [U](https://open.spotify.com/album/7D49Qp5tHUm2puTI7S3XOd) | 3:41 | 2022-05-03 | 2022-06-16 |
 | [Umbrella](https://open.spotify.com/track/51imtx97otLDc5IJJEup6J) | [지호](https://open.spotify.com/artist/5VYkOMtsckRDxHfwcA3dP5), [하도이](https://open.spotify.com/artist/6DzoGS0XhGKvlfWz4EqB1f) | [Umbrella](https://open.spotify.com/album/55JhvurNAzvPlB3AesiFEn) | 4:20 | 2022-04-21 | 2022-06-16 |
-| [Umm](https://open.spotify.com/track/6T0qUQBObZ55i4gCW5515D) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [ISU](https://open.spotify.com/artist/2BA4cJwZBgVNVUhS7xnhA2) | [Umm](https://open.spotify.com/album/7yKyZCx0ScGo3b6Y0unF3s) | 3:12 | 2024-10-14 |  |
+| [Umm](https://open.spotify.com/track/6T0qUQBObZ55i4gCW5515D) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [ISU](https://open.spotify.com/artist/2BA4cJwZBgVNVUhS7xnhA2) | [Umm](https://open.spotify.com/album/7yKyZCx0ScGo3b6Y0unF3s) | 3:12 | 2024-10-14 | 2024-12-12 |
 | [Under The Moon\-light 우린 나란히 앉아](https://open.spotify.com/track/769mRD2opGFL5s5sbXqRlC) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jung Soan](https://open.spotify.com/artist/1xmvq3HHYYVMuxyhjqMGBo), [Byun Heungsoo](https://open.spotify.com/artist/4SXIrAFg5kNHCjflnHh34c) | [The End of The Summer 새봄, 04 소품집 \`여름녘\`](https://open.spotify.com/album/0pgphJHEePy829QEVesrXs) | 3:44 | 2022-03-24 | 2022-07-26 |
 | [Unstable \(Monthly Project 2019 August Yoon Jong Shin\)](https://open.spotify.com/track/03B45vGcesX9G7DRYl9ZjH) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [Unstable \(Monthly Project 2019 August Yoon Jong Shin\)](https://open.spotify.com/album/54ZTErZIaUGqC6X0gZBpCX) | 5:09 | 2022-05-11 | 2022-05-28 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-03-24 | 2022-04-21 |

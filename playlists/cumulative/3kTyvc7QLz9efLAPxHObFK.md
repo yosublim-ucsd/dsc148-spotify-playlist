@@ -4,7 +4,7 @@
 
 > 
 
-1,888 songs - 4 day 4 hr 48 min
+1,889 songs - 4 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Constellations](https://open.spotify.com/track/62w23cRG1W6nfpp1WtpKiq) | [Enegizer](https://open.spotify.com/artist/5zuXgXGkhkWBwrpkvfvJt6) | [Constellations](https://open.spotify.com/album/6odBC9AffL3qkoswkxBgD5) | 4:54 | 2022-11-06 |  |
 | [Control](https://open.spotify.com/track/5mJY3L4zzRXNJojY4Rdwka) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Control](https://open.spotify.com/album/4Xauc0EgYDO3wyVYV6JqGL) | 2:04 | 2024-05-28 |  |
 | [Control](https://open.spotify.com/track/2dm3quTMIJIUOaCSpM7bZW) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [AK47](https://open.spotify.com/artist/5S8iKAwEiBxlyietNxHj8Y) | [Control](https://open.spotify.com/album/6U5fr8VTIJk1QyDuSXsNjR) | 3:32 | 2021-11-30 |  |
+| [CONTROL IS AN ILLUSION](https://open.spotify.com/track/5yNSWDnLHINzL3Nn87KDYg) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1), [Collusion](https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW) | [CONTROL IS AN ILLUSION](https://open.spotify.com/album/2Kzzqnk9hey5bZUYTFtwY2) | 2:48 | 2024-12-12 |  |
 | [CONTROL MY ANGER](https://open.spotify.com/track/2LMeEidRd7nPz6yb7KAt4B) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [CONTROL MY ANGER](https://open.spotify.com/album/1DyqQHAwKXuA8OafTKjVhh) | 2:26 | 2023-07-26 |  |
 | [Cooking Up Your Brain](https://open.spotify.com/track/6a3KlgLFasWWsAsi96RovP) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Cooking Up Your Brain](https://open.spotify.com/album/1iKdbLAU6o5AZwlTN8Omxk) | 3:04 | 2024-09-05 |  |
 | [COOL SHIT](https://open.spotify.com/track/2vUF0062TNPxBNzsFXY5nu) | [Reevoid](https://open.spotify.com/artist/5yctqJ4JpS0Fha3k3C5B86), [Eggedd](https://open.spotify.com/artist/0c41gp29ZkkV0ty4CGZ5SL) | [COOL SHIT](https://open.spotify.com/album/33SUTbnBWHl0pvvbxFUHBO) | 4:36 | 2024-10-08 |  |

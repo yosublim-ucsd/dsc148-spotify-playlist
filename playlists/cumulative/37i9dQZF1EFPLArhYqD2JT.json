@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "The Voice That Had Them Fainting",
+        "url": "https://open.spotify.com/album/2lXYaZYaXZxJ03WSpEeFJu"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee",
+          "url": "https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "A Pretty Girl Is Like a Melody",
+      "url": "https://open.spotify.com/track/1rcVsylyLrhB88g3ZjZTpH"
+    },
+    {
+      "album": {
         "name": "Presenting Rudy Vallee",
         "url": "https://open.spotify.com/album/2BWyfhpVb1mgUR0hZVVPbM"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 184346,
       "name": "A Pretty Girl Is Like a Melody",
       "url": "https://open.spotify.com/track/3HXpAPVFrOveYOZR7Nn9ny"
@@ -1697,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "All-American Showcase",
+        "url": "https://open.spotify.com/album/4vlqZJjIY05FIq4KQNbPcF"
+      },
+      "artists": [
+        {
+          "name": "Mantovani",
+          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "For the Very First Time",
+      "url": "https://open.spotify.com/track/0PCqGHk6i8ddceCHgLf2TG"
+    },
+    {
+      "album": {
         "name": "Presentando a Mantovani y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/2sorFRZEtOYZE6DHhdnEkF"
       },
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 199226,
       "name": "For the Very First Time",
       "url": "https://open.spotify.com/track/0xNJlSjmU06Rtjnj7GLoha"
@@ -1898,7 +1934,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 144906,
       "name": "Goodbye Girlie and Remember Me",
       "url": "https://open.spotify.com/track/1aOs6D1NYlVjmg7oJjeLV4"
@@ -2054,10 +2090,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 166933,
       "name": "He's a Devil in His Own Home Town",
       "url": "https://open.spotify.com/track/7xsHGPDdtiwRUpGOKvIfnQ"
+    },
+    {
+      "album": {
+        "name": "Comic Ragtime Era Songs (Encore 4) [Recorded 1913-1916]",
+        "url": "https://open.spotify.com/album/4CNHZaMQtXHDOzsFTlKtuJ"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "He's a Devil In His Own Home Town (Recorded 1914)",
+      "url": "https://open.spotify.com/track/2bBWFa7vnwhixRaTmsG2Io"
     },
     {
       "album": {
@@ -2894,10 +2948,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 213760,
       "name": "I'm Playing with Fire",
       "url": "https://open.spotify.com/track/6scyne9fG59Kv31zUe64j2"
+    },
+    {
+      "album": {
+        "name": "The Voice That Had Them Fainting",
+        "url": "https://open.spotify.com/album/2lXYaZYaXZxJ03WSpEeFJu"
+      },
+      "artists": [
+        {
+          "name": "Rudy Vallee",
+          "url": "https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "I'm Playing With Fire",
+      "url": "https://open.spotify.com/track/4dUOJyekEUCsi7zcBin5py"
     },
     {
       "album": {
@@ -3024,7 +3096,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 61891,
       "name": "I've Got to Have Some Lovin' Now",
       "url": "https://open.spotify.com/track/6It5Isai1IzefGjbppm9U8"
@@ -3300,10 +3372,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 169640,
       "name": "It All Belongs to Me",
       "url": "https://open.spotify.com/track/3veD4az27OBePWT6UYW2vI"
+    },
+    {
+      "album": {
+        "name": "Early Jazz Vocals (Encore 2) [Recorded 1926-1927]",
+        "url": "https://open.spotify.com/album/6asem2M2jK6Gt7xVbbCPgj"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169667,
+      "name": "It All Belongs to Me (Recorded 1927)",
+      "url": "https://open.spotify.com/track/2wdPgsaTQTN9zcRKiuKG2F"
     },
     {
       "album": {
@@ -3596,10 +3686,46 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 213600,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/4fmwyStgoyv8vXrg8NnU6u"
+    },
+    {
+      "album": {
+        "name": "Marilyn Monroe - Limited Edition",
+        "url": "https://open.spotify.com/album/5ba8XXsMjBYDVv38c79Cx7"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Monroe",
+          "url": "https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/1rIOXeVan5CrbcjlIWdU1z"
+    },
+    {
+      "album": {
+        "name": "Hot Lips",
+        "url": "https://open.spotify.com/album/7FGeuqpeCt7dRZUuR73bJL"
+      },
+      "artists": [
+        {
+          "name": "Paul Whiteman",
+          "url": "https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193509,
+      "name": "Learn to Do the Strut",
+      "url": "https://open.spotify.com/track/5vm8zaiJd0Vs6xRtnb1loz"
     },
     {
       "album": {
@@ -3614,7 +3740,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 193620,
       "name": "Learn to Do the Strut",
       "url": "https://open.spotify.com/track/1rNbCJEb36GpDkk7BOkxnG"
@@ -6608,7 +6734,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 89746,
       "name": "They Call It Dancing",
       "url": "https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk"
@@ -6666,10 +6792,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 177093,
       "name": "They Were All out of Step but Jim",
       "url": "https://open.spotify.com/track/5tvl4itsBPlqcrraDF2TkM"
+    },
+    {
+      "album": {
+        "name": "Comic Ragtime & World War 1 Songs (Encore 5) [Recorded 1916-1919]",
+        "url": "https://open.spotify.com/album/790rcjUGkCZfI5idQEwQoG"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177084,
+      "name": "They Were All Out of Step But Jim (World War 1) [Recorded 1918]",
+      "url": "https://open.spotify.com/track/3ahMxjkWRiCzBDfTlGg2MN"
     },
     {
       "album": {
@@ -7665,6 +7809,24 @@
     },
     {
       "album": {
+        "name": "Classic Movie Hits 3 Vol. 7",
+        "url": "https://open.spotify.com/album/2DFqepYL4Z7ubgR8NbpGnu"
+      },
+      "artists": [
+        {
+          "name": "Fanny Brice",
+          "url": "https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Yiddle On The Fiddle",
+      "url": "https://open.spotify.com/track/70cpfJTXAJNLzP3vJ967lV"
+    },
+    {
+      "album": {
         "name": "Classic Movie Hits 3, Vol. 7",
         "url": "https://open.spotify.com/album/1dPoj2fcLHVbK4TAbQ3psi"
       },
@@ -7676,7 +7838,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 160026,
       "name": "Yiddle On the Fiddle (From \"The Great Ziegfeld\")",
       "url": "https://open.spotify.com/track/53rg7PyBjRPQ40UxU5YkJL"
@@ -7702,6 +7864,32 @@
       "duration_ms": 226613,
       "name": "You Can Have Him",
       "url": "https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV"
+    },
+    {
+      "album": {
+        "name": "Annie Get Your Gun (Original Soundtrack) [1950]",
+        "url": "https://open.spotify.com/album/6nXixJIO93dEOtUEunAXC7"
+      },
+      "artists": [
+        {
+          "name": "Adolph Deutsch",
+          "url": "https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ"
+        },
+        {
+          "name": "MGM Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1"
+        },
+        {
+          "name": "Betty Hutton",
+          "url": "https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218359,
+      "name": "You Can't Get a Man with a Gun",
+      "url": "https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl"
     },
     {
       "album": {
@@ -7742,7 +7930,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 218738,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/5AwzancSVur811aySwxQYV"

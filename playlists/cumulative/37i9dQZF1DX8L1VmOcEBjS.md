@@ -2,7 +2,7 @@
 
 ### [Viva Latino Presents: Best Latin Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DX8L1VmOcEBjS)
 
-> Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover:  FloyyMenor & Cris Mj
+> Our editors' picks for the best Latin songs of the year! \#SpotifyWrapped Cover:  Oscar Maydon & Fuerza Regida
 
 162 songs - 8 hr 40 min
 

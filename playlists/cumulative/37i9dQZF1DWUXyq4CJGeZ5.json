@@ -7401,6 +7401,24 @@
     },
     {
       "album": {
+        "name": "The Opening",
+        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140558,
+      "name": "The Opening",
+      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+    },
+    {
+      "album": {
         "name": "The Other Place",
         "url": "https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8"
       },

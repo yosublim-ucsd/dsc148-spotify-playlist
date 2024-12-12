@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Weska
 
-762 songs - 1 day 17 hr 39 min
+763 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [myyyy medssss](https://open.spotify.com/track/6eLn8mebeYCnCoFOaSPXhg) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [myyyy medssss](https://open.spotify.com/album/33e0eMQ3sTYJBIMHszQr8A) | 4:19 | 2022-01-14 | 2022-02-26 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 | 2022-11-19 |
 | [Need to Know](https://open.spotify.com/track/3TkY3xq3RYqASwuGWnj1Yr) | [Ikusa](https://open.spotify.com/artist/0mVSIvKoT1Ga7AbVp4Yt02), [Tomas Grey](https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS), [Brogs](https://open.spotify.com/artist/0Zu5rxrWkTZlu2EcnZx7sz) | [Need to Know](https://open.spotify.com/album/08ZVmj6Vf1AKaNa2ltKUWP) | 2:30 | 2022-01-28 | 2022-04-02 |
-| [Need You](https://open.spotify.com/track/4KKbFhWTG5tstCC1g5cOVy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 2:34 | 2024-04-12 |  |
+| [Need You](https://open.spotify.com/track/4KKbFhWTG5tstCC1g5cOVy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 2:34 | 2024-04-12 | 2024-12-12 |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-12-01 | 2024-12-07 |
 | [Neon Light](https://open.spotify.com/track/7ygUxqs6dpyyI9wciOatPd) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Neon Light](https://open.spotify.com/album/5DaX9gwbS4GNdEDbNPlMND) | 2:40 | 2022-09-23 | 2022-11-19 |
 | [Never Be Mine](https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Never Be Mine](https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF) | 2:34 | 2022-04-08 | 2022-07-16 |
@@ -673,6 +673,7 @@
 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 | 2022-11-18 | 2023-03-19 |
 | [TALKIN](https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [TALKIN](https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V) | 3:50 | 2022-01-14 | 2022-03-18 |
 | [Talking To Myself](https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF) | [Vanrip](https://open.spotify.com/artist/0t6jYtttwVm0ycLiwtJmUl) | [Talking To Myself](https://open.spotify.com/album/6sjoh5VtzLxBw7y13KHy0b) | 3:04 | 2022-10-07 | 2022-12-17 |
+| [TECHNO N' BASS](https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [TECHNO N' BASS](https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk) | 2:33 | 2024-12-06 |  |
 | [Tell It To My Heart \(feat\. Hozier\) \- Tiësto Remix](https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tell It To My Heart \(Tiësto Remix\)](https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30) | 2:55 | 2022-01-21 | 2022-04-29 |
 | [Tell That Boy](https://open.spotify.com/track/34x9lHWBLEWgDSUUlx1T5Z) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Tell That Boy](https://open.spotify.com/album/1pQODgWcJzz8oUoucbos1R) | 3:34 | 2023-10-27 | 2024-04-28 |
 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 | 2023-12-01 | 2024-04-02 |

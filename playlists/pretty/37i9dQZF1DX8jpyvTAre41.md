@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,239 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,232 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 64 | [Sick Kinda WRLD](https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Let's Live a Life Better Than This](https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe) | 3:38 |
 | 65 | [Nothing Would Change](https://open.spotify.com/track/3o3f9agMiUxMGm4p60Ni3b) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nothing Would Change](https://open.spotify.com/album/3kQY3Ha4otCRlvzukPPNaH) | 3:23 |
 | 66 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 |
-| 67 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
+| 67 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 68 | [METHOD ACTING](https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [METHOD ACTING](https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj) | 2:16 |
 | 69 | [belong \(another place\)](https://open.spotify.com/track/64dszp6SWEveU66npOgOyr) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:05 |
 | 70 | [Fangtasy](https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Fangtasy](https://open.spotify.com/album/78ZyKHkzcr5qauqnxNCyw6) | 2:52 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 90 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 |
 | 91 | [whatever you want](https://open.spotify.com/track/5efqMW9Qh0vwU8ZVlVZLmH) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [whatever you want](https://open.spotify.com/album/0FkjZVzTDkJlNJS9AtXiaK) | 3:17 |
 | 92 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 |
-| 93 | [Just 1 Thing](https://open.spotify.com/track/2iwoRuJHlcSj1RP9vkScDV) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM), [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY) | [Just 1 Thing](https://open.spotify.com/album/19B95e1LNMXRVaTJONogC5) | 2:34 |
+| 93 | [Just 1 Thing \(feat\. Ezra\)](https://open.spotify.com/track/2iwoRuJHlcSj1RP9vkScDV) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM), [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY) | [Just 1 Thing \(feat\. Ezra\)](https://open.spotify.com/album/19B95e1LNMXRVaTJONogC5) | 2:34 |
 | 94 | [Tongue Trick](https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Choke Hold](https://open.spotify.com/album/7avibQveVA03ZGcknyu0dm) | 2:47 |
 | 95 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 |
 | 96 | [Down To You](https://open.spotify.com/track/6xwNNvcmwj9fG5E3RUw4TL) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [Down To You](https://open.spotify.com/album/0EKCwHyid21UjLBPbsYW5s) | 2:27 |

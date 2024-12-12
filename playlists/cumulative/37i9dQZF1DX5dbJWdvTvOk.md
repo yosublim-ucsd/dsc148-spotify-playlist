@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-749 songs - 1 day 7 hr 57 min
+751 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2023-04-22 |
 | [Beautiful symbol](https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Beautiful symbol](https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ) | 2:19 | 2023-04-21 |  |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2022-07-15 | 2023-04-22 |
-| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 |  |
+| [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2023-04-21 | 2024-12-12 |
 | [Before We Go](https://open.spotify.com/track/1I6l7jb9XihT5gUtXx9xA5) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:49 | 2024-02-02 |  |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-04-22 |
 | [Believer](https://open.spotify.com/track/3mA4fggOpZDCXfJ9cRZ4Gu) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/3MxRSWPr4OfBtPGUgImiUq) | 2:11 | 2023-04-21 | 2023-10-31 |
@@ -286,7 +286,7 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2023-04-21 | 2023-06-03 |
 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 | 2023-10-13 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2023-04-21 | 2023-05-13 |
-| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 |  |
+| [Hendaye](https://open.spotify.com/track/3q0jMagWUefdNxOX7qpYau) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [It's All For You](https://open.spotify.com/album/2hipNS989MOYmWd3Hga8GB) | 2:47 | 2023-04-21 | 2024-12-12 |
 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2023-04-21 | 2023-04-28 |
 | [Hidden](https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/0aceUd7djbL48tUHNTEZq2) | 2:24 | 2023-04-21 | 2024-04-19 |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2023-04-21 |  |
@@ -463,6 +463,7 @@
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-02 | 2024-07-19 |
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2023-04-21 |  |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2023-04-21 |  |
+| [Northampton](https://open.spotify.com/track/641ejBDOuSGp3V8ewDRCoZ) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Northampton](https://open.spotify.com/album/1ltXX0U0dMf2eGSDTogMIG) | 2:15 | 2024-12-10 |  |
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-23 |
@@ -595,6 +596,7 @@
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2023-04-21 | 2023-05-13 |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2022-07-15 | 2022-10-29 |
 | [Sofia](https://open.spotify.com/track/67kLDQq8ItgqmAxvOgcgnJ) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:19 | 2023-03-31 | 2023-04-22 |
+| [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 | 2024-12-10 |  |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2023-04-21 | 2023-08-26 |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-07 |  |
 | [Solitaria](https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Solitaria](https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF) | 2:16 | 2022-08-05 | 2023-04-22 |

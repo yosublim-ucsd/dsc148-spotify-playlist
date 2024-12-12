@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 269740,
       "name": "Big Wheel Whippin'",
       "url": "https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1"
@@ -216,6 +216,24 @@
       "duration_ms": 252903,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK"
+    },
+    {
+      "album": {
+        "name": "Calm Like Kim",
+        "url": "https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO"
+      },
+      "artists": [
+        {
+          "name": "Spencer Elmer",
+          "url": "https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "Calm Like Kim",
+      "url": "https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X"
     },
     {
       "album": {
@@ -784,6 +802,24 @@
       "duration_ms": 188360,
       "name": "Harder",
       "url": "https://open.spotify.com/track/2naTAenfZdW6fEhbwtqK0b"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "HARDSTONE NATIONAL ANTHEM",
+      "url": "https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr"
     },
     {
       "album": {

@@ -4,14 +4,14 @@
 
 > You don't want to miss these episodes from creators you want to keep on your RADAR
 
-34 songs - 1 day 5 hr 2 min
+34 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1607: The Fake Lawyer](https://open.spotify.com/episode/32ySzhT47RYM5YfsQj5B4L) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 33:39 | 2024-10-03 |  |
 | [1701: The Doula part 1](https://open.spotify.com/episode/2Fpu1lFKkeJL4IZHMelaQG) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 27:21 | 2024-10-03 |  |
 | [1704: Hockey Dad Poses as Delta Force Agent to Scam Parents part 1](https://open.spotify.com/episode/0sWz317aIGbSt7tTqDRLAl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 33:09 | 2024-10-03 |  |
-| [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 38:56 | 2024-10-03 |  |
+| [1801: Who's Afraid of LaDonna Humphrey part 1](https://open.spotify.com/episode/7sb1mbmRUeoT2yXRHb2UKt) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 39:56 | 2024-10-03 |  |
 | [1905: LaDonna's Surrogates part 1](https://open.spotify.com/episode/7wzQMxsDvuwpWw1XCh4UNl) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 25:00 | 2024-11-13 |  |
 | [1909: The Woman Who Almost Stole Graceland](https://open.spotify.com/episode/2iRAeN9QsvamYhfRG50LZd) | [PRETEND](https://open.spotify.com/show/2vaCjR7UvlN9aTIzW6kNCo) | [PRETEND](https://open.spotify.com/album/2vaCjR7UvlN9aTIzW6kNCo) | 43:06 | 2024-12-09 |  |
 | [Are NBA Fans Too Eager To "Blow It Up"?](https://open.spotify.com/episode/2W5DI2EkNhApyJN1o18sJs) | [Small Ball with Kenny Beecham](https://open.spotify.com/show/6eTEBCz1PHcQ4wg0yhi6RF) | [Small Ball with Kenny Beecham](https://open.spotify.com/album/6eTEBCz1PHcQ4wg0yhi6RF) | 52:11 | 2024-10-03 |  |

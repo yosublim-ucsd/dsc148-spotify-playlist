@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ROSÉ, ONE OK ROCK, Ado, Khalid, and more! cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,471 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,476 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 36 | [Hit It Once](https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hit It Once](https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG) | 3:31 |
 | 37 | [Telling adults \(feat\. WILYWNKA\)](https://open.spotify.com/track/293uygbGWaUUqyZSJ40l9l) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Telling adults \(feat\. WILYWNKA\)](https://open.spotify.com/album/7Kc2cF8CJMh2mQe9PyrL0c) | 3:08 |
 | 38 | [Blood Line](https://open.spotify.com/track/3vKaxnlNG8VVHF7gbxHHZz) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [D.O](https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [One for the culture, Two for the future](https://open.spotify.com/album/10qIvrP2NLqxSvB3QdKguU) | 3:00 |
-| 39 | [Magic power](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic power](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 39 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 40 | [Free](https://open.spotify.com/track/7DKyhfk7PQdjRFWUA0eQYA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:29 |
 | 41 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 |
 | 42 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/6Aa9YyvEYFUaMRFc9obYjP) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/7gSBUvyOmm3Ek89IwPEZyX) | 2:01 |

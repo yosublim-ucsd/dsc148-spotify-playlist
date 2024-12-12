@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Las Pelotas",
-  "num_followers": 143414,
+  "num_followers": 143497,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 281266,
       "name": "Fulanos de Nadie",
       "url": "https://open.spotify.com/track/3riky2BtRX9TeZJHEHE5Eq"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "La Paciencia De La Ara\u00f1a",
-        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 317066,
-      "name": "Oxidado",
-      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Airbag - En Vivo Estadio V\u00e9lez",
         "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece en la Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 228000,
       "name": "Roto",
       "url": "https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "La Paciencia De La Ara\u00f1a",
+        "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 317066,
+      "name": "Oxidado",
+      "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece en la Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1011,6 +1011,38 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 160369,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -1027,18 +1059,18 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Dejo Atr\u00e1s",
-        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
+        "name": "Intemperie",
+        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Dejo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
+      "duration_ms": 222706,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1063,34 +1095,18 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "Dejo Atr\u00e1s",
+        "url": "https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
-        "name": "Intemperie",
-        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
+      "duration_ms": 221946,
+      "name": "Dejo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 254882,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Esclavo",
         "url": "https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 160369,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P"
+      "duration_ms": 254882,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Xtrapolar",
-        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 183592,
-      "name": "X siempre",
-      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "La Sed",
         "url": "https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 219773,
       "name": "Cielo Todo Gris",
       "url": "https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Xtrapolar",
+        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 183592,
+      "name": "X siempre",
+      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
         "name": "En La Vereda del Sol",
         "url": "https://open.spotify.com/album/6xQTculC8vS7Wi97yE1s3U"
       },
@@ -1239,34 +1255,22 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "El Gato Que Est\u00e1 Triste y Azul",
-        "url": "https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk"
+        "name": "Como Un Cuento",
+        "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "El Gato Que Est\u00e1 Triste y Azul",
-      "url": "https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
         }
       ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
+      "duration_ms": 287114,
+      "name": "Como Un Cuento",
+      "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1303,22 +1307,18 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Como Un Cuento",
-        "url": "https://open.spotify.com/album/1Ki4nbbat5sivyij8b57Kv"
+        "name": "El Gato Que Est\u00e1 Triste y Azul",
+        "url": "https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Portal Sessions",
-          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 287114,
-      "name": "Como Un Cuento",
-      "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
+      "duration_ms": 221579,
+      "name": "El Gato Que Est\u00e1 Triste y Azul",
+      "url": "https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Abrazame",
-        "url": "https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Abrazame",
-      "url": "https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 235094,
       "name": "Mejor Callar",
       "url": "https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Abrazame",
+        "url": "https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Abrazame",
+      "url": "https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Vaqueros",
-        "url": "https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW"
-      },
-      "artists": [
-        {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
-        }
-      ],
-      "duration_ms": 196395,
-      "name": "Mil Guerras",
-      "url": "https://open.spotify.com/track/31sb8D24KYJ1tLvwL6Pdd6"
-    },
-    {
-      "added_at": "2024-11-21 19:47:48",
-      "album": {
         "name": "Vendedora de Caricias",
         "url": "https://open.spotify.com/album/0EatkO6cNzVzxbWRhWYK91"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 199610,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/5gpMKB4NpJwe3KoaucNkHC"
+    },
+    {
+      "added_at": "2024-11-21 19:47:48",
+      "album": {
+        "name": "Vaqueros",
+        "url": "https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "duration_ms": 196395,
+      "name": "Mil Guerras",
+      "url": "https://open.spotify.com/track/31sb8D24KYJ1tLvwL6Pdd6"
     },
     {
       "added_at": "2024-11-21 19:47:48",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-11-21 19:47:48",
       "album": {
-        "name": "Verano en Capital",
-        "url": "https://open.spotify.com/album/4YVyoJ9fhJ1r39NSstEa2O"
+        "name": "Vaqueros",
+        "url": "https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW"
       },
       "artists": [
         {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
         }
       ],
-      "duration_ms": 167436,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/21m9e0BX7sb55CWSpsmIQy"
+      "duration_ms": 243418,
+      "name": "El Beso M\u00e1s Famoso del Mundo",
+      "url": "https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt"
     }
   ],
   "unique_name": "Baladas Rock",

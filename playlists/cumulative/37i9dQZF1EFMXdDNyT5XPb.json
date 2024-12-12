@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "This Must Be Christmas",
+        "url": "https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213182,
+      "name": "This Must Be Christmas - Single Mix",
+      "url": "https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c"
+    },
+    {
+      "album": {
         "name": "You Got It All",
         "url": "https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,633 likes - 83 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,635 likes - 83 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 50 | [Gaslighter](https://open.spotify.com/track/18vPPecIsRK6o9t7RVtp1f) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Young Dumb Immature](https://open.spotify.com/album/17p8uhEbq4NADackLW5Ypi) | 3:31 |
 | 51 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
 | 52 | [How Are You Mine?](https://open.spotify.com/track/62kUIyUi3isa8KHMozi7JO) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [How Are You Mine?](https://open.spotify.com/album/7n0CbiYAcBwdvzZvl3lreg) | 3:25 |
-| 53 | [Passing Through Fyah](https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo), [Remi Mazet](https://open.spotify.com/artist/6hFk7b6gczFlDsr56t7GKj) | [Passing Through Fyah](https://open.spotify.com/album/0zpFI6O3VArFbj04dB0M9F) | 5:15 |
+| 53 | [Passing Through Fyah](https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn) | [Johnny Hunter](https://open.spotify.com/artist/5ovQVTwydXB759xXoJmN0E), [Remi Mazet](https://open.spotify.com/artist/6hFk7b6gczFlDsr56t7GKj) | [Passing Through Fyah](https://open.spotify.com/album/0zpFI6O3VArFbj04dB0M9F) | 5:15 |
 | 54 | [Employee](https://open.spotify.com/track/6BlJYH5UurT8xhmBZZtIfC) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Employee](https://open.spotify.com/album/5SjTm8B3QLl6PuIegTFg7I) | 2:33 |
 | 55 | [Beautiful](https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq) | [Beautiful](https://open.spotify.com/album/1dMbPk2FHJ1idGBBOEU8wh) | 3:26 |
 | 56 | [Let Go of Me](https://open.spotify.com/track/2jzQjznFecKJdWFHr6cUIi) | [Vinnie Brigante](https://open.spotify.com/artist/7aKuM9zcFfXBnKv7bkXl9h) | [Let Go Of Me](https://open.spotify.com/album/4qkWFdsMcpcJ1BgimTN83c) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,426 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,458 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 16 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 |
 | 17 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 | 18 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
-| 19 | [REGRET \(feat\. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc\)](https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [Quang Trung](https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph), [Ali Hoàng Dương](https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |
-| 20 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
+| 19 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
+| 20 | [REGRET \(feat\. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc\)](https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [Quang Trung](https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph), [Ali Hoàng Dương](https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |
 | 21 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |
 | 22 | [Bạn Đời](https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [GDucky](https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz) | [Bạn Đời](https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2) | 5:00 |
 | 23 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Mưa Cứ Rơi](https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR) | [Mr.A](https://open.spotify.com/artist/3VkWfwJgAO5qikm4hFccO6), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Mưa Cứ Rơi](https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8) | 2:57 |
 | 50 | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 |
 
-Snapshot ID: `Z1e+OwAAAAAayZtIZmzHiF973VB6zRFh`
+Snapshot ID: `Z1kmFAAAAADpZ7c/KXPLTbt15JdEexKK`

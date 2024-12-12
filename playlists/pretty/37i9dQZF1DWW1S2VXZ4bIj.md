@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Daou Pittaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,482 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,543 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 31 | [เกือบปี](https://open.spotify.com/track/6MzhHnoFxlfEvGM7XR80DH) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เกือบปี \- Single](https://open.spotify.com/album/3jPEnDvogvQfyUdGaUvkcG) | 4:31 |
 | 32 | [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 |
 | 33 | [เดินทางโดยสวัสดิภาพ](https://open.spotify.com/track/5xEtdOxQ3z18NWmDhG98N5) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWAN](https://open.spotify.com/artist/2bZps5eDWmWtRwjs54Qtwj) | [ชานชา\(ลา\)](https://open.spotify.com/album/1hjPLRs9m5kEJiTyYQSfiq) | 3:52 |
-| 34 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 34 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 35 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 |
 | 36 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 |
 | 37 | [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/track/0OnFk90WfcNXqhIHUGLwXO) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [พูดไม่ฟัง \(Comeback No Comeback\)](https://open.spotify.com/album/5WJgXFFKfnAid6JGwECYOQ) | 3:54 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 336412,
+  "num_followers": 336466,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "Skull n Bones",
+        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
+      },
+      "artists": [
+        {
+          "name": "Stileto",
+          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Skull n Bones",
+      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Against The Tide",
         "url": "https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 209655,
       "name": "Against The Tide",
       "url": "https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "Skull n Bones",
-        "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
-      },
-      "artists": [
-        {
-          "name": "Stileto",
-          "url": "https://open.spotify.com/artist/2iwUUr9Udu8z6L2ZJcYr6i"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Skull n Bones",
-      "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Just A Kid",
         "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Buried Beneath You",
-        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Buried Beneath You",
-      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Broken String",
         "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 156666,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Buried Beneath You",
+        "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Buried Beneath You",
+      "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1843,22 +1843,26 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "SpaceMan Zack",
-          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
         }
       ],
-      "duration_ms": 176516,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+      "duration_ms": 255448,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1883,26 +1887,42 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
         },
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
         }
       ],
-      "duration_ms": 255448,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Zaug",
+          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
+        }
+      ],
+      "duration_ms": 162916,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1947,26 +1967,6 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "Warzone",
-        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Zaug",
-          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
-        }
-      ],
-      "duration_ms": 162916,
-      "name": "Warzone",
-      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2031,6 +2031,30 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "Hold My Breath (Mazare Remix)",
+        "url": "https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        },
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        }
+      ],
+      "duration_ms": 174797,
+      "name": "Hold My Breath (Mazare Remix)",
+      "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Enemy Brain Entertainment Suite",
         "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
@@ -2067,30 +2091,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Hold My Breath (Mazare Remix)",
-        "url": "https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        },
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "Hold My Breath (Mazare Remix)",
-      "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -2103,22 +2103,6 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2143,6 +2127,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "sometimes i want to die",
+        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
+      },
+      "artists": [
+        {
+          "name": "FRND",
+          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
+        }
+      ],
+      "duration_ms": 143793,
+      "name": "sometimes i want to die",
+      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "sometimes i want to die",
-        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
-      },
-      "artists": [
-        {
-          "name": "FRND",
-          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
-        }
-      ],
-      "duration_ms": 143793,
-      "name": "sometimes i want to die",
-      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
-      },
-      "artists": [
-        {
-          "name": "Silent Child",
-          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -2323,26 +2307,18 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "die 4 u",
-        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
       "artists": [
         {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
         }
       ],
-      "duration_ms": 174800,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
+      "duration_ms": 160941,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2367,6 +2343,30 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
+      },
+      "artists": [
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2024-12-03 16:57:05",

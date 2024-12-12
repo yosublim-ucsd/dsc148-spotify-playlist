@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Becky and the Birds",
-  "num_followers": 1633163,
+  "num_followers": 1633862,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp"
     },
     {
-      "added_at": "2024-08-16 23:02:00",
-      "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
       "added_at": "2024-07-25 23:48:26",
       "album": {
         "name": "the record",
@@ -1015,6 +999,22 @@
       "duration_ms": 187653,
       "name": "Letter To An Old Poet",
       "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
+    },
+    {
+      "added_at": "2024-08-16 23:02:00",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
+        "name": "Janky Star",
+        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
+    },
+    {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 214986,
       "name": "Guilty Conscience - Tame Impala Remix",
       "url": "https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "Janky Star",
-        "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
     }
   ],
   "unique_name": "Ethereal",

@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: FIFTY FIFTY\)
 
-218 songs - 12 hr 44 min
+219 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Before Our Night Is Over](https://open.spotify.com/track/394qYjT7uu43TIdVgor8bX) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:34 | 2021-12-21 | 2024-06-07 |
 | [Best Christmas Ever](https://open.spotify.com/track/2Ma3UUb4b1c7Y0fLyLpHfo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw) | 3:56 | 2021-12-21 | 2022-07-28 |
 | [Best Christmas Ever](https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:56 | 2021-12-21 | 2022-12-10 |
-| [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 | 2021-12-21 |  |
+| [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 | 2021-12-21 | 2024-12-12 |
 | [Butter \(Holiday Remix\)](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Holiday Remix\)](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) | 2:41 | 2021-12-21 |  |
 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 |  |
 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 | 2021-12-21 |  |
@@ -68,6 +68,7 @@
 | [FIRST SNOW](https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [FIRST SNOW](https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK) | 3:15 | 2023-12-11 |  |
 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 | 2021-12-21 |  |
 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 | 2021-12-21 |  |
+| [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo Quintet](https://open.spotify.com/artist/6Rw8YbGwaAeYXAyWknX2GU) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 | 2024-12-11 |  |
 | [For The Reason That it's Christmas \(크리스마스라는 이유\)](https://open.spotify.com/track/3ZFQIKZwvk7SnnUWARrGyi) | [Skinny Sparrow](https://open.spotify.com/artist/4QVoc6DKtzDqSRZBt3dH9x), [Hye Ji](https://open.spotify.com/artist/3SF3VrmstBQK3QWvVPQq4o) | [For The Reason That it's Christmas \(크리스마스라는 이유\)](https://open.spotify.com/album/2sj3J5W9a4E9iNgd0IMtj8) | 5:24 | 2021-12-21 | 2022-12-01 |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2021-12-21 |  |
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-12-21 |  |

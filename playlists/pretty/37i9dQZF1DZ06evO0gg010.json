@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 558066,
+  "num_followers": 558437,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAADDRv0pejQAAxU+vuA8phl9",
+  "snapshot_id": "Z1eEgAAAAABa3WmJNNYPB8Yuiwy2kHUq",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Sigan Llegando Las Pacas (Extended)",
         "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pika Pika",
         "url": "https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt"
       },
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Sigan Llegando Las Pacas (Extended)",
-        "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 113208,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/1eCpKyqGCQ3lignyphxlmN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mire Con Talento",
         "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Sigan Llegando Las Pacas (Extended)",
+        "url": "https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 113208,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/1eCpKyqGCQ3lignyphxlmN"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 122755,
-      "name": "TUQLO",
-      "url": "https://open.spotify.com/track/4cIVJ0b0A2DThFbrJsXTdy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Descansando",
         "url": "https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 225000,
       "name": "Descansando",
       "url": "https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 122755,
+      "name": "TUQLO",
+      "url": "https://open.spotify.com/track/4cIVJ0b0A2DThFbrJsXTdy"
     }
   ],
   "unique_name": "This Is Fuerza Regida",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 12 hr 27 min
+157 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [How Long Has This Been Going On \(12\)](https://open.spotify.com/track/7gb1OisMzANSBw19eBt0WM) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor Sings Lullabys For Lovers \(Remastered 2013\)](https://open.spotify.com/album/2pOmEoxRZ4VdWgpz6IWGfe) | 2:33 | 2024-09-20 |  |
 | [I Can't Be Bothered Now](https://open.spotify.com/track/0BfvhXg1QoYQy3x3cvMyzQ) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [The "Crazy for You" Female Ensemble](https://open.spotify.com/artist/2Gz3Ta2IFXlZrhehCZSZOI) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 4:14 | 2024-07-24 |  |
 | [I Got Plenty O' Nuttin'](https://open.spotify.com/track/45xc1d1XIuF2zgHwxZnb7N) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 3:51 | 2024-07-24 |  |
-| [I Got Rhythm](https://open.spotify.com/track/3Jab5ZvO3dQhdh3KIvl4m0) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 3:06 | 2024-07-24 |  |
+| [I Got Rhythm](https://open.spotify.com/track/1rT171Y1QcruR0URX61Xf4) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Harlem On My Mind](https://open.spotify.com/album/1ymg54xClk2ikSzKU4dr1f) | 3:05 | 2024-12-11 |  |
+| [I Got Rhythm](https://open.spotify.com/track/3Jab5ZvO3dQhdh3KIvl4m0) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Presenting Ethel Waters](https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z) | 3:06 | 2024-07-24 | 2024-12-12 |
 | [I Like That You Can't Take That Away From Me](https://open.spotify.com/track/0ZsWdOc919i76q32pmlz1r) | [Jae Millz](https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Mashonda](https://open.spotify.com/artist/5SyhqYagv3kA1s7xbI8QGi), [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Take The Lead](https://open.spotify.com/album/5pjfujDJYCQoOZJ87KezQV) | 2:27 | 2024-07-24 |  |
 | [I Love to Rhyme \- 2006 Remaster](https://open.spotify.com/track/1EcYkplHOZ9aN6Pxx56rHZ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Is K\-RA\-ZY For Gershwin](https://open.spotify.com/album/6zIxFzwTRZeWwsI6rd5YOX) | 2:37 | 2024-07-24 |  |
 | [I Loves You Porgy](https://open.spotify.com/track/7lUJd9FTYbZgo4jU7qpAel) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [My Way](https://open.spotify.com/album/5i11koayllPJWjgwYtFZtp) | 4:11 | 2024-07-24 |  |

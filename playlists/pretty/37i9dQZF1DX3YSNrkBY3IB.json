@@ -1,6 +1,6 @@
 {
   "description": "Check out these hip-hop classics that are great for the whole family.",
-  "num_followers": 93467,
+  "num_followers": 93519,
   "original_name": "Clean Hip-Hop Classics",
   "owner": {
     "name": "Spotify",
@@ -113,22 +113,6 @@
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Hello Nasty (Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
-    },
-    {
       "added_at": "2024-02-12 22:06:21",
       "album": {
         "name": "Snap Yo Fingers - Single",
@@ -151,6 +135,22 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Hello Nasty (Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Don't Sweat The Technique",
         "url": "https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 262800,
       "name": "Don't Sweat The Technique",
       "url": "https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -303,22 +303,6 @@
       "duration_ms": 301893,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "The Fresh Prince of Bel-Air",
-      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -423,6 +407,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "The Fresh Prince of Bel-Air",
+      "url": "https://open.spotify.com/track/0UREO3QWbXJW3gOUXpK1am"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "Kurtis Blow",
         "url": "https://open.spotify.com/album/1ZcUKK3nnmuYVGEUBxXSXt"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 327400,
       "name": "I Can't Live Without My Radio",
       "url": "https://open.spotify.com/track/2qfTGzETefwtBWKDThZjnU"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
     },
     {
       "added_at": "2020-09-29 17:19:21",

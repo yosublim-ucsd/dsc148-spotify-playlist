@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151558,
+      "name": "30s",
+      "url": "https://open.spotify.com/track/3tAMiFkUwQiFQZFE30D4BA"
+    },
+    {
+      "album": {
         "name": "Hello My Name Is...",
         "url": "https://open.spotify.com/album/114sumrk5wTeMWHVin86QC"
       },
@@ -274,6 +292,24 @@
       "duration_ms": 224773,
       "name": "Beg For It",
       "url": "https://open.spotify.com/track/3ugAI8vlmz6y4T9BlKhytz"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163330,
+      "name": "Bessie",
+      "url": "https://open.spotify.com/track/0lioD2CwKJ6SNJiWuTgtUC"
     },
     {
       "album": {
@@ -767,6 +803,28 @@
     },
     {
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232356,
+      "name": "DON\u2019T DESERVE (feat Muni Long)",
+      "url": "https://open.spotify.com/track/3e5Hzj05PYJKvNHd5gBuRc"
+    },
+    {
+      "album": {
         "name": "ebony",
         "url": "https://open.spotify.com/album/0ojdsxfa2gL2LIiUZZUdOH"
       },
@@ -930,6 +988,24 @@
       "duration_ms": 263933,
       "name": "Fixing My Hair",
       "url": "https://open.spotify.com/track/66DuVihRdAHZihgcnyIqQR"
+    },
+    {
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0xC84rKqnKhwJBy0xlZX1C"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/0DAg2J8vCjoGKOq04ZbD5J"
     },
     {
       "album": {
@@ -1260,6 +1336,28 @@
       "duration_ms": 190013,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/37DUsZ2LqrWtBjRuNFoMvj"
+    },
+    {
+      "album": {
+        "name": "JADED",
+        "url": "https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166954,
+      "name": "I Do (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N"
     },
     {
       "album": {
@@ -1899,6 +1997,28 @@
     },
     {
       "album": {
+        "name": "Made For Me (with Mariah Carey)",
+        "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Made For Me (with Mariah Carey)",
+      "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
+    },
+    {
+      "album": {
         "name": "Radioactive (Explicit Version)",
         "url": "https://open.spotify.com/album/3AGMorE666prvzWaHGddKo"
       },
@@ -2229,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "Played Yourself",
+      "url": "https://open.spotify.com/track/6OQsm0MFwDmxbg4XHat3xN"
+    },
+    {
+      "album": {
         "name": "Public Displays Of Affection: The Album",
         "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
@@ -2436,6 +2574,24 @@
       "duration_ms": 254658,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/6FLvm4tT3QcTSIA4thfbut"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78430,
+      "name": "Reverse (Interlude)",
+      "url": "https://open.spotify.com/track/7pFB7lqFfsEPaVxxDlGKZd"
     },
     {
       "album": {
@@ -2703,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218397,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"
+    },
+    {
+      "album": {
         "name": "Ain\u2019t No Peace",
         "url": "https://open.spotify.com/album/1Rbika7sn7sLt2SGC7IxXf"
       },
@@ -2791,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218804,
+      "name": "The Baddest",
+      "url": "https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu"
+    },
+    {
+      "album": {
         "name": "Messy Little Raindrops",
         "url": "https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8"
       },
@@ -2872,6 +3064,24 @@
       "duration_ms": 173707,
       "name": "The Words",
       "url": "https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169015,
+      "name": "Things I Never Said",
+      "url": "https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4"
     },
     {
       "album": {
@@ -3208,6 +3418,24 @@
       "duration_ms": 159250,
       "name": "Walk Over",
       "url": "https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173319,
+      "name": "Waste No Time",
+      "url": "https://open.spotify.com/track/3seKCddphT37p1CwflkMjq"
     },
     {
       "album": {

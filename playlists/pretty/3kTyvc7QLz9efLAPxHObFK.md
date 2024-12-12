@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,882 songs - 4 day 4 hr 27 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,883 songs - 4 day 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1890,5 +1890,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1880 | [Everything B.K.](https://open.spotify.com/track/4M8llvPGX21VsOiwJDiLjt) | [nora2r](https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h) | [Everything B.K.](https://open.spotify.com/album/4kG2yF8ehHcl3C3KBE00Hw) | 1:57 |
 | 1881 | [Super Rotation](https://open.spotify.com/track/0r3iQH70BvsJbBqe5OmG5o) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Super Rotation](https://open.spotify.com/album/6B0DiJwohbdaS9qJMcoEoH) | 3:12 |
 | 1882 | [Basses](https://open.spotify.com/track/4z0dhGFF73olOG0BhkOqaG) | [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD) | [Basses](https://open.spotify.com/album/5gxFIGM81RnPUWvE4KV6rG) | 2:20 |
+| 1883 | [CONTROL IS AN ILLUSION](https://open.spotify.com/track/5yNSWDnLHINzL3Nn87KDYg) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1), [Collusion](https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW) | [CONTROL IS AN ILLUSION](https://open.spotify.com/album/2Kzzqnk9hey5bZUYTFtwY2) | 2:48 |
 
-Snapshot ID: `AAAHkQBsiqY1jOGtfKP8Pl8OsmWis0kO`
+Snapshot ID: `AAAHkscHy8cxU+aaR2Yc4JLwIbCbK367`

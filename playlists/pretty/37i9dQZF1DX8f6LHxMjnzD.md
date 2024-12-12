@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,230 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,258 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 32 | [FUN!](https://open.spotify.com/track/4KERVWEQpKPZu4HRGwc7pu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [FUN!](https://open.spotify.com/album/0AjkJWk9zCZW6RnPvBzXUM) | 3:25 |
 | 33 | [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 |
 | 34 | [Empty Out Your Pockets](https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:15 |
-| 35 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
+| 35 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
 | 36 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 |
 | 37 | [Straight Up](https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Straight Up](https://open.spotify.com/album/4OGLkwfhVSh6jhFN3agdmB) | 3:15 |
 | 38 | [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 |

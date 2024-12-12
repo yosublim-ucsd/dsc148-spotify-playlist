@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,303 likes - 88 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,301 likes - 88 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 66 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 |
 | 67 | [Ascension Day](https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [Ascension Day](https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19) | 5:06 |
 | 68 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 |
-| 69 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 |
+| 69 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi), [Jacob Hansen](https://open.spotify.com/artist/4GSQs53ms6HHFxn4VfJQhy) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 |
 | 70 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 |
 | 71 | [Theme from Pink Flamingo](https://open.spotify.com/track/0s1AVo9cJjG2ZHbEfSrqal) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Theme from Pink Flamingo](https://open.spotify.com/album/6d3h0z1J5e9mrSAG2tS0oJ) | 3:39 |
 | 72 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |

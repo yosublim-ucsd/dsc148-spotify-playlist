@@ -6,27 +6,71 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABvLJkobTv8v2nFL4UwwYnl",
+  "snapshot_id": "AAAAAAAAAADpVmucZ6UfVLcrKybv+XQn",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/1gLo9HojTvd3vN5rqPvk0I"
+        "name": "Whole Lotta Gang Shit",
+        "url": "https://open.spotify.com/album/6UJPFGGqDBc3xoIg80P6oT"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Tyler Cassidy",
+          "url": "https://open.spotify.com/artist/0PzvHyRUSw6pCcWi9BYfKk"
         }
       ],
-      "duration_ms": 459766,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/1Ysh68aFrY6T8dFoIeExja"
+      "duration_ms": 208515,
+      "name": "Whole Lotta Gang Shit",
+      "url": "https://open.spotify.com/track/4BG0UryKdTnp60E53G61TT"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 250624,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -51,8 +95,8 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Hoe-nouns (feat. Thundercat & reggie)",
-        "url": "https://open.spotify.com/album/4fKH8DsAeIQGJ4fA1x4vPB"
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
       "artists": [
         {
@@ -70,7 +114,7 @@
       ],
       "duration_ms": 175762,
       "name": "Hoe-nouns (feat. Thundercat & reggie)",
-      "url": "https://open.spotify.com/track/2Nj3849ZnFKK5Nu2yxjBdz"
+      "url": "https://open.spotify.com/track/3qLIji6UHZxgdifID1DGIZ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -95,22 +139,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "A Broken Man",
-        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 509840,
-      "name": "A Broken Man",
-      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Lonely Road (feat. Terrace Martin)",
         "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
       },
@@ -131,42 +159,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Live From Vienna (FM4 Session)",
-        "url": "https://open.spotify.com/album/1XXJgQL0doLf6dKNBI9JOO"
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "ORF Vienna Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1OvvoI3xjRgd6L8ddzsBqR"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 212703,
-      "name": "Flashed Junk Mind - Live From Vienna",
-      "url": "https://open.spotify.com/track/1Pnu2yFTQ89uDYpyZya6Mt"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Staccs vs Starks",
-        "url": "https://open.spotify.com/album/1gZpoe2UyyiL6QbK09VWhQ"
-      },
-      "artists": [
-        {
-          "name": "Stacctonio",
-          "url": "https://open.spotify.com/artist/3ZBy9MMMp8zEEVB24dofOd"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 198264,
-      "name": "Gato Barbieri (feat. Ghostface Killah)",
-      "url": "https://open.spotify.com/track/1DRI4YLMx2e12ULHWCZNg3"
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -183,58 +187,6 @@
       "duration_ms": 371303,
       "name": "Shofukan - Alternate Take",
       "url": "https://open.spotify.com/track/2XGL3mkplAIAPJ5XFHPpWt"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Lion In The Zoo",
-        "url": "https://open.spotify.com/album/6pgiBsLSlJTBjmMXUj84KB"
-      },
-      "artists": [
-        {
-          "name": "Mateo Gargiulo",
-          "url": "https://open.spotify.com/artist/2aJz531BvN6l5szpNaqR4V"
-        },
-        {
-          "name": "The Massholez",
-          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        }
-      ],
-      "duration_ms": 272172,
-      "name": "Lion In The Zoo",
-      "url": "https://open.spotify.com/track/5SylK5NAm8zPMjB1DGiRRW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "State Of The Art (Instrumental Edition)",
-        "url": "https://open.spotify.com/album/5SBH1WAfp9Sj8QV9DZmBJj"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Classic Example - Instrumental",
-      "url": "https://open.spotify.com/track/5BCVuM4RZZ7hXydeaTRUUh"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -259,42 +211,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Welcome To Shepherds Bush (Live)",
-        "url": "https://open.spotify.com/album/1NCnDEf1jdXXmJTPv76uAL"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Some Girls - Live",
-      "url": "https://open.spotify.com/track/5GVhAWSiWQ4GDz7TT03TeR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "always centered at night - remixes",
-        "url": "https://open.spotify.com/album/1aoPo287iL5XUmPzjidHIv"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Danae",
-          "url": "https://open.spotify.com/artist/6s72RpMpeU4MaLGUo6y7qA"
-        }
-      ],
-      "duration_ms": 386270,
-      "name": "wild flame - dark1 remix",
-      "url": "https://open.spotify.com/track/4zIvoMsYfKREextWSbx7nS"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Triptyque : Balade astrale",
         "url": "https://open.spotify.com/album/39E2jV9jC2oDLitYuc7hgi"
       },
@@ -315,18 +231,50 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "By My Side (The Movie Mix)",
-        "url": "https://open.spotify.com/album/6IrHiag3nFVFnwmvMa25Ye"
+        "name": "KRIPPMAS",
+        "url": "https://open.spotify.com/album/12tq41Vjj9YKw9pJLYRpwj"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Diversify",
+          "url": "https://open.spotify.com/artist/356W28yEFY8MEeYNUOLzJq"
+        },
+        {
+          "name": "Rittz",
+          "url": "https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 282306,
-      "name": "By My Side - The Movie Mix",
-      "url": "https://open.spotify.com/track/2iO8bqQ0E3bKwkjeRbVBTa"
+      "duration_ms": 167302,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/4DHHl4CKidK74x9ih553yP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "always centered at night - remixes",
+        "url": "https://open.spotify.com/album/1aoPo287iL5XUmPzjidHIv"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        },
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "where is your pride - Essel remix",
+      "url": "https://open.spotify.com/track/0eorh39aosICSvw4ueSXMw"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -343,6 +291,86 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183584,
+      "name": "Two Faced",
+      "url": "https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 459766,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -367,22 +395,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ram (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/728aLt8gy8OM8nn4kt1XdT"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 173418,
-      "name": "Can't Stop Fucking - Bonus Track",
-      "url": "https://open.spotify.com/track/0Z1c2ox8edLKhYwCcDgI3w"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": ".mp3s",
         "url": "https://open.spotify.com/album/0dcDm7lQJ2iXyjtySAez7q"
       },
@@ -403,22 +415,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Slaughter House",
-        "url": "https://open.spotify.com/album/6Wi2O0t74XhEVMeXpBtgA3"
+        "name": "Ram (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/728aLt8gy8OM8nn4kt1XdT"
       },
       "artists": [
         {
-          "name": "DR. Moriarity",
-          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         }
       ],
-      "duration_ms": 144561,
-      "name": "Slaughter House",
-      "url": "https://open.spotify.com/track/2o21GeUQjgpHdp0UhWvRPE"
+      "duration_ms": 173418,
+      "name": "Can't Stop Fucking - Bonus Track",
+      "url": "https://open.spotify.com/track/0Z1c2ox8edLKhYwCcDgI3w"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -451,18 +459,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "But Not For Me (Live)",
-        "url": "https://open.spotify.com/album/1h63FW9MPUwJi3jFFOUhrD"
+        "name": "King Of The Isle",
+        "url": "https://open.spotify.com/album/1Ejvo6Hk0OgY6IbD6stUay"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Brodie Jaymz",
+          "url": "https://open.spotify.com/artist/3YZwfy7rIdsLdIqZzpy2d5"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 552447,
-      "name": "But Not For Me - Live",
-      "url": "https://open.spotify.com/track/0Qn2g6toQjHEnKohttNG0p"
+      "duration_ms": 187319,
+      "name": "King Of The Isle",
+      "url": "https://open.spotify.com/track/1wNBK1XUPRlFVQ3pCYJDek"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -527,38 +539,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Live in Paris (1966)",
-        "url": "https://open.spotify.com/album/5nuNPoQ4HhRdakpUqm60mz"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 171530,
-      "name": "I Love You (Sweetheart Of All My Dreams) - Live",
-      "url": "https://open.spotify.com/track/7yZMNPmlk4Nlredi7jVoeU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Waltz of the Flowers",
-        "url": "https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 158160,
-      "name": "Waltz of the Flowers",
-      "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Mysteries of the Starlit Sea",
         "url": "https://open.spotify.com/album/2ZLqt63t9l1Bd2odlbe47B"
       },
@@ -575,6 +555,22 @@
       "duration_ms": 142559,
       "name": "Mysteries of the Starlit Sea",
       "url": "https://open.spotify.com/track/0u2s9Fh8JnQ3LGE5ojlYfN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Waltz of the Flowers",
+        "url": "https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 158160,
+      "name": "Waltz of the Flowers",
+      "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
     },
     {
       "added_at": "2024-12-06 05:00:00",

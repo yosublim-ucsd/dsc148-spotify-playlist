@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1282614,
+  "num_followers": 1282625,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "The End of Heartache (Special Edition)",
+        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "The End of Heartache",
+      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "10,000 Days",
         "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 257813,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "The End of Heartache (Special Edition)",
-        "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "The End of Heartache",
-      "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
     },
     {
       "added_at": "2024-06-13 12:59:15",

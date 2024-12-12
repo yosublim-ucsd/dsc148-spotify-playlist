@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Sue\u00f1o A Marte \u2728",
-  "num_followers": 53192,
+  "num_followers": 53195,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 189536,
       "name": "invisible",
       "url": "https://open.spotify.com/track/2xhKj6tAJ4g3BzhJR8JZkl"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
         "name": "VCR",
         "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
-      },
-      "artists": [
-        {
-          "name": "Azul Aim\u00e9",
-          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 201625,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
         "name": "i miss u",
         "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 155812,
       "name": "i miss u",
       "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
+      },
+      "artists": [
+        {
+          "name": "Azul Aim\u00e9",
+          "url": "https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 201625,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Cielo de Colores",
+        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
+      },
+      "artists": [
+        {
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cielo de Colores",
+      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "VOLVER A INTENTARLO CUANDO EST\u00c9S DELANTE",
         "url": "https://open.spotify.com/album/5E27KX2EJwPGdsXDNKNHBs"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 208846,
       "name": "CUANDO EST\u00c9S DELANTE",
       "url": "https://open.spotify.com/track/0Slcgu1iQojwddRuC9SAGD"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "cl\u00e1sico vol. 1",
-        "url": "https://open.spotify.com/album/2Wv1dTQ8dbxJTpC4IYRf6r"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        }
-      ],
-      "duration_ms": 178541,
-      "name": "tus mensajes",
-      "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
     }
   ],
   "unique_name": "dreamy ",

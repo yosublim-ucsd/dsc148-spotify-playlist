@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 444277,
+  "num_followers": 444307,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "S de Saudade",
         "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 174863,
       "name": "S de Saudade",
       "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 190244,
-      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Espelho Meu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Diego",
-          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Espelho Meu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 186816,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Espelho Meu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Diego",
+          "url": "https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Espelho Meu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Cuidado Que Eu Te Supero",
         "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 174628,
       "name": "Cuidado Que Eu Te Supero",
       "url": "https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -775,22 +775,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Aqui Em Casa (ao Vivo)",
-        "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
+        "name": "Made In Studio",
+        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
         },
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Libera Ela - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -811,22 +811,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Made In Studio",
-        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
+        "name": "Aqui Em Casa (ao Vivo)",
+        "url": "https://open.spotify.com/album/2L73yL2BUVtnwlEVr4AJHH"
       },
       "artists": [
         {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         },
         {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
+      "duration_ms": 168080,
+      "name": "Libera Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -939,22 +939,18 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -975,18 +971,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
       "artists": [
         {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Esquenta do DVD",
-        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 155661,
-      "name": "Sofro Onde Eu Quiser",
-      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Esquenta do DVD",
+        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 155661,
+      "name": "Sofro Onde Eu Quiser",
+      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 225792,
       "name": "Cole\u00e7\u00e3o de Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Jenifer",
         "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 160640,
       "name": "Jenifer",
       "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Quatro",
-        "url": "https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Cora\u00e7\u00e3o de Quatro",
-      "url": "https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Volta Marcada",
         "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 167573,
       "name": "Volta Marcada",
       "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Quatro",
+        "url": "https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Cora\u00e7\u00e3o de Quatro",
+      "url": "https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu"
     },
     {
       "added_at": "2024-07-15 13:13:58",

@@ -1374,10 +1374,36 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 366186,
       "name": "Intimacy of the Blues",
       "url": "https://open.spotify.com/track/0hucXbkrCClKVb7hhEXL3N"
+    },
+    {
+      "album": {
+        "name": "Uh! Oh!",
+        "url": "https://open.spotify.com/album/3eAdsI63k3sLjANop2GSPt"
+      },
+      "artists": [
+        {
+          "name": "Dave Glasser",
+          "url": "https://open.spotify.com/artist/4G9E2ztSafPvatE32vjk6v"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        },
+        {
+          "name": "Barry Harris",
+          "url": "https://open.spotify.com/artist/5IgSjABjN0VorY1Vo41ivX"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366160,
+      "name": "Intimacy of the Blues",
+      "url": "https://open.spotify.com/track/2nzAThlkPFolmK9u9FOHzi"
     },
     {
       "album": {

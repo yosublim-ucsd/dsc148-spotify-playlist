@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 464022,
+  "num_followers": 464037,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Tim Maia 1973",
-        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "R\u00e9u Confesso",
-      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "BRABA",
         "url": "https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 129782,
       "name": "BRABA",
       "url": "https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Tim Maia 1973",
+        "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "R\u00e9u Confesso",
+      "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Quarteto Jobim Morelenbaum",
         "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Hello mundo (Ao vivo)",
         "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 157494,
       "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
       "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "S\u00e9rie Acervo - Martinho Da Vila",
-        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Umas E Outras",
         "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "A Tabua De Esmeralda",
-        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
-      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -483,6 +467,22 @@
       "duration_ms": 167533,
       "name": "Kilario",
       "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "A Tabua De Esmeralda",
+        "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Os Alquimistas Est\u00e3o Chegando Os Alquimistas",
+      "url": "https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Nos Botequins Da Vida",
-        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Olho por Olho",
-      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bloco do Silva (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 215493,
       "name": "Beleza Rara - Ao Vivo",
       "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
     },
     {
       "added_at": "2021-11-26 03:18:52",

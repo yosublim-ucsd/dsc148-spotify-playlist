@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,316 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,313 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 9 | [Window](https://open.spotify.com/track/5VdgXNlJANHjHILVEUS2wx) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Window](https://open.spotify.com/album/4siA05RDE9pLDuRPjCnjlY) | 3:33 |
 | 10 | [雲隠れ](https://open.spotify.com/track/3a6DKuGKOOFA3ZmHB2yE4X) | [okudakun](https://open.spotify.com/artist/68PyDKhJdbocAHfwTKb3t6), [someone’s toy box](https://open.spotify.com/artist/02moK3Kd3tjQKXB5yAQ52A) | [my song file.2](https://open.spotify.com/album/1peGele3pgXNIMzfnH0cjX) | 1:57 |
 | 11 | [newPhone \(feat\. Number Collector\)](https://open.spotify.com/track/5WsAENLTdz3D12GSFoyCXT) | [lazydoll](https://open.spotify.com/artist/7D7a6cnpitkgKgz4bJDYy6), [Number collector](https://open.spotify.com/artist/34isboBmC4bT5mxxLlsMIC) | [lyfeDiary](https://open.spotify.com/album/3OXQxSGH9TXdW9Rpca2u6m) | 1:49 |
-| 12 | [Magic power](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic power](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 12 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 13 | [Twofold](https://open.spotify.com/track/6Zt8khRtb4nnhpGdrw8oR5) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:33 |
 | 14 | [生](https://open.spotify.com/track/2ixK3q5XW6oQL6pBVjSWXg) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [生](https://open.spotify.com/album/7a8fqjCPxLq9Q03dj6g0aW) | 2:22 |
 | 15 | [STOP ME](https://open.spotify.com/track/5toUWQPlvlEBPKUUER8cGv) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [STOP ME](https://open.spotify.com/album/4QlpnJIFXZvAhkizFg0Oiu) | 2:53 |

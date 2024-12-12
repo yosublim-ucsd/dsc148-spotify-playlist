@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Harlem On My Mind",
+        "url": "https://open.spotify.com/album/1ymg54xClk2ikSzKU4dr1f"
+      },
+      "artists": [
+        {
+          "name": "Ethel Waters",
+          "url": "https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/1rT171Y1QcruR0URX61Xf4"
+    },
+    {
+      "album": {
         "name": "Presenting Ethel Waters",
         "url": "https://open.spotify.com/album/1JrSOh4OcBNytK0rpZLh0Z"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 186733,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/3Jab5ZvO3dQhdh3KIvl4m0"

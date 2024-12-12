@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 25552,
+  "num_followers": 25576,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAACMF6nYO9ariHdJblLTp2IV",
+  "snapshot_id": "Z1eEgAAAAAArGT9pNwAv+FxI8SqL3Ghs",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Bien Trankis",
-      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 135223,
       "name": "JOHNNIE WALKER",
       "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Bien Trankis",
+      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS CHAKALOSOS II",
-        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 219250,
-      "name": "Gucci Fake",
-      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Nuevo Dia",
         "url": "https://open.spotify.com/album/6w3v2OwRiIPlygawEW9rXM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 195995,
       "name": "Un Nuevo Dia",
       "url": "https://open.spotify.com/track/7pvsKR96tWwAamXiLGvFCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 219250,
+      "name": "Gucci Fake",
+      "url": "https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C"
     },
     {
       "added_at": null,

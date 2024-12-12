@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbrknLz4Do7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrknLz4Do7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrknLz4Do7C)
 
-### [Best Christian & Gospel Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DXbrknLz4Do7C)
+### [Editors' Picks: Best Christian & Gospel Songs of 2024](https://open.spotify.com/playlist/37i9dQZF1DXbrknLz4Do7C)
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year\. Cover: Brandon Lake
 

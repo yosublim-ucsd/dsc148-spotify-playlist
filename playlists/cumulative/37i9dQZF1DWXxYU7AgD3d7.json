@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-18",
   "description": "<a href=\"https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l_E1EUSFQy6mw967zlio3Q\"> Disclosure</a>'s favourite tracks. Updated regularly. Curated by Disclosure. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "name": "Disclosure's track ID's",
+  "name": "Disclosure's track IDs",
   "tracks": [
     {
       "album": {
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
+    },
+    {
+      "album": {
         "name": "Block Rockin",
         "url": "https://open.spotify.com/album/40ePY3llv8e7RNwAQ5jFxf"
       },
@@ -189,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Body Heat",
+        "url": "https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238866,
+      "name": "Body Heat",
+      "url": "https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk"
+    },
+    {
+      "album": {
         "name": "Bogeyman",
         "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
       },
@@ -200,7 +236,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 285882,
       "name": "Bogeyman",
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
@@ -243,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/6WBoNownLMDmm9iLnFiDnD"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258876,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/18Hl2wmmqiFh1tvW2IbXfM"
+    },
+    {
+      "album": {
         "name": "Changing Channels / Hole Away",
         "url": "https://open.spotify.com/album/19Lb00gXUDQJH3WPtvuLl0"
       },
@@ -272,7 +326,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 176000,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/2GE2aAkkxmqZ54fu1tPiKG"
@@ -471,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272253,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "album": {
         "name": "4evergreen 012",
         "url": "https://open.spotify.com/album/49WqpVPWU2el3bFcfp3b0e"
       },
@@ -512,6 +584,28 @@
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "album": {
+        "name": "Emancipate E.P.",
+        "url": "https://open.spotify.com/album/30BKWejVhtVznPmdI5Qzvx"
+      },
+      "artists": [
+        {
+          "name": "MC Neat",
+          "url": "https://open.spotify.com/artist/57mLUstRreHV8pa9o2r5ZY"
+        },
+        {
+          "name": "Scott Garcia",
+          "url": "https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "G.A.R.A.G.E. - Ressurection Mix (2012 Remaster)",
+      "url": "https://open.spotify.com/track/5m1WBdnBcfT01fSYyVPm43"
     },
     {
       "album": {
@@ -570,7 +664,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 222214,
       "name": "Ghettoblaster",
       "url": "https://open.spotify.com/track/2M5LhHBQnM28tQYWVvy0ru"
@@ -928,7 +1022,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 290625,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
@@ -1114,6 +1208,28 @@
       "duration_ms": 442828,
       "name": "Key103",
       "url": "https://open.spotify.com/track/10LN4j7BJzNWF6dj3JCnd9"
+    },
+    {
+      "album": {
+        "name": "King Steps",
+        "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181141,
+      "name": "King Steps",
+      "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
     },
     {
       "album": {
@@ -1388,7 +1504,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 232992,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz"
@@ -1564,6 +1680,28 @@
       "duration_ms": 550680,
       "name": "Phoneglow",
       "url": "https://open.spotify.com/track/5EZcvtoZohyR3RdxgW85j9"
+    },
+    {
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "album": {
@@ -2004,10 +2142,40 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 237379,
       "name": "TAKA - Caribou Remix",
       "url": "https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS"
+    },
+    {
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Naisha",
+          "url": "https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232984,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
     },
     {
       "album": {
@@ -2026,6 +2194,46 @@
       "duration_ms": 444343,
       "name": "The Answer",
       "url": "https://open.spotify.com/track/1TPKJuyKqAwtlFWZPfJqsi"
+    },
+    {
+      "album": {
+        "name": "The Attention Deficit Track",
+        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
+      },
+      "artists": [
+        {
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374884,
+      "name": "The Attention Deficit Track - Terrace Mix",
+      "url": "https://open.spotify.com/track/6lMyilWDPQ9SYz0lGZiXK1"
+    },
+    {
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "album": {

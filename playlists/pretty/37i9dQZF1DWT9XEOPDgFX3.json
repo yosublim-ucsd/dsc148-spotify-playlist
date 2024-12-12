@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 103950,
+  "num_followers": 103978,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "In Two",
+        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "In Two",
-        "url": "https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 143162,
-      "name": "In Two",
-      "url": "https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "wasting your love",
-        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 163611,
-      "name": "wasting your love",
-      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "wasting your love",
+        "url": "https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 163611,
+      "name": "wasting your love",
+      "url": "https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
       },
       "artists": [
         {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 177104,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+      "duration_ms": 177104,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 252986,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Home For The Moment",
         "url": "https://open.spotify.com/album/6pUVU5RbGyFOJYPmUNKCOD"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 234991,
       "name": "Looking At People",
       "url": "https://open.spotify.com/track/6eH80huR96DL1awXtHKqf6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tear Jerky",
-        "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
-      },
-      "artists": [
-        {
-          "name": "Sparky Deathcap",
-          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
-        }
-      ],
-      "duration_ms": 179606,
-      "name": "Send It To Oslo",
-      "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Vagabon",
         "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 207078,
       "name": "Every Woman",
       "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Tear Jerky",
+        "url": "https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm"
+      },
+      "artists": [
+        {
+          "name": "Sparky Deathcap",
+          "url": "https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR"
+        }
+      ],
+      "duration_ms": 179606,
+      "name": "Send It To Oslo",
+      "url": "https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Witch Hazel",
-        "url": "https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn"
-      },
-      "artists": [
-        {
-          "name": "Karen Took The Kids",
-          "url": "https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE"
-        }
-      ],
-      "duration_ms": 262350,
-      "name": "Witch Hazel",
-      "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Solid Heart",
         "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Witch Hazel",
+        "url": "https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn"
+      },
+      "artists": [
+        {
+          "name": "Karen Took The Kids",
+          "url": "https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE"
+        }
+      ],
+      "duration_ms": 262350,
+      "name": "Witch Hazel",
+      "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "DRUGS",
-        "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 203739,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Why You?",
         "url": "https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq"
       },
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "serious person (part 2)",
-        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+        "name": "DRUGS",
+        "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
       },
       "artists": [
         {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 198631,
-      "name": "alien",
-      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
+      "duration_ms": 203739,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2063,6 +2047,22 @@
       "duration_ms": 222946,
       "name": "All Weekend",
       "url": "https://open.spotify.com/track/7DEmnCv6ppnG23avTU1ekM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "serious person (part 2)",
+        "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 198631,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
     }
   ],
   "unique_name": "Folk Arc",

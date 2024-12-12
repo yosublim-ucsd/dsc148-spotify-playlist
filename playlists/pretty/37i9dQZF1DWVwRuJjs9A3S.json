@@ -1,6 +1,6 @@
 {
   "description": "All the highlights from the world of indie! Cover: Timoth\u00e9e Chalamet",
-  "num_followers": 39385,
+  "num_followers": 39387,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
@@ -180,12 +180,12 @@
       },
       "artists": [
         {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
-        },
-        {
           "name": "GUZO",
           "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        },
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
         }
       ],
       "duration_ms": 185431,

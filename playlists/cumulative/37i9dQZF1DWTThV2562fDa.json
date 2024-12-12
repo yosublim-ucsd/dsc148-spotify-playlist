@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Korean or Get Eaten",
+        "url": "https://open.spotify.com/album/4xNR5SHg5hRXeO98KQWX9P"
+      },
+      "artists": [
+        {
+          "name": "Duolingo",
+          "url": "https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123032,
+      "name": "Korean or Get Eaten",
+      "url": "https://open.spotify.com/track/2Vm6NMjzux1219AmUH6my3"
+    },
+    {
+      "album": {
         "name": "Squid Game (Original Soundtrack from The Netflix Series)",
         "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
       },

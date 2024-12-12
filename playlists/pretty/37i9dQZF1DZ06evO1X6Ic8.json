@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 794092,
+  "num_followers": 794142,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAABMyJxNmkzkPkv5XPD3u+g",
+  "snapshot_id": "Z1eEgAAAAADJFwunErFlXTdH1ylxBlk3",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 250603,
-      "name": "I might say something stupid featuring the 1975 & jon hopkins",
-      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+      "duration_ms": 207001,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk"
     },
     {
       "added_at": null,
@@ -295,18 +287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
       "artists": [
         {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 207001,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk"
+      "duration_ms": 250603,
+      "name": "I might say something stupid featuring the 1975 & jon hopkins",
+      "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
     },
     {
       "added_at": null,

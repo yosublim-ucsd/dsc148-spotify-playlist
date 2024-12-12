@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 6 hr 10 min
+111 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 | 2024-06-13 |  |
 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 | 2024-06-13 |  |
 | [Beautiful](https://open.spotify.com/track/3nM6TlNmnR7gFmcWB3vojl) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 4:17 | 2024-06-13 |  |
+| [Before You](https://open.spotify.com/track/5PmctfM9V5l4oWj95mUGYB) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [Before You](https://open.spotify.com/album/6FcWwxN9S3rYzCbXNcWDgu) | 4:06 | 2024-12-11 |  |
 | [Black Soul Ceremony](https://open.spotify.com/track/4mXVIokibUvTrf0XPCpfJe) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Black Soul Ceremony](https://open.spotify.com/album/2Y95VVr68GKBNl0x9KEtTw) | 2:54 | 2024-06-27 |  |
 | [Black Soul Ceremony](https://open.spotify.com/track/650G1u7KnKjSPOVPcSWIT3) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Black Soul Ceremony](https://open.spotify.com/album/32WbfqAplTJSsg8d8L8yz1) | 2:54 | 2024-06-13 | 2024-06-28 |
 | [Bleed Out](https://open.spotify.com/track/6Q9rogwuZ8rQNMYUYFCx2I) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Bleed Out](https://open.spotify.com/album/6JEFJLC0HGtBPjgKyn3H8D) | 3:26 | 2024-06-13 |  |

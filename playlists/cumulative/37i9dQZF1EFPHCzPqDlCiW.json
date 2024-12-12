@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "Heart First (feat. Jordan Shaw)",
+        "url": "https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187659,
+      "name": "Heart First (feat. Jordan Shaw)",
+      "url": "https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv"
+    },
+    {
+      "album": {
         "name": "Rectify",
         "url": "https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3"
       },

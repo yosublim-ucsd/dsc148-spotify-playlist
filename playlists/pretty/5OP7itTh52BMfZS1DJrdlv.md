@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,014,569 likes - 100 songs - 5 hr 15 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,015,631 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 41 | [Rest Of Our Days](https://open.spotify.com/track/0jLsr3uZp9i5VUpWdmd3k6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Rest Of Our Days](https://open.spotify.com/album/50L3qkwrnkqHoEwOT6bp12) | 2:31 |
 | 42 | [At Christmas](https://open.spotify.com/track/06ITvSCsgTIq2FD7AFwa6Z) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:46 |
 | 43 | [The Christmas Sweater](https://open.spotify.com/track/4neC8JZBnxcwVXb9hrKe3I) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:43 |
-| 44 | [Count on Christmas](https://open.spotify.com/track/5tGB1wbTZ4GOu5koMPpxZm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:59 |
-| 45 | [California Christmas](https://open.spotify.com/track/4MrTVyoR7womFNRbHRcnVI) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [California Christmas](https://open.spotify.com/album/3GbA3XhIdDq3cKR3p4om85) | 3:01 |
-| 46 | [Silent Night](https://open.spotify.com/track/6hPaTWf6zuddDf2VNzYdAo) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:47 |
+| 44 | [California Christmas](https://open.spotify.com/track/4MrTVyoR7womFNRbHRcnVI) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [California Christmas](https://open.spotify.com/album/3GbA3XhIdDq3cKR3p4om85) | 3:01 |
+| 45 | [Silent Night](https://open.spotify.com/track/6hPaTWf6zuddDf2VNzYdAo) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:47 |
+| 46 | [Pure Imagination](https://open.spotify.com/track/56mgK7OVdzQCAku9ro5GPj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Pure Imagination](https://open.spotify.com/album/1e1k5dvhUv0qmLPhJepLyA) | 1:57 |
 | 47 | [Step into Christmas](https://open.spotify.com/track/2xY094hXsCMKC7tqUsTFzW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [X\-mas](https://open.spotify.com/album/28NRSDWFek3KRsEMb7AyAq) | 4:29 |
 | 48 | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf) | [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/album/1HO6JUHD7ADuKtMEnUCv5K) | 1:47 |
 | 49 | [The First Noel](https://open.spotify.com/track/25W3eewfp10geV3fzWIGq3) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The First Noel](https://open.spotify.com/album/2fzlF3ddXnOulkkIq44NpI) | 4:21 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 76 | [Blue Christmas](https://open.spotify.com/track/6FA2CCCGjQrAVN1dtWsVVX) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Cheers, It's Christmas \(Deluxe Edition\)](https://open.spotify.com/album/4Jk9oJP4aUo6X2XSwTgnBh) | 2:06 |
 | 77 | [I Like Christmas](https://open.spotify.com/track/7vbUA4qsHGQy7weCqhVmus) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:59 |
 | 78 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
-| 79 | [Pure Imagination](https://open.spotify.com/track/56mgK7OVdzQCAku9ro5GPj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Pure Imagination](https://open.spotify.com/album/1e1k5dvhUv0qmLPhJepLyA) | 1:57 |
+| 79 | [Count on Christmas](https://open.spotify.com/track/5tGB1wbTZ4GOu5koMPpxZm) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:59 |
 | 80 | [Heart of Christmas](https://open.spotify.com/track/2AowJLLVtXWOWFRIdu3LgU) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Christmas with Cliff](https://open.spotify.com/album/7KEAi6eVRiWlFaEmbOKHaC) | 3:47 |
 | 81 | [Who Would Imagine A King](https://open.spotify.com/track/6QvTNgKLJVBvKQTXcMxqMx) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Who Would Imagine A King](https://open.spotify.com/album/0GtTL5GRCNIoBA3PKQJXYo) | 2:58 |
 | 82 | [Jingle Bell Rock \(with Maria Becerra\)](https://open.spotify.com/track/5ieSoxnino7NkPZJegAiGz) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Jingle Bell Rock \(with Maria Becerra\)](https://open.spotify.com/album/6hlGX00f21IuTjKIQN79tK) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [mele malikimaka](https://open.spotify.com/track/16JQocflwZHEVZzI7i8fRo) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 1:35 |
 | 100 | [Twelve Nights of Christmas](https://open.spotify.com/track/7ldZwZnZ9FTpmb07SgqN2M) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:03 |
 
-Snapshot ID: `AAAG3IYRWR4ThZ6Ds2hlWiYIwh6kXfgA`
+Snapshot ID: `AAAG3sOehScQamMIr4lPZqy5Lnjco5q/`

@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: \u00d6wnboss, Glockenbach",
-  "num_followers": 326456,
+  "num_followers": 326485,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -742,6 +742,10 @@
         {
           "name": "HUGEL",
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
         }
       ],
       "duration_ms": 160973,

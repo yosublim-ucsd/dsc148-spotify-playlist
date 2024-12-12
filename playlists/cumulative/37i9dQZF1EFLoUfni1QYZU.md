@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 8 hr 52 min
+147 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Girls Go Wild](https://open.spotify.com/track/4xKhFpyu0xGXxsjp75PR3k) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:43 | 2024-07-26 |  |
 | [Happening](https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1) | [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU) | [Breakfast](https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159) | 3:16 | 2022-09-08 |  |
 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 | 2022-09-08 |  |
-| [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 | 2022-09-08 |  |
+| [Hey Boy](https://open.spotify.com/track/02OJatulbRVfNyyMzB4eMC) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21) | 2:54 | 2024-12-11 |  |
+| [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 | 2022-09-08 | 2024-12-12 |
 | [Hey Nice To Know Ya](https://open.spotify.com/track/46oEi1KC1eNDyNdCbGdZ1d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:24 | 2022-09-08 | 2023-12-14 |
 | [Hey Nice To Know Ya](https://open.spotify.com/track/4KxJMBCIomYj5GvA2qvMYV) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:24 | 2024-07-26 |  |
 | [Hey Nice To Know Ya](https://open.spotify.com/track/7h7KXJexeVFAwrf7aZB9CE) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:24 | 2023-12-13 | 2024-07-27 |
@@ -49,8 +50,9 @@
 | [I Better Love You](https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Trust \- EP](https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC) | 3:16 | 2022-09-08 |  |
 | [I'll Do It](https://open.spotify.com/track/0wzpZiA98xlWnRvqXadMBO) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Ayesha.FM](https://open.spotify.com/album/33TvUK8kGWO1azjPHwo7gJ) | 3:33 | 2024-04-01 | 2024-04-08 |
 | [I'll Do It](https://open.spotify.com/track/54TtC7panYEEymLPoHZI1X) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [I'll Do It](https://open.spotify.com/album/5qmrI4QzGtnHZ82fIFD3MZ) | 3:33 | 2023-06-09 | 2023-06-29 |
-| [I'll Do It](https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa) | [Ayesha Erotica](https://open.spotify.com/artist/7gQJXKyZX1Wwqpd82lB9Xy) | [whore1234](https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX) | 3:33 | 2023-08-08 |  |
-| [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2022-09-08 |  |
+| [I'll Do It](https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa) | [Ayesha Erotica](https://open.spotify.com/artist/7gQJXKyZX1Wwqpd82lB9Xy) | [whore1234](https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX) | 3:33 | 2023-08-08 | 2024-12-12 |
+| [I'll Do It](https://open.spotify.com/track/0uXhy2A4GqHT0QGiY5MHNi) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21) | 3:30 | 2024-12-11 |  |
+| [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2022-09-08 | 2024-12-12 |
 | [I'll Do It](https://open.spotify.com/track/5Gy8YH9BWsmuwRejNvGOwo) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/1aRgeeKy6eddP18FXgK2aK) | 3:33 | 2024-02-09 | 2024-11-02 |
 | [I'll Do It](https://open.spotify.com/track/42RyAUeVOnn2umPYFpdhOi) | [lilster](https://open.spotify.com/artist/2nCL53xQ71uzEmr6pZWuNM) | [I'll Do It](https://open.spotify.com/album/2jfViE17oVo9pNtxv2OvLd) | 3:33 | 2024-02-17 | 2024-10-14 |
 | [I'll Do It](https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm) | [Lucky Charms](https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3), [6SIXSIX](https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2) | [I'll Do It](https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q) | 2:07 | 2023-05-08 | 2023-06-10 |
@@ -65,7 +67,8 @@
 | [Long Way To Go To Die](https://open.spotify.com/track/7ECRCvKNHUEUH7vEPD9P4I) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You \(Deluxe Edition\)](https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O) | 4:05 | 2023-12-13 | 2024-02-17 |
 | [Long Way To Go To Die](https://open.spotify.com/track/4tLY4kxlciE804P2NqY9jy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:10 | 2022-09-08 | 2023-12-14 |
 | [Long Way To Go To Die](https://open.spotify.com/track/61pOzVtdfhaNQnSIc93pSo) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 4:10 | 2024-02-16 |  |
-| [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 | 2022-09-08 |  |
+| [Look How I'm Doin](https://open.spotify.com/track/1QSeNW2uVPy0gYxdQgVXah) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21) | 3:28 | 2024-12-11 |  |
+| [Look How I'm Doin](https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:28 | 2022-09-08 | 2024-12-12 |
 | [Lost in the World](https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:03 | 2022-09-08 |  |
 | [Lost on You](https://open.spotify.com/track/5QIzah26n6vMdj9t0l23m4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/00s8bSC8QKAOFOXfBJdECo) | 4:26 | 2023-12-13 | 2024-02-25 |
 | [Lost on You](https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:28 | 2022-09-08 | 2023-12-14 |
@@ -135,6 +138,7 @@
 | [Tightrope](https://open.spotify.com/track/6Bpv9AamnrPSdmN8M6dE1C) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:38 | 2023-12-13 | 2024-04-28 |
 | [Tokyo Sunrise](https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:24 | 2022-09-08 |  |
 | [Torch](https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp) | [Isa Machine](https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rock The Kasbah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7) | 3:47 | 2022-09-08 |  |
+| [Twisted](https://open.spotify.com/track/2BDORsyFdITMl6VK2S0Vyx) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/2bIJ9jQdVfcb4WPBF5tc21) | 3:48 | 2024-12-11 |  |
 | [Up Against Me](https://open.spotify.com/track/0FblCEqvjlYKCPkid3C0Z5) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 3:02 | 2024-11-29 |  |
 | [Up Against Me](https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:02 | 2022-09-08 | 2023-12-14 |
 | [Up Against Me](https://open.spotify.com/track/4Ka3CvrwzHnCFf6Z4yXwdg) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 3:02 | 2023-12-13 | 2024-11-30 |
@@ -148,7 +152,8 @@
 | [When We're High](https://open.spotify.com/track/4jPYg9dHCUElQzDCXoaTxE) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:57 | 2024-01-26 |  |
 | [When We're High](https://open.spotify.com/track/7ohDUXs6SsU3XjTI9pcKTS) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:57 | 2022-09-08 | 2023-12-14 |
 | [You Want It All](https://open.spotify.com/track/2JlCN8HWtmvbSaLPSZ9f0L) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 4:11 | 2022-09-08 | 2023-12-14 |
-| [You Want It All](https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 4:11 | 2023-12-13 |  |
+| [You Want It All](https://open.spotify.com/track/4dLbEpntPe9g56No8EV6rB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 4:11 | 2024-12-11 |  |
+| [You Want It All](https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1) | 4:11 | 2023-12-13 | 2024-12-12 |
 | [Your Town](https://open.spotify.com/track/3HzpX6bOdxUq9X4cDObkNJ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:25 | 2022-09-08 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Lithuania.",
-  "num_followers": 28535,
+  "num_followers": 28538,
   "original_name": "Top 50 - Lithuania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LuuuoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lu0AIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Jeigu \u017dinai Ko Tu Nori",
         "url": "https://open.spotify.com/album/1ytSDPGcluM6SCt0n3YH28"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2iYWspPgOWNEDkx7tSzD2Y"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Plastika",
         "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/7bi0RIjwiZ0r6HlW0Lb4eq"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 317480,
-      "name": "Veidas",
-      "url": "https://open.spotify.com/track/1QTDh6I7U5UO13uHqeONPR"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -73,7 +57,27 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
@@ -101,59 +105,7 @@
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3cYTdutgaoOt0QOCGROZkV"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Sutemos",
-        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 127272,
-      "name": "1000 V\u0117tr\u0173",
-      "url": "https://open.spotify.com/track/2p9Jb5GxSdQvCJ7zTBSuXK"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Prisimink",
         "url": "https://open.spotify.com/album/13uIsq9amuUco2Pdb0d7Z0"
@@ -169,23 +121,7 @@
       "url": "https://open.spotify.com/track/0nDJPe1kG1xVrtgatH7Xj2"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -205,7 +141,55 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Sutemos",
+        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "1000 V\u0117tr\u0173",
+      "url": "https://open.spotify.com/track/2p9Jb5GxSdQvCJ7zTBSuXK"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "TURTAS",
         "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
@@ -216,12 +200,12 @@
           "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
         }
       ],
-      "duration_ms": 271240,
-      "name": "Kiek Dar Vargo",
-      "url": "https://open.spotify.com/track/6a3FxvRHfa1SwgOqIdR0cu"
+      "duration_ms": 317480,
+      "name": "Veidas",
+      "url": "https://open.spotify.com/track/1QTDh6I7U5UO13uHqeONPR"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -241,23 +225,55 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 276601,
+      "name": "Troleibusas",
+      "url": "https://open.spotify.com/track/48vq6Ru6gsKd6bNrznDAtg"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -277,39 +293,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Silpti Naudoje",
-      "url": "https://open.spotify.com/track/23svfEs127SNiNw7i0nJZg"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Ma\u017eas r\u016bpintoj\u0117lis",
         "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
@@ -329,39 +313,7 @@
       "url": "https://open.spotify.com/track/0gHYGd6lrpLbmJBQXD6DB2"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 276160,
-      "name": "Kultas",
-      "url": "https://open.spotify.com/track/5B5zMbJGevJihiCeUI0CTC"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -377,119 +329,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "L\u0117l\u0117",
-      "url": "https://open.spotify.com/track/56AqUlRO8Vk1SYGHkv8PMR"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Atleisk Man",
-      "url": "https://open.spotify.com/track/1tMSeVeUKvl1lc8zo4w34e"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 276601,
-      "name": "Troleibusas",
-      "url": "https://open.spotify.com/track/48vq6Ru6gsKd6bNrznDAtg"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Sutemos",
-        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Tarp Gelton\u0173 R\u016bt\u0173",
-      "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
-      },
-      "artists": [
-        {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Istorija",
-      "url": "https://open.spotify.com/track/6oRextGNw080Pmrdve55vI"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 252752,
-      "name": "Nuo\u0161ird\u017eiai",
-      "url": "https://open.spotify.com/track/5cxpVslr1T420OzcxZ6Fv0"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 252097,
-      "name": "Pikta kar\u016bna",
-      "url": "https://open.spotify.com/track/1FptUpfiFbD2GX7CNtqU9L"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -505,7 +345,23 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Sutemos",
+        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Tarp Gelton\u0173 R\u016bt\u0173",
+      "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "TURTAS",
         "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
@@ -516,12 +372,92 @@
           "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
         }
       ],
-      "duration_ms": 226253,
-      "name": "Atidavei",
-      "url": "https://open.spotify.com/track/1VZ3J21PDmrQ4O82gNLMCx"
+      "duration_ms": 288253,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3cYTdutgaoOt0QOCGROZkV"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 252752,
+      "name": "Nuo\u0161ird\u017eiai",
+      "url": "https://open.spotify.com/track/5cxpVslr1T420OzcxZ6Fv0"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 252097,
+      "name": "Pikta kar\u016bna",
+      "url": "https://open.spotify.com/track/1FptUpfiFbD2GX7CNtqU9L"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "Ma\u017eas r\u016bpintoj\u0117lis",
         "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
@@ -541,139 +477,55 @@
       "url": "https://open.spotify.com/track/2mV63GidyLrGmWUQORQ8Wz"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "TURTAS",
-        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
       "artists": [
         {
-          "name": "ba.",
-          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Pastovi",
-      "url": "https://open.spotify.com/track/7DJJrr7IuO3K5tSrKOuqmf"
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 134126,
+      "name": "Apkabink",
+      "url": "https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
       "artists": [
         {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 234777,
-      "name": "Jono Meko u\u017euomina",
-      "url": "https://open.spotify.com/track/0qBZusbhXScBFCcdY3QU4a"
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 295248,
-      "name": "Keleiviai be biliet\u0173",
-      "url": "https://open.spotify.com/track/2zp6UMMH1HuZkl8WDa0frR"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 185544,
-      "name": "Gudrutis",
-      "url": "https://open.spotify.com/track/2ZEhluVENpF27F0hhuH5eL"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Plastika",
-        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
-      },
-      "artists": [
-        {
-          "name": "Free Finga",
-          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
-        },
-        {
-          "name": "Monika LIU",
-          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
-        }
-      ],
-      "duration_ms": 265423,
-      "name": "Ber\u017eas (feat. Monika Liu)",
-      "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
@@ -697,7 +549,91 @@
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 185544,
+      "name": "Gudrutis",
+      "url": "https://open.spotify.com/track/2ZEhluVENpF27F0hhuH5eL"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 234777,
+      "name": "Jono Meko u\u017euomina",
+      "url": "https://open.spotify.com/track/0qBZusbhXScBFCcdY3QU4a"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Plastika",
+        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
+      },
+      "artists": [
+        {
+          "name": "Free Finga",
+          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
+        },
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+        }
+      ],
+      "duration_ms": 265423,
+      "name": "Ber\u017eas (feat. Monika Liu)",
+      "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+      },
+      "artists": [
+        {
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Kiek Dar Vargo",
+      "url": "https://open.spotify.com/track/6a3FxvRHfa1SwgOqIdR0cu"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -717,123 +653,23 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 260120,
+      "name": "Atleisk Man",
+      "url": "https://open.spotify.com/track/1tMSeVeUKvl1lc8zo4w34e"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 86983,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "luther (with sza)",
-      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
-        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
-      },
-      "artists": [
-        {
-          "name": "Gabriel\u0117 Vilkickyt\u0117",
-          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
-        }
-      ],
-      "duration_ms": 208209,
-      "name": "Am\u017einai neramios \u0161irdys",
-      "url": "https://open.spotify.com/track/62d75EP70ouQboYIuutqmT"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -853,20 +689,188 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-12-10 12:42:17",
+      "added_at": "2024-12-11 12:48:12",
       "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Ma\u017eas r\u016bpintoj\u0117lis",
+        "url": "https://open.spotify.com/album/7IDG2FwH1pyKDwxvyJHoqS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel\u0117 Vilkickyt\u0117",
+          "url": "https://open.spotify.com/artist/5az2A2xwHne4d9q8kVcgMy"
+        }
+      ],
+      "duration_ms": 295248,
+      "name": "Keleiviai be biliet\u0173",
+      "url": "https://open.spotify.com/track/2zp6UMMH1HuZkl8WDa0frR"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+      },
+      "artists": [
+        {
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+        }
+      ],
+      "duration_ms": 276160,
+      "name": "Kultas",
+      "url": "https://open.spotify.com/track/5B5zMbJGevJihiCeUI0CTC"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Stadionai",
+        "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
       },
       "artists": [
         {
           "name": "Jessica Shy",
           "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Rokas",
+          "url": "https://open.spotify.com/artist/17IHT4KW6k85SHKiSAssQt"
         }
       ],
-      "duration_ms": 134126,
-      "name": "Apkabink",
-      "url": "https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT"
+      "duration_ms": 194754,
+      "name": "Stadionai",
+      "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+      },
+      "artists": [
+        {
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Silpti Naudoje",
+      "url": "https://open.spotify.com/track/23svfEs127SNiNw7i0nJZg"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+      },
+      "artists": [
+        {
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "L\u0117l\u0117",
+      "url": "https://open.spotify.com/track/56AqUlRO8Vk1SYGHkv8PMR"
+    },
+    {
+      "added_at": "2024-12-11 12:48:12",
+      "album": {
+        "name": "TURTAS",
+        "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
+      },
+      "artists": [
+        {
+          "name": "ba.",
+          "url": "https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Pastovi",
+      "url": "https://open.spotify.com/track/7DJJrr7IuO3K5tSrKOuqmf"
     }
   ],
   "unique_name": "Top 50 - Lithuania",

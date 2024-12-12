@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,930 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,931 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 21 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
 | 22 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 |
 | 23 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 |
-| 24 | [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 |
-| 25 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
+| 24 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
+| 25 | [Pinches Mariguanos](https://open.spotify.com/track/3H8aARR9Npv0DArzgl3KJH) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Pinches Mariguanos](https://open.spotify.com/album/089KiimOn0i7lGJJztXELG) | 3:31 |
 | 26 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 |
 | 27 | [Recuerdos \(En Vivo\)](https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Teatro Metropolitan 2018 \(En Vivo\)](https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU) | 5:43 |
 | 28 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [No Te Mueras en Mi Casa](https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 4:14 |
 | 50 | [Volver a Verte](https://open.spotify.com/track/5AtR75XB5duEe6QyaYkz0X) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sobreviviente 33](https://open.spotify.com/album/0U9cpdzH8t5JN7rrkdsM73) | 4:42 |
 
-Snapshot ID: `Z1YzAAAAAABc2i+6v8P3jDLxuxPFLPKt`
+Snapshot ID: `Z1eEgAAAAACG0HUoI9d/p8FU2Jjk70lE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ryu, the Runner, Emitê Único
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,157 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,162 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 17 | [bala e fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [bala e fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
 | 18 | [Incinerar](https://open.spotify.com/track/2gK4RWFz8WgSPRoEWaBoPe) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Incinerar](https://open.spotify.com/album/3MZcUdZ2sFP7SEaGLDJjZB) | 2:45 |
 | 19 | [Suspeita](https://open.spotify.com/track/5k5HaoaPHjqA7sbrnahh5a) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Suspeita](https://open.spotify.com/album/4YfyzFyCmWYyeyK6Ls1uyU) | 3:28 |
-| 20 | [Figura Pública](https://open.spotify.com/track/23J0wflr0iQIRjmZjdJNZ2) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Figura Pública](https://open.spotify.com/album/36IaXI7z788PXUtriMfqYA) | 2:12 |
+| 20 | [Figura Pública](https://open.spotify.com/track/23J0wflr0iQIRjmZjdJNZ2) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Figura Pública](https://open.spotify.com/album/36IaXI7z788PXUtriMfqYA) | 2:12 |
 | 21 | [Mídia](https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [Mídia](https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ) | 3:53 |
 | 22 | [Chevette do Jacó](https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Chevette do Jacó](https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C) | 2:53 |
 | 23 | [Mente Além](https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:22 |

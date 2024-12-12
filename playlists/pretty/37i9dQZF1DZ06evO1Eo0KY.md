@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 49 | [YOD Body](https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:48 |
 | 50 | [Lapriyè](https://open.spotify.com/track/5603DVqfPRpYisiVrU7crR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Craven N 2](https://open.spotify.com/album/15oXszQS9UeEuREWdf7MpI) | 3:03 |
 
-Snapshot ID: `Z1YzAAAAAABawV1yOpc3jkkh0Hn3khbw`
+Snapshot ID: `Z1eEgAAAAABTt5g9yiB4pKdcrfP+Hv8g`

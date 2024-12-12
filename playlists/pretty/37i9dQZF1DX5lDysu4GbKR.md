@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,360 likes - 108 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,404 likes - 108 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 3 | [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 |
 | 4 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 |
 | 5 | [NOSEBLEED](https://open.spotify.com/track/32BdPuMcOzowmFjRR8Rb84) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NOSEBLEED](https://open.spotify.com/album/2q8tx7JjxwCuHklk2yVb5F) | 2:21 |
-| 6 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
+| 6 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
 | 7 | [Retrograde](https://open.spotify.com/track/1NUfGlP1RJ5APCN0yKgYwO) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Children Of The Night](https://open.spotify.com/album/2bZ7d2Aj1LAejFhA9UB9UY) | 2:15 |
 | 8 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 |
 | 9 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: BSB
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,193 likes - 149 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,194 likes - 149 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 141 | [Knglangan 地球](https://open.spotify.com/track/3q190aEvZO6bhMN5WoTADu) | [Yoku Walis 幽谷瓦歷斯](https://open.spotify.com/artist/2f3gOSmEfLMmsNIl7ScKtz) | [Knglangan 地球](https://open.spotify.com/album/69mpjsoWEprTdyFoImHmEm) | 3:12 |
 | 142 | [在東京路上](https://open.spotify.com/track/2p4rWOAwnLG9OVtanVnBtN) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [在東京路上](https://open.spotify.com/album/4onxYSkCAWK2rJubQ8bSEe) | 3:50 |
 | 143 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
-| 144 | [紅霞劇場The Sunset Playhouse](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩紅Crimson](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 |
+| 144 | [紅霞劇場The Sunset Playhouse](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩紅The truth and fiction of a crimson heart](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 |
 | 145 | [Take You to the Universe](https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [A Room in Brockley](https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW) | 3:47 |
 | 146 | [慕妮MUNI](https://open.spotify.com/track/3GZI2ygFOBwnTDAZ3sMeQ0) | [吉米高JIMIN](https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo) | [慕妮MUNI](https://open.spotify.com/album/190a42c3vlcE0a0CnoUvmo) | 3:02 |
 | 147 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |

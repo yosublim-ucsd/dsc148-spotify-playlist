@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 206160,
       "name": "Empty",
       "url": "https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW"
@@ -4480,7 +4480,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -4924,7 +4924,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
@@ -6782,7 +6782,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 75692,
       "name": "MAZKO",
       "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
@@ -13959,6 +13959,24 @@
     },
     {
       "album": {
+        "name": "\u0412 \u0442\u0443\u0430\u043b\u0435\u0442\u0435 \u043a\u043b\u0443\u0431\u0430",
+        "url": "https://open.spotify.com/album/49ncXxdrRd31P9CP9b4BVd"
+      },
+      "artists": [
+        {
+          "name": "Neverlove",
+          "url": "https://open.spotify.com/artist/6ZTZ9okCK9fUOb0N6ivKjm"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "\u0412 \u0442\u0443\u0430\u043b\u0435\u0442\u0435 \u043a\u043b\u0443\u0431\u0430",
+      "url": "https://open.spotify.com/track/02tzzimqqEVgvmoW6g5MPj"
+    },
+    {
+      "album": {
         "name": "\u0412 \u044d\u043a\u0441\u0442\u0430\u0437\u0435",
         "url": "https://open.spotify.com/album/078skmerJunZK6nyjJVygF"
       },
@@ -16180,6 +16198,28 @@
       "duration_ms": 97033,
       "name": "\u043b\u044e\u0431\u0438 \u043c\u0435\u043d\u044f, \u0430\u043b\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/2w0VyjxphvyEPY9qYIFstk"
+    },
+    {
+      "album": {
+        "name": "\u041b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/2WbTUQkAzzYSVGYBiI41ED"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u0440\u0456\u044f \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u044c\u043a\u0430",
+          "url": "https://open.spotify.com/artist/1t6OTC1dbNIqb1jOUnfVQf"
+        },
+        {
+          "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0421\u043e\u044f",
+          "url": "https://open.spotify.com/artist/6VkBInowtryUeDgr8CqqEo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293035,
+      "name": "\u041b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
     },
     {
       "album": {

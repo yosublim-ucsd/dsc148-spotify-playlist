@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Back, Baby",
+      "url": "https://open.spotify.com/track/6qPr2b9A2aw4n0rbDoUFUg"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 246800,
       "name": "California",
       "url": "https://open.spotify.com/track/47E7jOluwg4Q7zvEJtOVxV"
@@ -706,6 +724,24 @@
       "duration_ms": 298693,
       "name": "Candy",
       "url": "https://open.spotify.com/track/45ZmUXITNXixqBjelRmBSO"
+    },
+    {
+      "album": {
+        "name": "Paradise Pop. 10",
+        "url": "https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276946,
+      "name": "Carousel Horses",
+      "url": "https://open.spotify.com/track/45ZAsEXNqxpB7krlsLvddC"
     },
     {
       "album": {
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 240759,
       "name": "Coolshit Bullshit",
       "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
@@ -1100,6 +1136,42 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
+    },
+    {
+      "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214548,
+      "name": "Curse The Man",
+      "url": "https://open.spotify.com/track/5rLh6WWpAbDcJrT9qwmSM3"
+    },
+    {
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Debbie Darling",
+      "url": "https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc"
     },
     {
       "album": {
@@ -1330,7 +1402,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 167178,
       "name": "endless questions",
       "url": "https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM"
@@ -1496,6 +1568,24 @@
       "duration_ms": 174914,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH"
+    },
+    {
+      "album": {
+        "name": "The Jester",
+        "url": "https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226770,
+      "name": "Flash In The Pan",
+      "url": "https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET"
     },
     {
       "album": {
@@ -1694,7 +1784,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
@@ -2260,7 +2350,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 151266,
       "name": "I'm Loving Nothing",
       "url": "https://open.spotify.com/track/7bJ4yFd2JPJfxrpbJXPeRC"
@@ -2300,6 +2390,24 @@
       "duration_ms": 191670,
       "name": "If Not For You (Demo)",
       "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
+    },
+    {
+      "album": {
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe"
     },
     {
       "album": {
@@ -2344,6 +2452,24 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
+    },
+    {
+      "album": {
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "In A Good Way",
+      "url": "https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc"
     },
     {
       "album": {
@@ -2496,7 +2622,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 261810,
       "name": "It Is So Nice to Get Stoned",
       "url": "https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO"
@@ -2846,7 +2972,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 353506,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
@@ -3106,7 +3232,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 209971,
       "name": "love is a black hole !",
       "url": "https://open.spotify.com/track/28cQ6woa2DeOICa4Qefaje"
@@ -3432,7 +3558,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
@@ -3490,6 +3616,24 @@
       "duration_ms": 249333,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/4JvEicQI7CxOJxuI0xtpim"
+    },
+    {
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257903,
+      "name": "Mouth of a Flower",
+      "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
     },
     {
       "album": {
@@ -3718,6 +3862,24 @@
       "duration_ms": 164946,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph"
+    },
+    {
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "album": {
@@ -4197,6 +4359,24 @@
     },
     {
       "album": {
+        "name": "SABLE,",
+        "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/05qoJ1JUl7LJxB6kp24DSP"
+    },
+    {
+      "album": {
         "name": "Turn To Something You Know",
         "url": "https://open.spotify.com/album/6up8uYZRbV7UI3FVbCH3Wl"
       },
@@ -4519,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "album": {
         "name": "Ag\u00fcita",
         "url": "https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn"
       },
@@ -4548,7 +4746,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
@@ -4924,7 +5122,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
@@ -4960,7 +5158,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 215466,
       "name": "The Last Year",
       "url": "https://open.spotify.com/track/2gs4GCStX8lwS8XIrrv63g"
@@ -5202,6 +5400,24 @@
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+    },
+    {
+      "album": {
+        "name": "to be held",
+        "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234742,
+      "name": "to be held",
+      "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,783 likes - 78 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,781 likes - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

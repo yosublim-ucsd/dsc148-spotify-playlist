@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Lely45
 
-225 songs - 11 hr 49 min
+226 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Дотики](https://open.spotify.com/track/3KWAQF0u32HmmXfZhEvEgX) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Дотики](https://open.spotify.com/album/2lrqG9Hp9yeWf5EgXMh7uV) | 2:22 | 2024-06-27 |  |
 | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/track/24UrlcD3tsaFufoRuR5BHy) | [Ганна Польська](https://open.spotify.com/artist/2VSBrTn1uztlSxi9zm8nIE), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дура \(Сумніваюсь у собі\)](https://open.spotify.com/album/3oeUpyrFubw2SSiQ1TO5BO) | 2:25 | 2024-06-27 |  |
 | [Дурності](https://open.spotify.com/track/7FDzyn2TIcKQg03gcqRW8l) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Дурності](https://open.spotify.com/album/0jWKd0GPvk0VMjC3Sj54EE) | 2:16 | 2024-11-07 | 2024-12-07 |
+| [Дійсно Все](https://open.spotify.com/track/1K5SDiluaKbKgT4a3hNjXW) | [MARQUIS](https://open.spotify.com/artist/2HIMmj8mDIBr6VQqnTzMwN), [Sofia Shanti](https://open.spotify.com/artist/546wSi6Jl1aMJnQ7ACGrsE) | [Дійсно Все](https://open.spotify.com/album/5AvBBgolObH0UP06SXsJrF) | 3:50 | 2024-12-06 |  |
 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 | 2024-06-27 |  |
 | [жовта маршрутка](https://open.spotify.com/track/7CmYEWtL4Z0P390rwVAaJe) | [Sad Novelist](https://open.spotify.com/artist/4rOBmdIdNqYrYSRea6iYrh), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [жовта маршрутка](https://open.spotify.com/album/5cdjf5b9V562DbZ0UDAfz7) | 3:39 | 2024-07-12 | 2024-08-24 |
 | [за кордоном](https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [за кордоном](https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q) | 2:00 | 2024-06-27 |  |
@@ -199,7 +200,7 @@
 | [Ти став для мене місцем сили](https://open.spotify.com/track/54Mxaz5QhYHSyngJP5sGh6) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Холодна вода](https://open.spotify.com/album/0Gn8UuGDuIDA7ghYcQQQk0) | 2:57 | 2024-08-23 | 2024-09-14 |
 | [ти її любиш.](https://open.spotify.com/track/3aTrk4mCpbOLLhb6i1XAVZ) | [vioria](https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT) | [ти її любиш.](https://open.spotify.com/album/1N0bHz1I5O4QhG5xyliCUQ) | 3:06 | 2024-07-26 | 2024-10-06 |
 | [тимчасунки](https://open.spotify.com/track/3iUX8GPWS5FccR8Ws9KWAk) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Легкий спосіб кинути хлопця](https://open.spotify.com/album/7rd9JdGUjUJ9WlAL4UmjhU) | 3:01 | 2024-07-26 |  |
-| [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 | 2024-06-27 |  |
+| [тож бувай](https://open.spotify.com/track/2ZWphDlIe9amOdwGe4bgAW) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [тож бувай](https://open.spotify.com/album/0tuOGPeMyheBhAEUi5Nhpa) | 2:26 | 2024-06-27 | 2024-12-12 |
 | [тону](https://open.spotify.com/track/3Opr8RNJiIVde8XnTpPN7j) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [CHAOS](https://open.spotify.com/album/5X7EUVnOTTOwOiZ3JFu6dU) | 3:00 | 2024-10-18 | 2024-11-08 |
 | [Тримай мене](https://open.spotify.com/track/33ve7gKEeUALVEIJPCV0zL) | [Тонка](https://open.spotify.com/artist/2ENRblmO6FgEs7MSj2AuWG) | [Акустичний альбом](https://open.spotify.com/album/48r9xUQrkf39dqp6QYlLAr) | 3:53 | 2024-09-13 | 2024-12-08 |
 | [Тримаєм посадку](https://open.spotify.com/track/1YHbwb0uyDM62d4SUNzmCc) | [Sasha Boole](https://open.spotify.com/artist/2s0YnA9mOGWt5DiDMoDjyy) | [Тримаєм посадку](https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h) | 2:43 | 2024-06-27 |  |

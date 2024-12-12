@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 7 hr 30 min
+143 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-12-13 |  |
 | [Just Because I'm Okay](https://open.spotify.com/track/6L4wVtBG339qIHtNOBFHs2) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/0vNn3cUzx5e8QtzAr1YYlB) | 3:17 | 2023-12-13 | 2024-05-08 |
 | [Just Because I'm Okay](https://open.spotify.com/track/6czPBedtyYptPzCs9puGhq) | [Harvest Son](https://open.spotify.com/artist/21B4jICzw4HvMZGTs0WgK4), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Just Because I'm Okay](https://open.spotify.com/album/1r60ujMAc6UEVCrOtembWK) | 3:17 | 2024-05-07 |  |
+| [Just Keep Dancing](https://open.spotify.com/track/0fiCJFdYdX9TGi2c56hEpz) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Just Keep Dancing](https://open.spotify.com/album/5cDw9FFGDpwSA8eIJHTEUL) | 2:37 | 2024-12-11 |  |
 | [Just Miss Love](https://open.spotify.com/track/6KwvzNhrvOXc1i4mCCU0xY) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love](https://open.spotify.com/album/0HdLiRs3Kv3D36oRKL72zn) | 3:27 | 2022-05-25 | 2023-12-14 |
 | [Just Miss Love \(feat\. Saint Wilder\)](https://open.spotify.com/track/3KlvJZnYxqxTHuIz85ltx1) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love \(feat\. Saint Wilder\)](https://open.spotify.com/album/2Fr6emULXNjU1bFupojapb) | 3:27 | 2023-12-13 |  |
 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 | 2023-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 79 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 79 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 15 | [Stubborn Ass](https://open.spotify.com/track/1Rbd7I1oCXx4LIIRtlykSE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:20 |
 | 16 | [Bad Bitch Anthem](https://open.spotify.com/track/0pq5dsJfIhJ7G5jMWcl5GP) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:39 |
 | 17 | [She Like I'm Like](https://open.spotify.com/track/2W2txJXyjPO61rD7xAxwAp) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:11 |
-| 18 | [HennyNHoes](https://open.spotify.com/track/4zcIlqs1iK1ZVnPfgl2TNv) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 2:43 |
-| 19 | [Car Confessions](https://open.spotify.com/track/3yiwscHz9UiXp7PPWcV3S8) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:21 |
+| 18 | [Car Confessions](https://open.spotify.com/track/3yiwscHz9UiXp7PPWcV3S8) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:21 |
+| 19 | [HennyNHoes](https://open.spotify.com/track/4zcIlqs1iK1ZVnPfgl2TNv) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 2:43 |
 | 20 | [Off the Yak](https://open.spotify.com/track/0B1qHg8IDDHSCwswHeu58o) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:31 |
 | 21 | [No Mercy \(Intro\)](https://open.spotify.com/track/7iRIG5FikWiaVRRrPyNlnK) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:11 |
 | 22 | [Walk](https://open.spotify.com/track/77F5snvVri3RyOFoXs9pYD) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Walk](https://open.spotify.com/album/3yWgWgX0CIQ372KGxZxrTE) | 3:18 |
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 43 | [Foreign](https://open.spotify.com/track/5hp38gaZUvwjFrqYkru886) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:26 |
 | 44 | [Bonnie](https://open.spotify.com/track/5rTA7RosLJvZZ3UrsYqV7F) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:24 |
 | 45 | [Kold World](https://open.spotify.com/track/5pVlBFnZcXzW613mB9pQVG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:57 |
-| 46 | [Through The Day](https://open.spotify.com/track/1OycK0O319x0vsGhUMrzYG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:35 |
-| 47 | [Sober Thoughts](https://open.spotify.com/track/1AxBgbv1xJIVzoUfz3pOOW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:26 |
+| 46 | [Sober Thoughts](https://open.spotify.com/track/1AxBgbv1xJIVzoUfz3pOOW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:26 |
+| 47 | [Through The Day](https://open.spotify.com/track/1OycK0O319x0vsGhUMrzYG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 4:35 |
 | 48 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
 | 49 | [Smoove Kriminal](https://open.spotify.com/track/2SULeROPQ6q2kx1Lb2ylDX) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:41 |
 | 50 | [JOOTD feat\. Monica](https://open.spotify.com/track/1i3RzyUiuQ9vkxsvRMy2rI) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:13 |
 | 51 | [Regular](https://open.spotify.com/track/3k5iWLAuPkriz4qf3E8rlb) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:16 |
 | 52 | [Savage Mode](https://open.spotify.com/track/0Nz9k4lbE7BJzVZeXc8bV8) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:15 |
-| 53 | [Numb](https://open.spotify.com/track/0nhAe8ViHWT8lbKlg5RjwU) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:51 |
-| 54 | [The Lyfestyle](https://open.spotify.com/track/2QaSr3sHQgoZuCiJkUhocW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:25 |
-| 55 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 |
+| 53 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 |
+| 54 | [Numb](https://open.spotify.com/track/0nhAe8ViHWT8lbKlg5RjwU) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:51 |
+| 55 | [The Lyfestyle](https://open.spotify.com/track/2QaSr3sHQgoZuCiJkUhocW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:25 |
 | 56 | [Da Come Up](https://open.spotify.com/track/75MmKQ71V9zFAfK2aA8Wgl) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:41 |
 | 57 | [My Hitta](https://open.spotify.com/track/10LK20KTYWu072MC8yvXnV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:26 |
 | 58 | [Wahlinn](https://open.spotify.com/track/6bkPI7zlkdbWJ0dS5oNRsi) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Korleone](https://open.spotify.com/artist/37GwPp8jpX0TvlKwvy4RIS) | [Wahlinn](https://open.spotify.com/album/7MEKyGygzGM5QRZ7R85TEP) | 3:49 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 78 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
 | 79 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `AbjzIAAAAACXaBYt+o0r7Bo9it3/jRqw`
+Snapshot ID: `Abj4tgAAAADyh0+7/nF6+VeohNtf+vuv`

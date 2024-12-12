@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 16 | [50s](https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s \(headiokart remix\)](https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z) | 2:39 |
 | 17 | [Three Rivers](https://open.spotify.com/track/6lHN6T5ZkPCEKDPZqDKcYw) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:31 |
 | 18 | [Attitude](https://open.spotify.com/track/5u1IwY8m1KBKVXaHUoQrn7) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:16 |
-| 19 | [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 |
-| 20 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 |
+| 19 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 |
+| 20 | [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 |
 | 21 | [Spaghetti](https://open.spotify.com/track/7j0AjRMQ5f2AFMLgn9aQHm) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:32 |
 | 22 | [House Invasions](https://open.spotify.com/track/6MmoLsN5Wh0g86AOfOH5nt) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [House Invasions](https://open.spotify.com/album/1XrCkFbBItJh1RGDUjP6oG) | 3:29 |
 | 23 | [Prey](https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:05 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 32 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 33 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `AbjzIAAAAABzuTjm526qjTDRbldH5FB2`
+Snapshot ID: `Abj4wAAAAADU6t+VlJ7jnAKihj/fb6Ys`

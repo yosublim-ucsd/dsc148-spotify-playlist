@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: ONE OR EIGHT with Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,982 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,985 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 53 | [白い恋人達 \[2022 Remaster\]](https://open.spotify.com/track/1SQiB9KEx06RbXuGmqCLuc) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:42 |
 | 54 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 55 | [Free](https://open.spotify.com/track/7DKyhfk7PQdjRFWUA0eQYA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:29 |
-| 56 | [Magic power](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic power](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 56 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 57 | [恋人がサンタクロース](https://open.spotify.com/track/7K1w8pMu2MeXgU3FPqwxbR) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [SURF & SNOW](https://open.spotify.com/album/6T00pjmcIwiUhF0Jc7TGRr) | 5:05 |
 | 58 | [愛しさにリボンをかけて](https://open.spotify.com/track/0MxkstNYYDc406x2ufqoe1) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [BRIGHT NEW WORLD](https://open.spotify.com/album/1FmsLItsZSBKedqTOqAd20) | 5:02 |
 | 59 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |

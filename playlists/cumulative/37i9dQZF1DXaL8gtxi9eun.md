@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: محمد شاهين
 
-369 songs - 21 hr 58 min
+370 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 | 2023-05-18 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-10-24 | 2022-12-27 |
 | [Leh](https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Leh](https://open.spotify.com/album/2Uf6xHsAZVMKqie8koQSfC) | 3:59 | 2022-05-04 | 2022-07-15 |
-| [Lem Ashamak](https://open.spotify.com/track/0dvjvNU9disvGnOFlZ3pMF) | [Soma](https://open.spotify.com/artist/4lVEjRrFtykgXkHL1YFEZN) | [Lem Ashamak](https://open.spotify.com/album/28zYSQHpPeUnvE0OJxHZVt) | 4:04 | 2024-07-29 |  |
+| [Lem Ashamak](https://open.spotify.com/track/0dvjvNU9disvGnOFlZ3pMF) | [Soma](https://open.spotify.com/artist/4lVEjRrFtykgXkHL1YFEZN) | [Lem Ashamak](https://open.spotify.com/album/28zYSQHpPeUnvE0OJxHZVt) | 4:04 | 2024-07-29 | 2024-12-12 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2022-05-04 | 2023-05-18 |
 | [Lewjah Tani](https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lewjah Tani](https://open.spotify.com/album/2iObUozOdxAw1Dag3mHssf) | 3:30 | 2022-05-04 | 2022-07-11 |
 | [M3a Nafsi](https://open.spotify.com/track/4U5UIEpRVxQWEoq1KqOZ18) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [M3a Nafsi](https://open.spotify.com/album/0rvj679AbMEqIjU1fwq4G2) | 3:32 | 2022-05-04 | 2022-07-15 |
@@ -369,6 +369,7 @@
 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-12 | 2024-08-10 |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-08 | 2023-07-26 |
 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 | 2024-12-06 |  |
+| [ومتبعدنيش](https://open.spotify.com/track/0K3qRetrs7ZKQq2FFUiDbr) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [ومتبعدنيش](https://open.spotify.com/album/4JZUx5zH6UvRfbTsnwJ2DQ) | 3:52 | 2024-12-11 |  |
 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-05-17 | 2023-07-11 |
 | [يا ساتر](https://open.spotify.com/track/2ohn9s2Wuv3XHS4OwOsZ4c) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [يا ساتر](https://open.spotify.com/album/1hzmp6AsJRcG7pz9eQko19) | 3:28 | 2024-02-09 | 2024-07-30 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-11 | 2023-07-12 |

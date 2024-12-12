@@ -113,6 +113,42 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Alright Baby",
+      "url": "https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi"
+    },
+    {
+      "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234620,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/6prfPFBCmz1we1DMf5BWnC"
+    },
+    {
+      "album": {
         "name": "AM To PM",
         "url": "https://open.spotify.com/album/3GiH0Wp41i3UxeQwTTPQ1x"
       },
@@ -178,10 +214,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 353142,
       "name": "At Sunset Sunrise Blooms",
       "url": "https://open.spotify.com/track/1eY1Atu5l6JAH9ezCOY6ty"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353152,
+      "name": "At Sunset Sunrise Blooms",
+      "url": "https://open.spotify.com/track/2MgE9yGRVvHbH7RXAqfPI7"
     },
     {
       "album": {
@@ -322,10 +376,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 268387,
       "name": "Beach Bum Palace",
       "url": "https://open.spotify.com/track/2OPjttR2y0KsktacOUGt92"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268394,
+      "name": "Beach Bum Palace",
+      "url": "https://open.spotify.com/track/16aXAgdJ1gYnX4PB60h9KZ"
     },
     {
       "album": {
@@ -1097,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Don't Wonder Why",
+        "url": "https://open.spotify.com/album/70mvdgnAIzoEi0Ix2a9psB"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176532,
+      "name": "Don't Wonder Why",
+      "url": "https://open.spotify.com/track/3evBwYwL2CXNZQTrmVcu46"
+    },
+    {
+      "album": {
         "name": "The Sky Is Bleeding",
         "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
       },
@@ -1288,10 +1378,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 273000,
       "name": "Fantasies",
       "url": "https://open.spotify.com/track/5UnO5ZO5ZzIV8qu0USQuw1"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273002,
+      "name": "Fantasies",
+      "url": "https://open.spotify.com/track/4DmoQyPjhKkTpyDjGvV24m"
     },
     {
       "album": {
@@ -1364,10 +1472,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 228684,
       "name": "Follows You Around",
       "url": "https://open.spotify.com/track/0CJVD3yGgXH5bJu3C51lZX"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Follows You Around",
+      "url": "https://open.spotify.com/track/0DzNcnjXJhbh54bcJKNmld"
     },
     {
       "album": {
@@ -1436,10 +1562,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 226760,
       "name": "Freak Dreams",
       "url": "https://open.spotify.com/track/0ryRrw17UzWFg2eyz4mIUk"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "Freak Dreams",
+      "url": "https://open.spotify.com/track/49F51032pRZNtEXO92KImJ"
     },
     {
       "album": {
@@ -1458,6 +1602,24 @@
       "duration_ms": 215001,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/0liZik8sBnhhlPrKt2Cdb7"
+    },
+    {
+      "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197368,
+      "name": "Further Out",
+      "url": "https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl"
     },
     {
       "album": {
@@ -1638,6 +1800,24 @@
       "duration_ms": 218267,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H"
+    },
+    {
+      "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195712,
+      "name": "Hell of a Life",
+      "url": "https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR"
     },
     {
       "album": {
@@ -1832,10 +2012,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 269734,
       "name": "I Get Too High",
       "url": "https://open.spotify.com/track/03MROZ5GH5mGHKarlKAFyf"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269769,
+      "name": "I Get Too High",
+      "url": "https://open.spotify.com/track/5RunX2G0HgyhT3Vd6JSB4u"
     },
     {
       "album": {
@@ -1958,10 +2156,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 211790,
       "name": "Island in the Sun",
       "url": "https://open.spotify.com/track/2ZXMbL7O4HV09MNjBCjWKy"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211797,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/3Eeu2dS49d29PO1KrvNWya"
     },
     {
       "album": {
@@ -2030,10 +2246,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 250510,
       "name": "Jerks",
       "url": "https://open.spotify.com/track/5k4s6tcoW7Gup7hAKxgZ3y"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250517,
+      "name": "Jerks",
+      "url": "https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v"
     },
     {
       "album": {
@@ -2138,10 +2372,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 247510,
       "name": "L35af",
       "url": "https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247530,
+      "name": "L35af",
+      "url": "https://open.spotify.com/track/7uMHUtc2byarVewjq6bpYm"
     },
     {
       "album": {
@@ -2379,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130393,
+      "name": "Marshmallow Skies",
+      "url": "https://open.spotify.com/track/3zhKMXmlvaqw7BNZbsIwEt"
+    },
+    {
+      "album": {
         "name": "MAYBE IN ANOTHER LIFE...",
         "url": "https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m"
       },
@@ -2462,10 +2732,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 252000,
       "name": "Needless to Say",
       "url": "https://open.spotify.com/track/3M2ZGa1CasGiQXjKAONHoU"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252010,
+      "name": "Needless to Say",
+      "url": "https://open.spotify.com/track/2zinC0U05Y3M50OKAEnoXZ"
     },
     {
       "album": {
@@ -2660,10 +2948,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 179439,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/7w0DBjKu0wWit9BjUrpGDF"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179467,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5oxWSNe8xUp2GtT8l28Qz7"
     },
     {
       "album": {
@@ -2844,10 +3150,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 177112,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/6XMTNaQQlk7LRxhNJu6jSy"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177130,
+      "name": "Reputation",
+      "url": "https://open.spotify.com/track/45yZ8n3y9Exx0uB1a7weqA"
     },
     {
       "album": {
@@ -3028,10 +3352,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 263222,
       "name": "Shake",
       "url": "https://open.spotify.com/track/3sI9FBhwrEBfnIEu5PvECt"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263244,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0vMUSEc4Te8dJIwKfwM4ud"
     },
     {
       "album": {
@@ -3223,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218920,
+      "name": "So Much for Your Help",
+      "url": "https://open.spotify.com/track/2NldB83BLzJjMhjSjE045r"
+    },
+    {
+      "album": {
         "name": "Solar Laws",
         "url": "https://open.spotify.com/album/5PiqqtRN16GSnGpM1qGw2b"
       },
@@ -3270,10 +3630,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 244242,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/05PmT424Y1oCwMaDMbEGOv"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244245,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/78A1ZV1xMBgTs0I8fV00Rn"
     },
     {
       "album": {
@@ -3324,10 +3702,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 210739,
       "name": "Stop at Nothing",
       "url": "https://open.spotify.com/track/1IA5qIIzDjymzYxfE5VTOV"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210752,
+      "name": "Stop at Nothing",
+      "url": "https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn"
     },
     {
       "album": {
@@ -3504,10 +3900,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 329000,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3hwo0FI3ZX7HuI1i1va9hL"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329002,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6"
     },
     {
       "album": {
@@ -3580,6 +3994,24 @@
       "duration_ms": 258419,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/2IbQBVzWkT4CF9aEUWek2o"
+    },
+    {
+      "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154480,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV"
     },
     {
       "album": {
@@ -3929,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "What'll I Do",
+      "url": "https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS"
+    },
+    {
+      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/6axdrDevYp68353P89wkFk"
       },
@@ -3958,10 +4408,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 284500,
       "name": "When I Come Back",
       "url": "https://open.spotify.com/track/2TBLOrOve62gaHlcmYhFlR"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284501,
+      "name": "When I Come Back",
+      "url": "https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO"
     },
     {
       "album": {
@@ -3976,10 +4444,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 183489,
       "name": "White Husk",
       "url": "https://open.spotify.com/track/6zo6iViPQFhaAhdcHKt4Ps"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183509,
+      "name": "White Husk",
+      "url": "https://open.spotify.com/track/1pyNU4cwvLphePd6htmGvP"
     },
     {
       "album": {
@@ -4091,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "vavy",
+        "url": "https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150136,
+      "name": "You and I Dig",
+      "url": "https://open.spotify.com/track/6yYC9tYC0hGd6DUdr6PeKW"
+    },
+    {
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm"
       },
@@ -4102,10 +4606,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 205500,
       "name": "You Messed up",
       "url": "https://open.spotify.com/track/01QKVIO6BxAdVSkMcp53ze"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205504,
+      "name": "You Messed up",
+      "url": "https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c"
     },
     {
       "album": {

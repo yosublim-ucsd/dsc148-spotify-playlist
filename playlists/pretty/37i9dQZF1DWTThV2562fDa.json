@@ -1,13 +1,45 @@
 {
   "description": "There's no stopping the game. Listen to the music from Squid Game, new season coming soon to Netflix. ",
-  "num_followers": 17049,
+  "num_followers": 17080,
   "original_name": "Squid Game Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ArewAAAACOZKRPQrWOdIV36/NgGO4m",
+  "snapshot_id": "Z1lJYQAAAAASpO04uiINFXkjhCzSCFLD",
   "tracks": [
+    {
+      "added_at": "2022-01-26 01:49:10",
+      "album": {
+        "name": "Squid Game (Original Soundtrack from The Netflix Series)",
+        "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C"
+        }
+      ],
+      "duration_ms": 38487,
+      "name": "Pink Soldiers",
+      "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
+    },
+    {
+      "added_at": "2024-12-11 08:00:00",
+      "album": {
+        "name": "Korean or Get Eaten",
+        "url": "https://open.spotify.com/album/4xNR5SHg5hRXeO98KQWX9P"
+      },
+      "artists": [
+        {
+          "name": "Duolingo",
+          "url": "https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq"
+        }
+      ],
+      "duration_ms": 123032,
+      "name": "Korean or Get Eaten",
+      "url": "https://open.spotify.com/track/2Vm6NMjzux1219AmUH6my3"
+    },
     {
       "added_at": "2022-01-26 01:49:10",
       "album": {
@@ -119,22 +151,6 @@
       "duration_ms": 198006,
       "name": "The Rope is Tied",
       "url": "https://open.spotify.com/track/6TCgjFvP6Zre2D3mNLV9PU"
-    },
-    {
-      "added_at": "2022-01-26 01:49:10",
-      "album": {
-        "name": "Squid Game (Original Soundtrack from The Netflix Series)",
-        "url": "https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C"
-        }
-      ],
-      "duration_ms": 38487,
-      "name": "Pink Soldiers",
-      "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
     },
     {
       "added_at": "2022-01-26 01:49:10",

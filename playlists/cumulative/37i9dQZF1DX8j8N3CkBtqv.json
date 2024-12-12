@@ -4885,6 +4885,28 @@
     },
     {
       "album": {
+        "name": "Fanaa",
+        "url": "https://open.spotify.com/album/200SvOTUZmQiqNy3sJBLAP"
+      },
+      "artists": [
+        {
+          "name": "Harmaan Nazim",
+          "url": "https://open.spotify.com/artist/2houjCeBb27grJMrMv1swc"
+        },
+        {
+          "name": "Sarbarish Majumder",
+          "url": "https://open.spotify.com/artist/0vPFuipZOpQ4bdAVqR0bs5"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286565,
+      "name": "Fanaa",
+      "url": "https://open.spotify.com/track/47OAd1FD5sbqn1QVUPRBzb"
+    },
+    {
+      "album": {
         "name": "Farishtey",
         "url": "https://open.spotify.com/album/14fQu5HUVoOZJfd0ApAAuo"
       },
@@ -6596,7 +6618,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 198000,
       "name": "Ik Dafa",
       "url": "https://open.spotify.com/track/2gBnaF4e3aPLQhUDfSdAxE"

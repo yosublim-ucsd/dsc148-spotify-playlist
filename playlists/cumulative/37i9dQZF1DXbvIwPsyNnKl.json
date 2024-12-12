@@ -192,7 +192,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 263414,
       "name": "6LOCK",
       "url": "https://open.spotify.com/track/4kaRV5iUm7GxeJX7z4Yzif"
@@ -238,6 +238,28 @@
       "duration_ms": 270198,
       "name": "911",
       "url": "https://open.spotify.com/track/4HB03HtBWjgkDjbpGY50vW"
+    },
+    {
+      "album": {
+        "name": "A to Z (Drop It)",
+        "url": "https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk"
+      },
+      "artists": [
+        {
+          "name": "Alex Bruce",
+          "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+        },
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210044,
+      "name": "A to Z (Drop It)",
+      "url": "https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU"
     },
     {
       "album": {
@@ -2485,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "Madamot Ka",
+        "url": "https://open.spotify.com/album/483qTGkYt70DoGsnQMLGRB"
+      },
+      "artists": [
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        },
+        {
+          "name": "Baby Blood",
+          "url": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135650,
+      "name": "Madamot Ka",
+      "url": "https://open.spotify.com/track/3sFotCpWY1e84X0YixN4jw"
+    },
+    {
+      "album": {
         "name": "Makasarili Malambing",
         "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
       },
@@ -3158,7 +3202,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 212034,
       "name": "PROBINSYANA",
       "url": "https://open.spotify.com/track/7d6XBbDzgYoMfwqlUv173t"

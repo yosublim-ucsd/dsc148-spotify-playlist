@@ -4,11 +4,11 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-16 songs - 9 hr 9 min
+16 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ben Platt](https://open.spotify.com/episode/4b75NPb8OTh9aDsWszMyav) | [Armchair Expert with Dax Shepard](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE) | [Armchair Expert with Dax Shepard](https://open.spotify.com/album/6kAsbP8pxwaU2kPibKTuHE) | 1:46:55 | 2020-11-27 |  |
+| [Ben Platt](https://open.spotify.com/episode/4b75NPb8OTh9aDsWszMyav) | [Armchair Expert with Dax Shepard](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE) | [Armchair Expert with Dax Shepard](https://open.spotify.com/album/6kAsbP8pxwaU2kPibKTuHE) | 1:59:11 | 2020-11-27 |  |
 | [Ben Platt \- 'The Politician' & 'Ben Platt: Live from Radio City Music Hall'](https://open.spotify.com/episode/174aTOW4JVCHBtb7mSa1yF) | [Awards Chatter](https://open.spotify.com/show/3FVrMC7m9dWVXfEZyucaF9) | [Awards Chatter](https://open.spotify.com/album/3FVrMC7m9dWVXfEZyucaF9) | 1:08:44 | 2020-11-27 |  |
 | [Chp 1: my life is online](https://open.spotify.com/episode/4y3BbDpdJsXTkxXrJKardo) | [21 Days with mxmtoon](https://open.spotify.com/show/7k2gNSLZnopnh6pcvkQACK) | [21 Days with mxmtoon](https://open.spotify.com/album/7k2gNSLZnopnh6pcvkQACK) | 30:59 | 2020-11-27 |  |
 | [Conan Gray Breaks Down His New Album Kid Krow](https://open.spotify.com/episode/6ojbroZbrUuySp86bvPOPu) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 1:00:59 | 2020-11-27 |  |
@@ -20,7 +20,7 @@
 | [Little Voice \- From the Apple TV+ Original Series "Little Voice"](https://open.spotify.com/track/4Uuyj8yUFKn5m60d2NZuva) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice: Season One, Episodes 1\-6 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/2Ggt8sptJt9rFCdt8Q68NH) | 2:19 | 2020-11-27 |  |
 | [MXMTOON Interview\- coming out bisexual, ethnicity identity problems](https://open.spotify.com/episode/2Qc4hW61OKHofGm6ssiiu8) | [Sidewalk Talk Show](https://open.spotify.com/show/4XecmmFwKTjbacFxsbosg7) | [Sidewalk Talk Show](https://open.spotify.com/album/4XecmmFwKTjbacFxsbosg7) | 24:47 | 2020-11-27 |  |
 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2020-11-27 |  |
-| [Sara Bareilles](https://open.spotify.com/episode/1Q9CEksVSd4FGPyDVF8C2h) | [Armchair Expert with Dax Shepard](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE) | [Armchair Expert with Dax Shepard](https://open.spotify.com/album/6kAsbP8pxwaU2kPibKTuHE) | 1:24:34 | 2020-11-27 |  |
+| [Sara Bareilles](https://open.spotify.com/episode/1Q9CEksVSd4FGPyDVF8C2h) | [Armchair Expert with Dax Shepard](https://open.spotify.com/show/6kAsbP8pxwaU2kPibKTuHE) | [Armchair Expert with Dax Shepard](https://open.spotify.com/album/6kAsbP8pxwaU2kPibKTuHE) | 1:36:51 | 2020-11-27 |  |
 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 | 2020-11-27 |  |
 | [Welcome](https://open.spotify.com/track/5OyDrpEkADJhlSvnopHuQ8) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [On Record](https://open.spotify.com/album/6Tja0wl37TsdQx2o6Ev5zH) | 0:12 | 2020-11-27 |  |
 | [You Will Be Found](https://open.spotify.com/track/1H7Zqkq54andtaSSnLRrfp) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Kristolyn Lloyd](https://open.spotify.com/artist/31Rv7Yk0rBrYdQ0ELNZDaR), [Will Roland](https://open.spotify.com/artist/2FYB9zfwe2ayj4zfNeh466), [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 6:00 | 2020-11-27 |  |

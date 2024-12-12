@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bad Bunny, ROSÉ, Hozier, Lil Baby, TV Girl, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,247,245 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,247,224 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 68 | [Solo](https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 1:58 |
 | 69 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 |
 | 70 | [I COME ALIVE](https://open.spotify.com/track/15INkb1H6jpZgMnpa5flHf) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [I COME ALIVE](https://open.spotify.com/album/4LpPxp3nAPuOBR2s4oFi1S) | 4:24 |
-| 71 | [Chest Pain](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 |
+| 71 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 |
 | 72 | [Cobro](https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Cobro](https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq) | 2:44 |
 | 73 | [Without You](https://open.spotify.com/track/139NAM8Pozv6J7us3Gnr1y) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Without You](https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe) | 2:55 |
 | 74 | [Slip & Slide](https://open.spotify.com/track/4egKGPkNQKNIv5SWRsDkHW) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/4v5YarN571B3a0UFhunwtL) | 2:21 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 84 | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/track/0Y0LnvgN7hXQGSIyjUZf4s) | [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Hunter](https://open.spotify.com/artist/1k2OLSDkJD62ggZsHnIiGE) | [PUT IT DOWN \[Feat\. A$AP Ferg & Hunter\]](https://open.spotify.com/album/4jfL3PTazjXlt7fR6YLFoO) | 2:27 |
 | 85 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 |
 | 86 | [No Long Talk](https://open.spotify.com/track/3Q6FkKIJgwwldSIccSe1PW) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [No Long Talk](https://open.spotify.com/album/7clyjZt9cPvc9J8660jw5Q) | 3:22 |
-| 87 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
+| 87 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
 | 88 | [honey, come find me](https://open.spotify.com/track/16oPq8SKNJGvMQhbRWp8VI) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/2iGflcAPXTztrSowZoM8BK) | 2:02 |
 | 89 | [Nights That We Needed](https://open.spotify.com/track/42Uc9j8SJ2sgPHAf7ZS9hg) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Nights That We Needed](https://open.spotify.com/album/5DW7l8OLz9LKfHeNhKCjnF) | 3:35 |
 | 90 | [Tumbleweed](https://open.spotify.com/track/3cnq0cLgzivsNFovclKyE3) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Tumbleweed](https://open.spotify.com/album/49dhviXblwnf2Drbb7Kldp) | 3:09 |

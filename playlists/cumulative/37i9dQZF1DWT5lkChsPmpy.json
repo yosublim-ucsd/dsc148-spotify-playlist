@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/03fSsNx7MHMmjNELccETjR"
+      },
+      "artists": [
+        {
+          "name": "Pello Esso",
+          "url": "https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161111,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/5LJEye2tZ0fW693oTumBnW"
+    },
+    {
+      "album": {
         "name": "Daydream Echoes",
         "url": "https://open.spotify.com/album/3AbeNnmbc5uJpg8MYLwgfx"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 123821,
       "name": "evening cafe",
       "url": "https://open.spotify.com/track/7G37dmyKJB2ElUyPzPS4ss"
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 128623,
       "name": "kaisen trippa",
       "url": "https://open.spotify.com/track/2A5AnYAaPt9eLwRRUQGYhW"
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 162153,
       "name": "Kissing on the Dance Floor",
       "url": "https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M"
@@ -4565,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Lights Are Off",
+        "url": "https://open.spotify.com/album/1w70PAJlhO3FIC7c9JPpMn"
+      },
+      "artists": [
+        {
+          "name": "KD Simon",
+          "url": "https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179724,
+      "name": "Lights Are Off",
+      "url": "https://open.spotify.com/track/6qvQpLE2MdSOeKr4txhK1L"
+    },
+    {
+      "album": {
         "name": "lights out",
         "url": "https://open.spotify.com/album/7omdHaoEHAkSTLh9VVUmdJ"
       },
@@ -4666,7 +4702,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 139764,
       "name": "lofiology",
       "url": "https://open.spotify.com/track/4eAY8ptmb2Nx9YNIK9PZss"
@@ -4706,6 +4742,24 @@
       "duration_ms": 163076,
       "name": "Lonely and I like it",
       "url": "https://open.spotify.com/track/2aL54CY3OQEjTQ73Yj6DDK"
+    },
+    {
+      "album": {
+        "name": "Lonely Sky",
+        "url": "https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE"
+      },
+      "artists": [
+        {
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "Lonely Sky",
+      "url": "https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2"
     },
     {
       "album": {
@@ -5924,7 +5978,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 161570,
       "name": "Obo",
       "url": "https://open.spotify.com/track/7qOBaSjMFcdfUfDQ7IbrZo"
@@ -6601,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "refresh",
+        "url": "https://open.spotify.com/album/6tKkXDxmTNpJNZNOuFEV2o"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134722,
+      "name": "refresh",
+      "url": "https://open.spotify.com/track/4X3C9qAi8WOorLF84X0ZPA"
+    },
+    {
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/6WE2SguoidmTrZtYXrEAoU"
       },
@@ -7156,7 +7228,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 156080,
       "name": "Shaving My Soul",
       "url": "https://open.spotify.com/track/0ws1igakuG95McJdPvWh2Z"
@@ -7886,6 +7958,24 @@
       "duration_ms": 110201,
       "name": "Sunsets & Siestas",
       "url": "https://open.spotify.com/track/74O7OHf2lHJwGHl9jjPirI"
+    },
+    {
+      "album": {
+        "name": "Supersalt",
+        "url": "https://open.spotify.com/album/4OzVcMKeymi6NIZ159mMrN"
+      },
+      "artists": [
+        {
+          "name": "Raphael Creed",
+          "url": "https://open.spotify.com/artist/2shzzQEVBHTmyUUmgvA3eK"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Supersalt",
+      "url": "https://open.spotify.com/track/7Ih1jfLWiFbjnJBvUpUm0d"
     },
     {
       "album": {
@@ -8628,6 +8718,24 @@
       "duration_ms": 175384,
       "name": "Tropical Minds",
       "url": "https://open.spotify.com/track/7fp2lnJSUplCgYaKaW2Gi3"
+    },
+    {
+      "album": {
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/3uzJKosEYNBmsxjXF7rUU5"
+      },
+      "artists": [
+        {
+          "name": "Pierre Sloane",
+          "url": "https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182700,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/0rSCtkQ7F8QdunymZPZRgb"
     },
     {
       "album": {

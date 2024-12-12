@@ -3286,10 +3286,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 191290,
       "name": "The Way I Are (Dance With Somebody)",
       "url": "https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9"
+    },
+    {
+      "album": {
+        "name": "Best of Pop Hits Today",
+        "url": "https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE"
+      },
+      "artists": [
+        {
+          "name": "Layla Evans",
+          "url": "https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI"
+        },
+        {
+          "name": "Mario Best",
+          "url": "https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191290,
+      "name": "The Way I Are (Dance with Somebody)",
+      "url": "https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ"
     },
     {
       "album": {

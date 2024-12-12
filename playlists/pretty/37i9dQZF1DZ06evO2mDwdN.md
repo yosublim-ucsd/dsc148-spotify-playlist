@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,092 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,094 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 46 | [Prayin'](https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Blue Album](https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY) | 6:01 |
 | 47 | [I Wanna Know Your Name \- Live](https://open.spotify.com/track/0vhOnAYQ0fLXqKpCtDFDDo) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 5:40 |
 | 48 | [Go Away](https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:02 |
-| 49 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
-| 50 | [Don't Give Me Up](https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Don't Give Me Up](https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR) | 4:56 |
+| 49 | [Don't Give Me Up](https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Don't Give Me Up](https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR) | 4:56 |
+| 50 | [Today's Your Lucky Day](https://open.spotify.com/track/6EFETJ5VG2AhjGun4dHRD1) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Nikko](https://open.spotify.com/artist/17Zl7UZpsaofiXvKockxNY) | [Today's Your Lucky Day](https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1) | 6:23 |
 
-Snapshot ID: `Z1YzAAAAAACPJ2ljcmSxqs7dQYhQVV0X`
+Snapshot ID: `Z1eEgAAAAAA2xWEft8fRAhGFtCc92coP`

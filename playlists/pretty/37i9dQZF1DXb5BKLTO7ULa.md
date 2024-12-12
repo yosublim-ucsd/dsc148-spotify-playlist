@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: ROSÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,375 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,377 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 2 | [SOS](https://open.spotify.com/track/2usgKLp2V6HTqOXh9rlETr) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [SOS](https://open.spotify.com/album/2zhqn8LO2ce6NgyQlO3n1Q) | 3:05 |
 | 3 | [C’est La Vie](https://open.spotify.com/track/1ZIUsMNYZGXzrwDE2bUD6M) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C’est La Vie](https://open.spotify.com/album/6w07BLT8SENahDHDlZNLOW) | 3:03 |
-| 4 | [Hitte In De Winternacht](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Hitte In De Winternacht](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 |
+| 4 | [Christmas Bae](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Christmas Bae](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 |
 | 5 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 |
 | 6 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 |
 | 7 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 56 | [Baggage Claim](https://open.spotify.com/track/7KydZeAUCGzqJY6DRkVRB6) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Baggage Claim](https://open.spotify.com/album/6zpDjUPzzmlUUB5YhBdtoj) | 5:00 |
 | 57 | [Dopamine](https://open.spotify.com/track/1osIOdkR2nn1NUTBne4e6D) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [GIVANO](https://open.spotify.com/artist/5qsyvtRCMdpOpq7s5uetZ4) | [Dopamine](https://open.spotify.com/album/1VUmcEihv7XuiEnWW2b8ap) | 2:25 |
 | 58 | [Inhaleer](https://open.spotify.com/track/6ipvRhnhhEU8E9pYI7IbRT) | [Mau](https://open.spotify.com/artist/1ESH6JWzVykbIYI4ew71eW) | [Inhaleer](https://open.spotify.com/album/4clnVnmSUz0cStjTlEV4Zq) | 3:28 |
-| 59 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 |
+| 59 | [Better If I Go](https://open.spotify.com/track/0DRsi0PMC4Qe9IKCp3asyx) | [Dylan van Dael](https://open.spotify.com/artist/3ElGEhYsBjq1IR0L4dnVgP), [onzekere guy](https://open.spotify.com/artist/3a5u8lJqeBPWSc1jCWfhbF) | [Better If I Go / Mirror Mirror](https://open.spotify.com/album/2km3cs83hddvcwmcNrVKS8) | 3:25 |
 | 60 | [Overrated](https://open.spotify.com/track/2r0beu8qqFysesex0DhEQf) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Velvet Dreams](https://open.spotify.com/album/5ZcbCtB3uwd2PCNAcQTeZU) | 3:19 |
 | 61 | [Different Planets](https://open.spotify.com/track/4Rfsj0Eckk9IL02PHuDnt2) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Different Planets](https://open.spotify.com/album/1W01b32YQe4vsTeaNcrI1r) | 3:10 |
 | 62 | [I Need A Miracle](https://open.spotify.com/track/3QpABO0V3gappwxWrAKzcC) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Miracle](https://open.spotify.com/album/6ek6vt4CUMkktz8Ebm3dTl) | 2:08 |

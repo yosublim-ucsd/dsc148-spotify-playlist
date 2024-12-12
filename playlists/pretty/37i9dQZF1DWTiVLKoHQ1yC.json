@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 225722,
+  "num_followers": 225783,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -519,58 +539,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 204039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Only I",
-        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 228028,
-      "name": "Only I",
-      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Sunrise To The Morning",
-        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Sunrise To The Morning",
-      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -591,18 +559,34 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -623,6 +607,22 @@
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Train of Thoughts",
-        "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 206097,
-      "name": "Train of Thoughts",
-      "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Kendall Park",
         "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+        "name": "Train of Thoughts",
+        "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 229188,
-      "name": "Martin",
-      "url": "https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH"
+      "duration_ms": 206097,
+      "name": "Train of Thoughts",
+      "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -739,6 +723,22 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 229188,
+      "name": "Martin",
+      "url": "https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -983,6 +983,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 292156,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Highest Love",
+        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+        }
+      ],
+      "duration_ms": 297374,
+      "name": "Highest Love",
+      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 269221,
       "name": "Running In A Dream",
       "url": "https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Highest Love",
-        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
-        }
-      ],
-      "duration_ms": 297374,
-      "name": "Highest Love",
-      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
       "added_at": "2024-11-22 00:00:00",

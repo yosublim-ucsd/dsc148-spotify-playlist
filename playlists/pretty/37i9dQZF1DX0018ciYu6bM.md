@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,768 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,836 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 14 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 15 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 |
 | 16 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 |
-| 17 | [Phobia](https://open.spotify.com/track/0WabV8qHO7mdiyIfaRACeW) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [ROAD TO KINGDOM : ACE OF ACE 〈VS〉, Pt\. 1](https://open.spotify.com/album/6W0s29sQ6fxisO5BGnuP3f) | 3:42 |
+| 17 | [Phobia](https://open.spotify.com/track/0WabV8qHO7mdiyIfaRACeW) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [ROAD TO KINGDOM : ACE OF ACE 〈VS〉, Pt\. 1](https://open.spotify.com/album/6W0s29sQ6fxisO5BGnuP3f) | 3:42 |
 | 18 | [Daydream \(Feat\. JUNNY\)](https://open.spotify.com/track/5fHCn4TLpUK9lyYbRp0FDJ) | [PENIEL](https://open.spotify.com/artist/21EUYgHJLDUeG72eDEmTx4), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [story of my L:ove](https://open.spotify.com/album/6uC8kvmmIWmjLf9vFzLFpU) | 2:39 |
 | 19 | [First Love](https://open.spotify.com/track/6o6QsKq9h2Sv4mlWyWPpZb) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [First Love](https://open.spotify.com/album/5yPtPhJga80eilEnrWwaeW) | 4:08 |
 | 20 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |

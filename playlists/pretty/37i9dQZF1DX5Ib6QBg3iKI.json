@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 141849,
+  "num_followers": 141960,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "The Very Best Of Mud",
+        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
+      },
+      "artists": [
+        {
+          "name": "Mud",
+          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Lonely This Christmas",
+      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "The Kacey Musgraves Christmas Show",
         "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 132108,
       "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
       "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "The Very Best Of Mud",
-        "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
-      },
-      "artists": [
-        {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Lonely This Christmas",
-      "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Christmas Bells",
         "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 254437,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "For Those Who Can't Be Here",
-        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "For Those Who Can't Be Here",
-      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "For Those Who Can't Be Here",
+        "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 183079,
+      "name": "For Those Who Can't Be Here",
+      "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
       },
       "artists": [
         {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "The Magic Of Christmas",
         "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
-        "name": "Last December (Mountain Music version)",
-        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 335555,
-      "name": "Last December (Mountain Music version)",
-      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 215466,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
+        "name": "Last December (Mountain Music version)",
+        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 335555,
+      "name": "Last December (Mountain Music version)",
+      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
     },
     {
       "added_at": "2024-12-06 00:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
+        "name": "Love you left behind",
+        "url": "https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN"
+      },
+      "artists": [
+        {
+          "name": "Kara Marni",
+          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
+        }
+      ],
+      "duration_ms": 192548,
+      "name": "Love you left behind",
+      "url": "https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB"
+    },
+    {
+      "added_at": "2024-12-06 00:01:00",
+      "album": {
         "name": "Stay Another Day",
         "url": "https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU"
       },
@@ -1307,26 +1323,6 @@
       "duration_ms": 161657,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj"
-    },
-    {
-      "added_at": "2024-12-06 00:01:00",
-      "album": {
-        "name": "It\u2019s Beginning to Look A Lot Like Christmas",
-        "url": "https://open.spotify.com/album/0ezjRiJSHHbFOwkaAh2LN0"
-      },
-      "artists": [
-        {
-          "name": "Michael Ball",
-          "url": "https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI"
-        },
-        {
-          "name": "Alfie Boe",
-          "url": "https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "It\u2019s Beginning to Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/2zJwg3CotBHJdJHjQoSxkS"
     }
   ],
   "unique_name": "Easy Christmas",

@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-788 songs - 1 day 10 hr 9 min
+789 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2021-12-07 | 2022-04-21 |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2021-12-07 | 2022-09-13 |
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-12-07 | 2023-05-04 |
+| [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 | 2024-12-11 |  |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 | 2022-07-20 |
 | [Watching Her Go](https://open.spotify.com/track/0PDORoWxzxbquaPnFGcE8I) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Watching Her Go](https://open.spotify.com/album/2fqyRr9O1bnPeLgoTE8jbu) | 2:47 | 2022-11-24 |  |
 | [We Never Know](https://open.spotify.com/track/4IiRsVQYU8d8RTZuwBIkJR) | [George Eardley\-Wilmot](https://open.spotify.com/artist/1oltNwwT7845RLRc2nB4A6) | [We Never Know](https://open.spotify.com/album/0xZQBNftw82HG8hb7rVujJ) | 2:27 | 2022-11-24 | 2024-11-07 |

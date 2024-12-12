@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 11 hr 49 min
+215 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [What Happens Here](https://open.spotify.com/track/1VooPXZF6A8PyWVHgeuwxh) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:23 | 2022-09-08 | 2022-10-22 |
 | [What Happens Here](https://open.spotify.com/track/5QQNYGYDzznqloFLUA32ff) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:23 | 2022-10-21 |  |
 | [When You're Ready](https://open.spotify.com/track/6bNcbh4SxQDU0BHa4Dj3wx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:49 | 2022-09-08 |  |
-| [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 | 2023-08-10 |  |
+| [Where Do All The Diamonds Go?](https://open.spotify.com/track/2BeAnVrLkOpUcFfa4Bi1U3) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Valley Girl \(Extended\)](https://open.spotify.com/album/74znzbWo31OvyOgeDxMLck) | 2:57 | 2024-12-11 |  |
+| [Where Do All The Diamonds Go?](https://open.spotify.com/track/6X1lfXWruECFtZ10bec3ja) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Where Do All The Diamonds Go?](https://open.spotify.com/album/5YM5B211S6iiXgPJLI6nvU) | 2:57 | 2023-08-10 | 2024-12-12 |
 | [Where Do Broken Hearts Go](https://open.spotify.com/track/6HFywc5eQYRRYHYTatCb5Y) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:49 | 2022-09-08 |  |
 | [Where Will I Remember You](https://open.spotify.com/track/40Nh2OnMKMer8PxdaqdRIM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/0dvuqLEnlfiHV491p4wtWf) | 2:16 | 2022-09-08 | 2022-10-22 |
 | [Where Will I Remember You](https://open.spotify.com/track/4F4gY99KTW9ACNH5mNwMzn) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [SKYLOFT](https://open.spotify.com/album/6A0tCIaSLycr0Yyxsbz9ci) | 2:16 | 2022-10-21 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean",
-  "num_followers": 83034,
+  "num_followers": 83061,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
@@ -177,7 +177,7 @@
         },
         {
           "name": "Raghav & Arjun",
-          "url": "https://open.spotify.com/artist/1BWiRMgJjj8O0SUNUvjwJW"
+          "url": "https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot"
         },
         {
           "name": "Deepak Ramola",
@@ -791,26 +791,18 @@
     {
       "added_at": "2024-12-09 09:34:43",
       "album": {
-        "name": "Chhap Tilak",
-        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
+        "name": "Raah-e-Fakira",
+        "url": "https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v"
       },
       "artists": [
         {
-          "name": "Amrita Kak",
-          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
-        },
-        {
-          "name": "Amaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
-        },
-        {
-          "name": "Ayaan Ali Bangash",
-          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
+          "name": "Swarathma",
+          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
         }
       ],
-      "duration_ms": 271058,
-      "name": "Chhap Tilak",
-      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
+      "duration_ms": 233026,
+      "name": "Kaash",
+      "url": "https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx"
     },
     {
       "added_at": "2024-12-09 09:34:43",
@@ -831,18 +823,26 @@
     {
       "added_at": "2024-12-09 09:34:43",
       "album": {
-        "name": "Raah-e-Fakira",
-        "url": "https://open.spotify.com/album/3cq365TibcTJkm9ck4SH3v"
+        "name": "Chhap Tilak",
+        "url": "https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme"
       },
       "artists": [
         {
-          "name": "Swarathma",
-          "url": "https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX"
+          "name": "Amrita Kak",
+          "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+        },
+        {
+          "name": "Amaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg"
+        },
+        {
+          "name": "Ayaan Ali Bangash",
+          "url": "https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Kaash",
-      "url": "https://open.spotify.com/track/0cZiZvDw379OH4eXqGDGtx"
+      "duration_ms": 271058,
+      "name": "Chhap Tilak",
+      "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
     },
     {
       "added_at": "2024-12-09 09:34:43",
@@ -999,26 +999,22 @@
     {
       "added_at": "2024-12-09 09:34:43",
       "album": {
-        "name": "Saajan",
-        "url": "https://open.spotify.com/album/6WCSmcdBShRPCO3uKjvihh"
+        "name": "Chidiya Da Chamba",
+        "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
       },
       "artists": [
         {
-          "name": "Shahid Khan",
-          "url": "https://open.spotify.com/artist/5NCYHU9bcrR0DaOBWgIn0G"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Arjun Sarkar",
-          "url": "https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Saajan",
-      "url": "https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA"
+      "duration_ms": 293076,
+      "name": "Chidiya Da Chamba",
+      "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
     }
   ],
   "unique_name": "Folk in India",

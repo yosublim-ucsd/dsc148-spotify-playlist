@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,644 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,655 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 42 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 |
 | 43 | [Saa Okodie No \(feat\. Obrafour\)](https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:08 |
 | 44 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
-| 45 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 |
-| 46 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 45 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
+| 46 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 |
 | 47 | [Too Bad](https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Too Bad / Different Place](https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8) | 3:49 |
 | 48 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 |
 | 49 | [Can't Stop \(feat\. Sarkodie\)](https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Young & Matured](https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc) | 3:22 |
 | 50 | [Yedin](https://open.spotify.com/track/2ZSwQpziKJivg3cJSoRtjQ) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Yedin](https://open.spotify.com/album/1fuwXJKd5nYTrVFU9R7Afj) | 3:17 |
 
-Snapshot ID: `Z1YzAAAAAABl1RhT+daLJYz2RiwwRHam`
+Snapshot ID: `Z1eEgAAAAAB+xG2cIAPY4a0X14L+bcBg`

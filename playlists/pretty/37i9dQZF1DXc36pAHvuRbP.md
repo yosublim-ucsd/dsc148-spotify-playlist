@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 28 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
 | 29 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
 | 30 | [L'arnaque](https://open.spotify.com/track/7gIFfEThnRAIkXUU1uPqCz) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:56 |
-| 31 | [Dans notre dictionnaire imaginaire](https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [On a perdu la boussole](https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh) | 3:00 |
-| 32 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 |
+| 31 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 |
+| 32 | [Dans notre dictionnaire imaginaire](https://open.spotify.com/track/38e9NYLk6zCgWYor6WIH98) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [On a perdu la boussole](https://open.spotify.com/album/4Dl6SeurL5kRLwyor11WHh) | 3:00 |
 | 33 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 34 | [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 |
 | 35 | [Doudou](https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 2:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 41 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
 | 42 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
 | 43 | [Super flemmard](https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ), [Pascal Peroteau](https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 2:57 |
-| 44 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
-| 45 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
+| 44 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
+| 45 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
 | 46 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
 | 47 | [Les Girafes Se Pavanent](https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q) | [Monsieur Lotus](https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt) | [Les Girafes Se Pavanent](https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM) | 2:19 |
 | 48 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
 | 49 | [Fétouskiteplé](https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu) | [Monstre Moche](https://open.spotify.com/artist/1xQ8hZYPyB9gQ4JxVxIIgV) | [Monstrueux et mocheu](https://open.spotify.com/album/3oOukafeNkqyXLr8olKbJV) | 0:45 |
-| 50 | [La pâte à crêpes](https://open.spotify.com/track/26SFwCnNaToGJqiHFRfCsT) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:23 |
+| 50 | [La révolution des doudous](https://open.spotify.com/track/51i15bMvzYVhqF0jIGsB9M) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 3:12 |
 
 Snapshot ID: `ZsNT8QAAAADaR+4qoZ5OiCVfUyLs71gN`

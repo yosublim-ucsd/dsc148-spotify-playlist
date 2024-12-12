@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586418,
+  "num_followers": 586441,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
         "name": "Greener (with Mitchell Tenpenny)",
         "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 175566,
       "name": "Greener (with Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Those Were The Days",
         "url": "https://open.spotify.com/album/3qp8EVIXBDr8Ah2A9XFh6U"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "mr. mole",
-        "url": "https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5"
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 132533,
-      "name": "mr. mole",
-      "url": "https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ"
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -763,6 +747,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "mr. mole",
+        "url": "https://open.spotify.com/album/2vq7eSrcugqlRKxiiRcwG5"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 132533,
+      "name": "mr. mole",
+      "url": "https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "analysis paralysis",
-        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 146746,
-      "name": "aftermath/afterthought",
-      "url": "https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "every little thing",
         "url": "https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 187245,
       "name": "every little thing",
       "url": "https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "analysis paralysis",
+        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 146746,
+      "name": "aftermath/afterthought",
+      "url": "https://open.spotify.com/track/6MrfKGnxHAcWhIta38sliG"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Stop Talking",
-        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200883,
-      "name": "Stop Talking",
-      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Enmore",
         "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
+        "name": "shut up & kiss me",
+        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "shut up & kiss me",
+      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
         "name": "Recipe For Disaster",
         "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 174629,
       "name": "She\u2019s The Girl",
       "url": "https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
-        "name": "shut up & kiss me",
-        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "shut up & kiss me",
-      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
         }
       ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
       "artists": [
         {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
       "added_at": "2024-11-18 17:19:05",

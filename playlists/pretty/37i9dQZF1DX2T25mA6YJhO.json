@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Cala Vento.",
-  "num_followers": 23221,
+  "num_followers": 23224,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "A tomar por culo",
-        "url": "https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB"
-      },
-      "artists": [
-        {
-          "name": "Aiko el grupo",
-          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
-        }
-      ],
-      "duration_ms": 118743,
-      "name": "A la Mierda",
-      "url": "https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
         "url": "https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 207771,
       "name": "R\u00c1PIDO, R\u00c1PIDO, R\u00c1PIDO!",
       "url": "https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "A tomar por culo",
+        "url": "https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "duration_ms": 118743,
+      "name": "A la Mierda",
+      "url": "https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Travieso",
-        "url": "https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 147579,
-      "name": "Travieso",
-      "url": "https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Barrezka",
         "url": "https://open.spotify.com/album/3i1PtYrwb2NvWFk0SpniZj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 128524,
       "name": "Barrezka",
       "url": "https://open.spotify.com/track/79kqUW02FtA3m3iU5qPVB0"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Travieso",
+        "url": "https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 147579,
+      "name": "Travieso",
+      "url": "https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "El Entusiasmo",
-        "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
-      },
-      "artists": [
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
-        }
-      ],
-      "duration_ms": 178501,
-      "name": "El Entusiasmo",
-      "url": "https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Ven a jugar",
         "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182000,
       "name": "Ven a jugar",
       "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "El Entusiasmo",
+        "url": "https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO"
+      },
+      "artists": [
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "El Entusiasmo",
+      "url": "https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "De aqu\u00ed a un mes",
-        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
+        "name": "Joven Ciudad",
+        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
       },
       "artists": [
         {
-          "name": "Error 97",
-          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
         }
       ],
-      "duration_ms": 141023,
-      "name": "De aqu\u00ed a un mes",
-      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+      "duration_ms": 191691,
+      "name": "Joven Ciudad",
+      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Joven Ciudad",
-        "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
+        "name": "De aqu\u00ed a un mes",
+        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
       "artists": [
         {
-          "name": "el diablo de shanghai",
-          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
         }
       ],
-      "duration_ms": 191691,
-      "name": "Joven Ciudad",
-      "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
+      "duration_ms": 141023,
+      "name": "De aqu\u00ed a un mes",
+      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ganas de verte",
-        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
-      },
-      "artists": [
-        {
-          "name": "Pagafantas",
-          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        },
-        {
-          "name": "Luc\u00eda Moreno",
-          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "Ganas de verte",
-      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -1335,6 +1315,26 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Entre las nubes",
-        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
-      },
-      "artists": [
-        {
-          "name": "Hiperg\u00e9minis",
-          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
-        }
-      ],
-      "duration_ms": 155592,
-      "name": "Entre las nubes",
-      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Al Final",
         "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Entre las nubes",
+        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
+      },
+      "artists": [
+        {
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
+        }
+      ],
+      "duration_ms": 155592,
+      "name": "Entre las nubes",
+      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Cada instante",
-        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rtico",
-          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Cada instante",
-      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "L\u00e1grimas y Milagros",
         "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 147599,
       "name": "Arde",
       "url": "https://open.spotify.com/track/2gmRNw19tkeNn784Hlxvgp"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Lo de siempre",
+        "url": "https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac"
+      },
+      "artists": [
+        {
+          "name": "Go Cactus",
+          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+        }
+      ],
+      "duration_ms": 211087,
+      "name": "Lo de siempre",
+      "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Lo de siempre",
-        "url": "https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac"
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
       },
       "artists": [
         {
-          "name": "Go Cactus",
-          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
         }
       ],
-      "duration_ms": 211087,
-      "name": "Lo de siempre",
-      "url": "https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB"
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Vacaciones Permanentes",
-        "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
-      },
-      "artists": [
-        {
-          "name": "Vacaciones Permanentes",
-          "url": "https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu"
-        }
-      ],
-      "duration_ms": 188525,
-      "name": "Vampiros",
-      "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Dos De Cal",
         "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 181558,
       "name": "A\u00fan Quedan Sensaciones",
       "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Vacaciones Permanentes",
+        "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
+      },
+      "artists": [
+        {
+          "name": "Vacaciones Permanentes",
+          "url": "https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu"
+        }
+      ],
+      "duration_ms": 188525,
+      "name": "Vampiros",
+      "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
     },
     {
       "added_at": "2024-12-05 23:00:00",

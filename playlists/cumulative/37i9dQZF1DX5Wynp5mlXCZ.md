@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Wellboy
 
-199 songs - 9 hr 59 min
+200 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-07 | 2024-10-26 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-20 | 2024-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-06-27 | 2024-11-29 |
-| [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
+| [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-27 |  |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-06-27 | 2024-08-14 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-06-27 | 2024-11-29 |
@@ -191,7 +191,7 @@
 | [Тільки в твоїх обіймах](https://open.spotify.com/track/5HEQNygpcFBpYNPxayaGEm) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Тільки в твоїх обіймах](https://open.spotify.com/album/1crrGfw9WdRZcMoicZd95R) | 3:03 | 2024-09-27 | 2024-10-11 |
 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 | 2024-10-10 | 2024-11-08 |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-10-18 |  |
-| [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 |  |
+| [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 | 2024-12-12 |
 | [Це любов](https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Це любов](https://open.spotify.com/album/2kZi9EkuwliINWGlTF4PXR) | 2:36 | 2024-10-10 |  |
 | [цунамі](https://open.spotify.com/track/3ZmREkg89bn74ALxEgpg12) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [можливо, стала доросліша](https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv) | 4:02 | 2024-10-31 | 2024-11-15 |
 | [Цілуй](https://open.spotify.com/track/2Msj5zUarTNnsWu7YcEuPE) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Цілуй](https://open.spotify.com/album/0f89WOpBAPDPvgXlWZrcEa) | 2:35 | 2024-06-27 | 2024-07-13 |
@@ -202,6 +202,7 @@
 | [Шо ти там?](https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Врубай](https://open.spotify.com/album/1PB9YeUJ2rhQ9ScEnveczZ) | 2:24 | 2024-11-28 | 2024-12-06 |
 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 | 2024-09-07 | 2024-10-11 |
 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 | 2024-09-20 | 2024-09-28 |
+| [Щоб не було](https://open.spotify.com/track/63hgMQantc0DLZM8BN180N) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Щоб не було](https://open.spotify.com/album/1DU1pDRECcDA475YVGkC8b) | 1:50 | 2024-12-05 |  |
 | [Я вже не ти](https://open.spotify.com/track/1YybjEZZrAoeMpuJTCgorO) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Я вже не ти](https://open.spotify.com/album/1FM0sqeUaGU1StpMgashba) | 2:42 | 2024-10-04 | 2024-10-11 |
 | [Я не готую я не прибираю](https://open.spotify.com/track/68adzA4IHNZaxiFdYx3P3E) | [Ann in Black](https://open.spotify.com/artist/4HSiAq2sw2h2nGx8KMW0ik) | [Я не готую я не прибираю](https://open.spotify.com/album/0Q67NSLGWcadu6VD9ue0NW) | 2:49 | 2024-07-12 | 2024-07-20 |
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-06-27 | 2024-09-28 |

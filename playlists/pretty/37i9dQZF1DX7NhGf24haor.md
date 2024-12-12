@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Radical Redemption, Dimitri K & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,141 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,171 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 13 | [Komodo](https://open.spotify.com/track/0sVmC0B9NlbH0NoFYIJ4Zy) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Komodo](https://open.spotify.com/album/1zQWf3pHPl3SdCk9Au5j7h) | 2:18 |
 | 14 | [LVLDUP](https://open.spotify.com/track/4T3fpdoGOpoKwKPYz9AfJY) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [MC Activate](https://open.spotify.com/artist/2T6Y1C0xpZYgY2vBKNyr3n) | [LVLDUP](https://open.spotify.com/album/4fDQssZTwBSkhimYIYCCjW) | 1:52 |
 | 15 | [Melodies](https://open.spotify.com/track/79ZyfNC5bERpzF5zAXxpfb) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Echoes of Euphoria](https://open.spotify.com/album/3HHgCjNNsjyu5WybEAY6Op) | 2:13 |
-| 16 | [The Purpose](https://open.spotify.com/track/1mt1LsbNH8S2yUVeBVvxTd) | [E\-Force](https://open.spotify.com/artist/5ng6OPw00cT5E23rnK9fie), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [The Purpose](https://open.spotify.com/album/3e0KAgH5i8MthriJQi0rsd) | 2:49 |
+| 16 | [The Purpose](https://open.spotify.com/track/1mt1LsbNH8S2yUVeBVvxTd) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL) | [The Purpose](https://open.spotify.com/album/3e0KAgH5i8MthriJQi0rsd) | 2:49 |
 | 17 | [Angels](https://open.spotify.com/track/6k26uQEq3b6T4gJfiIVyP1) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Angels](https://open.spotify.com/album/6QMGfa4riy6u1HxhU34Wx3) | 3:03 |
 | 18 | [EVACUATE THE DANCEFLOOR](https://open.spotify.com/track/3dZqzhl4bJrxC7EDjsG3Ad) | [PL4Y](https://open.spotify.com/artist/1vawVOQAVzWk4gHbcArbgb), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [EVACUATE THE DANCEFLOOR](https://open.spotify.com/album/3sJaTjsTbHltjuJYqGEQ4R) | 2:07 |
 | 19 | [Find You](https://open.spotify.com/track/59NMOmp5oWuhJ7kNXesbcJ) | [Outlined](https://open.spotify.com/artist/2daKoGBVeeNvR59lsF9XJ6), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Find You](https://open.spotify.com/album/0s4XMtJZKyZ72CS2A5Ic9i) | 3:13 |

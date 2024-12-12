@@ -5785,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "Bando Stone and The New World",
+        "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+    },
+    {
+      "album": {
         "name": "Found Heaven",
         "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
@@ -6144,6 +6162,24 @@
       "duration_ms": 190226,
       "name": "Making Out",
       "url": "https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ"
+    },
+    {
+      "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Man in The Moon",
+      "url": "https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi"
     },
     {
       "album": {

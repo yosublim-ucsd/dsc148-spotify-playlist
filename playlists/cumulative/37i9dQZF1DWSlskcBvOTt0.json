@@ -6633,6 +6633,32 @@
     },
     {
       "album": {
+        "name": "If I Live Forever (Arodes Remix)",
+        "url": "https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401951,
+      "name": "If I Live Forever - Arodes Remix",
+      "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
+    },
+    {
+      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -12994,7 +13020,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 198873,
       "name": "ronju",
       "url": "https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,571 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,573 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VuT4I.md) - [plain]
 | 35 | [Aegean Wave](https://open.spotify.com/track/6umfm9P4dsJFympcydmVtQ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 |
 | 36 | [Butterflies](https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:45 |
 | 37 | [Oceanium](https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 7:58 |
-| 38 | [Berceuse](https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:09 |
+| 38 | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Ghost Marrow](https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt) | 7:45 |
 | 39 | [Rain](https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 2:34 |
-| 40 | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Ghost Marrow](https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt) | 7:45 |
-| 41 | [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 |
-| 42 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 |
+| 40 | [Berceuse](https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 4:09 |
+| 41 | [Malibuzios](https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:51 |
+| 42 | [A Higher Place \- Live](https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Improvisation on Four Sequences Live at Festival Antigel](https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ) | 3:55 |
 | 43 | [Simple Song \- Live](https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 |
 | 44 | [Andalusian Dream](https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:21 |
-| 45 | [Stromboli](https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:06 |
-| 46 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 |
+| 45 | [Lay Down Beside Me](https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 8:27 |
+| 46 | [Stromboli](https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:06 |
 | 47 | [Closed Circuit](https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Closed Circuit](https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F) | 5:24 |
 | 48 | [Bel Canto](https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:03 |
 | 49 | [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 |
 | 50 | [Megan's Dream](https://open.spotify.com/track/4g4HgSDCGZ45Rez2QiQfax) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:40 |
 
-Snapshot ID: `Z1YzAAAAAABZm0x/ZOIrCOfBuLQ5szU0`
+Snapshot ID: `Z1eEgAAAAABw+e1Rfz9QUn0tbox+j1+9`

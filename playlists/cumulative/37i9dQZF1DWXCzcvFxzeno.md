@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
-207 songs - 16 hr 1 min
+208 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 | 2024-04-09 | 2024-05-16 |
 | [I Am Cool](https://open.spotify.com/track/3MpyqUat9C6YkEVsmahdX6) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [I Am Cool](https://open.spotify.com/album/0KuvnomtqHox9SDhs4CFDm) | 2:43 | 2024-10-04 | 2024-11-16 |
 | [I Wanna Feel](https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [I Wanna Feel](https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32) | 5:18 | 2024-08-05 |  |
-| [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
+| [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 | 2024-12-12 |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
 | [Keeping Your Head Up](https://open.spotify.com/track/6xwNMLT4ekMXv4lXZFI63Q) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Keeping Your Head Up](https://open.spotify.com/album/3DzsmSqBlAaZgIfstzQXA0) | 2:57 | 2024-11-01 |  |
@@ -215,5 +215,6 @@
 | [XTCWTF](https://open.spotify.com/track/6fHZZaGk4QBwVQDc9oMKKR) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [XTCWTF](https://open.spotify.com/album/5ujH6sqRszexztTVL3Qjho) | 3:43 | 2024-11-29 |  |
 | [You Make Me Horny](https://open.spotify.com/track/52tyA5PDC5veclwTVmvEEx) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Laren](https://open.spotify.com/artist/6ScQdKv62h1YalS7o7FhsS) | [You Make Me Horny](https://open.spotify.com/album/2iqGNeAbv3AnXgaE3Ayzmv) | 4:54 | 2024-04-09 |  |
 | [Young Birds \- Hard Duck Edit](https://open.spotify.com/track/1jxgFyyTRgoMGKRZsJ27bi) | [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [Hard Duck](https://open.spotify.com/artist/1JE2VS4iNTz6kMekTzaeh1) | [Young Birds \(Hard Duck Edit\)](https://open.spotify.com/album/58h1FUbmLeelL6Tk0kYsLb) | 5:01 | 2024-07-14 | 2024-07-22 |
+| [Your Soul](https://open.spotify.com/track/5MYhLdXq3fzLO7XhDM1eXQ) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [This Is Real](https://open.spotify.com/album/4sAaFyPg9TAin46olKrqbt) | 4:07 | 2024-12-06 |  |
 
 \*This playlist was first scraped on 2024-04-11. Prior content cannot be recovered.

@@ -12721,6 +12721,24 @@
     },
     {
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235020,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA"
+    },
+    {
+      "album": {
         "name": "Cora Roto",
         "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
       },
@@ -19398,10 +19416,36 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 150495,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/3LSoo9OiPF4OQ3LQbyqXE0"
+    },
+    {
+      "album": {
+        "name": "Faz de Chicote",
+        "url": "https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT"
+      },
+      "artists": [
+        {
+          "name": "Lyu",
+          "url": "https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf"
+        },
+        {
+          "name": "ITALO SENA",
+          "url": "https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf"
+        },
+        {
+          "name": "DJ PBeats",
+          "url": "https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150569,
+      "name": "Faz de Chicote",
+      "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
     },
     {
       "album": {
@@ -23704,7 +23748,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -36895,6 +36939,28 @@
     },
     {
       "album": {
+        "name": "Mera Mann",
+        "url": "https://open.spotify.com/album/6K54Y8LZob4AAqfqMyuVts"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "Mera Mann",
+      "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
+    },
+    {
+      "album": {
         "name": "Tiara Andini",
         "url": "https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl"
       },
@@ -48558,7 +48624,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2GooZc6f3BlwjRtIx82J9n"
@@ -52320,6 +52386,28 @@
       "duration_ms": 111235,
       "name": "Sie Liebt Techno",
       "url": "https://open.spotify.com/track/3EngNejou3x0co3Ed68X7U"
+    },
+    {
+      "album": {
+        "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
+        "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
+      },
+      "artists": [
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
+        },
+        {
+          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+          "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
+      "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
       "album": {
@@ -66102,28 +66190,6 @@
       "duration_ms": 187884,
       "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
       "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"
-    },
-    {
-      "album": {
-        "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
-        "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
-      },
-      "artists": [
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
-        },
-        {
-          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-          "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
-        }
-      ],
-      "date_added": "2024-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 134400,
-      "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
-      "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
       "album": {

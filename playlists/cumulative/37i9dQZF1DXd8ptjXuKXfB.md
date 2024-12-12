@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon.
 
-201 songs - 9 hr 59 min
+202 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-07-01 | 2024-09-17 |
 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 | 2024-08-12 |  |
 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-19 |  |
-| [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-12 |  |
+| [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 | 2024-08-12 | 2024-12-12 |
 | [El vagy kanászodva](https://open.spotify.com/track/30n9LCdSKhCILZjrmDrnGw) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [Eyvallah](https://open.spotify.com/album/5SiC3rTRbWG81miyo2hBOd) | 2:28 | 2024-08-12 | 2024-08-20 |
 | [Elvonó](https://open.spotify.com/track/33VzphL9XV0wv8x4kLjNJS) | [Rico](https://open.spotify.com/artist/0LeQFiVe54pSuKw89rvXCh), [Miss Mood](https://open.spotify.com/artist/5RQvpF3WKBeSvmfAQHV5M3) | [Elvonó](https://open.spotify.com/album/2i6ZqGrP6XqVs9PcY614Fi) | 3:14 | 2024-12-09 |  |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-23 |  |
@@ -102,6 +102,7 @@
 | [Kegyelem](https://open.spotify.com/track/7j4ypcze7yGg5tmVrFnzIB) | [Curtis](https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E) | [Kegyelem](https://open.spotify.com/album/5qVNybRIR5eZYZjNtVJZi0) | 3:16 | 2024-08-12 | 2024-08-20 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-01 |  |
 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 | 2024-10-19 |
+| [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 | 2024-12-09 |  |
 | [Krisz x Jaki\-Prikezsia](https://open.spotify.com/track/2rIK6WWOpGJY2uqXd0ejIa) | [Romano Bengz Studio](https://open.spotify.com/artist/14HGIirVHTtZwmQpofG27w) | [Krisz x Jaki\-Prikezsia](https://open.spotify.com/album/2jT7xQHCWIU6exoxOt10nO) | 2:37 | 2024-11-11 | 2024-11-26 |
 | [két év](https://open.spotify.com/track/351nDPn6IUlP0fYmTmbkUc) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 3:19 | 2024-08-27 | 2024-10-13 |
 | [Körhinta](https://open.spotify.com/track/3mUt3snLTNt90NCt1LOCbp) | [Pápai Joci](https://open.spotify.com/artist/1xYRrfmh7NjIUY6XuJhvVm), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [Körhinta](https://open.spotify.com/album/4b9RDUzmk00XHOMzz9Wz4I) | 3:25 | 2024-09-16 | 2024-09-24 |

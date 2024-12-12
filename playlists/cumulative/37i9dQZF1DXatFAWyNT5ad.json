@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 203667,
       "name": "Big City Thing",
       "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
@@ -10030,6 +10030,24 @@
       "duration_ms": 168976,
       "name": "Not Alone but Not with You",
       "url": "https://open.spotify.com/track/5hZO5WBJ7VMz32k5cWJqrR"
+    },
+    {
+      "album": {
+        "name": "Not Sorry",
+        "url": "https://open.spotify.com/album/0YFlVIxOhQRKiNCpY5wE4G"
+      },
+      "artists": [
+        {
+          "name": "FKA Rayne",
+          "url": "https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176498,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/4QP0AlgrhqOsOZE8MfxHzG"
     },
     {
       "album": {

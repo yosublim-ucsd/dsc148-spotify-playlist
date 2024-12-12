@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: Gucci Mane",
-  "num_followers": 551496,
+  "num_followers": 551548,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Definition of Real",
-        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
-      },
-      "artists": [
-        {
-          "name": "Plies",
-          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Juve The Great",
         "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 248200,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Definition of Real",
+        "url": "https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -687,18 +687,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Tha Carter",
-        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
+        "name": "Crime Mob",
+        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Crime Mob",
+          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
+        },
+        {
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Go DJ",
-      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
+      "duration_ms": 205120,
+      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
+      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Crime Mob",
-        "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
+        "name": "Tha Carter",
+        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
       },
       "artists": [
         {
-          "name": "Crime Mob",
-          "url": "https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo"
-        },
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 205120,
-      "name": "Knuck If You Buck (feat. Lil' Scrappy)",
-      "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
+      "duration_ms": 281826,
+      "name": "Go DJ",
+      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "The Diary",
+        "url": "https://open.spotify.com/album/2Z1lDWB2EfTUKV5ILxjdvu"
+      },
+      "artists": [
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "duration_ms": 146280,
+      "name": "No Tears",
+      "url": "https://open.spotify.com/track/6kYTywTCfycHZcH0WdLyRy"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "The Diary",
-        "url": "https://open.spotify.com/album/2Z1lDWB2EfTUKV5ILxjdvu"
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
       },
       "artists": [
         {
-          "name": "Scarface",
-          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 146280,
-      "name": "No Tears",
-      "url": "https://open.spotify.com/track/6kYTywTCfycHZcH0WdLyRy"
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 240613,
       "name": "I Luv It",
       "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-12-06 05:00:00",

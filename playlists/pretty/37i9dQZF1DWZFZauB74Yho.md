@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Yonder Mountain String Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,464 likes - 89 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,483 likes - 89 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 31 | [One Of Us](https://open.spotify.com/track/1UwSf49HmEVwB1wdiKPXzf) | [Theoretical Blonde](https://open.spotify.com/artist/6lugwzTLFVT1hWOZiOf2fG) | [The EP](https://open.spotify.com/album/3tqniKwyZzwnPMYJ1ZZ71c) | 3:46 |
 | 32 | [Mandolin Spring](https://open.spotify.com/track/2P63JDVaKXwLyD5OoDPxrI) | [MVI \(Mark Vickness Interconnected\)](https://open.spotify.com/artist/0ihY73aDoJkEkEkhnyRt0r), [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE) | [Mandolin Spring](https://open.spotify.com/album/4Ze4CqMrUWIze2m6hJeWK4) | 3:30 |
 | 33 | [Life On The Road](https://open.spotify.com/track/4JszQxT7eV52QPT7AoAbMb) | [Danny Roberts](https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE) | [Life On The Road](https://open.spotify.com/album/6rOlqhR1OJEAJO9K71NgTF) | 2:39 |
-| 34 | [Trail Of Tears](https://open.spotify.com/track/22vm6Cp5YzCjSBp7ZGhzKy) | [Pitney Meyer](https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4), [Johnny Meyer](https://open.spotify.com/artist/565Lif6uobAWJlnpFj6Lmc) | [Trail Of Tears](https://open.spotify.com/album/1PF5yeP9jBoYaGNXrsnzLK) | 3:17 |
+| 34 | [Trail Of Tears](https://open.spotify.com/track/22vm6Cp5YzCjSBp7ZGhzKy) | [Pitney Meyer](https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4), [Johnny Meyer](https://open.spotify.com/artist/5Es4Wqq8MnDt35kqLhPFZh) | [Trail Of Tears](https://open.spotify.com/album/1PF5yeP9jBoYaGNXrsnzLK) | 3:17 |
 | 35 | [Shredder](https://open.spotify.com/track/5zbYY1DfNCRtuYRIEds858) | [Mark Lavengood](https://open.spotify.com/artist/4o7G76HyfYXMdACJI4HOSc) | [Shredder](https://open.spotify.com/album/2CsquCXnLFDkiIRSYOCVxk) | 2:42 |
 | 36 | [Blue Night](https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN) | [Ashby Frank](https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT) | [Blue Night](https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM) | 2:54 |
 | 37 | [World Gone By \- Cloverdale Version](https://open.spotify.com/track/2WsxSIRPAq95EcBLqkcFoO) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Cloverdale Family Band](https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC), [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2), [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [World Gone By](https://open.spotify.com/album/2BZyJcwFsktPvWkzPzIwr6) | 2:38 |

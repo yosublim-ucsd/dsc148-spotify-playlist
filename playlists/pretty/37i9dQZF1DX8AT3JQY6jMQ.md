@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,106 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,121 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 69 | [So Beautiful \- Single Version](https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:39 |
 | 70 | [True Blue \- 1986 Version](https://open.spotify.com/track/0ZvsBTqdcOKdvQSV11YG9V) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mallee Boy](https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3) | 4:02 |
 | 71 | [Even When I'm Sleeping](https://open.spotify.com/track/5VPy7NeI6uCRCcZp3VIqsJ) | [Leonardo's Bride](https://open.spotify.com/artist/7bLwCpWq5uZb7PoccAaEsV) | [Angel Blood](https://open.spotify.com/album/2LsVtEwJVynQBCL83ZYMkZ) | 3:54 |
-| 72 | [Alone with You \- 2014 Remaster](https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch) | [Sunnyboys](https://open.spotify.com/artist/6sAh1RUpXblYP320gZ91LC) | [Sunnyboys \(Expanded Edition\)](https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo) | 3:58 |
+| 72 | [Alone with You \- 2014 Remaster](https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch) | [Sunnyboys](https://open.spotify.com/artist/2th8vLqYKk3joxETdAZ2OB) | [Sunnyboys \(Expanded Edition\)](https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo) | 3:58 |
 | 73 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
 | 74 | [Jump in My Car](https://open.spotify.com/track/1XIXkp7bJDMQeINqrKgMjq) | [Ted Mulry Gang](https://open.spotify.com/artist/1o711LqmNPfr4wUF9KEJIE) | [The Essential Ted Mulry Gang](https://open.spotify.com/album/4ide5Gp9T9L8b5WrSYt7Rc) | 3:00 |
 | 75 | [Its Only the Beginning](https://open.spotify.com/track/1HXaX12pA7jVuwUczy5UOd) | [Deborah Conway](https://open.spotify.com/artist/3l1Tuoqd0JXoaOrAiOyrB0) | [String Of Pearls](https://open.spotify.com/album/3uJt66Vz0jymlFZxedk63k) | 4:41 |

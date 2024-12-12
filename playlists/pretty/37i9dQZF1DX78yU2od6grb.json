@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553365,
+  "num_followers": 553362,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "I'm Just Feelin' (Du Du Du)",
-        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "I'm Just Feelin' (Du Du Du)",
-      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Like Gold",
         "url": "https://open.spotify.com/album/0tiJtd3FqJVlT7uAezBSwK"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 176388,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/5seWZTjT0U8a7cy3Y5NJQ9"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "I'm Just Feelin' (Du Du Du)",
+        "url": "https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "I'm Just Feelin' (Du Du Du)",
+      "url": "https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Be Okay (with HRVY)",
+        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Be Okay (with HRVY)",
+      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "New Love (feat. Ellie Goulding)",
         "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 168491,
       "name": "Waiting for the Summer",
       "url": "https://open.spotify.com/track/6yDVzSw6ADBAQNgBSkkdw6"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Be Okay (with HRVY)",
-        "url": "https://open.spotify.com/album/7IWsyF6IuJ4jLdRTLxVw3v"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Be Okay (with HRVY)",
-      "url": "https://open.spotify.com/track/4ztw0mBC6VBiLV79yRHDQW"
     },
     {
       "added_at": "2024-06-26 02:03:12",

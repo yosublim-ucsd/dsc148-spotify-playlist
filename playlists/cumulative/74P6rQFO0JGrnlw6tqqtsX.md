@@ -100,6 +100,6 @@
 | [Why I Love You So Much](https://open.spotify.com/track/7EKvTUo567BRNzZ37clvlf) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Miss Thang](https://open.spotify.com/album/71mPApAzW9HkbUGdYzMQHb) | 4:30 | 2016-12-14 |  |
 | [You](https://open.spotify.com/track/0hcW7qPqWWJc8189OaqQvX) | [Jesse Powell](https://open.spotify.com/artist/4ryyCNxkhfBSXHx4k2lo3T), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Jesse Powell](https://open.spotify.com/album/280dlb1eZeAvo8Gnfe80nE) | 5:18 | 2016-12-14 |  |
 | [You Are My Lady](https://open.spotify.com/track/67vf2MY6GMuIdynF70Kmhe) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [The Greatest Hits Of Freddie Jackson](https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ) | 4:45 | 2016-12-14 |  |
-| [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:37 | 2016-12-14 |  |
+| [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:36 | 2016-12-14 |  |
 
 \*This playlist was first scraped on 2023-03-17. Prior content cannot be recovered.

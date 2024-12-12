@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,112 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,124 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 69 | [¿Cómo No Amarte?](https://open.spotify.com/track/49QnFq3g1CieB0CVf3ZmTG) | [Manuel Reza](https://open.spotify.com/artist/5Myyjo1fqz0iYDLVew4qVl) | [¿Cómo No Amarte?](https://open.spotify.com/album/5kEE9fzBWjuXK9i3dcZ39x) | 2:41 |
 | 70 | [Apachino](https://open.spotify.com/track/0v1cMB2oqSHmEok50Y6T0Y) | [Said Norzagaray](https://open.spotify.com/artist/3hK6sVmdFt15ORCDg503Yp), [Sergio Loga](https://open.spotify.com/artist/7L5VOIu4uyKjc4TrnUnFrK) | [Apachino](https://open.spotify.com/album/10quKWBRroleS9OYlvdovK) | 2:28 |
 | 71 | [El 2 de los Cabrera](https://open.spotify.com/track/6g6t9SfnAze5qWMXf0Kf7t) | [Pablito Osorio](https://open.spotify.com/artist/1ZhRNCRp4k0fGK6p8OPV9t), [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [Los Nuevos Coyonquis](https://open.spotify.com/artist/0OAiUOqab67e0oU0Ogp8sN) | [El 2 de los Cabrera](https://open.spotify.com/album/7aeZrHN0tI8PLuCN4mEjrH) | 2:28 |
-| 72 | [Bailando](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 |
+| 72 | [Bailando \- Live](https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Bailando \(Live\)](https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP) | 3:09 |
 | 73 | [Ojos Verdes](https://open.spotify.com/track/4wSpGbhAdr7XEJ7Yjr186h) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z), [La Misma Escuela](https://open.spotify.com/artist/4JFkd2wkvR2eZ0z6m0BYQW) | [Ojos Verdes](https://open.spotify.com/album/7MniSCDTmMiFnkrJuxwqtz) | 3:20 |
 | 74 | [Noche Oscura](https://open.spotify.com/track/23z2KyXOZAgALiuZe9gE6F) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Noche Oscura](https://open.spotify.com/album/4VDyySIHTMmp6mLEttz6pw) | 2:52 |
 | 75 | [Basta Ya \(En Vivo\)](https://open.spotify.com/track/5sfYk58Wk3bEC6QpwIZuKl) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Basta Ya \(En Vivo\)](https://open.spotify.com/album/5OMumz9gbdzfjrMgx1zJ9y) | 4:31 |

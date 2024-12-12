@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "MOOD: I'm Feeling Petty",
+        "url": "https://open.spotify.com/album/4zx5HhEbBW4lg0sgVP24Tg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4juczSsaf3zwU0OZLFgp0a"
+    },
+    {
+      "album": {
         "name": "Phobia",
         "url": "https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1"
       },
@@ -840,6 +858,24 @@
       "duration_ms": 211840,
       "name": "Holiday Wishing",
       "url": "https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ"
+    },
+    {
+      "album": {
+        "name": "Home We Choose",
+        "url": "https://open.spotify.com/album/3JCvxtcHrxJ97MlqVUUnEA"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250284,
+      "name": "Home We Choose",
+      "url": "https://open.spotify.com/track/0zGMBpjVICRyirb4R37Z2d"
     },
     {
       "album": {

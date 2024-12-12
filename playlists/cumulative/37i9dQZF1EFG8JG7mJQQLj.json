@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
       },
@@ -1000,10 +1018,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 191387,
       "name": "Born To Race",
       "url": "https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex"
+    },
+    {
+      "album": {
+        "name": "Born To Race",
+        "url": "https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191387,
+      "name": "Born To Race",
+      "url": "https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY"
     },
     {
       "album": {
@@ -2866,6 +2902,24 @@
       "duration_ms": 237248,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4O9bzeRoxVpoVY22EQ3MPH"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6J1iwnlChyXTZo3I2mxWAb"
+      },
+      "artists": [
+        {
+          "name": "Kylie Rothfield",
+          "url": "https://open.spotify.com/artist/5QfKIQ78C8jtliKdwTPHlq"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205384,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7bD0qDEoBpxized1xEJkxX"
     },
     {
       "album": {

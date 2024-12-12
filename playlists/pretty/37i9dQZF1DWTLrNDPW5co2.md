@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Babymorocco
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,631 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,660 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 52 | [Next Bitch](https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Next Bitch](https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4) | 2:03 |
 | 53 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 |
 | 54 | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/4lTR2EJ4FcVTZfxDnVkR1w) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 2:27 |
-| 55 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
+| 55 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 56 | [mr useless](https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:29 |
 | 57 | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih) | [Gÿe](https://open.spotify.com/artist/1ffsfWPOpRQYNB80asmZv6) | [PERSONALIDAD CONTROL \(A Tribute to Leiomy\)](https://open.spotify.com/album/7MY2S7wlIWsuRSpPe9BYAS) | 3:45 |
 | 58 | [Surrender \(Jennifer Cardini Remix\)](https://open.spotify.com/track/6ZYb7WaUWXO2SdgU1dSgH1) | [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Surrender](https://open.spotify.com/album/08GbV8YbeMOk0hFlI1Qepu) | 6:43 |

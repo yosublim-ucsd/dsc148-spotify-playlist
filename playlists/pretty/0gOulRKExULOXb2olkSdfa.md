@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 
 > feel good jams
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 27 songs - 1 hr 18 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 28 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,5 +35,6 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 | 25 | [Offended](https://open.spotify.com/track/4CBlt34IGHQa0XvpYDtoMS) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [To Hell With Hollywood](https://open.spotify.com/album/55fEgDbnl0J1GVXJrwgYek) | 2:22 |
 | 26 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 |
 | 27 | [98 Degrees](https://open.spotify.com/track/3M0tH6TS6OTbvxtpsDJRRw) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Nonfiction](https://open.spotify.com/album/4JQzywD7AhqzDLDtFHxOpi) | 2:47 |
+| 28 | [Long Drives](https://open.spotify.com/track/1APefTkgjjwQfZbUWQkOFc) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:39 |
 
-Snapshot ID: `AAAAJD+tcYyKKwh0Ji8YbL4EW8Y+zvtn`
+Snapshot ID: `AAAAJfnNxab47NjY046rmZ/SpF2fPaNm`

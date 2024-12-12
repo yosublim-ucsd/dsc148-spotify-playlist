@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 30 | [MearlGo 10](https://open.spotify.com/track/3GXZeYccSPDuY0FShRgy0v) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Iman Europe](https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0) | [MearlGo Vol\. 3](https://open.spotify.com/album/2kiuoBr10reeu6DGIEPizq) | 2:22 |
 | 31 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 |
 | 32 | [Do It Again \(feat\. Big Sean\)](https://open.spotify.com/track/6v7oiq30EJIqXwse0ilHlz) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 4:33 |
-| 33 | [Anchors](https://open.spotify.com/track/0AzYM36eUNKLVGWZUsWNcI) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 3:53 |
-| 34 | [Good Things \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2i67C80R9ZmCFNYIPPQWtF) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:46 |
+| 33 | [Good Things \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2i67C80R9ZmCFNYIPPQWtF) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:46 |
+| 34 | [Anchors](https://open.spotify.com/track/0AzYM36eUNKLVGWZUsWNcI) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 3:53 |
 | 35 | [Request](https://open.spotify.com/track/0h11IKlgiuLzbOjbJxofI0) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Abstract Orchestra](https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 2:42 |
 | 36 | [Fat Raps 3](https://open.spotify.com/track/4taurCZhgx5bZldOt6gE8j) | [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [CleveLAfornia](https://open.spotify.com/album/45e5HUv1bzUDctnnnHDMCr) | 5:16 |
 | 37 | [ME ME ME](https://open.spotify.com/track/66UqF87BdDRuPqPB9Rr3Re) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [The Money Aint Enough](https://open.spotify.com/album/2fDjH5tzQh95ax9xY13brm) | 3:25 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 68 | [Dirt Bag](https://open.spotify.com/track/2IMJyd2zjFuw0C2ECf5rFP) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:29 |
 | 69 | [CONTRADICTION](https://open.spotify.com/track/1H9pChdwYGS1eAos8F48xn) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:00 |
 | 70 | [Learn to Love My Bm](https://open.spotify.com/track/0qgWR7yasp2c5FGp40Xxhi) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:53 |
-| 71 | [BIG SEXY FREESTYLE](https://open.spotify.com/track/1c5f2ZWLf4g8WJd1Aa0e5Z) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:53 |
-| 72 | [Stretch Money](https://open.spotify.com/track/70uz0rWlOsnpMWlEwfAL4U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:20 |
+| 71 | [Stretch Money](https://open.spotify.com/track/70uz0rWlOsnpMWlEwfAL4U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:20 |
+| 72 | [BIG SEXY FREESTYLE](https://open.spotify.com/track/1c5f2ZWLf4g8WJd1Aa0e5Z) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:53 |
 | 73 | [God Knows Hotline](https://open.spotify.com/track/2kmseSm4niZQu2XDE5UOWz) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 0:37 |
 | 74 | [TRAPPED IN MY MIND](https://open.spotify.com/track/59UFMlQ83D8eWlEM8QDicY) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 2:22 |
 | 75 | [All Money Spend](https://open.spotify.com/track/01IU47xxQDEgVKF4eWmnIX) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:52 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 88 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 89 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AbjzIAAAAACSnjWHwzuQxGU1KVo6pb9F`
+Snapshot ID: `Abj4tgAAAAB6scJzMGdXaE/gzyCWKfi5`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADCLfl6gNBOk1EedjWP6s7f",
+  "snapshot_id": "AAAAAAAAAADa+n6LZIyZY5yaSBQvgRys",
   "tracks": [
     {
       "added_at": "2024-12-06 03:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Rocking Heels (Live at Hellfest)",
-        "url": "https://open.spotify.com/album/1huSVu1oYNnSjcAsy0xQW1"
-      },
-      "artists": [
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        }
-      ],
-      "duration_ms": 326721,
-      "name": "Never Enough - Live at Hellfest",
-      "url": "https://open.spotify.com/track/6KmoDWhWosIX2BoVTCuVti"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/3CsxPkQH1eOpeNShl2O3KW"
       },
@@ -115,24 +99,8 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "In The Grey",
-        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
-      },
-      "artists": [
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "In The Grey",
-      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
       "artists": [
         {
@@ -146,71 +114,7 @@
       ],
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 312546,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Live at Third Man Records",
-        "url": "https://open.spotify.com/album/2Xb9e6tsByJTcyIITGXcPy"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 258307,
-      "name": "Narc - Live",
-      "url": "https://open.spotify.com/track/2tNDGRYvXb1lCTVLXW0y0G"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Welcome To Shepherds Bush (Live)",
-        "url": "https://open.spotify.com/album/1NCnDEf1jdXXmJTPv76uAL"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Jumpin' Jack Flash - Live",
-      "url": "https://open.spotify.com/track/4sx0PloiRzd7fx183GJRNa"
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -231,18 +135,50 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "The Passenger (Live at Montreux Jazz Festival 2023)",
-        "url": "https://open.spotify.com/album/4jX6V8kfYu2UK765kB00x4"
+        "name": "Premonition",
+        "url": "https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 341098,
-      "name": "The Passenger - Live at Montreux Jazz Festival 2023",
-      "url": "https://open.spotify.com/track/7EGiyx3gI7YBgSFgOZFbXl"
+      "duration_ms": 312546,
+      "name": "Premonition",
+      "url": "https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "In The Grey",
+        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+      },
+      "artists": [
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "In The Grey",
+      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "White Bikes",
+        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "White Bikes",
+      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -267,22 +203,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Concierto Ac\u00fastico (En Vivo 2014)",
-        "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 269365,
-      "name": "Huairuro - En Vivo 2014",
-      "url": "https://open.spotify.com/track/2F6h4vHUfKRUD3b3UIcP1I"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Generation No Surrender",
         "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
       },
@@ -295,22 +215,6 @@
       "duration_ms": 167354,
       "name": "Generation No Surrender",
       "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Chemical (Acoustic)",
-        "url": "https://open.spotify.com/album/4jLqTTwXGyaT5qR3w0uOJA"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Chemical - Acoustic",
-      "url": "https://open.spotify.com/track/0cAhteGuvdmcQrtrW1Lu41"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -363,34 +267,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "50 Ambient Sounds for Deep Chillout",
-        "url": "https://open.spotify.com/album/5Ygw5gu346qjpY7DkX5bCF"
-      },
-      "artists": [
-        {
-          "name": "Ivory Mood",
-          "url": "https://open.spotify.com/artist/6vvySZtW1kfq2277e0oUUp"
-        },
-        {
-          "name": "Rising Higher Meditation",
-          "url": "https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj"
-        },
-        {
-          "name": "Piano Prayer",
-          "url": "https://open.spotify.com/artist/4PSu1SQggtYR5cLPHddoOJ"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        }
-      ],
-      "duration_ms": 100446,
-      "name": "Misty Memories of Lavender",
-      "url": "https://open.spotify.com/track/61k4Frbk3WYkt5PGNjXxKs"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
         "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
       },
@@ -407,22 +283,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Crash! Boom! Bang! 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3sGBp414FalqdDGwfDC1Me"
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 238565,
-      "name": "She Doesn\u2019t Live Here Anymore - T&A Demo Dec 16, 1992",
-      "url": "https://open.spotify.com/track/6yWs8CxlYkX19GpKyQE9mC"
+      "duration_ms": 174288,
+      "name": "Ra\u00edces",
+      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -443,22 +315,6 @@
       "duration_ms": 173315,
       "name": "Agua Y Sal",
       "url": "https://open.spotify.com/track/4r7Un5OtyKCALSNxsBvVdj"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/20OxkwJWpJV2Lsz8Gc0QKK"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ra\u00edces",
-      "url": "https://open.spotify.com/track/5QSTBVYbYJseYwEjnBceHp"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -499,6 +355,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Sky Restaurant",
+        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Sky Restaurant",
+      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "El Chucu Chucu",
         "url": "https://open.spotify.com/album/1MWi7BMI9eTMb8a7RXNNHu"
       },
@@ -519,62 +391,6 @@
       "duration_ms": 163865,
       "name": "El Chucu Chucu",
       "url": "https://open.spotify.com/track/2t3IaHduf8zVqnfBetiJnU"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Sky Restaurant",
-        "url": "https://open.spotify.com/album/19YoMXm7ZgGWv02k3VedU1"
-      },
-      "artists": [
-        {
-          "name": "Miki Matsubara",
-          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Sky Restaurant",
-      "url": "https://open.spotify.com/track/2pUGlOapqG010nqQoH0p8C"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Dua Lipa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 328007,
-      "name": "Cold Heart (Live from the Royal Albert Hall)",
-      "url": "https://open.spotify.com/track/3jVJ5y7l4s932FzKxTqtmg"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Romance in F Minor, Op. 5",
-        "url": "https://open.spotify.com/album/2WWWbrtNOFvXCFFHNdRBMa"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luis Kolodin",
-          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
-        }
-      ],
-      "duration_ms": 308262,
-      "name": "Romance in F Minor, Op. 5",
-      "url": "https://open.spotify.com/track/4vibnldJQSaLbndJH08OMP"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -627,54 +443,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Dr. Feelgood (35th Anniversary - 2024 Remaster)",
-        "url": "https://open.spotify.com/album/2ir48kfz3sspIBedJgKBhN"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 290032,
-      "name": "Dr. Feelgood - 2024 Remaster",
-      "url": "https://open.spotify.com/track/24Dk2kKJhgEug39M0T0Kiv"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "The Last Will And Testament",
-        "url": "https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "\u00a71",
-      "url": "https://open.spotify.com/track/0E96gZ9JPOSXFEwWA9SWjA"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Tapping The Vein (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1YVnToAiUQMVLfRAABQBGP"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 306375,
-      "name": "One Step over the Line - 2024 Remaster",
-      "url": "https://open.spotify.com/track/00BR5sHT70SEcvOruIasfn"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Brotherhood (Definitive Edition)",
         "url": "https://open.spotify.com/album/6YiBVJ4xBSIBMCr2OXIf0p"
       },
@@ -707,22 +475,6 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "The Poison (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ktT6Pab27CBgbpFBZ4lCy"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hand Of Blood - Live at Brixton",
-      "url": "https://open.spotify.com/track/7quqLJmG17b2aHYq0qykNz"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
         "name": "Living in the Material World (50th Anniversary)",
         "url": "https://open.spotify.com/album/07ATO4RL8vPRD3zuMoHYVm"
       },
@@ -732,45 +484,9 @@
           "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 224280,
-      "name": "That Is All - Take 24",
-      "url": "https://open.spotify.com/track/7sJrszbF3RaDgQJMxVMYbW"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Man Down",
-        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "So Sensitive",
-      "url": "https://open.spotify.com/track/3zTdhXiKHycgeVJDCNUC0R"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Live At 55",
-        "url": "https://open.spotify.com/album/51HetOJ0XC1F2snGFWoDKc"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        },
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "South California Purples (Short Version) - Live",
-      "url": "https://open.spotify.com/track/1Qgd5TylepuMfySqqKyWad"
+      "duration_ms": 328186,
+      "name": "Living in the Material World - Take 31",
+      "url": "https://open.spotify.com/track/7mXCYp6NExLg4kEXvUDZz1"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -795,58 +511,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Agradecida",
-        "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
+        "name": "Nice 'N' Easy (Remastered 2024)",
+        "url": "https://open.spotify.com/album/7h6eW4DaAtwvPO1KwHPy3k"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        },
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 250514,
-      "name": "Agradecida",
-      "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Mercedes Sosa en New York, 1974",
-        "url": "https://open.spotify.com/album/71Y6mhP1QWC4NGkh9wySAU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 236379,
-      "name": "Cuando Tenga la Tierra (En Vivo NY)",
-      "url": "https://open.spotify.com/track/2HK4kHLBfeWn6cWBOnOXPL"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Universal Tales",
-        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 281933,
-      "name": "Universal - Orchestral Version",
-      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
+      "duration_ms": 139757,
+      "name": "I've Got a Crush on You - Remastered",
+      "url": "https://open.spotify.com/track/6XlzTzN458sitSHK7mD9BT"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -883,6 +559,78 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Agradecida",
+        "url": "https://open.spotify.com/album/0MkR5Ipn5zLZ3CsaN5Gk0I"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 250514,
+      "name": "Agradecida",
+      "url": "https://open.spotify.com/track/3RpgEC753NQF0SjbIBsx12"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Universal Tales",
+        "url": "https://open.spotify.com/album/3NOR5NfOgDRXadXcVzY7La"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 281933,
+      "name": "Universal - Orchestral Version",
+      "url": "https://open.spotify.com/track/0g94l7NLfTKBeU1Mm8ZP4k"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Well Alright! (Remastered 2024)",
+        "url": "https://open.spotify.com/album/47GxL9FLBMyFhGabm4cmq0"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 131871,
+      "name": "Bama-Lama Bama-Loo - Remastered",
+      "url": "https://open.spotify.com/track/73EzDT5sDUUOKQSHdI7bSa"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/5rDHgJqsjnIgr7hjCswpL7"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 177022,
+      "name": "Rollin' At Twilight",
+      "url": "https://open.spotify.com/track/0FqyUb2hys84hcHcTwmU67"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -915,18 +663,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "London - Live",
-        "url": "https://open.spotify.com/album/4Z9ms2S9xEWUh7oI9MUgVt"
+        "name": "Otaku",
+        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
       },
       "artists": [
         {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
         }
       ],
-      "duration_ms": 285293,
-      "name": "Big Mistake - Live",
-      "url": "https://open.spotify.com/track/6NjGlnFFutDm4lPe6QXsGx"
+      "duration_ms": 198066,
+      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
+      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -947,18 +695,30 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "Otaku",
-        "url": "https://open.spotify.com/album/6RW42G2juaVRdN5emGgbZt"
+        "name": "Tchaikovsky: The Nutcracker Suite, Op. 71a: III. Waltz of the Flowers (Arr. Campbell for Violin & Orchestra)",
+        "url": "https://open.spotify.com/album/1w7c3kWfJZ51HvEHDvasj3"
       },
       "artists": [
         {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Christian Li",
+          "url": "https://open.spotify.com/artist/06h3rv6B0pED0LXjFgODBR"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Jascha von der Goltz",
+          "url": "https://open.spotify.com/artist/7zvnK5JjOCwZRlphWmGt6J"
         }
       ],
-      "duration_ms": 198066,
-      "name": "A Cruel Angel's Thesis (from Neon Genesis Evangelion)",
-      "url": "https://open.spotify.com/track/1jhG6B3TXut6cg9Ixt91jw"
+      "duration_ms": 316160,
+      "name": "The Nutcracker Suite, Op. 71a: III. Waltz of the Flowers (Arr. Campbell for Violin & Orchestra)",
+      "url": "https://open.spotify.com/track/1lpeOFTw1HWcsCWWdvDUgc"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -983,30 +743,6 @@
       "duration_ms": 161494,
       "name": "R&'BLESS",
       "url": "https://open.spotify.com/track/09lzTYJ4Eh4A8O2nG8NCVV"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Relaxed Rhythms: Hip Hop Flow",
-        "url": "https://open.spotify.com/album/6Jsls15BkAy6q6jlzM1zZQ"
-      },
-      "artists": [
-        {
-          "name": "Lofi Dream",
-          "url": "https://open.spotify.com/artist/1d6zP2zW301j5gnbeI5ksp"
-        },
-        {
-          "name": "Relax & Music Orchestra",
-          "url": "https://open.spotify.com/artist/0V304Lj7ghI82pYQa50CHP"
-        },
-        {
-          "name": "Relax Mood",
-          "url": "https://open.spotify.com/artist/3VyVYfzBLfYXHxAnHcUsFj"
-        }
-      ],
-      "duration_ms": 186215,
-      "name": "Soft Pulse Rhythm",
-      "url": "https://open.spotify.com/track/4JZMczgnxuOsVgjtdEV2p4"
     },
     {
       "added_at": "2024-12-06 03:00:00",

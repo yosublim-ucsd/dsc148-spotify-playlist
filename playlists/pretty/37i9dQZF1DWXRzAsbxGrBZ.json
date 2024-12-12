@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 73293,
+  "num_followers": 73360,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Electro Candi 5, Pt. 2 (DJ Mix)",
+        "url": "https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA"
+      },
+      "artists": [
+        {
+          "name": "Avi Subban",
+          "url": "https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s"
+        }
+      ],
+      "duration_ms": 302562,
+      "name": "For Just A Moment - Mixed",
+      "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Little Me",
         "url": "https://open.spotify.com/album/6GbR420ApY1NvLE1PdafQn"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 437415,
       "name": "Little Me - Extended Mix",
       "url": "https://open.spotify.com/track/04Xamzbh9Mv4yd0nqkahbU"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Electro Candi 5, Pt. 2 (DJ Mix)",
-        "url": "https://open.spotify.com/album/2a5o7owFudF3UFhAnWv3WA"
-      },
-      "artists": [
-        {
-          "name": "Avi Subban",
-          "url": "https://open.spotify.com/artist/1qPa1v6gk4Y8CXg0fKZ83s"
-        }
-      ],
-      "duration_ms": 302562,
-      "name": "For Just A Moment - Mixed",
-      "url": "https://open.spotify.com/track/4FcWehkg4EOkS9X8aqw5fp"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
+      },
+      "artists": [
+        {
+          "name": "Eternity Musiq",
+          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
+        }
+      ],
+      "duration_ms": 325929,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "From Blak With Love",
         "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 403998,
       "name": "Never Break Me (feat. Kuthathu)",
       "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Take Me Somewhere",
-        "url": "https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy"
-      },
-      "artists": [
-        {
-          "name": "Eternity Musiq",
-          "url": "https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73"
-        }
-      ],
-      "duration_ms": 325929,
-      "name": "Take Me Somewhere",
-      "url": "https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Paradise Mixed (DJ Mix)",
-        "url": "https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        }
-      ],
-      "duration_ms": 311649,
-      "name": "Once Again - Mixed",
-      "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Nkaoza EP",
         "url": "https://open.spotify.com/album/5EzZZtib251P3QhlKtMfOg"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 369045,
       "name": "Dawnlands",
       "url": "https://open.spotify.com/track/4t27eigLB2UK0oM7mXZRP2"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Paradise Mixed (DJ Mix)",
+        "url": "https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        }
+      ],
+      "duration_ms": 311649,
+      "name": "Once Again - Mixed",
+      "url": "https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL"
     },
     {
       "added_at": "2024-10-31 23:00:00",

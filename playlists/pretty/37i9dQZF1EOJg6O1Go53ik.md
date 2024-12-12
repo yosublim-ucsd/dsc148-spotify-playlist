@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJg6O1Go53ik.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 21 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 21 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJg6O1Go53ik.md) - [plain]
 | 6 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
 | 7 | [\#67 \- Pink \- Missundaztood](https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf) | [Why I Hate this Album](https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s) | [Why I Hate this Album](https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s) | 1:31:16 |
 | 8 | [Be OK](https://open.spotify.com/track/4I8Nhe8qN9xgR8tosYQ5ut) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 |
-| 9 | [Kyle Meredith With..\. Ingrid Michaelson](https://open.spotify.com/episode/3vNRIcyly7Iueb8ETf6MNl) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 20:26 |
+| 9 | [Kyle Meredith With..\. Ingrid Michaelson](https://open.spotify.com/episode/3vNRIcyly7Iueb8ETf6MNl) | [Kyle Meredith With...](https://open.spotify.com/show/4GiQLBlq0j0ZhZBwGL4bZI) | [Kyle Meredith With...](https://open.spotify.com/album/4GiQLBlq0j0ZhZBwGL4bZI) | 19:47 |
 | 10 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 11 | [Why We’re Still Listening to the Beatles’ ‘Sgt\. Pepper’](https://open.spotify.com/episode/31fwCZJrpDvcHOWsrOJZrE) | [Popcast](https://open.spotify.com/show/3ugDIELXIU7erW5Xp49tWp) | [Popcast](https://open.spotify.com/album/3ugDIELXIU7erW5Xp49tWp) | 30:26 |
 | 12 | [The Way You Look Tonight](https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 4:39 |

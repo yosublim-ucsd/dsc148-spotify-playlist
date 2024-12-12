@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-255 songs - 13 hr 52 min
+256 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 |  |
 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-19 | 2022-09-26 |
 | [First Time \(Feat\. BAYLEE\)](https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:04 | 2022-05-03 | 2022-07-24 |
-| [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 | 2024-03-08 |  |
+| [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 | 2024-03-08 | 2024-12-12 |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-20 |  |
 | [FOR YOU](https://open.spotify.com/track/6ka6rd0mjjn0tAbbHZIm3U) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:43 | 2022-05-03 | 2022-07-29 |
 | [free](https://open.spotify.com/track/3FnIchDsti3r9sRyYOOiRt) | [h3re](https://open.spotify.com/artist/0smznozh1LvtEPKuUunm6c) | [myworld](https://open.spotify.com/album/3TCvBEad5CTLvGNDQQIyo4) | 2:52 | 2022-05-03 | 2022-07-28 |
@@ -142,6 +142,7 @@
 | [Like The First Time](https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1) | [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Like The First Time](https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji) | 2:20 | 2023-11-03 | 2024-01-03 |
 | [Link Up](https://open.spotify.com/track/5GRwvD8VBGBzjfwrMhYyiU) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [TRAPART](https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4) | 3:06 | 2022-05-03 | 2022-06-10 |
 | [Lose myself to you](https://open.spotify.com/track/0JIhIwqs8LksShUI4ZJBO9) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 2:59 | 2022-05-03 | 2022-07-24 |
+| [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 | 2024-11-29 |  |
 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 | 2022-05-03 |  |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-24 | 2024-08-11 |
 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 | 2022-05-03 |  |

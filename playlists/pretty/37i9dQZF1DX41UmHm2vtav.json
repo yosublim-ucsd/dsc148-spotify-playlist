@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 474227,
+  "num_followers": 474252,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1375,22 +1375,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
-        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
       "artists": [
         {
-          "name": "Watzgood",
-          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
-      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1415,26 +1419,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+        "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
+        "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
       },
       "artists": [
         {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+          "name": "Watzgood",
+          "url": "https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa"
         },
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+      "duration_ms": 219000,
+      "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
+      "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1487,6 +1487,38 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Quero Ir pra Bahia Com Voc\u00ea (feat. Fullmode & LEMON DROPS) [Remix]",
+        "url": "https://open.spotify.com/album/5IIRnc4XYhtp8wHXqAphN6"
+      },
+      "artists": [
+        {
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+        },
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Fullmode",
+          "url": "https://open.spotify.com/artist/3EckbiziIUECy2zu32NoMp"
+        },
+        {
+          "name": "LEMON DROPS",
+          "url": "https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Quero Ir pra Bahia Com Voc\u00ea (feat. Fullmode & LEMON DROPS) - Remix",
+      "url": "https://open.spotify.com/track/6KZ3fRoXzE9ksxfjdwTblu"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Hot Summer",
         "url": "https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb"
       },
@@ -1499,26 +1531,6 @@
       "duration_ms": 191129,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Yannick",
-          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
-        }
-      ],
-      "duration_ms": 216126,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
     }
   ],
   "unique_name": "Festa na Praia",

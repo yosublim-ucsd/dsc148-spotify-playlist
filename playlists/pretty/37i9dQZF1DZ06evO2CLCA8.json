@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 864,
+  "num_followers": 866,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAABqA6nRWYIvxZSp8RPwsytg",
+  "snapshot_id": "Z1eEgAAAAADJEP19S8b99DgyPQhsiXq/",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 249093,
       "name": "Jammin' Me",
       "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
-        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 358461,
-      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
-      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 215613,
       "name": "I Should Have Known It",
       "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
+        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 358461,
+      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
     },
     {
       "added_at": null,

@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171172,
+      "name": "8 (feat. FLO) - Remix",
+      "url": "https://open.spotify.com/track/4T9f5Btf2PvDm5DT25VHTO"
+    },
+    {
+      "album": {
         "name": "@ Night",
         "url": "https://open.spotify.com/album/1fOpCyyYDtri79hJXAk6kQ"
       },
@@ -334,10 +356,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 206546,
       "name": "All I See",
       "url": "https://open.spotify.com/track/3Vr1FxMHtBLnQASeLl8YmG"
+    },
+    {
+      "album": {
+        "name": "All I See",
+        "url": "https://open.spotify.com/album/3EWixUkrWkl2lLAzXyFi9Y"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "All I See",
+      "url": "https://open.spotify.com/track/6VhmDvsNXnJKDw1vE0ZCPE"
     },
     {
       "album": {
@@ -731,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Big Fat Hip-Hop Hits",
+        "url": "https://open.spotify.com/album/296tga4pCMnXmClueGyWxZ"
+      },
+      "artists": [
+        {
+          "name": "#1 Hits",
+          "url": "https://open.spotify.com/artist/0dsbXBIQZWnhTV98Tzyffm"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Blinded by Your Grace, Pt. 2",
+      "url": "https://open.spotify.com/track/7JSZ75KZQgnwkniotPWG1v"
+    },
+    {
+      "album": {
         "name": "Today's Hip-Hop Radio Hits",
         "url": "https://open.spotify.com/album/04McrN5S0m8xeCs3NvZwtC"
       },
@@ -742,7 +800,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 231000,
       "name": "Blinded by Your Grace, Pt. 2",
       "url": "https://open.spotify.com/track/7hEGqdsqOgWTJ7PoESju4A"
@@ -3012,6 +3070,24 @@
       "duration_ms": 165440,
       "name": "Gecko (Overdrive)",
       "url": "https://open.spotify.com/track/3nNqmaZvoRqVV8RUOP9CCt"
+    },
+    {
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180363,
+      "name": "Get It Till I\u2019m Gone",
+      "url": "https://open.spotify.com/track/3AiEaPwwcLRp4Rzy0hqhnK"
     },
     {
       "album": {
@@ -6395,6 +6471,24 @@
     },
     {
       "album": {
+        "name": "LOVE XX",
+        "url": "https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Psycho and Beautiful",
+      "url": "https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV"
+    },
+    {
+      "album": {
         "name": "22 MINUTES LATER",
         "url": "https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7"
       },
@@ -7362,6 +7456,24 @@
       "duration_ms": 172999,
       "name": "She",
       "url": "https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG"
+    },
+    {
+      "album": {
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226835,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
     },
     {
       "album": {

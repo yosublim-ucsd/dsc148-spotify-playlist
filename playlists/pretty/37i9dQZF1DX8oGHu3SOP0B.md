@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทย และเพลงที่ mindfreakkk เลือกกัน\. ปก: mindfreakkk
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,941 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,963 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 35 | [ฉันโชคดี \- Lucky One](https://open.spotify.com/track/34LuGjhkNgW2l3gBeRcrR8) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ฉันโชคดี \(Lucky One\)](https://open.spotify.com/album/49MBvOfuEhCdPTrskspXAe) | 3:28 |
 | 36 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
 | 37 | [เพ้อ \(Still You\)](https://open.spotify.com/track/0TTfcNLrV4ROn9PcTiXOFk) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB) | [P.S\. Things I never tell you.](https://open.spotify.com/album/09CQLUeHaA8SfKkmKZ2XKc) | 3:23 |
-| 38 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 38 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 39 | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/track/0MEYCRC6mdoKNPkkVAR5k6) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนเตือนแล้ว \(Ignore\)](https://open.spotify.com/album/1lx08G8uQTWeX1hYy3rgWb) | 3:16 |
 | 40 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
 | 41 | [ACHOO!](https://open.spotify.com/track/05zDlZ0l2C458XxmxsDqEG) | [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [ACHOO!](https://open.spotify.com/album/4nMd8PPdDUcnT2uyJJ8Oxe) | 3:08 |

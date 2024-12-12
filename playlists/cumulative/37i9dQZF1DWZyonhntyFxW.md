@@ -4,7 +4,7 @@
 
 > نازل على فوق، إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: ليل بابا
 
-370 songs - 18 hr 17 min
+371 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-05-10 | 2022-07-07 |
 | [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-11 | 2023-09-07 |
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
-| [AHMED FALTA](https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 2:30 | 2024-09-04 |  |
+| [AHMED FALTA](https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 2:30 | 2024-09-04 | 2024-12-12 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 | 2024-02-23 |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
 | [AIRPLANE MODE](https://open.spotify.com/track/4S06nzlWnSbCL2sDTQm4ms) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:06 | 2024-08-05 | 2024-09-06 |
@@ -277,6 +277,7 @@
 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 | 2024-04-23 | 2024-06-14 |
 | [Shhh](https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:59 | 2022-05-10 | 2022-06-15 |
 | [SHHHH](https://open.spotify.com/track/5jMqDJwBXQHR1V13q3YKme) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 1:40 | 2024-09-04 | 2024-12-07 |
+| [SHIKA NOVA](https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [3AWDAT EL FA2DAN](https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO) | 1:52 | 2024-12-11 |  |
 | [SHOGHLA](https://open.spotify.com/track/1KHa1gCcw1OV9GVSt1guUo) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TALATINI](https://open.spotify.com/album/3XXEwsNnwu51uUm1wokMcv) | 3:01 | 2024-09-05 |  |
 | [SKIN](https://open.spotify.com/track/4EwSe0EnXry3Zh3cyFfHWn) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:34 | 2023-01-25 | 2023-06-19 |
 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 | 2024-04-13 |  |

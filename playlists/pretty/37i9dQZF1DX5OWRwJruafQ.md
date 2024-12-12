@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,304 likes - 98 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,315 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 11 | [Khaaj](https://open.spotify.com/track/4NaEfikRy0dZN5bApkUcRZ) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Khaaj](https://open.spotify.com/album/6Q3utLuoG3E2uIYgZ81jiG) | 2:36 |
 | 12 | [Lalkaare](https://open.spotify.com/track/5XU7ULgTkEdOV0sXvO6Jj1) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Jaini Sandhu](https://open.spotify.com/artist/55UKeoOT4cL1vSmfdLlG4Q) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:30 |
 | 13 | [TYPE SHII](https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 2:46 |
-| 14 | [Dhanwaad](https://open.spotify.com/track/3zN9vftHNTFeP0adBYhY5z) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dhanwaad](https://open.spotify.com/album/0VaG4Qhr1cT435mCqSL8kO) | 3:33 |
+| 14 | [Dhanwaad](https://open.spotify.com/track/3zN9vftHNTFeP0adBYhY5z) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dhanwaad](https://open.spotify.com/album/0VaG4Qhr1cT435mCqSL8kO) | 3:36 |
 | 15 | [Jaahli Note](https://open.spotify.com/track/0fZdVoavYTc9d4Yb0ZArnk) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Jaahli Note](https://open.spotify.com/album/3rELBAZu5Qa06YaSNSt6Jf) | 3:04 |
 | 16 | [Ranjha Criminal](https://open.spotify.com/track/4HvZjBDXmrSKSVHODa43Qa) | [Hanjra](https://open.spotify.com/artist/3VEL26TczJVl4rkS1xtTjp), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Ranjha Criminal](https://open.spotify.com/album/00HLcnCuuB0fDm4gPJFisX) | 2:02 |
 | 17 | [Well Settle](https://open.spotify.com/track/2NA1xrNHoDJqCtjBTLarJY) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Well Settle](https://open.spotify.com/album/0DzqJcdq84CliaCnVRGlPw) | 2:45 |

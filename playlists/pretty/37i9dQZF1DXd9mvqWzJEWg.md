@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle?si=4jEtK6CUR\_umf\-kD8wUblw">Mr Thela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,761 likes - 71 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,832 likes - 71 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hlabelela](https://open.spotify.com/track/1H4NvEEDSIic0ITKhNVaBX) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Xola Toto](https://open.spotify.com/artist/5e6xylbUpvvSNxwxEBuUR7) | [Tronics Land Series 3](https://open.spotify.com/album/6yMRhzcIPxcfrAmU7ADS48) | 5:46 |
 | 2 | [Bekungeke](https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r) | [Amatycooler](https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw) | [Bekungeke](https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ) | 5:54 |
-| 3 | [Yebo \- Remix](https://open.spotify.com/track/0kEDzhXTdc88ELA0zEP8yl) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Jay Music](https://open.spotify.com/artist/4ZfBNIp0NPkDK3Rcudxf05), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [Yebo \(Remix\)](https://open.spotify.com/album/3a0o6ciWJN3eUTZPQOrsPe) | 5:56 |
+| 3 | [Yebo \- Remix](https://open.spotify.com/track/0kEDzhXTdc88ELA0zEP8yl) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [Yebo \(Remix\)](https://open.spotify.com/album/3a0o6ciWJN3eUTZPQOrsPe) | 5:56 |
 | 4 | [Ama Weekend \(feat\. Leemckrazy\)](https://open.spotify.com/track/4gRjHuxHl3yQK2Om8vKTfj) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [Play At Your Own Risk](https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF) | 5:52 |
 | 5 | [Iyebobo \(feat\. CowBoii & ShennyDaDeejay\)](https://open.spotify.com/track/4BOvXbHa6Q6hYuwkWRJeYO) | [Shaun Stylist](https://open.spotify.com/artist/4MsFYMTaEW4pyz5elLDzTp), [Candy Flow RSA](https://open.spotify.com/artist/1b5fRGLPLWV69MK4HGohFo), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [ShennyDaDeejay](https://open.spotify.com/artist/0X0or8ECPXZc84oBEekeOH) | [Iyebobo \(feat\. CowBoii & ShennyDaDeejay\)](https://open.spotify.com/album/1Y4oCcZfGB00yc6V3YDg53) | 6:54 |
 | 6 | [Phola Nhliziyo](https://open.spotify.com/track/4rpnGD96W3x6EwvPYA0HG4) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT) | [Phola Nhliziyo](https://open.spotify.com/album/3lUa7wJGRtbHWtLLphLy8X) | 5:52 |

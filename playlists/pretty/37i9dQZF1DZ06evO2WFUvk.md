@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,580 likes - 30 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,584 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 27 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
 | 28 | [Make Me Feel \- Original Mix](https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Deep Inside](https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T) | 7:36 |
 | 29 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
-| 30 | [Get In \- Bass In A Box Remix](https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM) | [Mekane](https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Get In](https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef) | 6:30 |
 
-Snapshot ID: `Z1YzAAAAAAAIw7OpwHS/RTUvj6pENN0h`
+Snapshot ID: `Z1eEgAAAAAAjrKHzBHSJYByNE5g7y1if`

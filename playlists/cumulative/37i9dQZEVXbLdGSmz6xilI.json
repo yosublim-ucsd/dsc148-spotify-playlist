@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -5452,7 +5452,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 214950,
       "name": "dance all night",
       "url": "https://open.spotify.com/track/50aQbgfdydBXABx2gATQHn"
@@ -9444,7 +9444,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -14160,7 +14160,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 184006,
       "name": "not the same",
       "url": "https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM"
@@ -16106,7 +16106,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/3JIfmjJbanxJkwaPzYa2gN"
@@ -19800,7 +19800,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 236248,
       "name": "too bad for us",
       "url": "https://open.spotify.com/track/3tDF6qjNrabjnb23RB2rpa"
@@ -20104,6 +20104,24 @@
       "duration_ms": 264615,
       "name": "TR\u00d3I EM L\u1ea0I (feat. Quang H\u00f9ng MasterD)",
       "url": "https://open.spotify.com/track/7kKu4NWeBh01I6aTIEP9bg"
+    },
+    {
+      "album": {
+        "name": "VANLOVE",
+        "url": "https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA"
+      },
+      "artists": [
+        {
+          "name": "Lil Van",
+          "url": "https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219036,
+      "name": "Tr\u01b0\u01a1ng \u0110\u00ecnh Ho\u00e0ng",
+      "url": "https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj"
     },
     {
       "album": {
@@ -20432,7 +20450,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 316000,
       "name": "T\u00ccNH \u0110\u1ea6U QU\u00c1 CH\u00c9N (feat. Quang H\u00f9ng MasterD, Negav, Ph\u00e1p Ki\u1ec1u & Erik)",
       "url": "https://open.spotify.com/track/3Nn9QjxOEj1pleW9xTG6cq"

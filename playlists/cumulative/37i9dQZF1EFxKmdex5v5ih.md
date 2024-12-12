@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-455 songs - 1 day 1 hr 6 min
+457 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-11-29 |  |
 | [Dinner and a Movie](https://open.spotify.com/track/5lxt3BSd1x6taFHuwbKmrm) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Junta](https://open.spotify.com/album/11I9VPyaoJ3p0pMXpCMedY) | 3:42 | 2022-12-15 | 2023-12-14 |
 | [Dinner and a Movie \- Live in Brooklyn](https://open.spotify.com/track/6SfkvhDoA8IZ90zBoBaoOE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 3:55 | 2023-12-13 |  |
+| [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-12-11 |  |
 | [Don't Call](https://open.spotify.com/track/5Leb8e1Nirv6IFHrmvJNv3) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Don't Call](https://open.spotify.com/album/0EyiyaJHWNAbJ8bdpTHuaJ) | 3:16 | 2023-12-13 |  |
 | [Don't Go](https://open.spotify.com/track/3mciaSSgapbjBsrtqYUcp0) | [Mo Willems](https://open.spotify.com/artist/29vVRDh9cOUcDDT63VmcCu), [Deborah Wicks La Puma](https://open.spotify.com/artist/3PgoVuBGoY2PBtRbsJRrST), [Evan Casey](https://open.spotify.com/artist/5gePkcU6vgf5IB75WD48Wv), [Lauren Williams](https://open.spotify.com/artist/7apkv2xu8SK4e1CXCcrI9v) | [Elephant & Piggie's: We Are in a Play!](https://open.spotify.com/album/6sXnkmicZYunrAduYaQCQk) | 3:12 | 2022-12-15 | 2023-12-14 |
 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 | 2021-12-27 |  |
@@ -189,6 +190,7 @@
 | [I'll Never Not Love You](https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [I'll Never Not Love You](https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu) | 3:38 | 2022-01-30 | 2022-03-28 |
 | [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2021-12-27 | 2022-11-18 |
 | [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 | 2022-11-17 |  |
+| [If I Ever Get To Heaven](https://open.spotify.com/track/0SmY5SGiDuIWObSl9RS7KG) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [If I Ever Get To Heaven](https://open.spotify.com/album/23ZpqjR0lr2Nd49Y7r1Bej) | 4:01 | 2024-12-11 |  |
 | [If I Had Known](https://open.spotify.com/track/4fpIjYZPCCuxbOia7MuWPY) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [The Songwriter Tapes, Vol\. 3](https://open.spotify.com/album/5h3D3k3jflcOoV6uy4DBHi) | 2:57 | 2023-04-21 |  |
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/6ntFBx30fCwVO2WEF8sJz1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0QFW85XzFgWQJcZzOhKQf0) | 2:22 | 2023-07-13 |  |
 | [II MOST WANTED](https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:28 | 2024-04-04 |  |

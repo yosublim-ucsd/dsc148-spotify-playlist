@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Ferdi
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,786 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,813 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [Angel Dust](https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Angel Dust](https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7) | 4:04 |
 | 4 | [Cantilene](https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE) | [Marion Rampal](https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD), [Naïssam Jalal](https://open.spotify.com/artist/4Md8IAcfkCRrHL6KF41GYk) | [Cantilene](https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT) | 3:26 |
 | 5 | [Les fauves](https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI) | [Charlotte Reinhardt](https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4) | [Fables](https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib) | 3:03 |
-| 6 | [Survoler La Lune](https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [SURVOLER LA LUNE](https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln) | 4:18 |
+| 6 | [Survoler La Lune](https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE) | [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [Survoler La Lune](https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln) | 4:18 |
 | 7 | [Poeira Cosmica](https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Poeira Cosmica](https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn) | 4:13 |
 | 8 | [Lord Have Mercy](https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA) | [Michel Jonasz](https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7) | [SOUL](https://open.spotify.com/album/5u6ypyEMZRu3DTStrOyL8J) | 5:21 |
 | 9 | [Come Wander With Me](https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT) | [Jan van Duikeren](https://open.spotify.com/artist/3phwlysE4XqpKjP9f8fDOL), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD), [Jan van Duikeren & Marcel Veenendaal](https://open.spotify.com/artist/3pEzkqI3J0VftTSdpaQJ78) | [Come Wander With Me ft\. John Engels, Karel Boehlee & Aram Kersbergen](https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj) | 4:46 |

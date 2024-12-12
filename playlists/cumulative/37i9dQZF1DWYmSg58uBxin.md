@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-288 songs - 13 hr 14 min
+290 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-09-08 |  |
 | [Largo from Xerxes](https://open.spotify.com/track/3dSA0ZoHzvXxvticgIz5MJ) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Artwinder Modern Quartet](https://open.spotify.com/artist/2ipPNWfa4u0WTh99vGxpQ6) | [Quartet Classics Series: Largo from Xerxes](https://open.spotify.com/album/3REN8n3aARNwmHx9YcGjvQ) | 3:06 | 2022-09-09 | 2023-09-09 |
 | [Lark](https://open.spotify.com/track/5lG5EHUFKM9IMrozv6nUac) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Lark](https://open.spotify.com/album/1XIuXtuC9jZHUWzNPNoB9e) | 2:18 | 2023-09-08 |  |
+| [Last Summer](https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Last Summer](https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v) | 2:20 | 2024-12-11 |  |
 | [Laugarvatn](https://open.spotify.com/track/6sbdQPeO6pCjLGn0qYPliB) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Laugarvatn](https://open.spotify.com/album/4PXbi2zhHkm9KkG9hTAZsp) | 3:05 | 2021-09-18 |  |
 | [Lavender \- with cello](https://open.spotify.com/track/4BAEp107Apsg6doe16AIMH) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c), [Ardie Son](https://open.spotify.com/artist/35p89koMONEWydy9cbaWzm) | [More Than Words](https://open.spotify.com/album/5MRoWKvgXINVTmJmmR7Qw5) | 3:06 | 2023-09-08 |  |
 | [Law of Attraction \(solo version\)](https://open.spotify.com/track/6cmTVnOrji6WyAkFbnFLQK) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Various Solo Versions](https://open.spotify.com/album/4QLNgqKLeHjtGujmRWlgdG) | 3:35 | 2020-10-20\* | 2023-09-09 |
@@ -209,6 +210,7 @@
 | [Reprieve](https://open.spotify.com/track/1UTyE3P7cQ2de4dwLNyt58) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Inner Emotions](https://open.spotify.com/album/360SVaUkXUu24nh4hlNLia) | 3:04 | 2020-10-20\* | 2022-07-08 |
 | [Resilient](https://open.spotify.com/track/3qcqLrOeFOaWzpHK7GK6Qo) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Resilient](https://open.spotify.com/album/0uETRAhCKO0BjQHHxtW4YP) | 3:26 | 2020-10-20\* | 2024-07-30 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-09-08 |  |
+| [Returning Home](https://open.spotify.com/track/5KVFLNcGq5JH0TPfRLLmZZ) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Returning Home](https://open.spotify.com/album/273naH3CicGBwVjxxKO8lP) | 3:07 | 2024-12-11 |  |
 | [Saga Menuette](https://open.spotify.com/track/3EwA8gI0oi0vtmIBZBjGRQ) | [Marie Depauw](https://open.spotify.com/artist/3YrkixibPYT9i5JliqmLK7) | [Saga Menuette](https://open.spotify.com/album/0h1xKYfHHxyIEUKQDie39S) | 1:51 | 2020-10-20\* | 2023-09-09 |
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2020-10-20\* |  |
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-09-26 |  |

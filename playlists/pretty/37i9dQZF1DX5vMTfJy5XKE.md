@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,322 likes - 235 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,714 likes - 235 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 36 | [December](https://open.spotify.com/track/7hvFFiFYBAj4Pj6NxaLlp2) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [December](https://open.spotify.com/album/1vg43S8b4EltQvhaJ57auy) | 3:45 |
 | 37 | [Christmas Love](https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 3:06 |
 | 38 | [Santa Is Me](https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:41 |
-| 39 | [Cuffing Season](https://open.spotify.com/track/5TIXZk8sVZGHTvp5UZi5IJ) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Cuffing Season](https://open.spotify.com/album/6C8DeQaizGpDEl6vrg0Z1V) | 3:26 |
+| 39 | [Cuffing Season](https://open.spotify.com/track/5TIXZk8sVZGHTvp5UZi5IJ) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Cuffing Season](https://open.spotify.com/album/6C8DeQaizGpDEl6vrg0Z1V) | 3:27 |
 | 40 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 |
 | 41 | [December 24](https://open.spotify.com/track/2yVB8QNwygb2kTpTclxneT) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Ä Suburban Christmas](https://open.spotify.com/album/1aOk2jDIXsJMryg15qG5dC) | 2:24 |
 | 42 | [Children Again](https://open.spotify.com/track/15aNr3yRBv2lv0CIaIV1dR) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [Children Again](https://open.spotify.com/album/1J3polKz996kBWf1KO2OtT) | 2:40 |

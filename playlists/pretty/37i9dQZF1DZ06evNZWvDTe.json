@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11644,
+  "num_followers": 11655,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAABl1RhT+daLJYz2RiwwRHam",
+  "snapshot_id": "Z1eEgAAAAAB+xG2cIAPY4a0X14L+bcBg",
   "tracks": [
     {
       "added_at": null,
@@ -887,30 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valley Of Trappers (feat. Sarkodie) [Remix]",
-        "url": "https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d"
-      },
-      "artists": [
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Juiczx",
-          "url": "https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e"
-        }
-      ],
-      "duration_ms": 142876,
-      "name": "Valley Of Trappers (feat. Sarkodie) - Remix",
-      "url": "https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valley Of Trappers (feat. Sarkodie) [Remix]",
+        "url": "https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Juiczx",
+          "url": "https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e"
+        }
+      ],
+      "duration_ms": 142876,
+      "name": "Valley Of Trappers (feat. Sarkodie) - Remix",
+      "url": "https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH"
     },
     {
       "added_at": null,

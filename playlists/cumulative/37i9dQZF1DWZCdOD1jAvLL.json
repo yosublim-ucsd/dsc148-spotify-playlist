@@ -9786,7 +9786,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 154015,
       "name": "Need You",
       "url": "https://open.spotify.com/track/4KKbFhWTG5tstCC1g5cOVy"
@@ -14328,6 +14328,24 @@
       "duration_ms": 184320,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/32cyCuTxU5R0AKl4eP8RmF"
+    },
+    {
+      "album": {
+        "name": "TECHNO N' BASS",
+        "url": "https://open.spotify.com/album/7yiVNFSI7HBuHpgt6FUUqk"
+      },
+      "artists": [
+        {
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "TECHNO N' BASS",
+      "url": "https://open.spotify.com/track/3eC5zOfHgLYK2FYv8ObvMC"
     },
     {
       "album": {

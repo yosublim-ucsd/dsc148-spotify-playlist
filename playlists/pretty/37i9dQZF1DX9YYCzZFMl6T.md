@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 39 | [Wrapping Presents For Myself](https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Everybody Knows It's Christmas](https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG) | 3:44 |
 | 40 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
 | 41 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
-| 42 | [Christmas Whiskey](https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Chris Canterbury](https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s) | [Christmas Whiskey](https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL) | 3:40 |
-| 43 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
-| 44 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 |
-| 45 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 |
+| 42 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
+| 43 | [Christmas Whiskey](https://open.spotify.com/track/7mnh0k7OfszGlp4oVnsolq) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Chris Canterbury](https://open.spotify.com/artist/7rxEjIQbxQ5xAAWZektA8s) | [Christmas Whiskey](https://open.spotify.com/album/5DpflgfG4Qr1KTQ8W3duPL) | 3:40 |
+| 44 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 |
+| 45 | [Kid At Christmas](https://open.spotify.com/track/7i3DdCiqRVKccOop2LaS0g) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Kid At Christmas](https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS) | 3:23 |
 | 46 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
-| 47 | [I'll Be Home For Christmas](https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 2:49 |
+| 47 | [Merry Christmas](https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 3:31 |
 | 48 | [Let It Snow](https://open.spotify.com/track/5iMEKzBrHDiNQ35Sq9bEsM) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Let It Snow](https://open.spotify.com/album/60NznFZohLrW76T5kTA2Vo) | 3:02 |
-| 49 | [Merry Christmas](https://open.spotify.com/track/189X75jZ9JkpIih9OKkCoz) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 3:31 |
+| 49 | [I'll Be Home For Christmas](https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 2:49 |
 | 50 | [Winter Wonderland](https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Winter Wonderland](https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy) | 3:38 |
 
 Snapshot ID: `ZtVGUAAAAAALwjYYBwuoD2sDI8QOAUb8`

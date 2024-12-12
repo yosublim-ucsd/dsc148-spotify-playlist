@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 10 hr 53 min
+110 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 | 2022-06-30 |  |
 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 | 2022-06-04 |  |
 | [Me Aproximou \- Ao Vivo](https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 5:16 | 2022-06-04 |  |
+| [Meu Amado \- Ao Vivo](https://open.spotify.com/track/7cQAzkbSCSbL9Yl0wwy2aa) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/3KosRoKDQobyH2Q0wk4H4b) | 10:29 | 2024-12-11 |  |
 | [Meu Amor](https://open.spotify.com/track/2ysfPsrP67ijXTbVlLxM6C) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim em Foz do Iguaçu](https://open.spotify.com/album/2hQUz5MjrqXcr5omp5vKnJ) | 3:36 | 2022-06-04 |  |
 | [Meu Salvador \- Ao Vivo](https://open.spotify.com/track/3BEdHpS3OlNsZuT9HpdLaN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:30 | 2022-06-04 |  |
 | [Mil Motivos \- Ao Vivo](https://open.spotify.com/track/3lkwPbiLU17Lxpv4SiNYC8) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Mil Motivos \(Ao Vivo\)](https://open.spotify.com/album/3FRxarPiY11wjoiSSJF76b) | 4:56 | 2024-04-18 |  |
@@ -98,6 +99,7 @@
 | [Quero Voltar](https://open.spotify.com/track/1xSjU3nI8pLdqjNQXzl7We) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Quero Voltar](https://open.spotify.com/album/2rFKtCU44yhwgUmDxDqcGT) | 5:46 | 2022-09-22 |  |
 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 | 2022-09-22 |  |
 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 | 2023-12-13 |  |
+| [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 | 2024-12-11 |  |
 | [Saudade](https://open.spotify.com/track/3FGMRWDJuA3D4UpsIs084q) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/0DTMyf02zFSa3ZHq5Ouv6h) | 3:52 | 2024-08-14 |  |
 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6Gg3byyYFTJEf4VCZyOra7) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 4:41 | 2024-04-18 |  |
 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/3TB9u2iPkNelENmtYcEe8A) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [SHEKINAH \(Ao Vivo\)](https://open.spotify.com/album/36caxAwmf7IYaQuE78snUj) | 6:51 | 2024-04-18 | 2024-09-09 |

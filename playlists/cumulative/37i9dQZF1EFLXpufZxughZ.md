@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 8 hr 46 min
+152 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Girl Like That \(feat\. Caleb Jacobson\)](https://open.spotify.com/track/6BPAozuOyKeit8cCwycmWP) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV), [Caleb Jacobson](https://open.spotify.com/artist/2EJZ9V5goL0NT50wQo7M4I) | [United We Stand](https://open.spotify.com/album/3v9U6evWUH2BjiwMy3K3L9) | 3:13 | 2023-12-13 |  |
 | [Give Up](https://open.spotify.com/track/0BST0Q3OayjAIzG3MHOcy0) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Give Up](https://open.spotify.com/album/4Xff8fJ80WGcWR00TaQzPj) | 2:33 | 2023-12-13 |  |
 | [Go Get It](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:37 | 2023-12-13 |  |
+| [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 | 2024-12-11 |  |
 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 | 2023-12-13 |  |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-05-14 |  |
 | [Hard Times](https://open.spotify.com/track/5iM2NKLVD7DdfBbRIf4kMJ) | [Bishop Brigante](https://open.spotify.com/artist/4yGFddIt30417yFQiq2QaS) | [Hard Times](https://open.spotify.com/album/5wr41dTqAe0olbo2Ej2enu) | 4:33 | 2023-12-13 |  |
@@ -132,6 +133,7 @@
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/23RXMgsL67RwKHYy8tJRwF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/6SKicD1IkM8QF8hCK45gGe) | 3:52 | 2023-12-13 | 2024-02-02 |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2023-12-14 |  |
 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 | 2023-12-13 |  |
+| [Take Me Down](https://open.spotify.com/track/5wyFGDZMnv7wWews9KgKHZ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:27 | 2024-12-11 |  |
 | [Talk a Good Game](https://open.spotify.com/track/2VcealriqEgFRmdxlgXXCu) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 3:23 | 2023-12-13 |  |
 | [The Come Down Is Real Too](https://open.spotify.com/track/0apvzeJcPw9mB7iSQIBal5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:51 | 2023-12-13 |  |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 | 2023-12-13 |  |

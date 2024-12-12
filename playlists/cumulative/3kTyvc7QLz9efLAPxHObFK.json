@@ -6613,6 +6613,28 @@
     },
     {
       "album": {
+        "name": "CONTROL IS AN ILLUSION",
+        "url": "https://open.spotify.com/album/2Kzzqnk9hey5bZUYTFtwY2"
+      },
+      "artists": [
+        {
+          "name": "Luminite",
+          "url": "https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1"
+        },
+        {
+          "name": "Collusion",
+          "url": "https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "CONTROL IS AN ILLUSION",
+      "url": "https://open.spotify.com/track/5yNSWDnLHINzL3Nn87KDYg"
+    },
+    {
+      "album": {
         "name": "CONTROL MY ANGER",
         "url": "https://open.spotify.com/album/1DyqQHAwKXuA8OafTKjVhh"
       },

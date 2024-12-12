@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat! 🔁 Cover: Holden & mew
 
-142 songs - 7 hr 17 min
+143 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-09-19 |  |
 | [CAMMINARE SULLA LUNA](https://open.spotify.com/track/4Jb9NiMfsPe7NYFDoxng1f) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CAMMINARE SULLA LUNA](https://open.spotify.com/album/5I9j5PL0wEYpQLHNkjFmU5) | 3:11 | 2024-07-01 | 2024-09-24 |
 | [CANTA ANCORA](https://open.spotify.com/track/4CwufRNyhiQgn1to045Uzb) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [CANTA ANCORA](https://open.spotify.com/album/17GyaYhsuxJgBVKSLarO0x) | 4:16 | 2024-11-19 |  |
+| [Caravan](https://open.spotify.com/track/3hpxhURKPhtw1W6tsEdfhw) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [Caravan](https://open.spotify.com/album/34P3bZIIlWIRSICqswgsJN) | 2:33 | 2024-12-11 |  |
 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 | 2024-11-13 |  |
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-11 |
 | [Come il pane](https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Come il pane](https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ) | 3:52 | 2024-11-28 |  |
@@ -39,7 +40,7 @@
 | [DIRE FARE BACIARE](https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [DIRE FARE BACIARE](https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE) | 3:12 | 2024-07-01 | 2024-09-06 |
 | [Dove si va](https://open.spotify.com/track/7kfKhwwBxouY1oBIAnTPMX) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Dove si va](https://open.spotify.com/album/1FlhTJIKS0pYUtuoG2m1gG) | 2:24 | 2024-12-06 |  |
 | [ESTATE 80](https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 2:47 | 2024-07-01 | 2024-11-15 |
-| [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-26 |  |
+| [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-26 | 2024-12-12 |
 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 | 2024-11-07 |  |
 | [FEMME FATALE](https://open.spotify.com/track/4KJ9cKD3LBxnI9crOcXOPV) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [FEMME FATALE](https://open.spotify.com/album/69KvmI1ECKpjhjhZkI19Uo) | 3:10 | 2024-07-01 | 2024-09-20 |
 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 | 2024-09-19 | 2024-10-18 |

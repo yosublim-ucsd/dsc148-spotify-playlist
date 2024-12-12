@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Paulelson entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,494 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,513 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 15 | [Luxemburgo](https://open.spotify.com/track/1sD1YXeS4R9xPCjc0ze0md) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Luxemburgo](https://open.spotify.com/album/5ZNGmhq2CJJaRGeNKzQGQd) | 3:31 |
 | 16 | [NADA É COMO ANTES](https://open.spotify.com/track/2TTPw3ABfLAznAZAWplpdM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [NADA É COMO ANTES](https://open.spotify.com/album/58z9LFCp2cTPUPuCWcakEv) | 3:05 |
 | 17 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
-| 18 | [Crashout](https://open.spotify.com/track/69pXXXmx0zGxOoD5ajGUo9) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [Crashout](https://open.spotify.com/album/0EA5EIacxUlGeEmofHl9S7) | 3:15 |
+| 18 | [CRXSHOUT](https://open.spotify.com/track/69pXXXmx0zGxOoD5ajGUo9) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [CRXSHOUT](https://open.spotify.com/album/0EA5EIacxUlGeEmofHl9S7) | 3:15 |
 | 19 | [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 |
 | 20 | [Uber](https://open.spotify.com/track/2EnmhcS5qRsVVlTvYbEdEO) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Uber](https://open.spotify.com/album/26sXPFzDnP1BdLb962CFoy) | 2:35 |
 | 21 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 |

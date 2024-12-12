@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0vazKoFv2TDrHUfBarjJ0n">Boy Blue</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-54 songs - 2 hr 23 min
+56 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [CATMAN](https://open.spotify.com/track/3bOROMrockT8lnUTkNpyes) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [CATMAN](https://open.spotify.com/album/2Hw0EziKCpVRDVqMzhpidf) | 3:01 | 2024-09-21 |  |
 | [Champagne & Sunshine](https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj) | [Champagne & Sunshine](https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg) | 3:16 | 2024-01-29 |  |
 | [Champagne & Sunshine \(Ellusive Remix\)](https://open.spotify.com/track/2Ytv0dhe5vPTJsC9pO7VO0) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [Tarro](https://open.spotify.com/artist/0SXgKLNtpIrH29F1vMRWzj), [Ellusive](https://open.spotify.com/artist/6gwInscSxlouXzcmENDqk4) | [Champagne & Sunshine \(Ellusive Remix\)](https://open.spotify.com/album/0dMaS9fIuD0BCp4JayOW7x) | 3:04 | 2024-01-29 |  |
+| [Chasing Ghosts](https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Chasing Ghosts](https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx) | 2:07 | 2024-12-11 |  |
 | [Come My Way](https://open.spotify.com/track/7xU32nQT8XfyZG4xcMzb5L) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Come My Way](https://open.spotify.com/album/0VVMgTuT35wo3FWfekyiuu) | 3:33 | 2024-01-29 |  |
 | [Conversations With God](https://open.spotify.com/track/63iNFbS3QgJ3PTBbBrLJ63) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Conversations With God](https://open.spotify.com/album/0LqPlnIZQxWQFWl3qqvVZl) | 3:23 | 2024-01-29 | 2024-04-02 |
 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 | 2024-01-29 |  |
 | [C’est La Vie](https://open.spotify.com/track/2AYAqt3S3I0LNatVAgcoVK) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [C’est La Vie](https://open.spotify.com/album/2vHsnOZM4N9PgD3orKhtHB) | 3:03 | 2024-01-29 |  |
 | [Do It](https://open.spotify.com/track/66FcNBFB1rh6sXgFR1YkfG) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Cheques ‘n’ Respect](https://open.spotify.com/album/1xWKjBPJnX1rxnIRoFKG3p) | 1:51 | 2024-01-29 |  |
+| [DO OR DIE](https://open.spotify.com/track/1q90IzbN4Cs4R2DLVlsMWe) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DARKER WHITE](https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP) | 2:23 | 2024-12-11 |  |
 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 | 2024-01-29 |  |
 | [Drunk Enough to Say That I Love You](https://open.spotify.com/track/4dzifrtt5uoB6Blb791hmL) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You](https://open.spotify.com/album/5l7yezoxX1ib8QBR5e4KfF) | 3:42 | 2024-01-29 |  |
 | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/track/5gkxFPflbWN4rfKXDE7p9V) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Drunk Enough to Say That I Love You \(Revolt Remix\)](https://open.spotify.com/album/3MCnPLixvb2nq5eejWumll) | 2:37 | 2024-01-29 |  |

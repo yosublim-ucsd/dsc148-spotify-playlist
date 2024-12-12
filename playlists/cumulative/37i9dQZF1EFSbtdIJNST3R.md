@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 2 hr 47 min
+63 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Ongelofelijk](https://open.spotify.com/track/09xShRjUnJyJe1nFm0qS14) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD) | [Ongelofelijk](https://open.spotify.com/album/1b34dfAabmWlwMT9U7mqH5) | 3:39 | 2022-05-25 |  |
 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 | 2022-05-25 |  |
 | [Rückwärtsgang](https://open.spotify.com/track/0PeqjPMkg5az7s5PNiymXV) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [Rückwärtsgang](https://open.spotify.com/album/3FQ7WItUVApunygLj4btX7) | 2:27 | 2022-06-30 |  |
-| [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 | 2022-05-25 |  |
+| [Side Eyes](https://open.spotify.com/track/16UK0ysbJRGRmIsyjvI3yV) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:07 | 2022-05-25 | 2024-12-12 |
+| [Side Eyes](https://open.spotify.com/track/6jrC9HUy2gAokbC4nrUawR) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6) | 2:07 | 2024-12-11 |  |
 | [Slaaptekort](https://open.spotify.com/track/4zAbjQvRdn3FLgoS3775Jx) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Slaaptekort](https://open.spotify.com/album/1WtIoJqoq9zHEMyTijSAV3) | 2:26 | 2023-05-10 |  |
 | [Small Talk](https://open.spotify.com/track/0lvN2fIgifvC63C70WQZDz) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Small Talk](https://open.spotify.com/album/17EackTViAFr0fZWhMYbo4) | 2:35 | 2022-05-25 |  |
 | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/track/07AhIz1LUHR1U4aTbOYSJQ) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Sniper \(Remix\) \(feat\. BKO, Jairzinho & Sevn Alias\)](https://open.spotify.com/album/2aTzmifl59fUFqBW24bzDw) | 3:19 | 2022-05-25 | 2022-07-28 |
@@ -61,7 +62,8 @@
 | [Sunshine](https://open.spotify.com/track/4JaziO9SplhqLt31vWXcX4) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Lente](https://open.spotify.com/album/5NxPIBU1e2Ns6npLSNOKJ8) | 2:56 | 2022-05-25 | 2023-04-11 |
 | [Sunshine](https://open.spotify.com/track/4gZD4q9gni74mpIvlG2tHz) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Lente](https://open.spotify.com/album/2ZFvIiNdavC1ysz9gbUARw) | 2:56 | 2023-04-10 |  |
 | [Take It Like a Man](https://open.spotify.com/track/3XkbXbLu9TQensKNdwgQ5u) | [TP4Y](https://open.spotify.com/artist/7ncXvRgpeELvS692m8N9Ka) | [Kisses](https://open.spotify.com/album/4RPMCzrskSTFYaY2UXDW42) | 2:50 | 2022-05-25 |  |
-| [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 | 2022-05-25 |  |
+| [Till The End](https://open.spotify.com/track/66XQRZBjZh0rbsY9KJZ8DL) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49) | 2:25 | 2022-05-25 | 2024-12-12 |
+| [Till the End](https://open.spotify.com/track/6DwMJ76cJbXg6OvrLOK09Z) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Searching](https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6) | 2:25 | 2024-12-11 |  |
 | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2023-12-13 |  |
 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 | 2022-05-25 |  |
 | [Vreemde Voor Mij](https://open.spotify.com/track/0PsiQvqiUjUfyYZKuG9056) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:55 | 2023-07-28 |  |

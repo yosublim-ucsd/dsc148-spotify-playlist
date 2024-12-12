@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-781 songs - 1 day 9 hr 50 min
+782 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-15 | 2024-02-28 |
 | [Falling Free](https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Falling Free](https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h) | 2:47 | 2024-05-14 |  |
 | [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-04-03 |  |
-| [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-07 |  |
+| [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-07 | 2024-12-12 |
 | [Fearthainne](https://open.spotify.com/track/3FuG8DFIrAtGMvKoxNkCxY) | [Cora Droma](https://open.spotify.com/artist/1buRn3xacgF6W9Ncdo9ufk) | [Fearthainne](https://open.spotify.com/album/7awBR3o8RV1O0zIcABylkR) | 2:22 | 2022-04-15 | 2022-04-23 |
 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-06 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-15 | 2022-04-23 |
@@ -531,6 +531,7 @@
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2022-04-15 | 2023-01-21 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-15 | 2024-04-04 |
 | [Reverie](https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Reverie](https://open.spotify.com/album/6PZ32yJJXZk1aPBB6367lf) | 2:16 | 2023-08-14 |  |
+| [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2022-04-15 | 2022-05-27 |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-04-15 | 2022-09-21 |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-29 |  |

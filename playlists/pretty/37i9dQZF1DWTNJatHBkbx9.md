@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Malaika
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 74 | [Talk is Cheap](https://open.spotify.com/track/131gYrutihXNvIUEtBYSbG) | [Asi Renie](https://open.spotify.com/artist/6LN0wKo0KuF6TBgwn0hvja) | [Talk is Cheap](https://open.spotify.com/album/6j4ePc4BYeLuqtXNf7lpqy) | 3:30 |
 | 75 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 |
 | 76 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 |
-| 77 | [Revolution](https://open.spotify.com/track/0PH8UPKRZmmXND0eTXb2fH) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Ssnowbeatz](https://open.spotify.com/artist/5rJmFKxhCIEnl455wuOxPz), [maamee](https://open.spotify.com/artist/7L2ZNTG60W7qXzKrO3Ur6c) | [Revolution](https://open.spotify.com/album/2LvrwpLao3nqDKUKAEbzDc) | 3:23 |
+| 77 | [Revolution](https://open.spotify.com/track/0PH8UPKRZmmXND0eTXb2fH) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Ssnowbeatz](https://open.spotify.com/artist/5rJmFKxhCIEnl455wuOxPz), [maamee](https://open.spotify.com/artist/5onkJfwIoEj8Yd1YizZs7q) | [Revolution](https://open.spotify.com/album/2LvrwpLao3nqDKUKAEbzDc) | 3:23 |
 | 78 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
 | 79 | [Pressure](https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Pressure](https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE) | 3:27 |
 | 80 | [Too Friendly](https://open.spotify.com/track/4BQr3DTMqO8rpC4NtLPQTm) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Something About A Rose](https://open.spotify.com/album/0zt1UU6Dk47u4lDpoHp9XV) | 2:24 |

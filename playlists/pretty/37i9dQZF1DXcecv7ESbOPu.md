@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,509 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,501 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [20 SOMETHING](https://open.spotify.com/track/4yUmNIk1Y2svDaehWlwVg0) | [SAUDA](https://open.spotify.com/artist/39dIL6jVJO0gdoAOQL0Tt1) | [20 SOMETHING](https://open.spotify.com/album/6GlczP7cJpgbYNJ6VVVWKB) | 3:04 |
 | 56 | [let go](https://open.spotify.com/track/3ssrhnGBzysMW1aMPqqNfr) | [Alex Hagen](https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW) | [let go](https://open.spotify.com/album/4oVe1PQYnwwNhu3duCkWHP) | 2:41 |
 | 57 | [Use Somebody](https://open.spotify.com/track/6QeOdLpm06CNkOZJ0rkqOx) | [Not Kiddin](https://open.spotify.com/artist/5slcBxBEr8gj97CE6fbNdQ) | [Use Somebody](https://open.spotify.com/album/3OIUtlzxirYUEeSxpGypas) | 2:45 |
-| 58 | [Toca's Miracle \- Vidojean X Oliver Loenn Edit](https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ) | [Toca's Miracle \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN) | 2:35 |
+| 58 | [Toca's Miracle \- Vidojean X Oliver Loenn Edit](https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js) | [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Toca's Miracle \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/3iZiVixxOHI3UqRnRSRzGN) | 2:35 |
 | 59 | [What love is \(you\)](https://open.spotify.com/track/5vCSNV2u90Ynkn5iz2P551) | [French Perfume](https://open.spotify.com/artist/5SeFjp8vBGMHlzCY5pI40N) | [FP°1](https://open.spotify.com/album/519IIO2hOoM6Vc5rubKIkU) | 2:30 |
 | 60 | [Där älgen alltid är blå](https://open.spotify.com/track/0i196iL4atwYDe3384q3dE) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Där älgen alltid är blå](https://open.spotify.com/album/0K1IFuNEP1WgOtJzOZ6hZ8) | 2:48 |
 | 61 | [Love Me Low](https://open.spotify.com/track/5fzEO0hmFO2ajeschcjuoJ) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [Love Me Low](https://open.spotify.com/album/7Iyp36QInUVBW8eytmtQXT) | 2:59 |

@@ -1421,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Memory Of A Day",
+        "url": "https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/771xIRZvmPNPNw8CP82WJV"
+    },
+    {
+      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },

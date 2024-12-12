@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,486 likes - 116 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,485 likes - 116 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

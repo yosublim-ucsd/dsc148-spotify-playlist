@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132741,
+  "num_followers": 132739,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-12-06 23:44:18",
       "album": {
-        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 208241,
-      "name": "Novos Ricos - Ao Vivo",
-      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
-    },
-    {
-      "added_at": "2024-12-06 23:44:18",
-      "album": {
         "name": "Ritmia Do Funk",
         "url": "https://open.spotify.com/album/2jQ136UkTZyOI0TJT9q45E"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 156923,
       "name": "Ritmia Do Funk",
       "url": "https://open.spotify.com/track/4VHy9SlOGYP91atYIidFQl"
+    },
+    {
+      "added_at": "2024-12-06 23:44:18",
+      "album": {
+        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 208241,
+      "name": "Novos Ricos - Ao Vivo",
+      "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
     },
     {
       "added_at": "2024-12-06 23:44:18",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-12-06 23:44:18",
       "album": {
+        "name": "Viajando no Drink",
+        "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
+      },
+      "artists": [
+        {
+          "name": "Denov",
+          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
+        },
+        {
+          "name": "Real Wise",
+          "url": "https://open.spotify.com/artist/6i9NlnmpnFGjka6O26ZehL"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "Viajando no Drink",
+      "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
+    },
+    {
+      "added_at": "2024-12-06 23:44:18",
+      "album": {
         "name": "MUITA LUTA MIXTAPE",
         "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 186461,
       "name": "BrusaDaNike e GShock",
       "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
-    },
-    {
-      "added_at": "2024-12-06 23:44:18",
-      "album": {
-        "name": "Viajando no Drink",
-        "url": "https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq"
-      },
-      "artists": [
-        {
-          "name": "Denov",
-          "url": "https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW"
-        },
-        {
-          "name": "Real Wise",
-          "url": "https://open.spotify.com/artist/6i9NlnmpnFGjka6O26ZehL"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "Viajando no Drink",
-      "url": "https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG"
     },
     {
       "added_at": "2024-12-06 23:44:18",

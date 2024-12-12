@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Eternal Bloom",
+        "url": "https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC"
+      },
+      "artists": [
+        {
+          "name": "Gyeongree",
+          "url": "https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158586,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX"
+    },
+    {
+      "album": {
         "name": "Celebration Weight",
         "url": "https://open.spotify.com/album/1D1fXwTwOExxyv2GUOw8oC"
       },
@@ -465,6 +483,24 @@
     },
     {
       "album": {
+        "name": "Sl\u00f6sa din tid",
+        "url": "https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw"
+      },
+      "artists": [
+        {
+          "name": "L4baby",
+          "url": "https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sl\u00f6sa din tid",
+      "url": "https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL"
+    },
+    {
+      "album": {
         "name": "Something In My Eye",
         "url": "https://open.spotify.com/album/4b19y9VplmgR8kOXFpH3B1"
       },
@@ -592,6 +628,28 @@
       "duration_ms": 187022,
       "name": "Your Move",
       "url": "https://open.spotify.com/track/6HNTfx84zrNwNWcxgLFfnn"
+    },
+    {
+      "album": {
+        "name": "Z\u00c9RO PAR MOIS",
+        "url": "https://open.spotify.com/album/72aUzvdkjxOJWmuQpxAx3z"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141576,
+      "name": "Z\u00c9RO PAR MOIS",
+      "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFJXI55VopF6Y"

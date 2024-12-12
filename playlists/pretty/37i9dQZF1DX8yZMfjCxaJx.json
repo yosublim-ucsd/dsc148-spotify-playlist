@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Tucanes de Tijuana, Luis R Conriquez en portada.",
-  "num_followers": 237818,
+  "num_followers": 237895,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "La Gente Del M",
-        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Definitivo",
-          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Gente Del M",
-      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "La Gente Del M",
+        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Definitivo",
+          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Gente Del M",
+      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Me Dicen Pollito",
+        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 259035,
+      "name": "Me Dicen Pollito",
+      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Que Empiece El Juego",
         "url": "https://open.spotify.com/album/4b1B9h0jg1yaWQHkO9fdcf"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 149697,
       "name": "Que Empiece El Juego",
       "url": "https://open.spotify.com/track/6d4we28oTHN8qrkJXkZwrS"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Me Dicen Pollito",
-        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 259035,
-      "name": "Me Dicen Pollito",
-      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
-        }
-      ],
-      "duration_ms": 189754,
-      "name": "El N\u00famero",
-      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Me Recordar\u00e1 El Cartel",
         "url": "https://open.spotify.com/album/0y3JfPmBXObYNQdFA51wPt"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 221391,
       "name": "Me Recordar\u00e1 El Cartel",
       "url": "https://open.spotify.com/track/3frGd9BgQSOrOg7ELtmIND"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "duration_ms": 189754,
+      "name": "El N\u00famero",
+      "url": "https://open.spotify.com/track/2S1L7g0N4ZH4DEzKoetT5N"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 205077,
-      "name": "Se Nos Fue El 2",
-      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Mente Activa",
         "url": "https://open.spotify.com/album/02XqYA9O2fk2qnXdnWP1mo"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 205077,
+      "name": "Se Nos Fue El 2",
+      "url": "https://open.spotify.com/track/3FQto4FOM3TBDKSvSSXgEW"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Comandante 09",
         "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "El Muchacho de la Barba",
-        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 154352,
-      "name": "El Muchacho de la Barba",
-      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Sold Out",
         "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 198036,
       "name": "Sold Out",
       "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "El Muchacho de la Barba",
+        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 154352,
+      "name": "El Muchacho de la Barba",
+      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "El G\u00fcero Rey del Pop",
-      "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Nos Gusto La Mafia \"EXOTIC\u00d3N 2.0\"",
         "url": "https://open.spotify.com/album/4V6dAxy3fxZSWnQsiLETSj"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "El G\u00fcero Rey del Pop",
+      "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Carteles Vol.II",
         "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
       },
@@ -1511,26 +1511,6 @@
       "duration_ms": 223769,
       "name": "El 40 (Durango)",
       "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1555,6 +1535,26 @@
       "duration_ms": 157966,
       "name": "El Panu (En Vivo)",
       "url": "https://open.spotify.com/track/0W1ifaL01aXznVi6ZhMWir"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-11-29 06:00:00",

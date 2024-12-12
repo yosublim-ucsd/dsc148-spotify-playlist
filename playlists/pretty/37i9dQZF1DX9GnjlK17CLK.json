@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 161030,
+  "num_followers": 161077,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
         "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Street Talkin'",
+        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+      },
+      "artists": [
+        {
+          "name": "Elmore James",
+          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+        }
+      ],
+      "duration_ms": 192661,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Street Talkin'",
-        "url": "https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 192661,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI"
+      "duration_ms": 187240,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Al's Big Deal",
-        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
-      },
-      "artists": [
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "The Complete Imperial Recordings, 1950-1954",
         "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Al's Big Deal",
+        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+      },
+      "artists": [
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
       "added_at": "2024-06-02 16:41:51",

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-461 songs - 1 day 1 hr 56 min
+462 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Ishq Ki Baat](https://open.spotify.com/track/2ckptbX68hmRuRAXDmBK2y) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/1mST5bUGOaBHO8r1CQoWm0) | 1:31 | 2024-02-19 | 2024-02-27 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 | 2024-02-20 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
+| [Ja Ve Ja](https://open.spotify.com/track/1ElzcbjqvQVfMeFM7t4kfS) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Ja Ve Ja](https://open.spotify.com/album/3zN6lfX3PbBlasITyYCXpi) | 2:23 | 2024-12-11 |  |
 | [Jaan](https://open.spotify.com/track/5jmM3dnSEoHVRl5AZD3kli) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jaan](https://open.spotify.com/album/1XCilJdUD4bYha219y4yLo) | 3:25 | 2024-02-05 | 2024-06-22 |
 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 | 2024-09-30 |  |
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
@@ -178,7 +179,7 @@
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
 | [Janamdin](https://open.spotify.com/track/4ngUzKSnbclvmZ6mxCw4Gq) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Janamdin](https://open.spotify.com/album/5q6nuMAdjX2DzYpr7q3CK2) | 2:34 | 2024-10-07 | 2024-11-12 |
 | [Janeman](https://open.spotify.com/track/1nUZkGuF1JPLdnoyj5yTrP) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/5mfKbhUetTj10ZikjC0l0v) | 2:35 | 2023-11-28 | 2024-02-24 |
-| [Jaun Kahaan](https://open.spotify.com/track/0468cWjc8U95lKGbUeH9bU) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Manohar Rao](https://open.spotify.com/artist/1uj0OPTnnHxeJdvLdaMZNF) | [SORA](https://open.spotify.com/album/5mPpTBPEiOyCWAjI61ggXw) | 3:38 | 2024-11-12 |  |
+| [Jaun Kahaan](https://open.spotify.com/track/0468cWjc8U95lKGbUeH9bU) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Manohar Rao](https://open.spotify.com/artist/1uj0OPTnnHxeJdvLdaMZNF) | [SORA](https://open.spotify.com/album/5mPpTBPEiOyCWAjI61ggXw) | 3:38 | 2024-11-12 | 2024-12-12 |
 | [Jharokhe Se](https://open.spotify.com/track/57MfzNA2MA3Yez6tfSecJy) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Jharokhe Se](https://open.spotify.com/album/5yn1s3VtxX4GXWZ6yLbyEc) | 3:51 | 2023-11-24 | 2023-12-09 |
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 | 2023-11-25 |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-08-02 |  |

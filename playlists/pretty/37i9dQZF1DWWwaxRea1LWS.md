@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Ease into the Holiday rush with \#SpotifyTBT and these mellow classics\. Cover: James Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,505 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,426 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 37 | [Careless](https://open.spotify.com/track/3dnzRVnJVobc8CtI645RjF) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:44 |
 | 38 | [I Shall Be Released \- Remastered 2000](https://open.spotify.com/track/1IoRkyadylakMOukD7uN67) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 3:12 |
 | 39 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 4:49 |
-| 40 | [Where Have All the Flowers Gone \- 2004 Remaster](https://open.spotify.com/track/1V8BSBe2fB5Np30sXmUCNU) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:56 |
+| 40 | [Where Have All the Flowers Gone \- 2004 Remaster](https://open.spotify.com/track/1V8BSBe2fB5Np30sXmUCNU) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:56 |
 | 41 | [Aubrey](https://open.spotify.com/track/3his1UkcI0rwrniPDR9kTj) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:39 |
 | 42 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 |
 | 43 | [Rainy Days And Mondays](https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:38 |

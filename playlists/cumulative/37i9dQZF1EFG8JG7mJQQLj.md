@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-502 songs - 1 day 4 hr 47 min
+505 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1,000 Lights](https://open.spotify.com/track/768Xvk1Z33Q3zzVv55ombr) | [Javier Colon](https://open.spotify.com/artist/3flTDj1VSZCktpBGZlNutt) | [Come Through For You](https://open.spotify.com/album/5QKlmKhCgRgDmOeKdy84yN) | 3:19 | 2024-01-29 |  |
 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 | 2024-01-29 |  |
 | [2 hands](https://open.spotify.com/track/2GwqVPMVmK7bOgL6UCp7Ht) | [Lil C.C.](https://open.spotify.com/artist/4Moq5aBdKJzuZtYUfcyKfr) | [2 hands](https://open.spotify.com/album/1y4nObs7YQvXu8ZwyXMChj) | 3:22 | 2024-11-28 | 2024-12-04 |
+| [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-12-11 |  |
 | [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2024-03-12 |  |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2024-01-29 |  |
 | [Ain't Easy](https://open.spotify.com/track/0b9KkFVuiKep5IH8O5O8OX) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [8:47](https://open.spotify.com/album/2RxqGBW2H5j2EyZyqwc7m3) | 3:08 | 2024-01-29 |  |
@@ -60,7 +61,8 @@
 | [Bonfire Heart](https://open.spotify.com/track/5qYqF9Va1IfUn0xT5jG9AC) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Bonfire Heart](https://open.spotify.com/album/5eJvuJRIiKM9U2NbS1kkeu) | 3:42 | 2024-01-29 | 2024-01-31 |
 | [Bonfire Heart](https://open.spotify.com/track/2N0volXQpwsvjDorTTxBAU) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing](https://open.spotify.com/album/4Sj9XfiPLf5byGh7u2ZU7g) | 3:58 | 2024-01-30 |  |
 | [Born](https://open.spotify.com/track/797fEwjPjyNhkoQCHDkzne) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:25 | 2024-01-29 |  |
-| [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 | 2024-01-29 |  |
+| [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 | 2024-01-29 | 2024-12-12 |
+| [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 | 2024-12-11 |  |
 | [Break Anotha](https://open.spotify.com/track/7rFbWJk8Mv7BDsF1vsBbQR) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:09 | 2024-01-29 |  |
 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 | 2024-01-29 |  |
 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 | 2024-01-29 |  |
@@ -158,6 +160,7 @@
 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 | 2024-01-29 |  |
 | [Ghost](https://open.spotify.com/track/5TI9vxJAI5K069uic9AmTq) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:33 | 2024-01-29 |  |
 | [Ghost](https://open.spotify.com/track/4O9bzeRoxVpoVY22EQ3MPH) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Ghost \(Official Video\)](https://open.spotify.com/album/0IumaRBoTUrfZfxksDjnNx) | 3:57 | 2024-01-29 | 2024-02-02 |
+| [Ghost](https://open.spotify.com/track/7bD0qDEoBpxized1xEJkxX) | [Kylie Rothfield](https://open.spotify.com/artist/5QfKIQ78C8jtliKdwTPHlq) | [Ghost](https://open.spotify.com/album/6J1iwnlChyXTZo3I2mxWAb) | 3:25 | 2024-12-11 |  |
 | [Girls Like Me \(From Songland\)](https://open.spotify.com/track/7mAEhhFuvOYmPhIUPrPeSo) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Girls Like Me \(From Songland\)](https://open.spotify.com/album/0ZERnGKcGJaYPLa5nlGQP7) | 3:15 | 2024-01-29 |  |
 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2024-01-29 |  |
 | [Glassheart](https://open.spotify.com/track/0KMFnL2nr4WBdN5WXFjTji) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:56 | 2024-01-29 |  |

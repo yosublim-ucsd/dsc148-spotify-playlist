@@ -7922,7 +7922,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 206332,
       "name": "Coraz Bli\u017cej \u015awi\u0119ta",
       "url": "https://open.spotify.com/track/6IyM1d0DOlb8S3tUGi7wPB"
@@ -16444,7 +16444,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -16462,7 +16462,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -19880,7 +19880,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 165483,
       "name": "Kulig",
       "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
@@ -21598,7 +21598,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -23456,7 +23456,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 169756,
       "name": "MONOPOL",
       "url": "https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl"
@@ -39740,7 +39740,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -39758,7 +39758,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -41624,7 +41624,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 191304,
       "name": "Woda Ksi\u0119\u017cycowa",
       "url": "https://open.spotify.com/track/1usq8LPUPjpF1TxLXTOJ82"
@@ -42242,6 +42242,32 @@
       "duration_ms": 142360,
       "name": "WSZYSTKO GUCCI",
       "url": "https://open.spotify.com/track/2rBmOHorZGGzgIw9iLX9k2"
+    },
+    {
+      "album": {
+        "name": "WSZYSTKO MIJA",
+        "url": "https://open.spotify.com/album/14zjan9MfMAAyNfQhf09Z6"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        },
+        {
+          "name": "Lonzo",
+          "url": "https://open.spotify.com/artist/23a4GHE8SXM3a5sX6oDQNM"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199069,
+      "name": "WSZYSTKO MIJA",
+      "url": "https://open.spotify.com/track/6XK2NHIhrIaS7rexbiiiq7"
     },
     {
       "album": {

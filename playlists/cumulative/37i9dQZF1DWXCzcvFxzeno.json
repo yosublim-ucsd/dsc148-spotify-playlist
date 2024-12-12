@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 278823,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm"
@@ -4204,6 +4204,28 @@
       "duration_ms": 301615,
       "name": "Young Birds - Hard Duck Edit",
       "url": "https://open.spotify.com/track/1jxgFyyTRgoMGKRZsJ27bi"
+    },
+    {
+      "album": {
+        "name": "This Is Real",
+        "url": "https://open.spotify.com/album/4sAaFyPg9TAin46olKrqbt"
+      },
+      "artists": [
+        {
+          "name": "OMAKS",
+          "url": "https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm"
+        },
+        {
+          "name": "Teletech",
+          "url": "https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247037,
+      "name": "Your Soul",
+      "url": "https://open.spotify.com/track/5MYhLdXq3fzLO7XhDM1eXQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno"

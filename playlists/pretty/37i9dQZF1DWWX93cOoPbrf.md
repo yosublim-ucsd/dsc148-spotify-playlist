@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Adriel Favela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,660 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,777 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 64 | [15 Millones por el M \(En Vivo\)](https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [XV Recargado](https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd) | 3:39 |
 | 65 | [BW](https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [BW](https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs) | 2:51 |
 | 66 | [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 |
-| 67 | [A La MB Muchas Gracias \(Adiós al Chore\)](https://open.spotify.com/track/1YVOAwXxps3HbRwJ2FjFI1) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [A La MB Muchas Gracias \(Adiós al Chore\)](https://open.spotify.com/album/0SUWpVKlKwlzsNTBNNoZ1u) | 3:26 |
+| 67 | [A La MB Muchas Gracias \(Adiós al Chore\) \- En Vivo](https://open.spotify.com/track/1YVOAwXxps3HbRwJ2FjFI1) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [A La MB Muchas Gracias \(Adiós al Chore\) \[En Vivo\]](https://open.spotify.com/album/0SUWpVKlKwlzsNTBNNoZ1u) | 3:26 |
 | 68 | [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 |
 | 69 | [Cada Vez](https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Cada Vez](https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx) | 2:15 |
 | 70 | [Pochos Mexicanos](https://open.spotify.com/track/7sQymlOpTjEem9P5QkrMNN) | [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Pochos Mexicanos](https://open.spotify.com/album/5ieKoLGLRkikHYfzGgojvv) | 3:30 |

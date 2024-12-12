@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Juicy Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,945 likes - 95 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,971 likes - 95 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 22 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 |
 | 23 | [flex fm \(freddit\)](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\)](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
 | 24 | [My Selecta](https://open.spotify.com/track/16jQDWYUCyzqH2ZUxC44o5) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Natural Selections](https://open.spotify.com/album/4ExREa2kscTfW72WQSWHmn) | 4:40 |
-| 25 | [Passing Through Fyah](https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo), [Remi Mazet](https://open.spotify.com/artist/6hFk7b6gczFlDsr56t7GKj) | [Passing Through Fyah](https://open.spotify.com/album/0zpFI6O3VArFbj04dB0M9F) | 5:15 |
+| 25 | [Passing Through Fyah](https://open.spotify.com/track/5Ky8y4EEEd2RopCSlAOGBn) | [Johnny Hunter](https://open.spotify.com/artist/5ovQVTwydXB759xXoJmN0E), [Remi Mazet](https://open.spotify.com/artist/6hFk7b6gczFlDsr56t7GKj) | [Passing Through Fyah](https://open.spotify.com/album/0zpFI6O3VArFbj04dB0M9F) | 5:15 |
 | 26 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
 | 27 | [Burn It](https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Burn It](https://open.spotify.com/album/7s4Uf9U1OCqCyTB2jJY5dB) | 4:32 |
 | 28 | [Mixed Messages](https://open.spotify.com/track/6yk7LVxilkim5YM1iUW2EV) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Soft Launch \- EP](https://open.spotify.com/album/4GmT6hqsAsysPlT0rZ7bV5) | 5:07 |

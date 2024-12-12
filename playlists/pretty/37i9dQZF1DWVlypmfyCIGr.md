@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [稲垣潤一](https://open.spotify.com/artist/5n5xHbTFi55VicjEGtzpzM) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
+| 1 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
 | 2 | [Nightglow Dreamer](https://open.spotify.com/track/5sLetGDxict7HFmvZDJWQr) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/4KGHyHDeaPt8Ee9BOS9DAD) | 4:29 |
 | 3 | [イルミネーション](https://open.spotify.com/track/1w7SqC0l0RMQ9LtcjKSvas) | [magicHour](https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ) | [イルミネーション](https://open.spotify.com/album/4G1f4GE35GzIRGnuA0my0F) | 5:39 |
 | 4 | [貫禄とユーモア](https://open.spotify.com/track/2nPv1Rbe3eexyG7xua8snD) | [テンパーセントカーテン](https://open.spotify.com/artist/33HxVy56nMjIeuzf6NuDum) | [貫禄とユーモア](https://open.spotify.com/album/0CFtHpPh5O7ltd9PTC0Kkx) | 4:26 |

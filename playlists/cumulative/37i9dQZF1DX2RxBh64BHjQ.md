@@ -2,7 +2,7 @@
 
 ### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
-> The official voice of the next generation\. Cover: <a href="spotify:artist:6EPlBSH2RSiettczlz7ihV">Sleepy Hallow</a> and <a href="spotify:artist:1tG7s7S4sq2eFFW0QZyLbm">Sheff G</a>
+> The official voice of the next generation\. Cover: <a href="spotify:artist:6EPlBSH2RSiettczlz7ihV">BabyChiefDoIt</a>
 
 2,091 songs - 3 day 21 hr 16 min
 

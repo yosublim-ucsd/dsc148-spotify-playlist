@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
+    },
+    {
+      "album": {
         "name": "Heavy (feat. Kiiara)",
         "url": "https://open.spotify.com/album/3uj86EJtwt5beI3u7o2WoU"
       },
@@ -2224,10 +2242,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 181000,
       "name": "Hey Stupid, I Love You",
       "url": "https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc"
+    },
+    {
+      "album": {
+        "name": "Hold It Together (Deluxe)",
+        "url": "https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Hey Stupid, I Love You",
+      "url": "https://open.spotify.com/track/7pJA5B7t0k5wObMPxFth0v"
     },
     {
       "album": {
@@ -2459,6 +2495,28 @@
     },
     {
       "album": {
+        "name": "Hold It Together (Deluxe)",
+        "url": "https://open.spotify.com/album/7gZ6XGlLxvy4SkSa360fUZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/4bp5G6x1SXMQW4X9DbCCCp"
+    },
+    {
+      "album": {
         "name": "Dangerous Levels of Introspection",
         "url": "https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD"
       },
@@ -2474,7 +2532,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 209493,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"

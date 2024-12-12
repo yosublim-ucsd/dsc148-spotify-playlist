@@ -1,6 +1,6 @@
 {
   "description": "Mericia e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374055,
+  "num_followers": 374032,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -95,30 +95,6 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "Sorriso no Rosto",
-        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sorriso no Rosto",
-      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -143,6 +119,30 @@
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -331,6 +347,22 @@
       "duration_ms": 298871,
       "name": "FEBRE",
       "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
+        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        }
+      ],
+      "duration_ms": 281598,
+      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -363,38 +395,6 @@
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
-        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        }
-      ],
-      "duration_ms": 281598,
-      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -519,62 +519,6 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        },
-        {
-          "name": "MC GH do 7",
-          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
-        },
-        {
-          "name": "MC Nego Micha",
-          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 703157,
-      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
-      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
         "name": "Pagodeiro, Pt. 2",
         "url": "https://open.spotify.com/album/0lkozsIGRTBmRrylBpfOSj"
       },
@@ -627,6 +571,26 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 193188,
+      "name": "pausa da sua tristeza",
+      "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
         "name": "Vamo Marolar",
         "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
       },
@@ -655,26 +619,6 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 193188,
-      "name": "pausa da sua tristeza",
-      "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
         "name": "Rob\u00f4 - Spotify Singles",
         "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
       },
@@ -687,6 +631,62 @@
       "duration_ms": 229095,
       "name": "Rob\u00f4 - Spotify Singles",
       "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
+        "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+        "url": "https://open.spotify.com/album/0rZQI2wpjiNTxeVCSyZI0M"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        },
+        {
+          "name": "MC Nego Micha",
+          "url": "https://open.spotify.com/artist/6SsSYKLEsf8EfDbFAi5GET"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 703157,
+      "name": "Diz A\u00ed Qual \u00e9 o Plano?",
+      "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 351496,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -1063,18 +1063,26 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
       "artists": [
         {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         }
       ],
-      "duration_ms": 165703,
-      "name": "Resenha das Minas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
+      "duration_ms": 127500,
+      "name": "Rotina 2",
+      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -1103,6 +1111,22 @@
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "added_at": "2024-12-06 23:45:38",
+      "album": {
+        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        }
+      ],
+      "duration_ms": 165703,
+      "name": "Resenha das Minas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -1143,30 +1167,6 @@
       "duration_ms": 361411,
       "name": "Quebradas 2",
       "url": "https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO"
-    },
-    {
-      "added_at": "2024-12-06 23:45:38",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Rotina 2",
-      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
     },
     {
       "added_at": "2024-12-06 23:45:38",
@@ -1271,30 +1271,18 @@
     {
       "added_at": "2024-12-06 23:45:38",
       "album": {
-        "name": "S\u00f3 Vil\u00e3o, Aqui N\u00e3o Tem Her\u00f3i",
-        "url": "https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt"
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
       },
       "artists": [
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 324923,
-      "name": "HINO DOS D",
-      "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
     }
   ],
   "unique_name": "AMPLIFIKA",

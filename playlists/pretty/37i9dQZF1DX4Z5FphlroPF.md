@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z5FphlroPF.md) - [plain]
 
 > Listen to the soundtrack of the SBS Mon\-Tue drama CHEER UP and the songs recommended by the cast! \(SBS 월, 화 드라마 치얼업의 사운드 트랙과 배우진이 추천하는 노래를 들어보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,111 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,116 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Z5FphlroPF.md) - [plain]
 | 11 | [Good Luck to You](https://open.spotify.com/track/03JARaiVyO6xN2UNDi7NYZ) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:20 |
 | 12 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 |
 | 13 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 |
-| 14 | [Covet](https://open.spotify.com/track/24oO33bOjYhSGgpMDgodGo) | [LUAMEL](https://open.spotify.com/artist/3fwx0dOCIdwVmERavzKnvt) | [Covet](https://open.spotify.com/album/69cA7TzM56Q87ph6AZ9AL4) | 2:58 |
+| 14 | [Covet](https://open.spotify.com/track/24oO33bOjYhSGgpMDgodGo) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Covet](https://open.spotify.com/album/69cA7TzM56Q87ph6AZ9AL4) | 2:58 |
 | 15 | [RIDE \(feat\. THAMA\)](https://open.spotify.com/track/6jpFPa2m8PjHurC7508wYB) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [RIDE](https://open.spotify.com/album/3t4nLWaE60YINX7QLTIbAS) | 4:04 |
 | 16 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
 | 17 | [I Am Blue](https://open.spotify.com/track/3UPbbImoatLnoAGphBjYmv) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [I Am Blue](https://open.spotify.com/album/01fIbeVhEe4arnqVHzlpps) | 3:07 |

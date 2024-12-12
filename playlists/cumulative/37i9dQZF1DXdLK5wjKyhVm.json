@@ -271,6 +271,24 @@
     },
     {
       "album": {
+        "name": "as the mist clears",
+        "url": "https://open.spotify.com/album/3cP2btMkisJHb0FNHAVuBE"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174158,
+      "name": "as the mist clears",
+      "url": "https://open.spotify.com/track/0CiTXFmow6AG3bayvwy87s"
+    },
+    {
+      "album": {
         "name": "Uranus",
         "url": "https://open.spotify.com/album/05htkdTKd7Skemxf7T94Cf"
       },
@@ -946,6 +964,24 @@
       "duration_ms": 93200,
       "name": "Brooklyn Fridge",
       "url": "https://open.spotify.com/track/33SAwLjkk4KKkzc6rlR4Vb"
+    },
+    {
+      "album": {
+        "name": "BSQT",
+        "url": "https://open.spotify.com/album/69Ve7tEe01DUchwpRI1jU1"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115601,
+      "name": "BSQT",
+      "url": "https://open.spotify.com/track/4j6Rx04joLZDk8WNXs5Et0"
     },
     {
       "album": {
@@ -1982,6 +2018,24 @@
       "duration_ms": 129522,
       "name": "Downhill",
       "url": "https://open.spotify.com/track/4YC5W9CCrGwppDSFVOBlEz"
+    },
+    {
+      "album": {
+        "name": "Dr3amScape",
+        "url": "https://open.spotify.com/album/2luhVzKhFSD2CVwzi3vKcy"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Dr3amScape",
+      "url": "https://open.spotify.com/track/4Y40FO5FDPNcNjCocTPrRy"
     },
     {
       "album": {
@@ -3914,7 +3968,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 105981,
       "name": "kambina",
       "url": "https://open.spotify.com/track/1aw9yqJMXtjOxqzuos4lAW"
@@ -4392,7 +4446,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 166352,
       "name": "lilac hues",
       "url": "https://open.spotify.com/track/3BvhYWx13t0t1vVI1rGct9"
@@ -4766,6 +4820,24 @@
       "duration_ms": 147857,
       "name": "Lush",
       "url": "https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu"
+    },
+    {
+      "album": {
+        "name": "machine",
+        "url": "https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz"
+      },
+      "artists": [
+        {
+          "name": "aroramo",
+          "url": "https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "machine",
+      "url": "https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng"
     },
     {
       "album": {
@@ -5244,6 +5316,24 @@
       "duration_ms": 140571,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/3tOzoQvDINw6aPVr3cRXWk"
+    },
+    {
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/4DE6cGwdZC5zCBxazhoSV1"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/3MpUk28RloIap4S4HjongS"
     },
     {
       "album": {
@@ -6704,7 +6794,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 122000,
       "name": "Rolling Down the Road",
       "url": "https://open.spotify.com/track/6S1p0yGzPBOR6miNkXTnrt"

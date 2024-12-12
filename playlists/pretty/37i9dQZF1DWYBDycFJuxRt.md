@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 十明 \*👉 <a href="https://spice.eplus.jp/articles/333897">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 十明 \*👉 <a href="https://spice.eplus.jp/articles/334051">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,193 likes - 74 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,230 likes - 74 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 10 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 |
 | 11 | [Tenkasu](https://open.spotify.com/track/3d7zmdBDS5NsVZX3pGbDyz) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Tenkasu](https://open.spotify.com/album/2T2YtpB6xcjIrGFBJ4FSeL) | 2:11 |
 | 12 | [愛をさわれたら](https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [愛をさわれたら](https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA) | 3:45 |
-| 13 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [稲垣潤一](https://open.spotify.com/artist/5n5xHbTFi55VicjEGtzpzM) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
+| 13 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 |
 | 14 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 |
 | 15 | [Episode X](https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Episode X](https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39) | 3:22 |
 | 16 | [JOin us!!](https://open.spotify.com/track/4ji2ttFn6ADN01SB8vC4dR) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [JOin us!!](https://open.spotify.com/album/7nA03owKxVoB9Aywe8vJHh) | 3:27 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 37 | [大きな玉ねぎの下で](https://open.spotify.com/track/4stYPN0wX9KSOf3DKkXYGQ) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [大きな玉ねぎの下で](https://open.spotify.com/album/2RaFh9lrzs3Rz5g673yw0O) | 4:34 |
 | 38 | [Moonlight](https://open.spotify.com/track/3BisMbCsnd02eafPrHzQpt) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Moonlight](https://open.spotify.com/album/6QuLzXhhO4kB8ptAvlLu8B) | 3:56 |
 | 39 | [キメラ](https://open.spotify.com/track/0EoXfIYlcpvmHjG1faJYIA) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [キメラ](https://open.spotify.com/album/3UGtmQ8yDj8gXTKNV8A9KM) | 3:06 |
-| 40 | [ワゴン](https://open.spotify.com/track/5roUCXqvMpilr43JipuuFf) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ワゴン](https://open.spotify.com/album/6vqEmvuNYwh8EUuk6WYsrK) | 3:53 |
+| 40 | [wagon](https://open.spotify.com/track/5roUCXqvMpilr43JipuuFf) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [wagon](https://open.spotify.com/album/6vqEmvuNYwh8EUuk6WYsrK) | 3:53 |
 | 41 | [Metaphor](https://open.spotify.com/track/3mTxOnbwSgGx0hrhIigDBc) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [Feryquitous](https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30) | [Metaphor](https://open.spotify.com/album/7yQhaIIs7VV60pO79RGKJR) | 3:50 |
 | 42 | [Yoru no Buranko](https://open.spotify.com/track/2ewEwU9SSMvyQ64K8ZL0h2) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Yoru no Buranko](https://open.spotify.com/album/2NCHaKiwtdK4J6eR7p8sVl) | 3:15 |
 | 43 | [High & High](https://open.spotify.com/track/0i454WkGkyI6hunCwRJGpU) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [High & High](https://open.spotify.com/album/3BCia6H9fro5tj33vUcSba) | 3:17 |
 | 44 | [ALL I WANT](https://open.spotify.com/track/7sLo7H915ClIKTnq7FdBkY) | [平手友梨奈](https://open.spotify.com/artist/1sv5H7vUHgpozdrgkL1n4k) | [ALL I WANT](https://open.spotify.com/album/4DMwnH5hGsVVdsfM1A3WGj) | 3:16 |
 | 45 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
-| 46 | [CELLYPHONE](https://open.spotify.com/track/1jFqJHNf8DhFW7SWcjQqzR) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [PERSPECTIVE SHIFT](https://open.spotify.com/album/6WM4eb9sopE0BGNdrtLjZT) | 2:54 |
+| 46 | [CELLYPHONE](https://open.spotify.com/track/1jFqJHNf8DhFW7SWcjQqzR) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [PERSPECTIVE SHIFT](https://open.spotify.com/album/6WM4eb9sopE0BGNdrtLjZT) | 2:53 |
 | 47 | [SHU](https://open.spotify.com/track/6QBHJcLzW4ah8YMhZoMJTe) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [SHU](https://open.spotify.com/album/5odhciH5mEjq1bjPXsBrOz) | 5:09 |
 | 48 | [nothing to be afraid of \-怖れるものは何もない\-](https://open.spotify.com/track/11e95t4U7Vw5pMkjK2R9tC) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [nothing to be afraid of \-怖れるものは何もない\-](https://open.spotify.com/album/4jtR4NxrqxkrorYZMjNBGd) | 3:14 |
 | 49 | [LOST & FOUND](https://open.spotify.com/track/0ld6TBgYzoW6tCOUEEO0NI) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [あっちむいてほい](https://open.spotify.com/album/7BIuAkdzAZgbgWkjZGWQYI) | 2:32 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 66 | [But I am a good girl](https://open.spotify.com/track/2KqzigLslCzIrDcn85OCl0) | [Romantic Addict](https://open.spotify.com/artist/4S1VT5nnXlGx1gDq4jZ3pi) | [INSIDE OUT 1](https://open.spotify.com/album/3Lv2N2mTIisDMcZV5AZdtF) | 3:07 |
 | 67 | [Swimmer](https://open.spotify.com/track/3bHUUvy6klBkhHjJyxhcpv) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [Swimmer](https://open.spotify.com/album/4pEswAAXT3D0LCLGIRAFtg) | 3:08 |
 | 68 | [WILD](https://open.spotify.com/track/1UiehiP8oINZzEbyuafNuv) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [WILD](https://open.spotify.com/album/26eluELAmbngGNrvH1dkv3) | 3:37 |
-| 69 | [WOLF](https://open.spotify.com/track/2OsBCF7G1dhbqcQ82Rh8ur) | [バルーン × ヒトリエ](https://open.spotify.com/artist/47fGfzWKBJuyqvu4jK4RZk), [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [WOLF](https://open.spotify.com/album/6RxjHyKhOaxZn7funBcM3Q) | 2:57 |
+| 69 | [WOLF](https://open.spotify.com/track/2OsBCF7G1dhbqcQ82Rh8ur) | [バルーン × ヒトリエ](https://open.spotify.com/artist/1oNr54F6vkA3hrIro3sKYy), [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [WOLF](https://open.spotify.com/album/6RxjHyKhOaxZn7funBcM3Q) | 2:57 |
 | 70 | [Slow Motion Perception](https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Slow Motion Perception](https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk) | 3:36 |
 | 71 | [utopia](https://open.spotify.com/track/41mgAT3ebYp2Qo812TUZyI) | [YIKO](https://open.spotify.com/artist/5w7c9CMX6SYzHxbolojZeL) | [YIKO](https://open.spotify.com/album/5YVRbouVrtgLpx5n4k9MsH) | 4:02 |
 | 72 | [Emotional](https://open.spotify.com/track/4JM7jsWkatRB6gldrDwdfi) | [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [LINK](https://open.spotify.com/album/52rc3MKvBNZ4QeK2fkWCFA) | 3:02 |
 | 73 | [Tiny Scandal](https://open.spotify.com/track/6MAXEued8tWoNSX9Lc9vG9) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Tiny Scandal](https://open.spotify.com/album/3A1PFu2JMd45A5i7zeRyHx) | 5:13 |
 | 74 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 |
 
-Snapshot ID: `Z1j1cAAAAABpFIs/E8Shn7pna5nR2NPr`
+Snapshot ID: `Z1mM2wAAAAB0YRi3COUwYEvMAHXk6JFX`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 49 min
+149 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Paradise Found](https://open.spotify.com/track/5UvGZcO3KoT0x6OuXSBmjv) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Paradise Found](https://open.spotify.com/album/02txGqX40yCLUN6kab5Ok1) | 3:42 | 2024-02-27 |  |
 | [Paranoid](https://open.spotify.com/track/1TYHs2GR0pmimgXyy9HYXY) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:19 | 2024-02-27 |  |
 | [Part Of Me](https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:36 | 2024-02-27 |  |
+| [Play With Fire](https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:56 | 2024-12-11 |  |
 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 | 2024-02-27 |  |
 | [Queen](https://open.spotify.com/track/53b4d9jHQZq89EtQxwUURr) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Queen](https://open.spotify.com/album/5acYgqkqRhxgbeRzHqIIqv) | 2:40 | 2024-02-27 |  |
 | [Rendezvous](https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [Rendezvous](https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF) | 3:16 | 2024-07-05 |  |
@@ -145,7 +146,8 @@
 | [Turn Me Up](https://open.spotify.com/track/2d5SLxED4RIdjnAfbpTcYw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:44 | 2024-02-27 |  |
 | [Un Love Me](https://open.spotify.com/track/4OoMl6NlkSlaeomEAoJGkM) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:12 | 2024-02-27 |  |
 | [Under Control](https://open.spotify.com/track/6xWivl1glHgntvVucG0mqD) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 4:06 | 2024-02-27 |  |
-| [Up All Night](https://open.spotify.com/track/7IgXxU2OBCJhzNilFIAJw7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:10 | 2024-02-27 |  |
+| [Up All Night](https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:10 | 2024-12-11 |  |
+| [Up All Night](https://open.spotify.com/track/7IgXxU2OBCJhzNilFIAJw7) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:10 | 2024-02-27 | 2024-12-12 |
 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 | 2024-02-27 |  |
 | [Wasted Youth](https://open.spotify.com/track/6u2GjEYlRJ1INFD11twSFh) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 4:09 | 2024-02-27 |  |
 | [When I'm All Alone](https://open.spotify.com/track/4WssjrZrY6n5YGNsXIczv5) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Who's Gonna Break Your Heart Tonight?](https://open.spotify.com/album/1ThGPJu3XbYsLC7KnHdURT) | 2:44 | 2024-02-27 |  |

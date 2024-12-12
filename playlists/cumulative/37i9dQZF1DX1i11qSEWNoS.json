@@ -2175,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Head n' Shoulders, pt.II",
+        "url": "https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135746,
+      "name": "Head n' Shoulders, pt.II",
+      "url": "https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa"
+    },
+    {
+      "album": {
         "name": "Heart Sped Up (BFF)",
         "url": "https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz"
       },
@@ -5826,7 +5848,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 116500,
       "name": "ZOOM CALL",
       "url": "https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h"

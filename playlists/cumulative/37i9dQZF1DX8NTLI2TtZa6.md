@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-538 songs - 23 hr 2 min
+540 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 |  |
 | [In Spe](https://open.spotify.com/track/50edbBHcujScO2cMmtOSKs) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [In Spe](https://open.spotify.com/album/4MYPIPc2Ixr8cneLJ6IAMn) | 2:57 | 2023-02-07 | 2024-04-19 |
 | [In Spe](https://open.spotify.com/track/79mxmNCrdk8aYA0gyVvXnT) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [In Spe](https://open.spotify.com/album/7jXoNNfqaWvbDbkfHr9ac3) | 3:00 | 2022-07-19 |  |
+| [In the Stars](https://open.spotify.com/track/7riO7i4L4lBTjqrkuu4sTv) | [Jeremy Mayfield](https://open.spotify.com/artist/0yjBkHJA6pxZL5FYccrwwa) | [In the Stars](https://open.spotify.com/album/6jk8taCOXavu7PudkybqHO) | 2:36 | 2024-12-11 |  |
 | [Inkling](https://open.spotify.com/track/1xXaji1XE2QYv3D63wjytM) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/495539ifgpLBvBVbciu6Nk) | 3:02 | 2023-10-04 | 2024-04-19 |
 | [Inkling](https://open.spotify.com/track/5x2thfHti8A4ujmTjL9m7o) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/2o5fmUgEHO56WLOP1mj6nR) | 3:02 | 2022-10-14 |  |
 | [Inkling](https://open.spotify.com/track/76jAuGP2UdDIuLSDUv9IOT) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [We're All Okay](https://open.spotify.com/album/0UJBJ77qrk2p9vhyDWFXM0) | 3:02 | 2023-05-09 | 2023-10-08 |
@@ -538,6 +539,7 @@
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-07-29 |
 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 | 2023-03-06 |  |
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-09 |  |
+| [wiser](https://open.spotify.com/track/08Pl5hHpZcYdeh1LvME7Tk) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [wiser](https://open.spotify.com/album/7iQrGXKP4T0N1c6wRfHU3L) | 2:30 | 2024-12-11 |  |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2023-10-05 |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 | 2024-04-04 |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2021-12-07 | 2024-11-20 |

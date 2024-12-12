@@ -2,7 +2,7 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tonton Tengaishy
+> Du Congo, au monde\. 🌍 Photo: Tonton Tengaïshy
 
 496 songs - 1 day 4 hr 53 min
 

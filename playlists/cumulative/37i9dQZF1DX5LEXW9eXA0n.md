@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,364 songs - 3 day 16 hr 16 min
+1,365 songs - 3 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1141,7 +1141,7 @@
 | [Timing](https://open.spotify.com/track/6XqsQdaD86eKPnk6ZrAg8n) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Timing \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 2\)](https://open.spotify.com/album/51AO2oaMFDOuZ4jRlQXGzn) | 2:53 | 2023-11-15 | 2024-05-01 |
 | [To Heaven](https://open.spotify.com/track/0vM5yk8jnpixgoBMwe20We) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [To Heaven](https://open.spotify.com/album/3kxrviY2jiSE5phAfudAvJ) | 3:47 | 2024-10-16 |  |
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |
-| [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 | 2024-09-17 |  |
+| [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 | 2024-09-17 | 2024-12-12 |
 | [To My Friends](https://open.spotify.com/track/0AXqXz5kX5HzWsydXnbFsx) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [To My Friends](https://open.spotify.com/album/0Bc4VvFhNY6lxWJyeeCFCE) | 3:46 | 2022-02-23 | 2022-04-20 |
 | [To the ordinary you](https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1jrZAwFNCuTIOS9bE3eIw9) | 3:55 | 2022-03-24 | 2022-04-20 |
 | [To You My Light \(2022\)](https://open.spotify.com/track/6RbocDE51e5OkEFIagJmQs) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [To You My Light](https://open.spotify.com/album/5YKiY8AKXdRP5vgTqEWccv) | 4:18 | 2022-03-09 | 2022-06-23 |
@@ -1156,6 +1156,7 @@
 | [Trace](https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Afterglow](https://open.spotify.com/album/739E4HVYrFVObgK0IFJYkA) | 3:51 | 2022-12-12 | 2023-01-21 |
 | [Traces of You](https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [The Law Cafe \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz) | 3:49 | 2022-10-07 | 2023-01-11 |
 | [Tree](https://open.spotify.com/track/6GvZ3jcbYhdsKeZGLnwE76) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Tree](https://open.spotify.com/album/2dAPUL5WhLBjg1HtdW3yoE) | 3:38 | 2023-10-20 | 2023-12-30 |
+| [True Love](https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [True Love \(Secret Relationships X LEECHANGSUB\)](https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ) | 3:49 | 2024-12-11 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-01-03 | 2022-02-28 |
 | [TRUST YOUR PACE](https://open.spotify.com/track/1aXBRHkH3zQiTKXAwpuikj) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Him\-na song Label Project 01 \- TRUST YOUR PACE](https://open.spotify.com/album/1vuxWdAD9Vpych9Kh1e4fS) | 1:41 | 2022-03-24 | 2022-04-21 |
 | [Tunnel](https://open.spotify.com/track/2rgjOD5RmUh3V6rmx3eLkm) | [Im Ga Young](https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue) | [Tunnel](https://open.spotify.com/album/5uUDQGaLeElTjvLNlnza8H) | 3:25 | 2024-03-08 | 2024-08-01 |

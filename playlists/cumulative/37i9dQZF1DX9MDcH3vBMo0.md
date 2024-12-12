@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-787 songs - 1 day 10 hr 15 min
+788 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-21 | 2023-08-08 |
 | [Falling Free](https://open.spotify.com/track/4MQnnlw2lF9HJNqW4HghUj) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Falling Free](https://open.spotify.com/album/1A9ErVeCwy2x7bkSct9y4h) | 2:47 | 2024-05-14 |  |
 | [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-04-12 | 2024-10-16 |
-| [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-14 |  |
+| [Far Away Lands](https://open.spotify.com/track/7qMseyFxCjFXL4F1zU3RBA) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Far Away Lands](https://open.spotify.com/album/4sTwqQ9YDLigNpLqKFXiaM) | 3:14 | 2023-08-14 | 2024-12-12 |
 | [Feathers](https://open.spotify.com/track/1CWes1ypvDpEAfpDpB5uWy) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Feathers](https://open.spotify.com/album/7jM0M6ag5Kcg2nK4sPWAl9) | 2:38 | 2023-11-13 |  |
 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 | 2022-04-21 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-21 |  |
@@ -545,6 +545,7 @@
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-04-21 | 2023-08-15 |
 | [Reverence](https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8) | [Fouad Elalamy](https://open.spotify.com/artist/6Or9xpEuw1FBRFX6BrVmqQ) | [Reverence](https://open.spotify.com/album/2TjufIYzYzKd17aScCxQMc) | 1:59 | 2022-04-21 | 2022-07-21 |
 | [Reverie](https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Reverie](https://open.spotify.com/album/6PZ32yJJXZk1aPBB6367lf) | 2:16 | 2023-08-14 |  |
+| [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-04-21 | 2022-10-13 |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-29 |  |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-04-21 | 2024-02-14 |

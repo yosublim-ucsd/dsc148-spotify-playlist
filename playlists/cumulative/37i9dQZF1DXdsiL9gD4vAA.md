@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-180 songs - 16 hr 10 min
+181 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Main Khayal Hoon](https://open.spotify.com/track/6UIzo8T1S2EGHyPSoKXMWa) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD) | [Main Khayal Hoon](https://open.spotify.com/album/2B5fP4yYesVBh1OeHWGld2) | 5:25 | 2024-08-29 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 |  |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 | 2024-04-19 |
+| [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 | 2024-12-12 |  |
 | [Mere Humraaz](https://open.spotify.com/track/5aD83W8ruGtURZvgpH4VKP) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Mere Humraaz](https://open.spotify.com/album/4rW8e3N8i7FTSVgQrBeFtF) | 6:27 | 2024-03-05 |  |
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 | 2024-02-29 |
 | [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 | 2023-10-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,664 likes - 45 songs - 2 hr 21 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,666 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,20 +38,21 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 28 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
 | 29 | [The Base \- Radio Edit](https://open.spotify.com/track/5JBUwkrEma37Wo9BbDV0pY) | [Rello](https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48) | [The Base \(Radio Edit\)](https://open.spotify.com/album/1nzLrPKWYNJygts9DbngwR) | 3:12 |
 | 30 | [Risky Business](https://open.spotify.com/track/7AWDGEEopoIK1vTBHrVxDg) | [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Risky Business](https://open.spotify.com/album/2EIdKqkPzQk73SQaoJW6HI) | 2:40 |
-| 31 | [Everyday Work](https://open.spotify.com/track/73k9WJaxjsRSJVRA5qGDmi) | [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Everyday Work](https://open.spotify.com/album/0nt9ODqTMRi7BbibjUFtSS) | 2:31 |
-| 32 | [More Acid](https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [More Acid](https://open.spotify.com/album/48691K1R4tQkTXvTXiVQ8H) | 3:10 |
-| 33 | [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 |
-| 34 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
-| 35 | [Most Wanted](https://open.spotify.com/track/3nhuPms9GiJjt9XXgA3wx0) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Most Wanted](https://open.spotify.com/album/3j7mtMgbnLhSpQjG2Hy1Te) | 3:23 |
-| 36 | [Go Back \(Jack\)](https://open.spotify.com/track/6FO3d3aI3paWQ0QX9BLqON) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Go Back \(Jack\)](https://open.spotify.com/album/5i0vRDnfa7uxK7mAhXLQek) | 3:26 |
-| 37 | [Lost My Mind](https://open.spotify.com/track/56oSAE73OjWcUeXUafx0RV) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Lost My Mind](https://open.spotify.com/album/3ylxiWdtlLfACBWcECw5sb) | 3:03 |
-| 38 | [Right Back](https://open.spotify.com/track/2Tkxc7Zgs6IPBspdk3hzwS) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Right Back](https://open.spotify.com/album/57l4FXeuZHyAH1mTWK1fb6) | 2:51 |
-| 39 | [Hola Venga](https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Hola Venga](https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB) | 3:55 |
-| 40 | [Ruby Murray](https://open.spotify.com/track/2HolLyrn6K2YqO4RsSnXN0) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Feel The Bass EP](https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ) | 6:04 |
-| 41 | [Big Wreckage](https://open.spotify.com/track/2PnsfwKSXB0p6VoxbmbdGt) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [1 Thing EP](https://open.spotify.com/album/1tyZKrFehE3amygs5IdRdx) | 6:10 |
-| 42 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 |
-| 43 | [Jump N Twist](https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Jump N Twist](https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI) | 2:58 |
-| 44 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
-| 45 | [Play Dice](https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Play Dice EP](https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4) | 2:55 |
+| 31 | [Playing Games](https://open.spotify.com/track/67253yLADMwQMXyzUV4aOj) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Third Place](https://open.spotify.com/album/393Rpf1n6DxTvlmNF3h2b9) | 3:33 |
+| 32 | [Everyday Work](https://open.spotify.com/track/73k9WJaxjsRSJVRA5qGDmi) | [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [Everyday Work](https://open.spotify.com/album/0nt9ODqTMRi7BbibjUFtSS) | 2:31 |
+| 33 | [More Acid](https://open.spotify.com/track/76mLFEljVN42gbLT8Q7bBC) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [More Acid](https://open.spotify.com/album/48691K1R4tQkTXvTXiVQ8H) | 3:10 |
+| 34 | [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 |
+| 35 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 |
+| 36 | [Most Wanted](https://open.spotify.com/track/3nhuPms9GiJjt9XXgA3wx0) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Most Wanted](https://open.spotify.com/album/3j7mtMgbnLhSpQjG2Hy1Te) | 3:23 |
+| 37 | [Go Back \(Jack\)](https://open.spotify.com/track/6FO3d3aI3paWQ0QX9BLqON) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Go Back \(Jack\)](https://open.spotify.com/album/5i0vRDnfa7uxK7mAhXLQek) | 3:26 |
+| 38 | [Lost My Mind](https://open.spotify.com/track/56oSAE73OjWcUeXUafx0RV) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Lost My Mind](https://open.spotify.com/album/3ylxiWdtlLfACBWcECw5sb) | 3:03 |
+| 39 | [Right Back](https://open.spotify.com/track/2Tkxc7Zgs6IPBspdk3hzwS) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [Right Back](https://open.spotify.com/album/57l4FXeuZHyAH1mTWK1fb6) | 2:51 |
+| 40 | [Hola Venga](https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Hola Venga](https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB) | 3:55 |
+| 41 | [Ruby Murray](https://open.spotify.com/track/2HolLyrn6K2YqO4RsSnXN0) | [Ozzie Guven](https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy) | [Feel The Bass EP](https://open.spotify.com/album/3Ch9ksgJ5kbuqeSeZx21XZ) | 6:04 |
+| 42 | [Big Wreckage](https://open.spotify.com/track/2PnsfwKSXB0p6VoxbmbdGt) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [1 Thing EP](https://open.spotify.com/album/1tyZKrFehE3amygs5IdRdx) | 6:10 |
+| 43 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 |
+| 44 | [Jump N Twist](https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Jump N Twist](https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI) | 2:58 |
+| 45 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
+| 46 | [Play Dice](https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Play Dice EP](https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4) | 2:55 |
 
-Snapshot ID: `AAAkLPb/5rYYcw7fJZjUMrbVli4l0l4O`
+Snapshot ID: `AAAkL1GN/WvTet5sTKyFk1n+HI8nrcR9`

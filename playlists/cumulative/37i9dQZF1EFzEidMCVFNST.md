@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-439 songs - 20 hr 52 min
+441 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Era Pra Ser Nós Dois](https://open.spotify.com/track/1B9uYNpKC3qnVOwvD2qE7y) | [Wawa](https://open.spotify.com/artist/6jrT1IVZHZJ5NP2pPvsdyQ) | [Era Pra Ser Nós Dois](https://open.spotify.com/album/1yNysUjMngXe1p6HP42ceX) | 2:22 | 2024-07-19 |  |
 | [Era Pra Ser Nós Dois](https://open.spotify.com/track/55AjbFHkDmytEby9okhWhQ) | [Wawa Pinho](https://open.spotify.com/artist/1Zl8VmHHU4wOMQpZ8POXJ2) | [Era Pra Ser Nós Dois](https://open.spotify.com/album/1wkjW1PqNRupqiZrFxEGgb) | 2:22 | 2024-01-29 | 2024-07-20 |
 | [Errada ela não tá](https://open.spotify.com/track/5aSFo3IWPdDvVwbdYgXQcv) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Sol e Mar, Vol\. 1](https://open.spotify.com/album/0xDwMkd9eQMSEI8eX6DMlp) | 2:23 | 2024-01-29 |  |
-| [Erro Antigo \- Ao Vivo](https://open.spotify.com/track/7qpXCkcr3Zj4LDvdiWryns) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Erro Antigo / Se Duvidar](https://open.spotify.com/album/27oP6MgnXr2e2sP2Mceqzq) | 2:51 | 2024-01-29 |  |
+| [Erro Antigo \- Ao Vivo](https://open.spotify.com/track/0MvzBiWJpnEYxxUPMdz4Aq) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo \- Só Hits](https://open.spotify.com/album/4MGro58TfjKC92RGYfLRTY) | 2:51 | 2024-12-11 |  |
+| [Erro Antigo \- Ao Vivo](https://open.spotify.com/track/7qpXCkcr3Zj4LDvdiWryns) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Erro Antigo / Se Duvidar](https://open.spotify.com/album/27oP6MgnXr2e2sP2Mceqzq) | 2:51 | 2024-01-29 | 2024-12-12 |
 | [Erro Consciente](https://open.spotify.com/track/69t8CfIP2pLEQeLNTvhABF) | [Fabrício Rodrigues](https://open.spotify.com/artist/0ionm2jgpodXYcKXeJaSfI) | [Erro Consciente](https://open.spotify.com/album/1ttOux7y2bIHDuAXeLoWFS) | 2:32 | 2024-01-29 |  |
 | [Erro Preferido \(Imagina A Cena\) \- Ao Vivo](https://open.spotify.com/track/1axVVxvYmCkYAmS6TC6C7A) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:26 | 2024-01-29 |  |
 | [Escolha Errada](https://open.spotify.com/track/3RNjRGqxSHdFNniifwPlB8) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Proibido é Mais Gostoso](https://open.spotify.com/album/6BKKDy0zFPolHBfWWoFr6a) | 2:45 | 2024-01-29 |  |
@@ -329,6 +330,7 @@
 | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5nF1vGEu8Aag0Z0KIYh2Xt) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/6mWqavDFQH94eYMXlc5h5D) | 3:08 | 2024-01-30 | 2024-02-01 |
 | [Resenha Muito Louca \- Ao Vivo](https://open.spotify.com/track/2rKtRI3PNvQIkfWa0pULy9) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha 2 \(ao Vivo\)](https://open.spotify.com/album/4X5noS3F54xiitCfQ3hgHt) | 3:29 | 2024-01-29 |  |
 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1lxQrvlu0nHXdEaYVEdLoL) | [Thaeme & Thiago](https://open.spotify.com/artist/7ABjmCErFBTzoGMVoQc2Sh) | [Química \(Ao Vivo\)](https://open.spotify.com/album/7w8qd0nWH8tixJScorxcHq) | 2:43 | 2024-01-29 |  |
+| [Respeita Nosso Fim](https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ) | [Ray do Arrocha](https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV) | [2019](https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J) | 2:49 | 2024-12-11 |  |
 | [Respeita o Nosso Fim \- Ao Vivo](https://open.spotify.com/track/3FeqOJbyHMbXBzcOOtp8tM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 3:07 | 2024-01-29 |  |
 | [Retrovisor \- Ao Vivo](https://open.spotify.com/track/1UpvmTFT9ij5yHxpMkv4yz) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose Ao Vivo \- Ao Vivo](https://open.spotify.com/album/52rIL56BICJZfbDlDZBCci) | 3:15 | 2024-01-29 | 2024-08-19 |
 | [Retrovisor \- Ao Vivo](https://open.spotify.com/track/5eHoonIeLZdOGuRUuvnLkE) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/15xpWd7MpVbVtDsywlPgZC) | 3:15 | 2024-08-18 |  |

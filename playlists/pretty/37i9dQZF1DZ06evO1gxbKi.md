@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,002 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,012 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1gxbKi.md) - [plain]
 | 49 | [So High, So Low](https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:21 |
 | 50 | [Let It Shine](https://open.spotify.com/track/3fXJQ6nntDXr2lUw7EfM4Z) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Truth \(Expanded Edition\)](https://open.spotify.com/album/7E7NjgtIcrmDqmp0FgnkSl) | 1:57 |
 
-Snapshot ID: `Z1YzAAAAAADbjyNon+t1bxYGn1vrTSD1`
+Snapshot ID: `Z1eEgAAAAAAZTJq75AU2IULBDer+lBsg`

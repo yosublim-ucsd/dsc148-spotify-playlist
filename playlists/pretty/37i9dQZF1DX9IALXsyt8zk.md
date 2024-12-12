@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > 2024년 RADAR Korea를 빛낸 트랙들을 만나보세요! \(Cover: RIIZE\) \(Listen the highlight tracks in RADAR Korea playlist this year!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,446 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,449 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 37 | [Shower Song](https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs) | [Dabin](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [Giggles](https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP) | 3:19 |
 | 38 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 39 | [Reaching for you](https://open.spotify.com/track/373oSjQRxIUe2v2KSufHzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Love Next Door, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2hckHYJqSXkSs5M6rVUYNE) | 3:25 |
-| 40 | [FUEGO](https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [FUEGO](https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta) | 3:12 |
+| 40 | [FUEGO](https://open.spotify.com/track/2iCy2qfDdWN8duitTHeHSm) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [FUEGO](https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta) | 3:12 |
 | 41 | [Wish](https://open.spotify.com/track/32rfwDhSWTWp5xAIa36B72) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Wish](https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2) | 3:00 |
 | 42 | [Birth](https://open.spotify.com/track/4ZUA6yMs1NQDpIxvk6f3qY) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 2:42 |
 | 43 | [Dangerous](https://open.spotify.com/track/0OaHZgVm77zLQNR3kwFf6n) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:23 |

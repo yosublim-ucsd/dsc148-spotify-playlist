@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -380,7 +402,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -586,6 +608,28 @@
     {
       "album": {
         "name": "Better Thangs",
+        "url": "https://open.spotify.com/album/5p0qpCnLfkjg4XbiL8nLSm"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214352,
+      "name": "Better Thangs",
+      "url": "https://open.spotify.com/track/34uOYKTIOAfxZh1hibRx1c"
+    },
+    {
+      "album": {
+        "name": "Better Thangs",
         "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
       },
       "artists": [
@@ -600,7 +644,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 214352,
       "name": "Better Thangs (with Summer Walker)",
       "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
@@ -918,6 +962,28 @@
       "duration_ms": 248363,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/1HVpe3XPrCNpk2rVJT602s"
+    },
+    {
+      "album": {
+        "name": "Boots Don't (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148274,
+      "name": "Boots Don't (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr"
     },
     {
       "album": {
@@ -2574,10 +2640,32 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 206335,
       "name": "JUMP (feat. Coast Contra)",
       "url": "https://open.spotify.com/track/0Eyr5YGPwE4CzmNGXhxc87"
+    },
+    {
+      "album": {
+        "name": "JUMP (feat. Coast Contra)",
+        "url": "https://open.spotify.com/album/0hdrRndfUAbhclktwo6wOA"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206335,
+      "name": "JUMP (feat. Coast Contra)",
+      "url": "https://open.spotify.com/track/0jhHcbmT968hzexqI7RQnu"
     },
     {
       "album": {
@@ -3864,6 +3952,24 @@
       "duration_ms": 276693,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/5zgyW1wthiNQfrfLeEoxko"
+    },
+    {
+      "album": {
+        "name": "Dark Love EP",
+        "url": "https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
     },
     {
       "album": {

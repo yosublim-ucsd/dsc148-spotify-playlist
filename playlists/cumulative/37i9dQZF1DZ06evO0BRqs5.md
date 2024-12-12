@@ -4,7 +4,7 @@
 
 > This is 藍井エイル\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 34 min
+90 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 | 2022-06-09 |  |
 | [ONENESS](https://open.spotify.com/track/3onTTLru4g0vGoOD8H8Aai) | [アイドルマスター\(中村繪里子・山崎はるか・大橋彩香\)](https://open.spotify.com/artist/5PWrN23XkUq3uwhnVHBAFh), [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3), [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB), [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL), [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN), [Wake Up,Girls!](https://open.spotify.com/artist/29tW0ETcoveUVtlTIr1tiI), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU), [OLDCODEX](https://open.spotify.com/artist/7CdQSdjEWtSQ5DQEeaikUq), [Eri Kitamura](https://open.spotify.com/artist/3IYKCbAUuXkZdkiAeYEKwC), [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E), [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6), [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU), [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae), [鈴木このみ](https://open.spotify.com/artist/2zL2DcyFc5UL5WI9zaWZqR), [STAR☆ANIS](https://open.spotify.com/artist/5AVLn44oMughW4oWx8mvg4), [Takayoshi Tanimoto](https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat), [田村ゆかり](https://open.spotify.com/artist/7iSJ9H9hMz0BzaL3dOv3DP), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Animelo Summer Live \(2014 \-ONENESS\-ﾃｰﾏｿﾝｸﾞ\)](https://open.spotify.com/album/6gUAibRBj3baFQ3jzjUenw) | 7:07 | 2024-10-30 | 2024-11-05 |
 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-06-09 |  |
-| [POLYHEDRA](https://open.spotify.com/track/1qaLcNwnHDJEGKIsA1ZsLP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [POLYHEDRA](https://open.spotify.com/album/3SvIo3Fu9zkp2Lzxce0G2E) | 3:30 | 2024-12-03 |  |
+| [POLYHEDRA](https://open.spotify.com/track/1qaLcNwnHDJEGKIsA1ZsLP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [POLYHEDRA](https://open.spotify.com/album/3SvIo3Fu9zkp2Lzxce0G2E) | 3:30 | 2024-12-03 | 2024-12-12 |
+| [POLYHEDRA](https://open.spotify.com/track/650kRgThSnER37hsNgsOZT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [POLYHEDRA](https://open.spotify.com/album/4kUBV823ueqF5wRZ5wg4eZ) | 3:30 | 2024-12-12 |  |
 | [Rainy Day](https://open.spotify.com/track/14lEsLLwniuLalb1G8Brpu) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Best \- A](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:34 | 2022-06-11 | 2022-07-20 |
 | [Raspberry Moon](https://open.spotify.com/track/1UksXs7fzQh4CcpaknzGXH) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ツナガルオモイ](https://open.spotify.com/album/5hnBLFUkkZQhquwedJ2tFZ) | 3:37 | 2022-06-09 | 2022-11-24 |
 | [Resonance](https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:27 | 2022-08-31 | 2024-03-26 |

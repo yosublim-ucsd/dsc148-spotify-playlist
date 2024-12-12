@@ -216,10 +216,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 115680,
       "name": "A Wonderful Guy",
       "url": "https://open.spotify.com/track/4TeQy2dn3P7S2rZEya25TI"
+    },
+    {
+      "album": {
+        "name": "Tex Beneke And His Music In The Miller Mood",
+        "url": "https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH"
+      },
+      "artists": [
+        {
+          "name": "Tex Beneke",
+          "url": "https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115696,
+      "name": "A Wonderful Guy",
+      "url": "https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p"
     },
     {
       "album": {
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 224226,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn"
@@ -5334,10 +5352,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 195440,
       "name": "Ten Cents a Dance",
       "url": "https://open.spotify.com/track/155nF2xARajWKFzkC9CFZe"
+    },
+    {
+      "album": {
+        "name": "You're the Cream in My Coffee (Original Recordings 1928 -1931)",
+        "url": "https://open.spotify.com/album/2zFmeMO8LogbcrxoemRx2L"
+      },
+      "artists": [
+        {
+          "name": "Ruth Etting",
+          "url": "https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Ten Cents a Dance",
+      "url": "https://open.spotify.com/track/1I06bhpXDt43BoVkRrwD8g"
     },
     {
       "album": {
@@ -6589,6 +6625,24 @@
     },
     {
       "album": {
+        "name": "Pal Joey",
+        "url": "https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU"
+      },
+      "artists": [
+        {
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305826,
+      "name": "What Is A Man",
+      "url": "https://open.spotify.com/track/51PdHQxpI1WMVctMkNM3wu"
+    },
+    {
+      "album": {
         "name": "Presenting Kenny Drew",
         "url": "https://open.spotify.com/album/5guNS5BbQS4HKuChj9vLDB"
       },
@@ -6600,7 +6654,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 308773,
       "name": "What Is a Man",
       "url": "https://open.spotify.com/track/5mpodYF5YDVbITmyB9DwiA"

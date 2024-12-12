@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,780 songs - 3 day 13 hr 27 min
+1,781 songs - 3 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 | 2023-12-08 | 2024-02-16 |
 | [Cherry Pie](https://open.spotify.com/track/3vFL0o1MS6WW0KWGusOIwr) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [Cherry Pie](https://open.spotify.com/album/03AS1bEWhA46PWdpT3EFxt) | 2:36 | 2022-02-11 | 2022-03-01 |
 | [Chess & Checkers](https://open.spotify.com/track/7I1L8djBxdsQGtybPXSeMZ) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Chess & Checkers](https://open.spotify.com/album/7tf1B0szpLaftMECpvPYWh) | 2:29 | 2021-08-04 | 2022-04-15 |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-11 |  |
 | [Chip Away](https://open.spotify.com/track/41FG0ltB7fBq2gS4eoFeKC) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Chip Away](https://open.spotify.com/album/12dH9kAi6vDxeCrMSHiqgW) | 2:10 | 2024-06-28 |  |
 | [CHOICE COWBOY](https://open.spotify.com/track/7BjbkbWJrPfRp0Z4NUvYhp) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 2:53 | 2022-04-09 | 2022-07-19 |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-06-17 | 2022-12-01 |

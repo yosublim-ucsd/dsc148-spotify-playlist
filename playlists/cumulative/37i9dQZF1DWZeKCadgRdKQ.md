@@ -2,7 +2,7 @@
 
 ### [Deep Focus](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
 
-> Keep calm and focus with ambient and post\-rock music.
+> Keep calm and focus with ambient electric guitar.
 
 773 songs - 1 day 16 hr 12 min
 
@@ -538,7 +538,7 @@
 | [Revitalize](https://open.spotify.com/track/1sPC2IR2UwzYUrItFRE1H3) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Unification](https://open.spotify.com/album/2amvCJnF3F5sK6Bzooovgx) | 3:18 | 2020-08-07 | 2020-10-27 |
 | [Ripples](https://open.spotify.com/track/59BSctyh5gdfzKzPhFxFwb) | [Gajaka](https://open.spotify.com/artist/1pTns3zLC3U3F8LjY4y5rO) | [Ripples](https://open.spotify.com/album/3hTOrd4qbOKpGRSNYHxRoX) | 2:14 | 2024-06-11 |  |
 | [River Deep](https://open.spotify.com/track/3KBoMRQ6EbCiTzOCzy4pvF) | [2am Fieldscape](https://open.spotify.com/artist/39IAu6WNe9KVJkgaA82Tjq) | [River Deep](https://open.spotify.com/album/7HGtWt7FICdlGLFVQbRAlv) | 3:27 | 2022-05-19 | 2024-05-12 |
-| [River Flowing](https://open.spotify.com/track/7alIC3oj16G5K1JzjjoUpQ) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [River Flowing](https://open.spotify.com/album/7kxXzAyAlFed4vIfYwcyBB) | 2:27 | 2024-02-13 |  |
+| [River Flowing](https://open.spotify.com/track/7alIC3oj16G5K1JzjjoUpQ) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [River Flowing](https://open.spotify.com/album/7kxXzAyAlFed4vIfYwcyBB) | 2:27 | 2024-02-13 | 2024-12-12 |
 | [river song](https://open.spotify.com/track/6f6qUsqIfRIEqHJuL6EFAn) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [river song](https://open.spotify.com/album/63MBllFcU7Ay3MEwyeEwJp) | 2:42 | 2023-03-10 | 2024-11-22 |
 | [Roads](https://open.spotify.com/track/4JDEHQy5Vg3SfXygpzs4yt) | [Apollo Vision](https://open.spotify.com/artist/0S54IVxCmJNc6FN8wLIC5v) | [Roads](https://open.spotify.com/album/5qm60DzF6QAcllxIVGHVsT) | 2:23 | 2024-11-06 |  |
 | [Rouge](https://open.spotify.com/track/2GDkzLMtW2eAtuB8a2DK96) | [Eden](https://open.spotify.com/artist/2ZgkqMJtaEzlPnzjbCDCmD) | [Rouge](https://open.spotify.com/album/0T9TKsZ56Sk7XvBknqltc3) | 2:14 | 2024-08-02 |  |
@@ -767,7 +767,7 @@
 | [Wish I Knew](https://open.spotify.com/track/753JsxMTj2sSrV3VBUzlmh) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Wish I Knew](https://open.spotify.com/album/4xAYeQmB9cufnyD226V6qs) | 2:17 | 2023-05-19 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2020-09-17 | 2024-03-27 |
 | [Woodland Heart](https://open.spotify.com/track/1z7GhYG0KqAmebdLfuoYho) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Woodland Heart](https://open.spotify.com/album/2OeV90Mmc1G332pU5qpatk) | 2:40 | 2019-12-11 | 2022-11-18 |
-| [World Above](https://open.spotify.com/track/6lCPEra6l4YkPkXVZeFqeT) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [World Above](https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o) | 2:35 | 2023-01-20 |  |
+| [World Above](https://open.spotify.com/track/6lCPEra6l4YkPkXVZeFqeT) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [World Above](https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o) | 2:35 | 2023-01-20 | 2024-12-12 |
 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 | 2019-05-26\* | 2019-06-27 |
 | [Yatta](https://open.spotify.com/track/6Ek1kkD60Zhl6dzkcy2Xaj) | [Fukase Junichiro](https://open.spotify.com/artist/4TFWlUN4dl73XPjf2Rmz4z) | [Yatta](https://open.spotify.com/album/5ZUVlyd0AFftfWAx8VjeLZ) | 2:24 | 2019-07-31 | 2022-10-15 |
 | [You Gotta Keep Moving](https://open.spotify.com/track/59vQSmnGRmNg2Bo3oDWZrY) | [Airwaves](https://open.spotify.com/artist/46y7tUi3QWFMElXSyMyYvf) | [Event Horizon](https://open.spotify.com/album/0RulKn45TE6lNROR1jvxDm) | 4:09 | 2019-06-19\* | 2020-08-07 |

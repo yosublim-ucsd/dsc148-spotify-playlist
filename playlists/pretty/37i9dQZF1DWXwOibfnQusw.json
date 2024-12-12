@@ -6,10 +6,26 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqfXeQAAAABJTa+0WtKd8BkFBve/L6n5",
+  "snapshot_id": "Z1lNGQAAAADlWyjm+pbdbr9ZX9CH3QKQ",
   "tracks": [
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
+      "album": {
+        "name": "Siempre Que Me Muevo",
+        "url": "https://open.spotify.com/album/3OpO3LBKii51mIGwH8uxBz"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Siempre Que Me Muevo",
+      "url": "https://open.spotify.com/track/4ffiY4HwsRdFFmomDpthhS"
+    },
+    {
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Canciones Cristianas para Ni\u00f1os",
         "url": "https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Musica Cristiana Para Ni\u00f1os Vol. 2",
         "url": "https://open.spotify.com/album/5DYOxnikvoQMkOW0jWqLME"
@@ -41,7 +57,27 @@
       "url": "https://open.spotify.com/track/6LY9UlVswxc4R3RtzSxouF"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
+      "album": {
+        "name": "Pegao (Kids)",
+        "url": "https://open.spotify.com/album/2xpbPqzlMUcNKQ4KTiCsuI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fabi\u00e1n",
+          "url": "https://open.spotify.com/artist/4rArd0dHJvlTE0l9Vk9fV2"
+        },
+        {
+          "name": "Emma Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4cSINVqJU0O5L7UgmS5jyi"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pegao - Kids",
+      "url": "https://open.spotify.com/track/6FpZ4f3xXCbArrZHkvv0av"
+    },
+    {
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Con Amor A Los Ni\u00f1os 2",
         "url": "https://open.spotify.com/album/1bGAL0orPv8S5ZM11wbRV3"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/39XKrFt3TEHoh4CBm52ZcG"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Canciones Cristianas para Ni\u00f1os",
         "url": "https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/7mhTn1WILa52WAk329YBQC"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "\u00a1Viva la Fe, Viva la Esperanza!",
         "url": "https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "\u00a1Viva la Fe, Viva la Esperanza!",
         "url": "https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "La Colecci\u00f3n",
         "url": "https://open.spotify.com/album/7IGAlGGKOpouXhOr9QY4oZ"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/6i1GoQfwJdUvfibndDr5wE"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Canta Y Rie",
         "url": "https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Grande Es el Se\u00f1or",
         "url": "https://open.spotify.com/album/127zvUZME3NL01sSaC9wIq"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/46EFrvB241699KfRrG7GEe"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "La Creaci\u00f3n",
         "url": "https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC"
@@ -169,7 +205,23 @@
       "url": "https://open.spotify.com/track/40nl5kCXsFg4XqvJXHoB5N"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3BPOlDBdVoKcKSIkyjzk1V"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/1RQnDgL3pRJzMUhog19Rol"
+    },
+    {
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "10 Veces M\u00e1s",
         "url": "https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6"
@@ -185,7 +237,7 @@
       "url": "https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Peque\u00f1os Heroes",
         "url": "https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl"
@@ -201,27 +253,7 @@
       "url": "https://open.spotify.com/track/1bEan8FYcB8lRqygZP3DDC"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
-      "album": {
-        "name": "Peque\u00f1a Fiesta de Alabanza",
-        "url": "https://open.spotify.com/album/2ZwuvMSmaDsKm3MON6B8o1"
-      },
-      "artists": [
-        {
-          "name": "Yancy",
-          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
-        },
-        {
-          "name": "Little Praise Party",
-          "url": "https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Me Gusta (I Like To)",
-      "url": "https://open.spotify.com/track/1Q08ubt8wyjJCduE4aWgmK"
-    },
-    {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "El Guerrero David",
         "url": "https://open.spotify.com/album/6s6B6C8rvHS6pzDvJefB18"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/4hFTrfayKWmdQWCiSbiq9T"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/4gGm3mnfUJvo3nj4wi2nVc"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "El So\u00f1ador Jos\u00e9",
         "url": "https://open.spotify.com/album/29HHbyXKvWniZ1Rvr96qFP"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/0Qz876escsK5OE7Kh9GlUx"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Grandes Promesas",
         "url": "https://open.spotify.com/album/4amlLsph2ZhuQvSwRtBcdQ"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/1KMOWC6BE1OeE5uim8VT2g"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Como Jes\u00fas Crec\u00eda",
         "url": "https://open.spotify.com/album/2u65Dk4dr6tNs1Ecp4qyCd"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/6GB6oHGwVjhs4SMBtNjXCa"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Jes\u00fas Te Llama",
         "url": "https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Peque\u00f1os Heroes",
         "url": "https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/2aOEEgJcCikD2dqJLvpqfV"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Rey de Reyes Kids",
         "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Mi Amigo Jes\u00fas",
         "url": "https://open.spotify.com/album/5aACZqsXDA7iOFX1rE0Vgj"
@@ -369,23 +401,7 @@
       "url": "https://open.spotify.com/track/0EnosQiDCS467jQAvdEudf"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
-      "album": {
-        "name": "Canta y Rie 3: La Salvacion Llego",
-        "url": "https://open.spotify.com/album/2K5F34TEadxMstfXadOzCV"
-      },
-      "artists": [
-        {
-          "name": "Canta Y Rie",
-          "url": "https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "David",
-      "url": "https://open.spotify.com/track/3PTIIq2YdFK9rA27qRqvKX"
-    },
-    {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Peque\u00f1os Heroes",
         "url": "https://open.spotify.com/album/3DinijBFSo5AdvS3V6AsEl"
@@ -401,23 +417,7 @@
       "url": "https://open.spotify.com/track/1Iq30Zq9k9qFjGIxRLzeLG"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
-      "album": {
-        "name": "Rey de Reyes Kids",
-        "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
-      },
-      "artists": [
-        {
-          "name": "Rey de Reyes Kids",
-          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
-        }
-      ],
-      "duration_ms": 191918,
-      "name": "Siempre Que Me Muevo",
-      "url": "https://open.spotify.com/track/0Fgw63W36eo8Ucq1jQVRxN"
-    },
-    {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "La Creaci\u00f3n",
         "url": "https://open.spotify.com/album/07VDOOTqOTnSRKkcQUAtlC"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/3ryVGls7EECMk2qlXySJDm"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Ni\u00f1os Adorando Vol2",
         "url": "https://open.spotify.com/album/1sLgQdb9ZXuT8fXFClixPU"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5JtKa9IFa64S930qzTX26R"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Jes\u00fas Es Super Fuerte",
         "url": "https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/3gvQe9l5zzT6JCZKt41M4C"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l"
     },
     {
-      "added_at": "2024-07-29 07:11:12",
+      "added_at": "2024-12-11 08:28:09",
       "album": {
         "name": "Jes\u00fas Es Super Fuerte",
         "url": "https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP"

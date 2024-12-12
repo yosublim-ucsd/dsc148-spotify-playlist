@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kubi Producent, Szpaku, Young Multi
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,298 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,380 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 13 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 |
 | 14 | [Night Vision](https://open.spotify.com/track/4Pc5n1oO0QBYblrdLUMKKX) | [Hodak](https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [wake ep](https://open.spotify.com/album/5akHAtkZ2NQYnCCiiYJ3dL) | 2:17 |
 | 15 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
-| 16 | [Chopper](https://open.spotify.com/track/5kuOMU68UxcXaTIUaUdE8N) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [+48](https://open.spotify.com/album/2s8rQbJFVC0v2TQFMomPIM) | 2:12 |
+| 16 | [Chopper](https://open.spotify.com/track/5kuOMU68UxcXaTIUaUdE8N) | [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Bouchez](https://open.spotify.com/artist/7pI8IMfldRMdXSO7dyrkpd) | [+48](https://open.spotify.com/album/2s8rQbJFVC0v2TQFMomPIM) | 2:12 |
 | 17 | [wszystkie noce są samotne](https://open.spotify.com/track/5cVesBn7wWRxs6JlepA2A9) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [wszystkie noce są samotne](https://open.spotify.com/album/41o2ggAHblUdciDnLf8lUI) | 3:04 |
 | 18 | [CZEMU NIE ŚPISZ?](https://open.spotify.com/track/4lJ88RKrUiW4UP1IAu3Dhj) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [CZEMU NIE ŚPISZ?](https://open.spotify.com/album/7FEwLv1ACk5cyoETwtXIdG) | 2:52 |
 | 19 | [NASZE BYŁE](https://open.spotify.com/track/5mDpksidxXHanaVrmWeD5A) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [NASZE BYŁE](https://open.spotify.com/album/38fb7I9tE3YxTOi0cOGzPU) | 2:34 |

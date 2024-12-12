@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 13636,
+  "num_followers": 13652,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "Maame Water",
-        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "Maame Water",
-      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
         "name": "LEANING",
         "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 153846,
       "name": "LEANING",
       "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "added_at": "2024-10-04 06:08:12",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-04 06:08:12",
       "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
-      },
-      "artists": [
-        {
-          "name": "TMXO",
-          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
-    },
-    {
-      "added_at": "2024-10-04 06:08:12",
-      "album": {
         "name": "On My Life",
         "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 125607,
       "name": "On My Life",
       "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "added_at": "2024-10-04 06:08:12",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     },
     {
       "added_at": "2024-10-04 06:08:12",

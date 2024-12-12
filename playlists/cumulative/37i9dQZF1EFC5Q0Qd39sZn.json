@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241646,
+      "name": "ANSWER YOUR PHONE",
+      "url": "https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs"
+    },
+    {
+      "album": {
         "name": "Charice",
         "url": "https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd"
       },

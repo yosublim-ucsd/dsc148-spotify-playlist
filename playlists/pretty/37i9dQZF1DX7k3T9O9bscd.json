@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 547524,
+  "num_followers": 547626,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Cinnamon Temple",
+        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cinnamon Temple",
-        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
         }
       ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Yellowblack",
+        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
+      },
+      "artists": [
+        {
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
+        }
+      ],
+      "duration_ms": 154055,
+      "name": "Yellowblack",
+      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Yellowblack",
-        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 154055,
-      "name": "Yellowblack",
-      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Sophomore",
         "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
       },
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7"
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/09AkhNYWocEZWbeYl1YBf7"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2EFuKYBalAcplMyUVL3BDH"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
-      },
-      "artists": [
-        {
-          "name": "Spiny Norman",
-          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
-        }
-      ],
-      "duration_ms": 239263,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Fudge Sandwich",
         "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
+      },
+      "artists": [
+        {
+          "name": "Spiny Norman",
+          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
+        }
+      ],
+      "duration_ms": 239263,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 208994,
       "name": "Sword In the Stone",
       "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Another Quiet Sunday",
-        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Another Quiet Sunday (Keep Moving On)",
-      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 235583,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Another Quiet Sunday",
+        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Another Quiet Sunday (Keep Moving On)",
+      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Breathe in, Breathe Out",
-        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "No Way In",
         "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 246125,
       "name": "No Way In",
       "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Breathe in, Breathe Out",
+        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1331,6 +1331,42 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Panther Rotate",
+        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Don't Blow Experiment",
+      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
+        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "duration_ms": 328404,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Non Ex Orbis",
         "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
       },
@@ -1359,42 +1395,6 @@
       "duration_ms": 239804,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
-        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
-      },
-      "artists": [
-        {
-          "name": "Oru\u00e3",
-          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
-        }
-      ],
-      "duration_ms": 328404,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Panther Rotate",
-        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        },
-        {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Don't Blow Experiment",
-      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Norfolk Hotel",
+        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 274176,
+      "name": "Norfolk Hotel",
+      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Taste of Blood",
         "url": "https://open.spotify.com/album/7FBGO3V4kns5TlkVmH5Wbn"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Norfolk Hotel",
-        "url": "https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ"
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Flores",
+          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
         }
       ],
-      "duration_ms": 274176,
-      "name": "Norfolk Hotel",
-      "url": "https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9"
+      "duration_ms": 277443,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1619,38 +1635,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
-          "name": "Flores",
-          "url": "https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 277443,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Mulberry Jam (Peaking Lights Dub)",
-        "url": "https://open.spotify.com/album/7C9OTuax57h4qbiyUce3N9"
-      },
-      "artists": [
-        {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        },
-        {
-          "name": "Peaking Lights",
-          "url": "https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Mulberry Jam - Peaking Lights Dub",
-      "url": "https://open.spotify.com/track/3tA4mRZmCh3mthQ1vvbEvK"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

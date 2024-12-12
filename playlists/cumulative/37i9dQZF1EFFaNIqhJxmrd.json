@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN"
+    },
+    {
+      "album": {
         "name": "Bastugatan - EP",
         "url": "https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 231148,
       "name": "Chasing A Feeling",
       "url": "https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI"
+    },
+    {
+      "album": {
+        "name": "Eternal Bloom",
+        "url": "https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC"
+      },
+      "artists": [
+        {
+          "name": "Gyeongree",
+          "url": "https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw"
     },
     {
       "album": {
@@ -1062,6 +1098,24 @@
       "duration_ms": 216773,
       "name": "Imposter Syndrome",
       "url": "https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC"
+    },
+    {
+      "album": {
+        "name": "Indigo Bruised",
+        "url": "https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Indigo Bruised",
+      "url": "https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ"
     },
     {
       "album": {

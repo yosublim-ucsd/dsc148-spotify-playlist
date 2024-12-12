@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Sky Ferreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,640 likes - 170 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,665 likes - 170 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 26 | [Why Are You So Uptight?](https://open.spotify.com/track/4wtHmhdPXF2klIR87Xb6ZO) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Why Are You So Uptight?](https://open.spotify.com/album/2VcKtGcz6o6xWz299XLIf9) | 3:24 |
 | 27 | [Knife Shook Your Hand](https://open.spotify.com/track/37SAstmrwgmSR1Rky2ATa6) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Knife Shook Your Hand](https://open.spotify.com/album/614AeSpddaaYClLfDlo7VC) | 3:36 |
 | 28 | [Marmite \- Fcukers Remix](https://open.spotify.com/track/37ebkeBtuT4Am3qb98HHOL) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Marmite \(Fcukers Remix\)](https://open.spotify.com/album/3yZ0BSzvv9KyII56iZ909x) | 4:00 |
-| 29 | [Bline \- They Are Gutting a Body of Water Remix](https://open.spotify.com/track/752kgYPCC1zir2FmN4D2aR) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Bline \(They Are Gutting a Body of Water Remix\)](https://open.spotify.com/album/4h6nwYUToiMYADwH2O4KWm) | 3:06 |
+| 29 | [Bline](https://open.spotify.com/track/752kgYPCC1zir2FmN4D2aR) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Bline](https://open.spotify.com/album/4h6nwYUToiMYADwH2O4KWm) | 3:06 |
 | 30 | [All We Do \- 10 Years On](https://open.spotify.com/track/5qg8t5HaoxgFwJ9Afn6VYL) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [All We Do \(10 Years On\)](https://open.spotify.com/album/6EdJbiw2X01S9m04474e6m) | 3:34 |
 | 31 | [What You Want Me To Say](https://open.spotify.com/track/3iK2mw9vvvInORkd5Vq9jh) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [What You Want Me To Say](https://open.spotify.com/album/4T1AVvZ04npfNvPTSaFQN5) | 4:06 |
 | 32 | [Always](https://open.spotify.com/track/2vnVcizVXgudJRqhIh2gKX) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [Always](https://open.spotify.com/album/1Sgq82uJVQZwrjKvCCirAO) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music by independent artists and labels. Cover artist: Mariae Cassandra, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. Cover artist: Jackie Hollander, Artwork: Isu Kim",
   "name": "Fresh Finds",
   "tracks": [
     {
@@ -6101,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "always know the exits",
+        "url": "https://open.spotify.com/album/68HRjx3Vpx1VLdVq9uhC5C"
+      },
+      "artists": [
+        {
+          "name": "Julia Minichiello",
+          "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188353,
+      "name": "always know the exits",
+      "url": "https://open.spotify.com/track/3jX35k5Y0SvCGNMvYysS3p"
+    },
+    {
+      "album": {
         "name": "Always Leave You Lonely",
         "url": "https://open.spotify.com/album/6X6yzsvdTZ29XQIxZtNyNK"
       },
@@ -8304,7 +8322,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 253106,
       "name": "arghHhh!",
       "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
@@ -9106,6 +9124,24 @@
       "duration_ms": 275797,
       "name": "Avoid The News",
       "url": "https://open.spotify.com/track/4mie7Rts9BECpRDwgdmwqa"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0yTmRTuwsEWW88cFaRzYxj"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Chia",
+          "url": "https://open.spotify.com/artist/454Mvx9FclXiij1Ai1UH23"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242218,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4JyJ3cDBDYLjJFXPbZDpOy"
     },
     {
       "album": {
@@ -16054,7 +16090,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 289496,
       "name": "Bonehead",
       "url": "https://open.spotify.com/track/3HX21L7lVBGv9uj27dY5XM"
@@ -25147,6 +25183,24 @@
     },
     {
       "album": {
+        "name": "Contradiction",
+        "url": "https://open.spotify.com/album/3Oy8YDpQ9vw9g3XzriqhTF"
+      },
+      "artists": [
+        {
+          "name": "Eliza Harrison Smith",
+          "url": "https://open.spotify.com/artist/694IAMr4pVMGMVOVn0MM0R"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198523,
+      "name": "Contradiction",
+      "url": "https://open.spotify.com/track/0RkRUwUYLuuCxAyS2MAG7K"
+    },
+    {
+      "album": {
         "name": "control",
         "url": "https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru"
       },
@@ -28544,7 +28598,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 142058,
       "name": "dancing",
       "url": "https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc"
@@ -29858,6 +29912,24 @@
       "duration_ms": 172060,
       "name": "DEATH WOBBLES",
       "url": "https://open.spotify.com/track/34DkUYoVpTrko0yxYSC6W0"
+    },
+    {
+      "album": {
+        "name": "Deathbed",
+        "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161090,
+      "name": "Deathbed",
+      "url": "https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB"
     },
     {
       "album": {
@@ -36460,7 +36532,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 214285,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg"
@@ -36568,7 +36640,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 165736,
       "name": "Elsie Marley",
       "url": "https://open.spotify.com/track/1kI2lWkSK6vWn0fZEwtH8l"
@@ -40572,7 +40644,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 248860,
       "name": "feeL",
       "url": "https://open.spotify.com/track/5DyWv22uBarGeTDh8Hji0a"
@@ -43090,6 +43162,24 @@
       "duration_ms": 268800,
       "name": "FOLLY OF THE BEAST",
       "url": "https://open.spotify.com/track/6quamSso052PZs9gRG0INo"
+    },
+    {
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/5ovUHtnBEk8S10pKVTDDLh"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/11BDQHOvdJQOtMU2gOzXX7"
     },
     {
       "album": {
@@ -58602,7 +58692,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 185624,
       "name": "i love you don't worry xx",
       "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
@@ -60248,6 +60338,24 @@
       "duration_ms": 205316,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/49UWYukd57z7wmPJcGfMER"
+    },
+    {
+      "album": {
+        "name": "Ice in Mouth",
+        "url": "https://open.spotify.com/album/5HdHEystIYx07OKX4ciWqn"
+      },
+      "artists": [
+        {
+          "name": "Casino Hearts",
+          "url": "https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259670,
+      "name": "Ice in Mouth",
+      "url": "https://open.spotify.com/track/70amEi41PZi2d5gfhipKJ8"
     },
     {
       "album": {
@@ -67202,7 +67310,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 235250,
       "name": "LA SE\u00d1AL",
       "url": "https://open.spotify.com/track/77Ju9SRpHc9cB0cNJCRHCB"
@@ -68264,6 +68372,24 @@
       "duration_ms": 225256,
       "name": "Lay You Down",
       "url": "https://open.spotify.com/track/5axSkgoUX00yflyM4Jcb7O"
+    },
+    {
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF"
+      },
+      "artists": [
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188778,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr"
     },
     {
       "album": {
@@ -73264,7 +73390,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 129207,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/78XlwmdSGYjeqghuKGNMs7"
@@ -82110,6 +82236,28 @@
       "duration_ms": 281765,
       "name": "My Pleasure",
       "url": "https://open.spotify.com/track/6Myc3yPWhYiskfhAOqQG8n"
+    },
+    {
+      "album": {
+        "name": "My Power (feat. Brieanna Grace)",
+        "url": "https://open.spotify.com/album/5ukLQSEXvil6hRX1JXPnrG"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213755,
+      "name": "My Power",
+      "url": "https://open.spotify.com/track/5YwivGHPlaUyVJTlJ6hYif"
     },
     {
       "album": {
@@ -94169,6 +94317,24 @@
     },
     {
       "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+    },
+    {
+      "album": {
         "name": "Please Louise",
         "url": "https://open.spotify.com/album/5LcKyKUArhPb4Bs4dx7RMb"
       },
@@ -103022,7 +103188,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 218181,
       "name": "SAMESAME",
       "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
@@ -116943,6 +117109,24 @@
     },
     {
       "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/1BXQe30UDvY5xGh4tyBdK9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Jane",
+          "url": "https://open.spotify.com/artist/24e3hF9IcHsGYNWMqwjIZv"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160384,
+      "name": "TACOBELL",
+      "url": "https://open.spotify.com/track/6Eft0d9kG6yZWuQrL4xNrM"
+    },
+    {
+      "album": {
         "name": "TAGIOG",
         "url": "https://open.spotify.com/album/6KAHIcMI6fVhwNIxKRVVfF"
       },
@@ -124119,6 +124303,28 @@
     },
     {
       "album": {
+        "name": "DEADSTOCK: ALT ENDING",
+        "url": "https://open.spotify.com/album/0VoMhVda2RvI7rwOAPzyv3"
+      },
+      "artists": [
+        {
+          "name": "Devin Malik",
+          "url": "https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180895,
+      "name": "TOPLESS",
+      "url": "https://open.spotify.com/track/4nMXpLZYke89xP4MV9ClGB"
+    },
+    {
+      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/4c748KMI2JY0FYMNFYt6aF"
       },
@@ -125731,7 +125937,7 @@
     },
     {
       "album": {
-        "name": "ii",
+        "name": "ii (ep)",
         "url": "https://open.spotify.com/album/0KlJJuIHiTe1eJ3BoLDQn3"
       },
       "artists": [
@@ -125852,7 +126058,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 264160,
       "name": "Turned Skyward",
       "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
@@ -126284,7 +126490,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 179104,
       "name": "U Know That",
       "url": "https://open.spotify.com/track/2dpGpd2kJ6yNqFGGImGP0m"
@@ -135692,7 +135898,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 195552,
       "name": "Wrong To Die Alone",
       "url": "https://open.spotify.com/track/0uuAeZ3EbHzJKJrST1UeAc"

@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 170751,
       "name": "egyszer\u0171",
       "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
@@ -1878,6 +1878,24 @@
       "duration_ms": 207818,
       "name": "kelet",
       "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
+    },
+    {
+      "album": {
+        "name": "Kettesben",
+        "url": "https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Kettesben",
+      "url": "https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92946,
+  "num_followers": 92938,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "N\u00e5 har du meg",
+        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 221427,
+      "name": "N\u00e5 har du meg",
+      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
         "url": "https://open.spotify.com/album/1DAzwoszWtY4o91JZuoaSI"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 195929,
       "name": "S\u00f8tt&salt (feat. Peg Parnevik)",
       "url": "https://open.spotify.com/track/0x6GH84ivlsgENm1ALvyaE"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "N\u00e5 har du meg",
-        "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
-      },
-      "artists": [
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "N\u00e5 har du meg",
-      "url": "https://open.spotify.com/track/33coicso7oegceR6nB7Srl"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Felt Cute Might Delete Later",
         "url": "https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 131642,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Oh Love (Acoustic)",
         "url": "https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 195202,
       "name": "Noen som forst\u00e5r",
       "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Glem meg, men jeg glemmer aldri",
-        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
-      },
-      "artists": [
-        {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
-        }
-      ],
-      "duration_ms": 142263,
-      "name": "Glem meg, men jeg glemmer aldri",
-      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Hva vi kunne bli",
         "url": "https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Glem meg, men jeg glemmer aldri",
+        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
+      },
+      "artists": [
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "duration_ms": 142263,
+      "name": "Glem meg, men jeg glemmer aldri",
+      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Rekk opp h\u00e5nda",
-        "url": "https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN"
+        "name": "Tilbake til start",
+        "url": "https://open.spotify.com/album/2lUwGjDdXQVYeNwnrCFLRI"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Jesper Jenset",
+          "url": "https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv"
         }
       ],
-      "duration_ms": 180126,
-      "name": "Rekk opp h\u00e5nda",
-      "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+      "duration_ms": 173220,
+      "name": "Tilbake til start",
+      "url": "https://open.spotify.com/track/35rznN12zBJXS0CROlBJbj"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

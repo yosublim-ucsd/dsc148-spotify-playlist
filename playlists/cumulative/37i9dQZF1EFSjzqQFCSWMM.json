@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "UP & RUNNIN6",
+        "url": "https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "YOUR BODY",
+      "url": "https://open.spotify.com/track/10aq1Dy6DGeiV4zzwqmVdQ"
+    },
+    {
+      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ"
       },

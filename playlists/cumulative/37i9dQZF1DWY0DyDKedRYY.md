@@ -2,7 +2,7 @@
 
 ### [RADAR US 2024](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new artists this year, featuring our newest RADAR artist Bossman Dlow
+> The most exciting new artists this year, featuring our newest RADAR artist BossMan Dlow
 
 925 songs - 1 day 23 hr 57 min
 

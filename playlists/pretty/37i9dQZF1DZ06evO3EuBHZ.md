@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,361 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,375 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 18 | [Unlucky Girl](https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:20 |
 | 19 | [Summertime](https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 4:15 |
 | 20 | [Everything Gonna Be Alright](https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 5:05 |
-| 21 | [How Come](https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:34 |
+| 21 | [Just Like A Dog, Barking Up The Wrong Tree](https://open.spotify.com/track/5kprualteHZKW9pEwrA03O) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:49 |
 | 22 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 |
 | 23 | [Born Under A Bad Sign](https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:47 |
 | 24 | [Wrapped Tight](https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 3:19 |
-| 25 | [Just Like A Dog, Barking Up The Wrong Tree](https://open.spotify.com/track/5kprualteHZKW9pEwrA03O) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:49 |
+| 25 | [How Come](https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:34 |
 | 26 | [Hound Dog / Walkin' the Dog](https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl) | 4:11 |
 | 27 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 |
 | 28 | [The Place](https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 2:35 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EuBHZ.md) - [plain]
 | 48 | [Hound Dog](https://open.spotify.com/track/19Y1sr5iSbGmw7SIgHJhej) | [Pep's Show Boys](https://open.spotify.com/artist/47e3UMf4zbn53B2mFUD3pk), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Best Of 2018](https://open.spotify.com/album/6BGVt4o84gv6ggHeFOaJE2) | 7:23 |
 | 49 | [No Jody for Me](https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt) | 2:46 |
 
-Snapshot ID: `Z1YzAAAAAADQnSbs4tw2cPlK07J7suYU`
+Snapshot ID: `Z1eEgAAAAAAQPP0KPPT1hvB4vK79ewf0`

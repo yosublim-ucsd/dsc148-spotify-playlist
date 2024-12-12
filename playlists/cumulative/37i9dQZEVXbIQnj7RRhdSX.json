@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 200470,
       "name": "Bnb life",
       "url": "https://open.spotify.com/track/4h2ZxFz4acPlkoom2BuBeC"
@@ -24392,6 +24392,28 @@
     {
       "album": {
         "name": "DIO LO SA - ATTO II",
+        "url": "https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220043,
+      "name": "MAI PER SEMPRE",
+      "url": "https://open.spotify.com/track/347HJzwbn0cmrxJUmAXj5c"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA - ATTO II",
         "url": "https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu"
       },
       "artists": [
@@ -24406,7 +24428,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 220043,
       "name": "MAI PER SEMPRE",
       "url": "https://open.spotify.com/track/5Dj3hbeg09MlzjedgKLrqg"
@@ -33071,6 +33093,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "PEZZI DA 100 (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k"
+    },
+    {
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
       },
@@ -33148,7 +33196,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 172933,
       "name": "Piccola Volpe",
       "url": "https://open.spotify.com/track/4c7ivA53eKj5NwZFM3Xyqz"
@@ -34714,7 +34762,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 210677,
       "name": "RAGNI",
       "url": "https://open.spotify.com/track/5HWWpSsNnlc2Kyh5QLrq1W"
@@ -42130,6 +42178,32 @@
     {
       "album": {
         "name": "DIO LO SA - ATTO II",
+        "url": "https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183203,
+      "name": "TU ED IO (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/3XOcMFFT6Oo2ZCXLJ9lqdT"
+    },
+    {
+      "album": {
+        "name": "DIO LO SA - ATTO II",
         "url": "https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu"
       },
       "artists": [
@@ -42148,7 +42222,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 183203,
       "name": "TU ED IO (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/7pQA55G6kvMIaNU4UcYktA"

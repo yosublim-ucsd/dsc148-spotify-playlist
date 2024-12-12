@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 88023,
+  "num_followers": 88081,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAACbdAageiSDbONvkIVlQFkU",
+  "snapshot_id": "Z1eEgAAAAABLXx1WbxxHB3Thnoa9GqsH",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+        "name": "Hasta Enfrente",
+        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
       },
       "artists": [
         {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
         }
       ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+      "duration_ms": 164565,
+      "name": "Hasta Enfrente",
+      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
     },
     {
       "added_at": null,
@@ -219,6 +219,26 @@
       "duration_ms": 185860,
       "name": "El Chinito",
       "url": "https://open.spotify.com/track/7rT06fxWaVQX5pJZE7Bwgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
     },
     {
       "added_at": null,
@@ -263,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Enfrente",
-        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 164565,
-      "name": "Hasta Enfrente",
-      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cuestionario",
+        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "El Cuestionario",
+      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Cuestionario",
-        "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 188632,
-      "name": "El Cuestionario",
-      "url": "https://open.spotify.com/track/4jySARaQ60WkXe4JO3EKUA"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 170672,
-      "name": "En La Bola (feat. El De La Guitarra)",
-      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Charal",
         "url": "https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 202026,
       "name": "El Charal",
       "url": "https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170672,
+      "name": "En La Bola (feat. El De La Guitarra)",
+      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
     },
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+        "name": "L.A. Lumbre",
+        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 203398,
-      "name": "En El Humaderon",
-      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
+      "duration_ms": 153250,
+      "name": "El Jeffrey",
+      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
     },
     {
       "added_at": null,
@@ -771,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. Lumbre",
-        "url": "https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb"
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 153250,
-      "name": "El Jeffrey",
-      "url": "https://open.spotify.com/track/6KKseqrcB5I4IeGB0pEBcV"
+      "duration_ms": 203398,
+      "name": "En El Humaderon",
+      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172303,
-      "name": "Un Chamaco Sin Futuro",
-      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172303,
+      "name": "Un Chamaco Sin Futuro",
+      "url": "https://open.spotify.com/track/0vZwjENOkZH6LiniKoaJqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "El Popeye",
-      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
       "duration_ms": 146749,
       "name": "El Doble M",
       "url": "https://open.spotify.com/track/41NPmOc9fdROE5o1BpCn2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "El Popeye",
+      "url": "https://open.spotify.com/track/64gzvtnbBAQVJslAmzxL2V"
     },
     {
       "added_at": null,

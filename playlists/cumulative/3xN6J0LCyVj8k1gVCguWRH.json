@@ -3482,7 +3482,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 160036,
       "name": "ALONE.",
       "url": "https://open.spotify.com/track/5ywFatfzeyOwa4RxCcJUFz"
@@ -11747,6 +11747,24 @@
     },
     {
       "album": {
+        "name": "The Island Tapes",
+        "url": "https://open.spotify.com/album/0KzDZEMAbfXGiLaTfkfwB9"
+      },
+      "artists": [
+        {
+          "name": "Marcu$ Jarrett",
+          "url": "https://open.spotify.com/artist/1WYla4FXVSGaXUt2zZcJQa"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6lKAnrIdt7GRhuPiglldXV"
+    },
+    {
+      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/1l9X0D2mSBr5yuWp0tginK"
       },
@@ -17572,7 +17590,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 172383,
       "name": "Detached",
       "url": "https://open.spotify.com/track/4UbxTmnY9Nq3qkrUL20H3V"
@@ -34714,7 +34732,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 170000,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/0oGZwDpj8Yw1F3ZCEDDgzx"
@@ -36084,7 +36102,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 167099,
       "name": "It Don't Feel Like Christmas",
       "url": "https://open.spotify.com/track/0yobxVQp4HNJpYs9rjInd7"
@@ -38810,7 +38828,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 226320,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0A9BHZY9IJTAUKB6ha78V7"
@@ -50426,7 +50444,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 137145,
       "name": "Nothing But Us",
       "url": "https://open.spotify.com/track/3MGZqpmoMwFnaysQylGDM7"
@@ -59050,6 +59068,24 @@
       "duration_ms": 202666,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/23THJDefjNaOu9u0yWdCgN"
+    },
+    {
+      "album": {
+        "name": "Rudolf the Red Nosed Reindeer",
+        "url": "https://open.spotify.com/album/7zx9knE8h6OCqCi9U176GD"
+      },
+      "artists": [
+        {
+          "name": "EH",
+          "url": "https://open.spotify.com/artist/65sDpjk14Zmv7vLbA0tcXV"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196767,
+      "name": "Rudolf the Red Nosed Reindeer",
+      "url": "https://open.spotify.com/track/3P5Mi5dXjuV2V29spfUMJI"
     },
     {
       "album": {
@@ -78158,6 +78194,24 @@
       "duration_ms": 218640,
       "name": "While the Nighttime Wades",
       "url": "https://open.spotify.com/track/2S2mJ0QoF4AE4E1COFlT9M"
+    },
+    {
+      "album": {
+        "name": "GODDESSS OF METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU"
+      },
+      "artists": [
+        {
+          "name": "Syren's Belle",
+          "url": "https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236178,
+      "name": "While we're young",
+      "url": "https://open.spotify.com/track/5ryj5AaELa08Msklvhnpfq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,882 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,887 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 159 | [Golden Hour](https://open.spotify.com/track/31eu3MQRIFaqJ8fZEONmzE) | [Quote the Raven](https://open.spotify.com/artist/3I9xFLBufkAp1ZEgnCnvyG) | [Golden Hour](https://open.spotify.com/album/7CqSFGjqdus3l2P3F3D7cd) | 4:05 |
 | 160 | [Fargo](https://open.spotify.com/track/4bmLGkgfX9CFVAdWrnXNct) | [Trond Kallevåg](https://open.spotify.com/artist/4lcCxjuWA9pwb2P5zv2NKo), [Selma French](https://open.spotify.com/artist/29GtMvNorPFe7RRUEpNpnV), [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ), [Jo Berger Myhre](https://open.spotify.com/artist/2N72U43CKlDsbSYE6dwgAB), [Håkon Aase](https://open.spotify.com/artist/3pmI7NcMTtUpNdvxUxwk8w), [Ola Øverby](https://open.spotify.com/artist/2kXipErQSihl5ArYS1M0QK) | [Amerikabåten](https://open.spotify.com/album/45Id3mPJSAAScGyDzxYfVV) | 4:28 |
 | 161 | [Beautiful Ride](https://open.spotify.com/track/1SfAEo0sApBnPDlNPWvqQe) | [Christie Lenée](https://open.spotify.com/artist/2r1JtoRnsD6awy7pOQEw00) | [Coming Alive](https://open.spotify.com/album/2z4cAxgnE06Nbi0I1vsyhe) | 4:50 |
-| 162 | [18 Years](https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw) | [Annie Dressner](https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS), [Polly Paulusma](https://open.spotify.com/artist/5MtEhepub9ltryoNniab4a) | [18 Years](https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp) | 3:09 |
+| 162 | [18 Years](https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw) | [Annie Dressner](https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS) | [18 Years](https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp) | 3:09 |
 | 163 | [Rosie](https://open.spotify.com/track/5wBP2sIgbhdWdmr1u54Eoz) | [Calling Cadence](https://open.spotify.com/artist/4k9Si9nVLMfD6bEIMzXdXD) | [Calling Cadence](https://open.spotify.com/album/7fSLZKWKWueYzKOBH1RWkg) | 4:02 |
 | 164 | [Neverk](https://open.spotify.com/track/4wBxavOm3tcmVMroPRM2iz) | [Giriu Dvasios](https://open.spotify.com/artist/0TW3Kr7qVPFc5fBQz9Q3WV), [Jausmė](https://open.spotify.com/artist/5zu8H4DMzOHQKS4Vp4clm6) | [Neverk](https://open.spotify.com/album/6zCu8nwJWQYUwfN4HNxyaH) | 3:52 |
 

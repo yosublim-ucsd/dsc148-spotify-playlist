@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 109087,
+  "num_followers": 109104,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Coraz\u00f3n ardiendo",
-        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
       "artists": [
         {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Coraz\u00f3n ardiendo",
-      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -939,6 +919,26 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Coraz\u00f3n ardiendo",
+        "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Coraz\u00f3n ardiendo",
+      "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Otra Partida",
         "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 185991,
       "name": "Otra Partida",
       "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Froil\u00e1n de Todos los Antros",
-        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
-      },
-      "artists": [
-        {
-          "name": "Fuckop Family",
-          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
-        },
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Froil\u00e1n de Todos los Antros",
-      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "A Quien Pueda Interesar (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 192147,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Froil\u00e1n de Todos los Antros",
+        "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
+      },
+      "artists": [
+        {
+          "name": "Fuckop Family",
+          "url": "https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe"
+        },
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Froil\u00e1n de Todos los Antros",
+      "url": "https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Cuidado",
-      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Lev\u00e1ntate",
         "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
       },
@@ -1379,13 +1363,29 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Pudredumbre",
         "url": "https://open.spotify.com/album/5mdIYVaHslsllN0EcvmxLr"
       },
       "artists": [
         {
-          "name": "Opus Pain",
-          "url": "https://open.spotify.com/artist/011c1z4h5qXlPlhpQ6NKj8"
+          "name": "A Tomar X Culo",
+          "url": "https://open.spotify.com/artist/6r5n867130CDJnBJC1kJWW"
         }
       ],
       "duration_ms": 125727,

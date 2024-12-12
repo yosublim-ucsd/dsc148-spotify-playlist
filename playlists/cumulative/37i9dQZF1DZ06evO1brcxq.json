@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 219426,
       "name": "detonate",
       "url": "https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 243672,
       "name": "forever",
       "url": "https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB"
@@ -665,7 +665,7 @@
     },
     {
       "album": {
-        "name": "Guess featuring Billie Eilish",
+        "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [

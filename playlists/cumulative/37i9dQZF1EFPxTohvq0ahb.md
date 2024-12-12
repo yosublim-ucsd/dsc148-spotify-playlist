@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 7 hr 15 min
+131 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beautiful Sinner](https://open.spotify.com/track/7rckdz1lRk0xXOlm2W2DCi) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:47 | 2023-12-30 |  |
 | [Believer](https://open.spotify.com/track/5UCNw4KXrmL86EWZyfR7wL) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Point Of No Return \(Deluxe\)](https://open.spotify.com/album/2OlVVFS8QZfQLmAKkfIwmz) | 3:34 | 2023-12-30 |  |
 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 | 2023-12-30 |  |
+| [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 | 2024-12-11 |  |
 | [Champagne Night \- From Songland](https://open.spotify.com/track/48F2xnWq3LuzYWML327Z2r) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Champagne Night \(From Songland\)](https://open.spotify.com/album/12c0ZbMnEO94emcqf8xfts) | 3:05 | 2023-12-30 |  |
 | [Come & Get It](https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 3:51 | 2023-12-30 |  |
 | [Coulda Been Me](https://open.spotify.com/track/2aQBZVVkmbmPu7TepMFVOo) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 3:32 | 2023-12-30 | 2024-08-19 |

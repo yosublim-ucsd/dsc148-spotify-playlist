@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2024
 
-617 songs - 1 day 17 hr 18 min
+618 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [My Love](https://open.spotify.com/track/1TyoObNM0Bk0v4lHvPEOBG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Geen Oog Dichtgedaan](https://open.spotify.com/album/44Zi1rH4ExTxsz8cOpt0Bu) | 4:05 | 2023-05-30 | 2024-02-13 |
 | [My Love Waits for Me](https://open.spotify.com/track/3ur6oXT0Mmcq5JnFSTjQTC) | [VENICE](https://open.spotify.com/artist/26JaNQ7qRfxF49Paqhjg5l) | [Jacaranda Street](https://open.spotify.com/album/2njxsmtmOqgQEcfR0F6klb) | 4:06 | 2019-03-11 | 2023-05-31 |
 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 | 2019-03-13 | 2024-04-15 |
+| [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 | 2024-02-12 |  |
 | [Nederwiet](https://open.spotify.com/track/7lKLJqAcy3UssKohqpBUKb) | [Joost Belinfante](https://open.spotify.com/artist/5cvhtxtsNa82FOu82dsfAh), [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 6:54 | 2019-03-11 | 2023-05-31 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:45 | 2023-05-30 | 2024-12-06 |
 | [New Generation](https://open.spotify.com/track/0VNUU93dVY7p1DnlveAGsC) | [SAT2D](https://open.spotify.com/artist/1fI69ZkSnb90KRUopJKTLh) | [Devil Girl](https://open.spotify.com/album/24IUON6SDVLXQ0AVfJuOup) | 2:53 | 2019-03-11 | 2023-05-31 |
@@ -470,7 +471,7 @@
 | [She Sells Sanctuary](https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Love](https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko) | 4:12 | 2019-03-11 | 2024-04-19 |
 | [Shine Silently](https://open.spotify.com/track/3J4QEssyDShqdnI5SiSdvt) | [Nils Lofgren](https://open.spotify.com/artist/2TpAfGX0XNikAg5QjrbbvE) | [70s Love](https://open.spotify.com/album/1IrBNTc364DkrvUBmISfMC) | 3:35 | 2019-03-12 | 2023-05-31 |
 | [Ship To Wreck](https://open.spotify.com/track/20NEld0MhrR4Zpgrf9brq8) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 3:54 | 2019-03-11 | 2023-05-31 |
-| [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 | 2024-02-12 |  |
+| [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 | 2024-02-12 | 2024-12-12 |
 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 | 2019-03-11 |  |
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2019-03-11 |  |
 | [Shut Up and Let Me Go](https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 2:51 | 2019-03-11 | 2023-05-31 |

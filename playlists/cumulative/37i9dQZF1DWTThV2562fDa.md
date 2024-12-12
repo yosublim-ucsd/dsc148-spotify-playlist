@@ -4,7 +4,7 @@
 
 > There's no stopping the game\. Listen to the music from Squid Game, new season coming soon to Netflix.
 
-26 songs - 1 hr 25 min
+27 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 | 2022-01-26 |  |
 | [I Remember My Name](https://open.spotify.com/track/65AGQ1piJE3BRpul7jEpip) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:13 | 2022-01-26 |  |
 | [It Hurts So Bad](https://open.spotify.com/track/2dpCKcTvRB9q61LOh0up04) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:13 | 2022-01-26 |  |
+| [Korean or Get Eaten](https://open.spotify.com/track/2Vm6NMjzux1219AmUH6my3) | [Duolingo](https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq) | [Korean or Get Eaten](https://open.spotify.com/album/4xNR5SHg5hRXeO98KQWX9P) | 2:03 | 2024-12-11 |  |
 | [Let’s Go Out Tonight](https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:27 | 2022-01-26 |  |
 | [Murder Without Violence](https://open.spotify.com/track/4pJFFGjoHCA4g1yJOzP5Kb) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:53 | 2022-01-26 |  |
 | [Needles and Dalgona](https://open.spotify.com/track/4ZcrC5jf6Sj0AiEXEEDnRz) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:44 | 2022-01-26 |  |

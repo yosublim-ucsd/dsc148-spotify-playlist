@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30201,
+  "num_followers": 30200,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAADWy4QaF2nKDIGS8risC2sp",
+  "snapshot_id": "Z1eEgAAAAAAhME0m9ib+TcwP1miwnrH8",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
       "artists": [
         {
@@ -154,13 +154,13 @@
       ],
       "duration_ms": 358973,
       "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 273821,
-      "name": "Eu Quero Ver o Seu Milagre",
-      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
+      "duration_ms": 340080,
+      "name": "Pode Ser Hoje",
+      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
     },
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 340080,
-      "name": "Pode Ser Hoje",
-      "url": "https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY"
+      "duration_ms": 273821,
+      "name": "Eu Quero Ver o Seu Milagre",
+      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Luca minor\)
+> All about Korean Jazz hits & new \(Cover: Junggigo Quintet\)
 
-230 songs - 16 hr 20 min
+231 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 | 2024-09-04 |  |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 | 2024-10-10 |
+| [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo Quintet](https://open.spotify.com/artist/6Rw8YbGwaAeYXAyWknX2GU) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 | 2024-12-11 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 | 2023-02-07 | 2024-11-07 |
 | [gut](https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Research Daily 2](https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh) | 3:48 | 2024-08-29 |  |

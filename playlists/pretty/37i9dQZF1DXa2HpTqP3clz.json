@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dolly Parton & Family",
-  "num_followers": 164607,
+  "num_followers": 164618,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Powder Day",
+        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        },
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Powder Day",
+      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "The More I Learn",
         "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Powder Day",
-        "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Powder Day",
-      "url": "https://open.spotify.com/track/4MxwOoetT7OKPEa9wELH1U"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 156536,
       "name": "Heading East to West Virginia",
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 132794,
       "name": "Winds Forever Blow",
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
       },
       "artists": [
         {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+      "duration_ms": 222302,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 256877,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1195,22 +1227,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 222302,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 173688,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256877,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Please Mr Please",
         "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 236000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
-      },
-      "artists": [
-        {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
       "artists": [
         {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
         }
       ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-11-29 17:00:00",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2024-11-29 17:00:00",
       "album": {
-        "name": "So Much For Forever",
-        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
       },
       "artists": [
         {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     },
     {
       "added_at": "2024-11-29 17:00:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2024-11-29 17:00:00",
+      "album": {
+        "name": "So Much For Forever",
+        "url": "https://open.spotify.com/album/6gpmtCMGUHZDVE09LFORjB"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7EvIQjMcp2Jz6qfvS54NzM"
     },
     {
       "added_at": "2024-11-29 17:00:00",

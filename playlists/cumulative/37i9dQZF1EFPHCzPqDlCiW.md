@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 8 hr 6 min
+152 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Hard Not to Love You](https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [All at Once](https://open.spotify.com/album/1C3KmjfI3oZjfPZGyYAk5X) | 3:46 | 2024-01-29 |  |
 | [Haze](https://open.spotify.com/track/0zX1W3gdRTVdVe2WrtSnma) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For a Moment, I Was Lost](https://open.spotify.com/album/3yoCn60EaTwSj9nnIuzFRL) | 1:57 | 2024-01-29 | 2024-06-10 |
 | [Haze](https://open.spotify.com/track/2sZKbJC6xWNga34dTe9S0v) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [For A Moment, I Was Lost](https://open.spotify.com/album/0oY3tTEWLMF2x0pXbST0wn) | 1:57 | 2024-06-09 |  |
+| [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c) | 3:07 | 2024-12-11 |  |
 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 | 2024-01-29 |  |
 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 | 2024-01-29 |  |
 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 | 2024-01-29 |  |

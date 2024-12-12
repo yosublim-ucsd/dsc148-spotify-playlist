@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-626 songs - 1 day 19 hr 20 min
+627 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 | 2023-12-30 | 2024-09-04 |
 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 | 2023-12-30 |  |
 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 | 2023-12-30 |  |
+| [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 | 2024-12-11 |  |
 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 | 2023-12-30 |  |
 | [Are You Gonna Be There](https://open.spotify.com/track/3K2lg4fY3CunPMeNlMnR32) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Essential \*NSYNC](https://open.spotify.com/album/3bhFoH4PFnY4ifK4981U8X) | 4:06 | 2023-12-30 |  |
 | [Are You Gonna Throw It All Away](https://open.spotify.com/track/59Ny4R3pEDgZWKQtuy1diN) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 4:55 | 2023-12-30 |  |

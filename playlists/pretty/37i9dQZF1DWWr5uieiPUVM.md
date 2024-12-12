@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e luanna é lá mulher de francesinha, tá tonto?!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,894 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,538,001 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rotina 2](https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:07 |
 | 2 | [Não Temos Medo](https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 2:15 |
-| 3 | [Figura Pública](https://open.spotify.com/track/23J0wflr0iQIRjmZjdJNZ2) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Figura Pública](https://open.spotify.com/album/36IaXI7z788PXUtriMfqYA) | 2:12 |
+| 3 | [Figura Pública](https://open.spotify.com/track/23J0wflr0iQIRjmZjdJNZ2) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Figura Pública](https://open.spotify.com/album/36IaXI7z788PXUtriMfqYA) | 2:12 |
 | 4 | [CALVIN KLEIN](https://open.spotify.com/track/2SxnF7ibCTxMihwyiW7znz) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [F\*\*K SONGS](https://open.spotify.com/album/2ysqT6MYBNQrrJI6fKeJPi) | 2:55 |
 | 5 | [Nós Combina](https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [CONFIA](https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3) | 3:24 |
 | 6 | [Crack com Mussilon](https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:75VKfyoBlkmrJFDqo1o2VY">Fireboy DML</a>
 
-661 songs - 1 day 10 hr 26 min
+662 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4 Days](https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [4 Days](https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn) | 2:34 | 2024-03-29 | 2024-04-13 |
 | [4AM](https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf) | [4AM](https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO) | 3:45 | 2021-09-10 | 2023-05-15 |
 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 | 2024-04-12 | 2024-04-19 |
+| [7.5G](https://open.spotify.com/track/4cfJumsxrjjRSUUSDk0VK0) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zero Panic, Vol\. 2](https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4) | 2:23 | 2024-12-11 |  |
 | [\[The Jackie\] \(with J\. Cole & Lil Tjay\)](https://open.spotify.com/track/2cny5OSTr2976U3o018GoV) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 3:24 | 2022-07-25 | 2024-01-26 |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-25 | 2023-01-27 |
 | [A Million](https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [A Million](https://open.spotify.com/album/1K7d4nsh7rQiu4eSqYlsAf) | 2:34 | 2021-09-10 | 2022-07-29 |
@@ -354,7 +355,7 @@
 | [Love In The Morning](https://open.spotify.com/track/5FJWwLHbfv7K6aT6SfPYsf) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Love In The Morning](https://open.spotify.com/album/2KHrefoZBiwAEtcC2Mr37l) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Love Made Me Do It](https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Love Made Me Do It](https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2) | 3:16 | 2024-03-01 | 2024-09-21 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2024-11-08 |  |
-| [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 |  |
+| [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-12-12 |
 | [Love Nobody](https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Nobody](https://open.spotify.com/album/6TIHRkJD000qOjjYc0gcSR) | 3:30 | 2021-09-10 | 2022-07-29 |
 | [Love Somebody](https://open.spotify.com/track/2I70L2L5daHknXX1OcL9dj) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Love Somebody](https://open.spotify.com/album/0QrTobqSZwX1sV7EjiqYN8) | 2:47 | 2021-09-10 | 2022-07-29 |
 | [low](https://open.spotify.com/track/0cXS55EqxWn17NUi1GQYg7) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:34 | 2024-10-04 | 2024-10-08 |

@@ -4881,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Reverie of the Plains",
+        "url": "https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Murali",
+          "url": "https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Reverie of the Plains",
+      "url": "https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8"
+    },
+    {
+      "album": {
         "name": "Riverlight",
         "url": "https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP"
       },
@@ -5494,6 +5512,24 @@
       "duration_ms": 168250,
       "name": "Spiraling Nature",
       "url": "https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ"
+    },
+    {
+      "album": {
+        "name": "spirit of the wind",
+        "url": "https://open.spotify.com/album/6dBOiti1FbGEQHDVQ2r1Ro"
+      },
+      "artists": [
+        {
+          "name": "Gia",
+          "url": "https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132352,
+      "name": "spirit of the wind",
+      "url": "https://open.spotify.com/track/0549bpR4RTWXJXkAecXx7C"
     },
     {
       "album": {

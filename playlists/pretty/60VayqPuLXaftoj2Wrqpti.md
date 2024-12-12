@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,598 likes - 66 songs - 4 hr 14 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,601 likes - 66 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 2 | [Miliwn](https://open.spotify.com/track/1gK7XcRPVMza9DAL4joQTC) | [Adwaith](https://open.spotify.com/artist/40gm6Qd1XrQrLlJNjujjdU) | [Miliwn](https://open.spotify.com/album/28WSp10zMzUyzenSDvj7AI) | 3:08 |
 | 3 | [Del Cielo Te Cuido](https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Del Cielo Te Cuido](https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb) | 3:28 |
 | 4 | [Xmas](https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Xmas](https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0) | 3:22 |
-| 5 | [Emergency](https://open.spotify.com/track/5ErdtoJnHyKVkmdcSlZyKn) | [Beatrice Melissa](https://open.spotify.com/artist/0BOdsSIe6NtKeUuBFx48VP), [Kaba](https://open.spotify.com/artist/3zqpptf4L07mQ6NE2UZLgR) | [Emergency](https://open.spotify.com/album/1KFi8nSnpuK77SuLRVyFx2) | 4:03 |
+| 5 | [Emergency](https://open.spotify.com/track/5ErdtoJnHyKVkmdcSlZyKn) | [Beatrice Melissa](https://open.spotify.com/artist/0BOdsSIe6NtKeUuBFx48VP), [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN) | [Emergency](https://open.spotify.com/album/1KFi8nSnpuK77SuLRVyFx2) | 4:03 |
 | 6 | [Changes \(Titeknots Remix\)](https://open.spotify.com/track/4ToBpkc2tz6ONpM6TbllMH) | [Bopperson](https://open.spotify.com/artist/7cEUkTUyxUrtBurjyM4eGF), [Bikbaye](https://open.spotify.com/artist/7y8BjUDQqL0Vdg2ND9RvnN), [Titeknots](https://open.spotify.com/artist/0CdxxbmCwuQ0dV9LvvyqlO) | [Changes \(Titeknots Remix\)](https://open.spotify.com/album/6fXGarfNqfEGdHoQFJyGAo) | 4:34 |
 | 7 | [Dance I Say](https://open.spotify.com/track/1GAGv4LO4cvIAmMnrBB5sJ) | [Brittany Davis](https://open.spotify.com/artist/3sRxyZAJO726wjCXfXZYuB) | [Dance I Say](https://open.spotify.com/album/6sxcud1e3EzB06Gv5Lgvk5) | 3:50 |
 | 8 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |

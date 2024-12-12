@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-147 songs - 6 hr 5 min
+148 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 | 2024-08-12 |  |
 | [Poussière](https://open.spotify.com/track/23vDKATCuYLNswIZEWe7se) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [Poussière](https://open.spotify.com/album/0aUeyLAPuSdt9FNjUHOwC6) | 2:12 | 2023-09-26 |  |
 | [Prados](https://open.spotify.com/track/611ldJjjgj1nHk7Y9nJQvv) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Prados](https://open.spotify.com/album/4p18DPrMcWKVrfqfs2LP5b) | 2:03 | 2023-05-09 |  |
+| [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 | 2024-12-11 |  |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-05-09 |  |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-11 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |

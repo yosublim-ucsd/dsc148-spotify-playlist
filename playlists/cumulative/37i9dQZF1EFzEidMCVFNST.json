@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Diego & Victor Hugo - S\u00f3 Hits",
+        "url": "https://open.spotify.com/album/4MGro58TfjKC92RGYfLRTY"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171096,
+      "name": "Erro Antigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MvzBiWJpnEYxxUPMdz4Aq"
+    },
+    {
+      "album": {
         "name": "Erro Antigo / Se Duvidar",
         "url": "https://open.spotify.com/album/27oP6MgnXr2e2sP2Mceqzq"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 171096,
       "name": "Erro Antigo - Ao Vivo",
       "url": "https://open.spotify.com/track/7qpXCkcr3Zj4LDvdiWryns"
@@ -6188,6 +6206,24 @@
       "duration_ms": 163904,
       "name": "Respeita - Ao Vivo",
       "url": "https://open.spotify.com/track/1lxQrvlu0nHXdEaYVEdLoL"
+    },
+    {
+      "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/5deGBkx5pWnsBmdjH1zN1J"
+      },
+      "artists": [
+        {
+          "name": "Ray do Arrocha",
+          "url": "https://open.spotify.com/artist/0UwiwtgSxDxDMLMaELRmUV"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169335,
+      "name": "Respeita Nosso Fim",
+      "url": "https://open.spotify.com/track/3kWjB7kKX15lfG6gHVQVYJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 
 > This is Maria Callas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,792 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,820 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02kqa0.md) - [plain]
 | 50 | [Puccini: La bohème, Act 1: "Ehi! Rodolfo! … O soave fanciulla, o dolce viso" \(Schaunard, Colline, Marcello, Rodolfo, Mimi\)](https://open.spotify.com/track/332vXZ7UCNUmNQn6xfGPYs) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Giuseppe Di Stefano](https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt), [Rolando Panerai](https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY), [Manuel Spatafora](https://open.spotify.com/artist/5ZFns7yMY5of6B79gGAQJO), [Nicola Zaccaria](https://open.spotify.com/artist/1wKLEotRPkbzZOv6CABJI7), [Orchestra Del Teatro Alla Scala, Milano](https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57), [Antonino Votto](https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW), [Orchestra Del Teatro Alla Scala Di Milan](https://open.spotify.com/artist/0gDRlo7VjCojGpmdCCS57B) | [La Bohème \- Puccini](https://open.spotify.com/album/5b1dUxE8wWIGTyBX5h8CEp) | 4:12 |
 | 51 | [Bizet: Carmen, Act 1: Séguedille\. "Près des remparts de Séville" \(Carmen, José\)](https://open.spotify.com/track/1WBfzmOEVFIiDvte4al0ND) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E), [Nicolai Gedda](https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK), [Georges Prêtre](https://open.spotify.com/artist/5lfbI21DXOiKTCT3Gb802r), [Orchestre du Théâtre National de l'Opéra Paris](https://open.spotify.com/artist/6A2Cwaoe4zRqUda8qPyqOh), [Paris Opera Orchestra](https://open.spotify.com/artist/3IBSdicCqV2ZZNgoOh5vR9) | [Bizet: Carmen](https://open.spotify.com/album/22ANFMPm2FcKbNsshKSefi) | 4:36 |
 
-Snapshot ID: `Z1YzAAAAAABCoPzyQq2Wzgi085DcbSdr`
+Snapshot ID: `Z1eEgAAAAACwHFLmEKCRk2MEw5FoV6j+`

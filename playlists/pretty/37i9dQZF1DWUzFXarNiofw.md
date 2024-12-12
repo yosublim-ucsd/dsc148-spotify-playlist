@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,810 likes - 262 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,872 likes - 262 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [Solo](https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 1:58 |
 | 8 | [Straight Up](https://open.spotify.com/track/2OQmAU1rXizFeY3ageqplE) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Straight Up](https://open.spotify.com/album/4OGLkwfhVSh6jhFN3agdmB) | 3:15 |
 | 9 | [Never Settle](https://open.spotify.com/track/0MkatHvXEf1PcGswnZsi0F) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [MOMENTUM](https://open.spotify.com/album/1g5uTp5FUKQjYYj69TlPvi) | 1:36 |
-| 10 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired \(feat\. Mereba\)](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
+| 10 | [Oh God \(feat\. Mereba\)](https://open.spotify.com/track/6GlNSeyiBLPrbnw9MWk5G0) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Oh God / Really Tired](https://open.spotify.com/album/5KL3AwqJn9BHHudZ74xoMd) | 4:27 |
 | 11 | [Love In Writing](https://open.spotify.com/track/1WFMKXC0a8X37YgUcOdXaB) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Love In Writing](https://open.spotify.com/album/2K4iu95S71HMrssmYiN5sT) | 3:06 |
 | 12 | [Straight Outta Heaven](https://open.spotify.com/track/0T3mL97rtfvJq89UtWwVUC) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Straight Outta Heaven](https://open.spotify.com/album/5fdgjpST2SXh4WCDmYGr36) | 3:05 |
 | 13 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |

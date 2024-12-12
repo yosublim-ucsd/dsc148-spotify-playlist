@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140188,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa"
+    },
+    {
+      "album": {
         "name": "Trouble Man: Heavy is the Head",
         "url": "https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m"
       },
@@ -2498,6 +2516,24 @@
       "duration_ms": 239308,
       "name": "T.R.I.B.E",
       "url": "https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147859,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/5wyFGDZMnv7wWews9KgKHZ"
     },
     {
       "album": {

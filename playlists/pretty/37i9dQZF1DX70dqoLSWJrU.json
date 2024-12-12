@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 85876,
+  "num_followers": 85916,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 303573,
-      "name": "Cry Me A River",
-      "url": "https://open.spotify.com/track/3k8WOOIt8iHgfXzTXBonDC"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "The Second Time Around",
         "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 146226,
       "name": "Don't Cry Baby",
       "url": "https://open.spotify.com/track/52JFZ4D1kYCspWMolxYtTo"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 303573,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/3k8WOOIt8iHgfXzTXBonDC"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "The Second Time Around",
+        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Fool That I Am",
+      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 197173,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "The Second Time Around",
-        "url": "https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Fool That I Am",
-      "url": "https://open.spotify.com/track/5RC6D893kdyFTbbXq9G3qZ"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -335,42 +335,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Lonely And Blue",
         "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
       },
@@ -383,6 +347,22 @@
       "duration_ms": 202866,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -403,6 +383,26 @@
       "duration_ms": 179866,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 193177,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
+        "name": "Dippin'",
+        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
       },
       "artists": [
         {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
+      "duration_ms": 329533,
+      "name": "I See Your Face Before Me - Remastered",
+      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -911,34 +911,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Dippin'",
-        "url": "https://open.spotify.com/album/3mx9Te2p8koxBI9oe1341j"
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
         }
       ],
-      "duration_ms": 329533,
-      "name": "I See Your Face Before Me - Remastered",
-      "url": "https://open.spotify.com/track/3yitw1j44b1AiXvTKFe3lG"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 148560,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
+      "duration_ms": 282866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/3k42wvwwogIJyZ4HK5YswY"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -955,6 +939,22 @@
       "duration_ms": 211906,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 148560,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1191,22 +1191,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The War Years (1941-1947)",
-        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
+        "name": "It's All Over But The Swingin'",
+        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
         }
       ],
-      "duration_ms": 165266,
-      "name": "Cry You Out Of My Heart",
-      "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
+      "duration_ms": 280093,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "It's All Over But The Swingin'",
-        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
+        "name": "The War Years (1941-1947)",
+        "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
       "artists": [
         {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
         }
       ],
-      "duration_ms": 280093,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+      "duration_ms": 165266,
+      "name": "Cry You Out Of My Heart",
+      "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Whatever Happened To You?",
-      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Night Lights (Remastered 2001)",
         "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 174266,
       "name": "Too Young To Go Steady - Remastered 2001",
       "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Whatever Happened To You?",
+      "url": "https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Complete Columbia Recordings (Swedish Jazz Masters)",
-        "url": "https://open.spotify.com/album/1kxArdHwv0FZwYGsVfKj9h"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Smooth Songs",
         "url": "https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 216790,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Complete Columbia Recordings (Swedish Jazz Masters)",
+        "url": "https://open.spotify.com/album/1kxArdHwv0FZwYGsVfKj9h"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
     }
   ],
   "unique_name": "Heartbreak Jazz",

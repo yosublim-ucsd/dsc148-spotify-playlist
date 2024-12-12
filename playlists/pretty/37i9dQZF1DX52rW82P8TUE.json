@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 70489,
+  "num_followers": 70497,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Assim Desse Jeito: Yasminzinha",
+        "url": "https://open.spotify.com/album/7cTS8Sb4b4DU5EM86JmoMY"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Assim Desse Jeito: Yasminzinha",
+      "url": "https://open.spotify.com/track/1u0BbK2qfbg94OQGkeNgrh"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Gba Stage Kids",
         "url": "https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 280308,
       "name": "Fico Feliz",
       "url": "https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Assim Desse Jeito: Yasminzinha",
-        "url": "https://open.spotify.com/album/7cTS8Sb4b4DU5EM86JmoMY"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Assim Desse Jeito: Yasminzinha",
-      "url": "https://open.spotify.com/track/1u0BbK2qfbg94OQGkeNgrh"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Reluz",
-        "url": "https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP"
-      },
-      "artists": [
-        {
-          "name": "Mara Maravilha",
-          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
-        }
-      ],
-      "duration_ms": 226403,
-      "name": "Rei Davi",
-      "url": "https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Quem Ama os Animais: Yasminzinha",
         "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 138240,
       "name": "Quem Ama os Animais: Yasminzinha",
       "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Reluz",
+        "url": "https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP"
+      },
+      "artists": [
+        {
+          "name": "Mara Maravilha",
+          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+        }
+      ],
+      "duration_ms": 226403,
+      "name": "Rei Davi",
+      "url": "https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK"
     },
     {
       "added_at": "2024-11-29 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 11249,
+  "num_followers": 11264,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAD1V5PrzXhd9oraGG0AbeWy",
+  "snapshot_id": "Z1eEgAAAAABVQSOxMjdoUDm/bb6jAgUg",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bank Statements",
         "url": "https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 265168,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
     },
     {
       "added_at": null,

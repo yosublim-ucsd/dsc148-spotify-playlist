@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 673677,
+  "num_followers": 673765,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAABpyQ8n2KUvWXMhEyBRR0il",
+  "snapshot_id": "Z1eEgAAAAACuEAZwFtkFJWZradyhHrog",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 78293,
       "name": "A Cinema in Buenos Aires, 26 July 1952",
       "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Vogue - Edit",
-      "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -667,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 278135,
-      "name": "You'll See",
-      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Erotica (PA Version)",
         "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 324733,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
     },
     {
       "added_at": null,
@@ -735,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "This Used to Be My Playground",
-      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 337840,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "This Used to Be My Playground",
+      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
     },
     {
       "added_at": null,
@@ -943,6 +927,22 @@
       "duration_ms": 216026,
       "name": "Love Profusion",
       "url": "https://open.spotify.com/track/5NDS6qHwbOmVqZgTvtC66y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Ghosttown",
+      "url": "https://open.spotify.com/track/4yDLW1kpgN7RGa6wCtxlL8"
     }
   ],
   "unique_name": "This Is Madonna",

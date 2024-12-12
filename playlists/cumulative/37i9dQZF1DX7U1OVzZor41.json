@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 265521,
       "name": "\u5c0f\u5e78\u904b",
       "url": "https://open.spotify.com/track/1ZeVIrCWzEmsJexkrgvjFv"
@@ -1850,6 +1850,24 @@
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/52yAKumXlqPjUsIBlmiMvo"
+    },
+    {
+      "album": {
+        "name": "\u4f9d\u7136\u8303\u7279\u897f",
+        "url": "https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "\u9000\u5f8c",
+      "url": "https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS"
     },
     {
       "album": {

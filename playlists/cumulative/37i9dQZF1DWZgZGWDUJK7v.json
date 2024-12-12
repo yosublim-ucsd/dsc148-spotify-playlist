@@ -364,7 +364,7 @@
       },
       "artists": [
         {
-          "name": "THE NEW SIX",
+          "name": "TNX",
           "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
         }
       ],
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 170942,
       "name": "High Class (Original Webtoon Soundtrack) Pt. 1 - Underdog",
       "url": "https://open.spotify.com/track/4ZqYZcsXPkRuHltMQUhes3"
@@ -3260,6 +3260,24 @@
       "duration_ms": 220745,
       "name": "Today's Weather (From \"Spring Is Gone\" [Original Soundtrack])",
       "url": "https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl"
+    },
+    {
+      "album": {
+        "name": "True Love (Secret Relationships X LEECHANGSUB)",
+        "url": "https://open.spotify.com/album/1AAfbPieDQPdaVRN42qumJ"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/0jmR8cd6Ro14pAQY1M5cIe"
     },
     {
       "album": {

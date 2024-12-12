@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 142 songs - 6 hr 57 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 151 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,14 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 140 | [Gang Shit](https://open.spotify.com/track/0igHhcoLY0yHVPHiPvGuXx) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:40 |
 | 141 | [Gang](https://open.spotify.com/track/7m2fy0MughZKLySpzhq8bt) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj), [LOOK KILLA](https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf) | [Lost Files 3](https://open.spotify.com/album/1nhYrOuf367Rl1VDQ0iAuS) | 2:49 |
 | 142 | [POA](https://open.spotify.com/track/52SuMdAYS2jvKQhODi0ARY) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:08 |
+| 143 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 |
+| 144 | [Crushed Up](https://open.spotify.com/track/7wcyO1rrH3Ru4t659IjG41) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:29 |
+| 145 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 |
+| 146 | [Talk Shit Like a Preacher](https://open.spotify.com/track/2aR4gdgyCgacqHGqUZ91YS) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:12 |
+| 147 | [Stick to the Models](https://open.spotify.com/track/0F7FlaQBiyNkV8iakTocsW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:16 |
+| 148 | [Goin Dummi](https://open.spotify.com/track/6QFzUXTIZXOLesQcgmGOsR) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:41 |
+| 149 | [Unicorn Purp \(feat\. Young Thug & Gunna\)](https://open.spotify.com/track/2U3LJfQB0ALLxC7Yy0QW7l) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 4:06 |
+| 150 | [Splash Warning \(feat\. Future, Roddy Ricch and Young Thug\)](https://open.spotify.com/track/6cPnE82DKBLd7sg02ZNg8K) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 2:48 |
+| 151 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
 
-Snapshot ID: `AAAdr+QmWu/+W1pwyBpVdf/l5ohISMt+`
+Snapshot ID: `AAAduMIwc3sUFfZsOAmCsBX2jB6Jmdm6`

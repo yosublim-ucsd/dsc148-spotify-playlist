@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f\u200d\ud83d\udd25 what if i told you this was george clanton and TV Girl \u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 1173014,
+  "num_followers": 1172989,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1cslAAAAAD2IvfBaGPwzOztH/gKTKFE",
+  "snapshot_id": "Z1nZ5gAAAABW+puLRpInabnzUQv3E06Z",
   "tracks": [
     {
       "added_at": "2024-12-03 18:00:02",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
+      "added_at": "2024-12-11 18:28:53",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 247190,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
+    {
       "added_at": "2024-12-05 20:10:07",
       "album": {
         "name": "Little Acts Of Violence",
@@ -139,6 +155,22 @@
       "duration_ms": 181090,
       "name": "OCTOBER",
       "url": "https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW"
+    },
+    {
+      "added_at": "2024-12-11 18:28:53",
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-12-03 18:00:02",
@@ -1581,22 +1613,6 @@
       "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 180850,
-      "name": "Slugger",
-      "url": "https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU"
-    },
-    {
       "added_at": "2024-09-18 17:23:39",
       "album": {
         "name": "Video Games (Spotify Singles)",
@@ -2167,22 +2183,6 @@
       "duration_ms": 147969,
       "name": "I liked it",
       "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-07-26 04:00:00",

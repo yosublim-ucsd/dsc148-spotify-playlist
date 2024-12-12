@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "Blast Your Ghetto Remixes",
+        "url": "https://open.spotify.com/album/4enhNg6Vmjhuy726jhl4dM"
+      },
+      "artists": [
+        {
+          "name": "\u00c4l Jawala",
+          "url": "https://open.spotify.com/artist/4bTTaQVaf03641We5lnIRI"
+        },
+        {
+          "name": "Gypsy Hill",
+          "url": "https://open.spotify.com/artist/5yhampTqXyor0WERIKV7rH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228739,
+      "name": "Backstabbers - Gypsy Hill Remix",
+      "url": "https://open.spotify.com/track/5xbmU2vkPyswTMo5Gmjipf"
+    },
+    {
+      "album": {
         "name": "Three Letters From Sarajevo (Opus 1)",
         "url": "https://open.spotify.com/album/2kg4rl6ejCMSjrj1lfHnam"
       },
@@ -2692,7 +2714,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 213680,
       "name": "Raska Yu (feat. Ara Malikian)",
       "url": "https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH"

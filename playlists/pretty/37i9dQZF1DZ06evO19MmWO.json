@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAABgE99MggwpF3v76EWfZJSN",
+  "snapshot_id": "Z1eEgAAAAABDcq9srxlNhTXvQGrGGaFG",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Evans Shuffle",
-      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
+      "duration_ms": 185133,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues With A Feelin'",
-        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Come Back Baby",
-      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
+      "duration_ms": 132146,
+      "name": "Evans Shuffle",
+      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
     },
     {
       "added_at": null,

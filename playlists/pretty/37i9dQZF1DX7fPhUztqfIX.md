@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: 7 Hills Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,906 likes - 67 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,946 likes - 67 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

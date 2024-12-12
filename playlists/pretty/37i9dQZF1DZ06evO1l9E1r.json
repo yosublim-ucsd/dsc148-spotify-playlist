@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2266,
+  "num_followers": 2267,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAACFCFtfhwBZ6GbGDOjHjm6s",
+  "snapshot_id": "Z1eEgAAAAACIlmx4E+vlLXu1VdhI5I2o",
   "tracks": [
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 74153,
-      "name": "Old Neighborhood",
-      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
+      "duration_ms": 98648,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 98648,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM"
+      "duration_ms": 74153,
+      "name": "Old Neighborhood",
+      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
     },
     {
       "added_at": null,
@@ -983,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 96893,
-      "name": "The Execution",
-      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+      "duration_ms": 121760,
+      "name": "Ravine",
+      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
     },
     {
       "added_at": null,
@@ -1015,22 +1019,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 121760,
-      "name": "Ravine",
-      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
+      "duration_ms": 96893,
+      "name": "The Execution",
+      "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
     },
     {
       "added_at": null,

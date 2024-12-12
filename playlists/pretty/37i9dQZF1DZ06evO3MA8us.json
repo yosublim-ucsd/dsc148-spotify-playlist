@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34074,
+  "num_followers": 34077,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAAu5S5lNGLyrwMp0L69UN55",
+  "snapshot_id": "Z1eEgAAAAAALZT90erZmZNuNQUciR+DO",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/7AbqKnlBMc2QhTg3V6SjEv"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Even So Come (Live)",
-        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Shout Hosanna - Live",
-      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Thousand Hallelujahs",
-        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 310409,
-      "name": "A Thousand Hallelujahs - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Even So Come (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 283293,
       "name": "How He Loves - Live",
       "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Thousand Hallelujahs",
+        "url": "https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 310409,
+      "name": "A Thousand Hallelujahs - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whole Heart (Live)",
         "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 277920,
       "name": "All My Hope - Live",
       "url": "https://open.spotify.com/track/0vlrjt3fBV68KuXKLHN6lX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "The Stand - Live",
-      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Heart (Live)",
-        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 526306,
-      "name": "Great Are You Lord - Live",
-      "url": "https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 378412,
       "name": "Gratitude - Live From Passion 2023",
       "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Heart (Live)",
+        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 526306,
+      "name": "Great Are You Lord - Live",
+      "url": "https://open.spotify.com/track/5IUBzdrhj5rFz87PJjLpQH"
     }
   ],
   "unique_name": "This Is Passion",

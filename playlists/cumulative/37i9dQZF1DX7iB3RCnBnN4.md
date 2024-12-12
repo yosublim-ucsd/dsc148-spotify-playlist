@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\.  Cover: Patrick Watson
+> The Weeknd makes history as the first artist with 20+ songs in the Billions Club.
 
 877 songs - 2 day 5 hr 5 min
 

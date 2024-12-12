@@ -1,12 +1,12 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 35872,
+  "num_followers": 35896,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z02oPAAAAAAGPulFN/i2pR+Y0KkrNvbq",
+  "snapshot_id": "Z1n3twAAAACs6PNKpK1HG21XBtbUV8D5",
   "tracks": [
     {
       "added_at": "2024-11-28 16:32:28",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2EfmyRWheMtmVTCIsptsLi"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 198853,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -831,22 +831,18 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -883,18 +879,22 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
         "name": "Hard Believer",
         "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/1CbEGXLeN2Ql3WKcNxecHv"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 218640,
       "name": "With You",
       "url": "https://open.spotify.com/track/21YWbLRtyRJl9PAtxUkDEf"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -1747,22 +1747,6 @@
       "duration_ms": 194546,
       "name": "The Love You Left Behind",
       "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/1d1vI3sQkPspPDHjZEi5SE"
-      },
-      "artists": [
-        {
-          "name": "Krezip",
-          "url": "https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX"
-        }
-      ],
-      "duration_ms": 194785,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/51wraBsCPN2svE8Ircwmlr"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -1979,34 +1963,18 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
       "artists": [
         {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2027,6 +1995,22 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
         "name": "IDK You Yet",
         "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 295502,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv"
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2087,6 +2071,22 @@
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2139,38 +2139,6 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
         "name": "Nothing Really Matters",
         "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
       },
@@ -2183,22 +2151,6 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2223,18 +2175,18 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "Amigo",
-        "url": "https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg"
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
       },
       "artists": [
         {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 238260,
-      "name": "Nicotine",
-      "url": "https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2335,6 +2287,22 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
+        "name": "7 Layers (Special Edition)",
+        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Let The River In",
+      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/3WZAu7wzI2XHSu1Lr8BV3S"
       },
@@ -2351,22 +2319,6 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic Version",
       "url": "https://open.spotify.com/track/3mQrxkMfh6zQyqtL2S1QCz"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
-        "name": "7 Layers (Special Edition)",
-        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Let The River In",
-      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
     },
     {
       "added_at": "2024-11-28 16:32:28",
@@ -2435,22 +2387,6 @@
     {
       "added_at": "2024-11-28 16:32:28",
       "album": {
-        "name": "All In Good Time",
-        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 225065,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
-    },
-    {
-      "added_at": "2024-11-28 16:32:28",
-      "album": {
         "name": "538 Hitzone 52",
         "url": "https://open.spotify.com/album/77uxqg6rzVeb3gnAtue7ss"
       },
@@ -2463,6 +2399,22 @@
       "duration_ms": 205440,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/4PwNy6Qj8bdkyRXuwNXeEO"
+    },
+    {
+      "added_at": "2024-11-28 16:32:28",
+      "album": {
+        "name": "All In Good Time",
+        "url": "https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 225065,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
     },
     {
       "added_at": "2024-11-28 16:32:28",

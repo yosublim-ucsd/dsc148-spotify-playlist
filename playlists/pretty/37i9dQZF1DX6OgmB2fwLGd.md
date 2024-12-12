@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Nettspend\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,466 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,346 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 |
-| 2 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx), [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 |
+| 2 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 |
 | 3 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |
 | 4 | [CALYPSO](https://open.spotify.com/track/5Ryyh301NTp03Ays0ovWbS) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [CALYPSO](https://open.spotify.com/album/7bEsA9QL79CqmMpFADe8LU) | 1:38 |
-| 5 | [Finessed](https://open.spotify.com/track/5lj9BWDIr9Nu9WCKUIW5fx) | [yuke](https://open.spotify.com/artist/3gJ7vM5lzXzYuYpnPy9WAL), [Boolymon](https://open.spotify.com/artist/72QempmdftUoUn4dbK6PPg) | [Cheetah World](https://open.spotify.com/album/7hWlhGepPvB5ushvzHrYKT) | 2:10 |
+| 5 | [Finessed](https://open.spotify.com/track/5lj9BWDIr9Nu9WCKUIW5fx) | [yuke](https://open.spotify.com/artist/3gJ7vM5lzXzYuYpnPy9WAL) | [Cheetah World](https://open.spotify.com/album/7hWlhGepPvB5ushvzHrYKT) | 2:10 |
 | 6 | [iCarly](https://open.spotify.com/track/0kYiY23J2ZaMAsfDZaqtxQ) | [donavns](https://open.spotify.com/artist/5Dvwt5iL7l5eban7qGzbo1) | [iCarly](https://open.spotify.com/album/4MezD5wwr1BJTb5YKmTxUj) | 1:37 |
 | 7 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |
 | 8 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 |

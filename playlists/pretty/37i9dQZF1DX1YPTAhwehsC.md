@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,654 likes - 96 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,692 likes - 96 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

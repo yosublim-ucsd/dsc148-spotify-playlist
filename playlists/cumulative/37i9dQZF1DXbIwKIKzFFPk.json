@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-07",
-  "description": "Music from \"BLEACH\" !\u300cBLEACH\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u24b8\u4e45\u4fdd\u5e2f\u4eba\uff0f\u96c6\u82f1\u793e\u30fb\u30c6\u30ec\u30d3\u6771\u4eac\u30fb\uff44\uff45\uff4e\uff54\uff53\uff55\u30fb\u3074\u3048\u308d",
+  "description": "Music from \"BLEACH\" !\u300cBLEACH\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u4e45\u4fdd\u5e2f\u4eba\uff0f\u96c6\u82f1\u793e\u30fb\u30c6\u30ec\u30d3\u6771\u4eac\u30fb\uff44\uff45\uff4e\uff54\uff53\uff55\u30fb\u3074\u3048\u308d",
   "name": "BLEACH",
   "tracks": [
     {
@@ -38,6 +38,42 @@
       "duration_ms": 85040,
       "name": "\"Lucifers Dance\" Pt. C_Opus1",
       "url": "https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc"
+    },
+    {
+      "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259653,
+      "name": "1106 TYBW CH united",
+      "url": "https://open.spotify.com/track/3duulixDjQhzgXeSvkLYqA"
+    },
+    {
+      "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161080,
+      "name": "1130 TYBW full orchestra choir",
+      "url": "https://open.spotify.com/track/2fu4MJym740h2HZrAglZBW"
     },
     {
       "album": {
@@ -254,6 +290,24 @@
       "duration_ms": 219093,
       "name": "clavar la espada",
       "url": "https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY"
+    },
+    {
+      "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Cometh the hour - avant garde 2023",
+      "url": "https://open.spotify.com/track/2qECI47hHx61BnnEF7E2Xc"
     },
     {
       "album": {
@@ -805,6 +859,46 @@
     },
     {
       "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        },
+        {
+          "name": "Hazel Fernandes",
+          "url": "https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Number One - Bankai",
+      "url": "https://open.spotify.com/track/3w5Fha9feEdRp6FZ29tU2O"
+    },
+    {
+      "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122573,
+      "name": "On the precipice - orchestra 2022",
+      "url": "https://open.spotify.com/track/3H9YXcstt9Zhr760pyeIVM"
+    },
+    {
+      "album": {
         "name": "TV Animation BLEACH Original Soundtrack 1",
         "url": "https://open.spotify.com/album/7Bm7S7pnSetysRgACOpWtD"
       },
@@ -1036,6 +1130,24 @@
       "duration_ms": 168613,
       "name": "soundscape to ardor",
       "url": "https://open.spotify.com/track/6UdgxspGnRdQ1t6nxCNAFG"
+    },
+    {
+      "album": {
+        "name": "TV Animation BLEACH THE BLOOD WARFARE Original Soundtrack \u2160",
+        "url": "https://open.spotify.com/album/0qmiu9xV3gQ0N3R4xOx62N"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173626,
+      "name": "Soundscape to ardor - harp 2022",
+      "url": "https://open.spotify.com/track/6UZc6aE3Dx1hXcHOa7zvYq"
     },
     {
       "album": {

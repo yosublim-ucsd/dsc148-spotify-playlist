@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 95371,
+  "num_followers": 95387,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Picture Show",
-        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everybody Talks",
-      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Picture Show",
+        "url": "https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everybody Talks",
+      "url": "https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
         "name": "Mature Themes",
         "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 287426,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/1PsuantEKG5IglWPfaPmMb"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/0nSsI7f2BJRXJUeNisWUWL"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Young North - EP",
         "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 191773,
       "name": "Paint",
       "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/1PsuantEKG5IglWPfaPmMb"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/0nSsI7f2BJRXJUeNisWUWL"
     },
     {
       "added_at": "2024-03-18 13:12:36",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/6FcWwxN9S3rYzCbXNcWDgu"
+      },
+      "artists": [
+        {
+          "name": "Anna Pancaldi",
+          "url": "https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246757,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5PmctfM9V5l4oWj95mUGYB"
+    },
+    {
+      "album": {
         "name": "Black Soul Ceremony",
         "url": "https://open.spotify.com/album/2Y95VVr68GKBNl0x9KEtTw"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6704,
+  "num_followers": 6713,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAB96XuAESXrWCu07kudVH6N",
+  "snapshot_id": "Z1eEgAAAAADdKKB7TZnyWv7OruclHV+H",
   "tracks": [
     {
       "added_at": null,
@@ -251,7 +251,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando (live)",
+        "name": "Bailando (Live)",
         "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
       "artists": [
@@ -265,7 +265,7 @@
         }
       ],
       "duration_ms": 189867,
-      "name": "Bailando",
+      "name": "Bailando - Live",
       "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
     },
     {
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
+        "name": "Capuchino",
+        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
       },
       "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Ni\u00f1a Buena",
-      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
+      "duration_ms": 204799,
+      "name": "Capuchino",
+      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
     },
     {
       "added_at": null,
@@ -751,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capuchino",
-        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
       "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 204799,
-      "name": "Capuchino",
-      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
+      "duration_ms": 260000,
+      "name": "Ni\u00f1a Buena",
+      "url": "https://open.spotify.com/track/6PTekRdiemAJG12yFBHmsz"
     },
     {
       "added_at": null,

@@ -354,10 +354,28 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 161948,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0Oj2M3M04NoakUWdC9CQa9"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161948,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crL6Uy4ghQGJiuUHNJIqK"
     },
     {
       "album": {

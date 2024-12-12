@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176162,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/0hsKN2eNws8lHL7h3Pdof6"
+    },
+    {
+      "album": {
         "name": "Powered Up",
         "url": "https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N"
       },
@@ -2627,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Nine Track Mind (Special Edition)",
+        "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q"
+    },
+    {
+      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD"
       },
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 190106,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/7IgXxU2OBCJhzNilFIAJw7"

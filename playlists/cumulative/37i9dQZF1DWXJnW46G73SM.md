@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-1,251 songs - 2 day 21 hr 48 min
+1,252 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,7 +795,7 @@
 | [Ya Dayra](https://open.spotify.com/track/1zeJfLgJYRjCSQGl6mxdke) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra](https://open.spotify.com/album/12YT8SErqyPtdaoc6XMEqu) | 3:26 | 2022-12-26 | 2023-02-17 |
 | [Ya Dayra \- Message Song Version](https://open.spotify.com/track/0WYrqy3tAKpKlOShwpWfoO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Ya Dayra \(Message Song Version\)](https://open.spotify.com/album/769F7hOS4J3PDMufEAKg8d) | 1:02 | 2022-12-23 | 2023-02-17 |
 | [Ya Donia](https://open.spotify.com/track/34gnow61KB7TVrIwK6bZY5) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Ya Donia](https://open.spotify.com/album/4sxPY1nT8OH7g8XwfHFx8T) | 3:09 | 2023-07-13 | 2023-08-09 |
-| [Ya Donia 7leny](https://open.spotify.com/track/4AGuSB5OGxaZus3WMZ2FU7) | [HOBBZ](https://open.spotify.com/artist/2dftizGDakzjRIzbr0TEEF) | [MA5TARTSH KDA](https://open.spotify.com/album/5NVKOVVgAWIhIh2nS5M3jh) | 2:49 | 2024-12-06 |  |
+| [Ya Donia 7leny](https://open.spotify.com/track/4AGuSB5OGxaZus3WMZ2FU7) | [HOBBZ](https://open.spotify.com/artist/2dftizGDakzjRIzbr0TEEF) | [MA5TARTSH KDA](https://open.spotify.com/album/5NVKOVVgAWIhIh2nS5M3jh) | 2:49 | 2024-12-06 | 2024-12-12 |
 | [Ya Gamalak \- Acoustic Version](https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Ya Gamalak \(Acoustic Version\)](https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT) | 2:04 | 2023-07-28 | 2023-09-07 |
 | [Ya Ghazal](https://open.spotify.com/track/0qqlxbChmf6iUkzvbdYQ44) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG) | [Ya Ghazal](https://open.spotify.com/album/1PdOgjmgGXw7p6Kp3jCV0a) | 4:01 | 2023-08-18 | 2023-09-30 |
 | [Ya Habiby](https://open.spotify.com/track/5uKVFyjQe5ZHYE6mJrND6F) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Khafage](https://open.spotify.com/artist/4Ct7jqCnotj7eF7J0ZKC5D) | [Ya Habiby](https://open.spotify.com/album/3Gq4AIUi3aVE1Ty5X0Z1yv) | 3:37 | 2024-02-01 | 2024-03-01 |
@@ -1226,6 +1226,7 @@
 | [ولا بنساكي](https://open.spotify.com/track/09FGfJCQVrkKPdkArrh4qE) | [Karizma](https://open.spotify.com/artist/1eh8Uxg9vm51TTf9IRfiUq), [Begozz](https://open.spotify.com/artist/75b1o8drf2H0usRlJBWJTF) | [ولا بنساكي](https://open.spotify.com/album/6JiwY6J3f7r8pip8OLP8Lq) | 2:42 | 2024-10-18 | 2024-12-06 |
 | [ولا يهمك](https://open.spotify.com/track/1dwGantu2uucmi2Ht4HzB5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [ولا يهمك](https://open.spotify.com/album/55pWLIo9oq0nw2V8pRdxnB) | 3:51 | 2024-02-09 | 2024-04-11 |
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-03 | 2023-05-05 |
+| [ومتبعدنيش](https://open.spotify.com/track/0K3qRetrs7ZKQq2FFUiDbr) | [Zad](https://open.spotify.com/artist/2oiLaoEq9dJjrRhVuvAZMZ) | [ومتبعدنيش](https://open.spotify.com/album/4JZUx5zH6UvRfbTsnwJ2DQ) | 3:52 | 2024-12-11 |  |
 | [ومعاك](https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [ومعاك](https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10) | 3:55 | 2023-09-22 | 2024-01-02 |
 | [يا أساسى](https://open.spotify.com/track/1lyq4cA8cTh0zIGmpRdoFQ) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [يا أساسى](https://open.spotify.com/album/1xFBA54K4z0OJuqarWutgp) | 3:48 | 2024-02-01 | 2024-03-01 |
 | [يا بنتي](https://open.spotify.com/track/10QCLEQ4Lmo2vIB25DvU8L) | [Mai Selim](https://open.spotify.com/artist/19SEEQWYMtQ1spkni19CCu) | [يا بنتي](https://open.spotify.com/album/40YSCvlRc50vEqpQzqiIN8) | 3:15 | 2023-03-15 | 2023-05-11 |

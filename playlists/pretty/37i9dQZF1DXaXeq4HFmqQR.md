@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: KUINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,831 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,835 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 25 | [Queena](https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Queena](https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV) | 4:05 |
 | 26 | [Oxígeno](https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Oxígeno](https://open.spotify.com/album/5akFysqbV2g2cENngJMIbI) | 3:19 |
 | 27 | [La Favorita de Dios](https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [La Favorita de Dios](https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI) | 2:14 |
-| 28 | [Caviar](https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Caviar](https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4) | 2:37 |
+| 28 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
 | 29 | [LA JEFA](https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:00 |
 | 30 | [BBY HÁBLAME](https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [BBY HÁBLAME](https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX) | 3:30 |
 | 31 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
 | 32 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
 | 33 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
 | 34 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
-| 35 | [El Ultimo](https://open.spotify.com/track/0EYdD1EU7sFUkZM85GTB6f) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [El Ultimo](https://open.spotify.com/album/4nLe8Q4Hc6mCIJBpIDpS3z) | 3:02 |
+| 35 | [Caviar](https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Caviar](https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4) | 2:37 |
 
 Snapshot ID: `ZyrbsAAAAAABQ4Lu1UMg2t8v/97Eaoy2`

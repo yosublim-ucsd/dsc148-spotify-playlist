@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 37258,
+  "num_followers": 37321,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "El Burrito De Bel\u00e9n",
+      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
         "name": "Navidad - Jes\u00fas Es el Motivo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5eEp9QY1Uw8G10eV2X6bR8"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 253475,
       "name": "Emmanuel (Dios con nosotros)",
       "url": "https://open.spotify.com/track/72eIjPl2InU2XOg8J5HELL"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "El Burrito De Bel\u00e9n",
-      "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -799,38 +799,6 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "AL MUNDO PAZ",
-        "url": "https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3"
-      },
-      "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "AL MUNDO PAZ",
-      "url": "https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
-        "name": "El Primer Noel",
-        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "El Primer Noel",
-      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
         "name": "Rey de Gloria",
         "url": "https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB"
       },
@@ -851,6 +819,42 @@
       "duration_ms": 202674,
       "name": "Rey de Gloria",
       "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
+        "name": "AL MUNDO PAZ",
+        "url": "https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3"
+      },
+      "artists": [
+        {
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "AL MUNDO PAZ",
+      "url": "https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -879,6 +883,22 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
+        "name": "El Primer Noel",
+        "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "El Primer Noel",
+      "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
         "name": "Pa'que Mi Pueblo Cante",
         "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
       },
@@ -895,18 +915,22 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Ella Dijo S\u00ed",
-        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
+        "name": "Dios Anduvo en Pa\u00f1ales",
+        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
       },
       "artists": [
         {
           "name": "Pablo Martinez",
           "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        },
+        {
+          "name": "Paola Pablo",
+          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
         }
       ],
-      "duration_ms": 166375,
-      "name": "Ella Dijo S\u00ed",
-      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
+      "duration_ms": 186712,
+      "name": "Dios Anduvo en Pa\u00f1ales",
+      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -923,26 +947,6 @@
       "duration_ms": 238524,
       "name": "Navidad Lleg\u00f3",
       "url": "https://open.spotify.com/track/5GHpwFfnHcj7kC4RaDkQ4u"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Dios Anduvo en Pa\u00f1ales",
-        "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
+        "name": "Ella Dijo S\u00ed",
+        "url": "https://open.spotify.com/album/4JlriW0TmjbPeoGwfXMhRv"
       },
       "artists": [
         {
           "name": "Pablo Martinez",
           "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        },
-        {
-          "name": "Paola Pablo",
-          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
         }
       ],
-      "duration_ms": 186712,
-      "name": "Dios Anduvo en Pa\u00f1ales",
-      "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
+      "duration_ms": 166375,
+      "name": "Ella Dijo S\u00ed",
+      "url": "https://open.spotify.com/track/6m4U9w2dmzS6qqjYVhJCLA"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -1235,34 +1235,18 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Navidad Con Gospa",
-        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
+        "name": "Venid Fieles Todos",
+        "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
       },
       "artists": [
         {
-          "name": "Gospa",
-          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 187204,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
-        "name": "Mi Salvador",
-        "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
-      },
-      "artists": [
-        {
-          "name": "Familia Emanuel Worship",
-          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
-        }
-      ],
-      "duration_ms": 247330,
-      "name": "Mi Salvador",
-      "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
+      "duration_ms": 259946,
+      "name": "Venid Fieles Todos",
+      "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -1283,34 +1267,34 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Venid Fieles Todos",
-        "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
+        "name": "Mi Salvador",
+        "url": "https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
         }
       ],
-      "duration_ms": 259946,
-      "name": "Venid Fieles Todos",
-      "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
+      "duration_ms": 247330,
+      "name": "Mi Salvador",
+      "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
     },
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Se Oye el Anuncio",
-        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
+        "name": "Navidad Con Gospa",
+        "url": "https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6"
       },
       "artists": [
         {
-          "name": "Juan Carlos Rosa",
-          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
+          "name": "Gospa",
+          "url": "https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ"
         }
       ],
-      "duration_ms": 222375,
-      "name": "Se Oye el Anuncio",
-      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
+      "duration_ms": 187204,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -1327,6 +1311,22 @@
       "duration_ms": 264661,
       "name": "Nattyvidad",
       "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
+        "name": "Se Oye el Anuncio",
+        "url": "https://open.spotify.com/album/5iB7CsbvyOAOb3Tx5JO11s"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Rosa",
+          "url": "https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "Se Oye el Anuncio",
+      "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
     },
     {
       "added_at": "2024-12-08 09:09:40",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-08 09:09:40",
       "album": {
-        "name": "Hosanna (Vamos a Bel\u00e9n)",
-        "url": "https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        }
-      ],
-      "duration_ms": 226870,
-      "name": "Hosanna (Vamos a Bel\u00e9n)",
-      "url": "https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j"
-    },
-    {
-      "added_at": "2024-12-08 09:09:40",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2024-12-08 09:09:40",
+      "album": {
+        "name": "Hosanna (Vamos a Bel\u00e9n)",
+        "url": "https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        }
+      ],
+      "duration_ms": 226870,
+      "name": "Hosanna (Vamos a Bel\u00e9n)",
+      "url": "https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j"
     },
     {
       "added_at": "2024-12-08 09:09:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=kGiiYNbIRHaQfs3XXvzM\_A">Eloff</a> & <a href="https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG?si=raD6bQFASt6G5dJABkjt1w">Early B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,777 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,845 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

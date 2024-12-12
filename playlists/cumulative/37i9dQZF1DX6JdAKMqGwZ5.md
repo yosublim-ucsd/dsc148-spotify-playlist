@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Chill Chicos.
 
-268 songs - 13 hr 57 min
+269 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Morir en otra habitación](https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [Morir en otra habitación](https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN) | 3:19 | 2024-10-31 | 2024-11-15 |
 | [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-28 |  |
 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-31 | 2024-11-22 |
+| [Nada Que Perder](https://open.spotify.com/track/5IM7yXx4B65vDnuGipiZs2) | [REYKO](https://open.spotify.com/artist/1asECxd7DPIjTLu8NTc3ZA) | [Nada Que Perder](https://open.spotify.com/album/3If9g84i9PdsjEkFiiF0TH) | 3:24 | 2024-12-05 |  |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-22 | 2024-09-20 |
 | [Ni una sola palabra](https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V) | [dani dicostas](https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl) | [Ni una sola palabra](https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g) | 3:31 | 2024-06-27 | 2024-11-22 |
@@ -266,7 +267,7 @@
 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 | 2024-11-21 |  |
 | [Volver](https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Volver](https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l) | 3:53 | 2024-06-27 |  |
 | [Volveréis](https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Volveréis](https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD) | 3:09 | 2024-07-25 | 2024-08-30 |
-| [Vértigo](https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Vértigo](https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI) | 3:04 | 2024-09-26 |  |
+| [Vértigo](https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Vértigo](https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI) | 3:04 | 2024-09-26 | 2024-12-12 |
 | [Wishlist](https://open.spotify.com/track/20aoleAxPtehxjAs1IPfOE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Wishlist](https://open.spotify.com/album/0wOc28ecs1pVaHSi16bUsA) | 2:30 | 2024-06-27 | 2024-08-02 |
 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 | 2024-06-27 | 2024-08-16 |
 | [YE YE](https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [YE YE](https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B) | 2:41 | 2024-08-29 | 2024-10-04 |

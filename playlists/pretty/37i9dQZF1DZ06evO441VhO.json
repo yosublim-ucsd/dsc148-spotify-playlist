@@ -1,29 +1,13 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 17268,
+  "num_followers": 17278,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAARE0e5L0x4gxEt3B0OwIOS",
+  "snapshot_id": "Z1eEgAAAAAAmzBxz23XYkqh39x4mLiw5",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,6 +123,22 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
       "duration_ms": 211760,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 210547,
-      "name": "Public Enemy Number One",
-      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
     }
   ],
   "unique_name": "This Is zebrahead",

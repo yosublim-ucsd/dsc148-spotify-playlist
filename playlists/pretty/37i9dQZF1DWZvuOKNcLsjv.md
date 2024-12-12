@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,358 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,354 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 32 | [呆然](https://open.spotify.com/track/2xsOV96ZRZ71FPovMs2ulO) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ), [Seiho](https://open.spotify.com/artist/7FkVFC94NENRWkpvIT1a7p) | [呆然](https://open.spotify.com/album/0OvYAZjfdWZ6vS1A1PEvFc) | 3:19 |
 | 33 | [上書きしちゃった](https://open.spotify.com/track/722e4w55BjchjugfieaaAX) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [いらないもの](https://open.spotify.com/album/3AFWkTfMAKf5T3rK32Wqhm) | 2:43 |
 | 34 | [Episode X](https://open.spotify.com/track/3lsd1CbDC5ejAOJhPn5dB9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Episode X](https://open.spotify.com/album/7ohQtSfUhD61t9OaO1jb39) | 3:22 |
-| 35 | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/track/4qku92xXACrwWVfh4JQXFW) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/album/41tUgk0AuMOt5JbjLAClco) | 3:49 |
+| 35 | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/track/4qku92xXACrwWVfh4JQXFW) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx), [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [TATTOO（feat\. 中森明菜）](https://open.spotify.com/album/41tUgk0AuMOt5JbjLAClco) | 3:49 |
 | 36 | [今夜はHearty Party \(feat\. ひかり\)](https://open.spotify.com/track/38lA3pwmZVRNQ9OTeYv6ec) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [今夜はHearty Party \(feat\. ひかり\)](https://open.spotify.com/album/3PQ48cj9CeKNdkOZthBeDt) | 4:52 |
 | 37 | [Shinsekai Yori](https://open.spotify.com/track/3NyKPMAryBkJg0Ium7AGgF) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Shinsekai Yori](https://open.spotify.com/album/2VeVY34DDraFTeX00ou7qY) | 3:34 |
 | 38 | [馬鹿の一つ覚え](https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [馬鹿の一つ覚え](https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK) | 4:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [誰かのとなり](https://open.spotify.com/track/4UGyTsx9kbR1uWUvddRdWO) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [誰かのとなり](https://open.spotify.com/album/1Xg6KK24iPOrsL41KabhlJ) | 3:13 |
 | 80 | [Caffeine Remix](https://open.spotify.com/track/4CaC0BY9ikmkV1DDK70HOo) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt) | [Caffeine Remix / Caffeine](https://open.spotify.com/album/1x2GSQSzycDmlkj3ToT0va) | 3:48 |
 
-Snapshot ID: `Z1G/8AAAAADE3d54Eai/A4mTw+T4F2kA`
+Snapshot ID: `Z1kiywAAAACAjn+FOs4zAiW1SdpYQpF+`

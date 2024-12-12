@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv\">Kaydence</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Dizzy Fae",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 181911,
       "name": "Alone",
       "url": "https://open.spotify.com/track/678hBD7LlMNofbRYXGwt7E"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 128000,
       "name": "Basic Rich",
       "url": "https://open.spotify.com/track/71pYVCk6Y2Di0Ogb7UycrE"
@@ -248,6 +248,36 @@
       "duration_ms": 312459,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1Akv2eZgYgprB8yaoCOMGL"
+    },
+    {
+      "album": {
+        "name": "Bring Me Up",
+        "url": "https://open.spotify.com/album/5YKinGGDEUTC2L89mfCODi"
+      },
+      "artists": [
+        {
+          "name": "Lovequest",
+          "url": "https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        },
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Doorly",
+          "url": "https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192203,
+      "name": "Bring Me Up",
+      "url": "https://open.spotify.com/track/42qgAWkBtLF0glWWhraBLM"
     },
     {
       "album": {
@@ -558,7 +588,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 220664,
       "name": "Higher (Ty Sunderland Remix)",
       "url": "https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM"
@@ -720,7 +750,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 209954,
       "name": "My Theme Song",
       "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
@@ -814,7 +844,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 262736,
       "name": "One Time",
       "url": "https://open.spotify.com/track/0tWzCEYjVzFQtcGfMXuaWb"
@@ -893,6 +923,42 @@
     },
     {
       "album": {
+        "name": "Right Side",
+        "url": "https://open.spotify.com/album/6Y0i2tKHXk1Ke6GYJfVHvF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121182,
+      "name": "Right Side",
+      "url": "https://open.spotify.com/track/0YwibcdL7dk6FywQ47xc86"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172055,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV"
+    },
+    {
+      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -940,7 +1006,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 193253,
       "name": "Somewhere With You",
       "url": "https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl"

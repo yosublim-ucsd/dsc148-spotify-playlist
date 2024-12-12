@@ -1,6 +1,6 @@
 {
   "description": "se ela t\u00e1 com uma amiga no pi\u00e3o, j\u00e1 sabe",
-  "num_followers": 1402513,
+  "num_followers": 1402595,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
-        "name": "A Dan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
+        "name": "A Dan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -1527,26 +1527,26 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "Rotina Maluca",
+        "url": "https://open.spotify.com/album/7eX1z4Y5Tq2hIN6CLUKcdz"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 136703,
-      "name": "Meu Problema",
-      "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
+      "duration_ms": 150209,
+      "name": "Rotina Maluca",
+      "url": "https://open.spotify.com/track/3XmvImic98fx2CEVCdWk5w"
     },
     {
       "added_at": "2024-12-06 14:51:52",
@@ -1579,6 +1579,30 @@
     {
       "added_at": "2024-12-06 14:51:52",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 136703,
+      "name": "Meu Problema",
+      "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
+    },
+    {
+      "added_at": "2024-12-06 14:51:52",
+      "album": {
         "name": "Mary Madalena",
         "url": "https://open.spotify.com/album/08TqIiclYI5jy7Dbu1bECt"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 261670,
       "name": "Mary Madalena",
       "url": "https://open.spotify.com/track/2fRo1ftUovGHSqDSVi9YcA"
-    },
-    {
-      "added_at": "2024-12-06 14:51:52",
-      "album": {
-        "name": "Rotina Maluca",
-        "url": "https://open.spotify.com/album/7eX1z4Y5Tq2hIN6CLUKcdz"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 150209,
-      "name": "Rotina Maluca",
-      "url": "https://open.spotify.com/track/3XmvImic98fx2CEVCdWk5w"
     },
     {
       "added_at": "2024-12-06 14:51:52",

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/5wLFq2Gu7YomnXRw8wwX6g) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [100 Years](https://open.spotify.com/album/3bpXxgMyuQNlM1EdM7VI7Y) | 3:42 | 2022-04-25 | 2023-01-25 |
-| [18 Years](https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw) | [Annie Dressner](https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS), [Polly Paulusma](https://open.spotify.com/artist/5MtEhepub9ltryoNniab4a) | [18 Years](https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp) | 3:09 | 2024-01-03 |  |
+| [18 Years](https://open.spotify.com/track/6Np5EVd4L0tjVlFszx89mw) | [Annie Dressner](https://open.spotify.com/artist/485qrxEH6aQ5LWWZmGkkHS) | [18 Years](https://open.spotify.com/album/5zyOSTkiKS11XR03cnqQjp) | 3:09 | 2024-01-03 |  |
 | [2020 Vision](https://open.spotify.com/track/29Vi33QUaQ9yZu5HykilYk) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/219u46oAII4JcARqcsswFm) | 4:45 | 2022-04-25 | 2023-01-25 |
 | [2020 Vision](https://open.spotify.com/track/6RLxchD1PMUeM4p8x9tgU7) | [Danny Schmidt](https://open.spotify.com/artist/5th2qoAWV7PiSo8r9zlIRD) | [2020 Vision](https://open.spotify.com/album/0Y3eVuwwMZVxU6LsZmm307) | 4:45 | 2022-04-25 | 2022-07-29 |
 | [25](https://open.spotify.com/track/4YbjZUFdKbKm2bVjcqJs5o) | [Emma Charles](https://open.spotify.com/artist/6yEBQRTCukkD2H0rq3am89) | [25](https://open.spotify.com/album/4kCNwoPh5HIgSz7XbVQ3Rx) | 3:10 | 2021-02-23 | 2022-04-26 |

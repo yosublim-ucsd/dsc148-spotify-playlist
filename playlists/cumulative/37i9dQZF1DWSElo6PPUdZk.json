@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Jasmine Sandlas",
+  "description": "Catch the queens of Punjabi Pop. Cover: Pari Pandher",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 130500,
       "name": "100/100",
       "url": "https://open.spotify.com/track/1xyguLPK7K1VAjRKQc4eV2"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 203110,
       "name": "Badi Tanhai (From \"Shahkot\")",
       "url": "https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB"
@@ -762,6 +762,32 @@
       "duration_ms": 205609,
       "name": "Diwaane",
       "url": "https://open.spotify.com/track/63rDH882LRDY1HEGNDkW42"
+    },
+    {
+      "album": {
+        "name": "Doonghe Nain",
+        "url": "https://open.spotify.com/album/7l6KRIi6nYbdgcB3kRq5lO"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Doonghe Nain",
+      "url": "https://open.spotify.com/track/7ugbFVZe9heX2YO7rV7DKz"
     },
     {
       "album": {
@@ -1808,6 +1834,28 @@
       "duration_ms": 158447,
       "name": "Laare",
       "url": "https://open.spotify.com/track/4L6h1muuapCakyu81caEVN"
+    },
+    {
+      "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
     },
     {
       "album": {
@@ -2966,6 +3014,10 @@
         {
           "name": "Jaskiran",
           "url": "https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL"
+        },
+        {
+          "name": "The Masterz",
+          "url": "https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi"
         }
       ],
       "date_added": "2024-12-02",

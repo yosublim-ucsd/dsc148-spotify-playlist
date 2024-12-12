@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123672,
+  "num_followers": 123674,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Save My Life (Radio Edit)",
         "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 217973,
       "name": "Save My Life - Radio Edit",
       "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+        "name": "Still as the Night",
+        "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
+      "duration_ms": 197239,
+      "name": "Still as the Night",
+      "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1071,22 +1067,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Still as the Night",
-        "url": "https://open.spotify.com/album/5l3DHd5gYAwrkmM9OLQDDa"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 197239,
-      "name": "Still as the Night",
-      "url": "https://open.spotify.com/track/4DwSzfkzhnT6GF80xHVhQF"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Made Up My Mind",
-        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        },
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Made Up My Mind",
-      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
       },
@@ -1495,18 +1475,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
+        "name": "Made Up My Mind",
+        "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
       },
       "artists": [
         {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 199179,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
+      "duration_ms": 170858,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/0wgzf6u880hriqztlcfhPX"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
     },
     {
       "added_at": "2024-05-24 04:00:00",

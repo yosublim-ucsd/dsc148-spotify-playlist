@@ -1,13 +1,73 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv\">Kaydence</a>",
-  "num_followers": 2224,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Dizzy Fae",
+  "num_followers": 2235,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzOTkAAAAABGXktv47hhA6wPjAs1Cj5C",
+  "snapshot_id": "Z1nnCwAAAACd5A+GrLoNOeFS1hFXjTtU",
   "tracks": [
+    {
+      "added_at": "2024-12-11 19:24:59",
+      "album": {
+        "name": "Right Side",
+        "url": "https://open.spotify.com/album/6Y0i2tKHXk1Ke6GYJfVHvF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "duration_ms": 121182,
+      "name": "Right Side",
+      "url": "https://open.spotify.com/track/0YwibcdL7dk6FywQ47xc86"
+    },
+    {
+      "added_at": "2024-12-11 19:24:59",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 172055,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV"
+    },
+    {
+      "added_at": "2024-12-11 19:24:59",
+      "album": {
+        "name": "Bring Me Up",
+        "url": "https://open.spotify.com/album/5YKinGGDEUTC2L89mfCODi"
+      },
+      "artists": [
+        {
+          "name": "Lovequest",
+          "url": "https://open.spotify.com/artist/53aJGeGe9J6suHkjWJZ2aj"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        },
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Doorly",
+          "url": "https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "Bring Me Up",
+      "url": "https://open.spotify.com/track/42qgAWkBtLF0glWWhraBLM"
+    },
     {
       "added_at": "2024-11-12 17:42:40",
       "album": {
@@ -783,110 +843,6 @@
       "duration_ms": 223338,
       "name": "Everglades",
       "url": "https://open.spotify.com/track/1NbOtqGrqZn57jryxVXeSn"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/1IVfi5Dr68MXxiphQShO5p"
-      },
-      "artists": [
-        {
-          "name": "Vindata",
-          "url": "https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT"
-        },
-        {
-          "name": "Kaydence",
-          "url": "https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0tWzCEYjVzFQtcGfMXuaWb"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "Backstreets",
-        "url": "https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0"
-      },
-      "artists": [
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 209954,
-      "name": "My Theme Song",
-      "url": "https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "Original Songwriter Demos",
-        "url": "https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA"
-      },
-      "artists": [
-        {
-          "name": "Shane McAnally",
-          "url": "https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Somewhere With You",
-      "url": "https://open.spotify.com/track/5qDzMkr3H14W0j6XAT5Mjl"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "Songs For Women, Free Game For Niggas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/678hBD7LlMNofbRYXGwt7E"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "Basic Rich",
-        "url": "https://open.spotify.com/album/3TgHWdvJyjcrFnentt9jDf"
-      },
-      "artists": [
-        {
-          "name": "Matias Mora",
-          "url": "https://open.spotify.com/artist/7cPDCjz53xa2E5zYTWNpIb"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Basic Rich",
-      "url": "https://open.spotify.com/track/71pYVCk6Y2Di0Ogb7UycrE"
-    },
-    {
-      "added_at": "2024-08-28 19:53:26",
-      "album": {
-        "name": "Higher (Ty Sunderland Remix)",
-        "url": "https://open.spotify.com/album/5n6ZV6vOBb1pOmVWJ1MLNj"
-      },
-      "artists": [
-        {
-          "name": "VINCINT",
-          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
-        },
-        {
-          "name": "Ty Sunderland",
-          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
-        }
-      ],
-      "duration_ms": 220664,
-      "name": "Higher (Ty Sunderland Remix)",
-      "url": "https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM"
     }
   ],
   "unique_name": "GLOW Songwriters",

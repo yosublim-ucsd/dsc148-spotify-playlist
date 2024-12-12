@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Lyn x ISU(\ub9b0 x \uc774\uc218))",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: LEE DAE WHI, GRASS(\uc774\ub300\ud718, \uadf8\ub798\uc4f0))",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -3263,6 +3263,28 @@
     },
     {
       "album": {
+        "name": "SATELLITE",
+        "url": "https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW"
+      },
+      "artists": [
+        {
+          "name": "LEE DAE HWI",
+          "url": "https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB"
+        },
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165486,
+      "name": "SATELLITE",
+      "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
+    },
+    {
+      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy"
       },
@@ -4448,7 +4470,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 192173,
       "name": "Umm",
       "url": "https://open.spotify.com/track/6T0qUQBObZ55i4gCW5515D"

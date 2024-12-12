@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,835 likes - 63 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,850 likes - 63 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 5 | [Burned out](https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:06 |
 | 6 | [Friday to Monday](https://open.spotify.com/track/4Krv5sqJVJ3jrSP15bC6mU) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Friday to Monday](https://open.spotify.com/album/7okamLcUdT1FpqHEW9231G) | 3:02 |
 | 7 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 |
-| 8 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 |
+| 8 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 |
 | 9 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 |
 | 10 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 |
 | 11 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 |

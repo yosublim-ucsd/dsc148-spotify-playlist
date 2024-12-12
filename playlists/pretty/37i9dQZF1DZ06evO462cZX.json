@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42362,
+  "num_followers": 42359,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAB8DftEKOJg9xvskbJzSBXN",
+  "snapshot_id": "Z1eEgAAAAABfmJaKNQ1uBG7RIJ4/nyLG",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RBS",
         "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pasame La Botella",
         "url": "https://open.spotify.com/album/5nXFr1sJiXv7Kx0zDniuP0"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 209329,
       "name": "Pasame La Botella",
       "url": "https://open.spotify.com/track/6Y2JmUPmMFzAdqrDYKXFlF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
+      },
+      "artists": [
+        {
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 155827,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,

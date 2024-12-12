@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-446 songs - 1 day 1 hr 27 min
+446 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [20th Century Masters: The Millennium Collection: Best of Jr\. Walker & The All Stars](https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y) | 2:59 | 2021-04-30 | 2022-07-29 |
 | [How Will I Know](https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:52 | 2021-04-30 | 2023-04-26 |
 | [How Will I Know](https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:52 | 2021-04-30 | 2022-06-29 |
-| [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 | 2021-04-30 |  |
+| [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 | 2021-04-30 |  |
 | [Human](https://open.spotify.com/track/6mTAUBzuJPItP6At2jhe1J) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [The Coast Deluxe](https://open.spotify.com/album/2yW3NHrKeeOnLl45RTO1K5) | 3:52 | 2021-04-30 | 2022-06-06 |
 | [Humbled By Life](https://open.spotify.com/track/4wOr4pbPEvgsgk1ahw3uz5) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Humbled By Life](https://open.spotify.com/album/7LuJ6wP4gQ5voFpHbiCo3o) | 3:12 | 2021-04-30 | 2022-07-29 |
 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 | 2021-04-30 | 2024-04-19 |

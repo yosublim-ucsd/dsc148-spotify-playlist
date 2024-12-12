@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 154418,
       "name": "Crack com Mussilon",
       "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
@@ -3197,7 +3197,7 @@
     },
     {
       "album": {
-        "name": "Guess featuring Billie Eilish",
+        "name": "Guess featuring billie eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
@@ -3463,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "Toca Que Eu Quero Ouvir",
+        "url": "https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137293,
+      "name": "Im\u00e3 de Problema",
+      "url": "https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6"
+    },
+    {
+      "album": {
         "name": "Incendeia",
         "url": "https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm"
       },
@@ -3544,6 +3566,32 @@
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
+    },
+    {
+      "album": {
+        "name": "Jogadora Cara",
+        "url": "https://open.spotify.com/album/14RHyHpG3BjFDbJAGOVNOv"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2024-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128388,
+      "name": "Jogadora Cara",
+      "url": "https://open.spotify.com/track/6ZYqH6a64AgVtB8THlUyHB"
     },
     {
       "album": {
@@ -7360,7 +7408,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-12",
       "duration_ms": 196000,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"

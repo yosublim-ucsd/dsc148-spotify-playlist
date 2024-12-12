@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-147 songs - 10 hr 3 min
+148 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,13 +18,14 @@
 | [CHRISTMAS SPIRIT](https://open.spotify.com/track/2JXTOSVdTmQYI3I3BaNAte) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [CHRISTMAS SPIRIT &SWEET HARMONY](https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn) | 5:07 | 2023-12-12 | 2024-01-12 |
 | [continue](https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [continue](https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw) | 2:36 | 2023-12-12 |  |
 | [COSMO](https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [COSMO](https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ) | 2:21 | 2023-12-19 | 2024-12-06 |
-| [Crystals \- English ver.](https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals \(English ver.\)](https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S) | 3:39 | 2023-12-12 |  |
+| [Crystals \- English ver.](https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals \(English ver.\)](https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S) | 3:39 | 2023-12-12 | 2024-12-12 |
 | [DAD](https://open.spotify.com/track/3WZ2FIiQwNfyAgUtC7Dhkx) | [WATERLOO](https://open.spotify.com/artist/10gBoV6gqQZ4Jk3FcqQn1y) | [DAD](https://open.spotify.com/album/1iUMSrlu0gWfpt7lEV0trr) | 4:50 | 2023-12-19 | 2024-01-10 |
 | [Dark Enough to See the Stars](https://open.spotify.com/track/7Bk3CAkTH58ZdxHJIwvkA7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Winter](https://open.spotify.com/album/52FaHwCCUz8aMLMWlZgYzo) | 2:36 | 2023-12-12 | 2024-12-11 |
 | [Do They Know It's Christmas? \- 2024 Ultimate Mix](https://open.spotify.com/track/3cK10zROGQYpqa3vsU6bs9) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/3U7g9bUNcfD41XNVhtrwY7) | 4:58 | 2024-12-03 |  |
 | [escape](https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [blue night](https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH) | 3:36 | 2024-12-03 |  |
 | [Everything](https://open.spotify.com/track/1MlVQAK45PcFhl4yp1djKZ) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Everything](https://open.spotify.com/album/1ifijbnGiHkELLnZdiTvf5) | 7:00 | 2024-02-20 | 2024-12-04 |
 | [Everything](https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Super Best Records \-15th Celebration\-](https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8) | 7:00 | 2023-12-12 | 2024-04-19 |
+| [Faster than me](https://open.spotify.com/track/7lg9hwxLEZMoPOANzRmxLv) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Faster than me](https://open.spotify.com/album/5Mz8YFNCV1zqFwnWGCkSw5) | 2:38 | 2024-12-10 |  |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 | 2024-12-10 |  |
 | [Frozen](https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L), [Hiromi](https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j) | [Frozen](https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv) | 4:37 | 2023-12-21 |  |
@@ -111,7 +112,7 @@
 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 | 2024-02-20 |  |
 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 | 2024-01-30 |  |
 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 | 2023-12-12 |  |
-| [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [稲垣潤一](https://open.spotify.com/artist/5n5xHbTFi55VicjEGtzpzM) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-10 |  |
+| [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-10 |  |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-02-20 |  |
 | [サテライト](https://open.spotify.com/track/7HSvcRqLkfuPMnEYE94VSe) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [サテライト](https://open.spotify.com/album/1rP1IeXCkGThqMLYsHW6xJ) | 5:19 | 2023-12-12 | 2023-12-20 |
 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 | 2023-12-12 |  |

@@ -4,18 +4,20 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-107 songs - 5 hr 25 min
+110 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20\-nånting](https://open.spotify.com/track/2xUPpHWbm8dCqhNqZtk7B6) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [20\-nånting](https://open.spotify.com/album/5bJi4q157OiMjxJJVzbQCL) | 3:19 | 2024-11-18 |  |
 | [A Little Quiet](https://open.spotify.com/track/0P6Pu971F284ie00FvsP08) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [A Little Quiet](https://open.spotify.com/album/38zy7283UPL20D92UaoaBb) | 4:43 | 2024-01-29 |  |
 | [Afterparties](https://open.spotify.com/track/4LpBxHHAGSFh3hFE5cNYWF) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Afterparties](https://open.spotify.com/album/1Ix2PS3yt0KEfbKSzLYSf1) | 3:04 | 2024-01-29 |  |
+| [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 | 2024-12-11 |  |
 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 | 2024-01-29 |  |
 | [Bad For My Health \(Stripped\)](https://open.spotify.com/track/4vpQz6adwHuqzKcNiQvzOw) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad For My Health \(Stripped\)](https://open.spotify.com/album/5KaxWmfiDaHJqxiXc8Fn8g) | 2:16 | 2024-01-29 |  |
 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 | 2024-01-29 |  |
 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 | 2024-01-29 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/4ABlnAALPidU4luA6WgTyI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 3:51 | 2024-01-29 |  |
+| [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 | 2024-12-11 |  |
 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 | 2024-03-19 |  |
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2024-01-29 | 2024-03-20 |
 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 | 2024-01-29 |  |
@@ -64,6 +66,7 @@
 | [I Should Have Told You](https://open.spotify.com/track/7e6yzc8ipEp2sbasDMHjo4) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Should Have Told You](https://open.spotify.com/album/37hXIqnv6DJ7xZbcgaqE7O) | 3:26 | 2024-01-29 |  |
 | [I'll Be There](https://open.spotify.com/track/7n1hMxVl2T8dXLZ1giLg14) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [I'll Be There](https://open.spotify.com/album/6UiAUq5QdDMgJNezvXTnbc) | 2:35 | 2024-01-29 | 2024-08-15 |
 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2024-01-29 |  |
+| [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-12-11 |  |
 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 | 2024-01-29 |  |
 | [Jealous \(feat\. Harper\)](https://open.spotify.com/track/077qQHjUTzQVDbhWjDzSoz) | [TRXD](https://open.spotify.com/artist/29JlvmcJaB2Iv1dQZ8Jd8F), [Harper](https://open.spotify.com/artist/0nLSQ7A3JaZfFTH0D4381m) | [Jealous \(feat\. Harper\)](https://open.spotify.com/album/7ABu6SQQwNvzOTSE6gRUEu) | 3:11 | 2024-01-29 |  |
 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 | 2024-01-29 |  |

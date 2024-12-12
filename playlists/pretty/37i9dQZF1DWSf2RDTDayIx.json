@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2406160,
+  "num_followers": 2406180,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Heaven In Your Arms",
-        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 248415,
-      "name": "Heaven In Your Arms",
-      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 132417,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Heaven In Your Arms",
+        "url": "https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 248415,
+      "name": "Heaven In Your Arms",
+      "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/77P6QYerLrE4GGcFKgjAMK"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 162359,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3P0cwc2OPm7UUkXw9OyCA2"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Disco Inferno",
-        "url": "https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo"
-      },
-      "artists": [
-        {
-          "name": "Syzz",
-          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
-        },
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 131474,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Disco Inferno",
+        "url": "https://open.spotify.com/album/4lVZr7UdF9hRTsnXiVQCRo"
+      },
+      "artists": [
+        {
+          "name": "Syzz",
+          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+        },
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 131474,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/7qhFWlQpahKJT9LcL6qTH4"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2467,26 +2467,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "All Day (feat. Non\u00f4)",
-        "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
-      },
-      "artists": [
-        {
-          "name": "Welshy",
-          "url": "https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "All Day (feat. Non\u00f4)",
-      "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/12PQ5IbSS0mm4XMgQubpX9"
       },
@@ -2503,6 +2483,26 @@
       "duration_ms": 176041,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "All Day (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
+      },
+      "artists": [
+        {
+          "name": "Welshy",
+          "url": "https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "All Day (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2795,26 +2795,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Comanavago",
-          "url": "https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP"
-        }
-      ],
-      "duration_ms": 203909,
-      "name": "You Make Me Feel",
-      "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
       },
@@ -2831,6 +2811,26 @@
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Comanavago",
+          "url": "https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP"
+        }
+      ],
+      "duration_ms": 203909,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2995,26 +2995,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/1gQVJuNTz3pu93tO8EM4Yr"
-      },
-      "artists": [
-        {
-          "name": "Pink Flamingo Rhythm Revue",
-          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 210820,
-      "name": "Money Money",
-      "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Waste of Time",
         "url": "https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd"
       },
@@ -3031,6 +3011,26 @@
       "duration_ms": 226875,
       "name": "Waste of Time",
       "url": "https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/1gQVJuNTz3pu93tO8EM4Yr"
+      },
+      "artists": [
+        {
+          "name": "Pink Flamingo Rhythm Revue",
+          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 210820,
+      "name": "Money Money",
+      "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
     },
     {
       "added_at": "2024-11-15 04:00:00",

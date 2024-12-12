@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Pepe Aguilar en portada.",
-  "num_followers": 32012,
+  "num_followers": 32023,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-12-09 17:14:16",
       "album": {
-        "name": "Igual de gris",
-        "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 196395,
-      "name": "Igual de gris",
-      "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
-    },
-    {
-      "added_at": "2024-12-09 17:14:16",
-      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
+    },
+    {
+      "added_at": "2024-12-09 17:14:16",
+      "album": {
+        "name": "Igual de gris",
+        "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 196395,
+      "name": "Igual de gris",
+      "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
     },
     {
       "added_at": "2024-12-09 17:14:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-09 17:14:16",
       "album": {
-        "name": "K\u00e9 MaL",
-        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "K\u00e9 MaL",
-      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
-    },
-    {
-      "added_at": "2024-12-09 17:14:16",
-      "album": {
         "name": "Perder",
         "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 219272,
       "name": "Perder",
       "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+    },
+    {
+      "added_at": "2024-12-09 17:14:16",
+      "album": {
+        "name": "K\u00e9 MaL",
+        "url": "https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "K\u00e9 MaL",
+      "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
     },
     {
       "added_at": "2024-12-09 17:14:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-12-09 17:14:16",
       "album": {
-        "name": "El Pasadiscos",
-        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 270335,
-      "name": "El Pasadiscos",
-      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
-    },
-    {
-      "added_at": "2024-12-09 17:14:16",
-      "album": {
         "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
         "url": "https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 200853,
       "name": "Si Quieres Honestidad (Ni En Visto Me Dejaste...)",
       "url": "https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ"
+    },
+    {
+      "added_at": "2024-12-09 17:14:16",
+      "album": {
+        "name": "El Pasadiscos",
+        "url": "https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 270335,
+      "name": "El Pasadiscos",
+      "url": "https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ"
     },
     {
       "added_at": "2024-12-09 17:14:16",
@@ -1307,18 +1307,26 @@
     {
       "added_at": "2024-12-09 17:14:16",
       "album": {
-        "name": "ZEPPELIN",
-        "url": "https://open.spotify.com/album/6dAYN3og99K1zstz4PsAoV"
+        "name": "El para\u00edso #2",
+        "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Mikel Izal",
+          "url": "https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8"
+        },
+        {
+          "name": "Mar\u00eda de Juan",
+          "url": "https://open.spotify.com/artist/3JOaesg3hFdm9PjUAlAevb"
+        },
+        {
+          "name": "Liam Garner",
+          "url": "https://open.spotify.com/artist/01Ct72ERdVHRVlFDdl3cAF"
         }
       ],
-      "duration_ms": 192815,
-      "name": "ZEPPELIN",
-      "url": "https://open.spotify.com/track/0P3bHdCDEADNVs1pftBVee"
+      "duration_ms": 174629,
+      "name": "El para\u00edso #2",
+      "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
     }
   ],
   "unique_name": "Pop Rock Latino",

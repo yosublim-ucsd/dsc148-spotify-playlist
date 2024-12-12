@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: A\. Nayaka, Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,236 likes - 95 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,261 likes - 95 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-418 songs - 23 hr 49 min
+419 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,10 +270,11 @@
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-08-08 | 2022-11-14 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-01-05 |  |
 | [No Me Basta](https://open.spotify.com/track/4OF2droYNgQ3KnFvjnSYpj) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [No Me Basta](https://open.spotify.com/album/16iy9UDhShuzNRxYSvPzIk) | 2:42 | 2022-01-10 | 2022-07-28 |
+| [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 | 2024-07-12 |  |
 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 | 2022-01-10 |  |
 | [No, No Vuelve](https://open.spotify.com/track/4eTgIBf9ktps6iXWS4mvh7) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [No, No Vuelve](https://open.spotify.com/album/6koZt4CD76dwvrx3miwSac) | 3:48 | 2022-01-10 | 2022-07-26 |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-04-24 |  |
-| [Noches de bohemia \- Radio Edit](https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g) | [Navajita Platea](https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE) | [Desde Mi Azotea](https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH) | 4:07 | 2024-07-12 |  |
+| [Noches de bohemia \- Radio Edit](https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g) | [Navajita Platea](https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE) | [Desde Mi Azotea](https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH) | 4:07 | 2024-07-12 | 2024-12-12 |
 | [Oh, Pretty Woman](https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Oh, Pretty Woman](https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0) | 2:58 | 2022-08-08 | 2024-04-19 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-08-08 | 2023-04-25 |
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-12-22 | 2024-06-11 |

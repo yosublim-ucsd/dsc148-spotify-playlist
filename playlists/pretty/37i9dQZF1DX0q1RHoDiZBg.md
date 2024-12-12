@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,916 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,920 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 25 | [Heart Of Mine](https://open.spotify.com/track/4DEg4egOEGJIFu2VYF8yK5) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 5:30 |
 | 26 | [Things We Said Today](https://open.spotify.com/track/7JGfNWelhCfiykNk5QGleG) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Things We Said Today](https://open.spotify.com/album/4PBqDqlTpCHOw3MGTPE8K2) | 3:01 |
 | 27 | [Just Like Tom Thumb's Blues](https://open.spotify.com/track/1E1qWlczlv3IEpAZfQ5lJr) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Scattered](https://open.spotify.com/album/06iGGLNnQrEjhP9JkG7Kgo) | 5:39 |
-| 28 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
+| 28 | [Blowin' in the Wind \- 2004 Remaster](https://open.spotify.com/track/0XIe81wYNtdvIttRAUEau4) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:56 |
 | 29 | [To Ramona](https://open.spotify.com/track/1DNHSNJIRaA9AI6KBHXmSq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V), [Matthew Logan Vasquez](https://open.spotify.com/artist/4ndN8LWSsLWQqbWVJD8miG) | [To Ramona](https://open.spotify.com/album/6jsZz2IA32nYjLDh5JqNwE) | 5:08 |
 | 30 | [Baby, I'm In The Mood For You](https://open.spotify.com/track/50ZHlDg707OUDn61nba1gy) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings Dylan](https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34) | 2:48 |
 | 31 | [To Ramona](https://open.spotify.com/track/2YIFEhugIuCCMK7rttQSPz) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Cryin' to You](https://open.spotify.com/album/3SoEcGncHdNs6qEoRLaWlj) | 4:36 |

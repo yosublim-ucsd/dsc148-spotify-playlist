@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Dua Lipa",
-  "num_followers": 70296,
+  "num_followers": 70318,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "The Heritage Orchestra",
+          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
+        }
+      ],
+      "duration_ms": 422283,
+      "name": "Escapism. - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 260269,
       "name": "Leave The Door Open - Live",
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "The Heritage Orchestra",
-          "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
-        }
-      ],
-      "duration_ms": 422283,
-      "name": "Escapism. - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -361,20 +361,20 @@
       "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
     },
     {
-      "added_at": "2024-10-18 19:54:54",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+        "name": "Ego Talking (Live)",
+        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 221266,
-      "name": "Rehab - Live On Jools Holland",
-      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
+      "duration_ms": 175026,
+      "name": "Ego Talking - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Ego Talking (Live)",
-        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Ego Talking - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
+      "duration_ms": 221266,
+      "name": "Rehab - Live On Jools Holland",
+      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Touching Toes (Live At Eventim Apollo)",
+        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 147624,
+      "name": "Touching Toes - Live At Eventim Apollo",
+      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
+    },
+    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "#3 Deluxe Version",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "The Confessions Tour (Live)",
-        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live at Le Z\u00e9nith, Paris, France - October 1995",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "The Confessions Tour (Live)",
+        "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1009,22 +1025,6 @@
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Touching Toes (Live At Eventim Apollo)",
-        "url": "https://open.spotify.com/album/6JOZEsFyRJ39KnPWsf8cNp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 147624,
-      "name": "Touching Toes - Live At Eventim Apollo",
-      "url": "https://open.spotify.com/track/3gZIDRQ4rCN4ihSzritjc7"
-    },
-    {
       "added_at": "2024-10-18 19:54:54",
       "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Shakira In Concert: El Dorado World Tour",
         "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1135,6 +1103,38 @@
       "duration_ms": 258040,
       "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
       "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-10-18 19:54:54",

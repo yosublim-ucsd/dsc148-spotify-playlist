@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-548 songs - 21 hr 5 min
+549 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Muddy](https://open.spotify.com/track/506Z7ZBQuue7pbeBv3a0OM) | [Ritsou Lalai](https://open.spotify.com/artist/5aO7hHRToXlsRMfZ3Ah6aa) | [Muddy](https://open.spotify.com/album/6RXOUVWckGhNU2X4D69Xip) | 2:17 | 2023-03-08 |  |
 | [My head becomes lighter](https://open.spotify.com/track/6Xrf7TNhj07P2RQ1Th3O7L) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [My head becomes lighter](https://open.spotify.com/album/6j2Gzr52DLm3L7kRYxjsIc) | 2:13 | 2024-08-16 |  |
 | [My Love](https://open.spotify.com/track/4wGrZiGaO4WVm6mNfaDjch) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories](https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7) | 2:42 | 2021-12-07 | 2022-05-27 |
+| [My Perfect Garden](https://open.spotify.com/track/5KUkmUXh3rXdLa90AiTkEC) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [My Perfect Garden](https://open.spotify.com/album/2GdkjUkGhENbD1W4BQ5zVx) | 2:07 | 2024-12-11 |  |
 | [My Secret Garden](https://open.spotify.com/track/4d6SWT6p66wZFkIFecDbBi) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [My Secret Garden](https://open.spotify.com/album/5HIkW0PItJ2tfyKxLT79FK) | 1:58 | 2023-06-06 |  |
 | [mystery](https://open.spotify.com/track/1pMdQGhJ4kXbSwuh2ty1f3) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [mystery](https://open.spotify.com/album/4oFCCaThqBFoQtOEDtDIwF) | 1:57 | 2023-06-06 |  |
 | [Nameless and Forgotten](https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Nameless](https://open.spotify.com/album/183M1iml8n8Uoq1SLvkBRe) | 2:10 | 2022-09-02 |  |
@@ -461,7 +462,7 @@
 | [so far away](https://open.spotify.com/track/4kRlEBBhXOGeCeFaAAfUub) | [narpy](https://open.spotify.com/artist/6HooP8zYHkpZmM0I9H0tmo) | [so far away](https://open.spotify.com/album/4dcMtlFy6F3UnEZX6MQfXj) | 1:23 | 2022-09-16 |  |
 | [softie](https://open.spotify.com/track/5AgTeKNdnOV3gg8nst5VI8) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [softie](https://open.spotify.com/album/0WaNjvVVt9EsusgigIqpYL) | 2:21 | 2023-02-07 |  |
 | [some day soon](https://open.spotify.com/track/6kIM4Su7QfD7L737v6yhEo) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [some day soon](https://open.spotify.com/album/1FL0aUBLTkpFnABDM0460p) | 2:15 | 2022-08-19 | 2022-10-14 |
-| [Some Nights Are Warm](https://open.spotify.com/track/209FWTDtzXbP6Fs5HTGPla) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Some Nights Are Warm](https://open.spotify.com/album/179d2njETFvQgnvzaSNC8l) | 1:57 | 2024-06-28 |  |
+| [Some Nights Are Warm](https://open.spotify.com/track/209FWTDtzXbP6Fs5HTGPla) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Some Nights Are Warm](https://open.spotify.com/album/179d2njETFvQgnvzaSNC8l) | 1:57 | 2024-06-28 | 2024-12-12 |
 | [Some Say](https://open.spotify.com/track/0gSBc2xe2FvZXZpsloYAwu) | [Kathy Catchy](https://open.spotify.com/artist/3zDLVQgvm6DRcPgN1ypIBt) | [Some Say](https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN) | 2:38 | 2021-12-07 | 2023-06-07 |
 | [Some Things Don't Change](https://open.spotify.com/track/7zSOXHtoFlF1nnEKZSHCzn) | [Convoy Gold](https://open.spotify.com/artist/5ZEKAN1x3N50gFfs6VXTXC) | [My Computer](https://open.spotify.com/album/2qmNkqhC8vw2L0tq5qA12R) | 2:42 | 2021-12-07 | 2022-05-20 |
 | [sonar zone](https://open.spotify.com/track/3GGVT0QnHgcVzc3svCFzsd) | [Larid](https://open.spotify.com/artist/6sOC5JvEbDHGkQClRxWP49) | [sonar zone](https://open.spotify.com/album/2UoqAhmWLsEp8HJUeWe5mw) | 3:06 | 2022-01-28 |  |

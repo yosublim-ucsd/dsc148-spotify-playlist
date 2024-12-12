@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-89 songs - 4 hr 37 min
+90 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Boys Like You](https://open.spotify.com/track/33QE5K5TiGHsGwHf0nAsxj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:00 | 2024-09-17 |  |
 | [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 | 2024-09-17 |  |
 | [Change Shapes](https://open.spotify.com/track/0SQC9AaDUmNQKmV9Trq0j4) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/0n8UD97J6OxFKTmvSuTyz0) | 3:25 | 2024-09-17 | 2024-11-09 |
-| [Change Shapes](https://open.spotify.com/track/1lAxHqVPg6MyIZReDskKON) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/3ewT3hY7bOmIGGJaLUjvMj) | 3:25 | 2024-11-08 |  |
+| [Change Shapes](https://open.spotify.com/track/1lAxHqVPg6MyIZReDskKON) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/3ewT3hY7bOmIGGJaLUjvMj) | 3:25 | 2024-11-08 | 2024-12-12 |
+| [Change Shapes](https://open.spotify.com/track/2o86nd5msNOHPGVHpaQQ9p) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 3:25 | 2024-12-11 |  |
 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 | 2024-09-17 |  |
 | [Colorado](https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:52 | 2024-09-17 |  |
 | [Come As You Are](https://open.spotify.com/track/2Zqhpc70C1E9rsZpK6b4q4) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Come As You Are](https://open.spotify.com/album/6XaNdyhuuqggoEE4umcfjk) | 3:31 | 2024-09-17 |  |

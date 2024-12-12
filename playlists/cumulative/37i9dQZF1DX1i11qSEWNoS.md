@@ -4,7 +4,7 @@
 
 > und macht laune
 
-262 songs - 12 hr 14 min
+263 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-07-21 | 2023-11-11 |
 | [Gyal You a Party Animal \- Sped Up](https://open.spotify.com/track/7sn9yeYbto2CZVunHV0mAr) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal \(Sped Up\)](https://open.spotify.com/album/0gE5oJEIhlavq8ocpiU1NU) | 2:40 | 2023-07-21 | 2023-09-07 |
 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Froning](https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 | 2023-12-28 | 2024-01-02 |
+| [Head n' Shoulders, pt.II](https://open.spotify.com/track/7c5ne5Au1cXjV8YJY9spqa) | [Yc](https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Head n' Shoulders, pt.II](https://open.spotify.com/album/3GDJwHLrsp3XxytW5BEWGW) | 2:15 | 2024-12-09 |  |
 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 | 2024-06-11 | 2024-07-02 |
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-07-21 | 2024-10-11 |
 | [HERZ MACHT BAMM](https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [HERZ MACHT BAMM](https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11) | 2:44 | 2024-02-09 |  |
@@ -269,6 +270,6 @@
 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-07-21 | 2023-09-04 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-09-08 |  |
 | [Zelten auf Kies](https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Zelten auf Kies](https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY) | 2:17 | 2023-07-21 |  |
-| [ZOOM CALL](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [ZOOM CALL](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 | 2024-12-09 |  |
+| [ZOOM CALL](https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h) | [Whitey en vogue](https://open.spotify.com/artist/1ColxjJZKheMce3o7giApM), [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [ZOOM CALL](https://open.spotify.com/album/3YghzNFQ9wo5Cc0q5FGdFI) | 1:56 | 2024-12-09 | 2024-12-12 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

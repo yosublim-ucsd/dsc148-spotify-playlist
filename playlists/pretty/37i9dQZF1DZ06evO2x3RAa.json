@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1YzAAAAAAC90O1b11sW8BfUGON6WUEZ",
+  "snapshot_id": "Z1eEgAAAAAAUFRlIsWzJ40k51BYP8oUS",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd World",
-        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 568280,
-      "name": "Tell Them",
-      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Papa's Land",
         "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 497560,
       "name": "Papa's Land",
       "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3rd World",
+        "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 568280,
+      "name": "Tell Them",
+      "url": "https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8"
     },
     {
       "added_at": null,
